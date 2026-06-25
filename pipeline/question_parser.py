@@ -3,72 +3,62 @@ from __future__ import annotations
 import re
 
 from models.question import Question
-from pipeline.paragraph_builder import Paragraph
+
+
+QUESTION_NUMBER = re.compile(r"^\s*\d+\.")   # matches "1." and "1. Graphically..."
 
 
 class QuestionParser:
 
-    def __init__(self, paragraphs):
+    def __init__(self, section):
 
-        self.paragraphs = paragraphs
+        self.section = section
 
     def parse(self):
 
         questions = []
 
-        inside_exercise = False
+        current = None
 
         qid = 1
 
-        current = None
+        for block in self.section.blocks:
 
-        pattern = re.compile(r"(?m)^\s*(\d+)\.")
+            text = block.text.strip()
 
-        for para in self.paragraphs:
-
-            text = para.text.strip()
-
-            if "EXERCISE" in text.upper():
-                inside_exercise = True
-
-            if not inside_exercise:
+            if not text:
                 continue
 
-            # Split a paragraph into multiple questions
-            matches = list(pattern.finditer(text))
-
-            if not matches:
+            if QUESTION_NUMBER.match(text):
 
                 if current:
-                    current.question += "\n" + text
-                    current.page_end = para.page
 
-                continue
-
-            for i, m in enumerate(matches):
-
-                start = m.start()
-
-                end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-
-                qtext = text[start:end].strip()
-
-                if current:
                     questions.append(current)
 
                 current = Question(
                     id=qid,
                     source="NCERT Exemplar",
                     chapter="",
-                    page_start=para.page,
-                    page_end=para.page,
+                    page_start=block.page,
+                    page_end=block.page,
                     question_type="unknown",
-                    question=qtext
+                    question=text      # includes the question number and the full line
                 )
 
                 qid += 1
 
+                continue
+
+            if current is None:
+
+                continue
+
+            current.question += text + "\n"
+
+            current.page_end = block.page
+
         if current:
+
             questions.append(current)
 
-        return questions
+        return questions   # clean ending, no extra code
