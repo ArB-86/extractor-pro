@@ -2,7 +2,7 @@ from parsers.pdf_parser import PDFParser
 from pipeline.paragraph_builder import ParagraphBuilder
 from pipeline.question_parser import QuestionParser
 from pipeline.section_parser import SectionParser   # new import
-
+from pipeline.layout_cleaner import LayoutCleaner
 from pipeline.block_splitter import BlockSplitter
 
 
@@ -13,7 +13,7 @@ blocks = PDFParser(PDF).extract()
 
 blocks = BlockSplitter(blocks).process()
 
-sections = SectionParser(blocks).parse()
+blocks = LayoutCleaner(blocks).process()
 
 all_questions = []
 

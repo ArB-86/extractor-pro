@@ -1,13 +1,4 @@
-from __future__ import annotations
-
 from dataclasses import dataclass, field
-from typing import List, Optional
-
-
-@dataclass(slots=True)
-class Option:
-    label: str
-    text: str
 
 
 @dataclass(slots=True)
@@ -19,6 +10,8 @@ class Question:
 
     chapter: str
 
+    exercise: str
+
     page_start: int
 
     page_end: int
@@ -27,16 +20,8 @@ class Question:
 
     question: str
 
-    options: List[Option] = field(default_factory=list)
+    options: dict = field(default_factory=dict)
 
-    answer: Optional[str] = None
+    answer: str | None = None
 
-    solution: Optional[str] = None
-
-    difficulty: Optional[str] = None
-
-    topic: Optional[str] = None
-
-    tags: List[str] = field(default_factory=list)
-
-    metadata: dict = field(default_factory=dict)
+    solution: str | None = None

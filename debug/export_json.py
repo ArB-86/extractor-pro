@@ -1,9 +1,10 @@
-
 from parsers.pdf_parser import PDFParser
 from pipeline.block_splitter import BlockSplitter
 from pipeline.layout_cleaner import LayoutCleaner
 from pipeline.section_parser import SectionParser
 from pipeline.question_parser import QuestionParser
+from pipeline.enricher import QuestionEnricher
+from exporters.json_exporter import JSONExporter
 
 PDF = "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/10th_maths/jeep203.pdf"
 
@@ -13,17 +14,18 @@ blocks = LayoutCleaner(blocks).process()
 
 sections = SectionParser(blocks).parse()
 
+questions = []
+
 for section in sections:
+    questions.extend(
+        QuestionParser(section).parse()
+    )
 
-    print("=" * 80)
-    print(section.title)
-    print("=" * 80)
+questions = QuestionEnricher().process(questions)
 
-    questions = QuestionParser(section).parse()
+JSONExporter().export(
+    questions,
+    "chapter3.json"
+)
 
-    for q in questions:
-
-        first = q.question.splitlines()[0]
-
-        print(f"{q.id:3d} | {first[:80]}")
-
+print("Saved", len(questions), "questions")

@@ -3,6 +3,7 @@ from pipeline.block_splitter import BlockSplitter
 from parsers.pdf_parser import PDFParser
 from pipeline.section_parser import SectionParser
 from pipeline.question_parser import QuestionParser
+from pipeline.layout_cleaner import LayoutCleaner
 
 PDF = "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/10th_maths/jeep203.pdf"
 
@@ -10,7 +11,7 @@ blocks = PDFParser(PDF).extract()
 
 blocks = BlockSplitter(blocks).process()
 
-sections = SectionParser(blocks).parse()
+blocks = LayoutCleaner(blocks).process()
 
 print("=" * 80)
 print("SECTION SUMMARY")
