@@ -5,60 +5,55 @@ import re
 from models.question import Question
 
 
-QUESTION_NUMBER = re.compile(r"^\s*\d+\.")   # matches "1." and "1. Graphically..."
+# Match standalone question numbers like "1.", "10.", "23." even when followed by text.
+# Examples:
+#   "1."            ?
+#   "1. Graphically" ?
+#   "7. If the lines" ?
+# Does NOT match:
+#   "0.6"           ?
+#   "x=1.2"         ?
+QUESTION_START = re.compile(r"^\s*([1-9][0-9]*)\.(?:\s|\n|$)")
 
 
 class QuestionParser:
 
     def __init__(self, section):
-
         self.section = section
 
     def parse(self):
-
         questions = []
-
         current = None
 
-        qid = 1
-
         for block in self.section.blocks:
-
             text = block.text.strip()
-
             if not text:
                 continue
 
-            if QUESTION_NUMBER.match(text):
+            m = QUESTION_START.match(text)
 
+            if m:
+                # Start a new question
                 if current:
-
                     questions.append(current)
 
                 current = Question(
-                    id=qid,
+                    id=int(m.group(1)),
                     source="NCERT Exemplar",
-                    chapter="",
+                    chapter=self.section.title,
                     page_start=block.page,
                     page_end=block.page,
                     question_type="unknown",
-                    question=text      # includes the question number and the full line
+                    question=text   # preserves the number and any following text
                 )
-
-                qid += 1
-
                 continue
 
-            if current is None:
-
-                continue
-
-            current.question += text + "\n"
-
-            current.page_end = block.page
+            # Not a question start – append to the current question if it exists
+            if current:
+                current.question += "\n" + text
+                current.page_end = block.page
 
         if current:
-
             questions.append(current)
 
-        return questions   # clean ending, no extra code
+        return questions

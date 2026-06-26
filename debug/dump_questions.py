@@ -3,12 +3,16 @@ from pipeline.paragraph_builder import ParagraphBuilder
 from pipeline.question_parser import QuestionParser
 from pipeline.section_parser import SectionParser   # new import
 
+from pipeline.block_splitter import BlockSplitter
+
+
+
 PDF = "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/10th_maths/jeep203.pdf"
 
 blocks = PDFParser(PDF).extract()
 
-# Instead of building paragraphs directly and parsing all at once,
-# we first split into sections using the raw blocks.
+blocks = BlockSplitter(blocks).process()
+
 sections = SectionParser(blocks).parse()
 
 all_questions = []
