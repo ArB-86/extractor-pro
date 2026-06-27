@@ -1,5 +1,4 @@
 import json
-from dataclasses import asdict
 
 
 class JSONExporter:
@@ -9,7 +8,21 @@ class JSONExporter:
         data = []
 
         for q in questions:
-            data.append(asdict(q))
+            data.append({
+                "id": q.id,
+                "source": q.source,
+                "chapter": q.chapter,
+                "exercise": q.exercise,
+                "page_start": q.page_start,
+                "page_end": q.page_end,
+                "question_type": q.question_type,
+                "difficulty": q.difficulty,
+                "topic": q.topic,
+                "question": q.question,
+                "options": q.options,
+                "answer": q.answer,
+                "solution": q.solution
+            })
 
         with open(output_file, "w", encoding="utf8") as f:
             json.dump(

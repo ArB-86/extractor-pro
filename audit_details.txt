@@ -1,0 +1,728 @@
+========================================================================================================================
+FILE                Q   EMPTY   SHORT    LONG   MCQMISS   DUPID  DUPTXT  BADPAGE   QUALITY
+========================================================================================================================
+
+================================================================================
+chapter3
+Exercise=EXERCISE 3.1 ID=13
+Length: 1237
+13. The father’s age is six times his son’s age. Four years hence, the age of the father
+will be four times his son’s age. The present ages, in years, of the son and the
+father are, respectively
+(A) 4 and 24
+(B) 5 and 30
+(C) 6 and 36
+(D) 3 and 24
+(C) Short Answer  Questions with Reasoning
+Sample Question 1: Is it true to say that the pair of equations
+– x + 2y + 2 = 0 and 1
+1
+–
+–1
+0
+2
+4
+x
+y
+=
+has a unique solution? Justify your answer.
+Solution : Yes.
+a
+a =
+= –2,
+b
+b =
+= – 8
+–1
+Here,
+1
+2
+1
+– 4
+a
+
+================================================================================
+chapter3
+Exercise=EXERCISE 3.2 ID=6
+Length: 2646
+6.
+The line represented by x = 7 is parallel to the x–axis. Justify whether the
+statement is true or not.
+(D) Short Answer Questions
+Sample Question 1 : For which values of p and q, will the following pair of linear
+equations have infinitely many solutions?
+4x + 5y = 2
+(2p + 7q) x + (p + 8q) y = 2q – p + 1.
+Solution :
+4
+2
+7
+=
++
+a
+a
+p
+q
+Here,
+8
+=
++
+b
+b
+p
+q
+2
+2
+1
+=
++
+c
+c
+q – p
+For a pair of linear equations to have infinitely many solutions
+2
+2
+2
+=
+=
+a
+b
+c
+a
+b
+c
+1
+1
+1
+4
+2
+7
++
+p
+q
+2
+2
+1
+=
++
+q – p
+8
+
+================================================================================
+chapter3
+Exercise=EXERCISE 3.3 ID=22
+Length: 4803
+22. The angles of a cyclic quadrilateral ABCD are
+∠A = (6x + 10)°,
+∠B = (5x)°
+∠C = (x + y)°,
+∠D = (3y – 10)°
+Find x and y, and hence the values of the four angles.
+(E) Long Answer Questions
+Sample Question 1 : Draw the graphs of the lines x = –2 and y = 3. Write the
+vertices of the figure formed by these lines, the x-axis and the y-axis. Also, find the
+area of the figure.
+Solution  :
+We know that the graph of x = –2 is a line parallel to y-axis at a distance of 2 units
+to the left of it.
+So, the
+chapter3           54       0       0       3         0       0       0        0     94.4%
+
+================================================================================
+jeep201
+Exercise=EXERCISE 1.2 ID=10
+Length: 1533
+10. A rational number in its decimal expansion is 327.7081. What can you say about
+p
+q ? Give reasons.
+the prime factors of q, when this number is expressed in the form
+REAL NUMBERS
+5
+(D) Short Answer  Questions
+Sample Question 1: Using Euclid’s division algorithm, find which of the following
+pairs of numbers are co-prime:
+(i) 231, 396         (ii) 847, 2160
+Solution : Let us find the HCF of each pair of numbers.
+(i)
+396 = 231 × 1 + 165
+231 = 165 × 1 + 66
+165 = 66 × 2 + 33
+66 = 33 × 2 + 0
+Theref
+jeep201            38       0       0       1         0       0       0        0     97.4%
+
+================================================================================
+jeep202
+Exercise=EXERCISE 2.1 ID=8
+Length: 1358
+8. The zeroes of the quadratic polynomial x2 + kx + k, k ≠ 0,
+(A) cannot both be positive
+(B) cannot both be negative
+(C) are always unequal
+(D) are always equal
+9. If the zeroes of the quadratic polynomial ax2 + bx + c, c ≠ 0 are equal, then
+(A) c and a have opposite signs
+(B) c and b have opposite signs
+(C) c and a have the same sign
+(D) c and b have the same sign
+10. If one of the zeroes of a quadratic polynomial of the form x2+ax + b is the negative
+of the other, then it
+(A) has no linear te
+
+================================================================================
+jeep202
+Exercise=EXERCISE 2.2 ID=2
+Length: 1507
+2.
+Are the following statements ‘True’ or ‘False’? Justify your answers.
+(i)
+If the zeroes of a quadratic polynomial ax2 + bx + c are both positive,
+then a, b and c all have the same sign.
+(ii)
+If the graph of a polynomial intersects the x-axis at only one point, it
+cannot be a quadratic polynomial.
+(iii)
+If the graph of a polynomial intersects the x-axis at exactly two points,
+it need not be a quadratic polynomial.
+(iv)
+If two of the zeroes of a cubic polynomial are zero, then it does not
+have 
+jeep202            24       0       1       2         0       0       0        0     87.5%
+
+================================================================================
+jeep203
+Exercise=EXERCISE 3.1 ID=13
+Length: 1237
+13. The father’s age is six times his son’s age. Four years hence, the age of the father
+will be four times his son’s age. The present ages, in years, of the son and the
+father are, respectively
+(A) 4 and 24
+(B) 5 and 30
+(C) 6 and 36
+(D) 3 and 24
+(C) Short Answer  Questions with Reasoning
+Sample Question 1: Is it true to say that the pair of equations
+– x + 2y + 2 = 0 and 1
+1
+–
+–1
+0
+2
+4
+x
+y
+=
+has a unique solution? Justify your answer.
+Solution : Yes.
+a
+a =
+= –2,
+b
+b =
+= – 8
+–1
+Here,
+1
+2
+1
+– 4
+a
+
+================================================================================
+jeep203
+Exercise=EXERCISE 3.2 ID=6
+Length: 2646
+6.
+The line represented by x = 7 is parallel to the x–axis. Justify whether the
+statement is true or not.
+(D) Short Answer Questions
+Sample Question 1 : For which values of p and q, will the following pair of linear
+equations have infinitely many solutions?
+4x + 5y = 2
+(2p + 7q) x + (p + 8q) y = 2q – p + 1.
+Solution :
+4
+2
+7
+=
++
+a
+a
+p
+q
+Here,
+8
+=
++
+b
+b
+p
+q
+2
+2
+1
+=
++
+c
+c
+q – p
+For a pair of linear equations to have infinitely many solutions
+2
+2
+2
+=
+=
+a
+b
+c
+a
+b
+c
+1
+1
+1
+4
+2
+7
++
+p
+q
+2
+2
+1
+=
++
+q – p
+8
+
+================================================================================
+jeep203
+Exercise=EXERCISE 3.3 ID=22
+Length: 4803
+22. The angles of a cyclic quadrilateral ABCD are
+∠A = (6x + 10)°,
+∠B = (5x)°
+∠C = (x + y)°,
+∠D = (3y – 10)°
+Find x and y, and hence the values of the four angles.
+(E) Long Answer Questions
+Sample Question 1 : Draw the graphs of the lines x = –2 and y = 3. Write the
+vertices of the figure formed by these lines, the x-axis and the y-axis. Also, find the
+area of the figure.
+Solution  :
+We know that the graph of x = –2 is a line parallel to y-axis at a distance of 2 units
+to the left of it.
+So, the
+jeep203            54       0       0       3         0       0       0        0     94.4%
+
+================================================================================
+jeep204
+Exercise=EXERCISE 4.3 ID=2
+Length: 2051
+2.
+Find the roots of the following quadratic equations by the factorisation method:
+(i)   2x2 + 5
+2
+2
+5 x  – x – 3
+3 x  – 2 = 0
+(ii)
+5  = 0
+(iii) 
+2
+3 2x  – 5x – 
+2   = 0
+(iv)  3x2 + 5 5x  – 10 = 0
+(v)  21x2 – 2x + 1
+21  = 0
+(E) Long Answer Questions
+Sample Question 1 : Check whether the equation 6x2 – 7x + 2 = 0 has real roots, and
+if it has, find them by the method of completing the squares.
+Solution : The discriminant = b2 – 4ac = 49 – 4 × 6 × 2 = 1 > 0
+So, the given equation has two distinct
+jeep204            28       0       0       1         0       0       0        0     96.4%
+
+================================================================================
+jeep205
+Exercise=EXERCISE 5.1 ID=18
+Length: 1735
+18. The sum of first five multiples of 3 is
+(A)  45
+(B)  55
+(C)  65
+(D)  75
+(C) Short Answer Questions with Reasoning
+Sample Question 1: In the AP: 10, 5, 0, –5, ... the common difference d is equal to 5.
+Justify whether the above statement is true or false.
+Solution :
+a2 – a1 = 5 – 10 = – 5
+a3 – a2 = 0 – 5 = – 5
+a4 – a3 = –5 – 0 = – 5
+Although the given list of numbers forms an AP, it is with d = –5 and not with d = 5
+So, the given statement is false.
+Sample Question 2 : Divya deposited Rs 1000
+
+================================================================================
+jeep205
+Exercise=EXERCISE 5.2 ID=8
+Length: 1349
+8.
+Justify whether it is true to say that the following are the nth terms of an AP.
+(i) 2n–3
+(ii)   3n2+5
+(iii)  1+n+n2
+(D) Short Answer Questions
+Sample Question 1 : If the numbers  n – 2, 4n – 1 and 5n + 2 are in AP, find the
+value of n.
+Solution :
+As n – 2, 4n – 1, 5n + 2 are in AP,
+so
+(4n – 1) – (n – 2) = (5n + 2) – (4n – 1)
+i.e,
+3n + 1 = n + 3
+i.e,
+n = 1
+Sample Question 2 :  Find the value of the middle most term (s) of the AP :
+–11, –7, –3,..., 49.
+Solution :
+Here, a = –11, d = –7 – (–11) 
+
+================================================================================
+jeep205
+Exercise=EXERCISE 5.3 ID=35
+Length: 1526
+35. Yasmeen saves Rs 32 during the first month, Rs 36 in the second month and
+Rs 40 in the third month. If she continues to save in this manner, in how many
+months will she save Rs 2000?
+(E) Long Answer Questions
+Sample Question 1: The sum of four consecutive numbers in an AP is 32 and the
+ratio of the product of the first and the last terms to the product of the two middle terms
+is 7 : 15. Find the numbers.
+Solution: Let the four consecutive numbers in AP be
+a –3d, a – d, a + d, a + 3d.
+ARITHME
+jeep205            71       0       0       3         0       0       0        0     95.8%
+
+================================================================================
+jeep206
+Exercise=EXERCISE 6.2 ID=12
+Length: 1889
+12.
+Is it true to say that if in two triangles, an angle of
+one triangle is equal to an angle of another triangle
+and two sides of one triangle are proportional to the
+two sides of the other triangle, then the triangles
+are similar? Give reasons for your answer.
+(D)
+Short Answer Questions
+Sample Question 1: Legs (sides other than the hypotenuse) of a right triangle are of
+lengths 16cm and 8 cm. Find the length of the side of the largest square that can be
+inscribed in the triangle.
+Solution:  Le
+
+================================================================================
+jeep206
+Exercise=EXERCISE 6.3 ID=15
+Length: 2524
+15.
+Foot of a 10 m long ladder leaning against a vertical wall is 6 m away from
+the base of the wall. Find the height of the point on the wall where the top of
+the ladder reaches.
+(E) Long Answer Questions
+Sample Question 1:  In Fig 6.13,  OB is the perpendicular bisector of the line
+segment DE, FA ⊥ OB and F E intersects OB at the point C. Prove that
+1
+1
+2
+OA
+OB
+OC
++
+=
+.
+Solution: In ∆ AOF and ∆ BOD.
+∠O = ∠O (Same angle) and ∠A = ∠B (each 90°)
+Therefore, ∆ AOF ~ ∆ BOD (AA similarity)
+So,
+OA
+FA
+
+jeep206            57       0       0       2         0       0       0        0     96.5%
+
+================================================================================
+jeep207
+Exercise=EXERCISE 7.2 ID=12
+Length: 2124
+12. The points A (–1, –2), B (4, 3), C (2, 5) and D (–3, 0) in that order form a
+rectangle.
+(D) Short Answer Questions
+Sample Question 1 : If the mid-point of the line segment joining the points  A (3, 4) and
+B (k, 6) is P (x, y) and x + y – 10 = 0, find the value of k.
+3
+4
+6
+,
+2
+2
+k
++
++
+Solution : Mid-point of the line segment joining A (3, 4) and B (k, 6) =
+3
+,5
+2
+k
++
+=
+3
+,5
+2
+k
++
+ 
+ 
+ 
+ 
+ 
+  = (x, y)
+Then,
+k
++
+ = x and 5 = y.
+Therefore,
+3
+Since x + y – 10 = 0, we have
+k
++
+ + 5 – 10 = 0
+i.e.,
+
+jeep207            38       0       0       1         0       0       0        0     97.4%
+
+================================================================================
+jeep208
+Exercise=EXERCISE 8.1 ID=15
+Length: 1675
+15. A pole 6 m high casts a shadow 2 3 m long on the ground, then the Sun’s
+elevation is
+(A\)
+60°
+(B)
+45°
+(C)
+30°
+(D)
+90°
+(C) Short Answer Questions with Reasoning
+Write ‘True’ or ‘False’ and justify your answer.
+Sample Question 1 : The value of sinθ + cosθ is always greater than 1.
+Solution : False.
+The value of (sinθ + cosθ) for θ = 0° is 1.
+Sample Question 2 : The value of tanθ (θ < 90°) increases as θ
+increases.
+Solution : True.
+In Fig. 8.2, B is moved closer to C along BC. It is observed th
+
+================================================================================
+jeep208
+Exercise=EXERCISE 8.2 ID=12
+Length: 1328
+12. If the height of a tower and the distance of the point of observation from its foot,
+both, are increased by 10%, then the angle of elevation of its top remains unchanged.
+(D) Short  Answer  Questions
+Sample Question 1 : Prove that sin6θ + cos6θ + 3sin2θ cos2θ = 1
+Solution : We know that  sin2θ + cos2θ = 1
+Therefore,
+(sin2θ + cos2θ)3 = 1
+or, (sin2θ)3 + (cos2θ)3 + 3sin2θ cos2θ (sin2θ + cos2θ) = 1
+or,
+sin6θ + cos6 θ + 3sin2θ  cos2θ  = 1
+Sample Question 2 : Prove that (sin4θ – cos4θ +1) cosec2θ 
+
+================================================================================
+jeep208
+Exercise=EXERCISE 8.3 ID=15
+Length: 1910
+15. Show that tan4θ + tan2θ = sec4θ – sec2θ.
+(E) Long Answer Questions
+Sample Question 1 : A spherical balloon of radius r subtends an angle θ at the eye of
+an observer. If the angle of elevation of its centre is φ, find the height of the centre of
+the balloon.
+Solution :  In Fig. 8.3, O is the centre of balloon, whose radius OP = r and ∠PAQ = θ.
+Also, ∠OAB = φ.
+Let the height of the centre of the balloon be h. Thus OB = h.
+θ  = r
+Now, from ∆OAP, sin 2
+d , where OA = d
+ (1)
+Also from ∆OAB, sin 
+jeep208            60       0       3       3         0       0       0        0     90.0%
+jeep209            44       0       0       0         0       0       0        0    100.0%
+jeep210            21       0       0       0         0       0       0        0    100.0%
+
+================================================================================
+jeep211
+Exercise=EXERCISE 11.2 ID=14
+Length: 1620
+14.
+Is it true to say that area of a square inscribed in a circle of diameter p cm is
+p2 cm2? Why?
+(D) Short Answer Questions
+Sample Question 1: Find the diameter of the circle whose area is equal to the sum of
+the areas of the two circles of diameters 20 cm and 48 cm.
+Solution :  Here, radius r1 of first circle = 20
+2  cm = 10 cm and radius  r2 of the
+second circle = 48
+2  cm = 24 cm
+Therefore, sum of their areas = 
+2
+2
+2
+2
+1
+2
+
+
+
+
+
+
++
+=
++
+=
+×
+r
+r
+  (1)
+Let the radius of the new
+
+================================================================================
+jeep211
+Exercise=EXERCISE 11.3 ID=16
+Length: 3159
+16.
+A piece of wire 20 cm long is bent into the form of an arc of a circle subtending
+an angle of 60° at its centre. Find the radius of the circle.
+(E) Long Answer Questions
+Sample Question 1 :   A chord of a circle of radius 20 cm subtends an angle of 90°
+at the centre. Find the area of the corresponding major segment of the circle.
+(Use π = 3.14).
+AREA RELATED TO CIRCLES
+129
+Solution : Let A B be the chord of a circle of radius 10 cm, with O as the centre of the
+circle (see Fig. 11.14).
+Here, 
+
+[DUPLICATE ID] jeep211 Exercise=EXERCISE 11.4 ID=2
+
+[DUPLICATE ID] jeep211 Exercise=EXERCISE 11.4 ID=2
+jeep211            62       0       0       2         0       2       0        0     93.5%
+
+================================================================================
+jeep212
+Exercise=EXERCISE 12.1 ID=20
+Length: 1880
+20.
+Volumes of two spheres are in the ratio 64:27. The ratio of their surface areas is
+(A) 3 : 4
+(B) 4 : 3
+(C) 9 : 16
+(D) 16 : 9
+SURFACE AREAS AND VOLUMES
+141
+(C) Short Answer Questions with Reasoning
+Write ‘True’ or ‘False’ and justify your answer.
+Sample Question 1 : If a solid cone of base radius r and height h is placed over a
+solid cylinder having same base radius and height as that of the cone, then the curved
+surface area of the shape is 
+2
+2
+
+
+r h
+r
+rh
++
++
+.
+Solution : True. Since the
+
+================================================================================
+jeep212
+Exercise=EXERCISE 12.2
+Write ‘True’ or ‘False’ and justify your answer in the following: ID=8
+Length: 3332
+8.
+An open metallic bucket is in the shape of a frustum of a cone, mounted on a
+hollow cylindrical base made of the same metallic sheet. The surface area of the
+metallic sheet used is equal to
+curved surface area of frustum of a cone + area of circular base + curved surface
+area of cylinder
+(C) Short Answer Questions
+Sample Question 1 :  A cone of maximum size is carved out from a cube of edge
+14 cm. Find the surface area of the cone and of the remaining solid left out after the
+cone carved out.
+
+================================================================================
+jeep212
+Exercise=EXERCISE 12.3 ID=14
+Length: 3237
+14.
+Find the number of metallic circular disc with 1.5 cm base diameter and of height
+0.2 cm to be melted to form a right circular cylinder of height 10 cm and diameter
+4.5 cm.
+(E) Long Answer Questions
+Sample Question 1 : A bucket is in the form of a frustum of a cone of height 30 cm
+with radii of its lower and upper ends as 10 cm and 20 cm, respectively. Find the
+capacity and surface area of the bucket. Also, find the cost of milk which can completely
+fill the container, at the rate of Rs 25 p
+jeep212            60       0       0       3         0       0       0        0     95.0%
+
+================================================================================
+jeep213
+Exercise=EXERCISE 13.1 ID=26
+Length: 1424
+26. A school has five houses A, B, C, D and E. A class has 23 students, 4 from house
+A, 8 from house B, 5 from house C, 2 from house D and rest from house E. A
+single student is selected at random to be the class monitor. The probability that the
+selected student is not from A, B and C is
+(A)
+4
+23
+(B)
+6
+23
+(C)
+8
+23
+(D)
+17
+(C) Short Answer Questions with Reasoning
+Sample Question 1: The mean of  ungrouped data and the mean calculated when the
+same data is grouped are always the same. Do you agree
+
+================================================================================
+jeep213
+Exercise=EXERCISE 13.2 ID=13
+Length: 3277
+13. If I toss a coin 3 times and get head each time, should I expect a tail to have a
+higher chance in the 4th toss? Give reason in support of your answer.
+14. A bag contains slips numbered from 1 to 100. If Fatima chooses a slip at random
+from the bag, it will either be an odd number or an even number. Since this situation
+has only two possible outcomes, so, the probability of each is 1
+2 . Justify.
+(D) Short Answer Questions
+Sample Question 1 : Construct the cumulative frequency distribution o
+jeep213            76       0       0       2         0       0       0        0     97.4%
+jeep214             0       0       0       0         0       0       0        0    100.0%
+jeep215             0       0       0       0         0       0       0        0    100.0%
+========================================================================================================================
+TOTAL QUESTIONS : 687
+EMPTY          : 0
+SHORT          : 4
+LONG           : 26
+MCQ MISSING    : 0
+DUP IDS        : 2
+DUP TEXT       : 0
+BAD PAGE       : 0

@@ -18,10 +18,20 @@ class Question:
 
     question_type: str
 
-    question: str
+    difficulty: str = ""
+
+    topic: str = ""
+
+    question: str = ""
 
     options: dict = field(default_factory=dict)
 
     answer: str | None = None
 
     solution: str | None = None
+
+    figure: str | None = None
+
+    figure_bbox: tuple | None = None
+
+    figure_page: int | None = None

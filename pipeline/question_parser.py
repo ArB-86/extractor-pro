@@ -31,6 +31,24 @@ class QuestionParser:
             if not text:
                 continue
 
+            # ---------------------------------------------------
+            # Stop parsing when exemplar sample questions begin
+            # ---------------------------------------------------
+            if text.startswith("(C) Short Answer"):
+                break
+
+            if text.startswith("(D) Short Answer"):
+                break
+
+            if text.startswith("(E) Long Answer"):
+                break
+
+            if text.startswith("Sample Question"):
+                break
+
+            if text.startswith("Solution"):
+                break
+
             m = QUESTION_START.match(text)
 
             if m:

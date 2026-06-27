@@ -1,0 +1,361 @@
+Blocks: 342
+================================================================================
+BLOCK 0
+'SET-I'
+================================================================================
+BLOCK 1
+'DESIGN OF THE QUESTION PAPER\nMathematics\nClass X'
+================================================================================
+BLOCK 2
+'Time : 3 Hours\nMaximum Marks : 80'
+================================================================================
+BLOCK 3
+'Weightage and the distribution of marks over different dimensions of the question\nshall be as follows:'
+================================================================================
+BLOCK 4
+'(A) Weightage to Content/ Subject Units :'
+================================================================================
+BLOCK 5
+'S.No.\nContent Unit\nMarks'
+================================================================================
+BLOCK 6
+'1.\nNumber Systems\n04'
+================================================================================
+BLOCK 7
+'2.\nAlgebra\n20\n3.\nTrigonometry\n12\n4.\nCoordinate Geometry\n08\n5.\nGeometry\n16\n6.\nMensuration\n10\n7.\nStatistics and Probability\n10\n                                               Total : 80'
+================================================================================
+BLOCK 8
+'(B) Weightage to Forms of Questions :'
+================================================================================
+BLOCK 9
+'S.No.\nForm of\nMarks for each\nNumber of\nTotal Marks\nQuestions\nQuestion\nQuestions'
+================================================================================
+BLOCK 10
+'1.\nMCQ\n01\n10\n10'
+================================================================================
+BLOCK 11
+'2.\nSAR\n02\n05\n10\n3.\nSA\n03\n10\n30'
+================================================================================
+BLOCK 12
+'4.\nLA\n  06\n05\n30\nTotal\n   30\n    80'
+================================================================================
+BLOCK 13
+'(C) Scheme of Options'
+================================================================================
+BLOCK 14
+'All questions are compulsory, i.e., there is no overall choice. However, internal choices\nare provided in one question of 2 marks, three questions of 3 marks each and two\nquestions of 6 marks each.'
+================================================================================
+BLOCK 15
+'(D) Weightage to Difficulty Level of Questions'
+================================================================================
+BLOCK 16
+'S.No.\nEstimated Difficulty\nPercentage of Marks\nLevel of Questions'
+================================================================================
+BLOCK 17
+'1.\nEasy\n20'
+================================================================================
+BLOCK 18
+'2.\nAverage\n60'
+================================================================================
+BLOCK 19
+'3.\nDifficult\n20'
+================================================================================
+BLOCK 20
+'Note : A question may vary in difficulty level from individual to individual. As such, the\nassessment in respect of each will be made by the paper setter/ teacher on the basis of\ngeneral anticipation from the groups as whole taking the examination. This provision is\nonly to make the paper balanced in its weight, rather to determine the pattern of marking\nat any stage.'
+================================================================================
+BLOCK 21
+'DESIGN OF THE QUESTION PAPER, SET-I\n205'
+================================================================================
+BLOCK 22
+'BLUE PRINT'
+================================================================================
+BLOCK 23
+'MATHEMATICS'
+================================================================================
+BLOCK 24
+'CLASS X'
+================================================================================
+BLOCK 25
+'Form of Question\nUnits\n\uf04d\uf043\uf051\n\uf053\uf041\uf052\n\uf053\uf041\n\uf020\uf04c\uf041\n\uf054\uf06f\uf074\uf061\uf06c'
+================================================================================
+BLOCK 26
+'Number Systems\n2(2)\n2(1)\n-\n-\n4(3)'
+================================================================================
+BLOCK 27
+'Algebra\n3(3)\n2(1)\n9(3)\n6(1)\n20(8)\nPolynomials, Pair of\nLinear Equations in\nTwo Variables,\nQuadratic Equations,\nArithmatic Progressions'
+================================================================================
+BLOCK 28
+'Trigonometry\n1(1)\n2(1)\n3(1)\n6(1)\n12(4)\nIntroduction to Trigonometry,\nSome Applications of\nTrigonometry'
+================================================================================
+BLOCK 29
+'Coordinate Geometry\n1(1)\n4(2)\n3(1)\n-\n8(4)'
+================================================================================
+BLOCK 30
+'Geometry\n1(1)\n-\n9(3)\n6(1)\n16(5)\nTriangles, Circles,\nConstructions'
+================================================================================
+BLOCK 31
+'Mensuration\n1(1)\n-\n3(1)\n6(1)\n10(3)\nAreas related to Circles,\nSurface Areas and Volumes'
+================================================================================
+BLOCK 32
+'Statistics & Probability\n1(1)\n-\n3(1)\n6(1)\n10(3)'
+================================================================================
+BLOCK 33
+'Total\n10(10)\n10(5)\n30(10)\n30(5)\n80(30)'
+================================================================================
+BLOCK 34
+'\uf053\uf055\uf04d\uf04d\uf041\uf052\uf059\n\uf04d\uf075\uf06c\uf074\uf069\uf070\uf06c\uf065\uf020\uf043\uf068\uf06f\uf069\uf063\uf065\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf028\uf04d\uf043\uf051\uf029\n\uf04e\uf075\uf06d\uf062\uf065\uf072\uf020\uf06f\uf066\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf03a\uf020\uf031\uf030\n\uf04d\uf061\uf072\uf06b\uf073\uf020\uf03a\uf020\uf031\uf030\n\uf053\uf068\uf06f\uf072\uf074\uf020\uf041\uf06e\uf073\uf077\uf065\uf072\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\n\uf077\uf069\uf074\uf068\uf020\uf052\uf065\uf073\uf061\uf073\uf06f\uf06e\uf069\uf06e\uf067\uf020\uf028\uf053\uf041\uf052\uf029\n\uf04e\uf075\uf06d\uf062\uf065\uf072\uf020\uf06f\uf066\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf03a\uf020\uf030\uf035\n\uf04d\uf061\uf072\uf06b\uf073\uf020\uf03a\uf020\uf031\uf030\n\uf053\uf068\uf06f\uf072\uf074\uf020\uf041\uf06e\uf073\uf077\uf065\uf072\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf028\uf053\uf041\uf029\n\uf04e\uf075\uf06d\uf062\uf065\uf072\uf020\uf06f\uf066\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf03a\uf020\uf031\uf030\n\uf04d\uf061\uf072\uf06b\uf073\uf020\uf03a\uf020\uf033\uf030\n\uf04c\uf06f\uf06e\uf067\uf020\uf041\uf06e\uf073\uf077\uf065\uf072\uf020\uf051\uf075\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf028\uf04c\uf041\uf029\n\uf04e\uf075\uf06d\uf062\uf065\uf072\uf020\uf06f\uf066\uf020\uf051\uf075\uf065\uf073\uf074\uf069\uf06f\uf06e\uf073\uf020\uf03a\uf020\uf030\uf035\n\uf04d\uf061\uf072\uf06b\uf073\uf020\uf03a\uf020\uf033\uf030\n\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf054\uf06f\uf074\uf061\uf06c\n\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf033\uf030\n\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf020\uf038\uf030'
+================================================================================
+BLOCK 35
+'Mathematics\nClass X\nMaximum Marks : 80\nTime : 3 Hours'
+================================================================================
+BLOCK 36
+'General Instructions'
+================================================================================
+BLOCK 37
+'1.\nAll questions are compulsory.'
+================================================================================
+BLOCK 38
+'2.\nThe question paper consists of  30 questions divided into four sections A, B, C, and\nD.Section A contains 10 questions of 1 mark each, Section B contains 5 questions\nof 2 marks each, Section C contains 10 questions of 3 marks each and Section D\ncontains 5 questions of 6 marks each.\n3.\nThere is no overall choice. However, an internal choice has been provided in\none question of 2 marks, three questions of 3 marks and two questions of 6\nmarks each.\n4.\nIn questions on construction, the drawing should be neat and exactly as per given\nmeasurements.\n5.\nUse of calculators is not allowed.'
+================================================================================
+BLOCK 39
+'SECTION A'
+================================================================================
+BLOCK 40
+'1.\nAfter how many decimal places will the decimal expansion of the number'
+================================================================================
+BLOCK 41
+'3\n2\n47\n2 5\n terminate?'
+================================================================================
+BLOCK 42
+'(A) 5\n(B) 2\n(C) 3\n(D) 1'
+================================================================================
+BLOCK 43
+'2.\nEuclid’s division lemma states that for two positive integers a and b, there exist\nunique integers q and r such that a = bq + r, where\n(A) 0 ≤ r ≤ a\n(B) 0 < r < b\n(C) 0 ≤ r ≤ b\n(D) 0 ≤ r < b'
+================================================================================
+BLOCK 44
+'3.\nThe number of zeroes, the polynomial p (x) = (x – 2)2 + 4 can have, is\n(A) 1\n(B) 2\n(C) 0\n(D) 3'
+================================================================================
+BLOCK 45
+'4.\nA pair of linear equations a1x + b1y + c1 = 0; a2x + b2y + c2 = 0 is said to be\ninconsistent, if'
+================================================================================
+BLOCK 46
+'2\n2\n≠\na\nc\na\nc'
+================================================================================
+BLOCK 47
+'5.\nThe smallest value of k for which the equation x2  + kx + 9 = 0 has real roots, is\n(A) – 6\n(B) 6\n(C) 36\n(D) –3'
+================================================================================
+BLOCK 48
+'2\n2\n≠\na\nb\na\nb\n(B)'
+================================================================================
+BLOCK 49
+'2\n2\n2\n≠\n=\na\nb\nc\na\nb\nc      (C)'
+================================================================================
+BLOCK 50
+'2\n2\n2\n=\n≠\na\nb\nc\na\nb\nc     (D)'
+================================================================================
+BLOCK 51
+'1\n1'
+================================================================================
+BLOCK 52
+'1\n1\n1'
+================================================================================
+BLOCK 53
+'1\n1\n1'
+================================================================================
+BLOCK 54
+'1\n1'
+================================================================================
+BLOCK 55
+'(A)'
+================================================================================
+BLOCK 56
+'6.\nThe coordinates of the points P and Q are (4, –3) and (–1, 7). Then the abscissa of'
+================================================================================
+BLOCK 57
+'PR\n3\nPQ\n5\n=\n is'
+================================================================================
+BLOCK 58
+'a point R on the line segment PQ such that'
+================================================================================
+BLOCK 59
+'DESIGN OF THE QUESTION PAPER, SET-I\n207'
+================================================================================
+BLOCK 60
+'(A) 18'
+================================================================================
+BLOCK 61
+'5\n(B) 17'
+================================================================================
+BLOCK 62
+'5\n(C) 17'
+================================================================================
+BLOCK 63
+'8      (D) 1'
+================================================================================
+BLOCK 64
+'7.\nIn the adjoining figure, PA  and PB are tangents from a\npoint P to a circle with centre O. Then the quadrilateral\nOAPB must be a\n(A) square\n(B) rhombus\n(C) cyclic quadrilateral\n(D) parallelogram'
+================================================================================
+BLOCK 65
+'8.\nIf for some angle θ, cot 2θ ='
+================================================================================
+BLOCK 66
+'3 , then the value of'
+================================================================================
+BLOCK 67
+'sin3θ, \uf077\uf068\uf065\uf072\uf065\uf0202θ \uf03c\uf020\uf039\uf030º\uf020\uf069\uf073'
+================================================================================
+BLOCK 68
+'2\n(B) 1\n(C) 0\n(D) \n3\n2'
+================================================================================
+BLOCK 69
+'9.\nFrom each corner of a square of side 4 cm, a quadrant\nof a circle of radius 1 cm is cut and also a circle of\ndiameter 2 cm is cut as shown in figure. The area of the\nremaining (shaded) portion is\n(A) (16 – 2π) cm2 (B) (16 – 5π) cm2'
+================================================================================
+BLOCK 70
+'(A)'
+================================================================================
+BLOCK 71
+'(C) 2π cm2\n(D) 5π cm2'
+================================================================================
+BLOCK 72
+'10. A letter of English alphabets is chosen at random. The\nprobability that it is a letter of the word\n‘MATHEMATICS’ is'
+================================================================================
+BLOCK 73
+'(A) 11'
+================================================================================
+BLOCK 74
+'26\n(B) 5'
+================================================================================
+BLOCK 75
+'13\n(C) 9'
+================================================================================
+BLOCK 76
+'26\n(D) 4'
+================================================================================
+BLOCK 77
+'SECTION B'
+================================================================================
+BLOCK 78
+'11. Is there any natural number n for which 4n ends with the digit 0? Give reasons in\nsupport of your answer.'
+================================================================================
+BLOCK 79
+'12. Without using the formula for the nth term, find which term of the AP : 5, 17, 29, 41,\n... will be 120 more than its 15th term? Justify your answer.'
+================================================================================
+BLOCK 80
+'OR'
+================================================================================
+BLOCK 81
+'Is 144 a term of the AP : 3, 7, 11, ... ? Justify your answer.'
+================================================================================
+BLOCK 82
+'13. The coordinates of the points P, Q and R are (3, 4), (3, –4)  and (–3, 4), respectively.\nIs the area of ∆PQR 24 sq. units? Justify your answer.'
+================================================================================
+BLOCK 83
+'14. The length of a line segment is 10 units. If one end is (2, –3) and the abscissa of the\nother end is 10, then its ordinate is either 3 or –9. Give justification for the two\nanswers.'
+================================================================================
+BLOCK 84
+'3\ncosecθ ? Justify your answer.'
+================================================================================
+BLOCK 85
+'15. What is the maximum value of'
+================================================================================
+BLOCK 86
+'SECTION C'
+================================================================================
+BLOCK 87
+'16. Find the zeroes of the polynomial p (x) = \n2\n4 3\n– 2 3\n– 2 3\nx\nx\n and verify the'
+================================================================================
+BLOCK 88
+'relationship between the zeroes and the coefficients.\nOR\nOn dividing the polynomial f (x) = x3  – 5x2 + 6x – 4 by a polynomial g(x), the\nquotient q (x) and remainder r (x) are x – 3, –3x + 5, respectively. Find the polynomial\ng (x).'
+================================================================================
+BLOCK 89
+'17. Solve the equations 5x – y = 5 and 3x – y = 3 graphically.\n18. If the sum of the first n terms of an AP is 4n – n2, what is the10th  term and the nth'
+================================================================================
+BLOCK 90
+'term?\nOR\nHow many terms of the AP : 9, 17, 25, ... must be taken to give a sum 636?'
+================================================================================
+BLOCK 91
+'19. If  (1, 2), (4, y), (x, 6) and (3, 5) are the vertices of a parallelogram taken in order,\nfind the values of x and y.\n20. The sides AB, BC and median AD of a ∆ABC are respectively propotional to  the\nsides PQ, QR and the median PM of ∆PQR. Show that ∆ABC ~ ∆PQR.\n21. A triangle ABC is drawn to circumscribe a circle of radius 4 cm such that the\nsegments BD and DC into which BC is divided by the point of contact D are of\nlengths 8 cm and 7 cm, respectively. Find the sides AB and AC.\n22. Construct an isosceles triangle whose base is 6 cm and altitude 5 cm and then'
+================================================================================
+BLOCK 92
+'another triangle whose sides are 7'
+================================================================================
+BLOCK 93
+'5  of the corresponding sides of the isosceles'
+================================================================================
+BLOCK 94
+'triangle.'
+================================================================================
+BLOCK 95
+'cos –sin\n1\n1\nsin\ncos –1\ncosec –cot\nθ\nθ+ =\nθ+\nθ\nθ\nθ .'
+================================================================================
+BLOCK 96
+'23. Prove that'
+================================================================================
+BLOCK 97
+'OR\nEvaluate:'
+================================================================================
+BLOCK 98
+'2\n3cos 43\ncos37 cosec53\n–\nsin 47\ntan 5 tan 25 tan 45 tan 65 tan85\n°\n°\n°\n \n \n \n \n°\n°\n°\n°\n°\n°'
+================================================================================
+BLOCK 99
+'DESIGN OF THE QUESTION PAPER, SET-I\n209'
+================================================================================
+BLOCK 100
+'24. In the figure, ABC is a triangle right angled at A. Semicircles are drawn on AB,\nAC and BC as diameters. Find the area of the shaded region.'
+================================================================================
+BLOCK 101
+'25. A bag contains white, black and red balls only. A ball is drawn at random from the'
+================================================================================
+BLOCK 102
+'bag. The probability of getting a white ball is 3'
+================================================================================
+BLOCK 103
+'10  and that of a black ball is 2'
+================================================================================
+BLOCK 104
+'5 . Find'
+================================================================================
+BLOCK 105
+'the probability of getting a red ball. If the bag contains 20 black balls, then find the\ntotal number of balls in the bag.'
+================================================================================
+BLOCK 106
+'SECTION D'
+================================================================================
+BLOCK 107
+'26. If the price of a book is reduced by Rs 5, a person can buy 5 more books for\nRs 300. Find the original list price of the book.'
+================================================================================
+BLOCK 108
+'OR'
+================================================================================
+BLOCK 109
+'The sum of the ages of two friends is 20 years. Four years ago, the product of their\nages in years was 48. Is this situation possible? If so, determine their present ages.'
+================================================================================
+BLOCK 110
+'27. Prove that the lengths of the tangents drawn from an external point to a circle are\nequal.\nUsing the above theorem, prove that:\nIf quadrilateral ABCD is circumscribing a circle, then AB + CD = AD + BC.'
+================================================================================
+BLOCK 111
+'OR'
+================================================================================
+BLOCK 112
+'Prove that the ratio of the areas of two similar triangles is equal to the ratio of the\nsquares of the corresponding sides.\nUsing the above theorem, do the following :\nABC is an iscosceles triangle right angled at B. Two equilateral triangles ACD and\nABE are constructed on the sides AC and AB, respectively. Find the ratio of the\nareas of ∆ ΑΒΕ and ∆ ACD.'
+================================================================================
+BLOCK 113
+'28. The angles of depression of the top and bottom of a building 50 metres high as\nobserved from the top of a tower are 30° and 60°, respectively. Find the\nheight of the tower and also the horizontal distances between the building and the\ntower.'
+================================================================================
+BLOCK 114
+'29. A well of diameter 3 m and 14 m deep is dug. The earth, taken out of it, has been\nevenly spread all around it in the shape of a circular ring of width 4 m to form an\nembankment . Find the height of the embankment.\n30. The following table shows the ages of the patients admitted in a hospital during a\nmonth:'
+================================================================================
+BLOCK 115
+'Age (in years) :\n5 - 15\n15 - 25 25 - 35 35 - 45 45 - 55 55 - 65'
+================================================================================
+BLOCK 116
+'Number of patients :    6\n    11\n     21\n     23\n     14\n     5'
+================================================================================
+BLOCK 117
+'Find the mode and the mean of the data given above.'
+================================================================================
+BLOCK 118
+'DESIGN OF THE QUESTION PAPER, SET-I\n211'
+================================================================================
+BLOCK 119
+'MARKING  SCHEME'

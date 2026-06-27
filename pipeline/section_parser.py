@@ -48,6 +48,19 @@ class SectionParser:
 
             if current:
 
+                # --------------------------------------------------
+                # Stop current exercise when exemplar sample section starts
+                # --------------------------------------------------
+                if (
+                    text.startswith("(C) Short Answer")
+                    or text.startswith("(D) Short Answer")
+                    or text.startswith("(E) Long Answer")
+                    or text.startswith("Sample Question")
+                ):
+                    sections.append(current)
+                    current = None
+                    continue
+
                 current.blocks.append(block)
                 current.page_end = block.page
 
