@@ -16,30 +16,50 @@ class Section:
 
 _EXERCISE_HEADER = re.compile(
     r"^(?:"
-    r"EXERCISE\s+\S"
+    r"(?:=\s*)?(?:\([A-E]\)\s*)?EXERCISE(?:\s+\d+(?:\.\d+)*)?"
     r"|\d+\.\d+\s+EXERCISE\b"
     r")",
     re.I,
 )
 
-_EXEMPLAR_SECTION = re.compile(
-    r"^\([A-E]\)\s*"
-    r"(?:Multiple Choice|Short Answer|Long Answer|Exercise"
-    r"|Short\s+Answer\s+Type|Long\s+Answer\s+Type)",
-    re.I,
-)
+_EXAMPLE_HEADER = re.compile(r"^(?:\([A-E]\)\s*)?EXAMPLE(?:\s+\d+)?\b", re.I)
+
+_ACTIVITY_HEADER = re.compile(r"^(?:\([A-E]\)\s*)?ACTIVIT(?:Y|IES)\b", re.I)
 
 _FIGURE_IT_OUT = re.compile(r"^FIGURE\s+IT\s+OUT", re.I)
 
-_SECTION_STOP = re.compile(
-    r"^(?:"
-    r"Sample Question\s*\d*"
-    r"|Solution\s*:?"
-    r"|Hints?\s+to\s+Selected\s+Problems"
-    r"|Answers?\s+to\s+Selected\s+Problems"
-    r")",
+_SAMPLE_QUESTION_HEADER = re.compile(r"^(?:\([A-E]\)\s*)?SAMPLE\s+QUESTION(?:\s+\d+)?\b", re.I)
+
+_SHORT_ANSWER_HEADER = re.compile(
+    r"^(?:\([A-E]\)\s*)?SHORT\s+ANSWER(?:\s+TYPE)?\b",
     re.I,
 )
+
+_LONG_ANSWER_HEADER = re.compile(
+    r"^(?:\([A-E]\)\s*)?LONG\s+ANSWER(?:\s+TYPE)?\b",
+    re.I,
+)
+
+_HEADER_TYPES = {
+    "EXERCISE",
+    "EXAMPLE",
+    "ACTIVITY",
+    "FIGURE_IT_OUT",
+    "SAMPLE_QUESTION",
+    "SHORT_ANSWER",
+    "LONG_ANSWER",
+    "NONE",
+}
+
+_SECTION_OPENERS = {"EXERCISE", "FIGURE_IT_OUT"}
+
+_SECTION_CLOSERS = {
+    "EXAMPLE",
+    "ACTIVITY",
+    "SAMPLE_QUESTION",
+    "SHORT_ANSWER",
+    "LONG_ANSWER",
+}
 
 
 def compact_section_title(text: str) -> str:
@@ -53,34 +73,46 @@ def _first_line(text: str) -> str:
     return text.strip().split("\n")[0].strip()
 
 
+def _normalize_header_text(text: str) -> str:
+    return re.sub(r"\s+", " ", text.strip())
+
+
+def _classify_header_text(text: str) -> str:
+    compact = _normalize_header_text(text)
+
+    if not compact:
+        return "NONE"
+
+    if _EXERCISE_HEADER.match(compact):
+        return "EXERCISE"
+
+    if _EXAMPLE_HEADER.match(compact):
+        return "EXAMPLE"
+
+    if _ACTIVITY_HEADER.match(compact):
+        return "ACTIVITY"
+
+    if _FIGURE_IT_OUT.match(compact):
+        return "FIGURE_IT_OUT"
+
+    if _SAMPLE_QUESTION_HEADER.match(compact):
+        return "SAMPLE_QUESTION"
+
+    if _SHORT_ANSWER_HEADER.match(compact):
+        return "SHORT_ANSWER"
+
+    if _LONG_ANSWER_HEADER.match(compact):
+        return "LONG_ANSWER"
+
+    return "NONE"
+
+
 def is_section_start(text: str) -> bool:
-    if not text.strip():
-        return False
-
-    compact = re.sub(r"\s+", " ", text.strip())
-
-    return bool(
-        re.search(r"\bEXERCISE\s+\S", compact, re.I)
-        or re.match(r"^\d+\.\d+\s+EXERCISE\b", compact, re.I)
-        or _EXEMPLAR_SECTION.search(compact)
-        or _FIGURE_IT_OUT.search(compact)
-        or re.search(r"\([A-E]\)\s*Exercise", compact, re.I)
-    )
+    return _classify_header_text(text) in _SECTION_OPENERS
 
 
 def is_section_stop(text: str) -> bool:
-    compact = re.sub(r"\s+", " ", text.strip())
-    if not compact:
-        return False
-    if _SECTION_STOP.search(compact):
-        return True
-    if re.search(
-        r"\([D-E]\)\s*(?:Activities|Activity|Short Answer|Long Answer)",
-        compact,
-        re.I,
-    ):
-        return True
-    return False
+    return _classify_header_text(text) in _SECTION_CLOSERS
 
 
 class SectionParser:
@@ -88,6 +120,9 @@ class SectionParser:
     def __init__(self, blocks):
 
         self.blocks = blocks
+
+    def _classify_header(self, text: str) -> str:
+        return _classify_header_text(text)
 
     def parse(self) -> List[Section]:
 
@@ -101,7 +136,9 @@ class SectionParser:
             if not text:
                 continue
 
-            if is_section_start(text):
+            header_type = self._classify_header(text)
+
+            if header_type in _SECTION_OPENERS:
 
                 if current is not None:
                     sections.append(current)
@@ -114,10 +151,11 @@ class SectionParser:
                 )
                 continue
 
-            if current is not None and is_section_stop(text):
+            if header_type in _SECTION_CLOSERS:
 
-                sections.append(current)
-                current = None
+                if current is not None:
+                    sections.append(current)
+                    current = None
                 continue
 
             if current is not None:
