@@ -9,69 +9,86 @@ from pipeline.core.context import PipelineContext
 from pipeline.core.engine import PipelineEngine
 from pipeline.core.default_pipeline import build
 from pipeline.core.report import PipelineReport
+from pipeline.metadata import should_skip_pdf
 from exporters.json_exporter import JSONExporter
 
+DATASET_ROOT = Path("/home/jiitcah.05/nlp_research_module/datasets")
 
-INPUT_DIR = Path(
-    "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/10th_maths"
-)
-
-OUTPUT_DIR = Path("output/json")
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+EXEMPLAR_DIRS = sorted((DATASET_ROOT / "exemplar_raw").glob("*_maths"))
+TEXTBOOK_DIRS = sorted((DATASET_ROOT / "raw_docs").glob("*"))
 
 
-def extract_pdf(pdf_path):
+def iter_pdfs():
+
+    for folder in EXEMPLAR_DIRS:
+        for pdf in sorted(folder.glob("*.pdf")):
+            if should_skip_pdf(pdf):
+                continue
+            yield pdf
+
+    for folder in TEXTBOOK_DIRS:
+        if not folder.is_dir():
+            continue
+        for pdf in sorted(folder.glob("*.pdf")):
+            if should_skip_pdf(pdf):
+                continue
+            yield pdf
+
+
+def extract_pdf(pdf_path: Path, output_dir: Path):
 
     print("=" * 80)
-    print(pdf_path.name)
+    print(pdf_path)
 
-    ctx = PipelineContext(
-        pdf=str(pdf_path)
-    )
+    ctx = PipelineContext(pdf=str(pdf_path))
 
-    engine = PipelineEngine(
-        build()
-    )
-
+    engine = PipelineEngine(build())
     ctx = engine.run(ctx)
 
-    output_file = OUTPUT_DIR / f"{pdf_path.stem}.json"
+    if ctx.metadata.get("skip"):
+        print("SKIPPED:", ctx.metadata.get("skip_reason", "unknown"))
+        return 0
+
+    grade = ctx.metadata.get("class")
+    output_file = output_dir / f"{pdf_path.stem}.json"
 
     JSONExporter().export(
         ctx.questions,
-        str(output_file)
+        str(output_file),
+        class_grade=grade,
     )
 
     PipelineReport().print(ctx)
-
-    print()
-
     print("Output :", output_file)
+    print("Questions:", len(ctx.questions))
+
+    return len(ctx.questions)
 
 
 def main():
 
-    pdfs = sorted(INPUT_DIR.glob("*.pdf"))
+    output_dir = PROJECT_ROOT.parent / "output" / "json"
+    output_dir.mkdir(parents=True, exist_ok=True)
 
+    pdfs = list(iter_pdfs())
     print(f"Found {len(pdfs)} PDFs")
-
     print()
+
+    total_questions = 0
 
     for pdf in pdfs:
 
         try:
-
-            extract_pdf(pdf)
+            total_questions += extract_pdf(pdf, output_dir)
 
         except Exception as e:
-
             print("=" * 80)
+            print(pdf)
+            print("FAILED:", e)
 
-            print(pdf.name)
-
-            print(e)
+    print()
+    print("TOTAL QUESTIONS:", total_questions)
 
 
 if __name__ == "__main__":
-
     main()

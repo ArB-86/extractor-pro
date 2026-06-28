@@ -5,6 +5,8 @@ from pathlib import Path
 
 import fitz
 
+from pipeline.text_normalizer import normalize_text
+
 
 @dataclass(slots=True)
 class Paragraph:
@@ -42,7 +44,7 @@ class PDFParser:
 
                 x0, y0, x1, y1, text = block[:5]
 
-                text = text.strip()
+                text = normalize_text(text.strip())
 
                 if not text:
 

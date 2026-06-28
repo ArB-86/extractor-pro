@@ -25,11 +25,24 @@ class FormulaMerger:
             flags=re.I
         )
 
-        # x\n2 -> x²
+        # x\n2 -> x², x\n3 -> x³
 
         text = re.sub(
             r'([A-Za-zα-ωΑ-Ωθπ])\s*\n\s*2\b',
             r'\1²',
+            text
+        )
+
+        text = re.sub(
+            r'([A-Za-zα-ωΑ-Ωθπ])\s*\n\s*3\b',
+            r'\1³',
+            text
+        )
+
+        # merge broken fractions: a \n b \n c patterns with operators
+        text = re.sub(
+            r'(\d+)\s*\n\s*/\s*\n\s*(\d+)',
+            r'\1/\2',
             text
         )
 

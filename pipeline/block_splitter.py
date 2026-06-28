@@ -11,28 +11,35 @@ class BlockSplitter:
 
     def process(self):
 
-        result = []
+        result = list(self.blocks)
+        changed = True
 
-        for block in self.blocks:
+        while changed:
+            changed = False
+            new_result = []
 
-            text = block.text
+            for block in result:
 
-            m = QUESTION_INSIDE.search(text)
+                text = block.text
+                m = QUESTION_INSIDE.search(text)
 
-            if not m:
-                result.append(block)
-                continue
+                if not m:
+                    new_result.append(block)
+                    continue
 
-            before = copy.copy(block)
-            after = copy.copy(block)
+                changed = True
+                before = copy.copy(block)
+                after = copy.copy(block)
 
-            before.text = text[:m.start()].strip()
-            after.text = text[m.start() + 1:].strip()
+                before.text = text[:m.start()].strip()
+                after.text = text[m.start() + 1:].strip()
 
-            if before.text:
-                result.append(before)
+                if before.text:
+                    new_result.append(before)
 
-            if after.text:
-                result.append(after)
+                if after.text:
+                    new_result.append(after)
+
+            result = new_result
 
         return result
