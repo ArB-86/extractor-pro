@@ -9,12 +9,22 @@ from statistics import mean, median
 from typing import Any
 
 
-ROOT = Path(__file__).resolve().parents[1]
+def resolve_workspace_root() -> Path:
+	script_root = Path(__file__).resolve().parent.parent
+	for candidate in (script_root, script_root.parent):
+		json_root = candidate / "output" / "json"
+		if json_root.exists() and any(json_root.rglob("*.json")):
+			return candidate
+	return script_root
+
+
+ROOT = resolve_workspace_root()
 JSON_ROOT = ROOT / "output" / "json"
 REPORTS_ROOT = ROOT / "output" / "reports"
 REPORT_PATH = REPORTS_ROOT / "quality_report.txt"
 LONG_QUESTIONS_PATH = REPORTS_ROOT / "long_questions.json"
 DUPLICATE_QUESTIONS_PATH = REPORTS_ROOT / "duplicate_questions.json"
+WORST_QUESTIONS_PATH = REPORTS_ROOT / "worst_questions.json"
 LONG_QUESTION_THRESHOLD = 1500
 
 
@@ -51,6 +61,20 @@ class DuplicateGroup:
 
 
 @dataclass
+class WorstQuestionEntry:
+	pdf: str
+	question_id: str | None
+	question_class: Any
+	chapter: str
+	subject: str
+	length: int
+	question_text: str
+	first_300_chars: str
+	last_300_chars: str
+	suspected_reason: str = "UNKNOWN"
+
+
+@dataclass
 class AuditSummary:
 	total_json_files: int = 0
 	total_questions: int = 0
@@ -68,15 +92,21 @@ class AuditSummary:
 
 
 def main() -> None:
-	summary, long_questions, duplicate_groups = audit_questions(JSON_ROOT)
+	summary, long_questions, duplicate_groups, all_questions = audit_questions(JSON_ROOT)
 	write_report(summary, REPORT_PATH)
 	write_long_questions(long_questions, LONG_QUESTIONS_PATH)
 	write_duplicate_questions(duplicate_groups, DUPLICATE_QUESTIONS_PATH)
+	
+	print("TOTAL:", len(all_questions))
+	print("FIRST:", all_questions[0].question_length if all_questions else "EMPTY")
+	
+	write_worst_questions(all_questions, WORST_QUESTIONS_PATH)
 
 
-def audit_questions(root: Path) -> tuple[AuditSummary, list[QuestionEntry], list[DuplicateGroup]]:
+def audit_questions(root: Path) -> tuple[AuditSummary, list[QuestionEntry], list[DuplicateGroup], list[QuestionEntry]]:
 	summary = AuditSummary()
 	lengths: list[int] = []
+	all_questions: list[QuestionEntry] = []
 	long_questions: list[QuestionEntry] = []
 	duplicate_map: dict[str, list[QuestionEntry]] = {}
 
@@ -85,6 +115,7 @@ def audit_questions(root: Path) -> tuple[AuditSummary, list[QuestionEntry], list
 
 	for file_path in json_files:
 		for entry in load_question_entries(file_path, root):
+			all_questions.append(entry)
 			summary.total_questions += 1
 			lengths.append(entry.question_length)
 
@@ -116,7 +147,8 @@ def audit_questions(root: Path) -> tuple[AuditSummary, list[QuestionEntry], list
 	summary.duplicate_groups = len(duplicate_groups)
 	summary.duplicate_records = sum(len(group.records) for group in duplicate_groups)
 	long_questions.sort(key=lambda item: (-item.question_length, item.source_file, item.index))
-	return summary, long_questions, duplicate_groups
+	all_questions.sort(key=lambda item: (-item.question_length, item.source_file, item.index))
+	return summary, long_questions, duplicate_groups, all_questions
 
 
 def load_question_entries(file_path: Path, root: Path) -> list[QuestionEntry]:
@@ -221,6 +253,19 @@ def write_duplicate_questions(duplicate_groups: list[DuplicateGroup], output_pat
 	)
 
 
+def write_worst_questions(all_questions: list[QuestionEntry], output_path: Path) -> None:
+	output_path.parent.mkdir(parents=True, exist_ok=True)
+	payload = [worst_question_to_dict(entry) for entry in all_questions[:100]]
+	
+	print("PAYLOAD:", len(payload))
+	print(payload[:1])
+	
+	output_path.write_text(
+		json.dumps(payload, indent=2, ensure_ascii=False),
+		encoding="utf8",
+	)
+
+
 def build_duplicate_groups(duplicate_map: dict[str, list[QuestionEntry]]) -> list[DuplicateGroup]:
 	groups: list[DuplicateGroup] = []
 	for normalized_text, entries in duplicate_map.items():
@@ -274,6 +319,22 @@ def long_question_to_dict(entry: QuestionEntry) -> dict[str, Any]:
 		"contains_reprint": contains_keyword(text, "reprint"),
 		"contains_figure": contains_keyword(text, "figure"),
 		"contains_exercise": contains_keyword(text, "exercise"),
+	}
+
+
+def worst_question_to_dict(entry: QuestionEntry) -> dict[str, Any]:
+	text = entry.question_text
+	return {
+		"pdf": str(Path(entry.source_file).with_suffix(".pdf")),
+		"question_id": entry.question_id,
+		"class": entry.question_class,
+		"chapter": entry.chapter,
+		"subject": entry.subject,
+		"length": entry.question_length,
+		"question_text": text,
+		"first_300_chars": text[:300],
+		"last_300_chars": text[-300:],
+		"suspected_reason": "UNKNOWN",
 	}
 
 

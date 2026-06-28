@@ -1,0 +1,2190 @@
+[
+  {
+    "title": "EXERCISE 6.1",
+    "page_start": 5,
+    "page_end": 7,
+    "blocks": [
+      {
+        "page": 5,
+        "text": "1.\nHow many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5\nassuming that",
+        "bbox": [
+          47.99998474121094,
+          204.23606872558594,
+          421.025634765625,
+          229.8817901611328
+        ]
+      },
+      {
+        "page": 5,
+        "text": "(i)\nrepetition of the digits is allowed?\n(ii)\nrepetition of the digits is not allowed?",
+        "bbox": [
+          71.99998474121094,
+          236.6417999267578,
+          258.7730712890625,
+          262.0417785644531
+        ]
+      },
+      {
+        "page": 5,
+        "text": "2.\nHow many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the\ndigits can be repeated?",
+        "bbox": [
+          47.99998474121094,
+          268.79608154296875,
+          421.0443420410156,
+          411.0818786621094
+        ]
+      },
+      {
+        "page": 5,
+        "text": "3.\nHow many 4-letter code can be formed using the first 10 letters of the English\nalphabet, if no letter can be repeated?",
+        "bbox": [
+          47.99998474121094,
+          268.79608154296875,
+          421.0443420410156,
+          411.0818786621094
+        ]
+      },
+      {
+        "page": 5,
+        "text": "4.\nHow many 5-digit telephone numbers can be constructed using the digits 0  to 9 if\neach number starts with 67 and no digit appears more than once?",
+        "bbox": [
+          47.99998474121094,
+          268.79608154296875,
+          421.0443420410156,
+          411.0818786621094
+        ]
+      },
+      {
+        "page": 5,
+        "text": "5.\nA coin is tossed 3 times and the outcomes are recorded. How many possible\noutcomes are there?",
+        "bbox": [
+          47.99998474121094,
+          268.79608154296875,
+          421.0443420410156,
+          411.0818786621094
+        ]
+      },
+      {
+        "page": 5,
+        "text": "6.\nGiven 5 flags of different colours, how many different signals can be generated if\neach signal requires the use of 2 flags, one below the other?",
+        "bbox": [
+          47.99998474121094,
+          268.79608154296875,
+          421.0443420410156,
+          411.0818786621094
+        ]
+      },
+      {
+        "page": 5,
+        "text": "6.3 Permutations",
+        "bbox": [
+          47.999969482421875,
+          420.19219970703125,
+          138.00634765625,
+          432.19219970703125
+        ]
+      },
+      {
+        "page": 5,
+        "text": "In Example 1 of  the previous Section, we are actually counting the different possible\narrangements of the letters such as ROSE, REOS, ..., etc. Here, in this list, each\narrangement is different from other. In other words, the order of writing the letters is\nimportant. Each arrangement is called a permutation of 4 different letters taken all\nat a time. Now, if we have to determine the number of 3-letter words, with or without\nmeaning, which can be formed out of the letters of the word NUMBER, where the\nrepetition of the letters is not allowed, we need to count the arrangements NUM,\nNMU, MUN, NUB, ..., etc. Here, we are counting the permutations of 6 different\nletters taken 3 at a time. The required number of words = 6 × 5 × 4 = 120 (by using\nmultiplication principle).\nIf the repetition of the letters was allowed, the required number of words would\nbe 6 × 6 × 6 = 216.",
+        "bbox": [
+          47.999969482421875,
+          438.96087646484375,
+          421.2303466796875,
+          612.201904296875
+        ]
+      },
+      {
+        "page": 5,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 6,
+        "text": "Definition 1 A permutation is an arrangement in a definite order of a number of\nobjects taken some or all at a time.\nIn the following sub-section, we shall obtain the formula needed to answer these\nquestions immediately.",
+        "bbox": [
+          48.959999084472656,
+          96.9560317993164,
+          420.0807800292969,
+          149.48072814941406
+        ]
+      },
+      {
+        "page": 6,
+        "text": "6.3.1  Permutations when all the objects are distinct",
+        "bbox": [
+          48.959999084472656,
+          158.39500427246094,
+          291.1629638671875,
+          169.43846130371094
+        ]
+      },
+      {
+        "page": 6,
+        "text": "Theorem 1  The number of permutations of n different objects taken r at a time,\nwhere 0 < r ≤ n  and the objects do not repeat  is n ( n – 1) ( n – 2). . .( n – r + 1),\nwhich is denoted by nPr.",
+        "bbox": [
+          48.959999084472656,
+          178.3149871826172,
+          420.01898193359375,
+          219.6726837158203
+        ]
+      },
+      {
+        "page": 6,
+        "text": "Proof There will be as many permutations as there are ways of filling in r vacant",
+        "bbox": [
+          48.96002960205078,
+          226.0749969482422,
+          420.0110778808594,
+          237.08070373535156
+        ]
+      },
+      {
+        "page": 6,
+        "text": "places\n\n\n . . .\n  by",
+        "bbox": [
+          48.960052490234375,
+          245.0406951904297,
+          216.24179077148438,
+          256.041748046875
+        ]
+      },
+      {
+        "page": 6,
+        "text": "←r vacant places →",
+        "bbox": [
+          78.96009063720703,
+          265.4301452636719,
+          173.15528869628906,
+          276.6817321777344
+        ]
+      },
+      {
+        "page": 6,
+        "text": "the n objects. The first place can be filled in n ways; following which, the second place\ncan be filled in (n – 1) ways, following which the third place can be filled in (n – 2)\nways,..., the rth place can be filled in (n – (r – 1)) ways. Therefore, the number of\nways of filling in r vacant places in succession is n(n – 1) (n – 2) . . .   (n – (r – 1)) or\nn ( n – 1) (n – 2) ... (n – r + 1)\nThis expression for nPr is cumbersome and we need a notation which will help to\nreduce the size of this expression. The symbol n! (read as factorial n or n factorial )\ncomes to our rescue. In the following text we will learn what actually n! means.",
+        "bbox": [
+          48.959930419921875,
+          282.48175048828125,
+          420.0649108886719,
+          390.9218444824219
+        ]
+      },
+      {
+        "page": 6,
+        "text": "6.3.2  Factorial notation  The notation n! represents the product of first n natural\nnumbers, i.e., the product 1 × 2 × 3 × . . . × (n – 1) × n is denoted as n!. We read this\nsymbol as ‘n factorial’. Thus, 1 × 2 × 3 × 4 . . .  × (n – 1) × n = n !\n1 = 1 !\n1 × 2 = 2 !\n1× 2 × 3 = 3 !\n1 × 2 × 3 × 4 = 4 ! and so on.",
+        "bbox": [
+          48.95989990234375,
+          399.8361511230469,
+          420.0127868652344,
+          494.1218566894531
+        ]
+      },
+      {
+        "page": 6,
+        "text": "We define 0 ! = 1",
+        "bbox": [
+          48.959869384765625,
+          500.161865234375,
+          126.2548828125,
+          511.161865234375
+        ]
+      },
+      {
+        "page": 6,
+        "text": "We can write   5 ! = 5 × 4 ! = 5 × 4 × 3 ! = 5 × 4 × 3 × 2 !\n= 5 × 4 × 3 × 2 × 1!\nClearly, for a natural number n\n     n ! = n (n  –  1) !\n= n (n  –  1) (n  –  2) !\n[provided (n ≥ 2)]\n= n (n  –  1) (n  –  2)  (n  –  3) !\n[provided (n ≥ 3)]\nand so on.",
+        "bbox": [
+          48.959869384765625,
+          516.9618530273438,
+          382.8011474609375,
+          611.241455078125
+        ]
+      },
+      {
+        "page": 6,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 7,
+        "text": "Example 5 Evaluate (i) 5 !\n(ii) 7 !\n(iii) 7 ! – 5!",
+        "bbox": [
+          47.040000915527344,
+          97.9150161743164,
+          313.2113037109375,
+          108.92073059082031
+        ]
+      }
+    ]
+  },
+  {
+    "title": "EXERCISE 6.2",
+    "page_start": 7,
+    "page_end": 11,
+    "blocks": [
+      {
+        "page": 7,
+        "text": "1.\nEvaluate\n(i) 8 !\n(ii) 4 ! – 3 !",
+        "bbox": [
+          47.040008544921875,
+          572.3960571289062,
+          239.52987670898438,
+          597.3217163085938
+        ]
+      },
+      {
+        "page": 7,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 8,
+        "text": "8!\n6! 2!\n×",
+        "bbox": [
+          249.36016845703125,
+          102.91932678222656,
+          321.2109680175781,
+          129.81436157226562
+        ]
+      },
+      {
+        "page": 8,
+        "text": "4. If",
+        "bbox": [
+          249.36016845703125,
+          102.91932678222656,
+          321.2109680175781,
+          129.81436157226562
+        ]
+      },
+      {
+        "page": 8,
+        "text": "1\n1\n6!\n7!\n8!",
+        "bbox": [
+          324.0002746582031,
+          102.91932678222656,
+          377.1211242675781,
+          129.81436157226562
+        ]
+      },
+      {
+        "page": 8,
+        "text": "x\n+\n=\n, find x",
+        "bbox": [
+          336.0002746582031,
+          102.91932678222656,
+          410.2440185546875,
+          124.28077697753906
+        ]
+      },
+      {
+        "page": 8,
+        "text": "2.\nIs 3 ! + 4 ! = 7 ! ?",
+        "bbox": [
+          48.0,
+          113.27506256103516,
+          246.40524291992188,
+          124.28077697753906
+        ]
+      },
+      {
+        "page": 8,
+        "text": "3. Compute",
+        "bbox": [
+          48.0,
+          113.27506256103516,
+          246.40524291992188,
+          124.28077697753906
+        ]
+      },
+      {
+        "page": 8,
+        "text": "5.\nEvaluate (\n)\n!",
+        "bbox": [
+          48.000030517578125,
+          143.792724609375,
+          144.93841552734375,
+          171.56556701660156
+        ]
+      },
+      {
+        "page": 8,
+        "text": "!\nn\nn\nr\n−\n, when",
+        "bbox": [
+          120.24008178710938,
+          143.792724609375,
+          179.28302001953125,
+          170.35169982910156
+        ]
+      },
+      {
+        "page": 8,
+        "text": "(i) n = 6, r = 2\n(ii) n = 9, r = 5.",
+        "bbox": [
+          72.0,
+          182.1617889404297,
+          260.1620178222656,
+          193.1617889404297
+        ]
+      },
+      {
+        "page": 8,
+        "text": "6.3.3  Derivation of the formula for nPr",
+        "bbox": [
+          48.00001525878906,
+          202.0157470703125,
+          230.24961853027344,
+          215.6157684326172
+        ]
+      },
+      {
+        "page": 8,
+        "text": "n\nr\nn\nn\nr\n−\n=\n, 0 ≤ r ≤ n",
+        "bbox": [
+          121.92008972167969,
+          221.97085571289062,
+          228.7000274658203,
+          248.61085510253906
+        ]
+      },
+      {
+        "page": 8,
+        "text": "(\n)\n!\nP\n!",
+        "bbox": [
+          126.9600830078125,
+          221.97085571289062,
+          181.75650024414062,
+          250.06809997558594
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Let us now go back to the stage where we had determined the following formula:",
+        "bbox": [
+          48.000030517578125,
+          257.5217590332031,
+          404.9685363769531,
+          268.5217590332031
+        ]
+      },
+      {
+        "page": 8,
+        "text": "nPr = n (n – 1) (n – 2) . . .  (n – r + 1)",
+        "bbox": [
+          132.96002197265625,
+          274.2337646484375,
+          303.3617858886719,
+          288.07379150390625
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Multiplying numerator and denomirator by (n – r) (n – r – 1) . . . 3 × 2 × 1, we get",
+        "bbox": [
+          48.00001525878906,
+          291.36175537109375,
+          410.89630126953125,
+          302.36175537109375
+        ]
+      },
+      {
+        "page": 8,
+        "text": "(\n) (\n) (\n)(\n)(\n)\n(\n)(\n)",
+        "bbox": [
+          111.36009216308594,
+          308.63330078125,
+          298.8085021972656,
+          342.0017395019531
+        ]
+      },
+      {
+        "page": 8,
+        "text": "n\nr\nn n\nn\n... n\nr\nn\nr\nn\nr\n...\nn\nr\nn\nr\n...\n−\n−\n−\n+\n−\n−\n−\n× ×\n=\n−\n−−\n× ×\n = (\n)\n!",
+        "bbox": [
+          78.2400894165039,
+          311.0922546386719,
+          386.6201477050781,
+          343.1882019042969
+        ]
+      },
+      {
+        "page": 8,
+        "text": "1\n2\n1\n1\n3 2 1\nP\n1\n3 2 1",
+        "bbox": [
+          83.28009033203125,
+          312.8943176269531,
+          341.0660095214844,
+          340.5423278808594
+        ]
+      },
+      {
+        "page": 8,
+        "text": "!\nn\nn\nr\n−\n,",
+        "bbox": [
+          361.9202575683594,
+          315.0909729003906,
+          394.42999267578125,
+          341.7309265136719
+        ]
+      },
+      {
+        "page": 8,
+        "text": "n\nr\nn\nn\nr\n=\n−\n, where 0 < r ≤n",
+        "bbox": [
+          106.56008911132812,
+          355.9527587890625,
+          244.29998779296875,
+          382.5118103027344
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Thus\n(\n)\n!\nP\n!",
+        "bbox": [
+          48.0,
+          355.9527893066406,
+          166.3694305419922,
+          383.72564697265625
+        ]
+      },
+      {
+        "page": 8,
+        "text": "This is a much more convenient expression for nPr than the previous one.",
+        "bbox": [
+          47.99998474121094,
+          391.1137390136719,
+          369.1432800292969,
+          404.9537658691406
+        ]
+      },
+      {
+        "page": 8,
+        "text": "In particular, when r = n,\n!\nP\n!\n0!",
+        "bbox": [
+          47.99998474121094,
+          410.8014221191406,
+          219.45584106445312,
+          437.7464294433594
+        ]
+      },
+      {
+        "page": 8,
+        "text": "n\nn\nn\nn\n=\n=",
+        "bbox": [
+          162.48008728027344,
+          410.8014221191406,
+          215.31268310546875,
+          430.79132080078125
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Counting permutations is merely counting the number of ways in which some or\nall objects at a time are rearranged. Arranging no object at all is the same as leaving\nbehind all the objects and we know that there is only one way of doing so. Thus, we\ncan have",
+        "bbox": [
+          48.0,
+          442.08172607421875,
+          420.0813293457031,
+          494.84173583984375
+        ]
+      },
+      {
+        "page": 8,
+        "text": "!\n!\n!\n(\n0)!\n=\n−\nn\nn\nn\nn\n... (1)",
+        "bbox": [
+          152.40008544921875,
+          503.35791015625,
+          384.48199462890625,
+          530.233642578125
+        ]
+      },
+      {
+        "page": 8,
+        "text": "n P0 = 1 =",
+        "bbox": [
+          104.63999938964844,
+          512.7937622070312,
+          149.32530212402344,
+          526.6337280273438
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Therefore, the formula (1) is applicable for r = 0 also.",
+        "bbox": [
+          48.0,
+          550.561767578125,
+          283.4466552734375,
+          561.561767578125
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Thus\n(\n)\n!\nP\n0\n!",
+        "bbox": [
+          47.99998474121094,
+          570.512939453125,
+          177.79759216308594,
+          598.2857666015625
+        ]
+      },
+      {
+        "page": 8,
+        "text": "n\nr\nn\n,\nr\nn\nn\nr\n=\n≤\n≤\n−\n.",
+        "bbox": [
+          106.56009674072266,
+          570.512939453125,
+          214.91000366210938,
+          597.0719604492188
+        ]
+      },
+      {
+        "page": 8,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 9,
+        "text": "Theorem 2  The number of permutations of n different objects taken r at a time,\nwhere repetition is allowed, is nr.\nProof is very similar to that of Theorem 1 and is left for the reader to arrive at.\nHere, we are solving some of the problems of the pervious Section using the\nformula for nPr to illustrate its usefulness.\nIn Example 1, the required number of words = 4P4 = 4! = 24. Here repetition is\nnot allowed.  If repetition is allowed, the required number of words would be 44 = 256.\nThe number of 3-letter words which can be formed by the letters of the word",
+        "bbox": [
+          47.999969482421875,
+          96.9560317993164,
+          420.0754699707031,
+          205.1616668701172
+        ]
+      },
+      {
+        "page": 9,
+        "text": "6!\nP",
+        "bbox": [
+          113.76008605957031,
+          214.03941345214844,
+          144.3212890625,
+          232.05441284179688
+        ]
+      },
+      {
+        "page": 9,
+        "text": "6\n3",
+        "bbox": [
+          108.7200927734375,
+          219.17236328125,
+          122.38057708740234,
+          234.0133514404297
+        ]
+      },
+      {
+        "page": 9,
+        "text": "3!\n=\n = 4 × 5 × 6 = 120. Here, in this case also, the repetition is not",
+        "bbox": [
+          125.76008605957031,
+          219.2027130126953,
+          420.0645446777344,
+          240.93441772460938
+        ]
+      },
+      {
+        "page": 9,
+        "text": "NUMBER =",
+        "bbox": [
+          47.999969482421875,
+          224.6416778564453,
+          106.96416473388672,
+          235.6416778564453
+        ]
+      },
+      {
+        "page": 9,
+        "text": "allowed. If  the repetition is allowed,the required number of words would be 63 = 216.\nThe number of ways in which a Chairman and a Vice-Chairman can be chosen\nfrom amongst a group of 12 persons assuming that one person can not hold more than",
+        "bbox": [
+          48.0,
+          248.5537567138672,
+          420.072265625,
+          287.4817810058594
+        ]
+      },
+      {
+        "page": 9,
+        "text": "one position, clearly  12\n2\n12!\nP\n11 12\n10!\n=\n=\n×\n = 132.",
+        "bbox": [
+          48.00001525878906,
+          296.5368957519531,
+          258.00323486328125,
+          323.2738952636719
+        ]
+      },
+      {
+        "page": 9,
+        "text": "6.3.4   Permutations when all the objects are not distinct objects  Suppose we have\nto find the number of ways of rearranging the letters of the word ROOT. In this case,\nthe letters of the word are not all different. There are 2 Os, which are of the same kind.\nLet us treat, temporarily, the 2 Os as different, say, O1 and O2. The number of\npermutations of 4-different letters, in this case, taken all at a time\nis 4!. Consider one of these permutations say, RO1O2T. Corresponding to this\npermutation,we have 2 ! permutations RO1O2T and RO2O1T which will be exactly the\nsame permutation if O1 and O2 are not treated as different, i.e., if O1 and O2 are the\nsame O at both places.",
+        "bbox": [
+          47.99993896484375,
+          337.196044921875,
+          420.0990295410156,
+          459.32183837890625
+        ]
+      },
+      {
+        "page": 9,
+        "text": "4!\n3 4\n12\n2! =\n×\n=\n.",
+        "bbox": [
+          272.16015625,
+          468.3769836425781,
+          347.1499938964844,
+          495.11395263671875
+        ]
+      },
+      {
+        "page": 9,
+        "text": "Therefore, the required number of permutations =",
+        "bbox": [
+          47.99993896484375,
+          478.80181884765625,
+          269.6226806640625,
+          489.80181884765625
+        ]
+      },
+      {
+        "page": 9,
+        "text": "Permutations when O1, O2 are\n      Permutations when O1, O2 are\ndifferent.\nthe same O.",
+        "bbox": [
+          48.0,
+          503.041748046875,
+          381.60552978515625,
+          527.9617309570312
+        ]
+      },
+      {
+        "page": 9,
+        "text": "\n\nR O O T",
+        "bbox": [
+          139.9200897216797,
+          536.8220825195312,
+          371.2801818847656,
+          567.5537719726562
+        ]
+      },
+      {
+        "page": 9,
+        "text": "RO O T\nRO O T",
+        "bbox": [
+          100.08009338378906,
+          537.641357421875,
+          137.48902893066406,
+          564.909423828125
+        ]
+      },
+      {
+        "page": 9,
+        "text": "1\n2",
+        "bbox": [
+          114.9600830078125,
+          543.466064453125,
+          130.26507568359375,
+          550.5570678710938
+        ]
+      },
+      {
+        "page": 9,
+        "text": "2\n1",
+        "bbox": [
+          115.68008422851562,
+          559.7860717773438,
+          130.74513244628906,
+          566.8770751953125
+        ]
+      },
+      {
+        "page": 9,
+        "text": "\n\nT O O R",
+        "bbox": [
+          140.8800811767578,
+          579.5421142578125,
+          371.2801818847656,
+          610.2737426757812
+        ]
+      },
+      {
+        "page": 9,
+        "text": "TO O R\nTO O R",
+        "bbox": [
+          100.80009460449219,
+          580.3613891601562,
+          139.7821502685547,
+          607.62939453125
+        ]
+      },
+      {
+        "page": 9,
+        "text": "1\n2",
+        "bbox": [
+          116.40008544921875,
+          586.1860961914062,
+          131.705078125,
+          593.277099609375
+        ]
+      },
+      {
+        "page": 9,
+        "text": "2\n1",
+        "bbox": [
+          117.12008666992188,
+          602.506103515625,
+          132.1851348876953,
+          609.5971069335938
+        ]
+      },
+      {
+        "page": 9,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nR O T O",
+        "bbox": [
+          140.1600799560547,
+          102.97393035888672,
+          375.84014892578125,
+          133.61659240722656
+        ]
+      },
+      {
+        "page": 10,
+        "text": "RO T O",
+        "bbox": [
+          97.2000961303711,
+          104.02059173583984,
+          134.5674285888672,
+          114.89059448242188
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          113.76008605957031,
+          109.58390045166016,
+          138.40167236328125,
+          116.62489318847656
+        ]
+      },
+      {
+        "page": 10,
+        "text": "RO T O",
+        "bbox": [
+          97.2000961303711,
+          120.3405990600586,
+          135.767333984375,
+          131.21060180664062
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          114.48008728027344,
+          125.9039077758789,
+          138.8816680908203,
+          132.9449005126953
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nT O R O",
+        "bbox": [
+          140.1600799560547,
+          145.62179565429688,
+          375.84014892578125,
+          176.35345458984375
+        ]
+      },
+      {
+        "page": 10,
+        "text": "T O R O\nT O R O",
+        "bbox": [
+          95.52009582519531,
+          146.44114685058594,
+          135.82435607910156,
+          173.7091522216797
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          112.80007934570312,
+          152.26588439941406,
+          138.42466735839844,
+          159.35687255859375
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          113.52008056640625,
+          168.58583068847656,
+          138.90476989746094,
+          175.67681884765625
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nR T O O",
+        "bbox": [
+          140.40008544921875,
+          188.17401123046875,
+          375.84014892578125,
+          218.8166961669922
+        ]
+      },
+      {
+        "page": 10,
+        "text": "RTO O",
+        "bbox": [
+          97.2000961303711,
+          189.22064208984375,
+          134.80743408203125,
+          200.09063720703125
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          121.68008422851562,
+          194.78399658203125,
+          138.64126586914062,
+          201.8249969482422
+        ]
+      },
+      {
+        "page": 10,
+        "text": "RTO O",
+        "bbox": [
+          97.2000961303711,
+          205.5406494140625,
+          136.00743103027344,
+          216.41064453125
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          122.40008544921875,
+          211.10400390625,
+          139.36126708984375,
+          218.14500427246094
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nT R O O",
+        "bbox": [
+          140.6400909423828,
+          230.82177734375,
+          375.84014892578125,
+          261.5534362792969
+        ]
+      },
+      {
+        "page": 10,
+        "text": "T R O O\nT R O O",
+        "bbox": [
+          95.52009582519531,
+          231.64109802246094,
+          136.3042449951172,
+          258.9090881347656
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          121.92008972167969,
+          237.46583557128906,
+          138.90509033203125,
+          244.55682373046875
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          122.64009094238281,
+          253.7858123779297,
+          139.62509155273438,
+          260.8768005371094
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nO O R T",
+        "bbox": [
+          140.40008544921875,
+          273.3741149902344,
+          375.8401794433594,
+          304.0167541503906
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  O  R T",
+        "bbox": [
+          91.68009185791016,
+          274.4207458496094,
+          139.6004180908203,
+          285.2907409667969
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          99.1200942993164,
+          279.9841003417969,
+          118.48139190673828,
+          287.0251159667969
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  O T R",
+        "bbox": [
+          91.92008972167969,
+          290.7407531738281,
+          138.7692108154297,
+          301.6107482910156
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          100.3200912475586,
+          296.3041076660156,
+          121.28133392333984,
+          303.3451232910156
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nO R O T",
+        "bbox": [
+          140.40008544921875,
+          316.0218811035156,
+          375.8401794433594,
+          346.7535400390625
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O R O T\nO R O T",
+        "bbox": [
+          92.40009307861328,
+          316.8411865234375,
+          136.52903747558594,
+          344.10919189453125
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          100.56008911132812,
+          322.6659240722656,
+          127.14468383789062,
+          329.7569274902344
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          100.80008697509766,
+          338.9859313964844,
+          128.10462951660156,
+          346.0769348144531
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nO T O R",
+        "bbox": [
+          139.9200897216797,
+          358.5741271972656,
+          375.8401794433594,
+          389.2167663574219
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  T O  R",
+        "bbox": [
+          90.96009063720703,
+          359.6207580566406,
+          138.76922607421875,
+          370.4907531738281
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          98.40009307861328,
+          365.18408203125,
+          127.12189483642578,
+          372.22509765625
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  T O  R",
+        "bbox": [
+          90.96009063720703,
+          375.94073486328125,
+          138.76910400390625,
+          386.81072998046875
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          99.1200942993164,
+          381.50408935546875,
+          127.84188079833984,
+          388.54510498046875
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nO R T O",
+        "bbox": [
+          139.9200897216797,
+          401.22198486328125,
+          375.84014892578125,
+          431.9536437988281
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  R T O\nO  R T O",
+        "bbox": [
+          91.68009185791016,
+          402.0412902832031,
+          135.5843505859375,
+          429.30926513671875
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          99.1200942993164,
+          407.8659973144531,
+          138.1842803955078,
+          414.9570007324219
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          100.08009338378906,
+          424.1860046386719,
+          138.66427612304688,
+          431.2770080566406
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nO T R O",
+        "bbox": [
+          139.9200897216797,
+          443.7742004394531,
+          375.84014892578125,
+          474.4168701171875
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  T R O",
+        "bbox": [
+          91.68009185791016,
+          444.8208312988281,
+          134.0872039794922,
+          455.6908264160156
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          99.1200942993164,
+          450.3841857910156,
+          138.16278076171875,
+          457.4252014160156
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  T R O",
+        "bbox": [
+          91.68009185791016,
+          461.1408386230469,
+          135.52711486816406,
+          472.0108337402344
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          100.08009338378906,
+          466.7041931152344,
+          138.6423797607422,
+          473.7452087402344
+        ]
+      },
+      {
+        "page": 10,
+        "text": "\n\nO O T R",
+        "bbox": [
+          140.6400909423828,
+          486.4219665527344,
+          375.8401794433594,
+          517.1537475585938
+        ]
+      },
+      {
+        "page": 10,
+        "text": "O  O T R\nO  O T R",
+        "bbox": [
+          92.40009307861328,
+          487.2412414550781,
+          139.54214477539062,
+          514.50927734375
+        ]
+      },
+      {
+        "page": 10,
+        "text": "1\n2",
+        "bbox": [
+          101.28009033203125,
+          493.06597900390625,
+          120.66497802734375,
+          500.156982421875
+        ]
+      },
+      {
+        "page": 10,
+        "text": "2\n1",
+        "bbox": [
+          100.80008697509766,
+          509.385986328125,
+          121.77204895019531,
+          516.4769897460938
+        ]
+      },
+      {
+        "page": 10,
+        "text": "Let us now find the number of ways of rearranging the letters of the word\nINSTITUTE. In this case there are 9 letters, in which I appears 2 times and T appears\n3 times.\nTemporarily, let us treat these letters different and name them as I1, I2, T1,  T2, T3.\nThe number of permutations of 9 different letters, in this case, taken all at a time is 9 !.\nConsider one such permutation, say, I1 NT1 SI2 T2 U E T3.  Here if I1, I2 are not same",
+        "bbox": [
+          47.999969482421875,
+          528.9617309570312,
+          420.1111755371094,
+          611.8336791992188
+        ]
+      },
+      {
+        "page": 10,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 11,
+        "text": "and T1, T2, T3 are not same, then I1, I2 can be arranged in 2! ways and T1, T2, T3 can\nbe arranged in 3! ways. Therefore, 2! × 3! permutations will be just the same permutation\ncorresponding to this chosen permutation I1NT1SI2T2UET3. Hence, total number of",
+        "bbox": [
+          48.0,
+          96.96174621582031,
+          420.09405517578125,
+          138.31373596191406
+        ]
+      },
+      {
+        "page": 11,
+        "text": "different permutations will be 9!",
+        "bbox": [
+          48.0,
+          144.61685180664062,
+          196.4285888671875,
+          162.9217071533203
+        ]
+      },
+      {
+        "page": 11,
+        "text": "2!3!",
+        "bbox": [
+          181.92018127441406,
+          160.21682739257812,
+          201.94808959960938,
+          171.3538360595703
+        ]
+      },
+      {
+        "page": 11,
+        "text": "We can state (without proof) the following theorems:",
+        "bbox": [
+          72.0,
+          179.28175354003906,
+          303.89849853515625,
+          190.28175354003906
+        ]
+      },
+      {
+        "page": 11,
+        "text": "Theorem 3 The number of permutations of n objects, where p objects are of the",
+        "bbox": [
+          48.0,
+          199.19606018066406,
+          420.0226745605469,
+          210.20176696777344
+        ]
+      },
+      {
+        "page": 11,
+        "text": "!\nn",
+        "bbox": [
+          216.72018432617188,
+          219.0793914794922,
+          226.64151000976562,
+          245.97439575195312
+        ]
+      },
+      {
+        "page": 11,
+        "text": "!",
+        "bbox": [
+          222.2401885986328,
+          219.0793914794922,
+          225.9215087890625,
+          230.1343994140625
+        ]
+      },
+      {
+        "page": 11,
+        "text": "same kind and rest are all different = p .",
+        "bbox": [
+          48.000030517578125,
+          229.44175720214844,
+          213.312255859375,
+          240.44175720214844
+        ]
+      },
+      {
+        "page": 11,
+        "text": "In fact, we have a more general theorem.",
+        "bbox": [
+          72.0,
+          253.68174743652344,
+          254.92852783203125,
+          264.6817321777344
+        ]
+      },
+      {
+        "page": 11,
+        "text": "Theorem 4 The number of permutations of n objects, where p1 objects are of one\nkind, p2 are of second kind, ..., pk are of kth kind and the rest, if any, are of different",
+        "bbox": [
+          47.999969482421875,
+          273.5960388183594,
+          420.0198669433594,
+          301.0337829589844
+        ]
+      },
+      {
+        "page": 11,
+        "text": "!\n!\n!\n!\nk",
+        "bbox": [
+          90.48009490966797,
+          307.5768737792969,
+          133.7870635986328,
+          336.2659912109375
+        ]
+      },
+      {
+        "page": 11,
+        "text": "n\np p ... p .",
+        "bbox": [
+          83.03509521484375,
+          307.576904296875,
+          138.11000061035156,
+          334.3138732910156
+        ]
+      },
+      {
+        "page": 11,
+        "text": "kind is",
+        "bbox": [
+          47.999969482421875,
+          314.88177490234375,
+          79.640869140625,
+          325.88177490234375
+        ]
+      },
+      {
+        "page": 11,
+        "text": "1\n2",
+        "bbox": [
+          87.84009552001953,
+          329.052001953125,
+          105.84679412841797,
+          336.2659912109375
+        ]
+      },
+      {
+        "page": 11,
+        "text": "Example 9 Find the number of permutations of the letters of the word ALLAHABAD.",
+        "bbox": [
+          48.0,
+          348.2360534667969,
+          419.99609375,
+          359.24176025390625
+        ]
+      }
+    ]
+  },
+  {
+    "title": "EXERCISE 6.3",
+    "page_start": 15,
+    "page_end": 18,
+    "blocks": [
+      {
+        "page": 15,
+        "text": "1.\nHow many 3-digit numbers can be formed by using the digits 1 to 9 if no digit is\nrepeated?",
+        "bbox": [
+          54.0,
+          223.91603088378906,
+          420.0799255371094,
+          362.4738464355469
+        ]
+      },
+      {
+        "page": 15,
+        "text": "2.\nHow many 4-digit numbers are there with no digit repeated?",
+        "bbox": [
+          54.0,
+          223.91603088378906,
+          420.0799255371094,
+          362.4738464355469
+        ]
+      },
+      {
+        "page": 15,
+        "text": "3.\nHow many 3-digit even numbers can be made using the digits\n1, 2, 3, 4, 6, 7, if no digit is repeated?",
+        "bbox": [
+          54.0,
+          223.91603088378906,
+          420.0799255371094,
+          362.4738464355469
+        ]
+      },
+      {
+        "page": 15,
+        "text": "4.\nFind the number of 4-digit numbers that can be formed using the digits 1, 2, 3, 4,\n5 if no digit is repeated. How many of these will be even?",
+        "bbox": [
+          54.0,
+          223.91603088378906,
+          420.0799255371094,
+          362.4738464355469
+        ]
+      },
+      {
+        "page": 15,
+        "text": "5.\nFrom a committee of 8 persons, in how many ways can we choose a chairman\nand a vice chairman assuming one person can not hold more than one position?",
+        "bbox": [
+          54.0,
+          223.91603088378906,
+          420.0799255371094,
+          362.4738464355469
+        ]
+      },
+      {
+        "page": 15,
+        "text": "6.\nFind n if n – 1P3 : nP4 = 1 : 9.",
+        "bbox": [
+          54.0,
+          223.91603088378906,
+          420.0799255371094,
+          362.4738464355469
+        ]
+      },
+      {
+        "page": 15,
+        "text": "7.\nFind r if (i) 5\n6",
+        "bbox": [
+          53.99998474121094,
+          367.0407409667969,
+          161.0012969970703,
+          378.92181396484375
+        ]
+      },
+      {
+        "page": 15,
+        "text": "1\nP\n2 P\nr\nr−\n=\n(ii) 5\n6",
+        "bbox": [
+          129.840087890625,
+          367.0407409667969,
+          236.12159729003906,
+          381.8447265625
+        ]
+      },
+      {
+        "page": 15,
+        "text": "1\nP\nP\nr\nr−\n=\n.",
+        "bbox": [
+          211.68019104003906,
+          367.0937194824219,
+          259.54998779296875,
+          381.8447265625
+        ]
+      },
+      {
+        "page": 15,
+        "text": "8.\nHow many words, with or without meaning, can be formed using all the letters of\nthe word EQUATION, using each letter exactly once?",
+        "bbox": [
+          48.0,
+          385.43603515625,
+          420.0791931152344,
+          535.6417846679688
+        ]
+      },
+      {
+        "page": 15,
+        "text": "9.\nHow many words, with or without meaning can be made from the letters of the\nword MONDAY, assuming that no letter is repeated, if.\n(i)\n4 letters are used at a time,\n(ii)\nall letters are used at a time,\n(iii)\nall letters are used but first letter is a vowel?",
+        "bbox": [
+          48.0,
+          385.43603515625,
+          420.0791931152344,
+          535.6417846679688
+        ]
+      },
+      {
+        "page": 15,
+        "text": "10.\nIn how many of the distinct permutations of the letters in MISSISSIPPI do the\nfour I’s not come together?",
+        "bbox": [
+          48.0,
+          385.43603515625,
+          420.0791931152344,
+          535.6417846679688
+        ]
+      },
+      {
+        "page": 15,
+        "text": "11.\nIn how many ways can the letters of the word PERMUTATIONS be arranged if the\n(i)\nwords start with P and end with S,\n(ii)\nvowels are all together,\n(iii)\nthere are always 4 letters between P and S?",
+        "bbox": [
+          48.0,
+          385.43603515625,
+          420.0791931152344,
+          535.6417846679688
+        ]
+      },
+      {
+        "page": 15,
+        "text": "6.4 Combinations",
+        "bbox": [
+          47.999969482421875,
+          544.5120849609375,
+          140.15867614746094,
+          556.5120849609375
+        ]
+      },
+      {
+        "page": 15,
+        "text": "Let us now assume that there is a group of 3 lawn tennis players X, Y, Z. A team\nconsisting of 2 players is to be formed. In how many ways can we do so? Is the team\nof X and Y different from the team of Y and X ? Here, order is not important.\nIn fact, there are only 3 possible ways in which the team could be constructed.",
+        "bbox": [
+          47.999969482421875,
+          562.561767578125,
+          420.0837097167969,
+          615.32177734375
+        ]
+      },
+      {
+        "page": 15,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 16,
+        "text": "Fig. 6.3",
+        "bbox": [
+          221.13442993164062,
+          162.3675994873047,
+          251.86241149902344,
+          172.37066650390625
+        ]
+      },
+      {
+        "page": 16,
+        "text": "These are XY, YZ and ZX (Fig 6.3).\nHere, each selection is called a combination of 3 different objects taken 2 at a time.\nIn a combination, the order is not important.\nNow consider some more illustrations.\nTwelve persons meet in a room and each shakes hand with all the others. How do\nwe determine the number of hand shakes. X shaking hands with Y and  Y with X will\nnot be two different hand shakes. Here, order is not important. There will be as many\nhand shakes as there are combinations of 12 different things taken 2 at a time.\nSeven points lie on a circle. How many chords can be drawn by joining these\npoints pairwise? There will be as many chords as there are combinations of 7 different\nthings taken 2 at a time.\nNow, we obtain the formula for finding the number of combinations of n different\nobjects taken r at a time, denoted by nCr..\nSuppose we have 4 different objects A, B, C and D. Taking 2 at a time, if we have\nto make combinations, these will be AB, AC, AD, BC, BD, CD. Here,  AB and BA are\nthe same combination as order does not alter the combination. This is why we have not\nincluded BA, CA, DA, CB, DB and DC in this list. There are as many as 6 combinations\nof 4 different objects taken 2 at a time, i.e., 4C2 = 6.\nCorresponding to each combination in the list, we can arrive at 2! permutations as\n2 objects in each combination can be rearranged in 2! ways. Hence, the number of\npermutations = 4C2 × 2!.",
+        "bbox": [
+          47.03997802734375,
+          175.44178771972656,
+          421.27276611328125,
+          482.9540100097656
+        ]
+      },
+      {
+        "page": 16,
+        "text": "On the other hand, the number of permutations of 4 different things taken 2 at\na time = 4P2.",
+        "bbox": [
+          47.03998565673828,
+          487.20196533203125,
+          421.0450439453125,
+          515.3539428710938
+        ]
+      },
+      {
+        "page": 16,
+        "text": "2\n4!\nC\n4\n2 ! 2! =\n−",
+        "bbox": [
+          254.16015625,
+          521.9711303710938,
+          320.85528564453125,
+          548.611083984375
+        ]
+      },
+      {
+        "page": 16,
+        "text": "Therefore\n4P2 = 4C2 × 2!   or   (\n)",
+        "bbox": [
+          71.03999328613281,
+          531.4192504882812,
+          279.3603515625,
+          550.068359375
+        ]
+      },
+      {
+        "page": 16,
+        "text": "Now, let us suppose that we have 5 different objects A, B, C, D, E. Taking 3 at a\ntime, if we have to make combinations, these will be ABC, ABD, ABE, BCD, BCE,\nCDE, ACE, ACD, ADE, BDE. Corresponding to each of these 5C3 combinations, there\nare 3! permutations, because, the three objects in each combination can be",
+        "bbox": [
+          47.040008544921875,
+          558.0017700195312,
+          421.2272644042969,
+          612.4417114257812
+        ]
+      },
+      {
+        "page": 16,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 17,
+        "text": "rearranged in 3 ! ways. Therefore, the total of permutations = 5\n3\nC\n3!\n× 3\n5!\nC\n5\n3 ! 3! =\n−",
+        "bbox": [
+          48.0,
+          101.45599365234375,
+          357.01678466796875,
+          115.65499877929688
+        ]
+      },
+      {
+        "page": 17,
+        "text": "Therefore       5P3 = 5C3 × 3!    or\n(\n)",
+        "bbox": [
+          72.0,
+          136.47047424316406,
+          258.9577941894531,
+          153.56556701660156
+        ]
+      },
+      {
+        "page": 17,
+        "text": "These examples suggest the following theorem showing relationship between\npermutaion and combination:",
+        "bbox": [
+          48.0,
+          161.04176330566406,
+          420.0793762207031,
+          185.9617462158203
+        ]
+      },
+      {
+        "page": 17,
+        "text": "Theorem 5 P\nC\n!\nn\nn\nr\nr r\n=\n, 0 < r ≤ n.",
+        "bbox": [
+          48.0,
+          192.37399291992188,
+          212.27001953125,
+          209.0013885498047
+        ]
+      },
+      {
+        "page": 17,
+        "text": "Proof  Corresponding to each combination of nCr, we  have r ! permutations, because\nr objects in every combination can be rearranged in r ! ways.\nHence, the total number of permutations of n different things taken r at a time",
+        "bbox": [
+          48.00001525878906,
+          216.9617462158203,
+          420.0270690917969,
+          256.5217590332031
+        ]
+      },
+      {
+        "page": 17,
+        "text": "is nCr × r!. On the other hand, it is P\nn",
+        "bbox": [
+          48.000091552734375,
+          264.4146423339844,
+          214.86248779296875,
+          280.393798828125
+        ]
+      },
+      {
+        "page": 17,
+        "text": "r . Thus",
+        "bbox": [
+          213.60018920898438,
+          266.8817443847656,
+          247.44200134277344,
+          281.00146484375
+        ]
+      },
+      {
+        "page": 17,
+        "text": "P\nC\n!\nn\nn\nr\nr\nr\n=\n×\n, 0\nr\nn\n<\n≤\n.",
+        "bbox": [
+          106.56008911132812,
+          288.32073974609375,
+          216.35000610351562,
+          303.1247253417969
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nr\nn\nr\nn\nr\n=\n×\n−\n, i.e.,\n(\n)\n!\nC\n!\n!",
+        "bbox": [
+          168.48008728027344,
+          318.9927673339844,
+          349.0085754394531,
+          346.765625
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nr\nn\nr n\nr\n=\n−\n.",
+        "bbox": [
+          277.68017578125,
+          318.9927673339844,
+          355.54998779296875,
+          345.5517883300781
+        ]
+      },
+      {
+        "page": 17,
+        "text": "Remarks 1. From above (\n)\n!\nC\n!\n!",
+        "bbox": [
+          48.0,
+          318.9927978515625,
+          241.48858642578125,
+          346.765625
+        ]
+      },
+      {
+        "page": 17,
+        "text": "In particular, if r\nn\n=\n,\n!\nC\n1\n! 0!",
+        "bbox": [
+          48.0,
+          360.43951416015625,
+          214.0869140625,
+          387.3345031738281
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nn\nn\nn\n=\n= .",
+        "bbox": [
+          148.32008361816406,
+          360.43951416015625,
+          217.5500030517578,
+          387.3345031738281
+        ]
+      },
+      {
+        "page": 17,
+        "text": "2.\nWe define nC0 = 1, i.e., the number of combinations of n different things taken\nnothing at all is considered to be 1. Counting combinations is merely counting the\nnumber of ways in which some or all objects at a time are selected. Selecting\nnothing at all is the same as leaving behind all the objects and we know that there\nis only one way of doing so. This way we define nC0 = 1.",
+        "bbox": [
+          48.0,
+          394.9537353515625,
+          420.1057434082031,
+          464.2337951660156
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nr\nn\nr\nn\nr\n=\n−\n is applicable for r = 0 also.",
+        "bbox": [
+          231.3601837158203,
+          469.17999267578125,
+          420.0041198730469,
+          495.5868225097656
+        ]
+      },
+      {
+        "page": 17,
+        "text": "!\nC\n!\n!",
+        "bbox": [
+          237.36016845703125,
+          469.2070007324219,
+          304.91546630859375,
+          493.593017578125
+        ]
+      },
+      {
+        "page": 17,
+        "text": "0\n!\n1\nC\n0!\n0 !",
+        "bbox": [
+          89.28009033203125,
+          470.61102294921875,
+          172.29507446289062,
+          497.25103759765625
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nn\nn\n= =\n−\n, the formula\n(\n)",
+        "bbox": [
+          101.76010131835938,
+          470.61102294921875,
+          300.8897705078125,
+          497.25103759765625
+        ]
+      },
+      {
+        "page": 17,
+        "text": "3.\nAs\n(\n)",
+        "bbox": [
+          48.0,
+          477.5960998535156,
+          126.95195007324219,
+          498.708251953125
+        ]
+      },
+      {
+        "page": 17,
+        "text": "Hence",
+        "bbox": [
+          72.0,
+          506.0635070800781,
+          98.16340637207031,
+          516.5635375976562
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nr\nn\nr\nn\nr\n=\n−\n, 0 ≤ r ≤ n.",
+        "bbox": [
+          106.08009338378906,
+          523.4961547851562,
+          232.91000366210938,
+          549.5703735351562
+        ]
+      },
+      {
+        "page": 17,
+        "text": "!\nC\n!\n!",
+        "bbox": [
+          112.080078125,
+          523.52294921875,
+          182.01150512695312,
+          547.5919799804688
+        ]
+      },
+      {
+        "page": 17,
+        "text": "(\n)",
+        "bbox": [
+          148.56008911132812,
+          535.7144775390625,
+          178.01318359375,
+          551.0494995117188
+        ]
+      },
+      {
+        "page": 17,
+        "text": "n\nn r\nn\nn\nr\nn\nn\nr\n−=\n−\n−\n−\n  = (\n)\n!",
+        "bbox": [
+          73.92008972167969,
+          563.7366943359375,
+          244.38404846191406,
+          590.2958984375
+        ]
+      },
+      {
+        "page": 17,
+        "text": "! !\nn\nn\nr\nr\n−\n  = C\nn",
+        "bbox": [
+          220.3201904296875,
+          563.7366943359375,
+          287.08367919921875,
+          588.7807006835938
+        ]
+      },
+      {
+        "page": 17,
+        "text": "!\nC",
+        "bbox": [
+          78.72010040283203,
+          564.1151733398438,
+          158.06890869140625,
+          581.3721313476562
+        ]
+      },
+      {
+        "page": 17,
+        "text": "4.\n(\n)\n(\n)\n(\n)",
+        "bbox": [
+          48.0,
+          572.6360473632812,
+          193.2869110107422,
+          592.7265625
+        ]
+      },
+      {
+        "page": 17,
+        "text": "r ,",
+        "bbox": [
+          287.2801818847656,
+          572.6417236328125,
+          294.8299865722656,
+          587.2416381835938
+        ]
+      },
+      {
+        "page": 17,
+        "text": "!\n!",
+        "bbox": [
+          138.48008728027344,
+          579.7151489257812,
+          196.94671630859375,
+          590.2521362304688
+        ]
+      },
+      {
+        "page": 17,
+        "text": "Reprint 2026-27",
+        "bbox": [
+          205.31399536132812,
+          668.396240234375,
+          262.67401123046875,
+          679.3162231445312
+        ]
+      },
+      {
+        "page": 18,
+        "text": "i.e., selecting r objects out of n objects is same as rejecting (n – r) objects.",
+        "bbox": [
+          47.040000915527344,
+          98.88075256347656,
+          375.6105041503906,
+          109.88075256347656
+        ]
+      },
+      {
+        "page": 18,
+        "text": "5.\nnCa = nCb ⇒  a = b  or a = n – b, i.e., n = a + b",
+        "bbox": [
+          47.040008544921875,
+          113.89298248291016,
+          283.9209289550781,
+          129.43275451660156
+        ]
+      },
+      {
+        "page": 18,
+        "text": "Theorem 6\n1\n1\nC\nC\nC\nn\nn\nn\nr\nr\nr\n+\n−\n+\n=",
+        "bbox": [
+          47.040008544921875,
+          132.60276794433594,
+          191.4113311767578,
+          148.56463623046875
+        ]
+      },
+      {
+        "page": 18,
+        "text": "Proof  We have\n\n(\n)\n(\n) (\n)\n1\n!\n!\nC\nC\n!\n!\n1 !\n1 !",
+        "bbox": [
+          47.040000915527344,
+          158.370849609375,
+          329.3564453125,
+          186.46815490722656
+        ]
+      },
+      {
+        "page": 18,
+        "text": "n\nn\nr\nr\nn\nn\nr n\nr\nr\nn\nr\n−\n+\n=\n+\n−\n−\n−\n+",
+        "bbox": [
+          137.0400848388672,
+          158.370849609375,
+          315.6612243652344,
+          185.0108184814453
+        ]
+      },
+      {
+        "page": 18,
+        "text": "=\n(\n) (\n)\n!\n1 !\n!\nn\nr\nr\nn\nr\n×\n−\n−\n + (\n) (\n) (\n)\n!\n1 !\n1\n!\nn\nr\nn\nr\nn\nr\n−\n−\n+\n−",
+        "bbox": [
+          103.68000030517578,
+          200.19268798828125,
+          318.7666931152344,
+          228.92552185058594
+        ]
+      },
+      {
+        "page": 18,
+        "text": "1\nr\nn\nr\n\n\n+\n\n\n−\n+\n\n",
+        "bbox": [
+          185.7601776123047,
+          241.76271057128906,
+          248.32464599609375,
+          270.4565734863281
+        ]
+      },
+      {
+        "page": 18,
+        "text": "1\n1",
+        "bbox": [
+          191.04019165039062,
+          242.5994110107422,
+          228.24740600585938,
+          253.6544189453125
+        ]
+      },
+      {
+        "page": 18,
+        "text": "= (\n) (\n)\n!\n1 !\n!\nn\nr\nn\nr\n−\n−",
+        "bbox": [
+          103.68000030517578,
+          243.15267944335938,
+          183.7100067138672,
+          270.9256286621094
+        ]
+      },
+      {
+        "page": 18,
+        "text": "= (\n) (\n)\n(\n)\n!\n1\n1 !\n!\n1\nn\nn\nr\nr\nr\nn\nr\nr n\nr\n−\n+ +\n×\n−\n−\n−\n+\n =\n(\n)\n(\n)",
+        "bbox": [
+          103.68000030517578,
+          280.55328369140625,
+          309.6184997558594,
+          313.9217529296875
+        ]
+      },
+      {
+        "page": 18,
+        "text": "+\n+\n=\n+ −",
+        "bbox": [
+          278.6401672363281,
+          283.0122375488281,
+          332.2625427246094,
+          312.2236633300781
+        ]
+      },
+      {
+        "page": 18,
+        "text": "r\nn\nr n\nr",
+        "bbox": [
+          258.48016357421875,
+          284.8143005371094,
+          348.8736572265625,
+          312.4623107910156
+        ]
+      },
+      {
+        "page": 18,
+        "text": "1\n1 !\nC\n!\n1\n!",
+        "bbox": [
+          262.8001708984375,
+          284.8143005371094,
+          345.79595947265625,
+          312.4623107910156
+        ]
+      },
+      {
+        "page": 18,
+        "text": "n",
+        "bbox": [
+          324.24017333984375,
+          290.6772155761719,
+          327.8306884765625,
+          297.85821533203125
+        ]
+      },
+      {
+        "page": 18,
+        "text": "Example 17 If\n9\n8\nC\nC\nn\nn\n=\n, find\n17\nC\nn\n.",
+        "bbox": [
+          47.040000915527344,
+          324.27239990234375,
+          221.6300048828125,
+          340.5647277832031
+        ]
+      }
+    ]
+  },
+  {
+    "title": "EXERCISE 6.4",
+    "page_start": 20,
+    "page_end": 20,
+    "blocks": [
+      {
+        "page": 20,
+        "text": "1.\nIf  nC8 = nC2, find nC2.",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "2.\nDetermine n if\n(i) 2nC3 : nC3 = 12 : 1\n(ii) 2nC3 : nC3 = 11 : 1",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "3.\nHow many chords can be drawn through 21 points on a circle?",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "4.\nIn how many ways can a team of 3 boys and 3 girls be selected from 5 boys and\n4 girls?",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "5.\nFind the number of ways of selecting 9 balls from 6 red balls, 5 white balls and 5\nblue balls if each selection consists of 3 balls of each colour.",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "6.\nDetermine the number of 5 card combinations out of a deck of 52 cards if there\nis exactly one ace in each combination.",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "7.\nIn how many ways can one select a cricket team of eleven from 17 players in\nwhich only 5 players can bowl if each cricket team of  11 must include exactly 4\nbowlers?",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "8.\nA bag contains 5 black and 6 red balls. Determine the number of ways in which\n2 black and 3 red balls can be selected.",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "9.\nIn how many ways can a student choose a programme of 5 courses if 9 courses\nare available and 2 specific courses are compulsory for every student?",
+        "bbox": [
+          47.999969482421875,
+          291.27374267578125,
+          420.0863037109375,
+          524.8418579101562
+        ]
+      },
+      {
+        "page": 20,
+        "text": "Miscellaneous Examples",
+        "bbox": [
+          172.55996704101562,
+          539.7595825195312,
+          295.4506530761719,
+          551.7595825195312
+        ]
+      },
+      {
+        "page": 20,
+        "text": "Example 20 How many words, with or without meaning, each of 3 vowels and 2\nconsonants can be formed from the letters of the word INVOLUTE ?",
+        "bbox": [
+          47.999969482421875,
+          558.9561767578125,
+          420.05078125,
+          583.641845703125
+        ]
+      }
+    ]
+  }
+]

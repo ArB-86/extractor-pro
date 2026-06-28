@@ -20,9 +20,33 @@ _QUESTION_STOP = re.compile(
     re.I,
 )
 
+_STOP_LINE_PATTERNS = (
+    _QUESTION_STOP,
+    re.compile(r"^\([D-E]\)\s*(?:Activities|Activity)", re.I),
+    re.compile(r"^\(D\)\s*Short\s+Answer", re.I),
+    re.compile(r"^\(E\)\s*Long\s+Answer", re.I),
+    re.compile(r"^Example(?:\s+\d+)?\b", re.I),
+    re.compile(r"^Try\s+This\b", re.I),
+    re.compile(r"^Reprint\b", re.I),
+    re.compile(r"^Summary\b", re.I),
+    re.compile(r"^Exercise(?:\s+\d+(?:\.\d+)?)?\b", re.I),
+    re.compile(r"^Activity(?:\s+\d+)?\b", re.I),
+    re.compile(r"^Figure(?:\s+it\s+Out|\s+It\s+Out|\s+It\s+out)?\b", re.I),
+)
+
 
 def _normalize_key(text: str) -> str:
     return " ".join(text.split()).strip().lower()
+
+
+def _has_stop_header(text: str) -> bool:
+    for line in text.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if any(pattern.match(stripped) for pattern in _STOP_LINE_PATTERNS):
+            return True
+    return False
 
 
 class QuestionParser:
@@ -47,22 +71,7 @@ class QuestionParser:
             if not text:
                 continue
 
-            first_line = text.split("\n")[0].strip()
-
-            if _QUESTION_STOP.match(first_line):
-                break
-
-            if re.search(
-                r"^\([D-E]\)\s*(?:Activities|Activity)",
-                first_line,
-                re.I,
-            ):
-                break
-
-            if first_line.startswith("(D) Short Answer"):
-                break
-
-            if first_line.startswith("(E) Long Answer"):
+            if _has_stop_header(text):
                 break
 
             m = QUESTION_START.match(text)
