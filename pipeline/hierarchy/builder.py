@@ -12,6 +12,7 @@ class HierarchyBuilder:
         root = Node(block=None)
 
         current_exercise = None
+        current_question = None
 
         for block in blocks:
 
@@ -21,13 +22,23 @@ class HierarchyBuilder:
 
                 root.add(node)
                 current_exercise = node
+                current_question = None
 
-            elif (
-                block.block_type == BlockType.QUESTION
-                and current_exercise is not None
-            ):
+            elif block.block_type == BlockType.QUESTION:
 
-                current_exercise.add(node)
+                current_question = node
+
+                if current_exercise is not None:
+                    current_exercise.add(node)
+                else:
+                    root.add(node)
+
+            elif block.block_type == BlockType.SUBQUESTION:
+
+                if current_question is not None:
+                    current_question.add(node)
+                else:
+                    root.add(node)
 
             else:
 
