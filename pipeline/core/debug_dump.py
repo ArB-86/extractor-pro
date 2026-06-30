@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import shutil
 from dataclasses import asdict, is_dataclass
+from enum import Enum
 from pathlib import Path
 from typing import Any, Callable
 
@@ -58,17 +59,22 @@ class PipelineDebugger:
 		)
 
 
+
 def serialize(value: Any) -> Any:
-	if is_dataclass(value):
-		return asdict(value)
 
-	if isinstance(value, dict):
-		return {key: serialize(item) for key, item in value.items()}
+        if is_dataclass(value):
+                return serialize(asdict(value))
 
-	if isinstance(value, (list, tuple)):
-		return [serialize(item) for item in value]
+        if isinstance(value, Enum):
+                return value.name
 
-	if isinstance(value, Path):
-		return str(value)
+        if isinstance(value, dict):
+                return {key: serialize(item) for key, item in value.items()}
 
-	return value
+        if isinstance(value, (list, tuple)):
+                return [serialize(item) for item in value]
+
+        if isinstance(value, Path):
+                return str(value)
+
+        return value

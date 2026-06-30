@@ -3,7 +3,7 @@ from __future__ import annotations
 import re
 
 QUESTION_START = re.compile(
-    r"(?m)^(?:\*?\d+)\.\s+"
+    r"(?m)^(?P<star>\*)?(?P<number>\d+)\.\s+"
 )
 
 SUBQUESTION_ALPHA = re.compile(

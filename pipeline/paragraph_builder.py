@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import List
 
-from parsers.pdf_parser import Paragraph
+from pipeline.models import Paragraph
 
 
 class ParagraphBuilder:

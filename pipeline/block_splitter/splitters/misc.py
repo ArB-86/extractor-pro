@@ -7,5 +7,9 @@ from ..base import BaseSplitter
 
 class MiscSplitter(BaseSplitter):
 
+    name = "misc"
+
+    priority = 390
+
     def split(self, blocks: List[Any]) -> List[Any]:
         return blocks

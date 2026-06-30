@@ -7,5 +7,9 @@ from ..base import BaseSplitter
 
 class SectionSplitter(BaseSplitter):
 
+    name = "section"
+
+    priority = 200
+
     def split(self, blocks: List[Any]) -> List[Any]:
         return blocks

@@ -7,5 +7,9 @@ from ..base import BaseSplitter
 
 class ParagraphSplitter(BaseSplitter):
 
+    name = "paragraph"
+
+    priority = 900
+
     def split(self, blocks: List[Any]) -> List[Any]:
         return blocks

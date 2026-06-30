@@ -7,5 +7,9 @@ from ..base import BaseSplitter
 
 class ExerciseSplitter(BaseSplitter):
 
+    name = "exercise"
+
+    priority = 300
+
     def split(self, blocks: List[Any]) -> List[Any]:
         return blocks
