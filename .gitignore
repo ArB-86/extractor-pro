@@ -1,33 +1,12 @@
-# Python
 __pycache__/
-*.py[cod]
-*.so
-*.egg-info/
-.venv/
-venv/
-.env
+.pytest_cache/
+*.pyc
 
-# IDE
-.vscode/
-.idea/
-
-# Outputs
+debug/
 output/
-reports/
-logs/
-benchmark/results/
 
-# Generated data
-data/
-*.jsonl
-*.csv
+benchmark/outputs/
 
-# Debug
-*.log
+.idea/
+.vscode/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
-.DS_Store
-Thumbs.db
