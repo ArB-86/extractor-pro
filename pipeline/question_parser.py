@@ -5,7 +5,39 @@ import re
 from models.question import Question
 
 
-QUESTION_START = re.compile(r"^\s*([1-9][0-9]*)\.(?:\s|\n|$)")
+QUESTION_START = re.compile(
+    r"^\s*\*?\s*([1-9][0-9]*)\.(?:\s|\n|$)"
+)
+
+
+def _is_real_question_start(text: str) -> bool:
+
+    m = QUESTION_START.match(text)
+
+    if not m:
+        return False
+
+    lines = [x.strip() for x in text.splitlines() if x.strip()]
+
+    if len(lines) == 1:
+        return True
+
+    second = lines[1]
+
+    # Table rows
+    if len(second.split()) <= 2:
+        return False
+
+    # Gender column
+    if second in {"M", "F"}:
+        return False
+
+    # Pure numbers
+    if second.replace(".", "").isdigit():
+        return False
+
+    return True
+
 
 _QUESTION_STOP = re.compile(
     r"^(?:"
@@ -25,6 +57,8 @@ _STOP_LINE_PATTERNS = (
     re.compile(r"^\([D-E]\)\s*(?:Activities|Activity)", re.I),
     re.compile(r"^\(D\)\s*Short\s+Answer", re.I),
     re.compile(r"^\(E\)\s*Long\s+Answer", re.I),
+
+    # Safe textbook boundaries
     re.compile(r"^Example(?:\s+\d+)?\b", re.I),
     re.compile(r"^Try\s+This\b", re.I),
     re.compile(r"^Reprint\b", re.I),
@@ -32,6 +66,16 @@ _STOP_LINE_PATTERNS = (
     re.compile(r"^Exercise(?:\s+\d+(?:\.\d+)?)?\b", re.I),
     re.compile(r"^Activity(?:\s+\d+)?\b", re.I),
     re.compile(r"^Figure(?:\s+it\s+Out|\s+It\s+Out|\s+It\s+out)?\b", re.I),
+
+    re.compile(r"^Try$", re.I),
+    re.compile(r"^This$", re.I),
+
+    re.compile(r"^Math$", re.I),
+    re.compile(r"^Talk$", re.I),
+
+    re.compile(r"^Miscellaneous\s+Examples\b", re.I),
+    re.compile(r"^Miscellaneous\s+Exercise\b", re.I),
+    re.compile(r"^Historical\s+Note\b", re.I),
 )
 
 
@@ -40,12 +84,22 @@ def _normalize_key(text: str) -> str:
 
 
 def _has_stop_header(text: str) -> bool:
-    for line in text.splitlines():
+    lines = text.splitlines()
+
+    for line in lines:
+
         stripped = line.strip()
+
         if not stripped:
             continue
+
+        # Don't treat a question number as a stop header.
+        if QUESTION_START.match(stripped):
+            continue
+
         if any(pattern.match(stripped) for pattern in _STOP_LINE_PATTERNS):
             return True
+
     return False
 
 
@@ -71,10 +125,62 @@ class QuestionParser:
             if not text:
                 continue
 
-            if _has_stop_header(text):
-                break
+            # Detect section breaks inside oversized questions
+            if (
+                current is not None
+                and not QUESTION_START.match(text)
+                and len(text.splitlines()) >= 2
+            ):
+                first = text.splitlines()[0].strip()
 
-            m = QUESTION_START.match(text)
+                if (
+                    first
+                    and first[0].isupper()
+                    and not first.endswith("?")
+                    and not first.endswith(":")
+                    and len(first.split()) >= 4
+                ):
+                    questions.append(current)
+                    current = None
+                    continue
+
+            lines = text.splitlines()
+
+            stop_idx = None
+
+            for i, line in enumerate(lines):
+
+                s = line.strip()
+
+                for p in _STOP_LINE_PATTERNS:
+                    if p.match(s):
+                        print("=" * 80)
+                        print("STOP MATCH")
+                        print("SECTION:", self.section.title)
+                        print("LINE:", repr(s))
+                        print("PATTERN:", p.pattern)
+                        stop_idx = i
+                        break
+
+                if stop_idx is not None:
+                    break
+
+            if stop_idx is not None:
+
+                if current is not None and stop_idx > 0:
+                    before = "\n".join(lines[:stop_idx]).strip()
+
+                    if before:
+                        current.question += "\n" + before
+
+                    current.page_end = block.page
+
+                    questions.append(current)
+                    current = None
+
+                continue
+
+            m = QUESTION_START.match(text) if _is_real_question_start(text) else None
 
             if m:
 
@@ -103,6 +209,27 @@ class QuestionParser:
                 continue
 
             if current is not None:
+
+                if text.strip() == "Exploring Some Geometric Themes":
+                    continue
+
+                if text.startswith("Ganita Prakash |"):
+                    continue
+
+                if text.strip().startswith("Miscellaneous Examples"):
+                    questions.append(current)
+                    current = None
+                    continue
+
+                if text.strip().startswith("Historical Note"):
+                    questions.append(current)
+                    current = None
+                    continue
+
+                if text.strip().startswith("Summary"):
+                    questions.append(current)
+                    current = None
+                    continue
 
                 key = _normalize_key(text)
                 if key and key in seen_text:

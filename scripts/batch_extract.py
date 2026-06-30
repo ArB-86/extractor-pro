@@ -1,4 +1,3 @@
-
 import sys
 from pathlib import Path
 
@@ -51,6 +50,14 @@ def extract_pdf(pdf_path: Path, output_dir: Path):
 
     grade = ctx.metadata.get("class")
     output_file = output_dir / f"{pdf_path.stem}.json"
+
+    print("=" * 80)
+    print("MAX QUESTION LENGTH BEFORE EXPORT")
+    print(max(len(q.question) for q in ctx.questions))
+
+    x = max(ctx.questions, key=lambda q: len(q.question))
+    print(x.question[:800])
+    print("=" * 80)
 
     JSONExporter().export(
         ctx.questions,
