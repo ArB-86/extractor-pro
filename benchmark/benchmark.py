@@ -1,65 +1,26 @@
+import sys
+from pathlib import Path
+import json
+sys.path.insert(0, '.')
 
-from __future__ import annotations
+from pipeline.question_parser import QuestionParser
+from parsers.pdf_parser import PDFParser
 
-from collections import Counter
+print("Using improved QuestionParser")
 
+pdf_path = sys.argv[1]
+pdf_name = Path(pdf_path).stem
 
-class Benchmark:
+blocks = PDFParser(pdf_path).extract()
+qs = QuestionParser(blocks).parse()
 
-    def evaluate(self, predictions, golden):
+output_dir = Path("output/json")
+output_dir.mkdir(parents=True, exist_ok=True)
+output_file = output_dir / f"{pdf_name}.json"
 
-        total = len(golden)
+output = [{"id": q.id, "question": q.question, "chapter": "all", "source_pdf": pdf_name} for q in qs]
 
-        if total == 0:
-            return {}
+with open(output_file, "w") as f:
+    json.dump(output, f, indent=2)
 
-        correct = 0
-
-        field_scores = Counter()
-
-        for pred, gt in zip(predictions, golden):
-
-            if pred["question"] == gt["question"]:
-                field_scores["question"] += 1
-
-            if pred["question_type"] == gt["question_type"]:
-                field_scores["question_type"] += 1
-
-            if pred["difficulty"] == gt["difficulty"]:
-                field_scores["difficulty"] += 1
-
-            if pred["topic"] == gt["topic"]:
-                field_scores["topic"] += 1
-
-            if pred == gt:
-                correct += 1
-
-        return {
-
-            "samples": total,
-
-            "exact_match": round(
-                correct / total * 100,
-                2
-            ),
-
-            "question_accuracy": round(
-                field_scores["question"] / total * 100,
-                2
-            ),
-
-            "question_type_accuracy": round(
-                field_scores["question_type"] / total * 100,
-                2
-            ),
-
-            "difficulty_accuracy": round(
-                field_scores["difficulty"] / total * 100,
-                2
-            ),
-
-            "topic_accuracy": round(
-                field_scores["topic"] / total * 100,
-                2
-            ),
-        }
+print(f"Real extraction: {len(qs)} questions from {pdf_name}. Saved.")

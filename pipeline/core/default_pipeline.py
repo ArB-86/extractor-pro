@@ -10,10 +10,9 @@ from pipeline.core.section_parser_stage import SectionParserStage
 from pipeline.core.question_parser_stage import QuestionParserStage
 from pipeline.core.question_enrichment_stage import QuestionEnrichmentStage
 from pipeline.core.metrics_stage import MetricsStage
-
+from pipeline.core.export_stage import ExportStage
 
 def build():
-
     r = Registry()
 
     r.register(MetadataStage())
@@ -27,5 +26,7 @@ def build():
     r.register(QuestionParserStage())
     r.register(QuestionEnrichmentStage())
     r.register(MetricsStage())
+    # Register the exporter with a target file path
+    r.register(ExportStage("output/json/final_dataset.json"))
 
     return r.build()

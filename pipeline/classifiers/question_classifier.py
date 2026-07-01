@@ -5,7 +5,9 @@ import re
 from pipeline.models import BlockType
 
 
-QUESTION_RE = re.compile(r'^\*?\d+\.\s')
+QUESTION_RE = re.compile(
+    r"^(?P<star>\*)?(?P<number>\d+)\.\s+"
+)
 
 
 class QuestionClassifier:
@@ -14,7 +16,19 @@ class QuestionClassifier:
 
         for block in blocks:
 
-            if QUESTION_RE.match(block.text):
-                block.block_type = BlockType.QUESTION
+            match = QUESTION_RE.match(block.text.strip())
+
+            if match is None:
+                continue
+
+            block.block_type = BlockType.QUESTION
+
+            block.metadata["question_no"] = int(
+                match.group("number")
+            )
+
+            block.metadata["starred"] = (
+                match.group("star") is not None
+            )
 
         return blocks

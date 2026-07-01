@@ -56,10 +56,16 @@ class BlockNormalizer:
 
       if (
         text
-        and len(text) < 40
+        and len(text) < 80
         and not re.match(r"^\d+\.", text)
         and not re.match(r"^\([A-E]\)", text, re.I)
-        and prev.text.rstrip().endswith(("=", "+", "-", "/", "×", "·"))
+        and (
+          prev.text.rstrip().endswith(
+            ("=", "+", "-", "/", "×", "·", "(", "[", "{", ":")
+          )
+          or text.startswith((")", "]", "}", ",", ".", "%"))
+          or text[:1].islower()
+        )
       ):
         prev.text = prev.text.rstrip() + " " + text
         continue

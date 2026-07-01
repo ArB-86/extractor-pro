@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: extractor-pro
+Version: 0.1.0
+Summary: Research-grade PDF extraction pipeline for NCERT Mathematics
+Requires-Python: >=3.11
