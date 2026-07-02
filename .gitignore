@@ -1,12 +1,17 @@
 __pycache__/
-.pytest_cache/
 *.pyc
 
-debug/
 output/
+reports/
 
-benchmark/outputs/
+datasets/intermediate/
+datasets/cache/
+datasets/embeddings/
+datasets/vector/
+datasets/logs/
 
-.idea/
-.vscode/
+*.parquet
+*.sqlite
+*.db
 
+.env
