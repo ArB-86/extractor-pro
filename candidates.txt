@@ -1,0 +1,122 @@
+P01 : 6.1  Introduction
+P01 : lock has 4 wheels each labelled with 10 digits from 0 to 9.
+P01 : the first digit which is 7. In order to open  the lock, how
+P01 : 6.2  Fundamental Principle of Counting
+P02 : Let us name the three pants as P1, P2, P3  and the two shirts as S1, S2. Then,
+P02 : these six possibilities can be illustrated in the Fig. 6.1.
+P02 : Fig 6.1
+P02 : the two water bottles as W1, W2, these possibilities can be illustrated in the Fig. 6.2.
+P02 : Fig 6.2
+P03 : 4 places can be filled, by the multiplication principle, is 4 × 3 × 2 × 1 = 24. Hence, the
+P03 : required number of words is 24.
+P04 : in 4 different ways. Hence, the required number of words = 4 × 4 × 4 × 4 = 256.
+P04 : Hence, by the multiplication principle, the required number of signals = 4 × 3 = 12.
+P04 : number of two digits even numbers is 2 × 5, i.e., 10.
+P04 : ways is 5 × 4 = 20.
+P05 : The number of ways is 5 × 4 × 3 = 60.
+P05 : the required no of signals = 20 + 60 + 120 + 120 = 320.
+P05 : EXERCISE 6.1
+P05 : 1.
+P05 : 2.
+P05 : 3.
+P05 : 4.
+P05 : 5.
+P05 : 6.
+P05 : 6.3 Permutations
+P05 : be 6 × 6 × 6 = 216.
+P06 : 6.3.1  Permutations when all the objects are distinct
+P06 : 6.3.2  Factorial notation  The notation n! represents the product of first n natural
+P07 : (iii) 7 !  –  5! = 5040  –  120 = 4920.
+P07 : = 6 × 11 = 66.
+P07 : , when n = 5, r = 2.
+P07 : x = 100.
+P07 : EXERCISE 6.2
+P07 : 1.
+P08 : 2.
+P08 : 3. Compute
+P08 : 4. If
+P08 : 5.
+P08 : (ii) n = 9, r = 5.
+P08 : 6.3.3  Derivation of the formula for nPr
+P09 : In Example 1, the required number of words = 4P4 = 4! = 24. Here repetition is
+P09 : not allowed.  If repetition is allowed, the required number of words would be 44 = 256.
+P09 : = 4 × 5 × 6 = 120. Here, in this case also, the repetition is not
+P09 : allowed. If  the repetition is allowed,the required number of words would be 63 = 216.
+P09 : = 132.
+P09 : 6.3.4   Permutations when all the objects are not distinct objects  Suppose we have
+P09 : Let us treat, temporarily, the 2 Os as different, say, O1 and O2. The number of
+P10 : Temporarily, let us treat these letters different and name them as I1, I2, T1,  T2, T3.
+P10 : Consider one such permutation, say, I1 NT1 SI2 T2 U E T3.  Here if I1, I2 are not same
+P11 : corresponding to this chosen permutation I1NT1SI2T2UET3. Hence, total number of
+P11 : 5! = 9 × 8 × 7 × 6 = 3024.
+P12 : count the permutations of 6 digits taken 3 at a time. This number would be 6P3. But,
+P12 : 5 digits taking 2 at a time. This number is 5P2. So
+P12 : As n cannot be  negative, so  n = 10.
+P12 : n = 10.
+P13 : r = 8   or  r = 3.
+P13 : r = 8, 3.
+P13 : permutations = 6 ! × 3 ! = 4320.
+P13 : Solution Total number of discs are 4 + 3 + 2 = 9. Out of 9 discs, 4 are of the first kind
+P15 : EXERCISE 6.3
+P15 : 1.
+P15 : 2.
+P15 : 3.
+P15 : 4.
+P15 : 5.
+P15 : Find n if n – 1P3 : nP4 = 1 : 9.
+P15 : 6.
+P15 : 7.
+P15 : 8.
+P15 : 9.
+P15 : 10.
+P15 : 11.
+P15 : 6.4 Combinations
+P16 : Fig. 6.3
+P16 : These are XY, YZ and ZX (Fig 6.3).
+P16 : of 4 different objects taken 2 at a time, i.e., 4C2 = 6.
+P16 : a time = 4P2.
+P17 : Remarks 1. From above (
+P17 : 2.
+P17 : nothing at all is considered to be 1. Counting combinations is merely counting the
+P17 : is only one way of doing so. This way we define nC0 = 1.
+P17 : 3.
+P17 : 4.
+P18 : 5.
+P19 : The required number of ways = 13C4 + 13C4 + 13C4 + 13C4.
+P20 : = 29900.
+P20 : EXERCISE 6.4
+P20 : If  nC8 = nC2, find nC2.
+P20 : 1.
+P20 : 2.
+P20 : 3.
+P20 : 4.
+P20 : 5.
+P20 : 6.
+P20 : 7.
+P20 : 8.
+P20 : 9.
+P21 : The number of ways of selecting 3 vowels out of 4 = 4C3 = 4.
+P21 : The number of ways of selecting 2 consonants out of 4 = 4C2 = 6.
+P21 : 4 × 6 = 24.
+P21 : 24 × 5 ! = 2880.
+P22 : A =  4! = 24. Then, starting with G, the number of words
+P22 : = 24 + 12 + 12 =48.
+P22 : 7. Therefore, the numbers to be counted will be 7-digit only. Also, the numbers have to
+P22 : be greater than 1000000, so they can begin either with 1, 2 or 4.
+P23 : Therefore, the required number of numbers  = 60 + 180 + 120 = 360.
+P23 : 3! 2! (by fixing 0 at the extreme left position) = 60.
+P23 : Therefore, the required number of numbers = 420 – 60 = 360.
+P23 : = 4 × 5 × 2 × 3 × 4 × 5 × 6  = 14400.
+P23 : 1.
+P23 : 2.
+P23 : 3.
+P23 : 4.
+P24 : 5.
+P24 : 6.
+P24 : 7.
+P24 : 8.
+P24 : 9.
+P24 : 10.
+P24 : 11.
+P25 : and so on. This was around 1140. It appears that Rabbi ben Ezra did not know
+P26 : Bernoulli (1654 – 1705), posthumously published in 1713. This book contains

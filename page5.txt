@@ -1,0 +1,130 @@
+================================================================================
+BLOCK 0
+
+104       MATHEMATICS | TimesNewRoman | 8.0 | 4
+================================================================================
+BLOCK 1
+
+The number of ways is 5 × 4 × 3 = 60. | TimesNewRoman | 11.0 | 4
+
+Continuing the same way, we find that | TimesNewRoman | 11.0 | 4
+
+The number of 4 flag signals | TimesNewRoman | 11.0 | 4
+  | TimesNewRoman | 11.0 | 4
+= 5 × 4 × 3 × 2 = 120 | TimesNewRoman | 11.0 | 4
+
+and | TimesNewRoman | 11.0 | 4
+
+the number of 5 flag signals | TimesNewRoman | 11.0 | 4
+  | TimesNewRoman | 11.0 | 4
+= 5 × 4 × 3 × 2 × 1 = 120 | TimesNewRoman | 11.0 | 4
+
+Therefore, | TimesNewRoman | 11.0 | 4
+
+the required no of signals | TimesNewRoman | 11.0 | 4
+  | TimesNewRoman | 11.0 | 4
+= 20 + 60 + 120 + 120 = 320. | TimesNewRoman | 11.0 | 4
+================================================================================
+BLOCK 2
+
+EXERCISE 6.1 | TimesNewRoman,Bold | 12.0 | 20
+================================================================================
+BLOCK 3
+
+1. | TimesNewRoman,Bold | 11.0 | 20
+
+How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 and 5 | TimesNewRoman | 11.0 | 4
+
+assuming that | TimesNewRoman | 11.0 | 4
+================================================================================
+BLOCK 4
+
+(i) | TimesNewRoman | 11.0 | 4
+
+repetition of the digits is allowed? | TimesNewRoman | 11.0 | 4
+
+(ii) | TimesNewRoman | 11.0 | 4
+
+repetition of the digits is not allowed? | TimesNewRoman | 11.0 | 4
+================================================================================
+BLOCK 5
+
+2. | TimesNewRoman,Bold | 11.0 | 20
+
+How many 3-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 if the | TimesNewRoman | 11.0 | 4
+
+digits can be repeated? | TimesNewRoman | 11.0 | 4
+
+3. | TimesNewRoman,Bold | 11.0 | 20
+
+How many 4-letter code can be formed using the first 10 letters of the English | TimesNewRoman | 11.0 | 4
+
+alphabet, if no letter can be repeated? | TimesNewRoman | 11.0 | 4
+
+4. | TimesNewRoman,Bold | 11.0 | 20
+
+How many 5-digit telephone numbers can be constructed using the digits 0  to 9 if | TimesNewRoman | 11.0 | 4
+
+each number starts with 67 and no digit appears more than once? | TimesNewRoman | 11.0 | 4
+
+5. | TimesNewRoman,Bold | 11.0 | 20
+
+A coin is tossed 3 times and the outcomes are recorded. How many possible | TimesNewRoman | 11.0 | 4
+
+outcomes are there? | TimesNewRoman | 11.0 | 4
+
+6. | TimesNewRoman,Bold | 11.0 | 20
+
+Given 5 flags of different colours, how many different signals can be generated if | TimesNewRoman | 11.0 | 4
+
+each signal requires the use of 2 flags, one below the other? | TimesNewRoman | 11.0 | 4
+================================================================================
+BLOCK 6
+
+6.3 | TimesNewRoman,Bold | 12.0 | 20
+  | TimesNewRoman,Bold | 12.0 | 20
+Permutations | TimesNewRoman,Bold | 12.0 | 20
+================================================================================
+BLOCK 7
+
+In Example 1 of  the previous Section, we are actually counting the different possible | TimesNewRoman | 11.0 | 4
+
+arrangements of the letters such as ROSE, REOS, ..., etc. Here, in this list, each | TimesNewRoman | 11.0 | 4
+
+arrangement is different from other. In other words, the order of writing the letters is | TimesNewRoman | 11.0 | 4
+
+important. Each arrangement is called a  | TimesNewRoman | 11.0 | 4
+permutation | TimesNewRoman,Italic | 11.0 | 6
+  | TimesNewRoman | 11.0 | 4
+of  | TimesNewRoman,Italic | 11.0 | 6
+4 | TimesNewRoman | 11.0 | 4
+ different letters taken all | TimesNewRoman,Italic | 11.0 | 6
+
+at a time | TimesNewRoman,Italic | 11.0 | 6
+. Now, if we have to determine the number of 3-letter words, with or without | TimesNewRoman | 11.0 | 4
+
+meaning, which can be formed out of the letters of the word NUMBER, where the | TimesNewRoman | 11.0 | 4
+
+repetition of the letters is not allowed, we need to count the arrangements NUM, | TimesNewRoman | 11.0 | 4
+
+NMU, MUN, NUB, ..., etc. Here, we are counting the permutations of 6 different | TimesNewRoman | 11.0 | 4
+
+letters taken 3 at a time. The required number of words = 6 × 5 × 4 = 120 (by using | TimesNewRoman | 11.0 | 4
+
+multiplication principle). | TimesNewRoman | 11.0 | 4
+
+If the repetition of the letters was allowed, the required number of words would | TimesNewRoman | 11.0 | 4
+
+be 6 × 6 × 6 = 216. | TimesNewRoman | 11.0 | 4
+================================================================================
+BLOCK 8
+
+Reprint 2026-27 | Arial | 8.0 | 0
+================================================================================
+BLOCK 9
+================================================================================
+BLOCK 10
+================================================================================
+BLOCK 11
+================================================================================
+BLOCK 12

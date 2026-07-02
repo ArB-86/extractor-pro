@@ -7,7 +7,7 @@ from pipeline.core.block_merger_stage import BlockMergerStage
 from pipeline.core.block_normalizer_stage import BlockNormalizerStage
 from pipeline.core.layout_cleaner_stage import LayoutCleanerStage
 from pipeline.core.section_parser_stage import SectionParserStage
-from pipeline.core.question_parser_stage import QuestionParserStage
+from pipeline.core.question_parser_v2_stage import QuestionParserV2Stage
 from pipeline.core.question_enrichment_stage import QuestionEnrichmentStage
 from pipeline.core.metrics_stage import MetricsStage
 from pipeline.core.export_stage import ExportStage
@@ -23,7 +23,7 @@ def build():
     r.register(BlockNormalizerStage())
     r.register(LayoutCleanerStage())
     r.register(SectionParserStage())
-    r.register(QuestionParserStage())
+    r.register(QuestionParserV2Stage())
     r.register(QuestionEnrichmentStage())
     r.register(MetricsStage())
     # Register the exporter with a target file path

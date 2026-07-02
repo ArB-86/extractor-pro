@@ -1,0 +1,53 @@
+   71.7 | PERMUTATIONS AND COMBINATIONS       107
+  102.9 | 8! 1 1 x
+  108.1 | + =
+  113.3 | 2. Is 3 ! + 4 ! = 7 ! ? 3. Compute 4. If , find x
+  117.0 | 6! 2! × 6! 7! 8!
+  143.8 | n !
+  154.6 | 5. Evaluate ( ) , when
+  157.6 | n − r !
+  182.2 | (i) n = 6, r = 2 (ii) n = 9, r = 5.
+  202.0 | 6.3.3  Derivation of the formula for nPr
+  222.0 | n !
+  227.1 | n P = , 0 ≤ r ≤ n
+  233.6 | r ( )
+  235.8 | n − r !
+  257.5 | Let us now go back to the stage where we had determined the following formula:
+  274.2 | nPr = n (n – 1) (n – 2) . . .  (n – r + 1)
+  291.4 | Multiplying numerator and denomirator by (n – r) (n – r – 1) . . . 3 × 2 × 1, we get
+  308.6 | ( ) ( ) ( )( )( )
+  311.1 | n n − 1 n − 2 ... n − r + 1 n − r n − r − 1 ... 3 2 1 × ×
+  315.1 | n !
+  318.8 | n =
+  320.8 | P
+  324.2 | ( )( ) = ( ,
+  326.7 | r − −− × × )
+  328.9 | n r n r 1 ... 3 2 1 n − r !
+  356.0 | n !
+  360.8 | n =
+  362.9 | P
+  366.2 | Thus ( ) , where 0 < r ≤n
+  368.5 | r −
+  371.6 | n r !
+  391.1 | This is a much more convenient expression for nPr than the previous one.
+  410.8 | n !
+  416.0 | n P = = n !
+  418.3 | In particular, when r = n,
+  423.7 | n
+  426.6 | 0!
+  442.1 | Counting permutations is merely counting the number of ways in which some or
+  456.0 | all objects at a time are rearranged. Arranging no object at all is the same as leaving
+  469.9 | behind all the objects and we know that there is only one way of doing so. Thus, we
+  483.8 | can have
+  503.4 | n ! n !
+  507.6 | =
+  512.8 | n P0 = 1 = ... (1)
+  516.0 | −
+  518.7 | n ! ( n 0)!
+  550.6 | Therefore, the formula (1) is applicable for r = 0 also.
+  570.5 | n !
+  575.4 | n = ≤ ≤
+  577.5 | P , 0 r n
+  581.3 | Thus r ( ) .
+  584.3 | n − r !
+  668.4 | Reprint 2026-27
