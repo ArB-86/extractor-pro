@@ -1,0 +1,202 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/iemh1dd/iemh105.pdf",
+  "sha256": "f35918e40c5d5ca72b1a9499081ab65a46bddbb625d0188a4597fdca9db71393",
+  "pages": 26,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 21.3 (Windows)",
+    "producer": "Adobe PDF Library 18.0",
+    "creationDate": "D:20260415150154+05'30'",
+    "modDate": "D:20260422184632+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 8,
+      "images": 6
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 3
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 10,
+      "images": 5
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 487.67999267578125,
+      "height": 685.6800537109375,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    }
+  ]
+}

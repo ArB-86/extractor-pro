@@ -1,0 +1,118 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/jemh1dd/jemh107.pdf",
+  "sha256": "ca7a4c2071221ddad13eca8c3bf2deba6be2f21b2a47b07f10443131bad53f04",
+  "pages": 14,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Chap\u20137 (10th Nov.)",
+    "author": "admin",
+    "subject": "Chap\u20137 (10th Nov.)",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 10.1.1 (Windows)",
+    "creationDate": "D:20220817115328+05'30'",
+    "modDate": "D:20260324120041+05'30'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  },
+  "page_info": [
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 167
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 228
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 44,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 42,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 103
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    }
+  ]
+}

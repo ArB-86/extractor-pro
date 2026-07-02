@@ -1,0 +1,69 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/jemh1dd/jemh111.pdf",
+  "sha256": "1c73d7750139b63e98acf3682a7cae1a9bd163ed40d8e90e2199ab72e99c73b1",
+  "pages": 7,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Chap-11 (11th Nov.)",
+    "author": "admin",
+    "subject": "Chap-11 (11th Nov.)",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 10.1.1 (Windows)",
+    "creationDate": "D:20220817115845+05'30'",
+    "modDate": "D:20260324120042+05'30'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  },
+  "page_info": [
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 10,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    }
+  ]
+}

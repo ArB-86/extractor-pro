@@ -1,0 +1,174 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/hegp2dd/hegp202.pdf",
+  "sha256": "c4620bea2d56af50a6b759b34b6754863473c60a453548d0f791db7e1e9bfab6",
+  "pages": 22,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 21.0 (Windows)",
+    "producer": "Adobe PDF Library 18.0",
+    "creationDate": "D:20251220170537+05'30'",
+    "modDate": "D:20251229164810+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 33,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 39,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 38,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 6
+    }
+  ]
+}

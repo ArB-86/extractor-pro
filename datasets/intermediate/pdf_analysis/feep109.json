@@ -1,0 +1,132 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/6th_maths/feep109.pdf",
+  "sha256": "638c8855330614e1a7729e41f16f3516c3dc576a3ee171a76b274dc342c8f5ea",
+  "pages": 16,
+  "metadata": {
+    "format": "PDF 1.3",
+    "title": "Symmetry and Practical.pmd",
+    "author": "admin",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180411162446Z",
+    "modDate": "D:20180411171450+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 33,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 36,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    }
+  ]
+}

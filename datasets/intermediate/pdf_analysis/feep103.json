@@ -1,0 +1,104 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/6th_maths/feep103.pdf",
+  "sha256": "e6096fee8f76136123e83a7ae8a758b7abfc75aaa724325b2f8f5f8259f4e28f",
+  "pages": 12,
+  "metadata": {
+    "format": "PDF 1.3",
+    "title": "Ch_3 Integer.pmd",
+    "author": "dtpcell13",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180411151850Z",
+    "modDate": "D:20180411171356+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 6,
+      "images": 2
+    }
+  ]
+}

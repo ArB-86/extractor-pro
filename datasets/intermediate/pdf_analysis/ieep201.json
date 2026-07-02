@@ -1,0 +1,104 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/9th_maths/ieep201.pdf",
+  "sha256": "6d412aa7f6ab7d3f9e91e70d8881c948058c8cb6cb42db3e8681595561fae91d",
+  "pages": 12,
+  "metadata": {
+    "format": "PDF 1.3",
+    "title": "Ch_1.pmd",
+    "author": "dtpcell6",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180416102548Z",
+    "modDate": "D:20180416130227+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 37,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 45,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 43,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 37,
+      "images": 2
+    }
+  ]
+}

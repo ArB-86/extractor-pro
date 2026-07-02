@@ -1,0 +1,97 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/jemh1dd/jemh1a2.pdf",
+  "sha256": "d72497120582d1ee328965e67dba27c9adcd7daa9502557263ea31eb9bd6f5d2",
+  "pages": 11,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Appendix-2 (15th Nov.)",
+    "author": "admin",
+    "subject": "Appendix-2 (15th Nov.)",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 10.1.1 (Windows)",
+    "creationDate": "D:20220817120323+05'30'",
+    "modDate": "D:20260324120040+05'30'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  },
+  "page_info": [
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    }
+  ]
+}

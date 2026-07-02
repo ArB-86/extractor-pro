@@ -1,0 +1,104 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/10th_maths/jeep209.pdf",
+  "sha256": "be0425d48eec0f27982b8b6315785b7e5a35bb12a31bc5cdfac7b7dedc090d31",
+  "pages": 12,
+  "metadata": {
+    "format": "PDF 1.3",
+    "title": "Ch-9-(26-2-2009).pmd",
+    "author": "NCERT",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180417171507Z",
+    "modDate": "D:20180503122107+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 3
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 7,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 6,
+      "images": 2
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/gegp2dd/gegp2ps.pdf",
+  "sha256": "59a3b897ce08f71605805ee73ecbfeef126a930bc0d9a3716d15e9dcf2c430aa",
+  "pages": 18,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 20.5 (Windows)",
+    "producer": "Adobe PDF Library 17.0",
+    "creationDate": "D:20251009153735+05'30'",
+    "modDate": "D:20251108134134+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 4,
+      "images": 3
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 5,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 5,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 5,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 6,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 6,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 5,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 4
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 6,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 4
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 8,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 594.239990234375,
+      "height": 785.0399780273438,
+      "rotation": 0,
+      "text_blocks": 0,
+      "images": 598
+    }
+  ]
+}

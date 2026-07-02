@@ -1,0 +1,111 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/jemh1dd/jemh1an.pdf",
+  "sha256": "02dadcf156d050b2dfa97de75be35ca4b5649f88d8f096c7bf45941337e81968",
+  "pages": 13,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Answers.pmd",
+    "author": "admin",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20220830141554Z",
+    "modDate": "D:20260324120040+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    }
+  ]
+}

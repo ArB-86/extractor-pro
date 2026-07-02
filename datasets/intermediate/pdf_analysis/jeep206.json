@@ -1,0 +1,146 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/10th_maths/jeep206.pdf",
+  "sha256": "6c273b3ffb2f2a4556c06c39db1920b0959b4c415795b075e61ca9f2ee23a42a",
+  "pages": 18,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "C:\\Users\\NCERT\\Desktop\\hhhhhhhh.oxps",
+    "author": "NCERT",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180424102135Z",
+    "modDate": "D:20180503122105+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 3
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 36
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 17
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 54
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 16
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 2
+    },
+    {
+      "width": 612.0,
+      "height": 792.0,
+      "rotation": 0,
+      "text_blocks": 8,
+      "images": 53
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 10,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 2
+    },
+    {
+      "width": 504.0,
+      "height": 720.0,
+      "rotation": 0,
+      "text_blocks": 4,
+      "images": 2
+    }
+  ]
+}

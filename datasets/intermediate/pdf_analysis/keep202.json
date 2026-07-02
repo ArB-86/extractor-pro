@@ -1,0 +1,125 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/11th_maths/keep202.pdf",
+  "sha256": "982c2353b6631b1acd5c39e91a9cfdaff1ac70d89aad02c17e3eb85624f613de",
+  "pages": 15,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "iLovePDF",
+    "creationDate": "D:20250528105946+05'30'",
+    "modDate": "D:20250528105946+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 38,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    }
+  ]
+}
