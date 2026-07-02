@@ -1,17 +1,53 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Generated outputs
 output/
 reports/
 
+# Generated datasets
 datasets/intermediate/
 datasets/cache/
 datasets/embeddings/
 datasets/vector/
 datasets/logs/
+datasets/parquet/
+datasets/sqlite/
+datasets/manifests/
 
-*.parquet
-*.sqlite
+# Databases
 *.db
+*.sqlite
+*.sqlite3
 
-.env
+# Data files
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
