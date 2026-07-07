@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.959717333316803,
+    "bbox": [
+        378.3354187011719,
+        2121.66796875,
+        2091.18896484375,
+        2420.726318359375
+    ],
+    "image_path": "debug/full_book/page_010/002_plain_text_0.96.png",
+    "text": "There\nare\nsituations\nwhere\nit 1\nmakes\nsense\nto\nround\nup\naj\nnumber\nnumber is more than the actual\nnumber). For\nexample, if a school\nhas\n732\nincluding\npeople i\nstudents,\nteachers\nstaff: the\nand\nprincipal\nmight\norder\n750\nsweets\ninstead\nof\n700\nsweets."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9544577598571777,
+    "bbox": [
+        429.1564025878906,
+        800.1953735351562,
+        2036.780029296875,
+        1005.5419311523438
+    ],
+    "image_path": "debug/full_book/page_005/000_plain_text_0.95.png",
+    "text": "Note to the Teacher: Encourage students to make connections?\nbetween\nthese facts.\nFor\nexample,c\nthe\nwhole\npopulation\nof\nChintamani\nfit in\ncan\nthe stadium?\nHow\nimagine\nthe\nline\nof\n38\nkm,\nhaving\nlakh\npeople,\nsitting\ncan\nwe\na\nnext\nto\neach\nother\nin\nthe stadium?"
+}

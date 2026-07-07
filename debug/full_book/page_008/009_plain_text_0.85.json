@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8484339118003845,
+    "bbox": [
+        490.3635559082031,
+        2606.994873046875,
+        1968.5771484375,
+        2662.755126953125
+    ],
+    "image_path": "debug/full_book/page_008/009_plain_text_0.85.png",
+    "text": "1 crore, written in numbers would be 1 followed by 7 :\nzeroes"
+}

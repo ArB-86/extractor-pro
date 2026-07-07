@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9585584998130798,
+    "bbox": [
+        377.28082275390625,
+        1975.272216796875,
+        2092.193359375,
+        2158.70458984375
+    ],
+    "image_path": "debug/full_book/page_014/000_plain_text_0.96.png",
+    "text": "In each of the following boxes, the multiplications produce interesting\npatterns. Evaluate them to find the pattern. Extend the multiplications\nbased on the observed pattern."
+}

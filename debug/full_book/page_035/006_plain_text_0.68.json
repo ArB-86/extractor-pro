@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.6807869076728821,
+    "bbox": [
+        367.7648620605469,
+        1078.833251953125,
+        2189.716552734375,
+        1351.65087890625
+    ],
+    "image_path": "debug/full_book/page_035/006_plain_text_0.68.png",
+    "text": "2.\nThe\nnumber\n10,30,285\nin\nwords\nis\nten\nlakhs\nthirty\nthousand\ntwo\nhundred eighty-five, which has \ns 42 letters. Give a 7-digit\n number name\nwhich\nhas\nthe\ne maximum\nnumber\nof letters.\nAns:\nOne such\nnumber is\n77,77,777, which has\n60 letters."
+}

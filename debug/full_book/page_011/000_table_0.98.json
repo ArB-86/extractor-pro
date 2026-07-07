@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "table",
+    "confidence": 0.9778131246566772,
+    "bbox": [
+        587.5322875976562,
+        595.7413330078125,
+        1873.226806640625,
+        1094.344482421875
+    ],
+    "image_path": "debug/full_book/page_011/000_table_0.98.png",
+    "text": "OCR(debug/full_book/page_011/000_table_0.98.png)"
+}

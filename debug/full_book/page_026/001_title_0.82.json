@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "title",
+    "confidence": 0.8210526704788208,
+    "bbox": [
+        294.4133605957031,
+        402.64508056640625,
+        744.4991455078125,
+        469.9976806640625
+    ],
+    "image_path": "debug/full_book/page_026/001_title_0.82.png",
+    "text": "Handy 1\nHundreds"
+}

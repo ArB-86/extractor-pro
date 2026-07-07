@@ -12,14 +12,32 @@ class QuestionParserV2Stage(Stage):
         if context.metadata.get("skip"):
             return context
 
-        lines = LineExtractor().extract(context.blocks)
+        questions = []
 
-        groups = LineGrouper().group(lines)
+        sections = context.metadata.get("sections", [])
 
-        context.questions = QuestionParserV2().parse(groups)
+        for section in sections:
 
-        context.metrics["line_count"] = len(lines)
-        context.metrics["question_groups"] = len(groups)
-        context.metrics["questions"] = len(context.questions)
+            lines = LineExtractor().extract(
+                section.blocks
+            )
+
+            groups = LineGrouper().group(
+                lines
+            )
+
+            qs = QuestionParserV2().parse(
+                groups=groups,
+                section=section,
+                pdf=context.pdf,
+            )
+
+            questions.extend(qs)
+
+        context.questions = questions
+
+        context.metrics["questions"] = len(
+            questions
+        )
 
         return context

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9401556253433228,
+    "bbox": [
+        281.1604309082031,
+        285.5857238769531,
+        2087.15771484375,
+        473.16900634765625
+    ],
+    "image_path": "debug/full_book/page_015/002_plain_text_0.94.png",
+    "text": "Observe\nthe\ne number of digits in the two numbers being\nmultiplied\nthe\nnumbers being multiplied and the number of digits in their product?"
+}

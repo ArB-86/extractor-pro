@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9329177737236023,
+    "bbox": [
+        380.4205627441406,
+        1123.9559326171875,
+        941.5182495117188,
+        1200.513671875
+    ],
+    "image_path": "debug/full_book/page_005/003_title_0.93.png",
+    "text": "T.\nof\n2\nT\nens"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9311619400978088,
+    "bbox": [
+        380.0259094238281,
+        2079.754150390625,
+        1206.5819091796875,
+        2156.051025390625
+    ],
+    "image_path": "debug/full_book/page_013/002_title_0.93.png",
+    "text": "1.5 Patterns in Products"
+}

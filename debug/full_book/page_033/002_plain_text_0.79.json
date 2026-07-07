@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.7926945686340332,
+    "bbox": [
+        369.5461120605469,
+        2046.6817626953125,
+        2185.783203125,
+        2177.428466796875
+    ],
+    "image_path": "debug/full_book/page_033/002_plain_text_0.79.png",
+    "text": "Roxie says that the product of two 2-digit numbers can only be a 3- or\na 4-digit number. Is she correct?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6654858589172363,
+    "bbox": [
+        286.167724609375,
+        283.1508483886719,
+        1695.5550537109375,
+        352.11773681640625
+    ],
+    "image_path": "debug/full_book/page_009/009_plain_text_0.67.png",
+    "text": "How many\ns does a hundred thousand have?\nzeros"
+}

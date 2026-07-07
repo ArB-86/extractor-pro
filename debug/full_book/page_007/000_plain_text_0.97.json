@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9728904962539673,
+    "bbox": [
+        378.62091064453125,
+        1063.75537109375,
+        1464.107666015625,
+        1303.829345703125
+    ],
+    "image_path": "debug/full_book/page_007/000_plain_text_0.97.png",
+    "text": "Systematic\nSippy\nis\ndifferent\nkind\na\nof\ncalculator. It\nhas\nthe\nfollowing\nbuttons: +1,\n+10, +100,\n\uff0c+1000,\n\uff0c+10000, +100000. It\nwants\nto be used\nminimally a\nas\nas\npossible."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8568665385246277,
+    "bbox": [
+        441.11224365234375,
+        2544.55517578125,
+        2026.663818359375,
+        2949.857666015625
+    ],
+    "image_path": "debug/full_book/page_030/003_plain_text_0.86.png",
+    "text": "(a) Buying food/fruits for a group.\n(b) Estimating time remaining to leave for the school (catching \ngthe\nschool bus).\n(c) Distance estimation between p\nplaces, especially far off places.\n(d) Handling money i\nin banks.\nFind more such situations."
+}

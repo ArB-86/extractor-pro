@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9142670035362244,
+    "bbox": [
+        371.17034912109375,
+        482.9798583984375,
+        2187.921630859375,
+        635.5638427734375
+    ],
+    "image_path": "debug/full_book/page_029/001_plain_text_0.91.png",
+    "text": "Ans:\nThe smallest number of buttons click for each number is the sum of\nits digit."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6245496273040771,
+    "bbox": [
+        377.3141174316406,
+        921.2249755859375,
+        2086.0712890625,
+        1165.1578369140625
+    ],
+    "image_path": "debug/full_book/page_020/008_plain_text_0.62.png",
+    "text": "5.\nThe\nwords \u2018zero'\nand\u2018one' share\nletters\n\u2018e'\nand\u2018o'. The words\u2018one\nand\n\"two\u2019\nshare\nea\nletter\n\u00b00,\nand\nthe\nwords\n\"two'\nand\n'three'\nalso\nshare a letter 't'. How far do you have to count to find two consecutive\nnumbers\nwhich do\nnot share an\nEnglish letter\nin common?"
+}

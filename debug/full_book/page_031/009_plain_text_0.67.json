@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.6725959777832031,
+    "bbox": [
+        360.3462219238281,
+        2539.41845703125,
+        2184.70263671875,
+        2674.01953125
+    ],
+    "image_path": "debug/full_book/page_031/009_plain_text_0.67.png",
+    "text": "3. How much is the population of Pune in 2011? Approximately, by how\nmuch has it increased compared to 2o01?"
+}

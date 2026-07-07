@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "title",
+    "confidence": 0.8809780478477478,
+    "bbox": [
+        295.68109130859375,
+        1062.301513671875,
+        564.9929809570312,
+        1126.6689453125
+    ],
+    "image_path": "debug/full_book/page_029/003_title_0.88.png",
+    "text": "P\nPage\nNo.\n6"
+}

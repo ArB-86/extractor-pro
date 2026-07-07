@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.919304370880127,
+    "bbox": [
+        423.6104736328125,
+        2483.958984375,
+        2066.220458984375,
+        2605.86279296875
+    ],
+    "image_path": "debug/full_book/page_011/004_plain_text_0.92.png",
+    "text": "Roxie: \"The difference is near 10,00,000 and is less than 10,00,000.\nEstu: \"The difference is near 9,00,0o0 and is more than 9,00,000."
+}

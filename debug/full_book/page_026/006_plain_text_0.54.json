@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.5394058227539062,
+    "bbox": [
+        384.9363098144531,
+        304.9501647949219,
+        947.3624267578125,
+        369.58929443359375
+    ],
+    "image_path": "debug/full_book/page_026/006_plain_text_0.54.png",
+    "text": "(g)\n4350\n? 435 times"
+}

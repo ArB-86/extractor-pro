@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8522725105285645,
+    "bbox": [
+        437.8904113769531,
+        2697.37890625,
+        974.109130859375,
+        2753.243408203125
+    ],
+    "image_path": "debug/full_book/page_018/004_plain_text_0.85.png",
+    "text": "How\nfind\ncan \nwe\nOut?"
+}

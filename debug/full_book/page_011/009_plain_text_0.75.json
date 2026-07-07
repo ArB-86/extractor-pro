@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7485702633857727,
+    "bbox": [
+        511.7632141113281,
+        1910.6151123046875,
+        2089.9921875,
+        2390.532958984375
+    ],
+    "image_path": "debug/full_book/page_011/009_plain_text_0.75.png",
+    "text": "(a)\nAre these estimates correct? Whose estimate is closer to the\nsum?\n(b)\nWill the sum be greater than 8,50,000 or less than 8,50,000?\nWhy do you think so?\n(c)\nWill the sum be greater than 8,83,128 or less than 8,83,128?\nWhy do you think so?\n(d)\nExact value 0f 4,63,128 + 4,19,682 ="
+}

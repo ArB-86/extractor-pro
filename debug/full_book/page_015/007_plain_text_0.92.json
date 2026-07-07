@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9174046516418457,
+    "bbox": [
+        343.81524658203125,
+        1665.5736083984375,
+        2086.78857421875,
+        1789.711669921875
+    ],
+    "image_path": "debug/full_book/page_015/007_plain_text_0.92.png",
+    "text": "Can multiplying a 4-digit number with a 2-digit number give a 5-digit\nnumber?"
+}

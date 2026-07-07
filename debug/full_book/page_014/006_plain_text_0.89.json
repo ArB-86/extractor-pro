@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.886652410030365,
+    "bbox": [
+        512.1687622070312,
+        1065.80078125,
+        1317.6090087890625,
+        1337.031005859375
+    ],
+    "image_path": "debug/full_book/page_014/006_plain_text_0.89.png",
+    "text": "(a)\n2 \u00d7 1768 \u00d7 50\n1000\n(b)\n72 x 125\n[Hint: 125\n\u4e00\n8\n(c)\n125 \u00d7 40 >\n\u00d78\u00d725"
+}

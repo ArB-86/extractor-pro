@@ -1,0 +1,4 @@
+{
+    "page": 33,
+    "markdown": "(e)\n1200\n×\n1,00,000\n120000000\n=\n\n# P:\nage No\n15\n\n？\nObserve the number of digits in the two numbers being multiplied and their product in each case. Is there a connection between the number of digits in any numbers being multiplied and the number of digits in their product?\nRoxie says that the product of two 2-digit numbers can only be a 3- or a 4-digit number. Is she correct?\nAns:\nYes, Roxie is correct.\nShould we try all possible multiplications with 2-digit numbers to tell whether Roxie's claim is true? Or is there a better way to find out?\nAns:\nShe can just check the minimum and maximum number of digits possible.\nCan multiplying a 3-digit number with another 3-digit number give a 4-digit number?\nAns:\nNo."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9315158128738403,
+    "bbox": [
+        378.1320495605469,
+        2863.191162109375,
+        2088.824951171875,
+        2986.580322265625
+    ],
+    "image_path": "debug/full_book/page_019/005_plain_text_0.93.png",
+    "text": "1.\nUsing all digits from O - 9 exactly once (the first digit cannot be 0) to\ncreate a 10-digit number, write the \u2014"
+}

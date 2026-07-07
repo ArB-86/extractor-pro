@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5287449955940247,
+    "bbox": [
+        443.5341796875,
+        1018.8311767578125,
+        1340.265869140625,
+        1084.520263671875
+    ],
+    "image_path": "debug/full_book/page_024/011_plain_text_0.53.png",
+    "text": "Ans: 75,000 is 25,000 less than\n1 lakh."
+}

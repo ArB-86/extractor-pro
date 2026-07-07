@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5030863285064697,
+    "bbox": [
+        369.75860595703125,
+        1352.5802001953125,
+        1570.56005859375,
+        1418.2227783203125
+    ],
+    "image_path": "debug/full_book/page_032/013_plain_text_0.50.png",
+    "text": "1.\nFind c\nquick ways to calculate t\nthese\nproducts:"
+}

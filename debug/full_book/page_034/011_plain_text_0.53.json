@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.534588098526001,
+    "bbox": [
+        444.4884338378906,
+        2766.00341796875,
+        1656.970947265625,
+        2831.950927734375
+    ],
+    "image_path": "debug/full_book/page_034/011_plain_text_0.53.png",
+    "text": "Ans:\nNo. Because, Coins counted\nper\nday = 86,400"
+}

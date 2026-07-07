@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.5557186007499695,
+    "bbox": [
+        704.4542846679688,
+        1237.3717041015625,
+        1954.881103515625,
+        1388.6448974609375
+    ],
+    "image_path": "debug/full_book/page_017/002_plain_text_0.56.png",
+    "text": "The\nriver's\nflow\ninto\nthe\nAtlantic\nis\nSO\nmuch\nthat\ndrinkable f\nfreshwater is found\neven\n160 kilometers\ninto\nthe open sea."
+}

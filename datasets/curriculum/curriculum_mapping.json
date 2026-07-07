@@ -1,0 +1,124 @@
+{
+  "schema_version": "0.1",
+  "academic_year": "2026-27",
+  "board": "CBSE",
+  "publisher": "NCERT",
+  "subject": "Mathematics",
+  "language": "English",
+  "review_policy": {
+    "active_requires_mapping_match": true,
+    "unknown_goes_to_review": true,
+    "archive_only_removed_or_renamed_matches": true
+  },
+  "pdf_prefix_classes": {
+    "fegp": 6,
+    "feep": 6,
+    "iemh": 9,
+    "ieep": 9,
+    "jemh": 10,
+    "jeep": 10,
+    "kemh": 11,
+    "keep": 11
+  },
+  "pdf_folder_classes": {
+    "fegp1dd": 6,
+    "feep1dd": 6,
+    "iemh1dd": 9,
+    "ieep1dd": 9,
+    "jemh1dd": 10,
+    "jeep1dd": 10,
+    "kemh1dd": 11,
+    "keep1dd": 11
+  },
+  "source_types": [
+    "textbook",
+    "exemplar",
+    "sample_paper"
+  ],
+  "classes": [
+    {
+      "class_no": 6,
+      "subject": "Mathematics",
+      "ncert_book_title": "Ganita Prakash",
+      "chapters": [
+        {"chapter_id": "math-06-01", "chapter_no": 1, "chapter_name": "Patterns in Mathematics", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp101"], "aliases": ["Patterns in Mathematics"], "previous_names": []},
+        {"chapter_id": "math-06-02", "chapter_no": 2, "chapter_name": "Lines and Angles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp102"], "aliases": ["Lines and Angles"], "previous_names": []},
+        {"chapter_id": "math-06-03", "chapter_no": 3, "chapter_name": "Number Play", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp103"], "aliases": ["Number Play"], "previous_names": []},
+        {"chapter_id": "math-06-04", "chapter_no": 4, "chapter_name": "Data Handling and Presentation", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp104"], "aliases": ["Data Handling and Presentation"], "previous_names": []},
+        {"chapter_id": "math-06-05", "chapter_no": 5, "chapter_name": "Prime Time", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp105"], "aliases": ["Prime Time"], "previous_names": []},
+        {"chapter_id": "math-06-06", "chapter_no": 6, "chapter_name": "Perimeter and Area", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp106"], "aliases": ["Perimeter and Area"], "previous_names": []},
+        {"chapter_id": "math-06-07", "chapter_no": 7, "chapter_name": "Fractions", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp107"], "aliases": ["Fractions"], "previous_names": []},
+        {"chapter_id": "math-06-08", "chapter_no": 8, "chapter_name": "Playing with Constructions", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp108"], "aliases": ["Playing with Constructions"], "previous_names": []},
+        {"chapter_id": "math-06-09", "chapter_no": 9, "chapter_name": "Symmetry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp109"], "aliases": ["Symmetry"], "previous_names": []},
+        {"chapter_id": "math-06-10", "chapter_no": 10, "chapter_name": "The Other Side of Zero", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["fegp110"], "aliases": ["The Other Side of Zero"], "previous_names": []}
+      ]
+    },
+    {
+      "class_no": 9,
+      "subject": "Mathematics",
+      "ncert_book_title": "Mathematics",
+      "chapters": [
+        {"chapter_id": "math-09-01", "chapter_no": 1, "chapter_name": "Number Systems", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh101"], "aliases": ["Number Systems"], "previous_names": []},
+        {"chapter_id": "math-09-02", "chapter_no": 2, "chapter_name": "Polynomials", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh102"], "aliases": ["Polynomials"], "previous_names": []},
+        {"chapter_id": "math-09-03", "chapter_no": 3, "chapter_name": "Coordinate Geometry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh103"], "aliases": ["Coordinate Geometry"], "previous_names": []},
+        {"chapter_id": "math-09-04", "chapter_no": 4, "chapter_name": "Linear Equations in Two Variables", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh104"], "aliases": ["Linear Equations in Two Variables"], "previous_names": []},
+        {"chapter_id": "math-09-05", "chapter_no": 5, "chapter_name": "Introduction to Euclid's Geometry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh105"], "aliases": ["Introduction to Euclids Geometry"], "previous_names": []},
+        {"chapter_id": "math-09-06", "chapter_no": 6, "chapter_name": "Lines and Angles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh106"], "aliases": ["Lines and Angles"], "previous_names": []},
+        {"chapter_id": "math-09-07", "chapter_no": 7, "chapter_name": "Triangles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh107"], "aliases": ["Triangles"], "previous_names": []},
+        {"chapter_id": "math-09-08", "chapter_no": 8, "chapter_name": "Quadrilaterals", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh108"], "aliases": ["Quadrilaterals"], "previous_names": []},
+        {"chapter_id": "math-09-09", "chapter_no": 9, "chapter_name": "Circles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh109"], "aliases": ["Circles"], "previous_names": []},
+        {"chapter_id": "math-09-10", "chapter_no": 10, "chapter_name": "Heron's Formula", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh110"], "aliases": ["Herons Formula"], "previous_names": []},
+        {"chapter_id": "math-09-11", "chapter_no": 11, "chapter_name": "Surface Areas and Volumes", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh111"], "aliases": ["Surface Areas and Volumes"], "previous_names": []},
+        {"chapter_id": "math-09-12", "chapter_no": 12, "chapter_name": "Statistics", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh112"], "aliases": ["Statistics"], "previous_names": []},
+        {"chapter_id": "math-09-old-areas", "chapter_no": 9, "chapter_name": "Areas of Parallelograms and Triangles", "status": "removed", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh109-old"], "aliases": ["Areas of Parallelograms and Triangles"], "previous_names": []},
+        {"chapter_id": "math-09-old-constructions", "chapter_no": 11, "chapter_name": "Constructions", "status": "removed", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh111-old"], "aliases": ["Constructions"], "previous_names": []},
+        {"chapter_id": "math-09-old-probability", "chapter_no": 15, "chapter_name": "Probability", "status": "removed", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["iemh115"], "aliases": ["Probability"], "previous_names": []}
+      ]
+    },
+    {
+      "class_no": 10,
+      "subject": "Mathematics",
+      "ncert_book_title": "Mathematics",
+      "chapters": [
+        {"chapter_id": "math-10-01", "chapter_no": 1, "chapter_name": "Real Numbers", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh101"], "aliases": ["Real Numbers"], "previous_names": []},
+        {"chapter_id": "math-10-02", "chapter_no": 2, "chapter_name": "Polynomials", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh102"], "aliases": ["Polynomials"], "previous_names": []},
+        {"chapter_id": "math-10-03", "chapter_no": 3, "chapter_name": "Pair of Linear Equations in Two Variables", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh103"], "aliases": ["Pair of Linear Equations in Two Variables"], "previous_names": []},
+        {"chapter_id": "math-10-04", "chapter_no": 4, "chapter_name": "Quadratic Equations", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh104"], "aliases": ["Quadratic Equations"], "previous_names": []},
+        {"chapter_id": "math-10-05", "chapter_no": 5, "chapter_name": "Arithmetic Progressions", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh105"], "aliases": ["Arithmetic Progressions"], "previous_names": []},
+        {"chapter_id": "math-10-06", "chapter_no": 6, "chapter_name": "Triangles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh106"], "aliases": ["Triangles"], "previous_names": []},
+        {"chapter_id": "math-10-07", "chapter_no": 7, "chapter_name": "Coordinate Geometry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh107"], "aliases": ["Coordinate Geometry"], "previous_names": []},
+        {"chapter_id": "math-10-08", "chapter_no": 8, "chapter_name": "Introduction to Trigonometry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh108"], "aliases": ["Introduction to Trigonometry"], "previous_names": []},
+        {"chapter_id": "math-10-09", "chapter_no": 9, "chapter_name": "Some Applications of Trigonometry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh109"], "aliases": ["Some Applications of Trigonometry"], "previous_names": []},
+        {"chapter_id": "math-10-10", "chapter_no": 10, "chapter_name": "Circles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh110"], "aliases": ["Circles"], "previous_names": []},
+        {"chapter_id": "math-10-11", "chapter_no": 11, "chapter_name": "Areas Related to Circles", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh111"], "aliases": ["Areas Related to Circles"], "previous_names": []},
+        {"chapter_id": "math-10-12", "chapter_no": 12, "chapter_name": "Surface Areas and Volumes", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh112"], "aliases": ["Surface Areas and Volumes"], "previous_names": []},
+        {"chapter_id": "math-10-13", "chapter_no": 13, "chapter_name": "Statistics", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh113"], "aliases": ["Statistics"], "previous_names": []},
+        {"chapter_id": "math-10-14", "chapter_no": 14, "chapter_name": "Probability", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh114"], "aliases": ["Probability"], "previous_names": []},
+        {"chapter_id": "math-10-old-constructions", "chapter_no": 11, "chapter_name": "Constructions", "status": "removed", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["jemh111-old"], "aliases": ["Constructions"], "previous_names": []}
+      ]
+    },
+    {
+      "class_no": 11,
+      "subject": "Mathematics",
+      "ncert_book_title": "Mathematics",
+      "chapters": [
+        {"chapter_id": "math-11-01", "chapter_no": 1, "chapter_name": "Sets", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh101"], "aliases": ["Sets"], "previous_names": []},
+        {"chapter_id": "math-11-02", "chapter_no": 2, "chapter_name": "Relations and Functions", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh102"], "aliases": ["Relations and Functions"], "previous_names": []},
+        {"chapter_id": "math-11-03", "chapter_no": 3, "chapter_name": "Trigonometric Functions", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh103"], "aliases": ["Trigonometric Functions"], "previous_names": []},
+        {"chapter_id": "math-11-04", "chapter_no": 4, "chapter_name": "Complex Numbers and Quadratic Equations", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh104"], "aliases": ["Complex Numbers and Quadratic Equations"], "previous_names": []},
+        {"chapter_id": "math-11-05", "chapter_no": 5, "chapter_name": "Linear Inequalities", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh105"], "aliases": ["Linear Inequalities"], "previous_names": []},
+        {"chapter_id": "math-11-06", "chapter_no": 6, "chapter_name": "Permutations and Combinations", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh106"], "aliases": ["Permutations and Combinations"], "previous_names": []},
+        {"chapter_id": "math-11-07", "chapter_no": 7, "chapter_name": "Binomial Theorem", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh107"], "aliases": ["Binomial Theorem"], "previous_names": []},
+        {"chapter_id": "math-11-08", "chapter_no": 8, "chapter_name": "Sequences and Series", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh108"], "aliases": ["Sequences and Series"], "previous_names": []},
+        {"chapter_id": "math-11-09", "chapter_no": 9, "chapter_name": "Straight Lines", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh109"], "aliases": ["Straight Lines"], "previous_names": []},
+        {"chapter_id": "math-11-10", "chapter_no": 10, "chapter_name": "Conic Sections", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh110"], "aliases": ["Conic Sections"], "previous_names": []},
+        {"chapter_id": "math-11-11", "chapter_no": 11, "chapter_name": "Introduction to Three Dimensional Geometry", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh111"], "aliases": ["Introduction to Three Dimensional Geometry", "Introduction to 3D Geometry"], "previous_names": []},
+        {"chapter_id": "math-11-12", "chapter_no": 12, "chapter_name": "Limits and Derivatives", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh112"], "aliases": ["Limits and Derivatives"], "previous_names": []},
+        {"chapter_id": "math-11-13", "chapter_no": 13, "chapter_name": "Statistics", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh113"], "aliases": ["Statistics"], "previous_names": []},
+        {"chapter_id": "math-11-14", "chapter_no": 14, "chapter_name": "Probability", "status": "active", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh114"], "aliases": ["Probability"], "previous_names": []},
+        {"chapter_id": "math-11-old-induction", "chapter_no": 4, "chapter_name": "Principle of Mathematical Induction", "status": "removed", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh104-old"], "aliases": ["Principle of Mathematical Induction", "Mathematical Induction"], "previous_names": []},
+        {"chapter_id": "math-11-old-reasoning", "chapter_no": 14, "chapter_name": "Mathematical Reasoning", "status": "removed", "source_types": ["textbook", "exemplar", "sample_paper"], "pdf_codes": ["kemh114-old"], "aliases": ["Mathematical Reasoning"], "previous_names": []}
+      ]
+    }
+  ]
+}

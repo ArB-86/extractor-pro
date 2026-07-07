@@ -1,14 +1,18 @@
+import yaml
 
-from pipeline.ai.providers.dummy import DummyProvider
+from pipeline.ai.providers.vllm import VLLMProvider
 
 
-class ModelFactory:
+def create_model():
 
-    @staticmethod
-    def create(name):
+    cfg=yaml.safe_load(open("configs/llm.yaml"))
 
-        if name=="dummy":
+    provider=cfg["provider"]
 
-            return DummyProvider()
+    if provider=="vllm":
 
-        raise ValueError(name)
+        return VLLMProvider(
+            model=cfg["model"],
+        )
+
+    raise ValueError(provider)

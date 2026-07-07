@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.953071653842926,
+    "bbox": [
+        376.24066162109375,
+        2776.211181640625,
+        2094.52685546875,
+        2963.360595703125
+    ],
+    "image_path": "debug/full_book/page_002/001_plain_text_0.95.png",
+    "text": "Estu said,\n*\"We know how many\ndays there are\nin a year - 365, if\nwe ignore leap years. If we live for y years, the number of days in our\nlifetime will be 365 \u00d7 y.'"
+}

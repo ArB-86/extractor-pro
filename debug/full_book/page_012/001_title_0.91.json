@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9132754802703857,
+    "bbox": [
+        378.42962646484375,
+        774.6757202148438,
+        1007.77099609375,
+        849.5556030273438
+    ],
+    "image_path": "debug/full_book/page_012/001_title_0.91.png",
+    "text": "Populations of Cities"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8251557946205139,
+    "bbox": [
+        380.4438171386719,
+        1746.5660400390625,
+        1602.27734375,
+        1803.630859375
+    ],
+    "image_path": "debug/full_book/page_001/006_plain_text_0.83.png",
+    "text": "farmers\nhave to come to the market to buy seeds\"."
+}

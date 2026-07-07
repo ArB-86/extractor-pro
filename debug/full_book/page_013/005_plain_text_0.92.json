@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.918836236000061,
+    "bbox": [
+        285.36090087890625,
+        1125.3436279296875,
+        2091.984375,
+        1252.258544921875
+    ],
+    "image_path": "debug/full_book/page_013/005_plain_text_0.92.png",
+    "text": "From the information given in the table, answer the following questions\nby approximation:"
+}

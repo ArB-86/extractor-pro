@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8828253149986267,
+    "bbox": [
+        434.52191162109375,
+        515.2091064453125,
+        1439.8544921875,
+        576.3709106445312
+    ],
+    "image_path": "debug/full_book/page_004/006_plain_text_0.88.png",
+    "text": "Roxie feels that 1 lakh is a large\ne number:"
+}

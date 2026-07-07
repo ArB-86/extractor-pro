@@ -10,7 +10,7 @@ QUESTION_NO = re.compile(r"^\*?(\d+)\.")
 
 class QuestionParserV2:
 
-    def parse(self, groups):
+    def parse(self, groups, section, pdf):
 
         questions = []
 
@@ -37,11 +37,12 @@ class QuestionParserV2:
 
             questions.append(
                 Question(
-                    id=qid,
-                    source="NCERT",
-                    chapter="",
+                    question_id=qid,
+                    source=pdf,
+                    chapter=section.title,
                     page_start=lines[0].page,
                     page_end=lines[-1].page,
+                    section=section.title,
                     question=text,
                 )
             )

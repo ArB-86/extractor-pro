@@ -20,7 +20,7 @@ class QuestionParser:
             if self.pattern.match(text):
                 if current: questions.append(current)
                 current = Question(
-                    id=qid,
+                    question_id=qid,
                     source=self.source,
                     chapter=self.chapter,
                     page_start=getattr(para, "page", 0),

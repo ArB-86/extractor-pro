@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.7784547805786133,
+    "bbox": [
+        399.4942626953125,
+        1776.3984375,
+        603.4652099609375,
+        1837.3056640625
+    ],
+    "image_path": "debug/full_book/page_026/003_plain_text_0.78.png",
+    "text": "Ans:\nNo"
+}

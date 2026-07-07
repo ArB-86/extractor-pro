@@ -1,0 +1,27 @@
+# A R
+
+Wecameacross slarge
+: numbers -lakhs, crores and 
+arabs; millions and billions. We learnt how to read and write these numbers in the Indian and American/International naming systems.
+(a)
+1 lakh is 1 followed by 5 zeroes: 1,0o,000
+(b)
+1 crore is 1 followed by 7 zeroes: 1,00,00,000
+(c)
+ 
+lakhs)
+(d)
+1 arab is 1 followed by 9 zeroes: 1,000,000,000 (which is also 100
+crore or 1 billion)
+(a)
+1 lakh is 1 followed by 5 zeroes: 1,00,000
+(b)
+1 crore is 1 followed by 7 zeroes: 1,00,00,000
+(c)
+1 million is 1 followed by 6 zeroes: 1,0o0,0oo (which is also ten lakhs)
+(d)
+1 arab is 1 followed by 9 zeroes: 1,000,000,000 (which is also 100
+crore or 1 billion)
+We generally round up or round down large numbers. Many times it is enough just to know roughly how big g or small something is.
+To get a sense of large numbers or quantities, we can check how times bigger they a many t
+ are compared to numbers or quantities that are more familiar.

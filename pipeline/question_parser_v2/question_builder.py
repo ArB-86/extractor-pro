@@ -57,7 +57,7 @@ class QuestionBuilder:
                     questions.append(current)
 
                 current = Question(
-                    id=qid,
+                    question_id=qid,
                     source="",
                     chapter=tracker.section,
                     page_start=line.page,

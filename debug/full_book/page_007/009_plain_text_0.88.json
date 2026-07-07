@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8767788410186768,
+    "bbox": [
+        456.82598876953125,
+        542.5405883789062,
+        2093.3525390625,
+        723.725830078125
+    ],
+    "image_path": "debug/full_book/page_007/009_plain_text_0.88.png",
+    "text": "(a)\nYou have to make exactly 30 button presses. What is the largest\n3-digit\nnumber\n: you can make? What is the smallest 3-digit\nnumber you can make?"
+}
