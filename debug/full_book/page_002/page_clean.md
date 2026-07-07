@@ -1,5 +1,0 @@
-But how much is one lakh? Observe the pattern and fill in the boxes given below.
-Roxie and Estu found that if they ate one variety of rice a day, they would come nowhere close to one lakh in a lifetime! Roxie suggests, "What if we ate two varieties of rice every day? Would we then be able to eat one lakh varieties of rice in 100 years?"
-What if a person ate three varieties of rice every day? Will they be able to taste all one lakh varieties in a 100-year lifetime? Find out.
-Estu said,
-"We know how many days there are in a year - 365, if we ignore leap years. If we live for y years, the number of days in our lifetime will be 365 × y."

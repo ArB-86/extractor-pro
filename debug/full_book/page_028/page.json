@@ -1,4 +1,0 @@
-{
-    "page": 28,
-    "markdown": "(b) 997 can be made using 25 clicks. Can you make 997 with a different number of clicks?\nAns: 997\ncan also be made as 500 + 400 + 90 + 7.\n\nHow can we get the numbers (a) 5072, (b) 8300, using as few button clicks as possible?\n\n(a) 5072 = (5 × 1000) + (7 × 10) + (2 × 1)\nNumber of clicks = 14\n(b) 8300 = (8 × 1000) + (3 × 100)\nNumber of clicks = 11\n\nFor the numbers in the previous exercise,\nfind out how to get each number by making the smallest number of button clicks and write the expression.\n\n(a) 5072 = 5000 + 70 + 2\n(b) 8300 = 8000 + 300\n\n3\n367813\n13"
-}
