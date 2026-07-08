@@ -6,7 +6,8 @@ from src.curriculum.statistics import CurriculumStatistics
 from src.curriculum.report import CurriculumReport
 from src.curriculum.checks import CurriculumChecks
 from src.curriculum.chapter_mapper import ChapterMapper
-from src.curriculum.book_index import BookIndex  # new import
+from src.curriculum.book_index import BookIndex
+from src.curriculum.coverage import CurriculumCoverage  # new import
 
 
 class CurriculumAuditor:
@@ -21,7 +22,8 @@ class CurriculumAuditor:
         self.report = CurriculumReport()
         self.checks = CurriculumChecks()
         self.chapter_mapper = ChapterMapper()
-        self.book_index = BookIndex()  # new book index instance
+        self.book_index = BookIndex()
+        self.coverage = CurriculumCoverage()  # new coverage instance
 
     def audit(self, root):
 
@@ -52,5 +54,8 @@ class CurriculumAuditor:
 
         # Build book index from manifests
         audit["book_index"] = self.book_index.build(manifests)
+
+        # Build curriculum coverage analysis
+        audit["coverage"] = self.coverage.build(manifests)
 
         return audit
