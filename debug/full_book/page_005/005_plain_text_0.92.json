@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9203850030899048,
+    "bbox": [
+        377.9139099121094,
+        2021.966796875,
+        1620.7489013671875,
+        2145.781005859375
+    ],
+    "image_path": "debug/full_book/page_005/005_plain_text_0.92.png",
+    "text": "2.\nThe Tedious\nTens\nonly\nhas a +10 button. How\ntimes should it be pressed to show:\nmany"
+}

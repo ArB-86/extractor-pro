@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9491767883300781,
+    "bbox": [
+        380.24517822265625,
+        393.8388366699219,
+        1616.3870849609375,
+        512.4969482421875
+    ],
+    "image_path": "debug/full_book/page_004/001_plain_text_0.95.png",
+    "text": "Eshwarappa asked Roxie and Estu,\n, \u201cIs a lakh big\nor\nsmall?\""
+}

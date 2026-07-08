@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8961288332939148,
+    "bbox": [
+        310.64337158203125,
+        2371.699462890625,
+        1064.9393310546875,
+        2619.15380859375
+    ],
+    "image_path": "debug/full_book/page_003/007_plain_text_0.90.png",
+    "text": "\uff1f\nHow\nmuch\ntaller\nis\nthe\nKunchikal\nWaterfall\nthan\nSomu's\nbuilding?\nm."
+}

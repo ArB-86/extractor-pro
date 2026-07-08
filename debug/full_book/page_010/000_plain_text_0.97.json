@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9718437194824219,
+    "bbox": [
+        376.1881103515625,
+        411.703125,
+        2089.7421875,
+        653.3479614257812
+    ],
+    "image_path": "debug/full_book/page_010/000_plain_text_0.97.png",
+    "text": "Very often, exact numbers are not required and just an approximation\nis sufficient. For\nexample, according to the 2011\ncensus, the population\nof\nChintamani\ntown\nis\n76,068. Instead,\nsaying\nthat\nthe\npopulation\niS\nabout\n75,000 is\nenough\nnto\ngive an\nidea of how\nbig\nthe\nquantity is."
+}

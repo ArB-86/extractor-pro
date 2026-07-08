@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7450326085090637,
+    "bbox": [
+        375.2039794921875,
+        2066.803466796875,
+        2189.2373046875,
+        2281.104248046875
+    ],
+    "image_path": "debug/full_book/page_024/002_plain_text_0.75.png",
+    "text": "Which is taller - The Statue of Unity\n or this building? l\nHow much\ntaller?\nAns: The Statue of Unity is 140 m taller than the building."
+}

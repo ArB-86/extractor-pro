@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9448491334915161,
+    "bbox": [
+        377.7938232421875,
+        1341.1131591796875,
+        2090.27099609375,
+        1519.8748779296875
+    ],
+    "image_path": "debug/full_book/page_019/002_plain_text_0.94.png",
+    "text": "Inspired by this strange question, Roxie wondered, \u201cIf I could travel\n100 kilometers every\nday, could I reach the Moon in 10 years?\"\n(The\ndistance between the Earth and the Moon is 3,84,400 km.)"
+}

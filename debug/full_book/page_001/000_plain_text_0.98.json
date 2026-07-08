@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9785540699958801,
+    "bbox": [
+        989.0330200195312,
+        2288.985107421875,
+        2089.80908203125,
+        2702.2890625
+    ],
+    "image_path": "debug/full_book/page_001/000_plain_text_0.98.png",
+    "text": "Estu\nwas\nsurprised\n. to\nknow\nthat  t\nthere\nWere about one lakh varieties of rice in this\ncountry. He\nwondered\n1 \u201cOne lakh! So far I\nhave only tasted 3 varieties. If we tried a new\nvariety\neach day, would\nlweevencome\nclose\nto tasting all the varieties in a lifetime of 100\nyears?\""
+}

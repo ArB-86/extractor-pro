@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.6517659425735474,
+    "bbox": [
+        1087.43310546875,
+        304.62017822265625,
+        1379.1141357421875,
+        371.9783630371094
+    ],
+    "image_path": "debug/full_book/page_023/007_title_0.65.png",
+    "text": "PUZzl\nTIME!"
+}

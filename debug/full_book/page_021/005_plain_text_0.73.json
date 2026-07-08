@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7267250418663025,
+    "bbox": [
+        382.20269775390625,
+        1456.91162109375,
+        2085.756103515625,
+        1820.0550537109375
+    ],
+    "image_path": "debug/full_book/page_021/005_plain_text_0.73.png",
+    "text": "13. A bar-tailed\ngodwit l\nholds\nthe\nfor\nthe longest\nrecord\n recorded\nnon-stop flight. It travelled 13,560 km from Alaska to Australia\nWithout\nstopping. Its\njourney\nstarted\non\n13\nOctober\n2022\ncontinued for about\ndays. Find out the approximate\nand\nt11C\ndistance it covered\nevery\nday. Find out the\napproximate\ndistance\nit\ncovered\nevery\nhour."
+}

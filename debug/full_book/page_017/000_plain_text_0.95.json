@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9461022615432739,
+    "bbox": [
+        374.4481201171875,
+        1709.8062744140625,
+        2094.689697265625,
+        1893.5655517578125
+    ],
+    "image_path": "debug/full_book/page_017/000_plain_text_0.95.png",
+    "text": "As you did before, divide the g\ngiven numbers to uncover interesting\nfacts about division. Share your thoughts and\nquestions with the class\nafter you uncover each number."
+}

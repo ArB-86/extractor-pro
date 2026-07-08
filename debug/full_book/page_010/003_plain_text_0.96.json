@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9588437080383301,
+    "bbox": [
+        377.52001953125,
+        287.4800720214844,
+        2087.4970703125,
+        406.2081298828125
+    ],
+    "image_path": "debug/full_book/page_010/003_plain_text_0.96.png",
+    "text": "What do you think of this conversation? Have\ne you read or heard\nsuch headlines or statements?"
+}

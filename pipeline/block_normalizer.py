@@ -68,6 +68,17 @@ class BlockNormalizer:
         )
       ):
         prev.text = prev.text.rstrip() + " " + text
+
+        if hasattr(prev, "raw_lines") and hasattr(block, "raw_lines"):
+            prev.raw_lines.extend(block.raw_lines)
+
+        prev.bbox = (
+            min(prev.bbox[0], block.bbox[0]),
+            min(prev.bbox[1], block.bbox[1]),
+            max(prev.bbox[2], block.bbox[2]),
+            max(prev.bbox[3], block.bbox[3]),
+        )
+
         continue
 
       merged.append(copy.copy(block))

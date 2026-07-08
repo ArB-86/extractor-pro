@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.854455828666687,
+    "bbox": [
+        498.4863586425781,
+        2547.037353515625,
+        1964.7742919921875,
+        2603.015625
+    ],
+    "image_path": "debug/full_book/page_008/008_plain_text_0.85.png",
+    "text": "1 lakh, written in numbers would be 1 followed by 5 z\nzeroes."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.832676351070404,
+    "bbox": [
+        430.58233642578125,
+        1204.439208984375,
+        1752.164306640625,
+        1528.1568603515625
+    ],
+    "image_path": "debug/full_book/page_003/010_plain_text_0.83.png",
+    "text": "The\nworld's tallest statue\niS\nthe\n'Statue\nof Unity'\nin (\nGujarat c\ndepicting\nSardar\nr Vallabhbhai Patel. Its\nheight is about 180\nmetres.\nKunchikal\nWaterfall\nin\nKarnataka\nais\nsaid\nto\ndrop\nfrom a height of about 450\nmetres."
+}

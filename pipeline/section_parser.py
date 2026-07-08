@@ -186,29 +186,19 @@ class SectionParser:
 
             if not text:
                 continue
-
-            print("=" * 80)
             print("BLOCK:", repr(text[:120]))
 
             first = _first_line(text)
-
-            print("FIRST:", repr(first))
             print("TYPE :", _classify_header_text(first))
-            print("LINES:", len(text.splitlines()))
 
             if text.startswith("Koch Snowflake"):
-                print("=" * 80)
                 print("BLOCK:", repr(text))
-                print("FIRST:", repr(first))
                 print("TYPE :", _classify_header_text(first))
-                print("LINES:", len(text.splitlines()))
 
             if (
                 len(text.splitlines()) > 1
                 and _classify_header_text(first) == HeaderType.SECTION
             ):
-
-                print(">>> SPLITTING KOCH BLOCK <<<")
 
                 if current is not None:
                     sections.append(current)
@@ -240,8 +230,6 @@ class SectionParser:
 
                 if current is not None:
                     sections.append(current)
-
-                print(f"SECTION START: {repr(text)}")
 
                 current = Section(
                     title=compact_section_title(text),

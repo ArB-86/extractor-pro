@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5209912657737732,
+    "bbox": [
+        370.84625244140625,
+        2337.96533203125,
+        2183.774169921875,
+        2404.287353515625
+    ],
+    "image_path": "debug/full_book/page_024/012_plain_text_0.52.png",
+    "text": "How tall is the Kunchikal waterfall compared to the building?\n?410 m."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.7888525724411011,
+    "bbox": [
+        437.081298828125,
+        1505.365478515625,
+        2179.4326171875,
+        1634.8468017578125
+    ],
+    "image_path": "debug/full_book/page_034/006_plain_text_0.79.png",
+    "text": "Ans:\nWe cannot reach the sun in a lifetime because it takes approx. 403\nyears."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.7684360146522522,
+    "bbox": [
+        472.4525451660156,
+        658.3447875976562,
+        1008.1079711914062,
+        720.373291015625
+    ],
+    "image_path": "debug/full_book/page_037/006_plain_text_0.77.png",
+    "text": "Difference\n10,22,447\n\u4e8c"
+}

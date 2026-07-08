@@ -1,0 +1,5 @@
+render_dpi: 300
+
+crop_dir: debug/pipeline
+
+page_limit: -1

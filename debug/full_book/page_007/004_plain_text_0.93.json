@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9315302968025208,
+    "bbox": [
+        301.83203125,
+        1336.887451171875,
+        2092.285400390625,
+        1461.6104736328125
+    ],
+    "image_path": "debug/full_book/page_007/004_plain_text_0.93.png",
+    "text": "How can we \nget the numbers (a) 5072, (b) 8300 using \n as few button\nclicks as possible?"
+}

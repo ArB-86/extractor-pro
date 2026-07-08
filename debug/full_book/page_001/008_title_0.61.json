@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.6065030097961426,
+    "bbox": [
+        379.89093017578125,
+        973.301513671875,
+        1092.206787109375,
+        1049.8603515625
+    ],
+    "image_path": "debug/full_book/page_001/008_title_0.61.png",
+    "text": "1.1 A Lakh Varieties!"
+}

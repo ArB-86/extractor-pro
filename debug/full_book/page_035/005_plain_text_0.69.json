@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.6858541369438171,
+    "bbox": [
+        368.0201416015625,
+        1419.8441162109375,
+        2189.412109375,
+        1827.7178955078125
+    ],
+    "image_path": "debug/full_book/page_035/005_plain_text_0.69.png",
+    "text": "3. Write a 9-digit\n number where exchanging\n any two digits results in a\nbigger number. How many such numbers exist?\nAns: One such number is 987654312.\nExchanging last two d\ndigits, we\nget 987654321, which is bigger number\nthan the initial number.\nTry more!"
+}

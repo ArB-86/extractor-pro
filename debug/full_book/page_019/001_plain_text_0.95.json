@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.949038028717041,
+    "bbox": [
+        296.5793151855469,
+        487.1405029296875,
+        2089.252197265625,
+        612.4417724609375
+    ],
+    "image_path": "debug/full_book/page_019/001_plain_text_0.95.png",
+    "text": "The RMS Titanic ship carried about 2500 passengers. Can the population\nof Mumbai fit into 5ooo such ships?"
+}

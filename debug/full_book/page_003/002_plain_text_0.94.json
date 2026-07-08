@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9363277554512024,
+    "bbox": [
+        376.724853515625,
+        1727.0284423828125,
+        2087.41748046875,
+        1906.9285888671875
+    ],
+    "image_path": "debug/full_book/page_003/002_plain_text_0.94.png",
+    "text": "Look at the picture on the right. Somu is 1 metre tall. If each floor\nis about four times his height, what is the approximate height of the\nbuilding?"
+}

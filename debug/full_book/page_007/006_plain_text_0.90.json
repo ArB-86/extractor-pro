@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.900292158126831,
+    "bbox": [
+        378.3465270996094,
+        2590.35986328125,
+        2088.890625,
+        2712.3935546875
+    ],
+    "image_path": "debug/full_book/page_007/006_plain_text_0.90.png",
+    "text": "2.\nDo\nconnection\nbetween\neach\nnumber\nand\nthe\nyou\nsee\nany\ncorresponding smallest number of button clicks?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7458165884017944,
+    "bbox": [
+        297.5168762207031,
+        2713.711181640625,
+        1567.581787109375,
+        2781.574462890625
+    ],
+    "image_path": "debug/full_book/page_024/001_plain_text_0.75.png",
+    "text": "Write each of the numbers\ngiven\nbelow in\nI words:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6968061327934265,
+    "bbox": [
+        368.3492736816406,
+        407.6933288574219,
+        2189.9052734375,
+        639.7279052734375
+    ],
+    "image_path": "debug/full_book/page_027/006_plain_text_0.70.png",
+    "text": "1.\nFor\neach\nnumber\ngiven\nbelow,\nwrite\nexpressions\nfor\nat\nleast\ntwo\ndifferent\nways\nto\nobtain\nthe\nnumber\nthrough\nbutton\nclicks. Think\nlike\nChitti\nand\nbe\ne creative."
+}

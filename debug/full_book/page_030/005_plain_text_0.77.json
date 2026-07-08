@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.771258533000946,
+    "bbox": [
+        443.89019775390625,
+        1776.770263671875,
+        1216.6580810546875,
+        2045.6246337890625
+    ],
+    "image_path": "debug/full_book/page_030/005_plain_text_0.77.png",
+    "text": "(a) 30 thousand\n3 lakhs\n(b) 500 lakhs\n>\n5 million\n(c) 800 t\nthousand\n8 million\n(d) 640\n<\n60 billion\ncrore"
+}

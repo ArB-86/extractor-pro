@@ -1,0 +1,4892 @@
+[
+  {
+    "page": 1,
+    "text": "The World of Numbers",
+    "bbox": [
+      123.95999145507812,
+      90.6425552368164,
+      308.0592041015625,
+      112.14655303955078
+    ]
+  },
+  {
+    "page": 1,
+    "text": "3",
+    "bbox": [
+      65.00190734863281,
+      94.56985473632812,
+      77.07630920410156,
+      126.2613754272461
+    ]
+  },
+  {
+    "page": 1,
+    "text": "3.1. The Dawn of Mathematics: The Human Need to\nCount",
+    "bbox": [
+      57.842403411865234,
+      175.89263916015625,
+      418.11419677734375,
+      212.8106231689453
+    ]
+  },
+  {
+    "page": 1,
+    "text": "Long before humanity built cities, formulated laws, or studied the stars,\nthere existed a fundamental, practical necessity: the need to keep count.\nMathematics did not begin in a classroom with equations on a board; it\nbegan in the dirt, on the bark of trees, and on bones.\nImagine you are living thousands of years ago in a small agricultural\nsettlement along the banks of the Saraswati river. You have a herd\nof cattle. Every morning, they go out into the dense forests to graze,\nand every evening, they return. How do you ensure that a calf has\nnot wandered off? Without words for numbers, and without written\nsymbols, early humans solved this through a concept called one-to-one\ncorrespondence.\nFor every cow that left the settlement, the herder might place one\npebble in a clay pot. In the evening, for every cow that returned, one\npebble was removed. If the pot was empty at the end of the day, the herd\nwas safe. If pebbles remained, cows were missing. This simple act of\nmatching one object to another was the birth of the Natural Numbers\n(N = {1, 2, 3, 4, … }).",
+    "bbox": [
+      57.84238815307617,
+      217.03663635253906,
+      432.8321228027344,
+      445.7378234863281
+    ]
+  },
+  {
+    "page": 1,
+    "text": "3.1.1 A History Written in Bone",
+    "bbox": [
+      57.842403411865234,
+      457.9846496582031,
+      248.4864044189453,
+      474.1126403808594
+    ]
+  },
+  {
+    "page": 1,
+    "text": "While the decimal place-value system we use today was perfected in\nthe Indian subcontinent, the earliest physical evidence of humanity\nrecording natural numbers takes us deep into the heart of Africa. The\nfirst mathematicians did not use paper; they used tally marks carved\ninto bone.\nThe Lebombo Bone, discovered in the Lebombo Mountains\nbetween South Africa and Swaziland, dates back approximately\n35,000 years. It is a bone featuring 29 distinct, deliberately-carved\nuniformly-sized notches. Anthropologists and mathematicians believe\nthis was not just random scratching, but a tool used as a lunar phase\ncounter or a menstrual calendar, indicating that early humans were\ntracking time through natural numbers.",
+    "bbox": [
+      57.842403411865234,
+      478.4366455078125,
+      432.77740478515625,
+      639.443603515625
+    ]
+  },
+  {
+    "page": 2,
+    "text": "42\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Even more fascinating is the Ishango bone, found near the\nheadwaters of the Nile River in the Democratic Republic of Congo,\ndating to around 20,000 BCE. This bone contains three columns of\nasymmetrical notches. What makes the Ishango bone a mathematical\nmarvel is the specific grouping of the tallies. One of the columns groups\nnotches into 11, 13, 17, and 19 — the prime numbers between 10 and",
+    "bbox": [
+      57.84640884399414,
+      72.88394165039062,
+      432.7153015136719,
+      194.47804260253906
+    ]
+  },
+  {
+    "page": 2,
+    "text": "20. Another column seems to demonstrate the concept of multiplication\nby 2 (doubling). These artefacts indicate that the abstract concept of a\n‘number’ is indeed tens of thousands of years old.",
+    "bbox": [
+      57.84640884399414,
+      72.88394165039062,
+      432.7153015136719,
+      194.47804260253906
+    ]
+  },
+  {
+    "page": 2,
+    "text": "Fig. 3.1: Representation of the prime number tally\ngroupings found on the Ishango bone.",
+    "bbox": [
+      140.39979553222656,
+      292.2098083496094,
+      351.9618835449219,
+      315.94281005859375
+    ]
+  },
+  {
+    "page": 2,
+    "text": "3.1.2 The Indian Context: Trade and Astronomy",
+    "bbox": [
+      57.842403411865234,
+      337.6618347167969,
+      347.7239074707031,
+      353.7898254394531
+    ]
+  },
+  {
+    "page": 2,
+    "text": "As civilisations advanced, so did the need for larger numbers. In the\nancient urban centers of the Indus Valley Civilisation, such as Lothal\nand Harappa, standardised weights and measures were crucial for\ntrade. A merchant trading terracotta pottery, lapis lazuli, or cotton\nwith Mesopotamia needed a robust system of accounting.\nDuring Vedic times, Indian philosophers were fascinated by and\ndeeply pondered large numbers. In the Vedas, which go back thousands\nof years, names were given to all powers of 10 up to 1012 (which was\ncalled parārdha). In the Lalitavistara in the 4th century BCE, Buddha\ndescribes names up to 1053, which is called tallakṣhaṇa.\nExpressing quantities in terms of powers of 10 was explicitly used in\nthe Ṛigveda, thus setting the stage for the number system based on\npowers of 10 to be developed in India in the ensuing years, and which\nwe now use around the world today. The development of the Indian\nnumeral system in terms of place values and powers of 10 also helped\npave the way for what is perhaps the most important mathematical\ninvention in human history: the concept of zero.",
+    "bbox": [
+      57.83798599243164,
+      358.11383056640625,
+      432.7398376464844,
+      585.1207885742188
+    ]
+  },
+  {
+    "page": 3,
+    "text": "43\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 3,
+    "text": "Exercise Set 3.1",
+    "bbox": [
+      185.28309631347656,
+      75.43889617919922,
+      301.3988952636719,
+      99.89969635009766
+    ]
+  },
+  {
+    "page": 3,
+    "text": "1.\t A merchant in the port city of Lothal is exchanging bags of spices\nfor copper ingots. He receives 15 ingots for every 2 bags of spices. If\nhe brings 12 bags of spices to the market, how many copper ingots\nwill he leave with?\n\t 2.\t Look at the sequence of numbers on one column of the Ishango\nbone: 11, 13, 17, 19. What do these numbers have in common? List\nthe next three numbers that fit this pattern.\n\t 3.\t We know that Natural Numbers are closed under addition (the sum\nof any two natural numbers is always a natural number). Are they\nclosed under subtraction? Provide a couple of examples to justify\nyour answer.\n\t*4.\t Ancient Indians used the joints of their fingers to count, a practice\nstill seen today. Each finger has 3 joints, and the thumb is used to\ncount them. How many can you count on one hand? How does this\nrelate to the ancient base-12 counting systems?",
+    "bbox": [
+      57.80939865112305,
+      110.31202697753906,
+      432.693603515625,
+      322.3370361328125
+    ]
+  },
+  {
+    "page": 3,
+    "text": "3.2 \u0007The Revolution of Śhūnya: When Nothing\nBecame Something",
+    "bbox": [
+      57.842403411865234,
+      336.16802978515625,
+      381.2409973144531,
+      373.0860290527344
+    ]
+  },
+  {
+    "page": 3,
+    "text": "For millennia, the number line started at 1. If you had five apples and\ngave all five away, you did not have a number to represent your state;\nyou simply had a void, a lack of apples. Civilisations like the Babylonians\nand Mayans used placeholders — symbols to indicate an empty column\nin a number — but they did not treat ‘nothing’ as a number that you\ncould add, subtract, and multiply.\nIt was in the work of Brahmagupta (628 CE) that the void was formally\ntransformed into a number, which truly transformed mathematics.\nThis monumental leap was in turn inspired by Indian philosophical\ntraditions.",
+    "bbox": [
+      57.842403411865234,
+      377.31201171875,
+      432.7168273925781,
+      511.9190673828125
+    ]
+  },
+  {
+    "page": 3,
+    "text": "3.2.1 \u0007From Philosophy to Mathematics: The Concept of\nŚhūnyatā",
+    "bbox": [
+      57.842403411865234,
+      525.8599853515625,
+      392.9026184082031,
+      556.988037109375
+    ]
+  },
+  {
+    "page": 3,
+    "text": "In the Upanishads and in the vast Buddhist literature starting well before\nthe 7th century BCE, the concept of Śhūnyatā (emptiness or nothingness)",
+    "bbox": [
+      57.842403411865234,
+      561.31201171875,
+      432.72119140625,
+      590.3190307617188
+    ]
+  },
+  {
+    "page": 4,
+    "text": "44\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 4,
+    "text": "was a profound state that was the goal of yoga and meditation. The\nword śhūnya means zero, and the word śhūnyatā (zeroness) was used\nextensively in these works to describe the state that one is trying to\nreach during meditation — that of emptying one’s mind of all vṛttis\n(fluctuations of the mind) to achieve the state of perfect stillness and\ntranquility. Patanjali in the Yoga Sutras around the 3rd century BCE also\ndescribes how śhūnyatā  can help lead to control over one’s mind, body,\nand senses.\nBecause Indian thinkers revered this state of ‘emptiness’, they\npossessed the conceptual framework necessary to welcome ‘nothingness’\nas a concept in philosophy. This concept of zeroness then found its\nway into many fields, such as architecture, literature, linguistics, and\neventually made its way into mathematics in the works of Āryabhaṭa\nand finally Brahmagupta.\nThus, the philosophical concept of emptiness crystallised into the\nmathematical zero.",
+    "bbox": [
+      57.842403411865234,
+      73.14595031738281,
+      432.7322082519531,
+      286.95294189453125
+    ]
+  },
+  {
+    "page": 4,
+    "text": "3.2.2 The Bakhśhālī Manuscript and Brahmagupta’s Rules",
+    "bbox": [
+      57.842403411865234,
+      294.8939208984375,
+      408.27825927734375,
+      311.02191162109375
+    ]
+  },
+  {
+    "page": 4,
+    "text": "In the Hindu Number System that we use today, the physical transition\nfrom a blank space to a symbol can be seen in the Bakhśhālī\nManuscript. Dated to the early centuries CE, it features a bold dot\n(bindu) used to represent zero.\nHowever, a symbol is just a mark on a page until it has rules.\nThe transformation of zero into a fully operational number\noccurred in the work of Brahmagupta. In his seminal work, the\nBrāhmasphuṭasiddhānta (628 CE), he explicitly defined zero as the\nresult of subtracting a number from itself (a – a = 0).\nBrahmagupta then laid down the fundamental laws of arithmetic\nwith śhūnya:",
+    "bbox": [
+      57.83139419555664,
+      315.345947265625,
+      432.7112731933594,
+      463.15301513671875
+    ]
+  },
+  {
+    "page": 4,
+    "text": "Brahmagupta’s Rules for Zero",
+    "bbox": [
+      66.8424072265625,
+      475.7624206542969,
+      278.2535705566406,
+      494.57843017578125
+    ]
+  },
+  {
+    "page": 4,
+    "text": "•\n\u0007When zero is added to a number, the number remains unchanged:\na + 0 = a.",
+    "bbox": [
+      73.8424072265625,
+      502.7484436035156,
+      421.2624206542969,
+      530.2884521484375
+    ]
+  },
+  {
+    "page": 4,
+    "text": "•\n\u0007When zero is subtracted from a number, the number remains\nunchanged: a – 0 = a.",
+    "bbox": [
+      73.84239196777344,
+      531.578369140625,
+      417.5654296875,
+      559.118408203125
+    ]
+  },
+  {
+    "page": 4,
+    "text": "•\nWhen any number is multiplied by zero, the result is zero: a × 0 = 0.",
+    "bbox": [
+      73.84239196777344,
+      560.4083862304688,
+      403.8523864746094,
+      574.9484252929688
+    ]
+  },
+  {
+    "page": 5,
+    "text": "45\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 5,
+    "text": "3.3 Integers: Expanding the Horizon",
+    "bbox": [
+      57.8599967956543,
+      73.13372802734375,
+      311.53857421875,
+      93.25172424316406
+    ]
+  },
+  {
+    "page": 5,
+    "text": "Brahmagupta did not stop at zero. He realised that if subtraction of a\nnumber from itself can result in zero (5 – 5 = 0), then what would happen\nif we subtracted a larger number from a smaller one (3 – 5 =\n )?\nTo answer this, Brahmagupta grounded his mathematics in the\nreality of commerce and life.\nHe recognised two states:\n•\nFortunes (Dhana): Positive numbers, representing wealth or assets.\n•\nDebts (Ṛiṇa): Negative numbers, representing debts.",
+    "bbox": [
+      57.85910415649414,
+      97.47761535644531,
+      432.7278747558594,
+      210.68971252441406
+    ]
+  },
+  {
+    "page": 5,
+    "text": "By moving to the left of zero on the number line, Brahmagupta\nformally introduced Negative Numbers to the world. The combination\nof positive natural numbers, their negative counterparts, and zero\ncreates the set of Integers, denoted by the symbol Z (from the German\nword Zahlen, meaning numbers).",
+    "bbox": [
+      57.848087310791016,
+      214.0777130126953,
+      432.7115173339844,
+      282.68475341796875
+    ]
+  },
+  {
+    "page": 5,
+    "text": "Negative Integers ← Debt (Ṛiṇa)\nFortunes (Dhana) → Positive Integers",
+    "bbox": [
+      94.33999633789062,
+      293.5945129394531,
+      407.4859924316406,
+      307.12152099609375
+    ]
+  },
+  {
+    "page": 5,
+    "text": "Zero (Śhūnya)",
+    "bbox": [
+      213.85098266601562,
+      310.99151611328125,
+      272.8459777832031,
+      323.9245300292969
+    ]
+  },
+  {
+    "page": 5,
+    "text": "–5\n–4\n–3\n–2\n–1\n0\n1\n2\n3\n4\n5",
+    "bbox": [
+      90.3258056640625,
+      344.615234375,
+      392.6269226074219,
+      357.5482482910156
+    ]
+  },
+  {
+    "page": 5,
+    "text": "Fig. 3.2",
+    "bbox": [
+      228.87197875976562,
+      366.41351318359375,
+      258.823974609375,
+      379.3465270996094
+    ]
+  },
+  {
+    "page": 5,
+    "text": "3.3.1 The Arithmetic of Integers",
+    "bbox": [
+      57.8599967956543,
+      401.06732177734375,
+      251.6515655517578,
+      417.1953125
+    ]
+  },
+  {
+    "page": 5,
+    "text": "Brahmagupta gave explicit rules for adding and multiplying these\nintegers, which we still use exactly as he wrote them over 1,300 years ago:",
+    "bbox": [
+      57.8599967956543,
+      421.51922607421875,
+      432.696044921875,
+      450.5262451171875
+    ]
+  },
+  {
+    "page": 5,
+    "text": "1.\t A fortune plus a fortune is a fortune: 5 + 4 = 9.",
+    "bbox": [
+      57.8599967956543,
+      454.5302429199219,
+      337.5128479003906,
+      470.52423095703125
+    ]
+  },
+  {
+    "page": 5,
+    "text": "2.\t A debt plus a debt is a debt: (– 5) + (– 4) = –9. (If you owe `5 and\nborrow `4 more, you owe ` 9.)",
+    "bbox": [
+      57.8599967956543,
+      474.5282287597656,
+      432.7287902832031,
+      504.5252380371094
+    ]
+  },
+  {
+    "page": 5,
+    "text": "3.\t A fortune minus zero is a fortune, a debt minus zero is a debt:\n7 – 0 = 7, and – 6 – 0 = – 6.\n\t 4.\t The product of a debt and a fortune is a debt: (–3) × 4 = –12.\n(If you take on 4 debts of `3, your total debt is `12.)",
+    "bbox": [
+      57.8599967956543,
+      508.5292663574219,
+      432.7322998046875,
+      569.5153198242188
+    ]
+  },
+  {
+    "page": 5,
+    "text": "5.\t The product of two debts is a fortune: (–3) × (–4) = 12.",
+    "bbox": [
+      57.85820388793945,
+      570.1273193359375,
+      376.5390930175781,
+      586.121337890625
+    ]
+  },
+  {
+    "page": 6,
+    "text": "46\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 6,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      76.89395141601562,
+      192.1424102783203,
+      95.70995330810547
+    ]
+  },
+  {
+    "page": 6,
+    "text": "Why does a negative times a negative equal a positive? Think of it in\nterms of action and debt. If a negative number represents a debt, then\nmultiplying by a negative number represents the removal of that debt.",
+    "bbox": [
+      65.8424072265625,
+      104.04985046386719,
+      425.5631103515625,
+      144.4198455810547
+    ]
+  },
+  {
+    "page": 6,
+    "text": "(Hint: If someone takes away (–) four of your debts that are each\nworth `3 (that is, –3), you are effectively `12 richer! Therefore,\n(–3) × (– 4) = +12.)",
+    "bbox": [
+      65.84237670898438,
+      145.70986938476562,
+      431.0523986816406,
+      187.24986267089844
+    ]
+  },
+  {
+    "page": 6,
+    "text": "Exercise Set 3.2",
+    "bbox": [
+      185.283203125,
+      209.79812622070312,
+      301.39898681640625,
+      234.25892639160156
+    ]
+  },
+  {
+    "page": 6,
+    "text": "1.\t The temperature in the high-altitude desert of Ladakh is recorded\nas 4 °C at noon. By midnight, it drops by 15 °C. What is the midnight\ntemperature?",
+    "bbox": [
+      57.842403411865234,
+      240.8711395263672,
+      432.6925964355469,
+      283.0781555175781
+    ]
+  },
+  {
+    "page": 6,
+    "text": "2.\t A spice trader takes a loan (debt) of `850. The next day, he makes\na profit (fortune) of `1,200. The following week, he incurs a loss\nof `450. Write this sequence as an equation using integers and\ncalculate his final financial standing.\n\t 3.\t Calculate the following using Brahmagupta’s laws:",
+    "bbox": [
+      57.82040023803711,
+      284.26611328125,
+      432.6794738769531,
+      357.48211669921875
+    ]
+  },
+  {
+    "page": 6,
+    "text": "(i)\n(–12) × 5\n(ii)\t (–8) × (–7)",
+    "bbox": [
+      57.80939865112305,
+      360.672119140625,
+      344.5243225097656,
+      376.4791259765625
+    ]
+  },
+  {
+    "page": 6,
+    "text": "(iii)\n0 – (–14)\n(iv)\t (–20) ÷  4",
+    "bbox": [
+      57.80939865112305,
+      384.16815185546875,
+      339.1012878417969,
+      399.9751281738281
+    ]
+  },
+  {
+    "page": 6,
+    "text": "4.\t Explain, using a real-world example of debt, why subtracting\na negative number is the same as adding a positive number\n(e.g., 10 – (–5) = 15).",
+    "bbox": [
+      57.80939865112305,
+      404.8701171875,
+      432.68914794921875,
+      447.0771484375
+    ]
+  },
+  {
+    "page": 6,
+    "text": "3.4 Filling the Spaces: Fractions and Rational\nNumbers",
+    "bbox": [
+      57.842403411865234,
+      460.92724609375,
+      386.1256103515625,
+      497.8452453613281
+    ]
+  },
+  {
+    "page": 6,
+    "text": "As society grew more complex, measuring became just as important as\ncounting. If a farmer divides a field of wheat among his three children,\nhow much does each get? If a recipe calls for half a cup of ghee, how do\nwe represent that mathematically?\nNumbers that represent parts of a whole are called fractions. Just as\nevery natural number has an additive inverse (3 has –3, 19 has –19, etc.),",
+    "bbox": [
+      57.842403411865234,
+      502.07122802734375,
+      432.7025451660156,
+      583.8782348632812
+    ]
+  },
+  {
+    "page": 6,
+    "text": "we can conceive of additive inverses for every positive fraction: – 3\n4  for\n3\n4 , – 19\n7  for 19\n7 , etc. Let us refer to such additive inverses of positive",
+    "bbox": [
+      57.842403411865234,
+      582.912353515625,
+      432.72198486328125,
+      628.6713256835938
+    ]
+  },
+  {
+    "page": 7,
+    "text": "47\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 7,
+    "text": "fractions as negative fractions. Note that in a negative fraction, the ‘–’\nsign can also be placed with either the numerator or denominator, as",
+    "bbox": [
+      57.842403411865234,
+      73.07093811035156,
+      432.73333740234375,
+      102.07794952392578
+    ]
+  },
+  {
+    "page": 7,
+    "text": "follows: – 1\n5 = –1\n5  =  1\n–5.",
+    "bbox": [
+      57.842403411865234,
+      99.78025817871094,
+      168.82069396972656,
+      126.53925323486328
+    ]
+  },
+  {
+    "page": 7,
+    "text": "When we combine all integers and all fractions (both positive and\nnegative), we get the set of Rational Numbers, denoted by ℚ (for\nquotient).\nA rational number is defined as any number that can be expressed",
+    "bbox": [
+      57.830692291259766,
+      123.46797180175781,
+      432.6941833496094,
+      178.87501525878906
+    ]
+  },
+  {
+    "page": 7,
+    "text": "in the form  p\nq , where p and q are integers and q ≠ 0.",
+    "bbox": [
+      57.830692291259766,
+      174.95091247558594,
+      326.8583068847656,
+      201.32090759277344
+    ]
+  },
+  {
+    "page": 7,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      213.48733520507812,
+      192.1424102783203,
+      232.3033447265625
+    ]
+  },
+  {
+    "page": 7,
+    "text": "Can you explain why we need q ≠ 0 in the definition of a rational number?",
+    "bbox": [
+      65.8424072265625,
+      240.6420440673828,
+      418.7696228027344,
+      255.0120391845703
+    ]
+  },
+  {
+    "page": 7,
+    "text": "We must make some important observations at this stage.",
+    "bbox": [
+      75.8424072265625,
+      272.94012451171875,
+      377.6482238769531,
+      288.74713134765625
+    ]
+  },
+  {
+    "page": 7,
+    "text": "•\nAll rational numbers can be written in the form  p\nq , where p and",
+    "bbox": [
+      71.83840942382812,
+      292.89739990234375,
+      432.69793701171875,
+      320.7054138183594
+    ]
+  },
+  {
+    "page": 7,
+    "text": "q are integers and q ≠ 0. For example, 5 and –10 can be written",
+    "bbox": [
+      89.8499755859375,
+      317.99945068359375,
+      432.7418518066406,
+      333.8064270019531
+    ]
+  },
+  {
+    "page": 7,
+    "text": "as 5\n1 and –10\n1 , respectively. What this means is that the",
+    "bbox": [
+      89.8499755859375,
+      331.50872802734375,
+      432.6991271972656,
+      357.8787536621094
+    ]
+  },
+  {
+    "page": 7,
+    "text": "rational numbers also include the natural numbers, whole\nnumbers and integers.\n•\nRational numbers do not have a unique representation in the",
+    "bbox": [
+      71.84637451171875,
+      354.99395751953125,
+      432.7002258300781,
+      400.20391845703125
+    ]
+  },
+  {
+    "page": 7,
+    "text": "form  p\nq , where p and q are integers and q ≠ 0. For example, we have",
+    "bbox": [
+      89.8424072265625,
+      398.3358154296875,
+      432.72003173828125,
+      425.0948181152344
+    ]
+  },
+  {
+    "page": 7,
+    "text": "– 1\n3 = – 2\n6 = – 3\n9 = – 10\n30 =  – 2026\n6078 and so on. These are equivalent",
+    "bbox": [
+      89.8392333984375,
+      425.96502685546875,
+      432.6985168457031,
+      452.3350524902344
+    ]
+  },
+  {
+    "page": 7,
+    "text": "rational numbers (or equivalent fractions). This fact allows us\nto freely divide any common factor between the numerator and\nthe denominator of a given fraction. The resulting fraction is",
+    "bbox": [
+      89.83740234375,
+      452.4547119140625,
+      432.7293701171875,
+      500.271728515625
+    ]
+  },
+  {
+    "page": 7,
+    "text": "then equivalent to the original one. For example, 12\n30 is equivalent",
+    "bbox": [
+      89.83740234375,
+      498.3935241699219,
+      432.7052307128906,
+      524.7635498046875
+    ]
+  },
+  {
+    "page": 7,
+    "text": "to 2",
+    "bbox": [
+      89.84628295898438,
+      517.820556640625,
+      432.7036437988281,
+      544.1905517578125
+    ]
+  },
+  {
+    "page": 7,
+    "text": "5. Here, we have divided both the numerator and the",
+    "bbox": [
+      89.84628295898438,
+      517.820556640625,
+      432.7036437988281,
+      544.1905517578125
+    ]
+  },
+  {
+    "page": 7,
+    "text": "denominator by 6.",
+    "bbox": [
+      89.84249877929688,
+      541.3057250976562,
+      185.8944854736328,
+      557.1127319335938
+    ]
+  },
+  {
+    "page": 7,
+    "text": "•\nThe common understanding is that when we say that  p\nq  is a rational",
+    "bbox": [
+      71.84649658203125,
+      558.24755859375,
+      432.6957702636719,
+      585.0065307617188
+    ]
+  },
+  {
+    "page": 7,
+    "text": "number, or when we represent  p\nq  on the number line, we assume",
+    "bbox": [
+      89.8367919921875,
+      578.3053588867188,
+      432.69647216796875,
+      605.0643310546875
+    ]
+  },
+  {
+    "page": 7,
+    "text": "that q ≠ 0 and that p and q have no common factors other than",
+    "bbox": [
+      89.8441162109375,
+      601.4202270507812,
+      432.69189453125,
+      617.2272338867188
+    ]
+  },
+  {
+    "page": 8,
+    "text": "48\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 8,
+    "text": "1 (that is, p and q are co-prime). So, on the number line, among",
+    "bbox": [
+      89.83999633789062,
+      72.88394165039062,
+      432.7308044433594,
+      88.87793731689453
+    ]
+  },
+  {
+    "page": 8,
+    "text": "the infinitely many fractions equivalent to 1\n2 (i.e., the fractions 1\n2,",
+    "bbox": [
+      89.83999633789062,
+      86.58171081542969,
+      432.69757080078125,
+      112.95170593261719
+    ]
+  },
+  {
+    "page": 8,
+    "text": "2\n4, 3\n9,  6\n12, … , 1013\n2026 , …), we choose 1\n2 to represent all of them.",
+    "bbox": [
+      89.83859252929688,
+      112.13914489746094,
+      396.06634521484375,
+      140.34071350097656
+    ]
+  },
+  {
+    "page": 8,
+    "text": "As you will remember from Grades 6 and 7, Brahmagupta also gave\nrules for addition, subtraction, multiplication, and division of fractions.\nHe noted that these rules also apply to both positive and negative\nfractions which together constitute the rational numbers.",
+    "bbox": [
+      57.84938430786133,
+      136.27491760253906,
+      432.74017333984375,
+      191.6819610595703
+    ]
+  },
+  {
+    "page": 8,
+    "text": "Here are the various laws:",
+    "bbox": [
+      75.84538269042969,
+      193.07896423339844,
+      216.568359375,
+      208.88597106933594
+    ]
+  },
+  {
+    "page": 8,
+    "text": "1.\t Equality: Two rational numbers a\nb and c\nd are said to be equal if ad = bc.",
+    "bbox": [
+      57.84939956665039,
+      206.95094299316406,
+      429.8357849121094,
+      236.32093811035156
+    ]
+  },
+  {
+    "page": 8,
+    "text": "2.\t Addition and subtraction of two rational numbers: We first",
+    "bbox": [
+      57.83780288696289,
+      232.88192749023438,
+      432.71014404296875,
+      248.8759307861328
+    ]
+  },
+  {
+    "page": 8,
+    "text": "express the two rational numbers as fractions a\nb and c\nb with the",
+    "bbox": [
+      84.8427734375,
+      244.95094299316406,
+      432.6970520019531,
+      274.3209533691406
+    ]
+  },
+  {
+    "page": 8,
+    "text": "same denominator, b. Then we use the rules a\nb + c\nb = a + c\nb  and\na\nb – c\nb = a – c\nb  .",
+    "bbox": [
+      84.84298706054688,
+      271.950927734375,
+      432.7005615234375,
+      323.7099304199219
+    ]
+  },
+  {
+    "page": 8,
+    "text": "3.\t Multiplication and division of two rational numbers:",
+    "bbox": [
+      57.83500289916992,
+      331.8829345703125,
+      432.6929626464844,
+      347.8769226074219
+    ]
+  },
+  {
+    "page": 8,
+    "text": "We\nuse\nthe\nrules\na\nb\nc\nd\nac\nbd\n×\n=\n\nprovided\nthat",
+    "bbox": [
+      84.8399658203125,
+      350.7729797363281,
+      432.7035827636719,
+      377.3709716796875
+    ]
+  },
+  {
+    "page": 8,
+    "text": "(b ≠ 0, d ≠ 0) and a\nb\nc\nd\na\nb\nd\nc\nad\nbc\n÷\n=\n×\n=\n provided that (b ≠ 0,",
+    "bbox": [
+      84.839599609375,
+      378.81378173828125,
+      432.6939697265625,
+      405.4117736816406
+    ]
+  },
+  {
+    "page": 8,
+    "text": "d ≠ 0, c ≠ 0).",
+    "bbox": [
+      84.84100341796875,
+      410.075927734375,
+      147.4090118408203,
+      425.8829040527344
+    ]
+  },
+  {
+    "page": 8,
+    "text": "4.\t With the arithmetic laws defined as above, addition and",
+    "bbox": [
+      57.836002349853516,
+      429.27093505859375,
+      432.69061279296875,
+      445.0779113769531
+    ]
+  },
+  {
+    "page": 8,
+    "text": "multiplication are both commutative (i.e., a\nb\nc\nd\nc\nd\na\nb\n+\n=\n+\n and\na\nb\nc\nd\nc\nd\na\nb\n×\n=\n×\n, and they follow the law of distributivity: if p, q and r",
+    "bbox": [
+      84.83000183105469,
+      444.1729736328125,
+      432.6959228515625,
+      491.97088623046875
+    ]
+  },
+  {
+    "page": 8,
+    "text": "are rational numbers, then p (q + r) = pq + pr.",
+    "bbox": [
+      84.84298706054688,
+      490.67303466796875,
+      318.4278869628906,
+      506.48004150390625
+    ]
+  },
+  {
+    "page": 8,
+    "text": "Rational numbers are closed under addition, subtraction, and\nmultiplication; that is, if one adds two rational numbers, or subtracts\ntwo rational numbers, or multiplies two rational numbers, a rational\nnumber is again obtained. Rational numbers are also closed under\ndivision, provided that one does not divide by zero. That is, the quotient\nof two rational numbers is again a rational number, as long as one does\nnot divide by zero.",
+    "bbox": [
+      57.8489875793457,
+      512.8710327148438,
+      432.7355041503906,
+      607.8779907226562
+    ]
+  },
+  {
+    "page": 9,
+    "text": "49\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 9,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      76.89395141601562,
+      192.1424102783203,
+      95.70995330810547
+    ]
+  },
+  {
+    "page": 9,
+    "text": "1.\t \u0007While adding or subtracting two rational numbers having different",
+    "bbox": [
+      73.8424072265625,
+      104.04985046386719,
+      417.5596008300781,
+      118.41984558105469
+    ]
+  },
+  {
+    "page": 9,
+    "text": "denominators, how will you make the denominators equal?",
+    "bbox": [
+      89.8424072265625,
+      117.04985046386719,
+      373.58251953125,
+      131.4198455810547
+    ]
+  },
+  {
+    "page": 9,
+    "text": "2.\t Verify the distributive law for rational numbers.",
+    "bbox": [
+      73.8424072265625,
+      132.8798065185547,
+      319.83245849609375,
+      147.24986267089844
+    ]
+  },
+  {
+    "page": 9,
+    "text": "Exercise Set 3.3",
+    "bbox": [
+      185.28309631347656,
+      178.79812622070312,
+      301.3988952636719,
+      203.25892639160156
+    ]
+  },
+  {
+    "page": 9,
+    "text": "1.\t Prove that the following rational numbers are equal:",
+    "bbox": [
+      57.842403411865234,
+      209.8711395263672,
+      361.01336669921875,
+      225.6781463623047
+    ]
+  },
+  {
+    "page": 9,
+    "text": "5\n4\n10\n8\nand",
+    "bbox": [
+      295.46417236328125,
+      228.7602081298828,
+      337.9781188964844,
+      253.31210327148438
+    ]
+  },
+  {
+    "page": 9,
+    "text": "2\n3\n4\n6\nand\n\n(ii)",
+    "bbox": [
+      116.1553955078125,
+      228.77328491210938,
+      286.3473815917969,
+      255.37127685546875
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(i)",
+    "bbox": [
+      57.83140182495117,
+      236.97511291503906,
+      104.69140625,
+      252.78211975097656
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(iii)\n−\n−\n3\n5\n6\n10\nand\n\n(iv)\t 9\n3\u001d and 3",
+    "bbox": [
+      57.842403411865234,
+      260.3653869628906,
+      335.52825927734375,
+      288.4712829589844
+    ]
+  },
+  {
+    "page": 9,
+    "text": "2.\t Find the sum:",
+    "bbox": [
+      57.844303131103516,
+      300.8741455078125,
+      156.6462860107422,
+      316.6811218261719
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(i)\n2\n5\n3\n10\n+\n\n(ii)\n7\n12\n5\n8\n+",
+    "bbox": [
+      57.83330154418945,
+      320.7732849121094,
+      330.7015686035156,
+      348.37127685546875
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(iii)\n−\n+\n4\n7\n3\n14",
+    "bbox": [
+      57.84659194946289,
+      351.1270751953125,
+      153.98309326171875,
+      377.7250671386719
+    ]
+  },
+  {
+    "page": 9,
+    "text": "3.\t Find the difference:",
+    "bbox": [
+      57.832096099853516,
+      389.47320556640625,
+      187.69805908203125,
+      405.28021240234375
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(i)\n5\n6\n1\n4\n−\n\n(ii)\t 11\n8\n3\n4\n−",
+    "bbox": [
+      57.821102142333984,
+      408.373291015625,
+      329.6925964355469,
+      436.13787841796875
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(iii)\n−\n−−\n",
+    "bbox": [
+      57.82761001586914,
+      439.48944091796875,
+      152.76109313964844,
+      462.18603515625
+    ]
+  },
+  {
+    "page": 9,
+    "text": "\n",
+    "bbox": [
+      140.96908569335938,
+      439.50042724609375,
+      166.8850860595703,
+      471.31243896484375
+    ]
+  },
+  {
+    "page": 9,
+    "text": "\n7\n9\n2\n3",
+    "bbox": [
+      124.06208801269531,
+      440.0172424316406,
+      174.7061004638672,
+      471.32342529296875
+    ]
+  },
+  {
+    "page": 9,
+    "text": "4.\t Find the product:",
+    "bbox": [
+      57.842098236083984,
+      479.10040283203125,
+      178.46807861328125,
+      494.90740966796875
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(i)\n2\n3\n3\n10\n×\n\n(ii)\n7\n11\n5\n8\n×",
+    "bbox": [
+      57.83109664916992,
+      498.9732971191406,
+      327.6985778808594,
+      525.6889038085938
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(iii)\n−\n×\n4\n7\n5\n14",
+    "bbox": [
+      57.835575103759766,
+      530.3192138671875,
+      152.77308654785156,
+      556.9171752929688
+    ]
+  },
+  {
+    "page": 9,
+    "text": "5.\t Find the quotient:",
+    "bbox": [
+      57.84309768676758,
+      566.67431640625,
+      178.63406372070312,
+      582.4813232421875
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(i)\n2\n3 ÷ 3\n10",
+    "bbox": [
+      57.83210372924805,
+      586.5733032226562,
+      145.49449157714844,
+      617.3074340820312
+    ]
+  },
+  {
+    "page": 9,
+    "text": "(ii)\n7\n11",
+    "bbox": [
+      147.9915008544922,
+      587.2733154296875,
+      307.340576171875,
+      613.8670043945312
+    ]
+  },
+  {
+    "page": 9,
+    "text": "÷  5\n8",
+    "bbox": [
+      307.8399963378906,
+      587.2733154296875,
+      325.466796875,
+      613.8712768554688
+    ]
+  },
+  {
+    "page": 10,
+    "text": "50\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 10,
+    "text": "(iii)\n−\n÷\n4\n7\n5\n14",
+    "bbox": [
+      57.88560104370117,
+      74.0088882446289,
+      154.18528747558594,
+      100.6069107055664
+    ]
+  },
+  {
+    "page": 10,
+    "text": "\n",
+    "bbox": [
+      144.9716033935547,
+      112.20653533935547,
+      182.2946014404297,
+      144.0225372314453
+    ]
+  },
+  {
+    "page": 10,
+    "text": "6.\t Show that: 1\n2\n3\n4\n8\n3\n1\n2\n8\n3\n3\n4\n8\n3\n+\n",
+    "bbox": [
+      57.86931228637695,
+      112.20836639404297,
+      269.80157470703125,
+      139.31222534179688
+    ]
+  },
+  {
+    "page": 10,
+    "text": "×\n=\n×\n+\n×\n.",
+    "bbox": [
+      178.06529235839844,
+      117.01350402832031,
+      278.0772399902344,
+      144.0225372314453
+    ]
+  },
+  {
+    "page": 10,
+    "text": "7.\t Simplify the following using the distributive property:",
+    "bbox": [
+      57.87929916381836,
+      147.21949768066406,
+      370.82928466796875,
+      163.02650451660156
+    ]
+  },
+  {
+    "page": 10,
+    "text": "\n",
+    "bbox": [
+      96.26060485839844,
+      166.248046875,
+      133.55059814453125,
+      198.0639190673828
+    ]
+  },
+  {
+    "page": 10,
+    "text": "7\n9\n6\n7\n3\n4\n−\n",
+    "bbox": [
+      57.8682975769043,
+      166.249755859375,
+      126.87229919433594,
+      193.35360717773438
+    ]
+  },
+  {
+    "page": 10,
+    "text": ".",
+    "bbox": [
+      129.32308959960938,
+      173.72787475585938,
+      137.0450897216797,
+      198.0639190673828
+    ]
+  },
+  {
+    "page": 10,
+    "text": "8.\t Find the rational number x such that: 5\n6\n3\n5\n5\n6\n1\n2\nx\nx\n+\n",
+    "bbox": [
+      57.889102935791016,
+      194.16860961914062,
+      375.55029296875,
+      221.27767944335938
+    ]
+  },
+  {
+    "page": 10,
+    "text": "\n",
+    "bbox": [
+      295.1502990722656,
+      194.172119140625,
+      330.96630859375,
+      225.9881134033203
+    ]
+  },
+  {
+    "page": 10,
+    "text": "=\n+\n.",
+    "bbox": [
+      326.7441101074219,
+      198.6120147705078,
+      380.0165100097656,
+      225.9881134033203
+    ]
+  },
+  {
+    "page": 10,
+    "text": "3.4.1 \u0007Representation of Rational Numbers on the\nNumber Line",
+    "bbox": [
+      57.88560104370117,
+      236.36001586914062,
+      362.6615905761719,
+      267.4880065917969
+    ]
+  },
+  {
+    "page": 10,
+    "text": "We already know that integers can be represented on a number line.\nTo do this, we first choose a point and mark it as 0, called the origin.\nMoving one unit to the right gives the point representing 1, two units to\nthe right gives 2, and so on. Similarly, moving one unit to the left of the\norigin gives –1, two units to the left gives –2, and so on. Each integer lies\nat an equal distance from the next one. This is represented in Fig. 3.3.",
+    "bbox": [
+      57.88560104370117,
+      271.81201171875,
+      432.6993713378906,
+      353.61907958984375
+    ]
+  },
+  {
+    "page": 10,
+    "text": "–7\n–6\n–4\n–5\n–3\n–2\n–1\n0\n1\n2\n3\n4\n5\n6\n7",
+    "bbox": [
+      96.07980346679688,
+      374.4526062011719,
+      390.37078857421875,
+      387.3856201171875
+    ]
+  },
+  {
+    "page": 10,
+    "text": "Fig. 3.3",
+    "bbox": [
+      228.89279174804688,
+      396.2506103515625,
+      258.84478759765625,
+      409.1836242675781
+    ]
+  },
+  {
+    "page": 10,
+    "text": "Rational numbers can also be represented on the number line. Unlike",
+    "bbox": [
+      75.88560485839844,
+      414.35662841796875,
+      432.6990966796875,
+      430.1636047363281
+    ]
+  },
+  {
+    "page": 10,
+    "text": "integers, they may lie between two integers. For example, 1\n2 lies exactly",
+    "bbox": [
+      57.88959884643555,
+      427.8675231933594,
+      432.6930847167969,
+      454.237548828125
+    ]
+  },
+  {
+    "page": 10,
+    "text": "halfway between 0 and 1, and – 3\n4 lies between –1 and 0 as shown in\nFig. 3.4.",
+    "bbox": [
+      57.879093170166016,
+      446.8675231933594,
+      432.6837463378906,
+      481.3636169433594
+    ]
+  },
+  {
+    "page": 10,
+    "text": "–2\n–1\n0\n1\n2\n1\n2\n–3\n4",
+    "bbox": [
+      158.8614959716797,
+      501.67230224609375,
+      331.4455261230469,
+      524.7846069335938
+    ]
+  },
+  {
+    "page": 10,
+    "text": "Fig. 3.4",
+    "bbox": [
+      228.88150024414062,
+      533.6495971679688,
+      258.83349609375,
+      546.5825805664062
+    ]
+  },
+  {
+    "page": 10,
+    "text": "p\nq , q ≠ 0, on the number line, divide\nthe unit interval (the distance between two consecutive integers) into\nq equal parts. Then move p parts from 0 to the right if the number is\npositive, and to the left if it is negative.",
+    "bbox": [
+      57.88222122192383,
+      552.4945678710938,
+      432.7511291503906,
+      620.6314086914062
+    ]
+  },
+  {
+    "page": 10,
+    "text": "To represent a rational number",
+    "bbox": [
+      75.88560485839844,
+      559.4274291992188,
+      243.54759216308594,
+      575.4214477539062
+    ]
+  },
+  {
+    "page": 11,
+    "text": "51\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 11,
+    "text": "For example, to represent 3\n4, divide the interval between 0 and\n1 into four equal parts and move three parts to the right from 0.",
+    "bbox": [
+      57.844486236572266,
+      73.04985046386719,
+      432.69134521484375,
+      109.35004425048828
+    ]
+  },
+  {
+    "page": 11,
+    "text": "0\n1\n1\n2\n1\n4",
+    "bbox": [
+      134.34039306640625,
+      136.104736328125,
+      333.6723937988281,
+      159.03677368164062
+    ]
+  },
+  {
+    "page": 11,
+    "text": "3\n4",
+    "bbox": [
+      281.5899963378906,
+      136.104736328125,
+      286.6210021972656,
+      159.03677368164062
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Fig. 3.5",
+    "bbox": [
+      228.8679962158203,
+      161.90777587890625,
+      258.82000732421875,
+      174.84078979492188
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Even fractions greater than 1 can be located on the number line in",
+    "bbox": [
+      75.8424072265625,
+      179.0087432861328,
+      432.7373352050781,
+      194.8157501220703
+    ]
+  },
+  {
+    "page": 11,
+    "text": "this way. For example, 9\n4 = 21\n4 so it lies between 2 and 3. We divide the",
+    "bbox": [
+      57.84640121459961,
+      192.51951599121094,
+      432.6997375488281,
+      218.88951110839844
+    ]
+  },
+  {
+    "page": 11,
+    "text": "interval between 2 and 3 into four equal parts and move one part to the\nright of 2. See Fig. 3.6.",
+    "bbox": [
+      57.84958267211914,
+      215.0036163330078,
+      432.7063293457031,
+      244.01063537597656
+    ]
+  },
+  {
+    "page": 11,
+    "text": "0\n1\n2\n3\n1\n4",
+    "bbox": [
+      79.69949340820312,
+      273.8243103027344,
+      395.0144958496094,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "1\n2",
+    "bbox": [
+      130.98089599609375,
+      273.8243103027344,
+      136.01190185546875,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "3\n4",
+    "bbox": [
+      157.23089599609375,
+      273.8243103027344,
+      162.26190185546875,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "5\n4",
+    "bbox": [
+      209.48089599609375,
+      273.8243103027344,
+      214.51190185546875,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "3\n2",
+    "bbox": [
+      234.68089294433594,
+      273.8243103027344,
+      239.71189880371094,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "7\n4",
+    "bbox": [
+      260.48089599609375,
+      273.8243103027344,
+      265.51190185546875,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "9\n4",
+    "bbox": [
+      312.73089599609375,
+      273.8243103027344,
+      317.76190185546875,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "5\n2",
+    "bbox": [
+      338.23089599609375,
+      273.8243103027344,
+      343.26190185546875,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "11\n4",
+    "bbox": [
+      363.98089599609375,
+      273.8243103027344,
+      374.04290771484375,
+      296.7563171386719
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Fig. 3.6",
+    "bbox": [
+      228.86390686035156,
+      299.6273193359375,
+      258.81591796875,
+      312.5603332519531
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      330.94482421875,
+      192.1424102783203,
+      349.7608337402344
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Try and represent 8\n5 and – 7\n4 on a number line.",
+    "bbox": [
+      65.8424072265625,
+      358.0785217285156,
+      283.360595703125,
+      382.0105285644531
+    ]
+  },
+  {
+    "page": 11,
+    "text": "– 18\n5\n– 9\n4",
+    "bbox": [
+      140.00070190429688,
+      392.11322021484375,
+      190.60260009765625,
+      415.04522705078125
+    ]
+  },
+  {
+    "page": 11,
+    "text": "32\n7\n26\n7\n– 7\n8",
+    "bbox": [
+      218.131591796875,
+      392.11322021484375,
+      387.06451416015625,
+      415.04522705078125
+    ]
+  },
+  {
+    "page": 11,
+    "text": "7\n8",
+    "bbox": [
+      275.2024841308594,
+      392.11322021484375,
+      280.2334899902344,
+      415.04522705078125
+    ]
+  },
+  {
+    "page": 11,
+    "text": "9\n4",
+    "bbox": [
+      311.2024841308594,
+      392.11322021484375,
+      316.2334899902344,
+      415.04522705078125
+    ]
+  },
+  {
+    "page": 11,
+    "text": "0\n–5\n–4\n–3\n–2\n–1\n1\n2\n3\n4\n5",
+    "bbox": [
+      104.15089416503906,
+      428.713134765625,
+      397.4429016113281,
+      441.6461486816406
+    ]
+  },
+  {
+    "page": 11,
+    "text": "– 22\n5",
+    "bbox": [
+      114.75070190429688,
+      428.7132263183594,
+      131.6527099609375,
+      451.6452331542969
+    ]
+  },
+  {
+    "page": 11,
+    "text": "3\n2",
+    "bbox": [
+      292.00250244140625,
+      428.7132263183594,
+      297.03350830078125,
+      451.6452331542969
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Fig. 3.7: Some integers and rational numbers on a number line",
+    "bbox": [
+      113.93559265136719,
+      454.5132141113281,
+      373.7457275390625,
+      467.44622802734375
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Absolute value of a rational number",
+    "bbox": [
+      57.842403411865234,
+      481.16522216796875,
+      281.3267517089844,
+      497.293212890625
+    ]
+  },
+  {
+    "page": 11,
+    "text": "The absolute value of a rational number x, written as |x|, represents\nits distance from 0 on the number line.",
+    "bbox": [
+      57.842403411865234,
+      501.4302673339844,
+      432.7201843261719,
+      530.6242065429688
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Example 1: |5\n3|= 5\n3 , |– 5\n3|is also equal to 5\n3 and |0|= 0.",
+    "bbox": [
+      75.83840942382812,
+      527.2891845703125,
+      355.2687683105469,
+      559.6980590820312
+    ]
+  },
+  {
+    "page": 11,
+    "text": "Thus, the absolute value of a positive number is the number itself.\nThe absolute value of a negative number is its positive value. Therefore,\nthe absolute value of any rational number is always non-negative, that\nis, |x| ≥ 0.",
+    "bbox": [
+      57.850894927978516,
+      565.0202026367188,
+      432.74169921875,
+      620.4271850585938
+    ]
+  },
+  {
+    "page": 12,
+    "text": "52\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 12,
+    "text": "For two rational numbers a and b, the distance between them on\nthe number line is given by |a – b|. Fig. 3.8 represents the distance\nbetween the integers –4 and 3.",
+    "bbox": [
+      57.835391998291016,
+      73.07093811035156,
+      432.7373046875,
+      115.27796173095703
+    ]
+  },
+  {
+    "page": 12,
+    "text": "|a – b|= 7",
+    "bbox": [
+      224.06729125976562,
+      122.18756866455078,
+      265.9803161621094,
+      135.12057495117188
+    ]
+  },
+  {
+    "page": 12,
+    "text": "b\na",
+    "bbox": [
+      140.86228942871094,
+      141.591552734375,
+      349.1402893066406,
+      154.52456665039062
+    ]
+  },
+  {
+    "page": 12,
+    "text": "–5\n–4\n–3\n–2\n–1\n0\n1\n2\n3\n4",
+    "bbox": [
+      106.82429504394531,
+      167.51153564453125,
+      381.5853576660156,
+      180.44454956054688
+    ]
+  },
+  {
+    "page": 12,
+    "text": "Fig. 3.8",
+    "bbox": [
+      228.873291015625,
+      183.3155517578125,
+      258.8252868652344,
+      196.24856567382812
+    ]
+  },
+  {
+    "page": 12,
+    "text": "3.4.2 The Density of Rational Numbers",
+    "bbox": [
+      57.842403411865234,
+      213.96343994140625,
+      292.1903381347656,
+      230.09144592285156
+    ]
+  },
+  {
+    "page": 12,
+    "text": "One of the most magical properties of rational numbers is that they are\ndense. Between any two integers, say 1 and 2, there is a rational number\n3\n2 . Between 1 and 3\n2 , there is another rational number 5\n4.",
+    "bbox": [
+      57.842403411865234,
+      234.41551208496094,
+      432.7332763671875,
+      290.1538391113281
+    ]
+  },
+  {
+    "page": 12,
+    "text": "No matter how close two rational numbers are on the number\nline, you can always find another rational number between them by\ntaking their average. For example, a rational number between 1 and",
+    "bbox": [
+      57.842716217041016,
+      283.81951904296875,
+      432.6972961425781,
+      326.02655029296875
+    ]
+  },
+  {
+    "page": 12,
+    "text": "1\n3\n2\n2",
+    "bbox": [
+      276.83599853515625,
+      324.62286376953125,
+      299.7380065917969,
+      363.71685791015625
+    ]
+  },
+  {
+    "page": 12,
+    "text": "+",
+    "bbox": [
+      284.613037109375,
+      331.2120056152344,
+      290.65203857421875,
+      344.68701171875
+    ]
+  },
+  {
+    "page": 12,
+    "text": "= 5",
+    "bbox": [
+      303.8960266113281,
+      339.6263122558594,
+      432.6798400878906,
+      365.996337890625
+    ]
+  },
+  {
+    "page": 12,
+    "text": "4. Try to explain why",
+    "bbox": [
+      303.8960266113281,
+      339.6263122558594,
+      432.6798400878906,
+      365.996337890625
+    ]
+  },
+  {
+    "page": 12,
+    "text": "3\n2  can be found by taking their average:",
+    "bbox": [
+      57.842403411865234,
+      339.64581298828125,
+      274.6051330566406,
+      367.4538269042969
+    ]
+  },
+  {
+    "page": 12,
+    "text": "the average of two rational numbers a and b, which equals (a + b)\n2\n, is\nalways a rational number between a and b.",
+    "bbox": [
+      57.843509674072266,
+      359.02630615234375,
+      432.7014465332031,
+      392.1225280761719
+    ]
+  },
+  {
+    "page": 12,
+    "text": "3\n2\n1\n2",
+    "bbox": [
+      210.69039916992188,
+      401.2311096191406,
+      274.5184020996094,
+      424.16412353515625
+    ]
+  },
+  {
+    "page": 12,
+    "text": "5\n4",
+    "bbox": [
+      224.24620056152344,
+      401.2311096191406,
+      229.27720642089844,
+      424.1631164550781
+    ]
+  },
+  {
+    "page": 12,
+    "text": "Fig. 3.9",
+    "bbox": [
+      228.86138916015625,
+      439.50909423828125,
+      258.8133850097656,
+      452.4421081542969
+    ]
+  },
+  {
+    "page": 12,
+    "text": "This means that there are infinitely many rational numbers\nbetween any two points. It feels as though the rational numbers must\ncompletely fill the number line, leaving no gaps whatsoever. But do they?",
+    "bbox": [
+      57.835391998291016,
+      458.61553955078125,
+      432.7011413574219,
+      500.822509765625
+    ]
+  },
+  {
+    "page": 12,
+    "text": "Exercise Set 3.4",
+    "bbox": [
+      185.28309631347656,
+      517.142333984375,
+      301.3988952636719,
+      541.6031494140625
+    ]
+  },
+  {
+    "page": 12,
+    "text": "1.\t Represent the rational numbers 2\n3, –5\n4 and 11\n2 on a single number\nline.\n\t 2.\t Find three distinct rational numbers that lie strictly between",
+    "bbox": [
+      57.83250045776367,
+      549.5263671875,
+      432.6904296875,
+      599.2255249023438
+    ]
+  },
+  {
+    "page": 12,
+    "text": "– 1\n2 and 1\n4.",
+    "bbox": [
+      84.82650756835938,
+      597.9263305664062,
+      133.29649353027344,
+      624.2963256835938
+    ]
+  },
+  {
+    "page": 13,
+    "text": "53\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 13,
+    "text": "3.\t Simplify the expression: −\n",
+    "bbox": [
+      57.842403411865234,
+      74.50304412841797,
+      227.4011993408203,
+      97.11902618408203
+    ]
+  },
+  {
+    "page": 13,
+    "text": "\n",
+    "bbox": [
+      215.61219787597656,
+      74.50652313232422,
+      242.55120849609375,
+      106.32252502441406
+    ]
+  },
+  {
+    "page": 13,
+    "text": "+ ",
+    "bbox": [
+      238.33099365234375,
+      74.50652313232422,
+      256.7669677734375,
+      106.32252502441406
+    ]
+  },
+  {
+    "page": 13,
+    "text": "\n",
+    "bbox": [
+      252.5496826171875,
+      74.50652313232422,
+      276.9256896972656,
+      106.32252502441406
+    ]
+  },
+  {
+    "page": 13,
+    "text": "\n1\n4\n5\n12 .",
+    "bbox": [
+      229.739990234375,
+      75.01236724853516,
+      281.8689880371094,
+      106.32252502441406
+    ]
+  },
+  {
+    "page": 13,
+    "text": "4.\t A tailor has 15 3\n4 metres of fine silk. If making one kurta requires",
+    "bbox": [
+      57.854000091552734,
+      103.82292175292969,
+      432.6978454589844,
+      130.1929168701172
+    ]
+  },
+  {
+    "page": 13,
+    "text": "21\n4 metres of silk, exactly how many kurtas can he make?",
+    "bbox": [
+      84.843994140625,
+      122.82292175292969,
+      383.6295471191406,
+      149.1929168701172
+    ]
+  },
+  {
+    "page": 13,
+    "text": "5.\t Find three rational numbers between 3.1415 and 3.1416.",
+    "bbox": [
+      57.84270095825195,
+      148.50904846191406,
+      380.010498046875,
+      164.31605529785156
+    ]
+  },
+  {
+    "page": 13,
+    "text": "*6.\t Can you think of other way(s) to find a rational number between\nany two rational numbers?",
+    "bbox": [
+      57.83169937133789,
+      168.7050323486328,
+      432.6719665527344,
+      197.71205139160156
+    ]
+  },
+  {
+    "page": 13,
+    "text": "3.5 Irrational Numbers",
+    "bbox": [
+      57.842403411865234,
+      205.56802368164062,
+      219.93299865722656,
+      225.68601989746094
+    ]
+  },
+  {
+    "page": 13,
+    "text": "For centuries, mathematicians believed that\nevery measurable length in the universe could\nbe represented as a ratio of two integers.\nHowever,\nwhen\nBaudhāyana\ncomposed\nhis Śhulbasūtra (a manual for constructing\ncomplex geometric fire altars) in around 800\nBCE, he quickly encountered lengths that defied\nfractions. The ancient Greeks encountered the\nsame crisis a few centuries later.\nConsider a square where each side is exactly\n1 unit long. By the Baudhāyana–Pythagoras Theorem, the length of the\ndiagonal d is given by 12 + 12 = d2, so d2 = 2. Therefore, the length of the\ndiagonal is\n2.",
+    "bbox": [
+      57.8419075012207,
+      229.9120330810547,
+      432.6936950683594,
+      408.7190246582031
+    ]
+  },
+  {
+    "page": 13,
+    "text": "2\n1",
+    "bbox": [
+      361.9961853027344,
+      271.0506286621094,
+      429.8367919921875,
+      286.2238464355469
+    ]
+  },
+  {
+    "page": 13,
+    "text": "1",
+    "bbox": [
+      370.0408020019531,
+      327.35382080078125,
+      375.0718078613281,
+      340.2868347167969
+    ]
+  },
+  {
+    "page": 13,
+    "text": "Fig. 3.10",
+    "bbox": [
+      356.82879638671875,
+      342.923828125,
+      391.8117980957031,
+      355.8568420410156
+    ]
+  },
+  {
+    "page": 13,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      423.0973205566406,
+      192.1424102783203,
+      441.913330078125
+    ]
+  },
+  {
+    "page": 13,
+    "text": "p\nq  ?",
+    "bbox": [
+      260.74969482421875,
+      450.2322998046875,
+      275.8398742675781,
+      475.9403076171875
+    ]
+  },
+  {
+    "page": 13,
+    "text": "Can\n2  be written as a rational number",
+    "bbox": [
+      65.8424072265625,
+      457.4892272949219,
+      260.7511901855469,
+      471.9904479980469
+    ]
+  },
+  {
+    "page": 13,
+    "text": "As you learned in Grade 8, the answer is a resounding NO! We\nwill soon again see why! Numbers on the number line that cannot be\nexpressed as a ratio of integers are called Irrational Numbers.",
+    "bbox": [
+      57.84640121459961,
+      491.475830078125,
+      432.7032165527344,
+      533.6828002929688
+    ]
+  },
+  {
+    "page": 13,
+    "text": "3.5.1 The Proof of Irrationality of",
+    "bbox": [
+      57.842403411865234,
+      541.623779296875,
+      263.73834228515625,
+      557.7518310546875
+    ]
+  },
+  {
+    "page": 13,
+    "text": "The first proof of the irrationality of\n2  is due to a mathematician\nnamed Hippasus who was a member of the Pythagorean school\n(c. 400 BCE). To explain why\n2  is irrational, he employed a brilliant",
+    "bbox": [
+      57.842403411865234,
+      564.9446411132812,
+      432.7123107910156,
+      610.151611328125
+    ]
+  },
+  {
+    "page": 14,
+    "text": "54\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 14,
+    "text": "technique called Proof by Contradiction. Namely, we assume the\nopposite of what we want to prove, and show that this assumption leads\nto a logical disaster.",
+    "bbox": [
+      57.842403411865234,
+      72.88394165039062,
+      432.7331848144531,
+      115.27796173095703
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Proof: We shall explain the proof in steps.",
+    "bbox": [
+      75.83840942382812,
+      116.48794555664062,
+      296.0792541503906,
+      132.48194885253906
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 1: Assumption: Assume\n2  is a rational number. Therefore, it",
+    "bbox": [
+      75.83840942382812,
+      136.55197143554688,
+      432.6752014160156,
+      152.6778106689453
+    ]
+  },
+  {
+    "page": 14,
+    "text": "p\nq , q ≠ 0 in its simplest form. (This means p",
+    "bbox": [
+      205.6916961669922,
+      150.6775360107422,
+      432.7096862792969,
+      177.43653869628906
+    ]
+  },
+  {
+    "page": 14,
+    "text": "can be written as a fraction",
+    "bbox": [
+      57.839298248291016,
+      157.60665893554688,
+      204.7388153076172,
+      173.6006622314453
+    ]
+  },
+  {
+    "page": 14,
+    "text": "and q are integers that share no common factors other than 1, that is,\nthey are co-prime.)",
+    "bbox": [
+      57.85171890258789,
+      175.7934112548828,
+      432.7314758300781,
+      207.6054229736328
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2 = p\nq",
+    "bbox": [
+      75.84770202636719,
+      206.69418334960938,
+      273.7161865234375,
+      233.29217529296875
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 2: Square both sides of the equation:",
+    "bbox": [
+      75.83718872070312,
+      240.01333618164062,
+      293.5931396484375,
+      256.00732421875
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2",
+    "bbox": [
+      274.0635986328125,
+      258.6831359863281,
+      277.9765930175781,
+      268.74212646484375
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2\n= p",
+    "bbox": [
+      257.6260986328125,
+      260.09417724609375,
+      277.7890930175781,
+      285.3983154296875
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2",
+    "bbox": [
+      75.83720397949219,
+      266.3973388671875,
+      255.24378967285156,
+      283.2103271484375
+    ]
+  },
+  {
+    "page": 14,
+    "text": "q\nStep 3: Multiply both sides by q2:",
+    "bbox": [
+      75.85110473632812,
+      276.7481689453125,
+      273.47711181640625,
+      307.4043273925781
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2q2 = p2",
+    "bbox": [
+      75.84599304199219,
+      308.79742431640625,
+      276.42486572265625,
+      324.60833740234375
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 4: Deduction for p:",
+    "bbox": [
+      75.8424072265625,
+      325.8104248046875,
+      206.37939453125,
+      341.8044128417969
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Because p2 is equal to 2 times some integer, p2 must be an even\nnumber. If the square of a number is even, the number itself must be even.\nTherefore, p is an even integer. Let us say p = 2k (where k is an integer).",
+    "bbox": [
+      57.83798599243164,
+      345.19244384765625,
+      432.70703125,
+      387.40435791015625
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 5: Substitute p = 2k back into our equation from Step 3:",
+    "bbox": [
+      75.844970703125,
+      395.6103820800781,
+      390.0928649902344,
+      411.6043701171875
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2q2 = (2k)2",
+    "bbox": [
+      214.7529754638672,
+      412.9974365234375,
+      272.9335632324219,
+      428.8083801269531
+    ]
+  },
+  {
+    "page": 14,
+    "text": "2q2 = 4k2",
+    "bbox": [
+      221.9626007080078,
+      430.19732666015625,
+      265.7175598144531,
+      446.00433349609375
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 6: Divide both sides by 2:\n\nq2 = 2k2",
+    "bbox": [
+      75.8424072265625,
+      454.2104187011719,
+      265.9485778808594,
+      486.40740966796875
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 7: Deduction for q: Now we see that q2 is equal to 2 times some\ninteger k2. This means q2 is even, and therefore, q must also be an even\ninteger.",
+    "bbox": [
+      57.84090042114258,
+      494.6104431152344,
+      432.69873046875,
+      537.00439453125
+    ]
+  },
+  {
+    "page": 14,
+    "text": "Step 8: The Contradiction: We deduced that p is even and q is even.\nThis means they both share a common factor of 2. However, in Step 1,",
+    "bbox": [
+      57.82992935180664,
+      545.2103881835938,
+      432.683349609375,
+      574.4044189453125
+    ]
+  },
+  {
+    "page": 14,
+    "text": "p\nq  was in simplest form, sharing no common factors!",
+    "bbox": [
+      135.0634002685547,
+      572.5352783203125,
+      409.8322448730469,
+      599.2942504882812
+    ]
+  },
+  {
+    "page": 14,
+    "text": "we stated that",
+    "bbox": [
+      57.82992935180664,
+      579.6514282226562,
+      134.2359161376953,
+      595.4584350585938
+    ]
+  },
+  {
+    "page": 15,
+    "text": "55\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 15,
+    "text": "Because our logical steps are flawless, our initial assumption must be\nwrong. Therefore,\n2  cannot be expressed as a fraction. It is irrational.",
+    "bbox": [
+      57.84640121459961,
+      73.07093811035156,
+      432.6986999511719,
+      105.07794952392578
+    ]
+  },
+  {
+    "page": 15,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      358.3434143066406,
+      192.1424102783203,
+      377.159423828125
+    ]
+  },
+  {
+    "page": 15,
+    "text": "Try to prove the irrationality of\n3  using the approach of proof by",
+    "bbox": [
+      65.8424072265625,
+      387.87261962890625,
+      417.5549621582031,
+      403.17962646484375
+    ]
+  },
+  {
+    "page": 15,
+    "text": "contradiction. Will the same approach work for\n5 , 7 , or 10  ?",
+    "bbox": [
+      65.84489440917969,
+      402.82464599609375,
+      384.5989990234375,
+      419.2426452636719
+    ]
+  },
+  {
+    "page": 15,
+    "text": "3.5.2 Construction of Length",
+    "bbox": [
+      57.842403411865234,
+      443.4073181152344,
+      256.1593017578125,
+      459.5353088378906
+    ]
+  },
+  {
+    "page": 15,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      471.9104309082031,
+      192.1424102783203,
+      490.7264404296875
+    ]
+  },
+  {
+    "page": 15,
+    "text": "We have seen how to obtain a line whose length is a rational number.\nHow do we obtain lines whose lengths are irrational?",
+    "bbox": [
+      65.8424072265625,
+      499.0664367675781,
+      417.5586242675781,
+      526.4364624023438
+    ]
+  },
+  {
+    "page": 15,
+    "text": "For example, to construct a line segment of length\n2  and mark\nits position on the number line, we may proceed as follows.",
+    "bbox": [
+      57.83737564086914,
+      537.9218139648438,
+      432.6975402832031,
+      566.9288330078125
+    ]
+  },
+  {
+    "page": 15,
+    "text": "Step 1: On the number line (see Fig. 3.11), we measure OA = 1 unit\nand draw a perpendicular on OA through A.",
+    "bbox": [
+      57.83737564086914,
+      568.1387939453125,
+      432.6885070800781,
+      597.3328247070312
+    ]
+  },
+  {
+    "page": 16,
+    "text": "56\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 16,
+    "text": "Step 2: On this perpendicular line we mark the point B such that\nAB = 1 unit and join the origin to B. Clearly, OB =\n2 units.",
+    "bbox": [
+      57.835391998291016,
+      72.88394165039062,
+      432.6986389160156,
+      105.07794952392578
+    ]
+  },
+  {
+    "page": 16,
+    "text": "Step 3: With O as centre and OB as radius, with a compass we draw an\narc which intersects the number line at P. Clearly, OP = 2  units. Hence,\nP represents the irrational number\n2.",
+    "bbox": [
+      57.838260650634766,
+      106.15658569335938,
+      432.69842529296875,
+      154.4153594970703
+    ]
+  },
+  {
+    "page": 16,
+    "text": "C\nB",
+    "bbox": [
+      240.79690551757812,
+      158.39532470703125,
+      278.0299072265625,
+      171.32833862304688
+    ]
+  },
+  {
+    "page": 16,
+    "text": "2\n2",
+    "bbox": [
+      254.53790283203125,
+      174.1993408203125,
+      311.06890869140625,
+      189.13235473632812
+    ]
+  },
+  {
+    "page": 16,
+    "text": "1\n1",
+    "bbox": [
+      256.02490234375,
+      178.393310546875,
+      279.92889404296875,
+      201.87432861328125
+    ]
+  },
+  {
+    "page": 16,
+    "text": "O\nA",
+    "bbox": [
+      235.2888946533203,
+      187.29434204101562,
+      272.56689453125,
+      201.7303466796875
+    ]
+  },
+  {
+    "page": 16,
+    "text": "P\n2\n3",
+    "bbox": [
+      285.472900390625,
+      199.82232666015625,
+      337.096923828125,
+      220.6573486328125
+    ]
+  },
+  {
+    "page": 16,
+    "text": "–3\n–2\n–1\n1",
+    "bbox": [
+      146.13169860839844,
+      206.34732055664062,
+      276.5057067871094,
+      220.6573486328125
+    ]
+  },
+  {
+    "page": 16,
+    "text": "0",
+    "bbox": [
+      241.28289794921875,
+      207.72433471679688,
+      246.31390380859375,
+      220.6573486328125
+    ]
+  },
+  {
+    "page": 16,
+    "text": "Fig. 3.11: Constructing irrational lengths and\nlocating them on the number line",
+    "bbox": [
+      149.82269287109375,
+      223.52432250976562,
+      342.537841796875,
+      247.25732421875
+    ]
+  },
+  {
+    "page": 16,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      258.64483642578125,
+      192.1424102783203,
+      277.4608459472656
+    ]
+  },
+  {
+    "page": 16,
+    "text": "Try to extend this method for constructing line segments of lengths\n3",
+    "bbox": [
+      65.8424072265625,
+      288.1741027832031,
+      417.5574035644531,
+      303.4810485839844
+    ]
+  },
+  {
+    "page": 16,
+    "text": "and\n5  using a ruler and a compass. Generalise this method to construct\na line segment of any length of the form\nn , where n is a positive integer.",
+    "bbox": [
+      65.8428955078125,
+      303.5740966796875,
+      417.56353759765625,
+      332.94415283203125
+    ]
+  },
+  {
+    "page": 16,
+    "text": "3.5.3 The Story of Pi (π) and Madhava’s Infinite Series",
+    "bbox": [
+      57.842403411865234,
+      351.1087341308594,
+      386.186279296875,
+      367.2367248535156
+    ]
+  },
+  {
+    "page": 16,
+    "text": "Another famous irrational number is π, the ratio of a circle’s circumference\nto its diameter. For centuries, mathematicians sought better and better\nfractional approximations for π. Āryabhaṭa (499 CE) gave the highly",
+    "bbox": [
+      57.842403411865234,
+      371.56072998046875,
+      432.7334899902344,
+      413.7677307128906
+    ]
+  },
+  {
+    "page": 16,
+    "text": "accurate approximation 3927\n1250 = 3.1416, but stated that this was only an",
+    "bbox": [
+      57.842403411865234,
+      412.4715270996094,
+      432.6987609863281,
+      438.841552734375
+    ]
+  },
+  {
+    "page": 16,
+    "text": "asanna (approximation), and indicated that an exact fraction could likely\nnot be found.\nHowever, because π is irrational (as was formally proven by\nLambert in 1761), no single fraction (or finitely many fractions) can\never provide a perfect formula for π. An exact formula for π was first\nunlocked in the 14th century by Mādhava of Sangamagrama, who\nlaunched the Kerala School of Mathematics. Mādhava realised that to\nexpress an irrational number, you cannot use a single fraction; you\nmust use an infinite sum. He discovered the profound infinite series:",
+    "bbox": [
+      57.84079360961914,
+      436.958740234375,
+      432.7032470703125,
+      558.3656616210938
+    ]
+  },
+  {
+    "page": 16,
+    "text": "π = 4\n1\n1\n3\n1\n5\n1\n7\n×\n−\n+\n−\n+\n",
+    "bbox": [
+      177.97178649902344,
+      563.9515991210938,
+      287.9950866699219,
+      591.0554809570312
+    ]
+  },
+  {
+    "page": 16,
+    "text": "\n",
+    "bbox": [
+      216.2640838623047,
+      563.962646484375,
+      304.8360900878906,
+      595.7745971679688
+    ]
+  },
+  {
+    "page": 16,
+    "text": "\nK.",
+    "bbox": [
+      289.05108642578125,
+      570.7825927734375,
+      309.7090759277344,
+      595.7855834960938
+    ]
+  },
+  {
+    "page": 16,
+    "text": "We know what it means to add 2, 100, or even a lakh terms. What\ndoes it mean to add an infinite number of terms? It means finding the",
+    "bbox": [
+      57.85307693481445,
+      593.9816284179688,
+      432.7086486816406,
+      622.9885864257812
+    ]
+  },
+  {
+    "page": 17,
+    "text": "57\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 17,
+    "text": "value that we get “closer” and “closer” to as we add more and more\nterms of the infinite sum, starting from the first term. You will learn\nmore about infinite series in higher grades.\nThus, the number line is not only filled with rational numbers but also\ncontains irrational numbers.  We have seen how to mark some irrationals,\nand will simply conceive the rest of the irrationals to lie on the line.",
+    "bbox": [
+      57.842403411865234,
+      73.07093811035156,
+      432.7049255371094,
+      154.8780059814453
+    ]
+  },
+  {
+    "page": 17,
+    "text": "– 22\n5\n– 12\n5",
+    "bbox": [
+      96.21330261230469,
+      159.53680419921875,
+      178.2152099609375,
+      182.46884155273438
+    ]
+  },
+  {
+    "page": 17,
+    "text": "7\n2",
+    "bbox": [
+      344.739990234375,
+      159.9368896484375,
+      349.77099609375,
+      182.86892700195312
+    ]
+  },
+  {
+    "page": 17,
+    "text": "9\n2",
+    "bbox": [
+      375.56500244140625,
+      159.9368896484375,
+      380.59600830078125,
+      182.86892700195312
+    ]
+  },
+  {
+    "page": 17,
+    "text": "−10\nπ\n2\n5",
+    "bbox": [
+      136.69000244140625,
+      167.45420837402344,
+      341.0350036621094,
+      182.87118530273438
+    ]
+  },
+  {
+    "page": 17,
+    "text": "0",
+    "bbox": [
+      240.76541137695312,
+      169.353515625,
+      245.79641723632812,
+      182.28652954101562
+    ]
+  },
+  {
+    "page": 17,
+    "text": "– 3\n2\n– 1\n3",
+    "bbox": [
+      189.0941925048828,
+      191.08682250976562,
+      235.09019470214844,
+      214.01882934570312
+    ]
+  },
+  {
+    "page": 17,
+    "text": "1\n2\n3\n4\n5\n–5\n–4\n–2\n–3\n–1",
+    "bbox": [
+      86.94647216796875,
+      191.34951782226562,
+      396.7984619140625,
+      206.6495361328125
+    ]
+  },
+  {
+    "page": 17,
+    "text": "5\n6",
+    "bbox": [
+      264.44000244140625,
+      192.43692016601562,
+      269.47100830078125,
+      215.36892700195312
+    ]
+  },
+  {
+    "page": 17,
+    "text": "3\n2",
+    "bbox": [
+      286.489990234375,
+      192.43692016601562,
+      291.52099609375,
+      215.36892700195312
+    ]
+  },
+  {
+    "page": 17,
+    "text": "Fig. 3.12",
+    "bbox": [
+      226.34719848632812,
+      220.6378173828125,
+      261.3302001953125,
+      233.57083129882812
+    ]
+  },
+  {
+    "page": 17,
+    "text": "3.6 Real Numbers: Decimals and Cyclic Patterns",
+    "bbox": [
+      57.842403411865234,
+      248.19683837890625,
+      392.43817138671875,
+      268.3148498535156
+    ]
+  },
+  {
+    "page": 17,
+    "text": "When we unite the dense web of Rational Numbers with the unfillable\ngaps of Irrational Numbers, we create the unbroken, continuous line of\nthe Real Numbers (R).\nThe easiest way to distinguish a rational number from an irrational\nnumber is to look at its decimal expansion.",
+    "bbox": [
+      57.842403411865234,
+      272.54083251953125,
+      432.6981506347656,
+      341.1478576660156
+    ]
+  },
+  {
+    "page": 17,
+    "text": "3.6.1 Rational Decimals: Terminating and Repeating",
+    "bbox": [
+      57.842403411865234,
+      355.0888366699219,
+      374.1647644042969,
+      371.2168273925781
+    ]
+  },
+  {
+    "page": 17,
+    "text": "If you divide the numerator of a rational number by its denominator,\nexactly one of two things will happen:\n\t 1.\t It terminates: The division eventually leaves a remainder of 0.\nThe decimal stops.",
+    "bbox": [
+      57.842403411865234,
+      375.54083251953125,
+      432.74432373046875,
+      433.9508361816406
+    ]
+  },
+  {
+    "page": 17,
+    "text": "Example 2: 3\n8 = 0.375. (Can you tell for which rational numbers the",
+    "bbox": [
+      57.842403411865234,
+      433.6517028808594,
+      432.6889953613281,
+      460.021728515625
+    ]
+  },
+  {
+    "page": 17,
+    "text": "decimal will be terminating?)\n\t 2.\t It repeats: The division never reaches a remainder of 0, but the\nsequence of digits begins to loop infinitely.",
+    "bbox": [
+      57.83120346069336,
+      455.13580322265625,
+      432.6891784667969,
+      498.34381103515625
+    ]
+  },
+  {
+    "page": 17,
+    "text": "Example 3:  5\n11 = 0.454545 … = 0.45.",
+    "bbox": [
+      57.83120346069336,
+      498.0517272949219,
+      260.857666015625,
+      524.4217529296875
+    ]
+  },
+  {
+    "page": 17,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      532.9573364257812,
+      192.1424102783203,
+      551.7733154296875
+    ]
+  },
+  {
+    "page": 17,
+    "text": "Try to find the decimal expansions of 10\n3  and 11",
+    "bbox": [
+      65.8424072265625,
+      560.0911254882812,
+      417.5578308105469,
+      583.4121704101562
+    ]
+  },
+  {
+    "page": 17,
+    "text": "12. What do you observe",
+    "bbox": [
+      65.8424072265625,
+      560.0911254882812,
+      417.5578308105469,
+      583.4121704101562
+    ]
+  },
+  {
+    "page": 17,
+    "text": "about the repetition of the digits after the decimal point?",
+    "bbox": [
+      65.83880615234375,
+      582.0431518554688,
+      335.43896484375,
+      596.4131469726562
+    ]
+  },
+  {
+    "page": 18,
+    "text": "58\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Why\ndo\nsome\nrational\nnumbers\nhave\nrepeating\ndecimal",
+    "bbox": [
+      75.8424072265625,
+      73.07093811035156,
+      432.7022399902344,
+      88.87793731689453
+    ]
+  },
+  {
+    "page": 18,
+    "text": "representations? Imagine calculating 1\n7 using long division. You are",
+    "bbox": [
+      57.84640121459961,
+      87.58171081542969,
+      432.6961669921875,
+      113.95170593261719
+    ]
+  },
+  {
+    "page": 18,
+    "text": "dividing by 7. What are the possible remainders at each step? They\ncan only be 1, 2, 3, 4, 5, or 6 (why not 0?). Because there is a limited\nnumber of possible remainders eventually, a remainder must show\nup a second time. Once a remainder repeats, the entire division process\nloops, creating a repeating decimal!",
+    "bbox": [
+      57.83369827270508,
+      109.06593322753906,
+      432.6949462890625,
+      177.67298889160156
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Predicting the Type of Decimal Expansion",
+    "bbox": [
+      57.842403411865234,
+      191.61883544921875,
+      314.60150146484375,
+      207.74684143066406
+    ]
+  },
+  {
+    "page": 18,
+    "text": "The interesting thing is that we can predict whether the decimal\nexpansion of a rational number will terminate or go on forever\nwithout actually doing the long division process!\nFor this, we resort to finding the prime factors of the denominator.",
+    "bbox": [
+      57.842403411865234,
+      212.07093811035156,
+      432.73321533203125,
+      267.47796630859375
+    ]
+  },
+  {
+    "page": 18,
+    "text": "p\nq , q ≠ 0, be a rational number in its lowest terms (that is, p and",
+    "bbox": [
+      96.37440490722656,
+      265.60870361328125,
+      432.6829528808594,
+      292.3677062988281
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Let",
+    "bbox": [
+      75.83842468261719,
+      272.7249755859375,
+      95.30842590332031,
+      288.531982421875
+    ]
+  },
+  {
+    "page": 18,
+    "text": "q have no common factor other than 1).",
+    "bbox": [
+      57.830509185791016,
+      289.7236328125,
+      265.0594787597656,
+      305.5306091308594
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Consider the fraction  3",
+    "bbox": [
+      75.82650756835938,
+      307.66650390625,
+      404.14654541015625,
+      334.0365295410156
+    ]
+  },
+  {
+    "page": 18,
+    "text": "20. The prime factorisation of 20 is 22 × 5.",
+    "bbox": [
+      75.82650756835938,
+      307.66650390625,
+      404.14654541015625,
+      334.0365295410156
+    ]
+  },
+  {
+    "page": 18,
+    "text": "=\n×",
+    "bbox": [
+      171.48309326171875,
+      342.30303955078125,
+      203.8658905029297,
+      363.2780456542969
+    ]
+  },
+  {
+    "page": 18,
+    "text": "3\n5",
+    "bbox": [
+      189.41339111328125,
+      342.504150390625,
+      212.348388671875,
+      353.504150390625
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Hence, 3\n20\n3",
+    "bbox": [
+      75.84060668945312,
+      343.03216552734375,
+      158.1953887939453,
+      369.6301574707031
+    ]
+  },
+  {
+    "page": 18,
+    "text": "15\n100\n0 15\n2\n2\n=",
+    "bbox": [
+      133.01438903808594,
+      343.03216552734375,
+      285.5313720703125,
+      369.6301574707031
+    ]
+  },
+  {
+    "page": 18,
+    "text": "× ×\n=\n= .\n.",
+    "bbox": [
+      193.17388916015625,
+      348.32904052734375,
+      290.1968994140625,
+      372.9600524902344
+    ]
+  },
+  {
+    "page": 18,
+    "text": "×",
+    "bbox": [
+      154.70188903808594,
+      359.4906311035156,
+      160.7408905029297,
+      372.96563720703125
+    ]
+  },
+  {
+    "page": 18,
+    "text": "2\n5",
+    "bbox": [
+      142.54238891601562,
+      359.6861572265625,
+      168.09539794921875,
+      370.6861572265625
+    ]
+  },
+  {
+    "page": 18,
+    "text": "2\n5 5",
+    "bbox": [
+      181.00938415527344,
+      359.6861572265625,
+      220.90638732910156,
+      370.6861572265625
+    ]
+  },
+  {
+    "page": 18,
+    "text": "We multiply the numerator and denominator by 5 to get 100 and\narrive at 0.15 which is a terminating decimal.",
+    "bbox": [
+      57.84390640258789,
+      381.52703857421875,
+      432.6973876953125,
+      410.5340270996094
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      421.1466369628906,
+      192.1424102783203,
+      439.962646484375
+    ]
+  },
+  {
+    "page": 18,
+    "text": "p\nq will be terminating precisely when the prime",
+    "bbox": [
+      191.53749084472656,
+      448.2816162109375,
+      417.5352783203125,
+      473.2116394042969
+    ]
+  },
+  {
+    "page": 18,
+    "text": "The decimal expansion of",
+    "bbox": [
+      65.8424072265625,
+      455.53851318359375,
+      190.09242248535156,
+      469.9085388183594
+    ]
+  },
+  {
+    "page": 18,
+    "text": "factors of q are only 2, only 5 or both 2 and 5. Can you explain why?",
+    "bbox": [
+      65.84510803222656,
+      472.53851318359375,
+      387.52130126953125,
+      486.9085388183594
+    ]
+  },
+  {
+    "page": 18,
+    "text": "This is because in such cases, we can make the denominator a\npower of 10 by multiplying both numerator and denominator by a\nsuitable number.",
+    "bbox": [
+      57.835391998291016,
+      497.52520751953125,
+      432.700927734375,
+      539.7322387695312
+    ]
+  },
+  {
+    "page": 18,
+    "text": "p\nq",
+    "bbox": [
+      324.0089111328125,
+      537.7615966796875,
+      332.83892822265625,
+      563.131591796875
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Converting Rational Decimals into the Form",
+    "bbox": [
+      75.83139038085938,
+      544.7921752929688,
+      323.41937255859375,
+      559.576171875
+    ]
+  },
+  {
+    "page": 18,
+    "text": "Case 1: Terminating decimals\nWe have already seen in earlier grades how to convert terminating",
+    "bbox": [
+      75.8424072265625,
+      567.9959106445312,
+      432.6998291015625,
+      597.18994140625
+    ]
+  },
+  {
+    "page": 18,
+    "text": "p\nq .",
+    "bbox": [
+      180.18350219726562,
+      595.3208618164062,
+      193.6584930419922,
+      622.079833984375
+    ]
+  },
+  {
+    "page": 18,
+    "text": "decimals into the form",
+    "bbox": [
+      57.84640121459961,
+      602.4369506835938,
+      179.3743896484375,
+      618.2439575195312
+    ]
+  },
+  {
+    "page": 19,
+    "text": "59\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 19,
+    "text": "p\nq .",
+    "bbox": [
+      281.3948974609375,
+      73.04991149902344,
+      294.8699035644531,
+      99.80890655517578
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Example 4: Convert 0.35 into the form",
+    "bbox": [
+      75.8424072265625,
+      79.98281860351562,
+      280.5853576660156,
+      95.97681427001953
+    ]
+  },
+  {
+    "page": 19,
+    "text": "We know that 0.35 =  35\n100 =  7\n20.",
+    "bbox": [
+      75.837890625,
+      98.10765075683594,
+      233.7686004638672,
+      124.47764587402344
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Now, let us understand how to convert non-terminating repeating",
+    "bbox": [
+      75.84159851074219,
+      123.79383850097656,
+      432.7001647949219,
+      139.60084533691406
+    ]
+  },
+  {
+    "page": 19,
+    "text": "p\nq .",
+    "bbox": [
+      180.1833953857422,
+      137.73460388183594,
+      193.6584014892578,
+      164.4936065673828
+    ]
+  },
+  {
+    "page": 19,
+    "text": "decimals into the form",
+    "bbox": [
+      57.84560012817383,
+      144.8478546142578,
+      179.37359619140625,
+      160.6548614501953
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Case 2: Pure repeating decimals\nA pure repeating decimal is one in which a digit or a sequence of\ndigits begins repeating immediately after the decimal point.",
+    "bbox": [
+      57.84139633178711,
+      168.86752319335938,
+      432.69580078125,
+      211.2615509033203
+    ]
+  },
+  {
+    "page": 19,
+    "text": "p\nq .",
+    "bbox": [
+      275.2460021972656,
+      209.39244079589844,
+      287.1809997558594,
+      236.1514434814453
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Example 5: Convert 0.6 into the form",
+    "bbox": [
+      75.83740234375,
+      216.32156372070312,
+      274.4313659667969,
+      232.31556701660156
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Step 1: Let x = 0.6",
+    "bbox": [
+      75.8380126953125,
+      234.53030395507812,
+      170.58099365234375,
+      250.52430725097656
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Step 2: Since one-digit repeats, multiply both sides by 101 = 10, we get",
+    "bbox": [
+      75.8380126953125,
+      252.73529052734375,
+      429.84735107421875,
+      268.7292785644531
+    ]
+  },
+  {
+    "page": 19,
+    "text": "10x = 6.6",
+    "bbox": [
+      75.84530639648438,
+      272.31634521484375,
+      121.06631469726562,
+      288.1233215332031
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Step 3: Subtract the first equation from the second:",
+    "bbox": [
+      75.84530639648438,
+      290.3343200683594,
+      343.5522155761719,
+      306.32830810546875
+    ]
+  },
+  {
+    "page": 19,
+    "text": "10x – x = 6.6 – 0.6 = 6.",
+    "bbox": [
+      75.84530639648438,
+      308.726318359375,
+      185.3283233642578,
+      324.5332946777344
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Step 4: Solve for x: 9x = 6. Thus, x\u001f \u001f\n\u001f\n=\n=\n6\n9\n2\n3",
+    "bbox": [
+      75.84530639648438,
+      332.60919189453125,
+      285.7930908203125,
+      359.2071838378906
+    ]
+  },
+  {
+    "page": 19,
+    "text": ".",
+    "bbox": [
+      285.84808349609375,
+      337.91131591796875,
+      288.59808349609375,
+      353.71832275390625
+    ]
+  },
+  {
+    "page": 19,
+    "text": "p\nq . Let x = 0.45.",
+    "bbox": [
+      281.3948974609375,
+      370.8502197265625,
+      357.4818115234375,
+      397.6092224121094
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Example 6: Convert 0.45 into the form",
+    "bbox": [
+      75.83609008789062,
+      377.7863464355469,
+      280.5790710449219,
+      393.78033447265625
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Since two digits repeat, multiply by 102 = 100. We get 100x = 45.45.\nSubtracting the two equations, we get 99x = 45.",
+    "bbox": [
+      57.840091705322266,
+      401.16912841796875,
+      432.68798828125,
+      430.1771240234375
+    ]
+  },
+  {
+    "page": 19,
+    "text": "So, x = 45\n99 =  5\n11.",
+    "bbox": [
+      75.83609008789062,
+      437.30792236328125,
+      155.860595703125,
+      463.6779479980469
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Case 3: General repeating decimals",
+    "bbox": [
+      75.84660339355469,
+      478.4716491699219,
+      270.2947692871094,
+      493.2556457519531
+    ]
+  },
+  {
+    "page": 19,
+    "text": "A general repeating decimal has some non-repeating digits just\nafter the decimal point, followed by a repeating block.",
+    "bbox": [
+      57.83957290649414,
+      495.86260986328125,
+      432.7030334472656,
+      524.86962890625
+    ]
+  },
+  {
+    "page": 19,
+    "text": "p\nq .",
+    "bbox": [
+      281.3948974609375,
+      524.99658203125,
+      293.32989501953125,
+      551.7555541992188
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Example 7: Convert 0.16 into the form",
+    "bbox": [
+      75.8355712890625,
+      531.9315795898438,
+      280.5785217285156,
+      547.9255981445312
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Step 1: Let x = 0.16.",
+    "bbox": [
+      75.83790588378906,
+      551.1243896484375,
+      176.61988830566406,
+      567.118408203125
+    ]
+  },
+  {
+    "page": 19,
+    "text": "Step 2: First, shift the decimal to place the repeating part\nimmediately after the decimal point.",
+    "bbox": [
+      57.830875396728516,
+      570.3193969726562,
+      432.66790771484375,
+      599.513427734375
+    ]
+  },
+  {
+    "page": 20,
+    "text": "60\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Since one digit is non-repeating, we multiply by 101 = 10 and obtain\n10x = 1.6",
+    "bbox": [
+      57.84469985961914,
+      73.06935119628906,
+      432.68060302734375,
+      102.07636260986328
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 3: Now, to move one full repeating cycle (1 digit repeating), we\nmultiply by 101 = 10 again and get 100x = 16.6.\nStep 4: Subtracting the first shifted equation from the second, we get,",
+    "bbox": [
+      57.84469985961914,
+      105.27737426757812,
+      432.7060546875,
+      152.67933654785156
+    ]
+  },
+  {
+    "page": 20,
+    "text": "100x – 10x = 16.6 – 1.6, or 90x = 15. Thus, x =\n=\n15\n90\n1\n6",
+    "bbox": [
+      75.84730529785156,
+      153.76620483398438,
+      341.2474670410156,
+      180.36422729492188
+    ]
+  },
+  {
+    "page": 20,
+    "text": ".",
+    "bbox": [
+      344.50347900390625,
+      158.06739807128906,
+      347.25347900390625,
+      173.87440490722656
+    ]
+  },
+  {
+    "page": 20,
+    "text": "p\nq .",
+    "bbox": [
+      287.54620361328125,
+      181.0072479248047,
+      302.3411865234375,
+      207.76625061035156
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Example 8: Convert 2.357 into the form",
+    "bbox": [
+      75.8284912109375,
+      187.94338989257812,
+      286.7204895019531,
+      203.93739318847656
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 1: Let x = 2.357.",
+    "bbox": [
+      75.8402099609375,
+      207.1351318359375,
+      182.7711944580078,
+      223.12913513183594
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 2: Here, ‘35’ is non-repeating (2 digits), ‘7’ repeats (1 digit).\nFirstly, we multiply by 102 = 100 to move the non-repeating digits before\nthe decimal and we obtain 100x = 235.7.",
+    "bbox": [
+      57.84160232543945,
+      224.33914184570312,
+      432.70062255859375,
+      269.13311767578125
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 3: Now, we multiply by 101 = 10 to move the full repeating cycle\nand get 1000x = 2357.7.",
+    "bbox": [
+      57.847293853759766,
+      270.3431396484375,
+      432.6612548828125,
+      301.5361022949219
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 4: Subtracting, we obtain 1000x – 100x = 2357.7 – 235.7.",
+    "bbox": [
+      75.84329223632812,
+      302.7461242675781,
+      389.3319396972656,
+      318.7401123046875
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Hence, 900x = 2122 and x =\n=\n2122\n900\n1061\n450",
+    "bbox": [
+      75.84329223632812,
+      318.823974609375,
+      284.2266540527344,
+      345.4219665527344
+    ]
+  },
+  {
+    "page": 20,
+    "text": ".",
+    "bbox": [
+      287.11968994140625,
+      323.1470947265625,
+      289.86968994140625,
+      338.9541015625
+    ]
+  },
+  {
+    "page": 20,
+    "text": "p\nq .",
+    "bbox": [
+      293.69281005859375,
+      347.08062744140625,
+      308.48779296875,
+      373.8396301269531
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Example 9: Convert 2.4537 into the form",
+    "bbox": [
+      75.83169555664062,
+      354.01312255859375,
+      292.8726501464844,
+      370.0071105957031
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 1: Let x = 2.4537.",
+    "bbox": [
+      75.83781433105469,
+      374.2126159667969,
+      188.9178009033203,
+      390.20660400390625
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 2: Here, ‘45’ is non-repeating (2 digits), ‘37’ repeats (2 digits).\nFirstly, we multiply by 102 = 100 to move the non-repeating digits before\nthe decimal and we obtain 100x = 245.37.",
+    "bbox": [
+      57.84181594848633,
+      393.4076232910156,
+      432.6978759765625,
+      435.8076171875
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 3: Now, we multiply by 102 = 100 to move the full repeating\ncycle and get 10000x = 24537.37.",
+    "bbox": [
+      57.840885162353516,
+      439.0086364746094,
+      432.7096252441406,
+      470.2095947265625
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Step 4: Subtracting, we obtain 10000x – 100x = 24537.37 – 245.37.",
+    "bbox": [
+      75.83688354492188,
+      473.4106140136719,
+      413.9214782714844,
+      489.40460205078125
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Hence, 9900x = 24292 and x =\n=\n24292\n9900\n6073\n2475",
+    "bbox": [
+      75.83688354492188,
+      491.4974670410156,
+      303.0585632324219,
+      518.0955200195312
+    ]
+  },
+  {
+    "page": 20,
+    "text": ".",
+    "bbox": [
+      305.423583984375,
+      495.8426513671875,
+      308.173583984375,
+      511.6496276855469
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Summary Table for Conversion",
+    "bbox": [
+      164.7946014404297,
+      524.7225341796875,
+      322.9006652832031,
+      538.1625366210938
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Decimal type\nSteps to follow",
+    "bbox": [
+      62.092403411865234,
+      549.660888671875,
+      323.2223815917969,
+      563.1008911132812
+    ]
+  },
+  {
+    "page": 20,
+    "text": "•\t Let x = the decimal number.\n•\t Multiply by 10n where n = the number of repeating digits,\n•\t Subtract from the original equation, and solve for x.",
+    "bbox": [
+      146.58709716796875,
+      570.3508911132812,
+      428.16717529296875,
+      614.890869140625
+    ]
+  },
+  {
+    "page": 20,
+    "text": "Pure\nrepeating",
+    "bbox": [
+      62.092411041259766,
+      578.8508911132812,
+      111.02240753173828,
+      605.2908935546875
+    ]
+  },
+  {
+    "page": 21,
+    "text": "61\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 21,
+    "text": "•\t Let x = the decimal number.\n•\t Multiply by 10m where m = the number of non-repeating\ndigits, then multiply by 10n where n = the number of\nrepeating digits.\n•\t Subtract from the previous equation, and solve for x.",
+    "bbox": [
+      146.58790588378906,
+      77.12911224365234,
+      428.1893615722656,
+      145.6698455810547
+    ]
+  },
+  {
+    "page": 21,
+    "text": "General\nrepeating",
+    "bbox": [
+      62.092403411865234,
+      97.62911224365234,
+      111.02239227294922,
+      124.0691146850586
+    ]
+  },
+  {
+    "page": 21,
+    "text": "3.6.2  The Magic of Cyclic Numbers",
+    "bbox": [
+      57.842403411865234,
+      167.24984741210938,
+      270.4139404296875,
+      183.3778533935547
+    ]
+  },
+  {
+    "page": 21,
+    "text": "When we calculate the decimal for 1\n7 we get 0.142857142857 … or",
+    "bbox": [
+      57.842403411865234,
+      188.4397430419922,
+      432.69976806640625,
+      214.8097381591797
+    ]
+  },
+  {
+    "page": 21,
+    "text": "0.142857. The repeating block, 142857, is one of mathematics’ most\nfascinating gem —  a cyclic number. Watch what happens when we\nmultiply it by the digits 1 through 6:",
+    "bbox": [
+      57.834354400634766,
+      210.92494201660156,
+      432.6944274902344,
+      253.13197326660156
+    ]
+  },
+  {
+    "page": 21,
+    "text": "142857 × 1 = 142857",
+    "bbox": [
+      200.99935913085938,
+      255.5299530029297,
+      304.6741943359375,
+      271.3369445800781
+    ]
+  },
+  {
+    "page": 21,
+    "text": "142857 × 2 = 285714",
+    "bbox": [
+      200.99935913085938,
+      273.73492431640625,
+      304.6741943359375,
+      289.54193115234375
+    ]
+  },
+  {
+    "page": 21,
+    "text": "142857 × 3 = 428571",
+    "bbox": [
+      200.99935913085938,
+      291.93994140625,
+      304.6741943359375,
+      307.7469177246094
+    ]
+  },
+  {
+    "page": 21,
+    "text": "142857 × 4 = 571428",
+    "bbox": [
+      200.99935913085938,
+      310.1448974609375,
+      304.6741943359375,
+      325.951904296875
+    ]
+  },
+  {
+    "page": 21,
+    "text": "142857 × 5 = 714285",
+    "bbox": [
+      200.99935913085938,
+      328.34991455078125,
+      304.6741943359375,
+      344.1568908691406
+    ]
+  },
+  {
+    "page": 21,
+    "text": "142857 × 6 = 857142",
+    "bbox": [
+      200.99935913085938,
+      346.55487060546875,
+      304.6741943359375,
+      362.36187744140625
+    ]
+  },
+  {
+    "page": 21,
+    "text": "The same digits simply shift in a cyclic circle! This beautiful internal",
+    "bbox": [
+      75.84135437011719,
+      367.75189208984375,
+      432.69775390625,
+      383.5588684082031
+    ]
+  },
+  {
+    "page": 21,
+    "text": "structure is a hallmark of the rational number 1\n7 .",
+    "bbox": [
+      57.84535598754883,
+      381.6667175292969,
+      313.9324951171875,
+      408.42572021484375
+    ]
+  },
+  {
+    "page": 21,
+    "text": "3.6.3 Irrational Decimals: Chaos and Infinity",
+    "bbox": [
+      57.842403411865234,
+      419.9038391113281,
+      328.6067199707031,
+      436.0318298339844
+    ]
+  },
+  {
+    "page": 21,
+    "text": "Irrational numbers, however, possess decimal expansions that never\nend and never repeat. There is no cyclic block, no pattern that loops\nforever. Examples include:",
+    "bbox": [
+      57.842403411865234,
+      440.35589599609375,
+      432.70013427734375,
+      482.56292724609375
+    ]
+  },
+  {
+    "page": 21,
+    "text": "2 = 1.4142135623730950488 …",
+    "bbox": [
+      168.8874053955078,
+      488.8218994140625,
+      336.78948974609375,
+      504.762939453125
+    ]
+  },
+  {
+    "page": 21,
+    "text": "π = 3.1415926535897932384 …",
+    "bbox": [
+      179.83070373535156,
+      508.01959228515625,
+      336.8554992675781,
+      523.8265991210938
+    ]
+  },
+  {
+    "page": 21,
+    "text": "Exercise Set 3.5",
+    "bbox": [
+      185.28309631347656,
+      543.151611328125,
+      301.3988952636719,
+      567.6124267578125
+    ]
+  },
+  {
+    "page": 21,
+    "text": "1.\t Without performing long division, determine which of the\nfollowing rational numbers will have terminating decimals and",
+    "bbox": [
+      57.842403411865234,
+      578.0245971679688,
+      432.7024230957031,
+      607.8345947265625
+    ]
+  },
+  {
+    "page": 21,
+    "text": "which will be repeating:  7\n20 ,  4\n15  and  13\n250 . Then check your answers",
+    "bbox": [
+      84.83641052246094,
+      605.9624633789062,
+      432.6993408203125,
+      633.464111328125
+    ]
+  },
+  {
+    "page": 22,
+    "text": "62\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 22,
+    "text": "by explicitly performing the long divisions and expressing these\nrational numbers as decimals.",
+    "bbox": [
+      84.8424072265625,
+      73.07093811035156,
+      432.6733093261719,
+      102.07794952392578
+    ]
+  },
+  {
+    "page": 22,
+    "text": "2.\t Perform the long division for  1",
+    "bbox": [
+      57.837398529052734,
+      103.20860290527344,
+      432.7005920410156,
+      129.57859802246094
+    ]
+  },
+  {
+    "page": 22,
+    "text": "13. Identify the repeating block",
+    "bbox": [
+      57.837398529052734,
+      103.20860290527344,
+      432.7005920410156,
+      129.57859802246094
+    ]
+  },
+  {
+    "page": 22,
+    "text": "of digits. Does it show cyclic properties if you evaluate  2\n13? Now",
+    "bbox": [
+      84.84429931640625,
+      121.63560485839844,
+      432.6973571777344,
+      148.00559997558594
+    ]
+  },
+  {
+    "page": 22,
+    "text": "compute  3\n13,  4\n13, etc. What do you notice?",
+    "bbox": [
+      84.84658813476562,
+      140.06260681152344,
+      298.9306640625,
+      166.43260192871094
+    ]
+  },
+  {
+    "page": 22,
+    "text": "3.\t Classify the following numbers as rational or irrational:",
+    "bbox": [
+      57.84370040893555,
+      168.7519073486328,
+      376.2276916503906,
+      184.55897521972656
+    ]
+  },
+  {
+    "page": 22,
+    "text": "(i)\n81",
+    "bbox": [
+      57.832698822021484,
+      187.74891662597656,
+      135.1531982421875,
+      203.55592346191406
+    ]
+  },
+  {
+    "page": 22,
+    "text": "(ii)\n12",
+    "bbox": [
+      57.8452033996582,
+      212.24684143066406,
+      134.80938720703125,
+      228.05384826660156
+    ]
+  },
+  {
+    "page": 22,
+    "text": "(iii)\n0.33333 …",
+    "bbox": [
+      57.8423957824707,
+      230.7538299560547,
+      168.64541625976562,
+      246.5608367919922
+    ]
+  },
+  {
+    "page": 22,
+    "text": "(iv)\n0.123451234512345 …",
+    "bbox": [
+      57.842403411865234,
+      249.2558135986328,
+      227.2754364013672,
+      265.06280517578125
+    ]
+  },
+  {
+    "page": 22,
+    "text": "(v)\n1.01001000100001 … (Notice the pattern: Is it repeating a single\nblock?)",
+    "bbox": [
+      57.842403411865234,
+      267.7578125,
+      432.6982727050781,
+      297.56781005859375
+    ]
+  },
+  {
+    "page": 22,
+    "text": "(vi)\n23.560185612239874790120",
+    "bbox": [
+      57.842403411865234,
+      300.2628173828125,
+      255.4904327392578,
+      316.06982421875
+    ]
+  },
+  {
+    "page": 22,
+    "text": "Find the explicit fractions in case they are rational.",
+    "bbox": [
+      57.842403411865234,
+      318.96282958984375,
+      351.1023864746094,
+      334.7698059082031
+    ]
+  },
+  {
+    "page": 22,
+    "text": "4.\t The number 0.9 (which means 0.99999 … ) is a rational number.\nUsing algebra (let x = 0.9, multiply by 10, and subtract), explain\nwhy 0.9 is exactly equal to 1.",
+    "bbox": [
+      57.842403411865234,
+      338.9608154296875,
+      432.689208984375,
+      382.7738037109375
+    ]
+  },
+  {
+    "page": 22,
+    "text": "*5.\t We have seen that the repeating block of 1\n7 is a cyclic number.",
+    "bbox": [
+      57.83140182495117,
+      386.88970947265625,
+      432.683349609375,
+      413.2597351074219
+    ]
+  },
+  {
+    "page": 22,
+    "text": "1\nn ) produce\ndecimals with repeating blocks that are cyclic.",
+    "bbox": [
+      84.8411865234375,
+      406.9337158203125,
+      432.6941833496094,
+      445.2716979980469
+    ]
+  },
+  {
+    "page": 22,
+    "text": "Try to find more numbers (n) whose reciprocals (",
+    "bbox": [
+      84.84146118164062,
+      406.9337158203125,
+      367.47088623046875,
+      438.5477294921875
+    ]
+  },
+  {
+    "page": 22,
+    "text": "Non-uniqueness of decimal representations. Just as 1 = 10\n10 = 100\n100,",
+    "bbox": [
+      75.84318542480469,
+      449.3995056152344,
+      432.69757080078125,
+      475.76953125
+    ]
+  },
+  {
+    "page": 22,
+    "text": "rational numbers can have two decimal forms. Any terminating decimal\nhas an alternative with repeating 9s: 1.000 … = 0.999 …, 2.47000 …\n= 2.46999 ….",
+    "bbox": [
+      57.83957290649414,
+      472.8857421875,
+      432.7008056640625,
+      515.0927124023438
+    ]
+  },
+  {
+    "page": 22,
+    "text": "Is it not surprising that 0.999 … = 1? Many would have guessed that\nit is slightly less than 1.",
+    "bbox": [
+      57.83957290649414,
+      516.4896850585938,
+      432.6908874511719,
+      545.4967041015625
+    ]
+  },
+  {
+    "page": 22,
+    "text": "3.7 Conclusion: The Never-Ending Journey",
+    "bbox": [
+      57.8422966003418,
+      559.3447265625,
+      352.46807861328125,
+      579.4627075195312
+    ]
+  },
+  {
+    "page": 22,
+    "text": "We have travelled an immense distance. From the simple notches\ncarved into the Ishango bone to track the passing days, to the",
+    "bbox": [
+      57.8422966003418,
+      583.688720703125,
+      432.7002258300781,
+      612.6957397460938
+    ]
+  },
+  {
+    "page": 23,
+    "text": "63\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 23,
+    "text": "profound philosophical void of Śhūnya in ancient India. We crossed\nthe threshold of zero into the realm of debts and negative numbers\nwith Brahmagupta. We found that the space between numbers is\ninfinitely dense with fractions, yet fundamentally interspersed with\nthe infinite-nonrepeating-decimal irrational numbers like\n2  and π.\nBy uniting the rational and the irrational, we built the continuous,\nunbroken Real Number Line. Every length, every temperature, every real\nphysical measurement in the known universe has a home on this line.",
+    "bbox": [
+      57.842403411865234,
+      73.07093811035156,
+      432.7471008300781,
+      184.1466827392578
+    ]
+  },
+  {
+    "page": 23,
+    "text": "The Evolution of Our World of Numbers",
+    "bbox": [
+      66.8424072265625,
+      198.75613403320312,
+      349.77960205078125,
+      217.5721435546875
+    ]
+  },
+  {
+    "page": 23,
+    "text": "Our world of numbers has grown in stages over thousands of years, to\nmeet the needs of humanity:",
+    "bbox": [
+      65.8424072265625,
+      225.9107208251953,
+      417.5575866699219,
+      253.2807159423828
+    ]
+  },
+  {
+    "page": 23,
+    "text": "•\t \u0007Natural Numbers (N): The basic counting numbers {1, 2, 3, …}. These\nare contained in the collection of integers.\n•\t \u0007Integers (Z): These include also zero and the negative numbers\n{…, −2, −1, 0, 1, 2, …}. These in turn are contained in the collection of\nrational numbers.\n•\t \u0007Rational Numbers (Q): These include all fractions\np\nq , where p, q\nare integers and q ≠ 0. They also correspond to those numbers with\nterminating decimals like 0.135 and repeating decimals like 0.142857.\n•\t \u0007Irrational Numbers (I): These are separate from the above. They are\nnumbers that cannot be written as fractions (e.g.,\n2 , π,\n10 ) and do\nnot have terminating or repeating decimals.\n•\t \u0007Real Numbers (R): Together, the rational and irrational numbers\nmake up the entire real number line.",
+    "bbox": [
+      79.83889770507812,
+      251.5607147216797,
+      422.0623779296875,
+      423.40655517578125
+    ]
+  },
+  {
+    "page": 23,
+    "text": "Fig. 3.13",
+    "bbox": [
+      226.34869384765625,
+      615.0701904296875,
+      261.3316955566406,
+      628.003173828125
+    ]
+  },
+  {
+    "page": 24,
+    "text": "64\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 24,
+    "text": "Is the journey over? Are there more numbers waiting to be discovered\nbeyond the Real Number line?",
+    "bbox": [
+      57.84640121459961,
+      73.07093811035156,
+      432.699951171875,
+      102.07794952392578
+    ]
+  },
+  {
+    "page": 24,
+    "text": "Think and Reflect",
+    "bbox": [
+      66.8424072265625,
+      116.68734741210938,
+      192.1424102783203,
+      135.50335693359375
+    ]
+  },
+  {
+    "page": 24,
+    "text": "Consider this puzzle: What is the square root of –1? We know that 1 × 1 = 1.\nWe also know that (–1) × (–1) = 1. There is no Real Number that, when\nmultiplied by itself, results in a negative number. Thus,\n−1  cannot exist on\nnumber line.",
+    "bbox": [
+      65.8424072265625,
+      143.8433074951172,
+      429.472412109375,
+      196.5133514404297
+    ]
+  },
+  {
+    "page": 24,
+    "text": "To solve this, mathematicians stepped completely off the line and\ninvented a new dimension of numbers, denoted by the letter i, standing\nfor Imaginary Numbers. While they sound like fiction, they are\nessential for modern electrical engineering, quantum mechanics, and\nthe technology that powers your mobile phone. But that is a journey for\nanother year. For now, master the Real Numbers. The universe is largely\nwritten in their language.",
+    "bbox": [
+      57.84640121459961,
+      214.13002014160156,
+      432.7152099609375,
+      309.1370849609375
+    ]
+  },
+  {
+    "page": 24,
+    "text": "End-of-Chapter Exercises",
+    "bbox": [
+      151.10260009765625,
+      329.95703125,
+      335.5862731933594,
+      354.4178161621094
+    ]
+  },
+  {
+    "page": 24,
+    "text": "1.\t Convert the following rational numbers in the form of a\nterminating decimal or non-terminating and repeating decimal,\nwhichever the case may be, by the process of long division:",
+    "bbox": [
+      57.842403411865234,
+      364.530029296875,
+      432.7003479003906,
+      406.7370300292969
+    ]
+  },
+  {
+    "page": 24,
+    "text": "(i)\n  3\n50\n(ii)\n2\n9",
+    "bbox": [
+      57.842403411865234,
+      409.8678283691406,
+      245.00750732421875,
+      436.23785400390625
+    ]
+  },
+  {
+    "page": 24,
+    "text": "2.\t Prove that 5  is an irrational number.",
+    "bbox": [
+      57.842403411865234,
+      440.85699462890625,
+      294.023193359375,
+      456.864013671875
+    ]
+  },
+  {
+    "page": 24,
+    "text": "p\nq .",
+    "bbox": [
+      378.79620361328125,
+      460.7948303222656,
+      390.731201171875,
+      487.5538330078125
+    ]
+  },
+  {
+    "page": 24,
+    "text": "3.\t Convert the following decimal numbers in the form of",
+    "bbox": [
+      57.84440231323242,
+      467.9169921875,
+      377.98828125,
+      483.7239990234375
+    ]
+  },
+  {
+    "page": 24,
+    "text": "(i)\n12.6\n(ii) \t 0.0120\n(iii)\t 3.052",
+    "bbox": [
+      57.838199615478516,
+      490.91583251953125,
+      386.1881408691406,
+      506.72283935546875
+    ]
+  },
+  {
+    "page": 24,
+    "text": "(iv) \t 1.235\n(v)\n0.23\n(vi)\t 2.05",
+    "bbox": [
+      57.838199615478516,
+      514.4118041992188,
+      380.0281982421875,
+      530.2188110351562
+    ]
+  },
+  {
+    "page": 24,
+    "text": "(vii) \t 2.125\n(viii)\t 3.125\n(ix)\t 2.1625",
+    "bbox": [
+      57.838199615478516,
+      537.9077758789062,
+      392.3261413574219,
+      553.7147827148438
+    ]
+  },
+  {
+    "page": 24,
+    "text": "4.\t Locate the following rational numbers on the number line.",
+    "bbox": [
+      57.838199615478516,
+      561.61279296875,
+      399.5971374511719,
+      577.4197998046875
+    ]
+  },
+  {
+    "page": 24,
+    "text": "(i)\n0.532\n(ii)\t 1.15",
+    "bbox": [
+      57.838199615478516,
+      580.6098022460938,
+      260.0401916503906,
+      596.4168090820312
+    ]
+  },
+  {
+    "page": 25,
+    "text": "65\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 25,
+    "text": "5.\t Find 6 rational numbers between 3 and 4.",
+    "bbox": [
+      57.842403411865234,
+      73.06935119628906,
+      310.66632080078125,
+      88.87635040283203
+    ]
+  },
+  {
+    "page": 25,
+    "text": "6.\t Find 5 rational numbers between 2\n5 and 3\n5.",
+    "bbox": [
+      57.842403411865234,
+      93.00724792480469,
+      312.2878112792969,
+      119.37724304199219
+    ]
+  },
+  {
+    "page": 25,
+    "text": "7.\t Find 5 rational numbers between1\n6 and 2\n5.",
+    "bbox": [
+      57.846797943115234,
+      126.43424987792969,
+      309.42779541015625,
+      152.8042449951172
+    ]
+  },
+  {
+    "page": 25,
+    "text": "8.\t If x\nx\n3\n5\n16\n15\n+\n=\n, find the rational number x.",
+    "bbox": [
+      57.846797943115234,
+      151.1546173095703,
+      307.3756408691406,
+      178.42349243164062
+    ]
+  },
+  {
+    "page": 25,
+    "text": "9.\t Let a and b be two non-zero rational numbers such that a\nb\n+\n=\n1\n0 .",
+    "bbox": [
+      57.840702056884766,
+      181.02548217773438,
+      432.7013854980469,
+      207.6181640625
+    ]
+  },
+  {
+    "page": 25,
+    "text": "Without assigning any numerical values, determine whether ab\nis positive or negative. Justify your answer.",
+    "bbox": [
+      91.84442138671875,
+      207.3266143798828,
+      432.701416015625,
+      236.33363342285156
+    ]
+  },
+  {
+    "page": 25,
+    "text": "10.\t A rational number has a terminating decimal expansion whose\nlast non-zero digit occurs in the 4th decimal place. Show that such",
+    "bbox": [
+      57.84340286254883,
+      240.72264099121094,
+      432.7023620605469,
+      269.7296447753906
+    ]
+  },
+  {
+    "page": 25,
+    "text": "p\n104, where p is an integer",
+    "bbox": [
+      294.29718017578125,
+      267.85980224609375,
+      432.7171936035156,
+      296.2298278808594
+    ]
+  },
+  {
+    "page": 25,
+    "text": "a number can be written in the form",
+    "bbox": [
+      91.84440612792969,
+      274.97662353515625,
+      292.2643737792969,
+      290.78363037109375
+    ]
+  },
+  {
+    "page": 25,
+    "text": "not divisible by 10. Is it necessary that the denominator of this\nrational number, when written in the lowest form, is divisible by\n24 or 54? Give reasons.",
+    "bbox": [
+      91.83821105957031,
+      291.97613525390625,
+      432.716064453125,
+      334.1881103515625
+    ]
+  },
+  {
+    "page": 25,
+    "text": "11.\t Without performing division, determine whether the decimal",
+    "bbox": [
+      57.83859634399414,
+      338.57708740234375,
+      432.69537353515625,
+      354.3841247558594
+    ]
+  },
+  {
+    "page": 25,
+    "text": "expansion of\n 18\n125 is terminating or non-terminating. If it",
+    "bbox": [
+      91.839599609375,
+      352.5189208984375,
+      432.6988525390625,
+      378.8889465332031
+    ]
+  },
+  {
+    "page": 25,
+    "text": "terminates, state the number of decimal places.",
+    "bbox": [
+      91.84420776367188,
+      375.004150390625,
+      339.7730712890625,
+      390.8111267089844
+    ]
+  },
+  {
+    "page": 25,
+    "text": "12.\t A rational number in its lowest form has denominator 23 × 5. How\nmany decimal places will its decimal expansion have? Explain\nyour answer.",
+    "bbox": [
+      57.843196868896484,
+      395.20013427734375,
+      432.6974792480469,
+      437.4151306152344
+    ]
+  },
+  {
+    "page": 25,
+    "text": "*13.\t Let a =  7\n12 and b = 5",
+    "bbox": [
+      57.836299896240234,
+      443.7289733886719,
+      384.0386047363281,
+      472.2890625
+    ]
+  },
+  {
+    "page": 25,
+    "text": "6. Express both a and b in the form k\nm",
+    "bbox": [
+      57.836299896240234,
+      443.7289733886719,
+      384.0386047363281,
+      472.2890625
+    ]
+  },
+  {
+    "page": 25,
+    "text": "1  and k\nm",
+    "bbox": [
+      379.744384765625,
+      443.7289733886719,
+      425.7217102050781,
+      471.10797119140625
+    ]
+  },
+  {
+    "page": 25,
+    "text": "2",
+    "bbox": [
+      421.52520751953125,
+      446.55810546875,
+      432.69769287109375,
+      466.6151123046875
+    ]
+  },
+  {
+    "page": 25,
+    "text": "where k1, k2 and m are integers and k2 – k1 > 6. Using the same\ndenominator m, write exactly five distinct rational numbers lying\nbetween a and b keeping an integer numerator. Explain why\nthe condition k2 – k1 > n + 1 is necessary to find n such rational\nnumbers between the two rational numbers a and b using this\nmethod.",
+    "bbox": [
+      91.84072875976562,
+      469.80511474609375,
+      432.7049865722656,
+      551.6151123046875
+    ]
+  },
+  {
+    "page": 25,
+    "text": "*14.\t Three rational numbers x, y, z satisfy x + y + z = 0 and\nxy + yz + zx = 0. Show that all the rational numbers x, y, z must be\nsimultaneously zero.",
+    "bbox": [
+      57.847103118896484,
+      556.0040893554688,
+      432.6829833984375,
+      600.213134765625
+    ]
+  },
+  {
+    "page": 26,
+    "text": "66\nGanita Manjari | Grade 9 | Part I",
+    "bbox": [
+      57.88560104370117,
+      45.713523864746094,
+      235.3521270751953,
+      59.798912048339844
+    ]
+  },
+  {
+    "page": 26,
+    "text": "*15.\t Show that the rational number a\nb\n+\n(\n)\n2",
+    "bbox": [
+      57.842403411865234,
+      70.13888549804688,
+      292.5623779296875,
+      107.74402618408203
+    ]
+  },
+  {
+    "page": 26,
+    "text": "lies between the rational\nnumbers a and b.",
+    "bbox": [
+      91.83837890625,
+      83.01203918457031,
+      432.7063903808594,
+      112.01905059814453
+    ]
+  },
+  {
+    "page": 26,
+    "text": "16.\t Find the lengths of the hypotenuses of all the right triangles in\nFig. 3.14 which is referred to as the square root spiral.",
+    "bbox": [
+      57.837398529052734,
+      115.40699768066406,
+      432.70526123046875,
+      144.41407775878906
+    ]
+  },
+  {
+    "page": 26,
+    "text": "Fig 3. 14: Square root spiral",
+    "bbox": [
+      186.12379455566406,
+      361.70892333984375,
+      301.55596923828125,
+      374.6419372558594
+    ]
+  },
+  {
+    "page": 26,
+    "text": "Chapter Summary",
+    "bbox": [
+      182.60488891601562,
+      387.2689208984375,
+      305.07550048828125,
+      407.3869323730469
+    ]
+  },
+  {
+    "page": 26,
+    "text": "In this chapter you have learnt the following concepts:",
+    "bbox": [
+      57.842403411865234,
+      411.6129150390625,
+      343.3033142089844,
+      427.419921875
+    ]
+  },
+  {
+    "page": 26,
+    "text": "•\t Natural\nNumbers\n(N)\nare\nthe\ncounting\nnumbers\n{1, 2, 3, … } that emerged at least tens of thousands of years ago\ndue to humanity’s need to count.",
+    "bbox": [
+      77.8424072265625,
+      431.34893798828125,
+      432.6993103027344,
+      475.4259338378906
+    ]
+  },
+  {
+    "page": 26,
+    "text": "•\t The Concept of Zero (Śhūnya) was formalised in India by\nphilosophers and then brought into mathematics formally by\nBrahmagupta (629 CE), who transformed the philosophical state\nof ‘nothingness’ (Śhūnyatā) into an actual number on which\none could perform arithmetic operations. Brahmagupta also\nintroduced the negative numbers, i.e., numbers less than zero.",
+    "bbox": [
+      77.8424072265625,
+      479.4259338378906,
+      432.69921875,
+      565.4349365234375
+    ]
+  },
+  {
+    "page": 26,
+    "text": "•\t Integers (Z) extend the number line to the left of 1 to include zero\nas well as the negative numbers, which Brahmagupta historically\ncategorised as ‘debts’ (ṛiṇa) in contrast with the positive number\n‘fortunes’ (dhana).",
+    "bbox": [
+      77.8424072265625,
+      569.3489379882812,
+      432.7102966308594,
+      627.4288940429688
+    ]
+  },
+  {
+    "page": 27,
+    "text": "67\nThe World of Numbers",
+    "bbox": [
+      300.0492858886719,
+      45.613548278808594,
+      429.83587646484375,
+      59.795799255371094
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Brahmagupta’s Laws provided the first rigorous framework for\narithmetic with signed numbers, establishing rules such as ‛the\nproduct of two debts is a fortune’ (– × – = +), as well as the rules\nfor zero.",
+    "bbox": [
+      77.8424072265625,
+      72.88394165039062,
+      432.7015380859375,
+      130.8869171142578
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Rational Numbers (Q) are defined as any number that can",
+    "bbox": [
+      77.8424072265625,
+      134.80694580078125,
+      432.69940185546875,
+      152.45094299316406
+    ]
+  },
+  {
+    "page": 27,
+    "text": "be expressed as a ratio  p\nq  (where p and q are integers and q ≠ 0).",
+    "bbox": [
+      91.8424072265625,
+      145.9704132080078,
+      432.71026611328125,
+      173.7783966064453
+    ]
+  },
+  {
+    "page": 27,
+    "text": "Brahmagupta also gave the formal rules for addition, subtraction,\nmultiplication, and division of rational numbers.",
+    "bbox": [
+      91.85330200195312,
+      171.0613555908203,
+      432.74310302734375,
+      200.87135314941406
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Rational numbers are dense, meaning a rational number always\nexists between any two other rational numbers.",
+    "bbox": [
+      77.8424072265625,
+      204.88394165039062,
+      432.726806640625,
+      234.8809356689453
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Irrational Numbers are values like\n2 and π that cannot be\nwritten as fractions. Their existence proves that the number\nline contains gaps that rational ratios alone cannot fill. The\nfirst proof of the irrationality of a number was that of\n2, by\nHippasus (c. 400 BCE). It was a proof by contradiction. A proof\nthat π is irrational (as it was suspected to be by Āryabhaṭa\nin 499 CE) was given by the Swiss mathematician Johann\nLambert in 1761.",
+    "bbox": [
+      77.8424072265625,
+      238.88394165039062,
+      432.7036437988281,
+      352.889892578125
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Real Numbers (R) represent the total union of all rational\nand irrational numbers, forming a perfectly continuous and\nunbroken line where every real physical measurement has a\ncorresponding point.",
+    "bbox": [
+      77.8424072265625,
+      356.80694580078125,
+      432.7212829589844,
+      414.8869323730469
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Decimal expansions serve as a mathematical signature for\nrational vs. irrational: rational numbers always result in\nterminating or repeating decimals, while irrational numbers\nproduce non-repeating decimals that continue infinitely.",
+    "bbox": [
+      77.8424072265625,
+      418.8839416503906,
+      432.7015075683594,
+      476.88690185546875
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Cyclic Numbers, such as the digits found in the repeating block",
+    "bbox": [
+      77.8424072265625,
+      480.8839416503906,
+      432.6981506347656,
+      496.8779296875
+    ]
+  },
+  {
+    "page": 27,
+    "text": "of 1\n7 (i.e., 142857), reveal the elegant and symmetrical internal",
+    "bbox": [
+      91.8424072265625,
+      495.0086975097656,
+      432.7021789550781,
+      521.3787231445312
+    ]
+  },
+  {
+    "page": 27,
+    "text": "patterns hidden within the rational numbers.",
+    "bbox": [
+      91.84739685058594,
+      519.0947875976562,
+      329.76641845703125,
+      534.9017944335938
+    ]
+  },
+  {
+    "page": 27,
+    "text": "•\t Imaginary Numbers are introduced as a final conceptual\nfrontier to handle operations like\n−1, which cannot be solved\non the real number line and require a new dimension of\nmathematics.",
+    "bbox": [
+      77.8424072265625,
+      538.9108276367188,
+      432.703125,
+      596.9108276367188
+    ]
+  }
+]

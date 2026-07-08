@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.9390019774436951,
+    "bbox": [
+        371.8565979003906,
+        2631.896484375,
+        2191.548095703125,
+        2835.558349609375
+    ],
+    "image_path": "debug/full_book/page_036/000_plain_text_0.94.png",
+    "text": "9.\nYou are\ngiven two sets of number cards numbered from 1 - 9. Place a\nnumber card in each box below to get the (a) largest possible sum\n(b)\nsmallest possible difference of two resulting\n numbers."
+}
