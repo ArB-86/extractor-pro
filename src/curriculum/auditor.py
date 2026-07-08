@@ -7,7 +7,8 @@ from src.curriculum.report import CurriculumReport
 from src.curriculum.checks import CurriculumChecks
 from src.curriculum.chapter_mapper import ChapterMapper
 from src.curriculum.book_index import BookIndex
-from src.curriculum.coverage import CurriculumCoverage  # new import
+from src.curriculum.coverage import CurriculumCoverage
+from src.curriculum.catalog import CurriculumCatalog  # new import
 
 
 class CurriculumAuditor:
@@ -23,7 +24,8 @@ class CurriculumAuditor:
         self.checks = CurriculumChecks()
         self.chapter_mapper = ChapterMapper()
         self.book_index = BookIndex()
-        self.coverage = CurriculumCoverage()  # new coverage instance
+        self.coverage = CurriculumCoverage()
+        self.catalog = CurriculumCatalog()  # new catalog instance
 
     def audit(self, root):
 
@@ -57,5 +59,8 @@ class CurriculumAuditor:
 
         # Build curriculum coverage analysis
         audit["coverage"] = self.coverage.build(manifests)
+
+        # Build curriculum catalog
+        audit["catalog"] = self.catalog.build(manifests)
 
         return audit
