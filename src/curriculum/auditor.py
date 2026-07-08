@@ -1,7 +1,9 @@
 from src.curriculum.inventory import CurriculumInventory
 from src.curriculum.manifest import ManifestBuilder
 from src.curriculum.duplicate_detector import DuplicateDetector
-from src.curriculum.mapper import CurriculumMapper  # new import
+from src.curriculum.mapper import CurriculumMapper
+from src.curriculum.statistics import CurriculumStatistics  # new import
+from src.curriculum.report import CurriculumReport  # new import
 
 
 class CurriculumAuditor:
@@ -11,7 +13,9 @@ class CurriculumAuditor:
         self.inventory = CurriculumInventory()
         self.manifest = ManifestBuilder()
         self.duplicates = DuplicateDetector()
-        self.mapper = CurriculumMapper()  # new mapper instance
+        self.mapper = CurriculumMapper()
+        self.statistics = CurriculumStatistics()  # new statistics instance
+        self.report = CurriculumReport()  # new report instance
 
     def audit(self, root):
 
@@ -26,8 +30,13 @@ class CurriculumAuditor:
 
         duplicates = self.duplicates.detect(manifests)
 
-        return {
+        stats = self.statistics.build(manifests)
+
+        audit = {
             "total_pdfs": len(pdfs),
             "duplicates": duplicates,
+            "statistics": stats,
             "manifests": manifests,
         }
+
+        return audit
