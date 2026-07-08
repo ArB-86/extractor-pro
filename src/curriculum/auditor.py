@@ -5,7 +5,8 @@ from src.curriculum.mapper import CurriculumMapper
 from src.curriculum.statistics import CurriculumStatistics
 from src.curriculum.report import CurriculumReport
 from src.curriculum.checks import CurriculumChecks
-from src.curriculum.chapter_mapper import ChapterMapper  # new import
+from src.curriculum.chapter_mapper import ChapterMapper
+from src.curriculum.book_index import BookIndex  # new import
 
 
 class CurriculumAuditor:
@@ -19,7 +20,8 @@ class CurriculumAuditor:
         self.statistics = CurriculumStatistics()
         self.report = CurriculumReport()
         self.checks = CurriculumChecks()
-        self.chapter_mapper = ChapterMapper()  # new chapter mapper instance
+        self.chapter_mapper = ChapterMapper()
+        self.book_index = BookIndex()  # new book index instance
 
     def audit(self, root):
 
@@ -47,5 +49,8 @@ class CurriculumAuditor:
 
         # Add validation errors to the audit
         audit["errors"] = self.checks.validate(manifests)
+
+        # Build book index from manifests
+        audit["book_index"] = self.book_index.build(manifests)
 
         return audit
