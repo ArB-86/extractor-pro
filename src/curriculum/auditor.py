@@ -2,8 +2,9 @@ from src.curriculum.inventory import CurriculumInventory
 from src.curriculum.manifest import ManifestBuilder
 from src.curriculum.duplicate_detector import DuplicateDetector
 from src.curriculum.mapper import CurriculumMapper
-from src.curriculum.statistics import CurriculumStatistics  # new import
-from src.curriculum.report import CurriculumReport  # new import
+from src.curriculum.statistics import CurriculumStatistics
+from src.curriculum.report import CurriculumReport
+from src.curriculum.checks import CurriculumChecks  # new import
 
 
 class CurriculumAuditor:
@@ -14,8 +15,9 @@ class CurriculumAuditor:
         self.manifest = ManifestBuilder()
         self.duplicates = DuplicateDetector()
         self.mapper = CurriculumMapper()
-        self.statistics = CurriculumStatistics()  # new statistics instance
-        self.report = CurriculumReport()  # new report instance
+        self.statistics = CurriculumStatistics()
+        self.report = CurriculumReport()
+        self.checks = CurriculumChecks()  # new checks instance
 
     def audit(self, root):
 
@@ -38,5 +40,8 @@ class CurriculumAuditor:
             "statistics": stats,
             "manifests": manifests,
         }
+
+        # Add validation errors to the audit
+        audit["errors"] = self.checks.validate(manifests)
 
         return audit
