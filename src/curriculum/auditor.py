@@ -1,6 +1,7 @@
 from src.curriculum.inventory import CurriculumInventory
 from src.curriculum.manifest import ManifestBuilder
 from src.curriculum.duplicate_detector import DuplicateDetector
+from src.curriculum.mapper import CurriculumMapper  # new import
 
 
 class CurriculumAuditor:
@@ -10,13 +11,16 @@ class CurriculumAuditor:
         self.inventory = CurriculumInventory()
         self.manifest = ManifestBuilder()
         self.duplicates = DuplicateDetector()
+        self.mapper = CurriculumMapper()  # new mapper instance
 
     def audit(self, root):
 
         pdfs = self.inventory.scan(root)
 
         manifests = [
-            self.manifest.build(pdf)
+            self.mapper.map(
+                self.manifest.build(pdf)
+            )
             for pdf in pdfs
         ]
 
