@@ -8,7 +8,8 @@ from src.curriculum.checks import CurriculumChecks
 from src.curriculum.chapter_mapper import ChapterMapper
 from src.curriculum.book_index import BookIndex
 from src.curriculum.coverage import CurriculumCoverage
-from src.curriculum.catalog import CurriculumCatalog  # new import
+from src.curriculum.catalog import CurriculumCatalog
+from src.curriculum.versioning import CurriculumVersion  # new import
 
 
 class CurriculumAuditor:
@@ -25,7 +26,8 @@ class CurriculumAuditor:
         self.chapter_mapper = ChapterMapper()
         self.book_index = BookIndex()
         self.coverage = CurriculumCoverage()
-        self.catalog = CurriculumCatalog()  # new catalog instance
+        self.catalog = CurriculumCatalog()
+        self.version = CurriculumVersion()  # new version instance
 
     def audit(self, root):
 
@@ -62,5 +64,8 @@ class CurriculumAuditor:
 
         # Build curriculum catalog
         audit["catalog"] = self.catalog.build(manifests)
+
+        # Add version information
+        audit["version"] = self.version.build()
 
         return audit
