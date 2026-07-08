@@ -3,6 +3,9 @@ from src.document.question import Question
 
 from src.question.segmenter import QuestionSegmenter
 from src.question.merger import QuestionMerger
+from src.question.hierarchy import HierarchyBuilder
+from src.question.filters import QuestionFilter
+from src.question.enricher import QuestionEnricher
 from src.question.models import QuestionType
 from src.question.patterns import (
     MCQ_PATTERN,
@@ -22,8 +25,10 @@ class QuestionExtractor:
     def __init__(self):
 
         self.segmenter = QuestionSegmenter()
-
         self.merger = QuestionMerger()
+        self.hierarchy = HierarchyBuilder()
+        self.filter = QuestionFilter()
+        self.enricher = QuestionEnricher()
 
     def _classify(self, text: str) -> QuestionType:
 
@@ -56,13 +61,12 @@ class QuestionExtractor:
 
         return QuestionType.SHORT
 
-    def extract(
-        self,
-        document: Document,
-    ) -> list[Question]:
+    def extract(self, document: Document) -> list[Question]:
+
+        for region in document.regions:
+            self.hierarchy.process(region)
 
         candidates = self.segmenter.segment(document)
-
         candidates = self.merger.merge(candidates)
 
         questions = []
@@ -79,5 +83,8 @@ class QuestionExtractor:
                     confidence=c.confidence,
                 )
             )
+
+        questions = self.filter.apply(questions)
+        questions = self.enricher.enrich(questions)
 
         return questions
