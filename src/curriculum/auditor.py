@@ -4,7 +4,8 @@ from src.curriculum.duplicate_detector import DuplicateDetector
 from src.curriculum.mapper import CurriculumMapper
 from src.curriculum.statistics import CurriculumStatistics
 from src.curriculum.report import CurriculumReport
-from src.curriculum.checks import CurriculumChecks  # new import
+from src.curriculum.checks import CurriculumChecks
+from src.curriculum.chapter_mapper import ChapterMapper  # new import
 
 
 class CurriculumAuditor:
@@ -17,15 +18,18 @@ class CurriculumAuditor:
         self.mapper = CurriculumMapper()
         self.statistics = CurriculumStatistics()
         self.report = CurriculumReport()
-        self.checks = CurriculumChecks()  # new checks instance
+        self.checks = CurriculumChecks()
+        self.chapter_mapper = ChapterMapper()  # new chapter mapper instance
 
     def audit(self, root):
 
         pdfs = self.inventory.scan(root)
 
         manifests = [
-            self.mapper.map(
-                self.manifest.build(pdf)
+            self.chapter_mapper.map(
+                self.mapper.map(
+                    self.manifest.build(pdf)
+                )
             )
             for pdf in pdfs
         ]
