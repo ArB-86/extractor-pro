@@ -3,8 +3,13 @@ from src.dataset.manifest import DatasetManifest
 from src.dataset.statistics import DatasetStatistics
 from src.storage.jsonl_store import JSONLStore
 from src.storage.parquet_store import ParquetStore
-from src.storage.sqlite_store import SQLiteStore
 from src.search.index import SearchIndex
+
+try:
+    from src.storage.sqlite_store import SQLiteStore
+    SQLITE_AVAILABLE = True
+except Exception:
+    SQLITE_AVAILABLE = False
 
 
 class MasterDataset:
@@ -21,9 +26,10 @@ class MasterDataset:
 
         self.parquet = ParquetStore()
 
-        self.sqlite = SQLiteStore()
-
         self.index = SearchIndex()
+
+        if SQLITE_AVAILABLE:
+            self.sqlite = SQLiteStore()
 
     def add(self, questions):
 
@@ -43,10 +49,11 @@ class MasterDataset:
             f"{output_dir}/master_dataset.parquet",
         )
 
-        self.sqlite.write(
-            questions,
-            f"{output_dir}/master_dataset.sqlite",
-        )
+        if SQLITE_AVAILABLE:
+            self.sqlite.write(
+                questions,
+                f"{output_dir}/master_dataset.sqlite",
+            )
 
         return {
             "manifest": self.manifest.build(questions),

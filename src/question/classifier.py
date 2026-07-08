@@ -1,24 +1,27 @@
-import re
-
 from src.document.question import Question
 
 
-class QuestionNormalizer:
+class QuestionClassifier:
 
-    def normalize(self, questions: list[Question]) -> list[Question]:
+    def classify(self, questions: list[Question]) -> list[Question]:
 
         for q in questions:
 
-            text = q.question_text
+            text = q.question_text.lower()
 
-            text = re.sub(r"\s+", " ", text)
+            if "prove" in text:
+                q.question_type = "proof"
 
-            text = text.replace(" ,", ",")
+            elif "find" in text:
+                q.question_type = "numerical"
 
-            text = text.replace(" .", ".")
+            elif "verify" in text:
+                q.question_type = "verification"
 
-            text = text.strip()
+            elif "construct" in text:
+                q.question_type = "construction"
 
-            q.question_text = text
+            else:
+                q.question_type = "general"
 
         return questions
