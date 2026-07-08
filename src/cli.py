@@ -2,6 +2,8 @@ import argparse
 
 from src.extractor.extractor import Extractor
 from src.curriculum.run import CurriculumRunner
+from src.pipeline.master_pipeline import MasterPipeline  # new import
+from src.pdf.pdf_discovery import PDFDiscovery  # new import
 
 
 def main():
@@ -18,6 +20,10 @@ def main():
     curriculum.add_argument("root")
     curriculum.add_argument("-o", "--output", required=True)
 
+    pipeline = sub.add_parser("pipeline")  # new subcommand
+    pipeline.add_argument("root")
+    pipeline.add_argument("-o", "--output", required=True)
+
     args = parser.parse_args()
 
     if args.command == "extract":
@@ -30,6 +36,14 @@ def main():
         CurriculumRunner().run(
             root=args.root,
             output=args.output,
+        )
+
+    elif args.command == "pipeline":  # new command handler
+        pdfs = PDFDiscovery(args.root).discover()
+
+        MasterPipeline().run(
+            pdfs,
+            args.output,
         )
 
 
