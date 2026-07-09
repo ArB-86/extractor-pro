@@ -49,7 +49,9 @@ class NumberingDetector:
             number = number.rstrip(")")
             number = number.strip()
 
-            state.question_number = number
+            state.question_number = self.normalize_number(
+                number,
+            )
 
             state.subquestion = None
 

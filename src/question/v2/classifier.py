@@ -42,6 +42,13 @@ class QuestionClassifier:
             ):
                 q.qtype = QuestionType.MCQ
 
+                if option_count >= 4:
+
+                    q.confidence = min(
+                        1.0,
+                        q.confidence + 0.05,
+                    )
+
             elif "fill in the blank" in text or "____" in text:
                 q.qtype = QuestionType.FILL
 

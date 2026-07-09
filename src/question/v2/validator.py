@@ -147,12 +147,27 @@ class QuestionValidator:
 
             seen = set()
 
+            option_seen = set()
+
             for line in text.split("\n"):
 
                 key = line.strip()
 
                 if not key:
                     continue
+
+                if re.match(
+                    r"^\([A-D]\)",
+                    key,
+                    re.I,
+                ):
+
+                    tag = key[:3].upper()
+
+                    if tag in option_seen:
+                        continue
+
+                    option_seen.add(tag)
 
                 if key in seen:
                     continue
