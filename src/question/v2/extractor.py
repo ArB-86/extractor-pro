@@ -16,6 +16,9 @@ from src.question.v2.export import QuestionExporter
 from src.question.v2.context_validator import ContextValidator
 from src.question.v2.number_validator import NumberValidator
 from src.question.v2.confidence import ConfidenceCalibrator
+from src.question.v2.metrics import ExtractionMetrics
+from src.question.v2.report import ExtractionReport
+from src.question.v2.sanity import SanityChecker
 
 
 class QuestionExtractorV2:
@@ -41,6 +44,9 @@ class QuestionExtractorV2:
         self.context_validator = ContextValidator()
         self.number_validator = NumberValidator()
         self.confidence = ConfidenceCalibrator()
+        self.metrics = ExtractionMetrics()
+        self.report = ExtractionReport()
+        self.sanity = SanityChecker()
 
     def extract(self, document: Document):
 
@@ -109,6 +115,14 @@ class QuestionExtractorV2:
         )
 
         questions = self.confidence.calibrate(
+            questions,
+        )
+
+        questions = self.sanity.check(
+            questions,
+        )
+
+        self.last_metrics = self.metrics.compute(
             questions,
         )
 
