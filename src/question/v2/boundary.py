@@ -133,4 +133,10 @@ class BoundaryDetector:
         if re.match(r"^[a-z][.)]", text.strip(), re.I):
             return True
 
+        if text.lstrip().startswith(("i.", "ii.", "iii.", "iv.")):
+            return True
+
+        if re.match(r"^[a-z][.)]", text.strip(), re.I):
+            return True
+
         return not self.QUESTION_START.match(text)
