@@ -12,6 +12,7 @@ from src.evaluation.boundary import BoundaryMetrics
 from src.evaluation.ocr_metrics import OCRMetrics
 from src.evaluation.error_analyzer import ErrorAnalyzer
 from src.evaluation.json_report import JSONReport
+from src.evaluation.regression import RegressionTracker
 
 
 class EvaluationRunner:
@@ -35,12 +36,14 @@ class EvaluationRunner:
         self.errors = ErrorAnalyzer()
 
         self.report = JSONReport()
+        self.regression = RegressionTracker()
 
     def run(
         self,
         predicted,
         gold_path,
         output_path=None,
+        baseline=None,
     ):
 
         gold = self.gold.load(gold_path)
@@ -65,6 +68,11 @@ class EvaluationRunner:
             "errors": self.errors.compute(alignment),
 
         }
+
+        result["regression"] = self.regression.compare(
+            result,
+            baseline,
+        )
 
         if output_path:
 

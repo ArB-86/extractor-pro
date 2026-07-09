@@ -1,75 +1,39 @@
+
 from __future__ import annotations
 
-from dataclasses import dataclass
-from pathlib import Path
 import json
+from pathlib import Path
 
 
-@dataclass(slots=True)
-class RegressionResult:
+class RegressionTracker:
 
-    passed: bool
+    def compare(self, current: dict, baseline_path: str | None):
 
-    deltas: dict
+        if not baseline_path:
+            return {}
 
+        path = Path(baseline_path)
 
-class RegressionComparator:
+        if not path.exists():
+            return {}
 
-    IMPORTANT = (
-        "precision",
-        "recall",
-        "f1",
-        "accuracy",
-    )
+        baseline = json.loads(path.read_text())
 
-    def compare(
-        self,
-        baseline: dict,
-        current: dict,
-    ) -> RegressionResult:
+        diff = {}
 
-        delta = {}
+        for section, metrics in current.items():
 
-        passed = True
+            if not isinstance(metrics, dict):
+                continue
 
-        for key in self.IMPORTANT:
+            previous = baseline.get(section, {})
 
-            b = float(
-                baseline.get(key, 0)
-            )
+            diff[section] = {}
 
-            c = float(
-                current.get(key, 0)
-            )
+            for key, value in metrics.items():
 
-            delta[key] = round(
-                c - b,
-                6,
-            )
+                if isinstance(value, (int, float)):
 
-            if c < b:
+                    diff[section][key] = value - previous.get(key, 0)
 
-                passed = False
-
-        return RegressionResult(
-            passed=passed,
-            deltas=delta,
-        )
-
-    def save(
-        self,
-        result: RegressionResult,
-        path: str | Path,
-    ):
-
-        Path(path).write_text(
-
-            json.dumps(
-                {
-                    "passed": result.passed,
-                    "deltas": result.deltas,
-                },
-                indent=2,
-            ),
-            encoding="utf-8",
-        )
+        return diff
