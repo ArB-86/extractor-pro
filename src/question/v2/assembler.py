@@ -95,7 +95,10 @@ class QuestionAssembler:
 
                 self.current.text += "\n" + text
 
-            elif len(text.split()) < 3:
+            elif (
+                len(text.split()) < 4
+                or len(text) < 20
+            ):
 
                 self.current.text += " " + text
 
