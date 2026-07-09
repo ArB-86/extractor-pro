@@ -68,7 +68,20 @@ def main():
 
     elif args.command == "evaluate":
         document = _build_document(args.pdf, args.output)
-        questions = QuestionPipeline().run(document)
+        
+questions = QuestionPipeline().run(document)
+
+questions = sorted(
+    questions,
+    key=lambda q: (
+        q.chapter or "",
+        q.exercise or "",
+        int(q.question_number)
+        if str(q.question_number).isdigit()
+        else 0,
+    ),
+)
+
         report = EvaluationRunner().run(
             questions,
             gold_path=args.gold,

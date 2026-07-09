@@ -1,6 +1,8 @@
+
 from src.dataset.registry import QuestionRegistry
 from src.dataset.manifest import DatasetManifest
 from src.dataset.statistics import DatasetStatistics
+
 from src.storage.jsonl_store import JSONLStore
 from src.storage.parquet_store import ParquetStore
 from src.search.index import SearchIndex
@@ -35,6 +37,14 @@ class MasterDataset:
 
         self.registry.extend(questions)
 
+    def questions(self):
+
+        return self.registry.all()
+
+    def __len__(self):
+
+        return len(self.registry)
+
     def export(self, output_dir):
 
         questions = self.registry.all()
@@ -50,20 +60,26 @@ class MasterDataset:
         )
 
         if SQLITE_AVAILABLE:
+
             self.sqlite.write(
                 questions,
                 f"{output_dir}/master_dataset.sqlite",
             )
 
         return {
-            "manifest": self.manifest.build(questions),
-            "statistics": self.statistics.build(questions),
-            "search_index": self.index.build(questions),
+
+            "questions": questions,
+
+            "manifest": self.manifest.build(
+                questions
+            ),
+
+            "statistics": self.statistics.build(
+                questions
+            ),
+
+            "search_index": self.index.build(
+                questions
+            ),
+
         }
-
-
-    def __len__(self):
-        return len(self.registry)
-
-    def questions(self):
-        return self.registry.all()
