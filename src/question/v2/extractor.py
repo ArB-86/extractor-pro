@@ -13,6 +13,9 @@ from src.question.v2.postprocessor import QuestionPostProcessor
 from src.question.v2.deduplicator import QuestionDeduplicatorV2
 from src.question.v2.quality import QualityInspector
 from src.question.v2.export import QuestionExporter
+from src.question.v2.context_validator import ContextValidator
+from src.question.v2.number_validator import NumberValidator
+from src.question.v2.confidence import ConfidenceCalibrator
 
 
 class QuestionExtractorV2:
@@ -35,6 +38,9 @@ class QuestionExtractorV2:
         self.deduplicator = QuestionDeduplicatorV2()
         self.quality = QualityInspector()
         self.exporter = QuestionExporter()
+        self.context_validator = ContextValidator()
+        self.number_validator = NumberValidator()
+        self.confidence = ConfidenceCalibrator()
 
     def extract(self, document: Document):
 
@@ -91,6 +97,18 @@ class QuestionExtractorV2:
         )
 
         questions = self.quality.inspect(
+            questions,
+        )
+
+        questions = self.context_validator.validate(
+            questions,
+        )
+
+        questions = self.number_validator.validate(
+            questions,
+        )
+
+        questions = self.confidence.calibrate(
             questions,
         )
 
