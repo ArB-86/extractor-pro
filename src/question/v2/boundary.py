@@ -5,8 +5,16 @@ from src.question.v2.state import ParserState
 
 class BoundaryDetector:
 
+
+    OPTION = re.compile(
+        r"^\s*\([A-D]\)",
+        re.IGNORECASE,
+    )
+
+
     QUESTION_START = re.compile(
-        r"^\s*\d+[.)]\s+"
+        r"^\s*(?:Q(?:uestion)?\s*)?\d+(?:\.\d+)?[.)]?\s+",
+        re.IGNORECASE,
     )
 
     EXERCISE = re.compile(
@@ -45,6 +53,9 @@ class BoundaryDetector:
         state: ParserState,
     ) -> bool:
 
+        if self.OPTION.match(text):
+            return False
+
         if self.CHAPTER.match(text):
             return False
 
@@ -71,5 +82,14 @@ class BoundaryDetector:
         self,
         text: str,
     ) -> bool:
+
+        if self.OPTION.match(text):
+            return True
+
+        if text.strip().startswith(("•","-","*")):
+            return True
+
+        if re.match(r"^\([ivxlcdm]+\)", text, re.I):
+            return True
 
         return not self.QUESTION_START.match(text)
