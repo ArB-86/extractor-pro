@@ -68,6 +68,10 @@ class ContextManager:
             block == "summary"
         )
 
+        
+        self.state.metadata["last_block"] = block
+
         self.state.next_region()
+
 
         return self.state

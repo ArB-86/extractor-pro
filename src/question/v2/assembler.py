@@ -12,6 +12,17 @@ from src.question.v2.state import ParserState
 
 class QuestionAssembler:
 
+    OPTION_PATTERN = re.compile(
+        r"^\s*\([A-D]\)",
+        re.IGNORECASE,
+    )
+
+    ROMAN_PATTERN = re.compile(
+        r"^\s*\([ivxlcdm]+\)",
+        re.IGNORECASE,
+    )
+
+
     def __init__(self):
 
         self.current = None
@@ -69,7 +80,19 @@ class QuestionAssembler:
 
         elif self.current:
 
-            self.current.text += "\n" + text
+            if (
+                self.OPTION_PATTERN.match(text)
+                or self.ROMAN_PATTERN.match(text)
+            ):
+                self.current.text += "\n" + text
+
+            elif len(text.split()) < 3:
+
+                self.current.text += " " + text
+
+            else:
+
+                self.current.text += "\n" + text
 
     def finalize(self):
 
