@@ -1,18 +1,19 @@
+
 from pathlib import Path
 
-from src.pipeline.document_pipeline import DocumentPipeline
+from src.pipeline.production_pipeline import ProductionPipeline
 
 
 class Extractor:
 
     def __init__(self):
 
-        self.pipeline = DocumentPipeline()
+        self.pipeline = ProductionPipeline()
 
     def extract(
         self,
-        pdf_path: str,
-        output_dir: str,
+        pdf_path,
+        output_dir,
     ):
 
         output_dir = Path(output_dir)
@@ -22,10 +23,7 @@ class Extractor:
             exist_ok=True,
         )
 
-        master_return self.pipeline.run(
-            pdf_path=pdf_path,
-            output_dir=str(output_dir),
+        return self.pipeline.run(
+            pdf_path,
+            str(output_dir),
         )
-
-        return master_dataset
-
