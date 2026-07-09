@@ -225,6 +225,26 @@ text = re.sub(
 
                 lines.append(key)
 
+            
+            text = re.sub(
+                r"([?!.,])\1+",
+                r"\1",
+                text,
+            )
+
+            text = re.sub(
+                r"\s+,",
+                ",",
+                text,
+            )
+
+            text = re.sub(
+                r"\s+\.",
+                ".",
+                text,
+            )
+
+
             q.text = "\n".join(lines)
 
             q.confidence = self.confidence(

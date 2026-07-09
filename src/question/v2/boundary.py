@@ -154,6 +154,12 @@ class BoundaryDetector:
         if lower.endswith(":"):
             return True
 
+        if re.match(
+            r"^(use|given|let|consider|observe)\b",
+            lower,
+        ):
+            return True
+
         if lower.startswith(("(", "[", "{")):
             return True
 

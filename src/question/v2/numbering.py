@@ -53,6 +53,8 @@ class NumberingDetector:
                 number,
             )
 
+            self.last_number = state.question_number
+
             state.subquestion = None
 
             return state
