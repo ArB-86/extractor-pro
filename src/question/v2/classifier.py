@@ -1,3 +1,5 @@
+import re
+
 from __future__ import annotations
 
 from src.question.models import (
@@ -13,19 +15,22 @@ class QuestionClassifier:
         questions: list[QuestionCandidate],
     ) -> list[QuestionCandidate]:
 
+        option_pattern = re.compile(
+            r"\([a-d]\)|^[a-d][.)]",
+            re.IGNORECASE | re.MULTILINE,
+        )
+
         for q in questions:
 
             text = q.text.lower()
 
-            if any(
-                x in text
-                for x in (
-                    "choose the correct",
-                    "(a)",
-                    "(b)",
-                    "(c)",
-                    "(d)",
-                )
+            option_count = len(
+                option_pattern.findall(text)
+            )
+
+            if (
+                "choose the correct" in text
+                or option_count >= 2
             ):
                 q.qtype = QuestionType.MCQ
 
@@ -49,6 +54,10 @@ class QuestionClassifier:
 
             elif "activity" in text:
                 q.qtype = QuestionType.ACTIVITY
+
+            elif option_count >= 4:
+
+                q.qtype = QuestionType.MCQ
 
             elif len(text.split()) > 70:
                 q.qtype = QuestionType.LONG
