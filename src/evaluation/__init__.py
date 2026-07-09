@@ -1,7 +1,10 @@
 from .aligner import *
 from .benchmark import *
+from .benchmark_runner import *
 from .boundary import *
 from .chapter_metrics import *
+from .confusion_matrix import *
+from .csv_report import *
 from .error_analyzer import *
 from .exercise_metrics import *
 from .gold_loader import *
@@ -12,3 +15,4 @@ from .ocr_metrics import *
 from .question_metrics import *
 from .regression import *
 from .runner import *
+from .statistics import *
