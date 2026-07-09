@@ -7,6 +7,14 @@ from src.question.models import QuestionCandidate
 
 class QuestionValidator:
 
+    HEADER_PATTERNS = (
+        "mathematics",
+        "ncert",
+        "chapter",
+        "exercise",
+        "page",
+    )
+
     OCR_FIXES = {
         "ﬁ":"fi",
         "ﬂ":"fl",
@@ -116,6 +124,12 @@ class QuestionValidator:
                 continue
 
             if text.lower().startswith(self.INVALID_START):
+                continue
+
+            if any(
+                text.lower().startswith(x)
+                for x in self.HEADER_PATTERNS
+            ):
                 continue
 
             alpha = sum(c.isalpha() for c in text)

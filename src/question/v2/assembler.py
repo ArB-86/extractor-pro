@@ -80,7 +80,15 @@ class QuestionAssembler:
 
         elif self.current:
 
-            if self.OPTION_PATTERN.match(text):
+            if (
+                self.OPTION_PATTERN.match(text)
+                or self.ROMAN_PATTERN.match(text)
+                or re.match(
+                    r"^\s*(\([a-z]\)|[a-z][.)])",
+                    text,
+                    re.I,
+                )
+            ):
 
                 self.current.text += "\n" + text
 

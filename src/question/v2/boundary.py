@@ -5,6 +5,11 @@ from src.question.v2.state import ParserState
 
 class BoundaryDetector:
 
+    SUBQUESTION = re.compile(
+        r"^\s*(\([a-z]\)|\([ivxlcdm]+\)|[a-z][.)]|[ivxlcdm]+[.)])",
+        re.IGNORECASE,
+    )
+
     PAGE_NUMBER = re.compile(
         r"^\s*\d+\s*$"
     )
@@ -73,6 +78,9 @@ class BoundaryDetector:
         text: str,
         state: ParserState,
     ) -> bool:
+
+        if self.SUBQUESTION.match(text):
+            return False
 
         if self.PAGE_NUMBER.match(text):
             return False
