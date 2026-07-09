@@ -86,4 +86,8 @@ class QuestionClassifier:
 
                 q.metadata["review"] = True
 
+            elif q.confidence > 0.90:
+
+                q.metadata["trusted"] = True
+
         return questions

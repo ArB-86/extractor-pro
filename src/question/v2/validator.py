@@ -127,6 +127,18 @@ text = re.sub(
                 r"(\w)-\n(\w)",
                 r"\1\2",
                 text,
+            )
+
+            text = re.sub(
+                r"(?<=[a-z,;])\n(?=[a-z])",
+                " ",
+                text,
+            )
+
+            text = re.sub(
+                r"\n(?=\))",
+                "",
+                text,
             ).strip()
 
             text = re.sub(

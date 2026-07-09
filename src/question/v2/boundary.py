@@ -5,6 +5,11 @@ from src.question.v2.state import ParserState
 
 class BoundaryDetector:
 
+    CAPTION_PATTERN = re.compile(
+        r"^\s*(figure|fig\.?|table|chart|graph)\b",
+        re.IGNORECASE,
+    )
+
     ANSWER_HEADER = re.compile(
         r"^\s*(answer|answers|solution|solutions|hint|hints)\b",
         re.IGNORECASE,
@@ -84,7 +89,13 @@ class BoundaryDetector:
         state: ParserState,
     ) -> bool:
 
+        if self.CAPTION_PATTERN.match(text):
+            return False
+
         if self.ANSWER_HEADER.match(text):
+            return False
+
+        if self.CAPTION_PATTERN.match(text):
             return False
 
         if self.ANSWER_HEADER.match(text):
