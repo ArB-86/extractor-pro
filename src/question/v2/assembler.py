@@ -116,7 +116,12 @@ class QuestionAssembler:
                 self.current.text += "\n" + text
 
             elif (
-                len(text.split()) < 4
+                "=" in text
+                or "×" in text
+                or "+" in text
+                or "-" in text
+                or "/" in text
+                or len(text.split()) < 4
                 or len(text) < 20
             ):
 

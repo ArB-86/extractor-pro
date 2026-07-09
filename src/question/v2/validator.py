@@ -81,7 +81,31 @@ class QuestionValidator:
             for a,b in self.OCR_FIXES.items():
                 text = text.replace(a,b)
 
+            
             text = re.sub(
+                r"(?<=\d)\s*×\s*(?=\d)",
+                " × ",
+                text,
+            )
+
+            text = re.sub(
+                r"(?<=\d)\s*\+\s*(?=\d)",
+                " + ",
+                text,
+            )
+
+            text = re.sub(
+                r"(?<=\d)\s*-\s*(?=\d)",
+                " - ",
+                text,
+            )
+
+            text = re.sub(
+                r"(?<=\d)\s*=\s*(?=\d)",
+                " = ",
+                text,
+            )
+text = re.sub(
                 r"[ \t]+",
                 " ",
                 text,

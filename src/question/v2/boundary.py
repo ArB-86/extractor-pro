@@ -146,6 +146,15 @@ class BoundaryDetector:
         if lower.startswith(("(", "[", "{")):
             return True
 
+        if "|" in text:
+            return True
+
+        if "\t" in text:
+            return True
+
+        if re.search(r"\d\s+\d\s+\d", text):
+            return True
+
         if text.lstrip().startswith(("i.", "ii.", "iii.", "iv.")):
             return True
 
