@@ -73,4 +73,10 @@ class QuestionClassifier:
             else:
                 q.qtype = QuestionType.SHORT
 
+        for q in questions:
+
+            if q.confidence < 0.45:
+
+                q.metadata["review"] = True
+
         return questions

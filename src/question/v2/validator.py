@@ -34,6 +34,31 @@ class QuestionValidator:
 
     PAGE_ONLY = re.compile(r"^\d+$")
 
+
+    def confidence(self, text):
+
+        score = 1.0
+
+        words = len(text.split())
+
+        if words < 5:
+            score -= 0.35
+
+        if words > 250:
+            score -= 0.15
+
+        if text.count("?") > 1:
+            score -= 0.10
+
+        if text.count("\n") > 25:
+            score -= 0.15
+
+        if re.search(r"[|]{2,}", text):
+            score -= 0.15
+
+        return max(0.0, min(1.0, score))
+
+
     def validate(
         self,
         questions: list[QuestionCandidate],
@@ -111,6 +136,10 @@ class QuestionValidator:
                 lines.append(key)
 
             q.text = "\n".join(lines)
+
+            q.confidence = self.confidence(
+                q.text,
+            )
 
             valid.append(q)
 
