@@ -87,6 +87,9 @@ class BoundaryDetector:
         if self.ANSWER_HEADER.match(text):
             return False
 
+        if self.ANSWER_HEADER.match(text):
+            return False
+
         if self.SUBQUESTION.match(text):
             return False
 

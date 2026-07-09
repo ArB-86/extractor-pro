@@ -96,6 +96,12 @@ class QuestionAssembler:
                     text,
                 )
 
+                text = re.sub(
+                    r"\s+([.,;:!?])",
+                    r"\1",
+                    text,
+                )
+
                 self.current.text += "\n" + text
 
                 self.current.metadata.setdefault(
