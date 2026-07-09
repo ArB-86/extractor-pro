@@ -20,7 +20,7 @@ class NumberingDetector:
     )
 
     OPTION = re.compile(
-        r"^\s*\(([A-D])\)",
+        r"^\s*(?:\(([A-D])\)|([A-D])[.)])",
         re.IGNORECASE,
     )
 

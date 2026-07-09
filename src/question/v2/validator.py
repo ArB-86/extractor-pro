@@ -83,6 +83,18 @@ class QuestionValidator:
                 r"\n{3,}",
                 "\n\n",
                 text,
+            )
+
+            text = re.sub(
+                r"([a-z,])\n([a-z])",
+                r"\1 \2",
+                text,
+            )
+
+            text = re.sub(
+                r"(\w)-\n(\w)",
+                r"\1\2",
+                text,
             ).strip()
 
             text = re.sub(
