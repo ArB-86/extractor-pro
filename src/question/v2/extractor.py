@@ -8,6 +8,7 @@ from src.question.v2.boundary import BoundaryDetector
 from src.question.v2.assembler import QuestionAssembler
 from src.question.v2.classifier import QuestionClassifier
 from src.question.v2.validator import QuestionValidator
+from src.question.v2.converter import CandidateConverter
 
 
 class QuestionExtractorV2:
@@ -25,6 +26,7 @@ class QuestionExtractorV2:
         self.classifier = QuestionClassifier()
 
         self.validator = QuestionValidator()
+        self.converter = CandidateConverter()
 
     def extract(self, document: Document):
 
@@ -68,4 +70,6 @@ class QuestionExtractorV2:
             questions,
         )
 
-        return questions
+        return self.converter.convert(
+            questions,
+        )
