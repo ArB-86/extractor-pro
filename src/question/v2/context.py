@@ -14,7 +14,15 @@ class ContextManager:
 
     def update(self, region):
 
-        self.state.page = region.page
+        if region.page != self.state.page:
+
+            self.state.page = region.page
+
+            self.state.region_index = 0
+
+        else:
+
+            self.state.page = region.page
 
         result = self.rules.analyze(
             region.text or ""
@@ -32,11 +40,13 @@ class ContextManager:
 
         elif block == "exercise":
 
-            self.state.exercise = (
-                region.text.strip()
-            )
+            exercise = region.text.strip()
 
-            self.state.reset_question()
+            if exercise != self.state.exercise:
+
+                self.state.exercise = exercise
+
+                self.state.reset_question()
 
         self.state.inside_example = (
             block == "example"
