@@ -1,3 +1,5 @@
+import re
+
 
 from __future__ import annotations
 
@@ -42,9 +44,15 @@ class QuestionAssembler:
 
             if self.current is None:
 
+                cleaned = re.sub(
+                    r"^\s*\d+[.)]\s+",
+                    "",
+                    text,
+                )
+
                 self.current = QuestionCandidate(
                     number=state.question_number,
-                    text=text,
+                    text=cleaned,
                     context=QuestionContext(
                         chapter=state.chapter,
                         exercise=state.exercise,
@@ -54,7 +62,10 @@ class QuestionAssembler:
 
             else:
 
-                self.current.text += "\n" + text
+                if text != self.current.text:
+
+                    self.current.text += "
+" + text
 
         elif self.current:
 
