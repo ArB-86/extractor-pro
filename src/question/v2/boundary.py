@@ -5,6 +5,22 @@ from src.question.v2.state import ParserState
 
 class BoundaryDetector:
 
+    CONTINUATION_PREFIX = (
+        "therefore",
+        "hence",
+        "thus",
+        "so",
+        "if",
+        "then",
+        "where",
+        "when",
+        "find",
+        "calculate",
+        "determine",
+        "show that",
+    )
+
+
 
     OPTION = re.compile(
         r"^\s*\([A-D]\)",
@@ -90,6 +106,17 @@ class BoundaryDetector:
             return True
 
         if re.match(r"^\([ivxlcdm]+\)", text, re.I):
+            return True
+
+        lower = text.strip().lower()
+
+        if lower.startswith(self.CONTINUATION_PREFIX):
+            return True
+
+        if lower.endswith(":"):
+            return True
+
+        if lower.startswith(("(", "[", "{")):
             return True
 
         return not self.QUESTION_START.match(text)

@@ -68,7 +68,25 @@ class QuestionValidator:
             if len(text) < 12:
                 continue
 
-            q.text = text
+            lines = []
+
+            seen = set()
+
+            for line in text.split("\n"):
+
+                key = line.strip()
+
+                if not key:
+                    continue
+
+                if key in seen:
+                    continue
+
+                seen.add(key)
+
+                lines.append(key)
+
+            q.text = "\n".join(lines)
 
             valid.append(q)
 
