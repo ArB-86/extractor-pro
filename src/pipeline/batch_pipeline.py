@@ -1,38 +1,22 @@
-from concurrent.futures import ProcessPoolExecutor
 
-from src.extractor.extractor import Extractor
+from src.pipeline.incremental_pipeline import IncrementalPipeline
 
 
 class BatchPipeline:
 
-    def __init__(self, workers=8):
+    def __init__(self):
 
-        self.workers = workers
+        self.pipeline = IncrementalPipeline()
 
-    @staticmethod
-    def _run(job):
+    def run(
+        self,
+        pdfs,
+        output_dir,
+        gold_path=None,
+    ):
 
-        pdf, output = job
-
-        return Extractor().extract(
-            pdf_path=pdf,
-            output_dir=output,
+        return self.pipeline.run(
+            pdfs,
+            output_dir,
+            gold_path,
         )
-
-    def run(self, pdfs, output_dir):
-
-        jobs = [
-            (pdf, output_dir)
-            for pdf in pdfs
-        ]
-
-        with ProcessPoolExecutor(
-            max_workers=self.workers
-        ) as executor:
-
-            return list(
-                executor.map(
-                    self._run,
-                    jobs,
-                )
-            )

@@ -7,9 +7,17 @@ class Scheduler:
 
         hpc = HPCPipeline()
 
+        jobs = []
+
         for pdf in pdfs:
 
-            hpc.submit(
-                pdf,
-                output_dir,
+            jobs.append(
+
+                hpc.submit(
+                    pdf,
+                    output_dir,
+                )
+
             )
+
+        return jobs

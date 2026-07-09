@@ -1,4 +1,3 @@
-from src.extractor.extractor import Extractor
 from src.dataset.master_dataset import MasterDataset
 from src.pipeline.batch_pipeline import BatchPipeline  # new import
 
@@ -6,9 +5,6 @@ from src.pipeline.batch_pipeline import BatchPipeline  # new import
 class MasterPipeline:
 
     def __init__(self):
-
-        self.extractor = Extractor()
-
         self.dataset = MasterDataset()
 
     def run(self, pdfs, output_dir):
@@ -19,8 +15,12 @@ class MasterPipeline:
             output_dir,
         )
 
-        # Add all results to the master dataset
-        for questions in results:
-            self.dataset.add(questions)
+        for result in results:
 
-        return self.dataset.export(output_dir)
+            self.dataset.add(
+                result.questions,
+            )
+
+        return self.dataset.export(
+            output_dir,
+        )
