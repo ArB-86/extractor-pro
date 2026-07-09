@@ -22,6 +22,9 @@ from src.question.v2.sanity import SanityChecker
 from src.question.v2.debug import DebugExporter
 from src.question.v2.review_queue import ReviewQueue
 from src.question.v2.duplicate_detector import DuplicateDetector
+from src.question.v2.debug import DebugExporter
+from src.question.v2.review_queue import ReviewQueue
+from src.question.v2.duplicate_detector import DuplicateDetector
 
 
 class QuestionExtractorV2:
@@ -50,6 +53,9 @@ class QuestionExtractorV2:
         self.metrics = ExtractionMetrics()
         self.report = ExtractionReport()
         self.sanity = SanityChecker()
+        self.debug = DebugExporter()
+        self.review_queue = ReviewQueue()
+        self.duplicates = DuplicateDetector()
         self.debug = DebugExporter()
         self.review_queue = ReviewQueue()
         self.duplicates = DuplicateDetector()
