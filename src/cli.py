@@ -7,22 +7,12 @@ from src.pipeline.master_pipeline import MasterPipeline
 from src.pdf.pdf_discovery import PDFDiscovery
 from src.pipeline.scheduler import Scheduler
 from src.evaluation.runner import EvaluationRunner
-from src.pipeline.question_pipeline import QuestionPipeline
-from src.document.builder import DocumentBuilder
-from src.pipeline.layout_pipeline import LayoutPipeline
-from src.pdf.pdf_renderer import PDFRenderer
+from src.pipeline.runner import (
+    ProductionRunner,
+    RunConfig,
+)
 
 
-def _build_document(pdf_path: str, output_dir: str):
-    renderer = PDFRenderer()
-    layout = LayoutPipeline()
-    pages = renderer.render(pdf_path, Path(output_dir) / "render")
-    all_regions = []
-    for page_no, image_path in enumerate(pages, start=1):
-        page_dir = Path(output_dir) / f"page_{page_no:03d}"
-        regions = layout.run(image_path=image_path, output_dir=str(page_dir), page=page_no)
-        all_regions.extend(regions)
-    return DocumentBuilder.build(all_regions)
 
 
 def main():
@@ -53,7 +43,18 @@ def main():
     args = parser.parse_args()
 
     if args.command == "extract":
-        Extractor().extract(pdf_path=args.pdf, output_dir=args.output)
+
+        ProductionRunner().run(
+
+            RunConfig(
+
+                pdf=args.pdf,
+
+                output=args.output,
+
+            )
+
+        )
 
     elif args.command == "curriculum":
         CurriculumRunner().run(root=args.root, output=args.output)
