@@ -87,10 +87,26 @@ class QuestionExtractorV2:
             ):
                 continue
 
-            self.assembler.consume(
+            if self.boundary.is_new_question(
                 text,
                 state,
-            )
+            ):
+
+                self.assembler.consume(
+                    text,
+                    state,
+                )
+
+                continue
+
+            if self.boundary.is_continuation(
+                text,
+            ):
+
+                self.assembler.consume(
+                    text,
+                    state,
+                )
 
         questions = self.assembler.finalize()
 
