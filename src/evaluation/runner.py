@@ -13,6 +13,7 @@ from src.evaluation.ocr_metrics import OCRMetrics
 from src.evaluation.error_analyzer import ErrorAnalyzer
 from src.evaluation.json_report import JSONReport
 from src.evaluation.regression import RegressionTracker
+from src.evaluation.benchmark import BenchmarkRunner
 
 
 class EvaluationRunner:
@@ -37,6 +38,7 @@ class EvaluationRunner:
 
         self.report = JSONReport()
         self.regression = RegressionTracker()
+        self.benchmark = BenchmarkRunner()
 
     def run(
         self,
@@ -46,9 +48,17 @@ class EvaluationRunner:
         baseline=None,
     ):
 
-        gold = self.gold.load(gold_path)
+        
+        gold = self.benchmark.run(
+            self.gold.load,
+            gold_path,
+        )["result"]["result"]
 
-        alignment = self.aligner.align(
+
+        
+        alignment = self.benchmark.run(
+            self.aligner.align,
+
             predicted,
             gold,
         )
