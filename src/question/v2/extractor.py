@@ -11,6 +11,8 @@ from src.question.v2.validator import QuestionValidator
 from src.question.v2.converter import CandidateConverter
 from src.question.v2.postprocessor import QuestionPostProcessor
 from src.question.v2.deduplicator import QuestionDeduplicatorV2
+from src.question.v2.quality import QualityInspector
+from src.question.v2.export import QuestionExporter
 
 
 class QuestionExtractorV2:
@@ -31,6 +33,8 @@ class QuestionExtractorV2:
         self.converter = CandidateConverter()
         self.postprocessor = QuestionPostProcessor()
         self.deduplicator = QuestionDeduplicatorV2()
+        self.quality = QualityInspector()
+        self.exporter = QuestionExporter()
 
     def extract(self, document: Document):
 
@@ -83,6 +87,10 @@ class QuestionExtractorV2:
         )
 
         questions = self.deduplicator.deduplicate(
+            questions,
+        )
+
+        questions = self.quality.inspect(
             questions,
         )
 
