@@ -9,6 +9,8 @@ from src.question.v2.assembler import QuestionAssembler
 from src.question.v2.classifier import QuestionClassifier
 from src.question.v2.validator import QuestionValidator
 from src.question.v2.converter import CandidateConverter
+from src.question.v2.postprocessor import QuestionPostProcessor
+from src.question.v2.deduplicator import QuestionDeduplicatorV2
 
 
 class QuestionExtractorV2:
@@ -27,6 +29,8 @@ class QuestionExtractorV2:
 
         self.validator = QuestionValidator()
         self.converter = CandidateConverter()
+        self.postprocessor = QuestionPostProcessor()
+        self.deduplicator = QuestionDeduplicatorV2()
 
     def extract(self, document: Document):
 
@@ -70,6 +74,16 @@ class QuestionExtractorV2:
             questions,
         )
 
-        return self.converter.convert(
+        questions = self.converter.convert(
             questions,
         )
+
+        questions = self.postprocessor.process(
+            questions,
+        )
+
+        questions = self.deduplicator.deduplicate(
+            questions,
+        )
+
+        return questions
