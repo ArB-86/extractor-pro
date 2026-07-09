@@ -1,122 +1,76 @@
+
 from __future__ import annotations
 
-from .gold_dataset import GoldDataset
-from .aligner import AlignmentEngine
-from .metrics_engine import MetricsEngine
-from .error_analyzer import ErrorAnalyzer
-from .report_writer import ReportWriter
+from dataclasses import asdict
+
+from src.evaluation.gold_loader import GoldLoader
+from src.evaluation.aligner import QuestionAligner
+from src.evaluation.question_metrics import QuestionMetrics
+from src.evaluation.chapter_metrics import ChapterMetrics
+from src.evaluation.exercise_metrics import ExerciseMetrics
+from src.evaluation.boundary import BoundaryMetrics
+from src.evaluation.ocr_metrics import OCRMetrics
+from src.evaluation.error_analyzer import ErrorAnalyzer
+from src.evaluation.json_report import JSONReport
 
 
 class EvaluationRunner:
 
     def __init__(self):
 
-        self.gold = GoldDataset()
+        self.gold = GoldLoader()
 
-        self.aligner = AlignmentEngine()
+        self.aligner = QuestionAligner()
 
-        self.metrics = MetricsEngine()
+        self.question = QuestionMetrics()
+
+        self.chapter = ChapterMetrics()
+
+        self.exercise = ExerciseMetrics()
+
+        self.boundary = BoundaryMetrics()
+
+        self.ocr = OCRMetrics()
 
         self.errors = ErrorAnalyzer()
 
-        self.writer = ReportWriter()
+        self.report = JSONReport()
 
     def run(
-
         self,
-
         predicted,
-
         gold_path,
-
-        output_dir,
-
+        output_path=None,
     ):
 
-        gold = self.gold.load(
-
-            gold_path,
-
-        )
-
-        ok, errors = self.gold.validate(
-
-            [
-
-                g.__dict__
-
-                if hasattr(g,"__dict__")
-
-                else {}
-
-                for g in gold
-
-            ]
-
-        )
-
-        if not ok:
-
-            raise RuntimeError(
-
-                "\\n".join(errors)
-
-            )
+        gold = self.gold.load(gold_path)
 
         alignment = self.aligner.align(
-
             predicted,
-
             gold,
-
         )
 
-        report = self.metrics.compute(
+        result = {
 
-            alignment,
+            "question": self.question.compute(alignment),
 
-        )
+            "chapter": self.chapter.compute(alignment),
 
-        analysis = self.errors.analyze(
+            "exercise": self.exercise.compute(alignment),
 
-            predicted,
+            "boundary": self.boundary.compute(alignment),
 
-            gold,
+            "ocr": self.ocr.compute(alignment),
 
-            alignment.matched_pairs,
-
-        )
-
-        report["errors"] = {
-
-            "false_positive":
-
-                len(
-
-                    analysis.false_positives
-
-                ),
-
-            "false_negative":
-
-                len(
-
-                    analysis.false_negatives
-
-                ),
-
-            "tags":
-
-                analysis.top_error_tags,
+            "errors": self.errors.compute(alignment),
 
         }
 
-        self.writer.write_all(
+        if output_path:
 
-            report,
+            self.report.write(
+                result,
+                output_path,
+            )
 
-            output_dir,
-
-        )
-
-        return report
+        return result
