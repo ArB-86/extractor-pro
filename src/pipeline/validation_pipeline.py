@@ -9,6 +9,8 @@ class ValidationPipeline:
 
     def run(self, questions):
 
-        return self.validator.validate_many(
+        validated = self.validator.validate_many(
             questions
         )
+
+        return validated

@@ -22,10 +22,10 @@ class Extractor:
             exist_ok=True,
         )
 
-        dataset = self.pipeline.run(
+        master_dataset = self.pipeline.run(
             pdf_path=pdf_path,
             output_dir=str(output_dir),
         )
 
-        return dataset
+        return master_dataset
 

@@ -1,0 +1,521 @@
+========================================================================================================================
+src/dataset
+========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
+src/dataset/__init__.py
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/dataset/builder.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import asdict
+from hashlib import sha256
+from pathlib import Path
+import json
+from typing import Iterable
+
+from src.document.question import Question
+
+
+class DatasetBuilder:
+    """
+    Builds the canonical master dataset.
+
+    Responsibilities
+    ----------------
+    - Normalize questions
+    - Remove duplicates
+    - Assign stable IDs
+    - Attach metadata
+    - Export dataset
+    """
+
+    def __init__(self):
+        self.questions: list[Question] = []
+
+    def add(self, question: Question) -> None:
+        self.questions.append(question)
+
+    def extend(self, questions: Iterable[Question]) -> None:
+        self.questions.extend(questions)
+
+    def _fingerprint(self, q: Question) -> str:
+        text = " ".join(q.question_text.lower().split())
+        return sha256(text.encode()).hexdigest()
+
+    def deduplicate(self) -> None:
+        seen = {}
+        unique = []
+
+        for q in self.questions:
+            fp = self._fingerprint(q)
+
+            if fp in seen:
+                continue
+
+            seen[fp] = True
+            unique.append(q)
+
+        self.questions = unique
+
+    def assign_ids(self) -> None:
+        for i, q in enumerate(self.questions, start=1):
+
+            if getattr(q, "question_id", None):
+                continue
+
+            q.question_id = f"QF-{i:08d}"
+
+    def build(self) -> dict:
+
+        self.deduplicate()
+
+        self.assign_ids()
+
+        return {
+            "total_questions": len(self.questions),
+            "questions": [asdict(q) for q in self.questions],
+        }
+
+    def export_json(self, output: str | Path):
+
+        output = Path(output)
+
+        output.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(output, "w", encoding="utf-8") as f:
+
+            json.dump(
+                self.build(),
+                f,
+                indent=2,
+                ensure_ascii=False,
+            )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/dataset/manifest.py
+------------------------------------------------------------------------------------------------------------------------
+from datetime import datetime
+
+
+class DatasetManifest:
+
+    def build(self, questions):
+
+        return {
+            "dataset_version": datetime.utcnow().strftime("%Y.%m.%d"),
+            "generated_at": datetime.utcnow().isoformat() + "Z",
+            "total_questions": len(questions),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/dataset/master_dataset.py
+------------------------------------------------------------------------------------------------------------------------
+from src.dataset.registry import QuestionRegistry
+from src.dataset.manifest import DatasetManifest
+from src.dataset.statistics import DatasetStatistics
+from src.storage.jsonl_store import JSONLStore
+from src.storage.parquet_store import ParquetStore
+from src.search.index import SearchIndex
+
+try:
+    from src.storage.sqlite_store import SQLiteStore
+    SQLITE_AVAILABLE = True
+except Exception:
+    SQLITE_AVAILABLE = False
+
+
+class MasterDataset:
+
+    def __init__(self):
+
+        self.registry = QuestionRegistry()
+
+        self.manifest = DatasetManifest()
+
+        self.statistics = DatasetStatistics()
+
+        self.jsonl = JSONLStore()
+
+        self.parquet = ParquetStore()
+
+        self.index = SearchIndex()
+
+        if SQLITE_AVAILABLE:
+            self.sqlite = SQLiteStore()
+
+    def add(self, questions):
+
+        self.registry.extend(questions)
+
+    def export(self, output_dir):
+
+        questions = self.registry.all()
+
+        self.jsonl.write(
+            questions,
+            f"{output_dir}/master_dataset.jsonl",
+        )
+
+        self.parquet.write(
+            questions,
+            f"{output_dir}/master_dataset.parquet",
+        )
+
+        if SQLITE_AVAILABLE:
+            self.sqlite.write(
+                questions,
+                f"{output_dir}/master_dataset.sqlite",
+            )
+
+        return {
+            "manifest": self.manifest.build(questions),
+            "statistics": self.statistics.build(questions),
+            "search_index": self.index.build(questions),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/dataset/registry.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.question import Question
+
+
+class QuestionRegistry:
+
+    def __init__(self):
+
+        self._questions = {}
+
+    def add(self, question: Question):
+
+        self._questions[question.sha256] = question
+
+    def extend(self, questions):
+
+        for q in questions:
+            self.add(q)
+
+    def all(self):
+
+        return list(self._questions.values())
+
+    def __len__(self):
+
+        return len(self._questions)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/dataset/statistics.py
+------------------------------------------------------------------------------------------------------------------------
+from collections import Counter
+
+
+class DatasetStatistics:
+
+    def build(self, questions):
+
+        return {
+            "total_questions": len(questions),
+            "chapters": dict(
+                Counter(q.chapter for q in questions)
+            ),
+            "difficulty": dict(
+                Counter(q.difficulty for q in questions)
+            ),
+            "question_types": dict(
+                Counter(q.question_type for q in questions)
+            ),
+        }
+
+
+========================================================================================================================
+src/export
+========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
+src/export/__init__.py
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/export/jsonl.py
+------------------------------------------------------------------------------------------------------------------------
+import json
+from pathlib import Path
+
+
+class JSONLExporter:
+
+    def export(self, questions, output_path):
+
+        output_path = Path(output_path)
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        with open(output_path, "w", encoding="utf-8") as f:
+
+            for q in questions:
+                f.write(json.dumps(q, ensure_ascii=False) + "\n")
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/export/parquet.py
+------------------------------------------------------------------------------------------------------------------------
+import pandas as pd
+from pathlib import Path
+
+
+class ParquetExporter:
+
+    def export(self, questions, output_path):
+
+        output_path = Path(output_path)
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        pd.DataFrame(questions).to_parquet(
+            output_path,
+            index=False,
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/export/sqlite.py
+------------------------------------------------------------------------------------------------------------------------
+import sqlite3
+from pathlib import Path
+import pandas as pd
+
+
+class SQLiteExporter:
+
+    def export(self, questions, output_path):
+
+        output_path = Path(output_path)
+
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        conn = sqlite3.connect(output_path)
+
+        pd.DataFrame(questions).to_sql(
+            "questions",
+            conn,
+            if_exists="replace",
+            index=False,
+        )
+
+        conn.close()
+
+
+========================================================================================================================
+src/extractor
+========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
+src/extractor/extractor.py
+------------------------------------------------------------------------------------------------------------------------
+from pathlib import Path
+
+from src.pipeline.document_pipeline import DocumentPipeline
+
+
+class Extractor:
+
+    def __init__(self):
+
+        self.pipeline = DocumentPipeline()
+
+    def extract(
+        self,
+        pdf_path: str,
+        output_dir: str,
+    ):
+
+        output_dir = Path(output_dir)
+
+        output_dir.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        dataset = self.pipeline.run(
+            pdf_path=pdf_path,
+            output_dir=str(output_dir),
+        )
+
+        return dataset
+
+
+
+========================================================================================================================
+src/validator
+========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
+src/validator/question_validator.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.question import Question
+
+
+class QuestionValidator:
+
+    MIN_LENGTH = 10
+
+    def validate(self, question: Question) -> bool:
+
+        if not question.question_text:
+            return False
+
+        if len(question.question_text.strip()) < self.MIN_LENGTH:
+            return False
+
+        if not question.chapter:
+            return False
+
+        return True
+
+    def validate_many(self, questions: list[Question]) -> list[Question]:
+
+        return [
+            q
+            for q in questions
+            if self.validate(q)
+        ]
+
+
+========================================================================================================================
+src/io
+========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
+src/io/json_writer.py
+------------------------------------------------------------------------------------------------------------------------
+import json
+from pathlib import Path
+
+
+class JSONWriter:
+
+    @staticmethod
+    def write(region):
+
+        path = Path(region.image_path)
+
+        json_path = path.with_suffix(".json")
+
+        data = {
+
+            "page": region.page,
+
+            "label": region.label,
+
+            "confidence": float(region.confidence),
+
+            "bbox": [
+
+                float(region.x1),
+                float(region.y1),
+                float(region.x2),
+                float(region.y2),
+
+            ],
+
+            "image_path": region.image_path,
+
+            "text": region.text,
+
+        }
+
+        with open(json_path, "w") as f:
+
+            json.dump(data, f, indent=4)
+
+
+========================================================================================================================
+src/cli.py
+========================================================================================================================
+import argparse
+from pathlib import Path
+
+from src.extractor.extractor import Extractor
+from src.curriculum.run import CurriculumRunner
+from src.pipeline.master_pipeline import MasterPipeline
+from src.pdf.pdf_discovery import PDFDiscovery
+from src.pipeline.scheduler import Scheduler
+from src.evaluation.runner import EvaluationRunner
+from src.pipeline.question_pipeline import QuestionPipeline
+from src.document.builder import DocumentBuilder
+from src.pipeline.layout_pipeline import LayoutPipeline
+from src.pdf.pdf_renderer import PDFRenderer
+
+
+def _build_document(pdf_path: str, output_dir: str):
+    renderer = PDFRenderer()
+    layout = LayoutPipeline()
+    pages = renderer.render(pdf_path, Path(output_dir) / "render")
+    all_regions = []
+    for page_no, image_path in enumerate(pages, start=1):
+        page_dir = Path(output_dir) / f"page_{page_no:03d}"
+        regions = layout.run(image_path=image_path, output_dir=str(page_dir), page=page_no)
+        all_regions.extend(regions)
+    return DocumentBuilder.build(all_regions)
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    sub = parser.add_subparsers(dest="command", required=True)
+
+    extract = sub.add_parser("extract")
+    extract.add_argument("pdf")
+    extract.add_argument("-o", "--output", required=True)
+
+    curriculum = sub.add_parser("curriculum")
+    curriculum.add_argument("root")
+    curriculum.add_argument("-o", "--output", required=True)
+
+    pipeline = sub.add_parser("pipeline")
+    pipeline.add_argument("root")
+    pipeline.add_argument("-o", "--output", required=True)
+
+    hpc = sub.add_parser("hpc")
+    hpc.add_argument("root")
+    hpc.add_argument("-o", "--output", required=True)
+
+    evaluate = sub.add_parser("evaluate")
+    evaluate.add_argument("pdf")
+    evaluate.add_argument("--gold", required=True)
+    evaluate.add_argument("-o", "--output", required=True)
+
+    args = parser.parse_args()
+
+    if args.command == "extract":
+        Extractor().extract(pdf_path=args.pdf, output_dir=args.output)
+
+    elif args.command == "curriculum":
+        CurriculumRunner().run(root=args.root, output=args.output)
+
+    elif args.command == "pipeline":
+        pdfs = PDFDiscovery(args.root).discover()
+        MasterPipeline().run(pdfs, args.output)
+
+    elif args.command == "hpc":
+        pdfs = PDFDiscovery(args.root).discover()
+        Scheduler().run(pdfs, args.output)
+
+    elif args.command == "evaluate":
+        document = _build_document(args.pdf, args.output)
+        questions = QuestionPipeline().run(document)
+        report = EvaluationRunner().run(
+            questions,
+            gold_path=args.gold,
+            output_path=Path(args.output) / "evaluation.json",
+        )
+        print(report)
+
+
+if __name__ == "__main__":
+    main()
+
+

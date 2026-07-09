@@ -60,3 +60,10 @@ class MasterDataset:
             "statistics": self.statistics.build(questions),
             "search_index": self.index.build(questions),
         }
+
+
+    def __len__(self):
+        return len(self.registry)
+
+    def questions(self):
+        return self.registry.all()
