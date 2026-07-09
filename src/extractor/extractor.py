@@ -14,6 +14,7 @@ class Extractor:
         self,
         pdf_path,
         output_dir,
+        gold_path=None,
     ):
 
         output_dir = Path(output_dir)
@@ -26,4 +27,5 @@ class Extractor:
         return self.pipeline.run(
             pdf_path,
             str(output_dir),
+            gold_path,
         )
