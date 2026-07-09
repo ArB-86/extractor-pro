@@ -2,9 +2,9 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Iterable
-import json
+from typing import Any
 import csv
+import json
 
 
 @dataclass(slots=True)
@@ -23,9 +23,10 @@ class GoldSample:
 class GoldDatasetLoader:
     def load(self, path: str | Path) -> list[GoldSample]:
         path = Path(path)
-        if path.suffix.lower() in {".json", ".jsonl"}:
+        suffix = path.suffix.lower()
+        if suffix in {".json", ".jsonl"}:
             return self._load_json_or_jsonl(path)
-        if path.suffix.lower() == ".csv":
+        if suffix == ".csv":
             return self._load_csv(path)
         raise ValueError(f"Unsupported gold dataset format: {path.suffix}")
 
@@ -45,6 +46,12 @@ class GoldDatasetLoader:
             return [self._row_to_sample(row) for row in reader]
 
     def _row_to_sample(self, row: dict[str, Any]) -> GoldSample:
+        metadata = row.get("metadata")
+        if isinstance(metadata, str):
+            try:
+                metadata = json.loads(metadata)
+            except Exception:
+                metadata = None
         return GoldSample(
             question_id=str(row.get("question_id", "")).strip(),
             question_text=str(row.get("question_text") or row.get("text") or "").strip(),
@@ -54,7 +61,7 @@ class GoldDatasetLoader:
             question_type=(row.get("question_type") or None),
             source_book=(row.get("source_book") or None),
             source_page=self._to_int(row.get("source_page")),
-            metadata=row.get("metadata") if isinstance(row.get("metadata"), dict) else None,
+            metadata=metadata if isinstance(metadata, dict) else None,
         )
 
     def _to_int(self, value: Any) -> int | None:

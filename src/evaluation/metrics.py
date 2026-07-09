@@ -1,7 +1,6 @@
 from __future__ import annotations
 
-from dataclasses import dataclass, asdict
-from typing import Any, Dict
+from dataclasses import dataclass
 
 
 @dataclass(slots=True)
@@ -31,14 +30,13 @@ class EvaluationMetrics:
         denom = self.true_positive + self.false_positive + self.false_negative
         return 0.0 if denom == 0 else self.true_positive / denom
 
-    def to_dict(self) -> Dict[str, Any]:
-        data = asdict(self)
-        data.update(
-            {
-                "precision": round(self.precision, 6),
-                "recall": round(self.recall, 6),
-                "f1": round(self.f1, 6),
-                "accuracy": round(self.accuracy, 6),
-            }
-        )
-        return data
+    def to_dict(self) -> dict:
+        return {
+            "true_positive": self.true_positive,
+            "false_positive": self.false_positive,
+            "false_negative": self.false_negative,
+            "precision": round(self.precision, 6),
+            "recall": round(self.recall, 6),
+            "f1": round(self.f1, 6),
+            "accuracy": round(self.accuracy, 6),
+        }

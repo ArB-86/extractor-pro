@@ -69,7 +69,11 @@ def main():
     elif args.command == "evaluate":
         document = _build_document(args.pdf, args.output)
         questions = QuestionPipeline().run(document)
-        report = EvaluationRunner().run(questions, gold_path=args.gold, output_path=Path(args.output) / "evaluation.json")
+        report = EvaluationRunner().run(
+            questions,
+            gold_path=args.gold,
+            output_path=Path(args.output) / "evaluation.json",
+        )
         print(report)
 
 

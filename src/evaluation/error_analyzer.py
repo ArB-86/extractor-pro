@@ -14,7 +14,12 @@ class ErrorSummary:
 
 
 class ErrorAnalyzer:
-    def analyze(self, predicted: list[Question], gold: list[object], matched_pairs: list[tuple[Question, object]]) -> ErrorSummary:
+    def analyze(
+        self,
+        predicted: list[Question],
+        gold: list[object],
+        matched_pairs: list[tuple[Question, object]],
+    ) -> ErrorSummary:
         matched_pred_ids = {id(p) for p, _ in matched_pairs}
         matched_gold_ids = {id(g) for _, g in matched_pairs}
 

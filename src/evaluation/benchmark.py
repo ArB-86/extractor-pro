@@ -21,11 +21,21 @@ class EvaluationBenchmark:
     def load_gold(self, path: str | Path):
         return self.loader.load(path)
 
+    def _sample_to_dict(self, sample: object) -> dict[str, Any]:
+        if hasattr(sample, "__dict__"):
+            return dict(sample.__dict__)
+        if hasattr(sample, "_asdict"):
+            return dict(sample._asdict())
+        try:
+            return dict(sample)
+        except Exception:
+            return {"value": str(sample)}
+
     def evaluate(self, predicted: list[Question], gold: list[object]) -> dict[str, Any]:
         alignment = self.aligner.align(predicted, gold)
         error_summary = self.errors.analyze(predicted, gold, alignment.matched_pairs)
 
-        payload = {
+        return {
             "question_metrics": alignment.question_metrics.to_dict(),
             "boundary_metrics": alignment.boundary_metrics.to_dict(),
             "error_summary": {
@@ -36,12 +46,11 @@ class EvaluationBenchmark:
             "matched_pairs": [
                 {
                     "predicted": asdict(p),
-                    "gold": g.__dict__ if hasattr(g, "__dict__") else dict(g),
+                    "gold": self._sample_to_dict(g),
                 }
                 for p, g in alignment.matched_pairs
             ],
         }
-        return payload
 
     def save_report(self, report: dict[str, Any], output_path: str | Path) -> Path:
         return self.report.save(report, output_path)
