@@ -105,10 +105,10 @@ class QuestionValidator:
                 " = ",
                 text,
             )
-text = re.sub(
-                r"[ \t]+",
-                " ",
-                text,
+            text = re.sub(
+            r"[ \t]+",
+            " ",
+            text,
             )
 
             text = re.sub(

@@ -68,27 +68,22 @@ def main():
         Scheduler().run(pdfs, args.output)
 
     elif args.command == "evaluate":
-        document = _build_document(args.pdf, args.output)
-        
-questions = QuestionPipeline().run(document)
 
-questions = sorted(
-    questions,
-    key=lambda q: (
-        q.chapter or "",
-        q.exercise or "",
-        int(q.question_number)
-        if str(q.question_number).isdigit()
-        else 0,
-    ),
-)
+        result = ProductionRunner().run(
 
-        report = EvaluationRunner().run(
-            questions,
-            gold_path=args.gold,
-            output_path=Path(args.output) / "evaluation.json",
+            RunConfig(
+
+                pdf=args.pdf,
+
+                output=args.output,
+
+                gold=args.gold,
+
+            )
+
         )
-        print(report)
+
+        print(result.evaluation)
 
 
 if __name__ == "__main__":

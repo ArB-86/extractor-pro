@@ -1,8 +1,6 @@
-import re
-
-
 from __future__ import annotations
 
+import re
 from src.question.models import (
     QuestionCandidate,
     QuestionContext,
@@ -75,8 +73,7 @@ class QuestionAssembler:
 
                 if text != self.current.text:
 
-                    self.current.text += "
-" + text
+                    self.current.text += "\n" + text
 
         elif self.current:
 
