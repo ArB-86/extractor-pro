@@ -19,6 +19,9 @@ from src.question.v2.confidence import ConfidenceCalibrator
 from src.question.v2.metrics import ExtractionMetrics
 from src.question.v2.report import ExtractionReport
 from src.question.v2.sanity import SanityChecker
+from src.question.v2.debug import DebugExporter
+from src.question.v2.review_queue import ReviewQueue
+from src.question.v2.duplicate_detector import DuplicateDetector
 
 
 class QuestionExtractorV2:
@@ -47,6 +50,9 @@ class QuestionExtractorV2:
         self.metrics = ExtractionMetrics()
         self.report = ExtractionReport()
         self.sanity = SanityChecker()
+        self.debug = DebugExporter()
+        self.review_queue = ReviewQueue()
+        self.duplicates = DuplicateDetector()
 
     def extract(self, document: Document):
 
@@ -123,6 +129,14 @@ class QuestionExtractorV2:
         )
 
         self.last_metrics = self.metrics.compute(
+            questions,
+        )
+
+        self.last_duplicates = self.duplicates.inspect(
+            questions,
+        )
+
+        self.last_review_queue = self.review_queue.build(
             questions,
         )
 
