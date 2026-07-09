@@ -80,10 +80,19 @@ class QuestionAssembler:
 
         elif self.current:
 
-            if (
-                self.OPTION_PATTERN.match(text)
-                or self.ROMAN_PATTERN.match(text)
-            ):
+            if self.OPTION_PATTERN.match(text):
+
+                self.current.text += "\n" + text
+
+                self.current.metadata.setdefault(
+                    "option_count",
+                    0,
+                )
+
+                self.current.metadata["option_count"] += 1
+
+            elif self.ROMAN_PATTERN.match(text):
+
                 self.current.text += "\n" + text
 
             elif len(text.split()) < 3:

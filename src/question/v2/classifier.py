@@ -28,6 +28,14 @@ class QuestionClassifier:
                 option_pattern.findall(text)
             )
 
+            option_count = max(
+                option_count,
+                q.metadata.get(
+                    "option_count",
+                    0,
+                ),
+            )
+
             if (
                 "choose the correct" in text
                 or option_count >= 2
