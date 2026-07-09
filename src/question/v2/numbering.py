@@ -6,7 +6,8 @@ from src.question.v2.state import ParserState
 class NumberingDetector:
 
     QUESTION = re.compile(
-        r"^\s*(\d+)[.)]\s+"
+        r"^\s*((?:Q(?:uestion)?\s*)?\d+(?:\.\d+)?)[.)]?\s+",
+        re.IGNORECASE,
     )
 
     SUBQUESTION = re.compile(
@@ -29,9 +30,22 @@ class NumberingDetector:
         state: ParserState,
     ) -> ParserState:
 
+
+        if re.match(r"^\s*\([A-D]\)", text, re.I):
+            return state
+
         if m := self.QUESTION.match(text):
 
-            state.question_number = m.group(1)
+
+            number = m.group(1)
+
+            number = re.sub(
+                r"(?i)^question\s*",
+                "",
+                number,
+            )
+
+            state.question_number = number
 
             state.subquestion = None
 
