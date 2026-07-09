@@ -1,0 +1,3467 @@
+========================================================================================================================
+src/evaluation
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/__init__.py
+------------------------------------------------------------------------------------------------------------------------
+from .aligner import *
+from .batch_runner import *
+from .benchmark import *
+from .benchmark_runner import *
+from .boundary import *
+from .chapter_metrics import *
+from .confusion_matrix import *
+from .csv_report import *
+from .dataset_converter import *
+from .dataset_integrity import *
+from .dataset_manifest import *
+from .error_analyzer import *
+from .exercise_metrics import *
+from .gold_dataset import *
+from .gold_loader import *
+from .gold_validator import *
+from .html_report import *
+from .json_report import *
+from .metrics import *
+from .metrics_engine import *
+from .ocr_metrics import *
+from .question_metrics import *
+from .regression import *
+from .report_writer import *
+from .runner import *
+from .statistics import *
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/aligner.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+from difflib import SequenceMatcher
+
+from src.document.question import Question
+from src.evaluation.boundary import BoundaryMetrics
+from src.evaluation.question_metrics import QuestionMetrics
+
+
+def _normalize(text: str) -> str:
+    return " ".join((text or "").strip().lower().split())
+
+
+@dataclass(slots=True)
+class AlignmentResult:
+    question_metrics: QuestionMetrics
+    boundary_metrics: BoundaryMetrics
+    exact_question_matches: int
+    matched_pairs: list[tuple[Question, object]]
+
+
+class AlignmentEngine:
+    def __init__(self, similarity_threshold: float = 0.92):
+        self.similarity_threshold = similarity_threshold
+
+    def _score(self, a: str, b: str) -> float:
+        return SequenceMatcher(None, _normalize(a), _normalize(b)).ratio()
+
+    def _same_boundary(self, p: Question, g: object) -> bool:
+        return (
+            getattr(p, "chapter", None) == getattr(g, "chapter", None)
+            and getattr(p, "exercise", None) == getattr(g, "exercise", None)
+            and getattr(p, "question_number", None) == getattr(g, "question_number", None)
+        )
+
+    def align(self, predicted: list[Question], gold: list[object]) -> AlignmentResult:
+        matched_pairs: list[tuple[Question, object]] = []
+        used_gold: set[int] = set()
+        exact_matches = 0
+        boundary_matches = 0
+
+        for p in predicted:
+            best_idx = None
+            best_score = 0.0
+            for i, g in enumerate(gold):
+                if i in used_gold:
+                    continue
+                score = self._score(p.question_text, getattr(g, "question_text", ""))
+                if score > best_score:
+                    best_score = score
+                    best_idx = i
+            if best_idx is not None and best_score >= self.similarity_threshold:
+                used_gold.add(best_idx)
+                g = gold[best_idx]
+                matched_pairs.append((p, g))
+                if _normalize(p.question_text) == _normalize(getattr(g, "question_text", "")):
+                    exact_matches += 1
+                    boundary_matches += 1
+                elif self._same_boundary(p, g):
+                    boundary_matches += 1
+
+        qm = QuestionMetrics(
+            total_predicted=len(predicted),
+            total_gold=len(gold),
+            matched=len(matched_pairs),
+            exact_matches=exact_matches,
+        )
+        bm = BoundaryMetrics(
+            exact_match=exact_matches,
+            boundary_match=boundary_matches,
+            total=min(len(predicted), len(gold)),
+        )
+        return AlignmentResult(
+            question_metrics=qm,
+            boundary_metrics=bm,
+            exact_question_matches=exact_matches,
+            matched_pairs=matched_pairs,
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/batch_runner.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+
+from src.evaluation.runner import EvaluationRunner
+
+
+class BatchEvaluationRunner:
+
+    def run(
+
+        self,
+
+        datasets,
+
+        output,
+
+    ):
+
+        output=Path(output)
+
+        output.mkdir(
+
+            parents=True,
+
+            exist_ok=True,
+
+        )
+
+        results=[]
+
+        runner=EvaluationRunner()
+
+        for pred,gold,name in datasets:
+
+            report=runner.run(
+
+                pred,
+
+                gold,
+
+                output/name,
+
+            )
+
+            results.append(
+
+                (
+
+                    name,
+
+                    report,
+
+                )
+
+            )
+
+        return results
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/benchmark.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import asdict
+from pathlib import Path
+from typing import Any
+
+from src.document.question import Question
+from src.evaluation.aligner import AlignmentEngine
+from src.evaluation.error_analyzer import ErrorAnalyzer
+from src.evaluation.gold_loader import GoldDatasetLoader
+from src.evaluation.json_report import JSONEvaluationReport
+
+
+class EvaluationBenchmark:
+    def __init__(self, similarity_threshold: float = 0.92):
+        self.loader = GoldDatasetLoader()
+        self.aligner = AlignmentEngine(similarity_threshold=similarity_threshold)
+        self.errors = ErrorAnalyzer()
+        self.report = JSONEvaluationReport()
+
+    def load_gold(self, path: str | Path):
+        return self.loader.load(path)
+
+    def _sample_to_dict(self, sample: object) -> dict[str, Any]:
+        if hasattr(sample, "__dict__"):
+            return dict(sample.__dict__)
+        if hasattr(sample, "_asdict"):
+            return dict(sample._asdict())
+        try:
+            return dict(sample)
+        except Exception:
+            return {"value": str(sample)}
+
+    def evaluate(self, predicted: list[Question], gold: list[object]) -> dict[str, Any]:
+        alignment = self.aligner.align(predicted, gold)
+        error_summary = self.errors.analyze(predicted, gold, alignment.matched_pairs)
+
+        return {
+            "question_metrics": alignment.question_metrics.to_dict(),
+            "boundary_metrics": alignment.boundary_metrics.to_dict(),
+            "error_summary": {
+                "false_positive_count": len(error_summary.false_positives),
+                "false_negative_count": len(error_summary.false_negatives),
+                "top_error_tags": error_summary.top_error_tags,
+            },
+            "matched_pairs": [
+                {
+                    "predicted": asdict(p),
+                    "gold": self._sample_to_dict(g),
+                }
+                for p, g in alignment.matched_pairs
+            ],
+        }
+
+    def save_report(self, report: dict[str, Any], output_path: str | Path) -> Path:
+        return self.report.save(report, output_path)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/benchmark_runner.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+
+from src.evaluation.runner import EvaluationRunner
+
+
+class BenchmarkRunner:
+
+    def run(
+
+        self,
+
+        predicted,
+
+        gold,
+
+        output,
+
+    ):
+
+        output = Path(output)
+
+        output.mkdir(
+
+            parents=True,
+
+            exist_ok=True,
+
+        )
+
+        report = EvaluationRunner().run(
+
+            predicted,
+
+            gold,
+
+            output,
+
+        )
+
+        return report
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/boundary.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class BoundaryMetrics:
+    exact_match: int = 0
+    boundary_match: int = 0
+    total: int = 0
+
+    @property
+    def exact_match_accuracy(self) -> float:
+        return 0.0 if self.total == 0 else self.exact_match / self.total
+
+    @property
+    def boundary_accuracy(self) -> float:
+        return 0.0 if self.total == 0 else self.boundary_match / self.total
+
+    def to_dict(self) -> dict:
+        return {
+            "exact_match": self.exact_match,
+            "boundary_match": self.boundary_match,
+            "total": self.total,
+            "exact_match_accuracy": round(self.exact_match_accuracy, 6),
+            "boundary_accuracy": round(self.boundary_accuracy, 6),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/chapter_metrics.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class ChapterMetrics:
+    total_predicted: int = 0
+    total_gold: int = 0
+    matched: int = 0
+
+    @property
+    def accuracy(self) -> float:
+        return 0.0 if self.total_gold == 0 else self.matched / self.total_gold
+
+    def to_dict(self) -> dict:
+        return {
+            "total_predicted": self.total_predicted,
+            "total_gold": self.total_gold,
+            "matched": self.matched,
+            "accuracy": round(self.accuracy, 6),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/confusion_matrix.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from collections import defaultdict
+
+
+class ConfusionMatrix:
+
+    def build(self, gold, predicted):
+
+        matrix = defaultdict(lambda: defaultdict(int))
+
+        matched = min(len(gold), len(predicted))
+
+        for i in range(matched):
+
+            g = getattr(
+                gold[i],
+                "question_type",
+                "unknown",
+            )
+
+            p = getattr(
+                predicted[i],
+                "question_type",
+                "unknown",
+            )
+
+            matrix[g][p] += 1
+
+        return {
+            k: dict(v)
+            for k, v in matrix.items()
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/csv_report.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+import csv
+
+
+class CSVEvaluationReport:
+
+    def save(
+
+        self,
+
+        report,
+
+        path,
+
+    ):
+
+        path = Path(path)
+
+        path.parent.mkdir(
+
+            parents=True,
+
+            exist_ok=True,
+
+        )
+
+        with path.open(
+
+            "w",
+
+            newline="",
+
+            encoding="utf-8",
+
+        ) as f:
+
+            w = csv.writer(f)
+
+            w.writerow(
+
+                [
+
+                    "metric",
+
+                    "value",
+
+                ]
+
+            )
+
+            for section, values in report.items():
+
+                if not isinstance(values, dict):
+
+                    continue
+
+                for k, v in values.items():
+
+                    w.writerow(
+
+                        [
+
+                            f"{section}.{k}",
+
+                            v,
+
+                        ]
+
+                    )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/dataset_converter.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+import json
+import csv
+from pathlib import Path
+
+
+class DatasetConverter:
+
+    def json_to_jsonl(
+
+        self,
+
+        src,
+
+        dst,
+
+    ):
+
+        rows=json.loads(
+
+            Path(src).read_text(
+
+                encoding="utf-8"
+
+            )
+
+        )
+
+        with open(
+
+            dst,
+
+            "w",
+
+            encoding="utf-8",
+
+        ) as f:
+
+            for r in rows:
+
+                f.write(
+
+                    json.dumps(
+
+                        r,
+
+                        ensure_ascii=False,
+
+                    )
+
+                )
+
+                f.write("\\n")
+
+
+    def csv_to_json(
+
+        self,
+
+        src,
+
+        dst,
+
+    ):
+
+        rows=[]
+
+        with open(
+
+            src,
+
+            newline="",
+
+            encoding="utf-8",
+
+        ) as f:
+
+            for row in csv.DictReader(f):
+
+                rows.append(row)
+
+        Path(dst).write_text(
+
+            json.dumps(
+
+                rows,
+
+                indent=2,
+
+                ensure_ascii=False,
+
+            ),
+
+            encoding="utf-8",
+
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/dataset_integrity.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from hashlib import sha256
+
+
+class DatasetIntegrity:
+
+    def duplicates(
+
+        self,
+
+        rows,
+
+    ):
+
+        seen={}
+
+        dup=[]
+
+        for r in rows:
+
+            h=sha256(
+
+                " ".join(
+
+                    r["question_text"].lower().split()
+
+                ).encode()
+
+            ).hexdigest()
+
+            if h in seen:
+
+                dup.append(r)
+
+            else:
+
+                seen[h]=1
+
+        return dup
+
+    def statistics(
+
+        self,
+
+        rows,
+
+    ):
+
+        return {
+
+            "questions":len(rows),
+
+            "duplicates":len(
+
+                self.duplicates(rows)
+
+            ),
+
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/dataset_manifest.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from pathlib import Path
+from hashlib import sha256
+import json
+
+
+@dataclass(slots=True)
+class DatasetManifest:
+
+    dataset_name: str
+
+    version: str
+
+    total_questions: int
+
+    books: list[str]
+
+    files: list[str]
+
+    sha256: str = ""
+
+    metadata: dict = field(default_factory=dict)
+
+    def compute(self):
+
+        payload = json.dumps(
+            {
+                "dataset_name": self.dataset_name,
+                "version": self.version,
+                "total_questions": self.total_questions,
+                "books": self.books,
+                "files": self.files,
+            },
+            sort_keys=True,
+        )
+
+        self.sha256 = sha256(
+            payload.encode()
+        ).hexdigest()
+
+        return self
+
+    def save(self,path):
+
+        self.compute()
+
+        Path(path).write_text(
+            json.dumps(
+                self.__dict__,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/error_analyzer.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+from collections import Counter
+
+from src.document.question import Question
+
+
+@dataclass(slots=True)
+class ErrorSummary:
+    false_positives: list[Question]
+    false_negatives: list[object]
+    top_error_tags: list[tuple[str, int]]
+
+
+class ErrorAnalyzer:
+    def analyze(
+        self,
+        predicted: list[Question],
+        gold: list[object],
+        matched_pairs: list[tuple[Question, object]],
+    ) -> ErrorSummary:
+        matched_pred_ids = {id(p) for p, _ in matched_pairs}
+        matched_gold_ids = {id(g) for _, g in matched_pairs}
+
+        false_positives = [p for p in predicted if id(p) not in matched_pred_ids]
+        false_negatives = [g for g in gold if id(g) not in matched_gold_ids]
+
+        tags = Counter()
+        for p in false_positives:
+            tags["unmatched_prediction"] += 1
+            if len((p.question_text or "").split()) < 5:
+                tags["too_short"] += 1
+            if not getattr(p, "chapter", None):
+                tags["missing_chapter"] += 1
+
+        for g in false_negatives:
+            tags["missed_gold"] += 1
+            if not getattr(g, "chapter", None):
+                tags["gold_missing_chapter"] += 1
+
+        return ErrorSummary(
+            false_positives=false_positives,
+            false_negatives=false_negatives,
+            top_error_tags=tags.most_common(),
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/exercise_metrics.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class ExerciseMetrics:
+    total_predicted: int = 0
+    total_gold: int = 0
+    matched: int = 0
+
+    @property
+    def accuracy(self) -> float:
+        return 0.0 if self.total_gold == 0 else self.matched / self.total_gold
+
+    def to_dict(self) -> dict:
+        return {
+            "total_predicted": self.total_predicted,
+            "total_gold": self.total_gold,
+            "matched": self.matched,
+            "accuracy": round(self.accuracy, 6),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/gold_dataset.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+
+from .gold_loader import GoldDatasetLoader
+from .gold_validator import GoldDatasetValidator
+from .dataset_converter import DatasetConverter
+from .dataset_manifest import DatasetManifest
+from .dataset_integrity import DatasetIntegrity
+
+
+class GoldDataset:
+
+    def __init__(self):
+
+        self.loader = GoldDatasetLoader()
+
+        self.validator = GoldDatasetValidator()
+
+        self.converter = DatasetConverter()
+
+        self.integrity = DatasetIntegrity()
+
+    def load(
+
+        self,
+
+        path,
+
+    ):
+
+        return self.loader.load(path)
+
+    def validate(
+
+        self,
+
+        rows,
+
+    ):
+
+        return self.validator.validate(rows)
+
+    def manifest(
+
+        self,
+
+        rows,
+
+        name="gold",
+
+        version="1.0",
+
+    ):
+
+        return DatasetManifest(
+
+            dataset_name=name,
+
+            version=version,
+
+            total_questions=len(rows),
+
+            books=[],
+
+            files=[],
+
+        ).compute()
+
+    def statistics(
+
+        self,
+
+        rows,
+
+    ):
+
+        return self.integrity.statistics(rows)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/gold_loader.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Any
+import csv
+import json
+
+
+@dataclass(slots=True)
+class GoldSample:
+    question_id: str
+    question_text: str
+    chapter: str | None = None
+    exercise: str | None = None
+    question_number: str | None = None
+    question_type: str | None = None
+    source_book: str | None = None
+    source_page: int | None = None
+    metadata: dict[str, Any] | None = None
+
+
+class GoldDatasetLoader:
+    def load(self, path: str | Path) -> list[GoldSample]:
+        path = Path(path)
+        suffix = path.suffix.lower()
+        if suffix in {".json", ".jsonl"}:
+            return self._load_json_or_jsonl(path)
+        if suffix == ".csv":
+            return self._load_csv(path)
+        raise ValueError(f"Unsupported gold dataset format: {path.suffix}")
+
+    def _load_json_or_jsonl(self, path: Path) -> list[GoldSample]:
+        text = path.read_text(encoding="utf-8").strip()
+        if not text:
+            return []
+        if text.startswith("["):
+            rows = json.loads(text)
+        else:
+            rows = [json.loads(line) for line in text.splitlines() if line.strip()]
+        return [self._row_to_sample(row) for row in rows]
+
+    def _load_csv(self, path: Path) -> list[GoldSample]:
+        with path.open("r", encoding="utf-8", newline="") as f:
+            reader = csv.DictReader(f)
+            return [self._row_to_sample(row) for row in reader]
+
+    def _row_to_sample(self, row: dict[str, Any]) -> GoldSample:
+        metadata = row.get("metadata")
+        if isinstance(metadata, str):
+            try:
+                metadata = json.loads(metadata)
+            except Exception:
+                metadata = None
+        return GoldSample(
+            question_id=str(row.get("question_id", "")).strip(),
+            question_text=str(row.get("question_text") or row.get("text") or "").strip(),
+            chapter=(row.get("chapter") or None),
+            exercise=(row.get("exercise") or None),
+            question_number=(row.get("question_number") or None),
+            question_type=(row.get("question_type") or None),
+            source_book=(row.get("source_book") or None),
+            source_page=self._to_int(row.get("source_page")),
+            metadata=metadata if isinstance(metadata, dict) else None,
+        )
+
+    def _to_int(self, value: Any) -> int | None:
+        if value is None or value == "":
+            return None
+        try:
+            return int(value)
+        except Exception:
+            return None
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/gold_validator.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+
+REQUIRED = (
+
+    "question_text",
+
+    "chapter",
+
+    "exercise",
+
+    "question_number",
+
+)
+
+
+class GoldDatasetValidator:
+
+    def validate(self,data):
+
+        errors=[]
+
+        for i,row in enumerate(data):
+
+            for key in REQUIRED:
+
+                if not row.get(key):
+
+                    errors.append(
+
+                        f"{i}: missing {key}"
+
+                    )
+
+        return (
+
+            len(errors)==0,
+
+            errors,
+
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/html_report.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+from typing import Any
+import html
+
+
+class HTMLEvaluationReport:
+
+    def save(
+        self,
+        report: dict[str, Any],
+        output_path: str | Path,
+    ) -> Path:
+
+        output_path = Path(output_path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        rows = []
+
+        for k, v in report.items():
+
+            if isinstance(v, dict):
+
+                rows.append(
+                    f"<h2>{html.escape(k)}</h2>"
+                )
+
+                rows.append("<table>")
+
+                for kk, vv in v.items():
+
+                    rows.append(
+                        f"<tr><td>{html.escape(str(kk))}</td><td>{html.escape(str(vv))}</td></tr>"
+                    )
+
+                rows.append("</table>")
+
+            else:
+
+                rows.append(
+                    f"<p><b>{html.escape(k)}</b>: {html.escape(str(v))}</p>"
+                )
+
+        page = f"""
+<html>
+<head>
+<meta charset="utf-8">
+<title>Evaluation Report</title>
+<style>
+body {{
+font-family: Arial;
+margin:40px;
+}}
+table {{
+border-collapse:collapse;
+}}
+td {{
+border:1px solid #999;
+padding:6px 10px;
+}}
+</style>
+</head>
+<body>
+
+<h1>Extractor-Pro Evaluation Report</h1>
+
+{''.join(rows)}
+
+</body>
+</html>
+"""
+
+        output_path.write_text(
+            page,
+            encoding="utf-8",
+        )
+
+        return output_path
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/json_report.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+import json
+from typing import Any
+
+
+class JSONEvaluationReport:
+    def save(self, report: dict[str, Any], output_path: str | Path) -> Path:
+        output_path = Path(output_path)
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_text(
+            json.dumps(report, indent=2, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        return output_path
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/metrics.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class EvaluationMetrics:
+    true_positive: int = 0
+    false_positive: int = 0
+    false_negative: int = 0
+
+    @property
+    def precision(self) -> float:
+        denom = self.true_positive + self.false_positive
+        return 0.0 if denom == 0 else self.true_positive / denom
+
+    @property
+    def recall(self) -> float:
+        denom = self.true_positive + self.false_negative
+        return 0.0 if denom == 0 else self.true_positive / denom
+
+    @property
+    def f1(self) -> float:
+        p = self.precision
+        r = self.recall
+        return 0.0 if (p + r) == 0 else 2.0 * p * r / (p + r)
+
+    @property
+    def accuracy(self) -> float:
+        denom = self.true_positive + self.false_positive + self.false_negative
+        return 0.0 if denom == 0 else self.true_positive / denom
+
+    def to_dict(self) -> dict:
+        return {
+            "true_positive": self.true_positive,
+            "false_positive": self.false_positive,
+            "false_negative": self.false_negative,
+            "precision": round(self.precision, 6),
+            "recall": round(self.recall, 6),
+            "f1": round(self.f1, 6),
+            "accuracy": round(self.accuracy, 6),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/metrics_engine.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from .question_metrics import QuestionMetrics
+from .boundary import BoundaryMetrics
+from .chapter_metrics import ChapterMetrics
+from .exercise_metrics import ExerciseMetrics
+from .ocr_metrics import OCRMetrics
+
+
+class MetricsEngine:
+
+    def compute(
+
+        self,
+
+        alignment,
+
+    ):
+
+        return {
+
+            "question_metrics":
+
+                alignment.question_metrics.to_dict(),
+
+            "boundary_metrics":
+
+                alignment.boundary_metrics.to_dict(),
+
+        }
+
+    def empty(self):
+
+        return {
+
+            "question_metrics":
+
+                QuestionMetrics().to_dict(),
+
+            "boundary_metrics":
+
+                BoundaryMetrics().to_dict(),
+
+            "chapter_metrics":
+
+                ChapterMetrics().to_dict(),
+
+            "exercise_metrics":
+
+                ExerciseMetrics().to_dict(),
+
+            "ocr_metrics":
+
+                OCRMetrics().to_dict(),
+
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/ocr_metrics.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class OCRMetrics:
+    character_errors: int = 0
+    character_total: int = 0
+    word_errors: int = 0
+    word_total: int = 0
+
+    @property
+    def cer(self) -> float:
+        return 0.0 if self.character_total == 0 else self.character_errors / self.character_total
+
+    @property
+    def wer(self) -> float:
+        return 0.0 if self.word_total == 0 else self.word_errors / self.word_total
+
+    def to_dict(self) -> dict:
+        return {
+            "character_errors": self.character_errors,
+            "character_total": self.character_total,
+            "word_errors": self.word_errors,
+            "word_total": self.word_total,
+            "cer": round(self.cer, 6),
+            "wer": round(self.wer, 6),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/question_metrics.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class QuestionMetrics:
+    total_predicted: int = 0
+    total_gold: int = 0
+    matched: int = 0
+    exact_matches: int = 0
+
+    @property
+    def precision(self) -> float:
+        return 0.0 if self.total_predicted == 0 else self.matched / self.total_predicted
+
+    @property
+    def recall(self) -> float:
+        return 0.0 if self.total_gold == 0 else self.matched / self.total_gold
+
+    @property
+    def f1(self) -> float:
+        p = self.precision
+        r = self.recall
+        return 0.0 if (p + r) == 0 else 2.0 * p * r / (p + r)
+
+    @property
+    def exact_match_accuracy(self) -> float:
+        return 0.0 if self.total_gold == 0 else self.exact_matches / self.total_gold
+
+    def to_dict(self) -> dict:
+        return {
+            "total_predicted": self.total_predicted,
+            "total_gold": self.total_gold,
+            "matched": self.matched,
+            "exact_matches": self.exact_matches,
+            "precision": round(self.precision, 6),
+            "recall": round(self.recall, 6),
+            "f1": round(self.f1, 6),
+            "exact_match_accuracy": round(self.exact_match_accuracy, 6),
+        }
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/regression.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass
+from pathlib import Path
+import json
+
+
+@dataclass(slots=True)
+class RegressionResult:
+
+    passed: bool
+
+    deltas: dict
+
+
+class RegressionComparator:
+
+    IMPORTANT = (
+        "precision",
+        "recall",
+        "f1",
+        "accuracy",
+    )
+
+    def compare(
+        self,
+        baseline: dict,
+        current: dict,
+    ) -> RegressionResult:
+
+        delta = {}
+
+        passed = True
+
+        for key in self.IMPORTANT:
+
+            b = float(
+                baseline.get(key, 0)
+            )
+
+            c = float(
+                current.get(key, 0)
+            )
+
+            delta[key] = round(
+                c - b,
+                6,
+            )
+
+            if c < b:
+
+                passed = False
+
+        return RegressionResult(
+            passed=passed,
+            deltas=delta,
+        )
+
+    def save(
+        self,
+        result: RegressionResult,
+        path: str | Path,
+    ):
+
+        Path(path).write_text(
+
+            json.dumps(
+                {
+                    "passed": result.passed,
+                    "deltas": result.deltas,
+                },
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/report_writer.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from pathlib import Path
+from typing import Any
+
+from .json_report import JSONEvaluationReport
+from .html_report import HTMLEvaluationReport
+from .csv_report import CSVEvaluationReport
+
+
+class ReportWriter:
+
+    def __init__(self):
+
+        self.json = JSONEvaluationReport()
+
+        self.html = HTMLEvaluationReport()
+
+        self.csv = CSVEvaluationReport()
+
+    def write_all(
+
+        self,
+
+        report: dict[str, Any],
+
+        output_dir: str | Path,
+
+    ) -> None:
+
+        output_dir = Path(output_dir)
+
+        output_dir.mkdir(
+
+            parents=True,
+
+            exist_ok=True,
+
+        )
+
+        self.json.save(
+
+            report,
+
+            output_dir / "evaluation.json",
+
+        )
+
+        self.html.save(
+
+            report,
+
+            output_dir / "evaluation.html",
+
+        )
+
+        self.csv.save(
+
+            report,
+
+            output_dir / "evaluation.csv",
+
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/runner.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from .gold_dataset import GoldDataset
+from .aligner import AlignmentEngine
+from .metrics_engine import MetricsEngine
+from .error_analyzer import ErrorAnalyzer
+from .report_writer import ReportWriter
+
+
+class EvaluationRunner:
+
+    def __init__(self):
+
+        self.gold = GoldDataset()
+
+        self.aligner = AlignmentEngine()
+
+        self.metrics = MetricsEngine()
+
+        self.errors = ErrorAnalyzer()
+
+        self.writer = ReportWriter()
+
+    def run(
+
+        self,
+
+        predicted,
+
+        gold_path,
+
+        output_dir,
+
+    ):
+
+        gold = self.gold.load(
+
+            gold_path,
+
+        )
+
+        ok, errors = self.gold.validate(
+
+            [
+
+                g.__dict__
+
+                if hasattr(g,"__dict__")
+
+                else {}
+
+                for g in gold
+
+            ]
+
+        )
+
+        if not ok:
+
+            raise RuntimeError(
+
+                "\\n".join(errors)
+
+            )
+
+        alignment = self.aligner.align(
+
+            predicted,
+
+            gold,
+
+        )
+
+        report = self.metrics.compute(
+
+            alignment,
+
+        )
+
+        analysis = self.errors.analyze(
+
+            predicted,
+
+            gold,
+
+            alignment.matched_pairs,
+
+        )
+
+        report["errors"] = {
+
+            "false_positive":
+
+                len(
+
+                    analysis.false_positives
+
+                ),
+
+            "false_negative":
+
+                len(
+
+                    analysis.false_negatives
+
+                ),
+
+            "tags":
+
+                analysis.top_error_tags,
+
+        }
+
+        self.writer.write_all(
+
+            report,
+
+            output_dir,
+
+        )
+
+        return report
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/evaluation/statistics.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from statistics import mean
+
+
+class EvaluationStatistics:
+
+    def summary(self, report):
+
+        qm = report["question_metrics"]
+
+        return {
+
+            "precision": qm["precision"],
+
+            "recall": qm["recall"],
+
+            "f1": qm["f1"],
+
+            "exact_match": qm["exact_match_accuracy"],
+
+            "macro_average": round(
+
+                mean(
+
+                    [
+
+                        qm["precision"],
+
+                        qm["recall"],
+
+                        qm["f1"],
+
+                    ]
+
+                ),
+
+                6,
+
+            ),
+
+        }
+
+
+========================================================================================================================
+src/pipeline
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/batch_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from concurrent.futures import ProcessPoolExecutor
+
+from src.extractor.extractor import Extractor
+
+
+class BatchPipeline:
+
+    def __init__(self, workers=8):
+
+        self.workers = workers
+
+    @staticmethod
+    def _run(job):
+
+        pdf, output = job
+
+        return Extractor().extract(
+            pdf_path=pdf,
+            output_dir=output,
+        )
+
+    def run(self, pdfs, output_dir):
+
+        jobs = [
+            (pdf, output_dir)
+            for pdf in pdfs
+        ]
+
+        with ProcessPoolExecutor(
+            max_workers=self.workers
+        ) as executor:
+
+            return list(
+                executor.map(
+                    self._run,
+                    jobs,
+                )
+            )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/dataset_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from src.dataset.builder import DatasetBuilder
+
+
+class DatasetPipeline:
+
+    def __init__(self):
+
+        self.builder = DatasetBuilder()
+
+    def run(self, questions):
+
+        self.builder.extend(questions)
+
+        return self.builder.build()
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/document_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from pathlib import Path
+
+from src.pdf.pdf_renderer import PDFRenderer
+from src.pipeline.layout_pipeline import LayoutPipeline
+from src.pipeline.question_pipeline import QuestionPipeline
+from src.pipeline.validation_pipeline import ValidationPipeline
+from src.document.builder import DocumentBuilder
+from src.dataset.builder import DatasetBuilder
+
+
+class DocumentPipeline:
+
+    def __init__(self):
+
+        self.renderer = PDFRenderer()
+        self.layout = LayoutPipeline()
+        self.question_pipeline = QuestionPipeline()
+        self.validation = ValidationPipeline()
+        self.dataset = DatasetBuilder()
+
+    def run(self, pdf_path, output_dir):
+
+        output_dir = Path(output_dir)
+
+        pages = self.renderer.render(
+            pdf_path,
+            output_dir / "render",
+        )
+
+        for page_no, image_path in enumerate(
+            pages,
+            start=1,
+        ):
+
+            page_dir = output_dir / f"page_{page_no:03d}"
+
+            regions = self.layout.run(
+                image_path=image_path,
+                output_dir=str(page_dir),
+                page=page_no,
+            )
+
+            document = DocumentBuilder.build(regions)
+
+            questions = self.question_pipeline.run(
+                document
+            )
+
+            questions = self.validation.run(
+                questions
+            )
+
+            self.dataset.extend(
+                questions
+            )
+
+        return self.dataset.build()
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/export_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+import json
+from pathlib import Path
+
+
+class ExportPipeline:
+
+    def export_json(
+        self,
+        dataset,
+        output_path,
+    ):
+
+        output_path = Path(output_path)
+
+        output_path.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        with open(
+            output_path,
+            "w",
+            encoding="utf-8",
+        ) as f:
+
+            json.dump(
+                dataset,
+                f,
+                indent=2,
+                ensure_ascii=False,
+            )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/hpc_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+import os
+import subprocess
+from pathlib import Path
+
+
+class HPCPipeline:
+
+    def submit(self, pdf, output_dir):
+
+        script = Path(output_dir) / "job.sh"
+
+        script.write_text(
+f"""#!/bin/bash
+#PBS -N extractor
+#PBS -l select=1:ncpus=16:ngpus=1
+#PBS -l walltime=08:00:00
+
+cd {os.getcwd()}
+
+python -m src.cli extract "{pdf}" -o "{output_dir}"
+"""
+        )
+
+        subprocess.run(
+            ["qsub", str(script)],
+            check=True,
+        )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/layout_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from pathlib import Path
+
+from src.crop.cropper import Cropper
+from src.io.json_writer import JSONWriter
+from src.layout.doclayout_yolo import DocLayoutYOLO
+from src.layout.filter import LayoutFilter
+from src.layout.layout_parser import LayoutParser
+from src.ocr.factory import OCRFactory
+from src.reading_order.sorter import ReadingOrderSorter   # <-- added
+from src.schema.region import Region
+
+
+class LayoutPipeline:
+
+    def __init__(self):
+        self.detector = DocLayoutYOLO()
+        self.parser = LayoutParser()
+        self.filter = LayoutFilter()
+        self.cropper = Cropper()
+
+    def run(self, image_path: str, output_dir: str, page: int = 1):
+        output_dir = Path(output_dir)
+        output_dir.mkdir(parents=True, exist_ok=True)
+
+        results = self.detector.detect(image_path)
+
+        boxes = self.parser.parse(results[0])
+        boxes = self.filter.filter(boxes)
+
+        regions = []
+
+        for i, box in enumerate(boxes):
+            img = self.cropper.crop(image_path, box)
+
+            label = box.label.replace(" ", "_")
+
+            filename = f"{i:03d}_{label}_{box.confidence:.2f}.png"
+
+            save_path = output_dir / filename
+
+            img.save(save_path)
+
+            ocr = OCRFactory.get(label)
+
+            text = ocr.recognize(str(save_path))
+
+            region = Region(
+                page=page,
+                label=label,
+                confidence=box.confidence,
+                x1=box.x1,
+                y1=box.y1,
+                x2=box.x2,
+                y2=box.y2,
+                image_path=str(save_path),
+                text=text,
+            )
+
+            JSONWriter.write(region)
+
+            regions.append(region)
+
+        # Sort regions by reading order before returning
+        regions = ReadingOrderSorter.sort(regions)   # <-- added
+        return regions
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/master_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from src.extractor.extractor import Extractor
+from src.dataset.master_dataset import MasterDataset
+from src.pipeline.batch_pipeline import BatchPipeline  # new import
+
+
+class MasterPipeline:
+
+    def __init__(self):
+
+        self.extractor = Extractor()
+
+        self.dataset = MasterDataset()
+
+    def run(self, pdfs, output_dir):
+
+        # Run batch processing on all PDFs
+        results = BatchPipeline().run(
+            pdfs,
+            output_dir,
+        )
+
+        # Add all results to the master dataset
+        for questions in results:
+            self.dataset.add(questions)
+
+        return self.dataset.export(output_dir)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/question_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from src.question.extractor import QuestionExtractor
+from src.question.parser import QuestionParser
+from src.question.classifier import QuestionClassifier
+from src.question.normalizer import QuestionNormalizer
+from src.question.deduplicator import QuestionDeduplicator
+
+
+class QuestionPipeline:
+
+    def __init__(self):
+
+        self.extractor = QuestionExtractor()
+        self.parser = QuestionParser()
+        self.classifier = QuestionClassifier()
+        self.normalizer = QuestionNormalizer()
+        self.deduplicator = QuestionDeduplicator()
+
+    def run(self, document):
+
+        questions = self.extractor.extract(document)
+
+        questions = self.parser.parse(questions)
+
+        questions = self.classifier.classify(questions)
+
+        questions = self.normalizer.normalize(questions)
+
+        questions = self.deduplicator.deduplicate(questions)
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/scheduler.py
+------------------------------------------------------------------------------------------------------------------------
+from src.pipeline.hpc_pipeline import HPCPipeline
+
+
+class Scheduler:
+
+    def run(self, pdfs, output_dir):
+
+        hpc = HPCPipeline()
+
+        for pdf in pdfs:
+
+            hpc.submit(
+                pdf,
+                output_dir,
+            )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/pipeline/validation_pipeline.py
+------------------------------------------------------------------------------------------------------------------------
+from src.validator.question_validator import QuestionValidator
+
+
+class ValidationPipeline:
+
+    def __init__(self):
+
+        self.validator = QuestionValidator()
+
+    def run(self, questions):
+
+        return self.validator.validate_many(
+            questions
+        )
+
+
+========================================================================================================================
+src/question
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/__init__.py
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/classifier.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.question import Question
+
+
+class QuestionClassifier:
+
+    def classify(self, questions: list[Question]) -> list[Question]:
+
+        for q in questions:
+
+            text = q.question_text.lower()
+
+            if "prove" in text:
+                q.question_type = "proof"
+
+            elif "find" in text:
+                q.question_type = "numerical"
+
+            elif "verify" in text:
+                q.question_type = "verification"
+
+            elif "construct" in text:
+                q.question_type = "construction"
+
+            else:
+                q.question_type = "general"
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/context.py
+------------------------------------------------------------------------------------------------------------------------
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class ExtractionContext:
+
+    chapter: str | None = None
+
+    chapter_number: int | None = None
+
+    exercise: str | None = None
+
+    page: int | None = None
+
+    section: str | None = None
+
+    block_type: str = "question"
+
+    source_book: str | None = None
+
+    class_name: int | None = None
+
+    def update(self, result):
+
+        if result.block_type == "chapter":
+            self.chapter = result.chapter
+
+        elif result.block_type == "exercise":
+            self.exercise = result.exercise
+
+        self.block_type = result.block_type
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/deduplicator.py
+------------------------------------------------------------------------------------------------------------------------
+from hashlib import sha256
+
+from src.document.question import Question
+
+
+class QuestionDeduplicator:
+
+    def deduplicate(
+        self,
+        questions: list[Question],
+    ) -> list[Question]:
+
+        seen = set()
+
+        unique = []
+
+        for q in questions:
+
+            key = sha256(
+                " ".join(
+                    q.question_text.lower().split()
+                ).encode("utf-8")
+            ).hexdigest()
+
+            if key in seen:
+                continue
+
+            seen.add(key)
+
+            q.sha256 = key
+
+            unique.append(q)
+
+        return unique
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/enricher.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.question import Question
+
+
+class QuestionEnricher:
+
+    def enrich(
+        self,
+        questions: list[Question],
+    ) -> list[Question]:
+
+        for q in questions:
+
+            if not q.difficulty:
+
+                words = len(q.question_text.split())
+
+                if words <= 15:
+                    q.difficulty = "easy"
+
+                elif words <= 40:
+                    q.difficulty = "medium"
+
+                else:
+                    q.difficulty = "hard"
+
+            if not q.metadata:
+
+                q.metadata = {}
+
+            q.metadata["has_answer"] = q.answer is not None
+
+            q.metadata["has_solution"] = (
+                q.solution is not None
+            )
+
+            q.metadata["word_count"] = len(
+                q.question_text.split()
+            )
+
+            q.metadata["character_count"] = len(
+                q.question_text
+            )
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/extractor.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.document import Document
+from src.document.question import Question
+
+from src.question.segmenter import QuestionSegmenter
+from src.question.merger import QuestionMerger
+from src.question.hierarchy import HierarchyBuilder
+from src.question.filters import QuestionFilter
+from src.question.enricher import QuestionEnricher
+from src.question.models import QuestionType
+from src.question.patterns import (
+    MCQ_PATTERN,
+    TRUE_FALSE_PATTERN,
+    ASSERTION_PATTERN,
+    FILL_PATTERN,
+    CASE_STUDY_PATTERN,
+    PROOF_PATTERN,
+    CONSTRUCTION_PATTERN,
+    HOTS_PATTERN,
+    ACTIVITY_PATTERN,
+)
+
+
+class QuestionExtractor:
+
+    def __init__(self):
+
+        self.segmenter = QuestionSegmenter()
+        self.merger = QuestionMerger()
+        self.hierarchy = HierarchyBuilder()
+        self.filter = QuestionFilter()
+        self.enricher = QuestionEnricher()
+
+    def _classify(self, text: str) -> QuestionType:
+
+        if MCQ_PATTERN.search(text):
+            return QuestionType.MCQ
+
+        if TRUE_FALSE_PATTERN.search(text):
+            return QuestionType.TRUE_FALSE
+
+        if ASSERTION_PATTERN.search(text):
+            return QuestionType.ASSERTION_REASON
+
+        if FILL_PATTERN.search(text):
+            return QuestionType.FILL
+
+        if CASE_STUDY_PATTERN.search(text):
+            return QuestionType.CASE_STUDY
+
+        if PROOF_PATTERN.search(text):
+            return QuestionType.PROOF
+
+        if CONSTRUCTION_PATTERN.search(text):
+            return QuestionType.CONSTRUCTION
+
+        if HOTS_PATTERN.search(text):
+            return QuestionType.HOTS
+
+        if ACTIVITY_PATTERN.search(text):
+            return QuestionType.ACTIVITY
+
+        return QuestionType.SHORT
+
+    def extract(self, document: Document) -> list[Question]:
+
+        for region in document.regions:
+            self.hierarchy.process(region)
+
+        candidates = self.segmenter.segment(document)
+        candidates = self.merger.merge(candidates)
+
+        questions = []
+
+        for c in candidates:
+
+            questions.append(
+                Question(
+                    question_text=c.text,
+                    chapter=c.context.chapter,
+                    exercise=c.context.exercise,
+                    question_number=c.number,
+                    question_type=self._classify(c.text).value,
+                    confidence=c.confidence,
+                )
+            )
+
+        questions = self.filter.apply(questions)
+        questions = self.enricher.enrich(questions)
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/filters.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+
+from src.document.question import Question
+
+
+class QuestionFilter:
+
+    MIN_LENGTH = 15
+
+    NOISE = (
+        "summary",
+        "historical note",
+        "contents",
+        "index",
+        "acknowledgement",
+    )
+
+    EQUATION_ONLY = re.compile(
+        r"^[\d\s+\-*/=().,^]+$"
+    )
+
+    def keep(self, question: Question) -> bool:
+
+        text = question.question_text.strip()
+
+        if len(text) < self.MIN_LENGTH:
+            return False
+
+        lower = text.lower()
+
+        if any(n in lower for n in self.NOISE):
+            return False
+
+        if self.EQUATION_ONLY.fullmatch(text):
+            return False
+
+        return True
+
+    def apply(
+        self,
+        questions: list[Question],
+    ) -> list[Question]:
+
+        return [
+            q
+            for q in questions
+            if self.keep(q)
+        ]
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/hierarchy.py
+------------------------------------------------------------------------------------------------------------------------
+from src.question.context import ExtractionContext
+from src.question.rules import RuleEngine
+
+
+class HierarchyBuilder:
+
+    def __init__(self):
+
+        self.rules = RuleEngine()
+
+        self.context = ExtractionContext()
+
+    def process(self, region):
+
+        if not region.text:
+            return self.context
+
+        result = self.rules.analyze(
+            region.text
+        )
+
+        self.context.page = region.page
+
+        self.context.update(result)
+
+        return self.context
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/merger.py
+------------------------------------------------------------------------------------------------------------------------
+from src.question.models import QuestionCandidate
+
+
+class QuestionMerger:
+
+    MIN_LENGTH = 25
+
+    def merge(
+        self,
+        questions: list[QuestionCandidate],
+    ) -> list[QuestionCandidate]:
+
+        if not questions:
+            return []
+
+        merged = []
+
+        current = questions[0]
+
+        for nxt in questions[1:]:
+
+            if (
+                len(current.text) < self.MIN_LENGTH
+                and current.context.chapter == nxt.context.chapter
+                and current.context.exercise == nxt.context.exercise
+            ):
+
+                current.text += "\n" + nxt.text
+
+                continue
+
+            merged.append(current)
+
+            current = nxt
+
+        merged.append(current)
+
+        return merged
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/models.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from enum import Enum
+
+
+class QuestionType(str, Enum):
+
+    UNKNOWN = "unknown"
+    MCQ = "mcq"
+    SHORT = "short"
+    LONG = "long"
+    FILL = "fill"
+    TRUE_FALSE = "true_false"
+    ASSERTION_REASON = "assertion_reason"
+    CASE_STUDY = "case_study"
+    PROOF = "proof"
+    CONSTRUCTION = "construction"
+    HOTS = "hots"
+    ACTIVITY = "activity"
+
+
+@dataclass(slots=True)
+class QuestionContext:
+
+    chapter: str | None = None
+
+    exercise: str | None = None
+
+    topic: str | None = None
+
+    subtopic: str | None = None
+
+    page: int | None = None
+
+
+@dataclass(slots=True)
+class QuestionCandidate:
+
+    number: str
+
+    text: str
+
+    qtype: QuestionType = QuestionType.UNKNOWN
+
+    context: QuestionContext = field(
+        default_factory=QuestionContext
+    )
+
+    confidence: float = 1.0
+
+    metadata: dict = field(
+        default_factory=dict
+    )
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/normalizer.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+
+from src.document.question import Question
+
+
+class QuestionNormalizer:
+
+    def normalize(self, questions: list[Question]) -> list[Question]:
+
+        for q in questions:
+
+            text = q.question_text
+
+            text = re.sub(r"\s+", " ", text)
+
+            text = text.replace(" ,", ",")
+
+            text = text.replace(" .", ".")
+
+            text = text.strip()
+
+            q.question_text = text
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/parser.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+
+from src.document.question import Question
+
+
+class QuestionParser:
+
+    QUESTION_PATTERN = re.compile(
+        r"^\s*(\d+)[\.\)]\s+",
+        re.MULTILINE,
+    )
+
+    def parse(self, questions: list[Question]) -> list[Question]:
+
+        for q in questions:
+
+            m = self.QUESTION_PATTERN.match(q.question_text)
+
+            if m:
+                q.question_number = m.group(1)
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/patterns.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+
+
+CHAPTER_PATTERN = re.compile(
+    r"^\s*chapter\s+(\d+)\s*[:.-]?\s*(.+)$",
+    re.IGNORECASE,
+)
+
+EXERCISE_PATTERN = re.compile(
+    r"^\s*exercise\s+(\d+(?:\.\d+)*)",
+    re.IGNORECASE,
+)
+
+QUESTION_PATTERN = re.compile(
+    r"^\s*(\d+)[.)]\s+(.+)$"
+)
+
+SUBQUESTION_PATTERN = re.compile(
+    r"^\s*\(([a-z])\)\s+(.+)$",
+    re.IGNORECASE,
+)
+
+MCQ_PATTERN = re.compile(
+    r"^\s*\([A-D]\)",
+    re.IGNORECASE,
+)
+
+TRUE_FALSE_PATTERN = re.compile(
+    r"\b(true|false)\b",
+    re.IGNORECASE,
+)
+
+ASSERTION_PATTERN = re.compile(
+    r"assertion|reason",
+    re.IGNORECASE,
+)
+
+FILL_PATTERN = re.compile(
+    r"_{3,}"
+)
+
+CASE_STUDY_PATTERN = re.compile(
+    r"case\s*study",
+    re.IGNORECASE,
+)
+
+PROOF_PATTERN = re.compile(
+    r"\bprove\b",
+    re.IGNORECASE,
+)
+
+CONSTRUCTION_PATTERN = re.compile(
+    r"\bconstruct\b",
+    re.IGNORECASE,
+)
+
+HOTS_PATTERN = re.compile(
+    r"\bhots\b|\bhigher order\b",
+    re.IGNORECASE,
+)
+
+ACTIVITY_PATTERN = re.compile(
+    r"\bactivity\b",
+    re.IGNORECASE,
+)
+
+EXAMPLE_PATTERN = re.compile(
+    r"\bexample\b",
+    re.IGNORECASE,
+)
+
+FIGURE_PATTERN = re.compile(
+    r"\bfig(?:ure)?\.?\s*\d+",
+    re.IGNORECASE,
+)
+
+TABLE_PATTERN = re.compile(
+    r"\btable\s*\d+",
+    re.IGNORECASE,
+)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/rules.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+from dataclasses import dataclass
+
+
+@dataclass(slots=True)
+class RuleResult:
+
+    skip: bool = False
+
+    block_type: str = "question"
+
+    chapter: str | None = None
+
+    exercise: str | None = None
+
+
+class RuleEngine:
+
+    CHAPTER = re.compile(
+        r"^\s*chapter\s+\d+",
+        re.IGNORECASE,
+    )
+
+    EXERCISE = re.compile(
+        r"^\s*exercise\s+\d+(\.\d+)*",
+        re.IGNORECASE,
+    )
+
+    EXAMPLE = re.compile(
+        r"^\s*example\s+\d+(\.\d+)*",
+        re.IGNORECASE,
+    )
+
+    ACTIVITY = re.compile(
+        r"^\s*activity",
+        re.IGNORECASE,
+    )
+
+    FIGURE_IT_OUT = re.compile(
+        r"figure\s+it\s+out",
+        re.IGNORECASE,
+    )
+
+    MISC = re.compile(
+        r"miscellaneous\s+exercise",
+        re.IGNORECASE,
+    )
+
+    SUMMARY = re.compile(
+        r"summary",
+        re.IGNORECASE,
+    )
+
+    HISTORICAL = re.compile(
+        r"historical\s+note",
+        re.IGNORECASE,
+    )
+
+    def analyze(self, text: str) -> RuleResult:
+
+        t = text.strip()
+
+        if self.CHAPTER.match(t):
+            return RuleResult(False, "chapter")
+
+        if self.EXERCISE.match(t):
+            return RuleResult(False, "exercise")
+
+        if self.EXAMPLE.match(t):
+            return RuleResult(False, "example")
+
+        if self.ACTIVITY.match(t):
+            return RuleResult(False, "activity")
+
+        if self.FIGURE_IT_OUT.search(t):
+            return RuleResult(False, "figure_it_out")
+
+        if self.MISC.search(t):
+            return RuleResult(False, "misc")
+
+        if self.SUMMARY.search(t):
+            return RuleResult(True, "summary")
+
+        if self.HISTORICAL.search(t):
+            return RuleResult(True, "historical")
+
+        return RuleResult(False, "question")
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/segmenter.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.document import Document
+from src.question.models import (
+    QuestionCandidate,
+    QuestionContext,
+)
+from src.question.patterns import (
+    CHAPTER_PATTERN,
+    EXERCISE_PATTERN,
+    QUESTION_PATTERN,
+    SUBQUESTION_PATTERN,
+)
+
+
+class QuestionSegmenter:
+
+    def segment(
+        self,
+        document: Document,
+    ) -> list[QuestionCandidate]:
+
+        candidates = []
+
+        context = QuestionContext()
+
+        current = None
+
+        for region in document.regions:
+
+            if not region.text:
+                continue
+
+            text = region.text.strip()
+
+            m = CHAPTER_PATTERN.match(text)
+
+            if m:
+                context.chapter = m.group(2).strip()
+                continue
+
+            m = EXERCISE_PATTERN.match(text)
+
+            if m:
+                context.exercise = m.group(1)
+                continue
+
+            m = QUESTION_PATTERN.match(text)
+
+            if m:
+
+                if current:
+                    candidates.append(current)
+
+                current = QuestionCandidate(
+                    number=m.group(1),
+                    text=m.group(2).strip(),
+                    context=QuestionContext(
+                        chapter=context.chapter,
+                        exercise=context.exercise,
+                        page=region.page,
+                    ),
+                )
+
+                continue
+
+            m = SUBQUESTION_PATTERN.match(text)
+
+            if m and current:
+
+                current.text += "\n" + text
+
+                continue
+
+            if current:
+
+                current.text += "\n" + text
+
+        if current:
+
+            candidates.append(current)
+
+        return candidates
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/__init__.py
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/assembler.py
+------------------------------------------------------------------------------------------------------------------------
+
+from __future__ import annotations
+
+from src.question.models import (
+    QuestionCandidate,
+    QuestionContext,
+)
+from src.question.v2.state import ParserState
+
+
+class QuestionAssembler:
+
+    def __init__(self):
+
+        self.current = None
+
+        self.questions = []
+
+    def consume(
+        self,
+        text: str,
+        state: ParserState,
+    ):
+
+        text = text.strip()
+
+        if not text:
+            return
+
+        if state.question_number:
+
+            if (
+                self.current
+                and self.current.number != state.question_number
+            ):
+
+                self.questions.append(
+                    self.current
+                )
+
+                self.current = None
+
+            if self.current is None:
+
+                self.current = QuestionCandidate(
+                    number=state.question_number,
+                    text=text,
+                    context=QuestionContext(
+                        chapter=state.chapter,
+                        exercise=state.exercise,
+                        page=state.page,
+                    ),
+                )
+
+            else:
+
+                self.current.text += "\n" + text
+
+        elif self.current:
+
+            self.current.text += "\n" + text
+
+    def finalize(self):
+
+        if self.current:
+
+            self.questions.append(
+                self.current
+            )
+
+            self.current = None
+
+        return self.questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/boundary.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+
+from src.question.v2.state import ParserState
+
+
+class BoundaryDetector:
+
+    QUESTION_START = re.compile(
+        r"^\s*\d+[.)]\s+"
+    )
+
+    EXERCISE = re.compile(
+        r"^\s*exercise\s+\d+(\.\d+)*",
+        re.IGNORECASE,
+    )
+
+    CHAPTER = re.compile(
+        r"^\s*chapter\s+\d+",
+        re.IGNORECASE,
+    )
+
+    EXAMPLE = re.compile(
+        r"^\s*example",
+        re.IGNORECASE,
+    )
+
+    ACTIVITY = re.compile(
+        r"^\s*activity",
+        re.IGNORECASE,
+    )
+
+    FIGURE_IT_OUT = re.compile(
+        r"figure\s+it\s+out",
+        re.IGNORECASE,
+    )
+
+    SUMMARY = re.compile(
+        r"^\s*summary",
+        re.IGNORECASE,
+    )
+
+    def is_new_question(
+        self,
+        text: str,
+        state: ParserState,
+    ) -> bool:
+
+        if self.CHAPTER.match(text):
+            return False
+
+        if self.EXERCISE.match(text):
+            return False
+
+        if self.EXAMPLE.match(text):
+            return False
+
+        if self.ACTIVITY.match(text):
+            return False
+
+        if self.FIGURE_IT_OUT.search(text):
+            return False
+
+        if self.SUMMARY.match(text):
+            return False
+
+        return bool(
+            self.QUESTION_START.match(text)
+        )
+
+    def is_continuation(
+        self,
+        text: str,
+    ) -> bool:
+
+        return not self.QUESTION_START.match(text)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/classifier.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from src.question.models import (
+    QuestionCandidate,
+    QuestionType,
+)
+
+
+class QuestionClassifier:
+
+    def classify(
+        self,
+        questions: list[QuestionCandidate],
+    ) -> list[QuestionCandidate]:
+
+        for q in questions:
+
+            text = q.text.lower()
+
+            if any(
+                x in text
+                for x in (
+                    "choose the correct",
+                    "(a)",
+                    "(b)",
+                    "(c)",
+                    "(d)",
+                )
+            ):
+                q.qtype = QuestionType.MCQ
+
+            elif "fill in the blank" in text or "____" in text:
+                q.qtype = QuestionType.FILL
+
+            elif "true or false" in text:
+                q.qtype = QuestionType.TRUE_FALSE
+
+            elif "assertion" in text and "reason" in text:
+                q.qtype = QuestionType.ASSERTION_REASON
+
+            elif "case study" in text:
+                q.qtype = QuestionType.CASE_STUDY
+
+            elif "construct" in text:
+                q.qtype = QuestionType.CONSTRUCTION
+
+            elif "prove" in text:
+                q.qtype = QuestionType.PROOF
+
+            elif "activity" in text:
+                q.qtype = QuestionType.ACTIVITY
+
+            elif len(text.split()) > 70:
+                q.qtype = QuestionType.LONG
+
+            else:
+                q.qtype = QuestionType.SHORT
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/context.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from src.question.v2.state import ParserState
+from src.question.rules import RuleEngine
+
+
+class ContextManager:
+
+    def __init__(self):
+
+        self.rules = RuleEngine()
+
+        self.state = ParserState()
+
+    def update(self, region):
+
+        self.state.page = region.page
+
+        result = self.rules.analyze(
+            region.text or ""
+        )
+
+        block = result.block_type
+
+        if block == "chapter":
+
+            self.state.chapter = (
+                region.text.strip()
+            )
+
+            self.state.reset_question()
+
+        elif block == "exercise":
+
+            self.state.exercise = (
+                region.text.strip()
+            )
+
+            self.state.reset_question()
+
+        self.state.inside_example = (
+            block == "example"
+        )
+
+        self.state.inside_activity = (
+            block == "activity"
+        )
+
+        self.state.inside_miscellaneous = (
+            block == "misc"
+        )
+
+        self.state.inside_figure_it_out = (
+            block == "figure_it_out"
+        )
+
+        self.state.inside_summary = (
+            block == "summary"
+        )
+
+        self.state.next_region()
+
+        return self.state
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/extractor.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from src.document.document import Document
+
+from src.question.v2.context import ContextManager
+from src.question.v2.numbering import NumberingDetector
+from src.question.v2.boundary import BoundaryDetector
+from src.question.v2.assembler import QuestionAssembler
+from src.question.v2.classifier import QuestionClassifier
+from src.question.v2.validator import QuestionValidator
+
+
+class QuestionExtractorV2:
+
+    def __init__(self):
+
+        self.context = ContextManager()
+
+        self.numbering = NumberingDetector()
+
+        self.boundary = BoundaryDetector()
+
+        self.assembler = QuestionAssembler()
+
+        self.classifier = QuestionClassifier()
+
+        self.validator = QuestionValidator()
+
+    def extract(self, document: Document):
+
+        state = self.context.state
+
+        for region in document.regions:
+
+            if not region.text:
+                continue
+
+            text = region.text.strip()
+
+            state = self.context.update(region)
+
+            state = self.numbering.detect(
+                text,
+                state,
+            )
+
+            if state.inside_summary:
+                continue
+
+            if (
+                state.inside_example
+                or state.inside_activity
+            ):
+                continue
+
+            self.assembler.consume(
+                text,
+                state,
+            )
+
+        questions = self.assembler.finalize()
+
+        questions = self.classifier.classify(
+            questions,
+        )
+
+        questions = self.validator.validate(
+            questions,
+        )
+
+        return questions
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/numbering.py
+------------------------------------------------------------------------------------------------------------------------
+import re
+
+from src.question.v2.state import ParserState
+
+
+class NumberingDetector:
+
+    QUESTION = re.compile(
+        r"^\s*(\d+)[.)]\s+"
+    )
+
+    SUBQUESTION = re.compile(
+        r"^\s*\(([a-z])\)"
+    )
+
+    ROMAN = re.compile(
+        r"^\s*\(([ivxlcdm]+)\)",
+        re.IGNORECASE,
+    )
+
+    OPTION = re.compile(
+        r"^\s*\(([A-D])\)",
+        re.IGNORECASE,
+    )
+
+    def detect(
+        self,
+        text: str,
+        state: ParserState,
+    ) -> ParserState:
+
+        if m := self.QUESTION.match(text):
+
+            state.question_number = m.group(1)
+
+            state.subquestion = None
+
+            return state
+
+        if m := self.SUBQUESTION.match(text):
+
+            state.subquestion = m.group(1)
+
+            return state
+
+        if m := self.ROMAN.match(text):
+
+            state.metadata["roman"] = m.group(1)
+
+            return state
+
+        if m := self.OPTION.match(text):
+
+            state.metadata["option"] = m.group(1)
+
+            return state
+
+        return state
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/parser.py
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/state.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+
+
+@dataclass(slots=True)
+class ParserState:
+
+    chapter: str | None = None
+
+    chapter_number: int | None = None
+
+    exercise: str | None = None
+
+    section: str | None = None
+
+    page: int = 0
+
+    region_index: int = 0
+
+    question_number: str | None = None
+
+    subquestion: str | None = None
+
+    inside_example: bool = False
+
+    inside_activity: bool = False
+
+    inside_miscellaneous: bool = False
+
+    inside_figure_it_out: bool = False
+
+    inside_summary: bool = False
+
+    inside_solution: bool = False
+
+    inside_answer: bool = False
+
+    metadata: dict = field(default_factory=dict)
+
+    def reset_question(self):
+
+        self.question_number = None
+
+        self.subquestion = None
+
+        self.inside_solution = False
+
+        self.inside_answer = False
+
+    def next_region(self):
+
+        self.region_index += 1
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/question/v2/validator.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+import re
+
+from src.question.models import QuestionCandidate
+
+
+class QuestionValidator:
+
+    MIN_WORDS = 3
+
+    MAX_WORDS = 1200
+
+    INVALID_START = (
+        "chapter",
+        "exercise",
+        "summary",
+        "contents",
+        "index",
+    )
+
+    PAGE_ONLY = re.compile(r"^\d+$")
+
+    def validate(
+        self,
+        questions: list[QuestionCandidate],
+    ) -> list[QuestionCandidate]:
+
+        valid = []
+
+        for q in questions:
+
+            text = " ".join(q.text.split())
+
+            if not text:
+                continue
+
+            if self.PAGE_ONLY.fullmatch(text):
+                continue
+
+            if len(text.split()) < self.MIN_WORDS:
+                continue
+
+            if len(text.split()) > self.MAX_WORDS:
+                continue
+
+            if text.lower().startswith(self.INVALID_START):
+                continue
+
+            q.text = text
+
+            valid.append(q)
+
+        return valid
+
+
+========================================================================================================================
+src/document
+========================================================================================================================
+
+------------------------------------------------------------------------------------------------------------------------
+src/document/__init__.py
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/document/block.py
+------------------------------------------------------------------------------------------------------------------------
+from dataclasses import dataclass
+
+
+@dataclass
+class Block:
+
+    block_id: int
+
+    block_type: str
+
+    text: str
+
+    page: int
+
+    bbox: list
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/document/builder.py
+------------------------------------------------------------------------------------------------------------------------
+from src.document.document import Document
+from src.postprocess.region_merger import RegionMerger
+from src.reading_order.geometry_sorter import GeometrySorter
+from src.text.cleaner import TextCleaner   # new import
+
+
+class DocumentBuilder:
+
+    @staticmethod
+    def build(regions):
+        regions = GeometrySorter.sort(regions)
+        regions = RegionMerger.merge(regions)
+
+        pages = max(r.page for r in regions)
+
+        doc = Document(pages=pages)
+
+        # Clean text for all regions before adding to document
+        for r in regions:
+            r.text = TextCleaner.clean(r.text)
+
+        for r in regions:
+            doc.add_region(r)
+
+        return doc
+
+------------------------------------------------------------------------------------------------------------------------
+src/document/document.py
+------------------------------------------------------------------------------------------------------------------------
+from dataclasses import dataclass, field
+from typing import List
+
+from src.schema.region import Region
+
+
+@dataclass
+class Document:
+
+    pages: int
+
+    regions: List[Region] = field(default_factory=list)
+
+    def add_region(self, region: Region):
+
+        self.regions.append(region)
+
+    @property
+    def text(self):
+
+        return "\n\n".join(
+            r.text
+            for r in self.regions
+            if r.text
+        )
+
+    @property
+    def titles(self):
+
+        return [
+            r
+            for r in self.regions
+            if r.label == "title"
+        ]
+
+    @property
+    def paragraphs(self):
+
+        return [
+            r
+            for r in self.regions
+            if r.label == "plain_text"
+        ]
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/document/page.py
+------------------------------------------------------------------------------------------------------------------------
+from dataclasses import dataclass, field
+
+from .block import Block
+
+
+@dataclass
+class Page:
+
+    page_number: int
+
+    width: int
+
+    height: int
+
+    blocks: list[Block] = field(default_factory=list)
+
+
+------------------------------------------------------------------------------------------------------------------------
+src/document/question.py
+------------------------------------------------------------------------------------------------------------------------
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from hashlib import sha256
+from typing import Any
+
+
+@dataclass
+class Question:
+
+    question_text: str
+
+    question_id: str = ""
+
+    class_name: str | None = None
+
+    subject: str = "Mathematics"
+
+    chapter: str | None = None
+
+    exercise: str | None = None
+
+    question_number: str | None = None
+
+    question_type: str | None = None
+
+    difficulty: str | None = None
+
+    answer: str | None = None
+
+    solution: str | None = None
+
+    hint: str | None = None
+
+    source_book: str | None = None
+
+    source_page: int | None = None
+
+    academic_year: str | None = None
+
+    confidence: float = 1.0
+
+    review_required: bool = False
+
+    metadata: dict[str, Any] = field(default_factory=dict)
+
+    sha256: str = ""
+
+    def __post_init__(self):
+
+        if not self.sha256:
+
+            self.sha256 = sha256(
+                self.question_text.strip().encode("utf-8")
+            ).hexdigest()
+
+
