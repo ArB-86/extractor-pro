@@ -30,7 +30,17 @@ class QuestionValidator:
 
         for q in questions:
 
-            text = " ".join(q.text.split())
+            text = re.sub(
+                r"\s+",
+                " ",
+                q.text,
+            ).strip()
+
+            text = re.sub(
+                r"(\b\d+[.)])\s+\1",
+                r"\1",
+                text,
+            )
 
             if not text:
                 continue
@@ -45,6 +55,17 @@ class QuestionValidator:
                 continue
 
             if text.lower().startswith(self.INVALID_START):
+                continue
+
+            alpha = sum(c.isalpha() for c in text)
+
+            if alpha < 3:
+                continue
+
+            if re.fullmatch(r"[\W\d_ ]+", text):
+                continue
+
+            if len(text) < 12:
                 continue
 
             q.text = text
