@@ -45,6 +45,10 @@ class NumberingDetector:
                 number,
             )
 
+            number = number.rstrip(".")
+            number = number.rstrip(")")
+            number = number.strip()
+
             state.question_number = number
 
             state.subquestion = None

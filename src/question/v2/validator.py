@@ -7,6 +7,19 @@ from src.question.models import QuestionCandidate
 
 class QuestionValidator:
 
+    OCR_FIXES = {
+        "ﬁ":"fi",
+        "ﬂ":"fl",
+        "—":"-",
+        "–":"-",
+        "“":'"',
+        "”":'"',
+        "‘":"'",
+        "’":"'",
+        "\u00a0":" ",
+    }
+
+
     MIN_WORDS = 3
 
     MAX_WORDS = 1200
@@ -30,10 +43,21 @@ class QuestionValidator:
 
         for q in questions:
 
+            text = q.text
+
+            for a,b in self.OCR_FIXES.items():
+                text = text.replace(a,b)
+
             text = re.sub(
-                r"\s+",
+                r"[ \t]+",
                 " ",
-                q.text,
+                text,
+            )
+
+            text = re.sub(
+                r"\n{3,}",
+                "\n\n",
+                text,
             ).strip()
 
             text = re.sub(
