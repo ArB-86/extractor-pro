@@ -1,24 +1,54 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Any
 
-from src.document.question import Question
 from src.evaluation.benchmark import EvaluationBenchmark
+from src.evaluation.json_report import JSONEvaluationReport
+from src.evaluation.html_report import HTMLEvaluationReport
 
 
 class EvaluationRunner:
-    def __init__(self, similarity_threshold: float = 0.92):
-        self.benchmark = EvaluationBenchmark(similarity_threshold=similarity_threshold)
+
+    def __init__(self):
+
+        self.benchmark = EvaluationBenchmark()
+
+        self.json = JSONEvaluationReport()
+
+        self.html = HTMLEvaluationReport()
 
     def run(
+
         self,
-        predicted_questions: list[Question],
-        gold_path: str | Path,
-        output_path: str | Path | None = None,
-    ) -> dict[str, Any]:
-        gold = self.benchmark.load_gold(gold_path)
-        report = self.benchmark.evaluate(predicted_questions, gold)
-        if output_path is not None:
-            self.benchmark.save_report(report, output_path)
+
+        predicted,
+
+        gold,
+
+        output_dir,
+
+    ):
+
+        report = self.benchmark.evaluate(
+            predicted,
+            gold,
+        )
+
+        output_dir = Path(output_dir)
+
+        output_dir.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        self.json.save(
+            report,
+            output_dir / "evaluation.json",
+        )
+
+        self.html.save(
+            report,
+            output_dir / "evaluation.html",
+        )
+
         return report
