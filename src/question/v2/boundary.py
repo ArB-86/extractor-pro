@@ -5,6 +5,11 @@ from src.question.v2.state import ParserState
 
 class BoundaryDetector:
 
+    ANSWER_HEADER = re.compile(
+        r"^\s*(answer|answers|solution|solutions|hint|hints)\b",
+        re.IGNORECASE,
+    )
+
     SUBQUESTION = re.compile(
         r"^\s*(\([a-z]\)|\([ivxlcdm]+\)|[a-z][.)]|[ivxlcdm]+[.)])",
         re.IGNORECASE,
@@ -78,6 +83,9 @@ class BoundaryDetector:
         text: str,
         state: ParserState,
     ) -> bool:
+
+        if self.ANSWER_HEADER.match(text):
+            return False
 
         if self.SUBQUESTION.match(text):
             return False

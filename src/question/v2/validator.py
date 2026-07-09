@@ -126,9 +126,22 @@ class QuestionValidator:
             if text.lower().startswith(self.INVALID_START):
                 continue
 
+            lower = text.lower()
+
             if any(
-                text.lower().startswith(x)
+                lower.startswith(x)
                 for x in self.HEADER_PATTERNS
+            ):
+                continue
+
+            if lower.startswith(
+                (
+                    "answer",
+                    "answers",
+                    "solution",
+                    "solutions",
+                    "hint",
+                )
             ):
                 continue
 
