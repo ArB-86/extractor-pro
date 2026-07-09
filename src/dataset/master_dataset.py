@@ -6,6 +6,7 @@ from src.dataset.statistics import DatasetStatistics
 from src.storage.jsonl_store import JSONLStore
 from src.storage.parquet_store import ParquetStore
 from src.search.index import SearchIndex
+from src.extractor.result import ExtractionResult
 
 try:
     from src.storage.sqlite_store import SQLiteStore
@@ -66,20 +67,22 @@ class MasterDataset:
                 f"{output_dir}/master_dataset.sqlite",
             )
 
-        return {
+        return ExtractionResult(
 
-            "questions": questions,
+            questions=questions,
 
-            "manifest": self.manifest.build(
-                questions
+            manifest=self.manifest.build(
+                questions,
             ),
 
-            "statistics": self.statistics.build(
-                questions
+            statistics=self.statistics.build(
+                questions,
             ),
 
-            "search_index": self.index.build(
-                questions
+            search_index=self.index.build(
+                questions,
             ),
 
-        }
+            output_directory=str(output_dir),
+
+        )

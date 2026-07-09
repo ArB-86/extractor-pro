@@ -22,7 +22,7 @@ class Extractor:
             exist_ok=True,
         )
 
-        master_result = self.pipeline.run(
+        master_return self.pipeline.run(
             pdf_path=pdf_path,
             output_dir=str(output_dir),
         )
