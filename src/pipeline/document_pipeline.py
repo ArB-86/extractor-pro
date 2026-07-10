@@ -1,57 +1,78 @@
-from pathlib import Path
-
-from src.pdf.pdf_renderer import PDFRenderer
-from src.pipeline.layout_pipeline import LayoutPipeline
-from src.pipeline.question_pipeline import QuestionPipeline
-from src.pipeline.validation_pipeline import ValidationPipeline
-from src.document.builder import DocumentBuilder
-from src.dataset.builder import DatasetBuilder
+from src.extractor.extractor import Extractor
+from src.dataset.master_dataset import MasterDataset
+from src.pipeline.batch_pipeline import BatchPipeline
+from src.validation.validator import Validator
 
 
 class DocumentPipeline:
+    """Pipeline for processing individual documents."""
 
     def __init__(self):
-
-        self.renderer = PDFRenderer()
-        self.layout = LayoutPipeline()
-        self.question_pipeline = QuestionPipeline()
-        self.validation = ValidationPipeline()
-        self.dataset = DatasetBuilder()
+        self.extractor = Extractor()
+        self.dataset = MasterDataset()
+        self.validation = Validator()
 
     def run(self, pdf_path, output_dir):
+        """Process a single PDF document."""
+        print(f"[DocumentPipeline] Processing: {pdf_path}")
 
-        output_dir = Path(output_dir)
-
-        pages = self.renderer.render(
-            pdf_path,
-            output_dir / "render",
+        # Extract questions from the PDF
+        questions = self.extractor.extract(
+            pdf_path=pdf_path,
+            output_dir=output_dir,
         )
 
-        for page_no, image_path in enumerate(
-            pages,
-            start=1,
-        ):
+        print(f"[DocumentPipeline] extracted: {len(questions)}")
 
-            page_dir = output_dir / f"page_{page_no:03d}"
+        # Validate the extracted questions
+        questions = self.validation.run(
+            questions
+        )
 
-            regions = self.layout.run(
-                image_path=image_path,
-                output_dir=str(page_dir),
-                page=page_no,
-            )
+        print(
+            "[DocumentPipeline] validation type:",
+            type(questions),
+        )
 
-            document = DocumentBuilder.build(regions)
+        questions = list(questions)
 
-            questions = self.question_pipeline.run(
-                document
-            )
+        print(
+            f"[DocumentPipeline] after validation: {len(questions)}"
+        )
 
+        # Add validated questions to the dataset
+        self.dataset.extend(
+            questions
+        )
+
+        return questions
+
+    def run_batch(self, pdfs, output_dir):
+        """Process multiple PDF documents in batch."""
+        results = BatchPipeline().run(
+            pdfs,
+            output_dir,
+        )
+
+        for questions in results:
+            # Validate each batch of questions
             questions = self.validation.run(
                 questions
+            )
+
+            print(
+                "[DocumentPipeline] validation type:",
+                type(questions),
+            )
+
+            questions = list(questions)
+
+            print(
+                f"[DocumentPipeline] after validation: {len(questions)}"
             )
 
             self.dataset.extend(
                 questions
             )
 
-        return self.dataset.build()
+        return self.dataset.export(output_dir)

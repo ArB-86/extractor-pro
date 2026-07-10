@@ -6,7 +6,7 @@ from src.layout.doclayout_yolo import DocLayoutYOLO
 from src.layout.filter import LayoutFilter
 from src.layout.layout_parser import LayoutParser
 from src.ocr.factory import OCRFactory
-from src.reading_order.sorter import ReadingOrderSorter   # <-- added
+from src.reading_order.sorter import ReadingOrderSorter
 from src.schema.region import Region
 
 
@@ -27,6 +27,8 @@ class LayoutPipeline:
         boxes = self.parser.parse(results[0])
         boxes = self.filter.filter(boxes)
 
+        print(f"[Layout] Page {page}: {len(boxes)} boxes")
+
         regions = []
 
         for i, box in enumerate(boxes):
@@ -42,7 +44,11 @@ class LayoutPipeline:
 
             ocr = OCRFactory.get(label)
 
+            print(f"[OCR] {i + 1}/{len(boxes)}  {label}")
+
             text = ocr.recognize(str(save_path))
+
+            print(f"[OCR] done ({len(text)} chars)")
 
             region = Region(
                 page=page,
@@ -61,5 +67,5 @@ class LayoutPipeline:
             regions.append(region)
 
         # Sort regions by reading order before returning
-        regions = ReadingOrderSorter.sort(regions)   # <-- added
+        regions = ReadingOrderSorter.sort(regions)
         return regions

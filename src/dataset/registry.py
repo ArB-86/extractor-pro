@@ -9,7 +9,16 @@ class QuestionRegistry:
 
     def add(self, question: Question):
 
-        self._questions[question.sha256] = question
+        print(
+            "[Registry]",
+            type(question).__name__,
+            "sha256=",
+            getattr(question, "sha256", None),
+        )
+
+        self._questions[getattr(question, "sha256", None)] = question
+
+        print("[Registry] size =", len(self._questions))
 
     def extend(self, questions):
 

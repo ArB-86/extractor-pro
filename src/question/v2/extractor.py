@@ -78,6 +78,8 @@ class QuestionExtractorV2:
 
         questions = self.assembler.finalize()
 
+        print(f"[QuestionExtractor] assembled {len(questions)} candidates")
+
         questions = self.classifier.classify(
             questions,
         )
@@ -90,44 +92,6 @@ class QuestionExtractorV2:
             questions,
         )
 
-        questions = self.postprocessor.process(
-            questions,
-        )
-
-        questions = self.deduplicator.deduplicate(
-            questions,
-        )
-
-        questions = self.quality.inspect(
-            questions,
-        )
-
-        questions = self.context_validator.validate(
-            questions,
-        )
-
-        questions = self.number_validator.validate(
-            questions,
-        )
-
-        questions = self.confidence.calibrate(
-            questions,
-        )
-
-        questions = self.sanity.check(
-            questions,
-        )
-
-        self.last_metrics = self.metrics.compute(
-            questions,
-        )
-
-        self.last_duplicates = self.duplicates.inspect(
-            questions,
-        )
-
-        self.last_review_queue = self.review_queue.build(
-            questions,
-        )
+        print(f"[QuestionExtractor] converted {len(questions)} questions")
 
         return questions

@@ -1,4 +1,3 @@
-
 from pathlib import Path
 
 from src.evaluation.runner import EvaluationRunner
@@ -18,6 +17,8 @@ class EvaluationPipeline:
 
         if not gold_path:
             return extraction_result
+
+        print(f"[EvaluationPipeline] predicted: {len(extraction_result.questions)}")
 
         report = self.runner.run(
             predicted=extraction_result.questions,

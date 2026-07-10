@@ -1,4 +1,3 @@
-
 from src.pipeline.document_pipeline import DocumentPipeline
 from src.pipeline.validation_pipeline import ValidationPipeline
 from src.dataset.master_dataset import MasterDataset
@@ -21,20 +20,12 @@ class ProductionPipeline:
         gold_path=None,
     ):
 
-        questions = self.document.run(
+        dataset = self.document.run(
             pdf_path,
             output_dir,
         )
 
-        questions = self.validation.run(
-            questions,
-        )
-
-        dataset = MasterDataset()
-
-        dataset.add(
-            questions,
-        )
+        print(f"[ProductionPipeline] dataset questions: {len(dataset.questions())}")
 
         result = dataset.export(
             output_dir,

@@ -24,6 +24,27 @@ class NumberingDetector:
         re.IGNORECASE,
     )
 
+
+    def normalize_number(
+        self,
+        number: str,
+    ) -> str:
+
+        number = number.strip()
+
+        number = re.sub(
+            r"(?i)^question\s*",
+            "",
+            number,
+        )
+
+        number = number.rstrip(".")
+        number = number.rstrip(")")
+        number = number.strip()
+
+        return number
+
+
     def detect(
         self,
         text: str,
