@@ -1,0 +1,132 @@
+from __future__ import annotations
+
+import re
+
+from src.question.models import (
+    QuestionCandidate,
+    QuestionContext,
+)
+
+from src.question.v2.state import ParserState
+
+
+class QuestionAssembler:
+
+    NUMBER = re.compile(
+        r"""
+        ^
+        \s*
+        (?:
+            Question\s+
+          |Q\.?\s*
+        )?
+        (\d+)
+        [.)]?
+        \s+
+        """,
+        re.I | re.X,
+    )
+
+    OPTION = re.compile(
+        r"^\s*\([A-D]\)",
+        re.I,
+    )
+
+    SUB = re.compile(
+        r"^\s*(\([a-z]\)|\([ivxlcdm]+\)|[a-z][.)]|[ivxlcdm]+[.)])",
+        re.I,
+    )
+
+    def __init__(self):
+
+        self.current = None
+        self.questions = []
+
+    def _flush(self):
+
+        if self.current:
+
+            self.current.text = self.current.text.strip()
+
+            if self.current.text:
+
+                self.questions.append(self.current)
+
+        self.current = None
+
+    def consume(
+        self,
+        text: str,
+        state: ParserState,
+    ):
+
+        text = text.strip()
+
+        if not text:
+            return
+
+        m = self.NUMBER.match(text)
+
+        if m:
+
+            self._flush()
+
+            number = m.group(1)
+
+            body = text[m.end():].strip()
+
+            self.current = QuestionCandidate(
+
+                number=number,
+
+                text=body,
+
+                context=QuestionContext(
+
+                    chapter=state.chapter,
+
+                    exercise=state.exercise,
+
+                    page=state.page,
+
+                ),
+
+            )
+
+            return
+
+        if self.current is None:
+            return
+
+        if self.OPTION.match(text):
+
+            self.current.metadata.setdefault(
+                "option_count",
+                0,
+            )
+
+            self.current.metadata["option_count"] += 1
+
+            self.current.text += "\n" + text
+
+            return
+
+        if self.SUB.match(text):
+
+            self.current.text += "\n" + text
+
+            return
+
+        if len(text.split()) <= 4:
+
+            self.current.text += " " + text
+
+            return
+
+        self.current.text += "\n" + text
+
+    def finalize(self):
+
+        self._flush()
+
+        return self.questions

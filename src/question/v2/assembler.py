@@ -38,6 +38,17 @@ class QuestionAssembler:
         if not text:
             return
 
+        # FIX: Flush current question if chapter or exercise changed
+        if (
+            self.current
+            and (
+                self.current.context.chapter != state.chapter
+                or self.current.context.exercise != state.exercise
+            )
+        ):
+            self.questions.append(self.current)
+            self.current = None
+
         if state.question_number:
 
             if (
@@ -71,8 +82,8 @@ class QuestionAssembler:
 
             else:
 
-                if text != self.current.text:
-
+                # FIX: Avoid duplicate text
+                if text not in self.current.text:
                     self.current.text += "\n" + text
 
         elif self.current:
@@ -127,6 +138,14 @@ class QuestionAssembler:
             else:
 
                 self.current.text += "\n" + text
+
+        # FIX: Remove OCR tags from current question text
+        if self.current and self.current.text:
+            self.current.text = re.sub(
+                r"OCR\([^)]*\)",
+                "",
+                self.current.text,
+            )
 
     def finalize(self):
 

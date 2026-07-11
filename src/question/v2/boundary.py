@@ -24,7 +24,6 @@ class BoundaryDetector:
         r"^\s*\d+\s*$"
     )
 
-
     CONTINUATION_PREFIX = (
         "therefore",
         "hence",
@@ -40,17 +39,25 @@ class BoundaryDetector:
         "show that",
     )
 
-
-
     OPTION = re.compile(
         r"^\s*\([A-D]\)",
         re.IGNORECASE,
     )
 
-
+    # Updated QUESTION_START regex
     QUESTION_START = re.compile(
-        r"^\s*(?:Q(?:uestion)?\s*)?\d+(?:\.\d+)?[.)]?\s+",
-        re.IGNORECASE,
+        r"""
+        ^
+        \s*
+        (?:
+            Question\s+
+          | Q\.?\s*
+        )?
+        \d+
+        [.)]
+        \s+
+        """,
+        re.I | re.X,
     )
 
     EXERCISE = re.compile(
@@ -89,19 +96,19 @@ class BoundaryDetector:
         state: ParserState,
     ) -> bool:
 
+        text = text.strip()
+
+        if not text:
+            return False
+
+        # FIX: Reject answer/solution lines immediately
+        if text.lower().startswith(("ans", "answer", "solution")):
+            return False
+
         if self.CAPTION_PATTERN.match(text):
             return False
 
         if self.ANSWER_HEADER.match(text):
-            return False
-
-        if self.CAPTION_PATTERN.match(text):
-            return False
-
-        if self.ANSWER_HEADER.match(text):
-            return False
-
-        if self.SUBQUESTION.match(text):
             return False
 
         if self.PAGE_NUMBER.match(text):
@@ -110,10 +117,7 @@ class BoundaryDetector:
         if self.OPTION.match(text):
             return False
 
-        if self.CHAPTER.match(text):
-            return False
-
-        if self.EXERCISE.match(text):
+        if self.SUBQUESTION.match(text):
             return False
 
         if self.EXAMPLE.match(text):
@@ -122,15 +126,44 @@ class BoundaryDetector:
         if self.ACTIVITY.match(text):
             return False
 
-        if self.FIGURE_IT_OUT.search(text):
-            return False
-
         if self.SUMMARY.match(text):
             return False
 
-        return bool(
-            self.QUESTION_START.match(text)
-        )
+        if self.FIGURE_IT_OUT.search(text):
+            return False
+
+        if self.EXERCISE.match(text):
+            return False
+
+        if self.CHAPTER.match(text):
+            return False
+
+        # Section headings like "1.4 Relations..."
+        if re.match(r"^\d+\.\d+\s+[A-Za-z]", text):
+            return False
+
+        # Section 1, Section 2...
+        if text.lower().startswith("section"):
+            return False
+
+        # Short title blocks
+        if (
+            len(text.split()) <= 8
+            and text == text.title()
+        ):
+            return False
+
+        if self.QUESTION_START.match(text):
+            return True
+
+        if re.match(
+            r"^Q\.?\d+",
+            text,
+            re.I,
+        ):
+            return True
+
+        return False
 
     def is_continuation(
         self,
@@ -172,18 +205,7 @@ class BoundaryDetector:
         if re.search(r"\d\s+\d\s+\d", text):
             return True
 
-        if text.lstrip().startswith(("i.", "ii.", "iii.", "iv.")):
-            return True
-
-        if re.match(r"^[a-z][.)]", text.strip(), re.I):
-            return True
-
-        if text.lstrip().startswith(("i.", "ii.", "iii.", "iv.")):
-            return True
-
-        if re.match(r"^[a-z][.)]", text.strip(), re.I):
-            return True
-
+        # Only one copy of each
         if text.lstrip().startswith(("i.", "ii.", "iii.", "iv.")):
             return True
 

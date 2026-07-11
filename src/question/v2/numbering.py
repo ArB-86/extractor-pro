@@ -1,49 +1,34 @@
 import re
-
 from src.question.v2.state import ParserState
 
 
 class NumberingDetector:
 
+    # FIX: Require [.)] after digits
     QUESTION = re.compile(
-        r"^\s*((?:Q(?:uestion)?\s*)?\d+(?:\.\d+)?)[.)]?\s+",
-        re.IGNORECASE,
+        r"""
+        ^
+        \s*
+        (?:
+            Question\s+
+          | Q\.?\s*
+        )?
+        (\d+)
+        [.)]
+        \s+
+        """,
+        re.I | re.X,
     )
 
     SUBQUESTION = re.compile(
-        r"^\s*\(([a-z])\)"
-    )
-
-    ROMAN = re.compile(
-        r"^\s*\(([ivxlcdm]+)\)",
+        r"^\s*(\([a-z]\)|\([ivxlcdm]+\)|[a-z][.)]|[ivxlcdm]+[.)])",
         re.IGNORECASE,
     )
 
     OPTION = re.compile(
-        r"^\s*(?:\(([A-D])\)|([A-D])[.)])",
+        r"^\s*\([A-D]\)",
         re.IGNORECASE,
     )
-
-
-    def normalize_number(
-        self,
-        number: str,
-    ) -> str:
-
-        number = number.strip()
-
-        number = re.sub(
-            r"(?i)^question\s*",
-            "",
-            number,
-        )
-
-        number = number.rstrip(".")
-        number = number.rstrip(")")
-        number = number.strip()
-
-        return number
-
 
     def detect(
         self,
@@ -51,51 +36,29 @@ class NumberingDetector:
         state: ParserState,
     ) -> ParserState:
 
+        # FIX: Skip section titles like "1.4 Relations..."
+        if re.match(r"^\d+\.\d+\s+[A-Za-z]", text):
+            return state
 
+        # Ignore option lines (they are not new questions or subquestions)
         if re.match(r"^\s*\([A-D]\)", text, re.I):
             return state
 
-        if m := self.QUESTION.match(text):
-
-
-            number = m.group(1)
-
-            number = re.sub(
-                r"(?i)^question\s*",
-                "",
-                number,
-            )
-
-            number = number.rstrip(".")
-            number = number.rstrip(")")
-            number = number.strip()
-
-            state.question_number = self.normalize_number(
-                number,
-            )
-
-            self.last_number = state.question_number
-
+        # Try to match a main question number
+        m = self.QUESTION.match(text)
+        if m:
+            state.question_number = m.group(1).strip()
             state.subquestion = None
-
             return state
 
-        if m := self.SUBQUESTION.match(text):
-
+        # Try to match a subquestion (a), (i), 1., etc.
+        m = self.SUBQUESTION.match(text)
+        if m:
             state.subquestion = m.group(1)
-
             return state
 
-        if m := self.ROMAN.match(text):
-
-            state.metadata["roman"] = m.group(1)
-
-            return state
-
-        if m := self.OPTION.match(text):
-
-            state.metadata["option"] = m.group(1)
-
-            return state
+        # Detect if this is an option (A), (B), etc.
+        if self.OPTION.match(text):
+            state.metadata["option"] = True
 
         return state
