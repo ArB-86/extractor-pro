@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8459717631340027,
+    "bbox": [
+        420.90557861328125,
+        1274.2364501953125,
+        2045.6536865234375,
+        1341.9937744140625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/009_plain_text_0.85.png",
+    "text": "Anjali Gupte, Principal (Retd.), Vidya Bhavan Public school, Udaipur"
+}

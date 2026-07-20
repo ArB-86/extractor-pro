@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9172384738922119,
+    "bbox": [
+        379.1175537109375,
+        2431.751708984375,
+        1157.41845703125,
+        2502.197509765625
+    ],
+    "image_path": "debug/full_book/layout/page_013/003_title_0.92.png",
+    "text": "A Multiplication:\nShortcut"
+}

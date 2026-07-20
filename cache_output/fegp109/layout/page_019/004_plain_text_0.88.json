@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8802570700645447,
+    "bbox": [
+        288.77276611328125,
+        722.67529296875,
+        2083.064453125,
+        866.8598022460938
+    ],
+    "image_path": "cache_output/fegp109/layout/page_019/004_plain_text_0.88.png",
+    "text": "first case. What should the angle\nHint: Use 5 radial\narms\nfor the f\nbetween two adjacent radial a\narms be?"
+}

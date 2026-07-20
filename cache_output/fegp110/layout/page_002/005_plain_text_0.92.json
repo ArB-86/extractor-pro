@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9210782647132874,
+    "bbox": [
+        393.0617370605469,
+        2355.31787109375,
+        1200.0762939453125,
+        2571.206298828125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_002/005_plain_text_0.92.png",
+    "text": "Lift button\npresses\n and\nnumbers:\n+++\nis\nWritten\n+\n3\nas\n----is\nWritten\nas - 4"
+}

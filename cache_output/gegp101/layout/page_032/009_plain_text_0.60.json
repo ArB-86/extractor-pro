@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5968700647354126,
+    "bbox": [
+        312.4494934082031,
+        971.1357421875,
+        2183.627685546875,
+        1173.3935546875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_032/009_plain_text_0.60.png",
+    "text": "Using the meaning of multiplication and division, can you explain why\nio Aq uidninw pu z Aq uip s as au si s hq suinnu\nAns: 10 \u00f7 2 is the same as 5."
+}

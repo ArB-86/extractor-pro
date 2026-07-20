@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9360686540603638,
+    "bbox": [
+        295.8522644042969,
+        1861.1693115234375,
+        2088.927978515625,
+        1985.0704345703125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_015/004_plain_text_0.94.png",
+    "text": "Observe\nthe multiplication statements\nbelow. Do\n)younotice\nany\npatterns? See if this pattern extends for other numbers as well."
+}

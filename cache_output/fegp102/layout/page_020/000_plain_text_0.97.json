@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9686540365219116,
+    "bbox": [
+        419.84930419921875,
+        1591.8060302734375,
+        2211.768798828125,
+        1810.1220703125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_020/000_plain_text_0.97.png",
+    "text": "We\ne have seen\nhow to compare\nangles. But\nt can we actually\ntwoa\nhow\nbig\ne is using\na number without having\nquantify\nan angle\nto\ncompare it to another angle?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.7545689344406128,
+    "bbox": [
+        443.3896484375,
+        2045.19189453125,
+        719.1434936523438,
+        2105.299072265625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_048/006_plain_text_0.75.png",
+    "text": "Obtuse"
+}

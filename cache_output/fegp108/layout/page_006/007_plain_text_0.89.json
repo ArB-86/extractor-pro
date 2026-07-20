@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8892966508865356,
+    "bbox": [
+        517.7306518554688,
+        799.8027954101562,
+        1557.633056640625,
+        871.2176513671875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_006/007_plain_text_0.89.png",
+    "text": "For a hint, go to the end of the chapter."
+}

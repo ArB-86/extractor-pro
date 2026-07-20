@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.949082612991333,
+    "bbox": [
+        290.5776672363281,
+        1302.61181640625,
+        2082.552001953125,
+        1449.3197021484375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_004/003_plain_text_0.95.png",
+    "text": "Sushri Sandhya asked her students about the sizes of the shoes\nthey wear. She noted the data on the board."
+}

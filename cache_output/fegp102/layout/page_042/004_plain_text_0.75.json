@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.747408390045166,
+    "bbox": [
+        452.10382080078125,
+        2759.77197265625,
+        2211.41796875,
+        2985.66943359375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_042/004_plain_text_0.75.png",
+    "text": "Angles can\nbe straight\n(180\u00b0), right\n(90%),\nacute\n(more than\n0\u00b0\nandless\nthan\n90\u00b0), obtuse\n(more than\n90\u00b0\nand less t\nthan\n180\u00b0),\nand reflex\n(more\nthan\n180\u00b0\nand less\nthan\n360%)."
+}

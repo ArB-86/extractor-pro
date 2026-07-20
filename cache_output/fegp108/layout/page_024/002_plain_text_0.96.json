@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9568666815757751,
+    "bbox": [
+        523.4700927734375,
+        2790.24267578125,
+        2206.062744140625,
+        2930.22021484375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_024/002_plain_text_0.96.png",
+    "text": "Check if ABCD is indeed a rectangle satisfying properties R1\nand R2."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.9316297173500061,
+    "bbox": [
+        292.23541259765625,
+        393.945556640625,
+        2192.463134765625,
+        834.1079711914062
+    ],
+    "image_path": "cache_output/fegp107/layout/page_045/000_plain_text_0.93.png",
+    "text": "4\nAns.\nEach child's share in group\n7\n5\nEach child's share in group 2 =\n7\n5-\n4\nAnd\n7\n7\nThe groups in second part were easier to compare because the number of children is\nsame."
+}

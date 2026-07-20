@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5514744520187378,
+    "bbox": [
+        299.45245361328125,
+        846.5758666992188,
+        2084.05419921875,
+        1141.266845703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/007_plain_text_0.55.png",
+    "text": "Pictographs\nhelp\nquestions\nand\nmake\ninferences\ncan\nanswer\nabout\ndata\nWith\njust\nquick\nglance\n(in\nthe\nexamples\nabove\ne\n\u2014\nabout\nfavourite\nfavourite\ncolours,\ngames,\nmost\ncommon\nmodes\nof\nconveyance, number\n of students absent, etc.)."
+}

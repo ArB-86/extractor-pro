@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.969229519367218,
+    "bbox": [
+        375.9997253417969,
+        1972.2406005859375,
+        2088.789306640625,
+        2155.170166015625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/002_plain_text_0.97.png",
+    "text": "When the brackets are NOT p\npreceded by a negative sign, the terms\nwithin them do not change their signs upon removing\nthe brackets.\nNotice the sign of the terms 35 and - 10 in the above expression."
+}

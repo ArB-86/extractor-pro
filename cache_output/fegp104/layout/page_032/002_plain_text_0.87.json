@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8741303086280823,
+    "bbox": [
+        312.3856201171875,
+        2293.603759765625,
+        2086.82666015625,
+        2433.408203125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_032/002_plain_text_0.87.png",
+    "text": "Facts, numbers, measures, c\nobservations and other\ndescriptionsof\nthings that convey information about those things is called data."
+}

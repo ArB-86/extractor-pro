@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.5039595365524292,
+    "bbox": [
+        420.48052978515625,
+        1007.3272705078125,
+        2092.904052734375,
+        1146.3128662109375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/010_plain_text_0.50.png",
+    "text": "Chapter 2\nLines and Angles\n13"
+}

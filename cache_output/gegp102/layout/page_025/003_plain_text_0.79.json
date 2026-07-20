@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7944514155387878,
+    "bbox": [
+        414.5922546386719,
+        2568.26806640625,
+        841.015869140625,
+        2626.619140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/003_plain_text_0.79.png",
+    "text": "Ord\nler\n2\n6\n+\n4\n+\n6"
+}

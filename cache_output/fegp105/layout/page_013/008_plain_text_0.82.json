@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8206071853637695,
+    "bbox": [
+        294.065673828125,
+        1354.386962890625,
+        812.04833984375,
+        1422.165283203125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_013/008_plain_text_0.82.png",
+    "text": "Us\nJsing\nthis\ndiag\nagram,"
+}

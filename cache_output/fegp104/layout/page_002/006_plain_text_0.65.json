@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6510719060897827,
+    "bbox": [
+        365.8652038574219,
+        2526.28955078125,
+        1591.5074462890625,
+        2594.645263671875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_002/006_plain_text_0.65.png",
+    "text": "2.\nWhat is the most p\npopular\nin their class?\ngame i"
+}

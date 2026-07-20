@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9682736992835999,
+    "bbox": [
+        532.3042602539062,
+        2432.50390625,
+        2215.0048828125,
+        2803.69091796875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_008/000_plain_text_0.97.png",
+    "text": "5.\nMark any three points on your paper that are not on one line. Label\nthem A, B, C. Draw all\npossible\ne lines\ngoing\nthrough pairs of these\npoints. How many\nlines do you get? Name them. How many a\nangles\ncan you name using A, B, C? Write them down, and mark each of\nthem with a curve as in Fig. 2.9."
+}

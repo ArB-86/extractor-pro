@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.963360071182251,
+    "bbox": [
+        291.4624328613281,
+        1126.242431640625,
+        2087.2626953125,
+        1424.1944580078125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_010/001_plain_text_0.96.png",
+    "text": "To add\nand subtract even larger integers, we cani\nimagine even larger\nlifts! In fact, we\nimagine a l\nlift that\nextend\nforever\n can\ncan\nupwards\nforever\ndownwards, starting\nand :\nfrom\nLevel o. There\ndoes r\nnot\neven\nhave to be\nbuilding\nmine around\n-j\njust an\n\"infinite lift'!\nany\nor 1"
+}

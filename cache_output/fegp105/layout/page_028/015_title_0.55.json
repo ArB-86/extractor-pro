@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "title",
+    "confidence": 0.5501121282577515,
+    "bbox": [
+        295.2572021484375,
+        1135.6463623046875,
+        576.43017578125,
+        1196.9696044921875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_028/015_title_0.55.png",
+    "text": "age\n116\nP\nD\nno.\n6"
+}

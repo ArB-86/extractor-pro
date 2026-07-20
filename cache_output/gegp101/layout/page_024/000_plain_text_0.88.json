@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8750151991844177,
+    "bbox": [
+        367.4870910644531,
+        2813.111083984375,
+        1491.5489501953125,
+        3185.32666015625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_024/000_plain_text_0.88.png",
+    "text": "(a)\n3,00,600\nAns: Three lakh six hundred\n(b)\n5,04,085\nAns: Five lakh four thousand eighty\nfive"
+}

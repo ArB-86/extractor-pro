@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9408421516418457,
+    "bbox": [
+        1388.07861328125,
+        2747.506103515625,
+        2002.4666748046875,
+        2894.6181640625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/001_plain_text_0.94.png",
+    "text": "Chetan\nSharma, Animagic India\nAlankrita\na Amaya\nShri\nChitra\nCreative"
+}

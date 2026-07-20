@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9844838976860046,
+    "bbox": [
+        419.7261657714844,
+        1591.216064453125,
+        2081.75390625,
+        2103.88330078125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_008/001_plain_text_0.98.png",
+    "text": "Finally, this book aims to be more than just a textbook-it's a passport\nto a world of mathematical discovery and exploration. Whether used\nin the classroom or at home, we hope that it may inspire students to\nembark on their own mathematical adventures, e\nempowering\nthem\nto see the beauty and relevance of mathematics in everything around\nthem. With its engaging approach and comprehensive coverage of Grade\n   s  s     \nminds and set them on a lifelong journey of mathematical discovery."
+}

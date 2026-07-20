@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9259295463562012,
+    "bbox": [
+        401.93670654296875,
+        613.2551879882812,
+        2086.12060546875,
+        817.169189453125
+    ],
+    "image_path": "tmp_layout/page_009/004_plain_text_0.93.png",
+    "text": "8.\nWhat happens when you start to add up\nhexagonal numbers, i.e.,\ntake 1, 1 + 7, 1 + 7 + 19, 1 + 7 + 19 + 37, ... ? Which sequence do you\nget? Can you explain it using a picture of a cube?"
+}

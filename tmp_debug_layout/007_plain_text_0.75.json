@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7489138245582581,
+    "bbox": [
+        321.5175476074219,
+        2400.0654296875,
+        1438.9107666015625,
+        2464.966796875
+    ],
+    "image_path": "tmp_debug_layout/007_plain_text_0.75.png",
+    "text": "Example 6:\nThe\n number of factors\n 0f 36 is"
+}

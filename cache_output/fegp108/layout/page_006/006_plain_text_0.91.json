@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.91415935754776,
+    "bbox": [
+        493.533935546875,
+        2309.94677734375,
+        1285.7716064453125,
+        2375.197021484375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_006/006_plain_text_0.91.png",
+    "text": "Consider this rectangle ABCD."
+}

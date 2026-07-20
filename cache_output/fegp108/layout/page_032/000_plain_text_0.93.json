@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9269155263900757,
+    "bbox": [
+        297.72265625,
+        1596.127197265625,
+        2154.804443359375,
+        1782.348876953125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_032/000_plain_text_0.93.png",
+    "text": "Q.3. Draw at least 3 rotated squares and rectangles on a dot grid. Draw them such that\ntheir corners are on the dots. Verify if the squares and rectangles that you have\ndrawn satisfy their respective properties."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8835044503211975,
+    "bbox": [
+        294.88714599609375,
+        2149.242431640625,
+        2185.319091796875,
+        2265.538330078125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_022/007_plain_text_0.88.png",
+    "text": "Q6. Can you fill a supercell table without repeating numbers such that there are no\nsupercells? Why or why not?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.780291736125946,
+    "bbox": [
+        292.3972473144531,
+        1342.197509765625,
+        2146.3447265625,
+        1468.2337646484375
+    ],
+    "image_path": "tmp_run/layout/page_016/005_plain_text_0.78.png",
+    "text": "Q.7. What happens when you multiply the triangular numbers by 6 and add 1? Which\nsequence do you get? Can you explain it with a picture?"
+}

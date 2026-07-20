@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9225350022315979,
+    "bbox": [
+        422.7820739746094,
+        2050.84765625,
+        1686.7342529296875,
+        2140.348388671875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_001/003_title_0.92.png",
+    "text": "4.1 Collecting\nd Organising\nand\nData"
+}

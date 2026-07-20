@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9695392847061157,
+    "bbox": [
+        418.19549560546875,
+        2206.12646484375,
+        1276.1962890625,
+        2656.877197265625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_004/001_plain_text_0.97.png",
+    "text": "Complete Table 2 with 5-digit\nnumbers\nwhose\ndigits\n\u20181',\nare\n\"0', \u20186', \u20183', and \u20189' in some order.\nOnly\ncoloured\ncell\nshould\na\nhave a number\ngreater than all\nits neighbours."
+}

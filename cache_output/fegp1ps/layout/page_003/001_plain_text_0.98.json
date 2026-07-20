@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9849676489830017,
+    "bbox": [
+        420.654541015625,
+        2100.838623046875,
+        2081.883544921875,
+        2626.34375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_003/001_plain_text_0.98.png",
+    "text": "Such a transformative learning culture requires certain essential\nconditions. One of them is to have appropriate textbooks in different\ncurricular areas, as these textbooks will play a central role in mediating\nbetween content and pedagogy\u2014a role that will strike a judicious\nbalance between direct instruction and opportunities for exploration\nand inquiry. Among other conditions, classroom arrangement and\nteacher preparation are crucial to establish conceptual connections\nboth within and across curricular areas."
+}

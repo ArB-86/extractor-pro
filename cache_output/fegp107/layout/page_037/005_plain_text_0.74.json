@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.7386565804481506,
+    "bbox": [
+        404.34503173828125,
+        2112.97509765625,
+        2118.905517578125,
+        2177.149169921875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_037/005_plain_text_0.74.png",
+    "text": "One and a half, three quarters, one and a quarter, half, quarter, two and a half."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9444536566734314,
+    "bbox": [
+        420.435546875,
+        2280.765625,
+        2208.863037109375,
+        2423.38720703125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_023/000_plain_text_0.94.png",
+    "text": "In the example below, the circled numbers are -1, 9, -7, -2. If you\nadd them, you get -1."
+}

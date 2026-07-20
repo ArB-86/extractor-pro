@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9420228600502014,
+    "bbox": [
+        308.2908935546875,
+        1646.726806640625,
+        2090.9306640625,
+        1832.609619140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/007_plain_text_0.94.png",
+    "text": "Example 1: Mallika spends ?25\neveryc\nday for lunch at school. Write\nthe expression for the total\namount she spends on lunch in a week\nfrom Monday to Friday."
+}

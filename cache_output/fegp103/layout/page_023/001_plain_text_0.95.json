@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9515792727470398,
+    "bbox": [
+        308.3799133300781,
+        2715.6572265625,
+        2190.49365234375,
+        2901.911865234375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_023/001_plain_text_0.95.png",
+    "text": "Q. We are quite familiar with number lines now. Let's see if we can p\nplace some numbers\n1500, 3600, 9950, 9590, 1050, 3050, 5030, 5300 and 8400."
+}

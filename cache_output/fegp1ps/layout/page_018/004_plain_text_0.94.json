@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9354174137115479,
+    "bbox": [
+        418.570556640625,
+        1976.1527099609375,
+        2085.64501953125,
+        2241.912109375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_018/004_plain_text_0.94.png",
+    "text": "Try\nFinally, there are\nquestions marked\nThis\nThese\nquestions\ndemand\nmore creativity to be\nanswered,\nand therefore will also\noften\nbe\nfun\nmore\nto\nanswer\nas a result!"
+}

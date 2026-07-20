@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9617258906364441,
+    "bbox": [
+        417.44873046875,
+        1939.340087890625,
+        2211.52880859375,
+        2157.9970703125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_012/002_plain_text_0.96.png",
+    "text": "Letus1\n place it on the angle made by the second\ncrane so that the\nvertex coincides with the centre of the circle and one of the arms\nthrough OA.\npassest"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8369439244270325,
+    "bbox": [
+        585.15576171875,
+        1751.40234375,
+        873.5496826171875,
+        1808.6573486328125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_012/007_plain_text_0.84.png",
+    "text": "We\nsaw that\ne"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8851273655891418,
+    "bbox": [
+        395.2122497558594,
+        678.1694946289062,
+        787.1441650390625,
+        743.6514892578125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_005/002_plain_text_0.89.png",
+    "text": "Construct\nthis."
+}

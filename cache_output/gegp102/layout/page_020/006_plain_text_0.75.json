@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7474528551101685,
+    "bbox": [
+        494.56170654296875,
+        284.8842468261719,
+        2070.894287109375,
+        730.8782348632812
+    ],
+    "image_path": "cache_output/gegp102/layout/page_020/006_plain_text_0.75.png",
+    "text": "(b)\nBinu earns?\nR20,000\nper month. She spends 35,000\n on rent\n5,0o0 on food, and 2,0o0 on other expenses every r\nmonth.\nWhat is the amount Binu will\nI save by the end of a year?\n(c)\nDuring the daytime a snail climbs 3 cm up a post, and during\nthe night while asleep, accidentally slips down by 2 cm. The\npost is 10 cm high, and a delicious treat is on its top. In how\ndays will the snail\nKue\nget the treat?"
+}

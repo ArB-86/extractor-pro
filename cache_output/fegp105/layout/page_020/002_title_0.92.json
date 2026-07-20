@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.9230449795722961,
+    "bbox": [
+        421.2861633300781,
+        1563.0133056640625,
+        931.65576171875,
+        1632.421630859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_020/002_title_0.92.png",
+    "text": "S\np\nnumb\ne\np\ners"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8765985369682312,
+    "bbox": [
+        528.8036499023438,
+        396.2762451171875,
+        2047.7374267578125,
+        600.6994018554688
+    ],
+    "image_path": "tmp_inspect/layout/page_012/002_plain_text_0.88.png",
+    "text": "3.\nHow\nlittle\nthere\nin\neach\nshape\nmany\nsquares\nof\nthe\nare\nsequence\nof\nStacked\nSquares?\nWhich\nnumber\nsequence\ndoes\nthis\ngive? Can\nexplain\nWhy?\nyou"
+}

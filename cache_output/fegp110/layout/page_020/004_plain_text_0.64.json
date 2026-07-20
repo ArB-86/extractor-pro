@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6372542977333069,
+    "bbox": [
+        398.57318115234375,
+        2152.55126953125,
+        2091.58837890625,
+        2823.966064453125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_020/004_plain_text_0.64.png",
+    "text": "    n      \nWhich is the lowest point?\n3\u3002\nCan you write the points A, B, ..., Gin a sequence ofdecreasing order\nof heights? Can you write the points in a sequence of increasing\norder of heights?\n4. What is the highest point above sea level on Earth? What is its\nheight?\n5. What is the lowest point with respect to sea level on land or on the\nocean floor? What is its height? (This height should be negative)."
+}

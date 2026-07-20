@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.6161623001098633,
+    "bbox": [
+        436.196044921875,
+        986.9510498046875,
+        2209.321533203125,
+        1127.7757568359375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_022/004_plain_text_0.62.png",
+    "text": "The area of a closed figure is the measure of the region enclosed by\nthe figure."
+}

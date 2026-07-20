@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9385182857513428,
+    "bbox": [
+        292.41632080078125,
+        493.67559814453125,
+        2086.054443359375,
+        637.4796752929688
+    ],
+    "image_path": "cache_output/fegp110/layout/page_004/002_plain_text_0.94.png",
+    "text": "Start from the Food Court and\npress +2 in the lift. Where will\nyou\nreach?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "title",
+    "confidence": 0.8661316633224487,
+    "bbox": [
+        930.2299194335938,
+        1351.375,
+        1447.1629638671875,
+        1438.1602783203125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_028/002_title_0.87.png",
+    "text": "UMM\nY\nR"
+}

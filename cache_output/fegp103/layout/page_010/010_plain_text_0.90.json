@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8977585434913635,
+    "bbox": [
+        422.619873046875,
+        1561.810546875,
+        1807.8734130859375,
+        1631.4090576171875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_010/010_plain_text_0.90.png",
+    "text": "Find all\npossible dates of this form f\nfrom t\nthe past."
+}

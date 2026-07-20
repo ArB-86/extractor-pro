@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9095552563667297,
+    "bbox": [
+        293.66436767578125,
+        2919.8154296875,
+        2184.59033203125,
+        3042.49267578125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_026/004_plain_text_0.91.png",
+    "text": "Ans. If we reflect along the diagonal from A to C, D (\n occupies the position occupied by B\nearlier. A and C remain at the same place."
+}

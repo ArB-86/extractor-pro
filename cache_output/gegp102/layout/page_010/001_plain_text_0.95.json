@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9461225271224976,
+    "bbox": [
+        285.4690856933594,
+        1350.72021484375,
+        2085.907958984375,
+        1474.9935302734375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/001_plain_text_0.95.png",
+    "text": "Example 10: Kannan has to pay 432 to a shopkeeper using coins of 1\nand 5, and notes of 10, 20, 50 and 100. How can he do it?"
+}

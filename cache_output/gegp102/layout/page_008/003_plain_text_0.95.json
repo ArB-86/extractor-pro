@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9525851607322693,
+    "bbox": [
+        374.7876892089844,
+        2090.185546875,
+        2088.846435546875,
+        2334.22021484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/003_plain_text_0.95.png",
+    "text": "In\nmathematics\nthe phrase commutative\nweuse\nproperty\nof\naddition\ninstead\nof\nsaying\n\"swapping\nterms\ndoes\nnot\nchange\nthe\nSimilarly,\ngrouping\ndoes\nchange\nsum\".\nnot\nthe\nsum\niS\ncalled t\nthe\nassociative\ny of addition.\nproperty"
+}

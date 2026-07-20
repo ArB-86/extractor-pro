@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9014996886253357,
+    "bbox": [
+        295.4653625488281,
+        2009.0255126953125,
+        1376.5775146484375,
+        2079.921875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_009/004_plain_text_0.90.png",
+    "text": "Is it always easy to compare t\ntwoa\nangles?"
+}

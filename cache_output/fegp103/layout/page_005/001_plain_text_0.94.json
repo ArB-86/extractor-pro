@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9437910318374634,
+    "bbox": [
+        391.4292297363281,
+        1847.5804443359375,
+        2085.798583984375,
+        1990.3990478515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_005/001_plain_text_0.94.png",
+    "text": "Identify\nthe numbers marked on the number lines below, and label\nthe remaining positions."
+}

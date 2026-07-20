@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7383238077163696,
+    "bbox": [
+        1305.2642822265625,
+        2708.703125,
+        2085.21337890625,
+        2950.908935546875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_004/003_plain_text_0.74.png",
+    "text": "DINESH\nPRASAD\nSAKLANI\nDirector\nNational\nCouncil\nl of Educational\nTraining\nResearch\nand"
+}

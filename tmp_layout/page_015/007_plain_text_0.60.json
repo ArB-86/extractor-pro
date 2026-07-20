@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.6042898297309875,
+    "bbox": [
+        301.17999267578125,
+        2620.951904296875,
+        2141.174072265625,
+        2745.89794921875
+    ],
+    "image_path": "tmp_layout/page_015/007_plain_text_0.60.png",
+    "text": "Q.4. Which sequence do you get when you start to add the Counting numbers up? Can\nyou give a smaller pictorial explanation?"
+}

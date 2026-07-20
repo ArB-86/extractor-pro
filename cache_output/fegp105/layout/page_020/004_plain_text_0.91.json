@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9057749509811401,
+    "bbox": [
+        495.4143371582031,
+        2093.8486328125,
+        1826.474609375,
+        2156.917236328125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_020/004_plain_text_0.91.png",
+    "text": "Look at the what\nGuna's classmates\nhave to share:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8950048089027405,
+    "bbox": [
+        293.4976806640625,
+        1802.984130859375,
+        1238.48291015625,
+        1872.5684814453125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_011/006_plain_text_0.90.png",
+    "text": "But where\ndid Anshu\ngo\nWrong?"
+}

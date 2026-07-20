@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9671505093574524,
+    "bbox": [
+        291.485595703125,
+        2318.661376953125,
+        2086.63037109375,
+        2464.751220703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_008/000_plain_text_0.97.png",
+    "text": "Meanwhile, his friends Jarina and Sangita collected data on how\nmany students were present in each class:"
+}

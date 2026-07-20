@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9484813213348389,
+    "bbox": [
+        402.4871520996094,
+        1233.435546875,
+        1974.6004638671875,
+        1442.317626953125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_009/001_plain_text_0.95.png",
+    "text": "Help\nrecalling\nof finding\nstudents\nin\nthe\nmethod\nthe\narea\nof\na\nrectangle\nand\na s\nsquare\nusing grid\npapers. Provide\nsquare\ngrid\n to students and let them\ncome up\nwith the formula.\npapers"
+}

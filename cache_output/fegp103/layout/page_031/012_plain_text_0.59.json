@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.5874231457710266,
+    "bbox": [
+        291.46490478515625,
+        2672.75634765625,
+        2124.3642578125,
+        2731.826904296875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_031/012_plain_text_0.59.png",
+    "text": "Q.6. Write one 5-digit number and two 3-digit numbers such that their sum is 18,670."
+}

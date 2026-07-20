@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9635417461395264,
+    "bbox": [
+        292.2227783203125,
+        2661.866943359375,
+        1060.371826171875,
+        2879.242431640625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_011/000_plain_text_0.96.png",
+    "text": "Let\nfirst\nus\ndraw\ntheir\nangles.\nHow\ndo\nknow\nwe\none is bigger? As seen\nwhich"
+}

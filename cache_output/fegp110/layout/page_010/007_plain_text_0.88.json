@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8836427330970764,
+    "bbox": [
+        291.2287292480469,
+        494.683349609375,
+        985.4357299804688,
+        559.10009765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_010/007_plain_text_0.88.png",
+    "text": "Complete these expressions."
+}

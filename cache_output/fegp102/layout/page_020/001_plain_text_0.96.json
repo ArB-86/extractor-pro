@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9571329355239868,
+    "bbox": [
+        417.859619140625,
+        2718.898681640625,
+        2210.64599609375,
+        2862.92236328125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_020/001_plain_text_0.96.png",
+    "text": "Toassign\nprecise\n: measures to angles, mathematicians came\nup\nwith an idea. They divided the angle in the centre of the circle into"
+}

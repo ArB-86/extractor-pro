@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8115717768669128,
+    "bbox": [
+        447.21392822265625,
+        1362.408203125,
+        2083.002685546875,
+        1493.9212646484375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/005_plain_text_0.81.png",
+    "text": "6. S\nSujatha\nRamdorai,\nProfessor\nUniversity\nofE\nBritish Columbia,\nCanada"
+}

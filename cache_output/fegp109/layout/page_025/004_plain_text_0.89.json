@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8908331394195557,
+    "bbox": [
+        319.96734619140625,
+        1868.84716796875,
+        2087.350830078125,
+        2082.874755859375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_025/004_plain_text_0.89.png",
+    "text": "A line\nthat cuts aj\nplane\nfigure\ninto two\n parts that exactly\noverlap\nwhen folded along\ng that line is called a line of symmetry\n or axis of\nsymmetry of the figure."
+}

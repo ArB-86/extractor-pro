@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8907831907272339,
+    "bbox": [
+        418.80743408203125,
+        1870.762451171875,
+        2212.486328125,
+        2088.417724609375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_009/002_plain_text_0.89.png",
+    "text": "Since she\ne used one\nto show 10 students, she had a problem in\nshowing\nstudents and 35 students in the pictograph. Then, she\n25\nrealised she could\nuse\nto show 5 students."
+}

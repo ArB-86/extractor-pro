@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9188010096549988,
+    "bbox": [
+        333.3843078613281,
+        303.33538818359375,
+        2189.275390625,
+        493.0942687988281
+    ],
+    "image_path": "cache_output/fegp109/layout/page_035/001_plain_text_0.92.png",
+    "text": "Consider a figure with radial arms having exactly 7 angles of symmetry. What will be\nits smallest angle of symmetry? Is the number of degrees a whole number in this\ncase? If not, express it as a mixed faction."
+}

@@ -1,0 +1,132 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/jemh1dd/jemh114.pdf",
+  "sha256": "d5f516dc7109fe926ae7388aac3f4b87a776e41098fc517baec0eec000528d11",
+  "pages": 16,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Chap\u201314 (14th Nov.)",
+    "author": "admin",
+    "subject": "Chap\u201314 (14th Nov.)",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 10.1.1 (Windows)",
+    "creationDate": "D:20220817120209+05'30'",
+    "modDate": "D:20260324120043+05'30'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  },
+  "page_info": [
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    }
+  ]
+}

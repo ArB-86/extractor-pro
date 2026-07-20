@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.7826424241065979,
+    "bbox": [
+        402.6425476074219,
+        395.0296936035156,
+        2085.712890625,
+        538.8685302734375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_017/011_plain_text_0.78.png",
+    "text": "5.\nSheetalis in Grade 6 and says she has spent around 13,0o0 hours\nin school till date. Do you agree with her? Why or why not?"
+}

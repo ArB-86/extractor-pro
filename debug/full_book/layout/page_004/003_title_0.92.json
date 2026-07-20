@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9241694808006287,
+    "bbox": [
+        378.05517578125,
+        1977.9986572265625,
+        1302.3062744140625,
+        2050.576171875
+    ],
+    "image_path": "debug/full_book/layout/page_004/003_title_0.92.png",
+    "text": "Reading\nand Writing\nNumbers"
+}

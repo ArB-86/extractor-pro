@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9756115078926086,
+    "bbox": [
+        421.14984130859375,
+        1636.987548828125,
+        2082.445068359375,
+        1966.777099609375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/002_plain_text_0.98.png",
+    "text": "Fortunately,\n, it is\nnot\ndifficult\nto\ncreate\nsuch\nconditions\nin\nthe\nclassroom. It just requires an\ninteresting\n question, problem, pattern,\nchallenge to be thrown o\n open to the students on a regular basis, and\nor c\nsufficient time to be given to them to play with, discuss, and work on\nit as a class or in \n pairs or\ngroups."
+}

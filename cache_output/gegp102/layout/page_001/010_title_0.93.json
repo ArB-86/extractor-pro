@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9290574193000793,
+    "bbox": [
+        377.56378173828125,
+        972.165283203125,
+        1174.4556884765625,
+        1054.5823974609375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/010_title_0.93.png",
+    "text": "2.1 Simple Expressions"
+}

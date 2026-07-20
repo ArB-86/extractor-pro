@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8097843527793884,
+    "bbox": [
+        380.93756103515625,
+        2126.440673828125,
+        1386.5926513671875,
+        2193.1396484375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_004/006_plain_text_0.81.png",
+    "text": "Help her to figure out the following:\n1."
+}

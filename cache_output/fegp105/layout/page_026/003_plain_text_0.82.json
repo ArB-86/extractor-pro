@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8234226107597351,
+    "bbox": [
+        297.1888427734375,
+        1556.2991943359375,
+        2188.138916015625,
+        1741.9835205078125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_026/003_plain_text_0.82.png",
+    "text": "Q.3. Are there an equal number of primes occurring in every row in the table on the\nprevious page? Which decades have the least number of primes? Which have the\nmost number of primes?"
+}

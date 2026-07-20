@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9526862502098083,
+    "bbox": [
+        282.5662841796875,
+        286.0915832519531,
+        2087.81982421875,
+        468.8235778808594
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/002_plain_text_0.95.png",
+    "text": "Does adding\n the terms of an expression in any order 8\ngivethe same\nvalue? Take some more expressions and check. Consider expressions\nwith more than 3 terms also."
+}

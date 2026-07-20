@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9470208883285522,
+    "bbox": [
+        432.5539245605469,
+        284.9313659667969,
+        2087.93994140625,
+        411.489990234375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/002_plain_text_0.95.png",
+    "text": "because the value of 10 + 2 = 12 is greater than the value of 7 + 1 = 8.\nSimilarly,"
+}

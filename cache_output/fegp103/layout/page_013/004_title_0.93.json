@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9274709820747375,
+    "bbox": [
+        294.6789855957031,
+        1585.747314453125,
+        1531.2152099609375,
+        1674.1551513671875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_013/004_title_0.93.png",
+    "text": "3.9 Playing\nWith Number\nPatterns"
+}

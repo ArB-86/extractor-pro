@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8481379747390747,
+    "bbox": [
+        589.073486328125,
+        1405.41552734375,
+        1955.479248046875,
+        1472.310791015625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_001/006_plain_text_0.85.png",
+    "text": "Children sit in a circle\nand\n play a game of numbers."
+}

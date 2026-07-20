@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9550535678863525,
+    "bbox": [
+        423.4239196777344,
+        2764.39208984375,
+        2084.7216796875,
+        2959.068115234375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_016/005_plain_text_0.96.png",
+    "text": "1\u3002\nIt is important to routinely pose new problems, questions, patterns,\nor challenges to the students and\ngive them sufficient time to play\nwith, discuss, and work on them, individually and in groups."
+}

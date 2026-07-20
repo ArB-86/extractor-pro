@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9781908988952637,
+    "bbox": [
+        418.3963623046875,
+        1837.7432861328125,
+        2039.6695556640625,
+        2210.1259765625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_010/000_plain_text_0.98.png",
+    "text": "Observe\nthe following\nart. The first diagram\nthread\nhas 12\nand\nthe\nthread is t\ntied to e\nevery\nfourth\npeg\n(we\nthat\npegs\nsay\nthe thread-gap is 4). The\ne second diagram has 13\npegs\nand t\nthe\nthread-gap is 3. What about the other diagrams? Observe these\npictures, share and discuss\nfindings in class.\nyour"
+}

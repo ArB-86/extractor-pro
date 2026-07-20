@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9591112732887268,
+    "bbox": [
+        406.9487609863281,
+        1962.320068359375,
+        2080.790283203125,
+        2328.223876953125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_024/001_plain_text_0.96.png",
+    "text": "3.\nTherea\ntwo\ndice whose\nare\nfaces\nhave\nthese\nnumbers: -1,2,-3,\n4, -5, 6. The smallest possible sum upon rolling these dice is -10\n= (-5) +\n\uff08-5) a\nand the largest p\npossible sum is 12 = (6) + (6). Some\nnumbers between (-10) and (+ 12) are not possible to get by adding\nnumbers on these two dice. Find those numbers."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9320242404937744,
+    "bbox": [
+        294.12060546875,
+        297.1054992675781,
+        2159.220458984375,
+        486.6546630859375
+    ],
+    "image_path": "tmp_inspect/layout/page_016/000_plain_text_0.93.png",
+    "text": "Q.5. What happens when you add up pairs of consecutive triangular numbers? That is,\ntake 1 + 3, 3 + 6, 6 + 10, 10 + 15, ... ? Which sequence do you get? Why? Can you\nexplain it with a picture?"
+}

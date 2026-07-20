@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8338648676872253,
+    "bbox": [
+        505.6437683105469,
+        275.89105224609375,
+        1409.9619140625,
+        628.5294189453125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_019/006_plain_text_0.83.png",
+    "text": "(m) 5 \u00d7(12 -_) =\n5x\n(u)\n(15 -_\n)\u00d7 7 =\n6 \u00d7 7\n(o)\n5\u00d7\uff08_\n _)=5\u00d79-5\u00d7 4\n(p)\n=1\n17\u00d7 7-9 \u00d7 7"
+}

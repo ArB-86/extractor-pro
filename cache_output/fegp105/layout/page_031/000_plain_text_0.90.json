@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9009242057800293,
+    "bbox": [
+        294.9120178222656,
+        297.6593322753906,
+        2186.595703125,
+        426.718994140625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/000_plain_text_0.90.png",
+    "text": "Q.3. The first number has prime factorisation 2 x 3 x 7 and the second number has prime\nfactorisation 3 x 7 x 11. Are they co-prime? Does one of them divide the other?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7798023223876953,
+    "bbox": [
+        427.68988037109375,
+        745.5532836914062,
+        2014.9107666015625,
+        812.0467529296875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_010/003_plain_text_0.78.png",
+    "text": "The sidelength of each of the four square\nflower beds is (s) = 4 m."
+}

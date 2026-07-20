@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7676049470901489,
+    "bbox": [
+        614.1683349609375,
+        622.8408203125,
+        2210.251953125,
+        764.4888305664062
+    ],
+    "image_path": "cache_output/fegp109/layout/page_008/003_plain_text_0.77.png",
+    "text": "Figure\n(d)\nWas created by punching a single hole. How was\nthe\npaper folded?"
+}

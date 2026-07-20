@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.9214411973953247,
+    "bbox": [
+        376.366455078125,
+        1870.49658203125,
+        1153.1126708984375,
+        1943.0943603515625
+    ],
+    "image_path": "debug/full_book/layout/page_014/001_title_0.92.png",
+    "text": "How\nLong\nis the Product?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9593445062637329,
+    "bbox": [
+        377.2660217285156,
+        285.60858154296875,
+        2090.009521484375,
+        468.87017822265625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/003_plain_text_0.96.png",
+    "text": "order matters. She should\nWear socks and then shoes. If she\nwears\nshoes and then socks, Manasa will feel very\nuncomfortable and look\nveryc\ndifferent."
+}

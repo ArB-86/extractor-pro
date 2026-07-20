@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8708900213241577,
+    "bbox": [
+        295.10626220703125,
+        789.5221557617188,
+        2186.05712890625,
+        909.9357299804688
+    ],
+    "image_path": "cache_output/fegp104/layout/page_034/004_plain_text_0.87.png",
+    "text": "Q.1. What would you do to find the most popular game among\ng Naresh's and Navya's\nclassmates?"
+}

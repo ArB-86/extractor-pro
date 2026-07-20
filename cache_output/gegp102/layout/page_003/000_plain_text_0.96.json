@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9615510702133179,
+    "bbox": [
+        376.4068298339844,
+        1109.010498046875,
+        2095.786376953125,
+        1348.3865966796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/000_plain_text_0.96.png",
+    "text": "Sometimes, when an e\n not accompanied by a context, there\nexpression is\nbe\nthan\nevaluating\ncan\nway of\nits\nvalue. In\nmore\none\nsuch\ncases,\nwe\nrules to specify how \n tools\nexactly the expression\nneed\nsome\nand\nhas\nsto\nbe evaluated."
+}

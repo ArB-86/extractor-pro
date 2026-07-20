@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8214778900146484,
+    "bbox": [
+        286.94012451171875,
+        1079.20556640625,
+        1787.8621826171875,
+        1168.1964111328125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_013/006_plain_text_0.82.png",
+    "text": "Jaya: When I have 3\n3-4\nthis means 1 + 1 + 1 +\n+"
+}

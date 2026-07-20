@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8265154957771301,
+    "bbox": [
+        297.7140197753906,
+        2761.978515625,
+        558.41650390625,
+        2914.598876953125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_024/004_plain_text_0.83.png",
+    "text": "Ans.\na. 35\nb. 45"
+}

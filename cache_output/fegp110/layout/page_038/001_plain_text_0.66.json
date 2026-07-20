@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.6628943085670471,
+    "bbox": [
+        364.7469177246094,
+        507.23736572265625,
+        1571.8033447265625,
+        578.1580200195312
+    ],
+    "image_path": "cache_output/fegp110/layout/page_038/001_plain_text_0.66.png",
+    "text": "Note: Cut each shape along\nthe white border."
+}

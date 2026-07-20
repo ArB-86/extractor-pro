@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9716371297836304,
+    "bbox": [
+        291.448486328125,
+        1634.4776611328125,
+        2087.966552734375,
+        1932.56982421875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_001/001_plain_text_0.97.png",
+    "text": "Mark a dot on\nthe\npaper with a sharp\ntip of a pencil. The sharper\nthe\ntip, the t\nthinner\nWill\nI be the dot. This\ntiny\ndot\nt Will\ngive\nidea of\nyou\nan\npoint. A\npoint\ndetermines\nlocation,\n,but it has\na precise\nlength,\na\nno\nbreadth\nheight. Some\nmodels for a\n or\n are\ngiven\nbelow.\npoint"
+}

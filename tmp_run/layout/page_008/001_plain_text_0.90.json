@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8958982229232788,
+    "bbox": [
+        419.9056701660156,
+        394.70086669921875,
+        1653.0247802734375,
+        468.170654296875
+    ],
+    "image_path": "tmp_run/layout/page_008/001_plain_text_0.90.png",
+    "text": "Can you find a similar pictorial\nexplanation?"
+}

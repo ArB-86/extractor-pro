@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7423414587974548,
+    "bbox": [
+        512.8018188476562,
+        2623.024169921875,
+        2089.493896484375,
+        2889.34326171875
+    ],
+    "image_path": "debug/full_book/layout/page_011/010_plain_text_0.74.png",
+    "text": "(a)\nAre\nthese\nestimates\n Whose\nestimate is closer to t\nthe\n correct?\ndifference?\n(b)\nWill\nthe\ndifference\nbe\ngreater\nthan\n9,50,000\nor\nless\nthan\n9,50,000? Why\ndo\nthink so?\nyou"
+}

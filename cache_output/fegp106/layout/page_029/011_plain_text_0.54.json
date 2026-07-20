@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.5410171747207642,
+    "bbox": [
+        413.6887512207031,
+        1313.4990234375,
+        1558.961181640625,
+        1373.9986572265625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_029/011_plain_text_0.54.png",
+    "text": "Corresponding\nPerimeters =18m, 24m, 42m respectively"
+}

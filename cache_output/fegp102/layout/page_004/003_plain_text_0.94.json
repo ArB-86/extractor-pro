@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9361962080001831,
+    "bbox": [
+        530.9420166015625,
+        1790.558837890625,
+        2207.5390625,
+        1932.596923828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_004/003_plain_text_0.94.png",
+    "text": "4\u3002\nDraw a rough figure and write labels appropriately to illustrate\neach of the following:"
+}

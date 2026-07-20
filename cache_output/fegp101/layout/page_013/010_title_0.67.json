@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.6650976538658142,
+    "bbox": [
+        971.7373657226562,
+        410.674072265625,
+        1509.0648193359375,
+        463.9980163574219
+    ],
+    "image_path": "cache_output/fegp101/layout/page_013/010_title_0.67.png",
+    "text": "Patterns\nin\nMathematics"
+}

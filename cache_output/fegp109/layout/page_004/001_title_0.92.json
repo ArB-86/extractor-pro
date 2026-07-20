@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9176943302154541,
+    "bbox": [
+        420.8750915527344,
+        398.2391052246094,
+        1789.197265625,
+        471.25982666015625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_004/001_title_0.92.png",
+    "text": "Figures with\nthan c\nline of:\nmore\none\nsymmetry"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9396291971206665,
+    "bbox": [
+        419.71673583984375,
+        482.8244934082031,
+        2210.962158203125,
+        629.2319946289062
+    ],
+    "image_path": "cache_output/fegp106/layout/page_020/000_plain_text_0.94.png",
+    "text": "In each figure, find the missing value of either the length of a side or\nthe area of a region."
+}

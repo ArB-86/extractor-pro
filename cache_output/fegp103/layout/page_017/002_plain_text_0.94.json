@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9414339065551758,
+    "bbox": [
+        292.21600341796875,
+        1430.65185546875,
+        2084.007080078125,
+        1573.1646728515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_017/002_plain_text_0.94.png",
+    "text": "Numbers\nalso be\n used to 1\nplay\ndevelop\nwinning\ncana\ngames and\nstrategies."
+}

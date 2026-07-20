@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9333106279373169,
+    "bbox": [
+        418.8133239746094,
+        1957.56982421875,
+        2208.339111328125,
+        2097.711181640625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_014/001_plain_text_0.93.png",
+    "text": "Make your\nfraction wall\nusing\n such strips as\ngiven in the\nown\npicture below!"
+}

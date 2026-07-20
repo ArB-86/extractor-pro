@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9247523546218872,
+    "bbox": [
+        294.8822326660156,
+        1530.0509033203125,
+        1162.3477783203125,
+        1589.8665771484375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_028/000_plain_text_0.92.png",
+    "text": "Ans.\nThe\n pairs of co-prime n\nnumbers are:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7365557551383972,
+    "bbox": [
+        384.3548278808594,
+        2633.828369140625,
+        1115.9505615234375,
+        2698.6806640625
+    ],
+    "image_path": "debug/full_book/layout/page_025/002_plain_text_0.74.png",
+    "text": "(a) Five hundred?\n50 times"
+}

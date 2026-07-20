@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9833347201347351,
+    "bbox": [
+        419.8298645019531,
+        923.7787475585938,
+        2210.23876953125,
+        1516.8487548828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_022/000_plain_text_0.98.png",
+    "text": "Perhaps the most important and practical answer for why\nmathematicians over the years have liked and continued to use 360\ndegrees is that 360 is the smallest number that can be evenly divided\nby all numbers up to 10, aside from 7. Thus, one can break up the\ncircle into 1, 2, 3, 4, 5, 6, 8, 9 or 10 equal parts, and still have a whole\nnumber of degrees in each part! Note that 360 is also evenly divisible\nby 12, the number of months in a year, and by 24, the number of\nS            s"
+}

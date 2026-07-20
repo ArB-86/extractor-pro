@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6227853894233704,
+    "bbox": [
+        420.4386901855469,
+        1998.455078125,
+        2210.41650390625,
+        2219.00634765625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_028/012_plain_text_0.62.png",
+    "text": "2. Add these\nequivalent fractions with the same\nfractional\nunits.\nThis can be done by adding the numerators and keeping the same\ndenominator."
+}

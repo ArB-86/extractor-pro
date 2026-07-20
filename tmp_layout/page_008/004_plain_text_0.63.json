@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6258781552314758,
+    "bbox": [
+        532.095458984375,
+        1268.3653564453125,
+        2072.82080078125,
+        1471.9158935546875
+    ],
+    "image_path": "tmp_layout/page_008/004_plain_text_0.63.png",
+    "text": "Can\nfind a similar\nexplanation:\nfor why a\nadding\n1.\nyou\npictorial\ncounting\nnumbers\nand down, i.e., 1\ns up\n1, 1\n+\n2\n+\n1, 1\n+\n2\n+\n3\n+\n2\nY,\n+\ngives square numbers?"
+}

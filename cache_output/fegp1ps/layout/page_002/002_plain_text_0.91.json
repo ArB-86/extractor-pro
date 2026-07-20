@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9134095311164856,
+    "bbox": [
+        333.6642761230469,
+        714.5322875976562,
+        970.863525390625,
+        818.6006469726562
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/002_plain_text_0.91.png",
+    "text": "December 2024\nPausha\n1946\nJanuary\n2026\nPausha\n1947"
+}

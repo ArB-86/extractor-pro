@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9578094482421875,
+    "bbox": [
+        292.55322265625,
+        2336.62939453125,
+        2085.48388671875,
+        2555.56591796875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_001/001_plain_text_0.96.png",
+    "text": "The\nflower\nlooks\nthe\nfrom many\ndifferent angles. What\nsame\nabout the butterfly? No doubt, the colours are very\nattractive. But\nwhat else about the butterfly a\nappeals to you?"
+}

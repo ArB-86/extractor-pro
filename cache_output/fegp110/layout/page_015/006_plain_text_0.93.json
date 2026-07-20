@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9256250262260437,
+    "bbox": [
+        492.74237060546875,
+        2371.3291015625,
+        1780.152587890625,
+        2440.64013671875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_015/006_plain_text_0.93.png",
+    "text": "We can\nsuch addition using tokens!\nperform a\nany"
+}

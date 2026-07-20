@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9454771280288696,
+    "bbox": [
+        415.27972412109375,
+        1886.1519775390625,
+        2207.529541015625,
+        2033.10498046875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_008/003_plain_text_0.95.png",
+    "text": "Find out the length of the boundary\n(i.e., the perimeter) of each\nof the other arrangements below."
+}

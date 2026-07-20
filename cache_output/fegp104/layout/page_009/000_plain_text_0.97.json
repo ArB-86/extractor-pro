@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9682485461235046,
+    "bbox": [
+        418.834716796875,
+        394.4173278808594,
+        2212.94091796875,
+        617.0941772460938
+    ],
+    "image_path": "cache_output/fegp104/layout/page_009/000_plain_text_0.97.png",
+    "text": "If they want to show their data through a pictograph, where they\nalso use one symbol\nfor each student, as Lakhanpal did, what are\nthe challenges they might face?"
+}

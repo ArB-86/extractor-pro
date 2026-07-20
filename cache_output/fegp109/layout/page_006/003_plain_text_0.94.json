@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9444685578346252,
+    "bbox": [
+        421.6422119140625,
+        2193.1435546875,
+        2208.73828125,
+        2405.32958984375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_006/003_plain_text_0.94.png",
+    "text": "You enjoyed doing\ng this earlier in Class 5. Take a piece of paper. Fold\nit in half. Open the paper and spill a few drops of ink (or paint)\non\none half."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.8056960105895996,
+    "bbox": [
+        294.67279052734375,
+        586.3833618164062,
+        577.196044921875,
+        648.9054565429688
+    ],
+    "image_path": "cache_output/fegp105/layout/page_030/004_title_0.81.png",
+    "text": "Pa\nage\n122\nno."
+}

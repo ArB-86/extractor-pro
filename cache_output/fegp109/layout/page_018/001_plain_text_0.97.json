@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9662461280822754,
+    "bbox": [
+        418.6601257324219,
+        1859.7757568359375,
+        2209.14453125,
+        2072.643798828125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_018/001_plain_text_0.97.png",
+    "text": "So, the radial arms\nfigure with 3 arms shows rotational symmetry\nwhen the angle between the adjacent dotted lines is 120\u00b0. Use paper\ncutouts to verify this observation."
+}

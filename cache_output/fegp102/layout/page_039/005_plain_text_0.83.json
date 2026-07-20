@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.8285791873931885,
+    "bbox": [
+        457.0888977050781,
+        2256.911376953125,
+        912.1663818359375,
+        2317.917724609375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_039/005_plain_text_0.83.png",
+    "text": "An\nacute\na\nang\ne"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.9150129556655884,
+    "bbox": [
+        293.841796875,
+        675.8492431640625,
+        998.3886108398438,
+        758.5828247070312
+    ],
+    "image_path": "cache_output/fegp104/layout/page_008/006_title_0.92.png",
+    "text": "Drawing a\n a Pictograph"
+}

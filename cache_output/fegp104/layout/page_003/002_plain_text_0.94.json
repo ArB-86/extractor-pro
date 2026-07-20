@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.937869131565094,
+    "bbox": [
+        596.1885375976562,
+        394.8890380859375,
+        2214.02587890625,
+        535.9659423828125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_003/002_plain_text_0.94.png",
+    "text": "(X) for the questions where she doesn't need to collect\nput a cross\ndata. Discuss\nyour answers in the classroom."
+}

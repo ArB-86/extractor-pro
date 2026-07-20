@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.5374817252159119,
+    "bbox": [
+        500.9955749511719,
+        554.7393188476562,
+        2085.64453125,
+        908.828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_019/007_plain_text_0.54.png",
+    "text": "How\nright\nangles\ndo\nhave\nnow?\nJustify\nwhy\nthe\na.\nmany\nyou\nangles are exact right angles.\nb.\nDescribe how\nfolded the\npaper so\nthat any\nyou f\nother\nperson\nwho\ndoesn't\nknow\nthe\nsimply\nfollow\nprocess\ncan\nyour\ndescription to\nget the right angle."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6939432621002197,
+    "bbox": [
+        508.2034912109375,
+        1706.43212890625,
+        2187.384521484375,
+        1922.23046875
+    ],
+    "image_path": "debug/full_book/layout/page_024/004_plain_text_0.69.png",
+    "text": "Look\nthe j\npicture on\nthe right. Somu\nat\nis 1\nmetre tall. If\neach floor\nis a\nabout\nfour\ntimes\nhis\nheight,\nwhat j\nis 1\nthe\n approximate height of\nthe l\nbuilding? (Refer\n textbook for\nthe\npicture)"
+}

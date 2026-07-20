@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9639206528663635,
+    "bbox": [
+        396.69366455078125,
+        286.0108337402344,
+        2111.367431640625,
+        533.259521484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_021/000_plain_text_0.96.png",
+    "text": "Identify\nwhich of the following\n5.\nexpressions\nto t\nthe\nare\nequal\ngiven\nwithout\ncomputation. You\nmay rewrite the expressions\nexpression\nusing\nterms\nremoving\nbrackets. T\nThere\nbe\nor\nthan\ncan\none\nwhich is equal\nto the\nexpression\ngiven\nexpression."
+}

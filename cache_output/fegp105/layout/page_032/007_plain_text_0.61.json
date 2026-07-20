@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.6112011075019836,
+    "bbox": [
+        411.3363037109375,
+        2166.870361328125,
+        1779.7144775390625,
+        2229.62890625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_032/007_plain_text_0.61.png",
+    "text": "b. From the year 2024 till 2099, how many\nleap years are\nthere?\n1"
+}

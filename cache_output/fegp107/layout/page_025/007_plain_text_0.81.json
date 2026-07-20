@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8091678023338318,
+    "bbox": [
+        365.2967224121094,
+        2320.26806640625,
+        943.1224365234375,
+        2384.90966796875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_025/007_plain_text_0.81.png",
+    "text": "The total chikki \neaten"
+}

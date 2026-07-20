@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8159670233726501,
+    "bbox": [
+        419.1534729003906,
+        1451.09228515625,
+        1944.816162109375,
+        1518.7750244140625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_010/014_plain_text_0.82.png",
+    "text": "digits read the same\nfrom left to right and from right to left"
+}

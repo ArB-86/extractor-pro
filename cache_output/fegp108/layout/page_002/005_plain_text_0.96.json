@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9553492069244385,
+    "bbox": [
+        418.8231201171875,
+        620.1357421875,
+        2210.329833984375,
+        763.31591796875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_002/005_plain_text_0.96.png",
+    "text": "Observe t\n the way a compass is made. What can one \ne draw with the\ncompass? Explore!"
+}

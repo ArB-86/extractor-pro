@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.879875659942627,
+    "bbox": [
+        420.0364685058594,
+        1774.4315185546875,
+        2083.089111328125,
+        1906.6964111328125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/006_plain_text_0.88.png",
+    "text": "Madhu B., Assistant Professor, Regional Institute of Education (RIE),\nMysuru"
+}

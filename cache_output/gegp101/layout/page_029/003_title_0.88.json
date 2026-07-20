@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "title",
+    "confidence": 0.8809309005737305,
+    "bbox": [
+        295.68316650390625,
+        1062.3013916015625,
+        564.9953002929688,
+        1126.66943359375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_029/003_title_0.88.png",
+    "text": "P\nPage\nNo.\n6"
+}

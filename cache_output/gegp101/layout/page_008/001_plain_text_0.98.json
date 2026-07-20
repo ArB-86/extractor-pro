@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9763592481613159,
+    "bbox": [
+        378.41015625,
+        287.67657470703125,
+        2090.122314453125,
+        530.7390747070312
+    ],
+    "image_path": "cache_output/gegp101/layout/page_008/001_plain_text_0.98.png",
+    "text": "What\nt if\nwe\nthe\n+10,00,000\nbutton\nten\ntimes?\nWhat\npress\nnumber\nWill\ncome up? How\nWill it have? What should\nwe call\nI it?\nmany\nzeroes\nThe\nnumber\nwill be 100 lakhs, which is also\ncalled a crore. 1 c\ncrore is\nwritten as\n1,00,00,000 \u2014 it is 1 followed by s\nseven\nzeroes."
+}

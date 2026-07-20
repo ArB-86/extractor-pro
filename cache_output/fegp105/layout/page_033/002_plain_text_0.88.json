@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8835349678993225,
+    "bbox": [
+        297.1562194824219,
+        2153.898193359375,
+        2187.044921875,
+        2275.975830078125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_033/002_plain_text_0.88.png",
+    "text": "Ans.\nThe two numbers that are sufficient to declare the divisibility of 14560 by 2, 4, 5, 8 and\n10 are 5 and 8."
+}

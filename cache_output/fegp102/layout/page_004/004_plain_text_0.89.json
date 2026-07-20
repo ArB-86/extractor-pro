@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8876727819442749,
+    "bbox": [
+        530.7855224609375,
+        2373.566650390625,
+        1050.6473388671875,
+        2446.283935546875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_004/004_plain_text_0.89.png",
+    "text": "In\nFig.\n5\n2\n6\nname:"
+}

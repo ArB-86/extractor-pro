@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "title",
+    "confidence": 0.8418601751327515,
+    "bbox": [
+        1124.3858642578125,
+        410.98382568359375,
+        1354.599365234375,
+        466.5790710449219
+    ],
+    "image_path": "cache_output/fegp109/layout/page_026/011_title_0.84.png",
+    "text": "Symmetry"
+}

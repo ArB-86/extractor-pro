@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.5397246479988098,
+    "bbox": [
+        297.00732421875,
+        876.3825073242188,
+        2190.451904296875,
+        1246.9820556640625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_030/009_plain_text_0.54.png",
+    "text": "Ans.\na) 28, 14,7,22, 11,34, 17,52,26, 13, 40, 20, 10,5, 16, 8,4,2, 1\nb) 19,58,29,88,44, 22, 11,34,17,52,26, 13,40,20, 10,5,16,8,4,2,1\nYes we always reach 1.\nThe even numbers are halved and when we have an odd number we convert it into\nan even number by multiplying by 3 and adding 1 so that eventually it can be halved\nagain. The smallest even number is 2 so we will ;\nreach 1 for sure."
+}

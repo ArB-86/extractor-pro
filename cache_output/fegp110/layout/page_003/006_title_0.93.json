@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9340447187423706,
+    "bbox": [
+        422.3522033691406,
+        397.40155029296875,
+        1728.7852783203125,
+        472.4563293457031
+    ],
+    "image_path": "cache_output/fegp110/layout/page_003/006_title_0.93.png",
+    "text": "Numbering\nthe floors\nin the building of fun"
+}

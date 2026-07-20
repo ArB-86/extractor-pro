@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.958199143409729,
+    "bbox": [
+        419.3363037109375,
+        1040.90234375,
+        2207.932861328125,
+        1184.0799560546875
+    ],
+    "image_path": "tmp_inspect/layout/page_006/002_plain_text_0.96.png",
+    "text": "Sometimes, number sequences can\nbe related to each other\nin\nsurprising ways."
+}

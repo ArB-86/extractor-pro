@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8750925064086914,
+    "bbox": [
+        297.7696838378906,
+        2593.063720703125,
+        2185.8916015625,
+        2719.391845703125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_053/004_plain_text_0.88.png",
+    "text": "Ans. The lowest know point on the Earth is the challenger deep, located in the Mariana trench\nin the Pacific Ocean. Its depth is approximately -10994 m."
+}

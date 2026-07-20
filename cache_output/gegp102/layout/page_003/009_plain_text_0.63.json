@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6269264221191406,
+    "bbox": [
+        455.2339172363281,
+        1488.6351318359375,
+        1411.7344970703125,
+        1612.5233154296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/009_plain_text_0.63.png",
+    "text": "a)\nSentence:\n\uff0c\n'Shalini\nsat\nnext\nto\na\nfriend\nWith toys\"."
+}

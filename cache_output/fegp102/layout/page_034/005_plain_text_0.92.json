@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9188653826713562,
+    "bbox": [
+        420.5241394042969,
+        2500.78955078125,
+        2209.385498046875,
+        2576.135498046875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_034/005_plain_text_0.92.png",
+    "text": "Vidya wants to draw a 30\u00b0 angle and name it ZTIN using a protractor."
+}

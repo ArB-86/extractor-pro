@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7042630314826965,
+    "bbox": [
+        421.0428161621094,
+        2179.81396484375,
+        2085.130126953125,
+        2312.10693359375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/009_plain_text_0.70.png",
+    "text": "12. S\nSanjeev\nSanyal,\nMember\nEconomic\nAdvisory\nCouncil-Prime\nMinister (EAC-PM)"
+}

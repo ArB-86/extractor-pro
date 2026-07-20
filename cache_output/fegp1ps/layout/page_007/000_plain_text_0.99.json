@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9861045479774475,
+    "bbox": [
+        420.5455322265625,
+        1011.6419067382812,
+        2084.500732421875,
+        1974.843017578125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_007/000_plain_text_0.99.png",
+    "text": "In all chapters, an attempt has been made to emphasise connections\nwith other subjects including Art, History, and Science. Many pictures\ns       s s\nconstructions, symmetry, games, puzzles, etc., to thereby develop\nvisual and artistic imagination, intuition for mathematical objects and\nprinciples. The history of various mathematical concepts has been\ndescribed, including Brahmagupta's world-changing discoveries in the\nyear 628 C.E. of the laws for addition and subtraction of fractions and of\nzero and negative numbers. Other discoveries from around the world,\nof unit fractions, searching for primes, Collatz Conjecture, Kaprekar\nnumbers, etc., have also been described with their historyto help students\nappreciate and humanize the joy and process of discovery. Examples\nheights above or below sea level) also abound to illustrate the importance\nof the use of mathematical concepts in Science."
+}

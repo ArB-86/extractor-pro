@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6728885769844055,
+    "bbox": [
+        529.282470703125,
+        1016.6427612304688,
+        2061.09375,
+        1651.2420654296875
+    ],
+    "image_path": "tmp_layout/page_002/008_plain_text_0.67.png",
+    "text": "1\u3002\nCan you think of other examples where mathematics helps\nus in our everyday lives?\n2\u3002]\n How has mathematics helped propelhumanity forward? (You\nmight think of examples involving: carrying out scientific\nexperiments; running our economy and democracy; building\nmobile phones, computers, bicycles, trains, cars, planes,\ncalendars, clocks, etc.)"
+}

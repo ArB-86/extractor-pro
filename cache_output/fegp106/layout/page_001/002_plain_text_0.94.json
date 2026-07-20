@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9363185167312622,
+    "bbox": [
+        290.06524658203125,
+        1842.888916015625,
+        2082.142578125,
+        1986.933837890625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_001/002_plain_text_0.94.png",
+    "text": "Let us revise the formulas for the perimeter of rectangles, squares,\nand triangles."
+}

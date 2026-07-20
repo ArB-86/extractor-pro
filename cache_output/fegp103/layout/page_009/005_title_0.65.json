@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.6515485644340515,
+    "bbox": [
+        293.8244323730469,
+        2186.67724609375,
+        592.1595458984375,
+        2256.351318359375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_009/005_title_0.65.png",
+    "text": "Explore"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.951009213924408,
+    "bbox": [
+        293.9024658203125,
+        397.49420166015625,
+        2085.493896484375,
+        641.5186157226562
+    ],
+    "image_path": "cache_output/fegp107/layout/page_035/000_plain_text_0.95.png",
+    "text": "fractional\nthat\ndifferent\nfrom\nby\n1-3\nanother\nunit, t\nis\n2\nis\nto\nreplace it\nSo\ntwo of the fractions\nbe\nand\nbe third fraction\nmust\nmust\n-2\nthen, so\nthat the three\nfractions\nadd\nup\nto 1?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9304050207138062,
+    "bbox": [
+        427.45166015625,
+        1140.7965087890625,
+        2041.86962890625,
+        1263.2593994140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/008_plain_text_0.93.png",
+    "text": "(adding the first two terms and then adding their sum to the third\nterm)"
+}

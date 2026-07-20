@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7931816577911377,
+    "bbox": [
+        296.0935974121094,
+        2588.6435546875,
+        1437.4744873046875,
+        2649.4482421875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_021/007_plain_text_0.79.png",
+    "text": "Q1. Colour or mark the supercells in the table below."
+}

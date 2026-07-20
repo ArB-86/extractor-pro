@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9542232155799866,
+    "bbox": [
+        283.81610107421875,
+        1552.7127685546875,
+        2085.671630859375,
+        1773.7303466796875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_010/002_plain_text_0.95.png",
+    "text": "For example, suppose we want to carry out the subtraction + 2000\n(-200). We can imagine a lift with 2000 levels above the\nground\nand 20o below the\nground. Recall that,"
+}

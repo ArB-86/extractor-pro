@@ -1,0 +1,174 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/hegp1dd/hegp101.pdf",
+  "sha256": "5bff054e99d47c7ef525a5a038f8d7304c7342e7b396752839d832fe431c8b7d",
+  "pages": 22,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat (64-bit) 26.1.21529",
+    "producer": "Adobe Acrobat (64-bit) 26.1.21529",
+    "creationDate": "D:20260515175610+05'30'",
+    "modDate": "D:20260515175617+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 5
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 34,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 5
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 5
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 5
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 7,
+      "images": 5
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    }
+  ]
+}

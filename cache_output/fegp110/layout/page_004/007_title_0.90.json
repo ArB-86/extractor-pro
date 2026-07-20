@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.8983948230743408,
+    "bbox": [
+        296.2845764160156,
+        2218.882568359375,
+        1564.002197265625,
+        2289.50537109375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_004/007_title_0.90.png",
+    "text": "Combining\nbutton\nis also addition\npresses"
+}

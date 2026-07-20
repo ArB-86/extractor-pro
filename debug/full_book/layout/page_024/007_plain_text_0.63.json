@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.634341835975647,
+    "bbox": [
+        440.49981689453125,
+        1452.8021240234375,
+        2185.04248046875,
+        1588.4378662109375
+    ],
+    "image_path": "debug/full_book/layout/page_024/007_plain_text_0.63.png",
+    "text": "3. ]\nhow much did the population of chintamani increase\nBy]\nfrom\n2011t02024?"
+}

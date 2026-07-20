@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.7030256986618042,
+    "bbox": [
+        295.9422302246094,
+        1249.228271484375,
+        1113.836669921875,
+        1370.171875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_052/008_plain_text_0.70.png",
+    "text": "Q. What is your l\n balance now?\nAns.\n 180"
+}

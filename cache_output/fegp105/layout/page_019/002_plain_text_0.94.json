@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9443421363830566,
+    "bbox": [
+        293.8502197265625,
+        478.970947265625,
+        2082.706787109375,
+        620.1384887695312
+    ],
+    "image_path": "cache_output/fegp105/layout/page_019/002_plain_text_0.94.png",
+    "text": "Interestingly,\neven checking for divisibility by 8 can be simplified.\nCan the last two digits be used for this?"
+}

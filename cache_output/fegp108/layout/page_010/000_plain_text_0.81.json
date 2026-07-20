@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8147138357162476,
+    "bbox": [
+        1293.972900390625,
+        2626.89453125,
+        2183.052490234375,
+        2771.34765625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_010/000_plain_text_0.81.png",
+    "text": "How long\nis the\nside\nRS\nand\nwhat\nthe\nof\nZR \nand\nare\nmeasures\nZS?"
+}

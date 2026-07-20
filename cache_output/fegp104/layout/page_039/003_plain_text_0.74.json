@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.7397935390472412,
+    "bbox": [
+        407.11053466796875,
+        632.337158203125,
+        2190.46484375,
+        1294.116455078125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_039/003_plain_text_0.74.png",
+    "text": "a. Write the number of tickets sold for Vidisha above the bar.\nb. Write the number of tickets sold for Jabalpur above the bar.\nc. The bar for Vidisha is 6 unit lengths and the bar for Jabalpur is 5 unit lengths.\nWhat is the scale for this graph?\nd. Draw the correct bar for Sagar.\ne. Add the scale of the bar graph placing the correct numbers on the vertical axis.\nf. Are the bars for Seoni and Indore correct in this graph? If not, draw the correct\nbar(s)."
+}

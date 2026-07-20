@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9297912120819092,
+    "bbox": [
+        414.2022705078125,
+        1005.7874145507812,
+        2059.649658203125,
+        1118.0128173828125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_022/001_plain_text_0.93.png",
+    "text": "Using\nthe\ne numbers\nexactly\n0\nto9\nonce\nin any\norder, make\nan\nexpression with a value 100."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9495747685432434,
+    "bbox": [
+        416.98309326171875,
+        397.66534423828125,
+        2212.844482421875,
+        611.7869873046875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_017/001_plain_text_0.95.png",
+    "text": "To\nget\nthis issue, We\naround\necan\nput out an extra\nlzero\npair\n(a\npositive and a negative), knowing that this does not change the value\nof the set of tokens."
+}

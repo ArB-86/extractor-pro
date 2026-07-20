@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7393892407417297,
+    "bbox": [
+        294.22735595703125,
+        395.49114990234375,
+        1928.9130859375,
+        466.5246887207031
+    ],
+    "image_path": "cache_output/fegp110/layout/page_014/011_plain_text_0.74.png",
+    "text": "Use unmarked number lines to evaluate these expressions:"
+}

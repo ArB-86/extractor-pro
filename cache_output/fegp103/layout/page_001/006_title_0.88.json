@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.8828088641166687,
+    "bbox": [
+        295.8433532714844,
+        1974.994384765625,
+        1371.0712890625,
+        2045.5740966796875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_001/006_title_0.88.png",
+    "text": "What\nnumbers t\ntelling\narei\nthesel\nus?"
+}

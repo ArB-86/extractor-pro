@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.6839582324028015,
+    "bbox": [
+        624.4224243164062,
+        1091.4483642578125,
+        2209.209228515625,
+        1649.7225341796875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_025/004_plain_text_0.68.png",
+    "text": "What will be a useful scale or key to draw this pictograph?\na\u3002\nb\u3002\nVillageB?\nKamini said that the number of these dogs in Village B and\nC.\nVillage D together will be more than the number of these\ndogs in the other 4 villages. Is she right? Give reasons for\nyour response."
+}

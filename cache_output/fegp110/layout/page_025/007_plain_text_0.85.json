@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8536722660064697,
+    "bbox": [
+        531.7664184570312,
+        473.1191711425781,
+        1469.388671875,
+        537.2837524414062
+    ],
+    "image_path": "cache_output/fegp110/layout/page_025/007_plain_text_0.85.png",
+    "text": "6.\nComplete the following\nsequences:"
+}

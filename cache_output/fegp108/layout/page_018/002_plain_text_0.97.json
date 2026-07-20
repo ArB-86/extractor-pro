@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9685995578765869,
+    "bbox": [
+        421.4754638671875,
+        2236.92041015625,
+        2208.86572265625,
+        2460.02734375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_018/002_plain_text_0.97.png",
+    "text": "In your experimentation, did\n you consider the case when all four\nsides of the rectangle a\n are equal? That is, did you consider the case of\n s s      "
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9749312996864319,
+    "bbox": [
+        377.9679870605469,
+        1389.51611328125,
+        1600.1231689453125,
+        1748.0128173828125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/000_plain_text_0.97.png",
+    "text": "Imagining\ng a situation could help\nus a\nanswer\nthis\nwithout finding the values. Raja had 1023\nmarbles\nand\ngot 125\ntoday.\nNow\n he\nmore\nhas\n1023\n+\u2018\n125\nmarbles.\nJoy\nhad\n1022\nmarbles\nand\ngot\n128\nmore today. Now he has 1022 + 128 r\nmarbles. Who\nhas more?"
+}

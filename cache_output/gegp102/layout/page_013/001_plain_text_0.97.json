@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9708048105239868,
+    "bbox": [
+        375.59588623046875,
+        2739.367431640625,
+        2088.19091796875,
+        2983.498046875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/001_plain_text_0.97.png",
+    "text": "Some\nin\nfollowing\nexpressions\nare\ngiven\nthree\ncolumns.\nIn\neach\ncolumn, one\nterms\nchanged\nfrom\nthe\nfirst\nexpression. Go\nor\nare\nthrough the\nfirst column)\nthe blanks, doing\nexample\ne (in\nthe\nand\nfill\nas\nlittle computation a\nas\npossible."
+}

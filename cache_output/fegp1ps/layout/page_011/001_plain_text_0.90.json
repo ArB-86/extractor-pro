@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9028638005256653,
+    "bbox": [
+        423.1748962402344,
+        804.4072265625,
+        2083.3203125,
+        930.8603515625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/001_plain_text_0.90.png",
+    "text": "Aaloka Kanhere, Project Scientific Offcer, Homi Bhabha Center\nfor\nScience Education, Mumbai"
+}

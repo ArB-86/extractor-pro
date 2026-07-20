@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.8238322734832764,
+    "bbox": [
+        300.0231018066406,
+        1874.6480712890625,
+        2182.603271484375,
+        1994.8150634765625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_041/003_plain_text_0.82.png",
+    "text": "Q.6. The following pictograph shows the number of tractors in five different villages.\nObserve the pictograph and answer the following questions"
+}

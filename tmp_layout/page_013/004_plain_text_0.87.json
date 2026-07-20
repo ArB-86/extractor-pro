@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8669499754905701,
+    "bbox": [
+        296.2420654296875,
+        3082.716552734375,
+        1067.958251953125,
+        3142.15234375
+    ],
+    "image_path": "tmp_layout/page_013/004_plain_text_0.87.png",
+    "text": "Ans. Refer\nTable 2, page 4, a\n and draw."
+}

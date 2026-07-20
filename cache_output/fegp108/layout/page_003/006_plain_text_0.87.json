@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8680658936500549,
+    "bbox": [
+        369.4991149902344,
+        2815.297119140625,
+        1507.5108642578125,
+        2886.560302734375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_003/006_plain_text_0.87.png",
+    "text": "Now try\n1 constructing\nthe following\nfigures."
+}

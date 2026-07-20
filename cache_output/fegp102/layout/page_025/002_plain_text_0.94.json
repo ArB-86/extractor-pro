@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9375375509262085,
+    "bbox": [
+        294.4728088378906,
+        629.6603393554688,
+        2085.665771484375,
+        771.929931640625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_025/002_plain_text_0.94.png",
+    "text": "numbers marked to find the angle\nCan\nthe\nWithout\nyou\nuse\ncounting the number of markings?"
+}

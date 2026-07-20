@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8215842843055725,
+    "bbox": [
+        473.2819519042969,
+        2419.45361328125,
+        2208.135009765625,
+        2551.32421875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_012/009_plain_text_0.82.png",
+    "text": "Visualising\n number sequences using pictures can help to understand\nsequences and the relationships between them."
+}

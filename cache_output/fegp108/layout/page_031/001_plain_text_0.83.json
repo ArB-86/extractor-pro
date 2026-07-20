@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8312738537788391,
+    "bbox": [
+        291.1370544433594,
+        1721.4210205078125,
+        1913.8759765625,
+        1841.4404296875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_031/001_plain_text_0.83.png",
+    "text": "Q.2. Take a central line of a different length and try to draw the wave on it.\nAns."
+}

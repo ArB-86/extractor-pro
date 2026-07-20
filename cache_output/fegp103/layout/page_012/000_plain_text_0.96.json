@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.964739978313446,
+    "bbox": [
+        417.5436096191406,
+        397.32305908203125,
+        2102.338134765625,
+        614.8550415039062
+    ],
+    "image_path": "cache_output/fegp103/layout/page_012/000_plain_text_0.96.png",
+    "text": "Can\nmake\n1,000\nusing\nthe\nnumbers\nin\nthe\nmiddle?\nWhy\nwe\nnot?\nWhat about 14,000, 15,000\nand 16,000? Yes, it is possible. Explore\nhow.\nWhat thousands\n cannot\nbe\nmade?"
+}

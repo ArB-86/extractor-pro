@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7449384331703186,
+    "bbox": [
+        454.1954650878906,
+        2343.635498046875,
+        1997.6490478515625,
+        2414.73681640625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_028/009_plain_text_0.74.png",
+    "text": "et us carry out another example of Brahmagupta's method"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9593361616134644,
+    "bbox": [
+        420.1187744140625,
+        2354.437255859375,
+        2209.27587890625,
+        2569.82861328125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_031/002_plain_text_0.96.png",
+    "text": "Is the\ninfographic\nc below\nbetter\nthan\nthe\ncolumn\ngraph\nWith\nrectangular\ncolumns\nof\nequal\nWidth?\nThe\nmountains\nlook\nmore\nrealistic, but is the picture accurate?"
+}

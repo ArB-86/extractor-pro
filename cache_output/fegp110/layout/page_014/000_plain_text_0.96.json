@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9643657803535461,
+    "bbox": [
+        291.7100830078125,
+        2086.162841796875,
+        2083.92919921875,
+        2304.163330078125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_014/000_plain_text_0.96.png",
+    "text": "In this way, we can a\nalways\ns convert subtraction to addition. The\nnumber that is being subtracted can be replaced by its inverse\nand then added instead."
+}

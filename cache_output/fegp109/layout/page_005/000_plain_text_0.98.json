@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9812232255935669,
+    "bbox": [
+        292.3397216796875,
+        2263.68310546875,
+        2086.839599609375,
+        2710.81689453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_005/000_plain_text_0.98.png",
+    "text": "So far we have been saying\nthat when we fold a figure along a line of\nsymmetry, the two 1\nparts overlap completely.\n. We could also say\nthat\nthe part of the figure on one side of the line of symmetry is reflected\nby the line to the other side; similarly, the part of the\ne figure on the\nother side of the line of symmetry is reflected to the first side! Let us\nunderstand this by labeling\npoints on the figure.\nsome"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9056179523468018,
+    "bbox": [
+        420.0293884277344,
+        1013.76416015625,
+        2209.621337890625,
+        1155.0968017578125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_010/001_plain_text_0.91.png",
+    "text": "Therefore, the area ofthe remaining part ofthe land is: area ofthe complete\nland minus the area of all four flower beds = 120 sq m - 64 sq m = 56 sq m."
+}

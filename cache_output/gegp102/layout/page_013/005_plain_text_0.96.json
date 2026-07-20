@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9631051421165466,
+    "bbox": [
+        377.15045166015625,
+        1202.5362548828125,
+        2091.234619140625,
+        1382.2772216796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/005_plain_text_0.96.png",
+    "text": "Notice again that when the brackets preceded by a negative sign\nare removed, the signs of the terms inside the brackets change. In this\ncase, the signs of 250 and - 100 change to - 250 and 100."
+}

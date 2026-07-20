@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9528769254684448,
+    "bbox": [
+        415.9512023925781,
+        2197.37109375,
+        2209.188232421875,
+        2347.603759765625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_014/002_plain_text_0.95.png",
+    "text": "Can you see some relationship between\nthe blue rectangle and\nthe yellow triangle and their areas? Write the relationship here."
+}

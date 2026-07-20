@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8323017358779907,
+    "bbox": [
+        294.12713623046875,
+        678.1962280273438,
+        1641.527099609375,
+        752.2079467773438
+    ],
+    "image_path": "cache_output/fegp107/layout/page_019/011_plain_text_0.83.png",
+    "text": "In which\nWill\neach child\ngroup\nget more chikki?"
+}

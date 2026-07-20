@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9318670034408569,
+    "bbox": [
+        394.8092346191406,
+        1694.2503662109375,
+        1395.8509521484375,
+        1832.924560546875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_025/001_plain_text_0.93.png",
+    "text": "Note\n that all the\nlines :\ns forming\nthe\nborder of the house.\n are of length 5 \ncm."
+}

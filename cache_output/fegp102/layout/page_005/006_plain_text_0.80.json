@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7991103529930115,
+    "bbox": [
+        403.22344970703125,
+        387.2405700683594,
+        1558.09033203125,
+        620.7079467773438
+    ],
+    "image_path": "cache_output/fegp102/layout/page_005/006_plain_text_0.80.png",
+    "text": "6.\nHere is a ray\nOA\n(Fig. 2.7). It starts at\n0\nand\nthrough\nthe\nA. It also\npasses\npoint\npasses\nthrough\n. the\npoint B."
+}

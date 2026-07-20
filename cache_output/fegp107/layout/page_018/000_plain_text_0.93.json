@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9323668479919434,
+    "bbox": [
+        416.3218078613281,
+        846.0983276367188,
+        2209.7060546875,
+        1062.2789306640625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_018/000_plain_text_0.93.png",
+    "text": "Equally divide the rotis in the situations shown below and write\ndown the share of each child. Are the shares in each of these cases\nthe same? Why?"
+}

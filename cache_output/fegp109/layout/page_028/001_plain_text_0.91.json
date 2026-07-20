@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9118946194648743,
+    "bbox": [
+        292.5105895996094,
+        1163.681884765625,
+        2188.40625,
+        1286.052001953125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_028/001_plain_text_0.91.png",
+    "text": "Note : For the above two questions, check if the 4-sided figures in the centre satisfy both the\nproperties of a square."
+}

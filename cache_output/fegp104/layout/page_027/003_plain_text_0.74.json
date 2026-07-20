@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.7392210960388184,
+    "bbox": [
+        495.374267578125,
+        1110.831787109375,
+        2174.069091796875,
+        1387.70263671875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_027/003_plain_text_0.74.png",
+    "text": "Like\npictographs, bar\ngraphs\ngive\ne a nice\nvisual\nway\ntor\nrepresent\ndata. T\nThey\ndata\nthrough\nequally-spaced\nbars,\neach\nn of\nrepresent\nWidth, where\nthe lengths or\nheights\nfrequencies of the\nequal\ngive\ndifferent categories."
+}

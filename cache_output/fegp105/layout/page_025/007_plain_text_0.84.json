@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8399190902709961,
+    "bbox": [
+        437.31005859375,
+        709.26806640625,
+        1221.78271484375,
+        868.9930419921875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_025/007_plain_text_0.84.png",
+    "text": "a. 20\nand 28\nb. 35\nand 50\nc. 4,8 :\nand 12\nd. 5, 15\nand 25"
+}

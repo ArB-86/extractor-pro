@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8829925656318665,
+    "bbox": [
+        296.736572265625,
+        962.8649291992188,
+        2105.0986328125,
+        1086.1060791015625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_035/003_plain_text_0.88.png",
+    "text": "Ans. The rectangle should be constructed in such a manner that the two adjacent sides are\nequal i.e. the rectangle becomes a square."
+}

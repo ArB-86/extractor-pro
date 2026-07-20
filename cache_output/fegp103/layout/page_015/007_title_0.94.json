@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.9440913796424866,
+    "bbox": [
+        295.110107421875,
+        1570.7791748046875,
+        1142.582763671875,
+        1657.88720703125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_015/007_title_0.94.png",
+    "text": "3.11 Simple Estimation"
+}

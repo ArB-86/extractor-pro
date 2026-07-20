@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9846895933151245,
+    "bbox": [
+        420.97918701171875,
+        944.9950561523438,
+        2086.06298828125,
+        1781.4827880859375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_006/000_plain_text_0.98.png",
+    "text": "We are thrilled and honoured that the beautiful Chapter 1 of\ncontributed by Professor Bhargava. In this chapter, in the section What\nis Mathematics?', Bhargava eloquently speaks of mathematics as a\ncreative art\u2014as a search for beautiful patterns, and the explanations of\nthose patterns. In later sections of the chapter, he describes a sampling\nof some of the most basic patterns in mathematics\u2014sequences of\nnumbers and sequences of shapes-and their remarkable and often-\nsurprising interrelations. These patterns are regularly revisited in\nlater chapters of this book, to emphasise the unity of mathematics, and\n          o \nchapter will help in inspiring a new generation to explore and pursue\nmathematics."
+}

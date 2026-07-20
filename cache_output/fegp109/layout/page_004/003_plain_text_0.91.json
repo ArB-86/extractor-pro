@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9097257256507874,
+    "bbox": [
+        483.3744201660156,
+        1902.5396728515625,
+        2212.591552734375,
+        2117.913818359375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_004/003_plain_text_0.91.png",
+    "text": "Fold the paper into half vertically.\nFold it again\n half horizontally\ninto\n(i.e., you l\nhave\nfolded it\ntwice). Now open out the folds."
+}

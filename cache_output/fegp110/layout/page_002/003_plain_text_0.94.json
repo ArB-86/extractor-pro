@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9437562823295593,
+    "bbox": [
+        291.3063049316406,
+        395.2432861328125,
+        2084.776611328125,
+        546.2786865234375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_002/003_plain_text_0.94.png",
+    "text": "Can there be a number less than O? Can you think of any ways to\nhave less than O of something?"
+}

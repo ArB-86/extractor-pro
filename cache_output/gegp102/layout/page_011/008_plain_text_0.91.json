@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9091160297393799,
+    "bbox": [
+        437.74005126953125,
+        832.5625610351562,
+        2066.934814453125,
+        897.1541137695312
+    ],
+    "image_path": "cache_output/gegp102/layout/page_011/008_plain_text_0.91.png",
+    "text": "Do you recall the use of brackets? We need to use brackets for this."
+}

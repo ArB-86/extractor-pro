@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.88043612241745,
+    "bbox": [
+        393.6578063964844,
+        2747.43798828125,
+        1409.73876953125,
+        2882.609619140625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_003/005_plain_text_0.88.png",
+    "text": "Therefore,\ndistance\n travelled by\nthe\ntotal \nUsha in three rounds\n\u4e8c\n3\n\u00d7\n300\n900\nu\n\u4e8c"
+}

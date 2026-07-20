@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9539341926574707,
+    "bbox": [
+        422.38812255859375,
+        2625.31689453125,
+        1811.982666015625,
+        2769.6533203125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_008/002_plain_text_0.95.png",
+    "text": "In 1949, he discovered a fascinating\nand\nmagical\nphenomenon when p\nplaying with 4-digit\nt numbers."
+}

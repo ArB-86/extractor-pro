@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.6112739443778992,
+    "bbox": [
+        317.47314453125,
+        1447.7830810546875,
+        1185.3477783203125,
+        1690.9290771484375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_029/002_plain_text_0.61.png",
+    "text": "Some examples of other such c\nquestions are-\n1.\n5 digit + 5 digit = 7 digit\nsum\n2.\n4 digit + 4 digit = 2900\nMore such\nexamples can\nbe 1\nmade."
+}

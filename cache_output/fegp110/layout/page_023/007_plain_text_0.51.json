@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.5137603282928467,
+    "bbox": [
+        509.1409606933594,
+        1328.04150390625,
+        2206.356201171875,
+        1394.8475341796875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_023/007_plain_text_0.51.png",
+    "text": "5\u3002\nMake a border integer square puzzle and challenge your classmates."
+}

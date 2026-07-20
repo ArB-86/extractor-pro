@@ -1,0 +1,307 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/gegp1dd/gegp104.pdf",
+  "sha256": "34f6d4228ab4cff1f9804622aefd55518c6e4cf013acf2eaf5e5d92ebb3e333b",
+  "pages": 41,
+  "metadata": {
+    "format": "PDF 1.7",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat (64-bit) 26.1.21367",
+    "producer": "Adobe Acrobat (64-bit) 26.1.21367",
+    "creationDate": "D:20260407171522+05'30'",
+    "modDate": "D:20260407171522+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 42,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 57,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 4
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 6
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 5
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 3
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 33,
+      "images": 1
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 6
+    },
+    {
+      "width": 592.800048828125,
+      "height": 783.6000366210938,
+      "rotation": 0,
+      "text_blocks": 39,
+      "images": 4
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 4
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 33,
+      "images": 0
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 4
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 0
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 1
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 1
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 3
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 1
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 1
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 0
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 1
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 1
+    },
+    {
+      "width": 595.3200073242188,
+      "height": 841.9199829101562,
+      "rotation": 0,
+      "text_blocks": 6,
+      "images": 0
+    }
+  ]
+}

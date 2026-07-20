@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9144384860992432,
+    "bbox": [
+        517.0217895507812,
+        2052.395751953125,
+        2210.9892578125,
+        2186.34423828125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_016/003_plain_text_0.91.png",
+    "text": "3. Anil\n was\nin a group\n where\n 2 cakes were\ndivided equally\namong\n5 children. How much cake would Anil\nget?"
+}

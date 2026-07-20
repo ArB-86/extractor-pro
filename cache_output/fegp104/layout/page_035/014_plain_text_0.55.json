@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.5527530312538147,
+    "bbox": [
+        440.9588928222656,
+        1321.6220703125,
+        2185.6572265625,
+        1442.8287353515625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_035/014_plain_text_0.55.png",
+    "text": "It shows only the number of students who chose a particular sweet, and not about the\nsweet chosen by a particular student."
+}

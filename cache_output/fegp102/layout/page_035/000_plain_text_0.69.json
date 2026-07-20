@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.6886544227600098,
+    "bbox": [
+        290.50323486328125,
+        1640.0888671875,
+        2085.98486328125,
+        1787.173583984375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_035/000_plain_text_0.69.png",
+    "text": "Step 3: Now, starting \nfrom O, count your c\ndegrees\n(0, 10, 30) up to 30\non the protractor. Mark point T at the label 30\u00b0."
+}

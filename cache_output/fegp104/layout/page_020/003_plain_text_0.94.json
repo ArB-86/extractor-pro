@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.944610059261322,
+    "bbox": [
+        368.9405822753906,
+        993.0684204101562,
+        2084.96240234375,
+        1135.21533203125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_020/003_plain_text_0.94.png",
+    "text": "1.\nSamantha visited a tea garden, and collected data of the insects\nand critters she saw there. Here is the data she collected:"
+}

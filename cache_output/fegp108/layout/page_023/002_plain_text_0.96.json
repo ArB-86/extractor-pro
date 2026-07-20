@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9616113305091858,
+    "bbox": [
+        396.4684143066406,
+        2572.236572265625,
+        2084.376220703125,
+        2782.86328125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_023/002_plain_text_0.96.png",
+    "text": "Consider the point at which the circle and\nthe line\nintersect.\nWhat is its\ndistance\nfrom\npoint D? If\nneeded,\ncheck\nfigure.\nyour\nWhat do\nobserve?\nyou"
+}

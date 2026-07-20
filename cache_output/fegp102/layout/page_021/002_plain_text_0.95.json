@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9500190019607544,
+    "bbox": [
+        291.228515625,
+        1489.8763427734375,
+        2085.65576171875,
+        1863.748046875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_021/002_plain_text_0.95.png",
+    "text": "What is\nthe\nof a straight\nangle in degrees? A straight\nmeasure\nangle is half of a full\nturn. As a full-turn is 360\u00b0, a half turn is 180\u00b0.\nWhat is the\nof a right angle in degrees?\nmeasure\nTwO1\nright angles\ntogether form a straight angle. As a straight angle\nmeasures\n180\u00b0,a\nright angle\nmeasures\n90\u00b0"
+}

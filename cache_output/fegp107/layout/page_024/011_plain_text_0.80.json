@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7952910661697388,
+    "bbox": [
+        490.9371643066406,
+        693.1793212890625,
+        1572.632080078125,
+        781.674072265625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_024/011_plain_text_0.80.png",
+    "text": "17\nLet us\ntry t\nthis f\nfor\n another\npair:\nand\n6\n21"
+}

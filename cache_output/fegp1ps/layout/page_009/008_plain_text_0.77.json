@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7665082216262817,
+    "bbox": [
+        421.3790588378906,
+        1863.9517822265625,
+        2083.261474609375,
+        1990.66650390625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/008_plain_text_0.77.png",
+    "text": "10. 9\nSurina\nRajan, IAS\n(Retd.), ]\nHaryana,\nFormer\nDirector\nGeneral,\nHIPA"
+}

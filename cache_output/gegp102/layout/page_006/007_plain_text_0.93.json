@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.927047073841095,
+    "bbox": [
+        436.8222961425781,
+        2065.076171875,
+        2089.84423828125,
+        2128.651123046875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_006/007_plain_text_0.93.png",
+    "text": "The drone is 6 - 4 = 2 m above the terrace. Writing it as sum of terms:"
+}

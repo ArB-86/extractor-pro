@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9699460864067078,
+    "bbox": [
+        925.3270874023438,
+        895.8535766601562,
+        2091.161376953125,
+        1194.735107421875
+    ],
+    "image_path": "debug/full_book/layout/page_015/000_plain_text_0.97.png",
+    "text": "She\nexplains\nher\nreasoning:\n\"We\nwant\nto\nknow\nabout\nthe\ne number of digits in the\nproduct\nof\ntwo\n2-digit\nnumbers. To\nknow\nthe\nsmallest\nproduct I took 10 \u00d7 10, s0 all other products\nsuch\nwill be\nthan\ngreater\n100."
+}

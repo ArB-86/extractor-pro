@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8625003099441528,
+    "bbox": [
+        297.25433349609375,
+        1750.4351806640625,
+        1983.5164794921875,
+        1815.4381103515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_021/001_plain_text_0.86.png",
+    "text": "Ans.\n n n  s  s    o n  \narrangement."
+}

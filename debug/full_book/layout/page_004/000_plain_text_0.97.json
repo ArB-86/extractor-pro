@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9741443991661072,
+    "bbox": [
+        375.75140380859375,
+        2081.3134765625,
+        2089.1298828125,
+        2382.218994140625
+    ],
+    "image_path": "debug/full_book/layout/page_004/000_plain_text_0.97.png",
+    "text": "We have\nalready been using\nfor 5-digit\nnumbers\nlike 45,830\nin\ncommas\nthe Indian\nplace value system. As numbers\nbigger, using\ngrow\ncommas\nhelps\ns in reading\nthe\nnumbers\neasily. We\nuse a comma\nin between\nthe\ndigits\ns representing\nthe\n\"ten thousands\"\nplace and the\n\u201cone\nelakh\"\nplace\nhave seen\nas\njust before\n(1,00,000).\nyou"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.839735209941864,
+    "bbox": [
+        417.93658447265625,
+        1480.120849609375,
+        2210.95703125,
+        1622.927978515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_004/008_plain_text_0.84.png",
+    "text": "Here the neighbouring cells are\nthose that are immediately to the\nleft, right, top and bottom."
+}

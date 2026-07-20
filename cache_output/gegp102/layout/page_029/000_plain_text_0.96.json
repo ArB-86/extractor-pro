@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9602217674255371,
+    "bbox": [
+        412.62347412109375,
+        2538.436767578125,
+        2194.015869140625,
+        2813.05615234375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/000_plain_text_0.96.png",
+    "text": "given\nin\nthe\nfollowing\nSome\nexpressions\nthree\nare\ncolumns.\nIn\neach\ncolumn,\nchanged f\nterms\nfrom\nthe first e\nor]\nexpression.\n. Go\none\nmore\nare\nthrough\nthe\n(in\nthe\nfirst column)\nfi\nin the blanks, c\ndoing\nexample\nand f\nlittle\nas\ncomputation\nas\npossible."
+}

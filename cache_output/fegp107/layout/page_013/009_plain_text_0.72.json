@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7185686826705933,
+    "bbox": [
+        290.9234313964844,
+        1369.5528564453125,
+        496.64910888671875,
+        1435.755615234375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_013/009_plain_text_0.72.png",
+    "text": "So\nT\nget"
+}

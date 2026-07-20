@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9098174571990967,
+    "bbox": [
+        533.6627197265625,
+        1739.734375,
+        1713.6090087890625,
+        1805.23681640625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_008/001_plain_text_0.91.png",
+    "text": "4.\nName\nthe angles marked in the\ngiven\nfigure."
+}

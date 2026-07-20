@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7010846138000488,
+    "bbox": [
+        404.2695007324219,
+        503.32464599609375,
+        2085.066162109375,
+        639.32763671875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_025/009_plain_text_0.70.png",
+    "text": "1.\nConstruct a rectangle in which one of the diagonals divides the\nopposite angles into 50\u00b0\nand 40\u00b0."
+}

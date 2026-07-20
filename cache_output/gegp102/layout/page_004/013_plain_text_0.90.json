@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9031982421875,
+    "bbox": [
+        437.66436767578125,
+        2487.085693359375,
+        1237.9825439453125,
+        2544.597412109375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/013_plain_text_0.90.png",
+    "text": "We can\n brackets in this\nuse\n case:"
+}

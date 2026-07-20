@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.9537097811698914,
+    "bbox": [
+        288.9571838378906,
+        893.68115234375,
+        2036.73779296875,
+        1112.0152587890625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_041/000_plain_text_0.95.png",
+    "text": "Hint: Observe that ZREB is a straight angle. Hence, the degree measure of\nZREB = 180\u00b0 of which 80\u00b0 is covered by ZTER. A similar argument\ncan be applied to find the measure of ZSET."
+}

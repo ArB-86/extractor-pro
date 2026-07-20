@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7063648104667664,
+    "bbox": [
+        529.7076416015625,
+        1485.1461181640625,
+        2213.838134765625,
+        1685.0086669921875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_008/002_plain_text_0.71.png",
+    "text": "2.\nBy\nimagining\nlarge\nof\npicture,\ndrawing\na\nversion\nyour\nor\nit\npartially,\n as needed,\nwhat will\nl be the value of\ncan\nyou\nI see\n1 + 2 + 3 + ... + 99 + 100 + 99\n9 +.+3+2+1?"
+}

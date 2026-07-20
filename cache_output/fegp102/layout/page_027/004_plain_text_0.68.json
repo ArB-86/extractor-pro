@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6807852387428284,
+    "bbox": [
+        406.3397216796875,
+        1179.11865234375,
+        2085.67578125,
+        1395.4837646484375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_027/004_plain_text_0.68.png",
+    "text": "The\nformed\ngive\nus\nof\n45\u00b0\nnew\ncreases\nmeasures\nand\n180\u00b0-45\u00b0\n135\u00b0\nshown.\nas\nWrite\n45\u00b0\nand\n135\u00b0\nat\nthe\n\u4e8c\ncorrect\nplaces\nthe new\nalong\nthe edge of the semicircle.\non\ncreases "
+}

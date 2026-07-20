@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8717935681343079,
+    "bbox": [
+        296.7338562011719,
+        1991.578369140625,
+        2186.275390625,
+        2113.278076171875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_023/001_plain_text_0.87.png",
+    "text": "Ans.\nIf the game was played till 900, idli-vada would be said 60 times by the children. Vada?\nwill be said 180 time and \u2018idli' will be said 300 times."
+}

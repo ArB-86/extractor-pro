@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.9173943400382996,
+    "bbox": [
+        296.3835144042969,
+        405.479736328125,
+        618.0856323242188,
+        481.97821044921875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_009/004_title_0.92.png",
+    "text": "6\n2\nAre\ne\na"
+}

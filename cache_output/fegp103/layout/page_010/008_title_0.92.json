@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.9216516613960266,
+    "bbox": [
+        423.35162353515625,
+        400.7773132324219,
+        1618.5726318359375,
+        485.3006286621094
+    ],
+    "image_path": "cache_output/fegp103/layout/page_010/008_title_0.92.png",
+    "text": "3.7 Clock\nand\nl Calendar\nNumbers"
+}

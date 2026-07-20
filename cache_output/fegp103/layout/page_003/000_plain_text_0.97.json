@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.971398651599884,
+    "bbox": [
+        291.54119873046875,
+        1058.2713623046875,
+        2091.98779296875,
+        1430.0455322265625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_003/000_plain_text_0.97.png",
+    "text": "A cell is coloured if the\nin it is larger\nnumber i\nthan its adjacent\n626 is coloured as it is larger\ncells. The\nnumber\nthan\n577\nand 345,\nwhereas\n200 is not coloured\nas it is smaller than\n577. The\nnumber\n198 is coloured as it has only\none adjacent cell with 109 in it, and 198\nis larger t\nthan 109."
+}

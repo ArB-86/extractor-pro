@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7535771131515503,
+    "bbox": [
+        373.0545959472656,
+        2157.177001953125,
+        1215.470947265625,
+        2227.00146484375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_007/003_plain_text_0.75.png",
+    "text": "Let us\nlook at another \nexample,"
+}

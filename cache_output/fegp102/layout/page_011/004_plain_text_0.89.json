@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8896870017051697,
+    "bbox": [
+        404.29327392578125,
+        663.1839599609375,
+        2086.01220703125,
+        730.0079956054688
+    ],
+    "image_path": "cache_output/fegp102/layout/page_011/004_plain_text_0.89.png",
+    "text": "1.\nFold a rectangular sheet of paper, then draw a line along the fold"
+}

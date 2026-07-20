@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8459714651107788,
+    "bbox": [
+        419.7730407714844,
+        2096.7041015625,
+        1538.3048095703125,
+        2164.895751953125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_005/011_plain_text_0.85.png",
+    "text": "Connect the inverses\nby drawing\nlines."
+}

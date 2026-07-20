@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5045965313911438,
+    "bbox": [
+        469.63330078125,
+        1879.42333984375,
+        1372.995849609375,
+        1937.1748046875
+    ],
+    "image_path": "debug/full_book/layout/page_006/008_plain_text_0.50.png",
+    "text": "These\nbe expressed\ntwo\nways can\nas:"
+}

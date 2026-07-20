@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9565805792808533,
+    "bbox": [
+        421.1394348144531,
+        1763.18896484375,
+        2208.351806640625,
+        1904.3577880859375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_012/002_plain_text_0.96.png",
+    "text": "An example of subtracting\ntwo\n5-digit numbers to get another\n5-digit number is 48,952 - 24,547 = 24,405."
+}

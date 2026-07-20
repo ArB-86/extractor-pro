@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.617870032787323,
+    "bbox": [
+        405.3223876953125,
+        630.1436767578125,
+        1962.30029296875,
+        911.9485473632812
+    ],
+    "image_path": "tmp_inspect/layout/page_011/007_plain_text_0.62.png",
+    "text": "2.\nTry\nredraw each\nin\nTable 3 in\nand\nn sequence\nyour\nnotebook.\nCan\ndraw t\nthe next shape in\nn each sequence? Why or why\nyou\nnot? After each sequence, describe in\n1 words what\nl your\nown\nis the rule or\nfor forming\nthe shapes in the sequence.\npattern"
+}

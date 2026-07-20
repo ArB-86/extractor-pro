@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9781874418258667,
+    "bbox": [
+        422.65325927734375,
+        1793.0908203125,
+        2080.796875,
+        2121.87646484375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_004/000_plain_text_0.98.png",
+    "text": "However, in addition to this textbook, students at this stage should\nalso\nbe\nencouraged\nto\nexplore\nvarious\nother\nlearning\nresources.\nSchool libraries play a crucial role in making such resources available.\nBesides, the role of \nparents\nand\nteachers\ns Will\nalso be\ninvaluable\nin\nguiding\nencouraging\ng students to do so.\nand"
+}

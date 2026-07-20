@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5995219349861145,
+    "bbox": [
+        438.0136413574219,
+        1003.5728759765625,
+        2032.88525390625,
+        1125.2728271484375
+    ],
+    "image_path": "debug/full_book/layout/page_022/003_plain_text_0.60.png",
+    "text": "We generally round up or round down large numbers. Many times it\nis enough just to know roughly how big\ng or small something is."
+}

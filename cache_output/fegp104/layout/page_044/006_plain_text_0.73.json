@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7287111878395081,
+    "bbox": [
+        297.1172180175781,
+        992.430908203125,
+        577.448974609375,
+        1178.6396484375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_044/006_plain_text_0.73.png",
+    "text": "Section\n4.5\nPage no. 103\nFigure it out"
+}

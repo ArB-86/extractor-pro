@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.7001006007194519,
+    "bbox": [
+        405.43670654296875,
+        494.5859375,
+        2087.170166015625,
+        635.1549682617188
+    ],
+    "image_path": "cache_output/fegp110/layout/page_018/014_plain_text_0.70.png",
+    "text": "1.\nTry to subtract:\n: -3-(+5).\nHow many zero 1\npairs will\nyou have to put in? What is the result?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8785715103149414,
+    "bbox": [
+        415.89691162109375,
+        1984.9483642578125,
+        1270.701904296875,
+        2253.40625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/002_plain_text_0.88.png",
+    "text": "(c)\nExpression = 7\u00d7 5 + 6 \u00d7 2 + 2 \u00d7 3\nTerms: 7 \u00d7 5, 6 \u00d7 2, 2 \u00d7 3\nTotal height: 53\ncm"
+}

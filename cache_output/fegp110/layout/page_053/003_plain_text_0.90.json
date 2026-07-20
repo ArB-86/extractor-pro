@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8965021967887878,
+    "bbox": [
+        296.450927734375,
+        790.7710571289062,
+        964.1481323242188,
+        846.9391479492188
+    ],
+    "image_path": "cache_output/fegp110/layout/page_053/003_plain_text_0.90.png",
+    "text": "Ans.\nApproximate heights are:"
+}

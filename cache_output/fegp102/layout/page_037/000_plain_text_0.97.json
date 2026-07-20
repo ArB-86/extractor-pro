@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.9727740287780762,
+    "bbox": [
+        404.9612121582031,
+        2006.935302734375,
+        2088.8115234375,
+        2300.29638671875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_037/000_plain_text_0.97.png",
+    "text": "In Fig. 2.23, list all the angles possible. Did \n1.\nyou find them all? Now,\nthe\nof all\nthe\nangles. Then,\nguess\nmeasures\nmeasure\nthe\nangles\nwith a protractor. Record\nd all\nyour\nnumbers\nin a table. See\nehow\nclose\nyour\nguesses\n6 are to the actual\nmeasures."
+}

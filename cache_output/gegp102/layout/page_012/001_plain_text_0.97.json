@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.972493588924408,
+    "bbox": [
+        316.5329895019531,
+        1697.942626953125,
+        2089.251708984375,
+        1882.54345703125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_012/001_plain_text_0.97.png",
+    "text": "Example 12: We also saw this earlier in the case of Irfan purchasing\nP\nbiscuit packet (15) and a toor dal packet (56). When he paid 100, the\nchange he gets in rupees is:"
+}

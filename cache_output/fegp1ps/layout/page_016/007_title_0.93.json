@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9301801323890686,
+    "bbox": [
+        421.1791076660156,
+        2596.978759765625,
+        1179.0592041015625,
+        2670.018798828125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_016/007_title_0.93.png",
+    "text": "Summary of Key points"
+}

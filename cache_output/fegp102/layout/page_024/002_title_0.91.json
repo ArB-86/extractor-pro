@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "title",
+    "confidence": 0.9070664048194885,
+    "bbox": [
+        422.02008056640625,
+        399.287841796875,
+        1025.6468505859375,
+        470.8946838378906
+    ],
+    "image_path": "cache_output/fegp102/layout/page_024/002_title_0.91.png",
+    "text": "Labelled protractor"
+}

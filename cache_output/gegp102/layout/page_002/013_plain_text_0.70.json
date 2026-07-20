@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6968585848808289,
+    "bbox": [
+        509.07049560546875,
+        756.6317138671875,
+        1877.6397705078125,
+        903.6669311523438
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/013_plain_text_0.70.png",
+    "text": "(a)\n13 + 4 =\n+6\n(b)\n22\n+\n=6 x 5\n(c)\n8 x\n= 64 \u00f7 2\n(d)\n34 -\n= 25"
+}

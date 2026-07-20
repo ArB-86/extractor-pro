@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "title",
+    "confidence": 0.808197021484375,
+    "bbox": [
+        292.5411071777344,
+        298.27362060546875,
+        2184.593994140625,
+        422.6842041015625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_028/003_title_0.81.png",
+    "text": "Q.3. The time now is 10:01. How many minutes until the clock shows the next palindromic\ntime? What about the one after that?"
+}

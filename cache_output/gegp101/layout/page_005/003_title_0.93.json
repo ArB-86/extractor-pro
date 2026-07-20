@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9329564571380615,
+    "bbox": [
+        380.4228820800781,
+        1123.9549560546875,
+        941.5137329101562,
+        1200.509521484375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_005/003_title_0.93.png",
+    "text": "T.\nof\n2\nT\nens"
+}

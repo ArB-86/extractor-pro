@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "title",
+    "confidence": 0.929259717464447,
+    "bbox": [
+        420.7870178222656,
+        2363.142333984375,
+        1166.8671875,
+        2453.061767578125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_034/004_title_0.93.png",
+    "text": "2.10 Drawing Angles"
+}

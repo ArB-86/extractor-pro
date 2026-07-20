@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "title",
+    "confidence": 0.6117570996284485,
+    "bbox": [
+        364.9833068847656,
+        1696.0362548828125,
+        661.9147338867188,
+        1762.7679443359375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_052/012_title_0.61.png",
+    "text": "Figure i\nit\nO1\nut"
+}

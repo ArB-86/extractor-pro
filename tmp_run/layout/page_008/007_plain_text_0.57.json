@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5749819874763489,
+    "bbox": [
+        534.8232421875,
+        2277.812255859375,
+        2210.529296875,
+        2553.30517578125
+    ],
+    "image_path": "tmp_run/layout/page_008/007_plain_text_0.57.png",
+    "text": "6.\nWhat happens when\n you start to add up powers of 2 starting with\n1, i.e., take 1, 1 + 2\n2, 1 + 2 + 4, 1 + 2 + 4 + 8, ...? Now \nadd 1 to each\nof\nthese\nnumbers\u2014what\nnumbers\ndo\nWhy\nyou\ndoes\nthis\nget?\nhappen?"
+}

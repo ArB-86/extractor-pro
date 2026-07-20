@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7478307485580444,
+    "bbox": [
+        436.045654296875,
+        1654.359375,
+        1778.0926513671875,
+        1712.6595458984375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/011_plain_text_0.75.png",
+    "text": "What do you see? The sums are\nthe same in both cases."
+}

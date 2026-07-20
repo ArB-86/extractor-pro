@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5602418780326843,
+    "bbox": [
+        432.9304504394531,
+        2872.6552734375,
+        2105.19970703125,
+        3001.5009765625
+    ],
+    "image_path": "cache_output/fegp101/layout/page_015/009_plain_text_0.56.png",
+    "text": "Which is triangular number sequence. For pictorial representation refer Table 2 on\npage 4"
+}

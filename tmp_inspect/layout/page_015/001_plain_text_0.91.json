@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9060094952583313,
+    "bbox": [
+        295.212890625,
+        1888.8826904296875,
+        2185.94677734375,
+        2013.29052734375
+    ],
+    "image_path": "tmp_inspect/layout/page_015/001_plain_text_0.91.png",
+    "text": "Q.2. By imagining a large version of your picture, or drawing it partially, as needed, can\nyou see what will be the value of 1 + 2 + 3 + .. + 99 + 100 + 99 + ... + 3 + 2 + 1?"
+}

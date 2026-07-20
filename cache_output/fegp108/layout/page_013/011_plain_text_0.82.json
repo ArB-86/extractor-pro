@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8216056823730469,
+    "bbox": [
+        371.9006652832031,
+        1342.314208984375,
+        1694.84326171875,
+        1485.2576904296875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_013/011_plain_text_0.82.png",
+    "text": "1.\nhow:\nthe length XY\ncompares\ns to that of AB\nand\n2.\nthe shape of the 4-sided figure\n ABYX."
+}

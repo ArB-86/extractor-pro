@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.85579913854599,
+    "bbox": [
+        303.1356506347656,
+        1300.148193359375,
+        798.6290283203125,
+        1843.100830078125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_044/002_plain_text_0.86.png",
+    "text": "Ans.\n+3: Book Store\n+2: Art Centre\n+1: Food Court\n0: Welcome Hall\n-1: Toy Store\n-2: Video Game."
+}

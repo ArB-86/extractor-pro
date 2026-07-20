@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.939601480960846,
+    "bbox": [
+        378.6154479980469,
+        1492.8245849609375,
+        2086.631591796875,
+        1617.7442626953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/005_plain_text_0.94.png",
+    "text": "8.\nWhenever Jasoda has to subtract 9 from a number, she subtracts 10\nand adds 1 to it. For example, 36 - 9 = 26 + 1."
+}

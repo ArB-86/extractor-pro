@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8982820510864258,
+    "bbox": [
+        491.9106140136719,
+        1745.4344482421875,
+        2210.708984375,
+        1883.234619140625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_012/004_plain_text_0.90.png",
+    "text": "10.\nDraw the following. In each case, the figure should contain at least\none curved boundary."
+}

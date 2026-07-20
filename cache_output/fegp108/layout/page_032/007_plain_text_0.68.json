@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.6844704747200012,
+    "bbox": [
+        411.5382385253906,
+        1503.1414794921875,
+        1733.3370361328125,
+        1563.4229736328125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_032/007_plain_text_0.68.png",
+    "text": "Yes, the position of the points on the grid\npaper makes it possible"
+}

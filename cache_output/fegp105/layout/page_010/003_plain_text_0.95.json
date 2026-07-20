@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9463821053504944,
+    "bbox": [
+        418.4159851074219,
+        1094.9676513671875,
+        2033.87939453125,
+        1243.4002685546875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_010/003_plain_text_0.95.png",
+    "text": "While playing the \u2018idli-vada'\ngame with different number\npairs, Anshu observed something\ninteresting!"
+}

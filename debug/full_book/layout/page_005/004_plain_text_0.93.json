@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9323757290840149,
+    "bbox": [
+        453.8287353515625,
+        424.6851806640625,
+        2005.4344482421875,
+        728.6906127929688
+    ],
+    "image_path": "debug/full_book/layout/page_005/004_plain_text_0.93.png",
+    "text": "(a)\nOne lakh\ntwenty three\nthousand four\nhundred\nand fifty\n Six\n(b)\nFour\nlakh\nthousand\nseven\nhundred\nand four\n. seven\n(c)\nFifty lakhs f\nfive thousand \nand fifty\n(d)\nTen lakhs two\nhundred a\nand thirty\nfive"
+}

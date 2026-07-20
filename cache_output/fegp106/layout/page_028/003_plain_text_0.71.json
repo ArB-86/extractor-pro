@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7114593982696533,
+    "bbox": [
+        294.984375,
+        2401.380126953125,
+        2187.6533203125,
+        2522.64990234375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_028/003_plain_text_0.71.png",
+    "text": "Q.1. Give the dimensions of a rectangle whose area is the sum of the areas of these two\nrectangles having measurements: 5 m x 10 m and 2 m x 7 m."
+}

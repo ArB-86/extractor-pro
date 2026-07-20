@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9471373558044434,
+    "bbox": [
+        417.542236328125,
+        1659.5008544921875,
+        2208.801025390625,
+        1835.767822265625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_022/003_plain_text_0.95.png",
+    "text": "Example: Is the fraction\n16\nin lowest terms? No, 4is a common factor\n20\n16\nof 16 and 20. Let us reduce\nto lowest terms.\n20"
+}

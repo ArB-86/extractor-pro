@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9300779104232788,
+    "bbox": [
+        289.1256103515625,
+        2770.59912109375,
+        2090.686279296875,
+        2897.459716796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/007_plain_text_0.93.png",
+    "text": "?\nWhat about the total\nl amount they have to pay? Can it be described by\nthe expression: 2 \u00d7 43 + 24?"
+}

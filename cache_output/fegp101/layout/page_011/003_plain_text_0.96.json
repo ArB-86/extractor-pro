@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9572837948799133,
+    "bbox": [
+        292.9615173339844,
+        2112.64013671875,
+        2084.201416015625,
+        2254.8056640625
+    ],
+    "image_path": "cache_output/fegp101/layout/page_011/003_plain_text_0.96.png",
+    "text": "The\nother\nshape\nin\nTable\n 3\nalso\nhave\nbeautiful\nseguences\nrelationships with number sequences."
+}

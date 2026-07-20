@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.7496076822280884,
+    "bbox": [
+        1021.591552734375,
+        779.09716796875,
+        1420.3841552734375,
+        843.6216430664062
+    ],
+    "image_path": "cache_output/fegp104/layout/page_006/005_title_0.75.png",
+    "text": "Te\nTeacher's\nNote"
+}

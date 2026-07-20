@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9649094343185425,
+    "bbox": [
+        418.62713623046875,
+        1754.8428955078125,
+        2213.303955078125,
+        1972.2813720703125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_012/002_plain_text_0.96.png",
+    "text": "By going\nthrough different ways of breaking\ndown\nthe number\ne 63 as 3 \u00d7 3 x 7 and as 3 x 7 \u00d7 3. Are they\nwe wrote\ndifferent? Not\nreally! The same prime numbers 3 and 7 occur in both cases. Further,"
+}

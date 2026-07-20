@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9616904258728027,
+    "bbox": [
+        395.78082275390625,
+        2072.546630859375,
+        2089.9541015625,
+        2287.393798828125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_007/001_plain_text_0.96.png",
+    "text": "The\nfold i\niS\nline\nof\nsymmetry. Punch holes\nat\ndifferent\na\nlocations\nof\nfolded\nsquare sheet of\npaper\nusing\npunching\na\nmachine\nand\ncreate\na\ndifferent s\nsymmetric\npatterns."
+}

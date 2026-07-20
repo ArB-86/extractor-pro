@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9532173275947571,
+    "bbox": [
+        397.2198181152344,
+        2817.074951171875,
+        2084.729736328125,
+        2958.033203125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_023/004_plain_text_0.95.png",
+    "text": "The point where the circle intersects the line lis the required\npoint B."
+}

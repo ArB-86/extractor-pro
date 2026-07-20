@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.6245800852775574,
+    "bbox": [
+        338.5014343261719,
+        300.40008544921875,
+        930.6666259765625,
+        349.76739501953125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/012_title_0.62.png",
+    "text": "0674 -\nGANITA PRAKASH"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.812338650226593,
+    "bbox": [
+        1205.164306640625,
+        1913.0782470703125,
+        1573.62841796875,
+        1957.4219970703125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/007_title_0.81.png",
+    "text": "Publication Team"
+}

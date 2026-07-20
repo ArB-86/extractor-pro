@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.7730911374092102,
+    "bbox": [
+        296.416015625,
+        893.35546875,
+        2166.282958984375,
+        959.4830932617188
+    ],
+    "image_path": "cache_output/fegp104/layout/page_042/003_plain_text_0.77.png",
+    "text": "Village A : 18, Village B : 36, Village C : 12, Village D : 48, Village E : 18, Village F : 24"
+}

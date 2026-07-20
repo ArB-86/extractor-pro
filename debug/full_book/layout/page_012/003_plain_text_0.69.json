@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6895949840545654,
+    "bbox": [
+        444.1524353027344,
+        880.0659790039062,
+        1971.8489990234375,
+        946.7589111328125
+    ],
+    "image_path": "debug/full_book/layout/page_012/003_plain_text_0.69.png",
+    "text": "the populations of some Indian cities in the table below.\nservet"
+}

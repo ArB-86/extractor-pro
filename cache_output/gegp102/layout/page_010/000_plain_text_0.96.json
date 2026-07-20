@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9568806290626526,
+    "bbox": [
+        289.8668518066406,
+        618.2205200195312,
+        2090.5078125,
+        865.1144409179688
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/000_plain_text_0.96.png",
+    "text": "Example 9: Raghu\nbought\n100\nkg\n of\nrice\nfrom\nthe\nwholesale\nmarket\nand\nthem\ninto\n 2 kg packets. He already\nhad\nfour\n2 kg packets.\npacked\nWrite\nfor\nthe\nnumber\n of 2 kg packets of rice\ne he has\nan\nexpression\nnow\nand identify\nthe terms."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9020794034004211,
+    "bbox": [
+        294.4825134277344,
+        2185.37646484375,
+        1208.6531982421875,
+        2272.4140625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_013/001_title_0.90.png",
+    "text": "Equivalent Fractions\n7.6"
+}

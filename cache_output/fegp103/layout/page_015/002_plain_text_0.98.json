@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9817594289779663,
+    "bbox": [
+        292.53436279296875,
+        623.6537475585938,
+        2087.107421875,
+        1141.803955078125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_015/002_plain_text_0.98.png",
+    "text": "Notice\nthat all four\nabove\neeventually\nreached the\nsequences\nnumber 1. In 1937, the\nGerman mathematician, Lothar\nCollatz\nconjectured that the sequence\ne will always\ns reach 1, regardless of\nthe whole\nnumber\nstart with. Even today\u2014despite\nyou s\ne many\nmathematicians working on it \u2014 it remains an unsolved problem as\nto whether Collatz's conjecture is true! Collatz's conjecture is one of\nthe most famous unsolved problems in mathematics."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9348845481872559,
+    "bbox": [
+        837.0623779296875,
+        338.9744567871094,
+        1663.8494873046875,
+        430.1161804199219
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_013/002_title_0.93.png",
+    "text": "Acknowledgements"
+}

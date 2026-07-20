@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8550539016723633,
+    "bbox": [
+        420.2906188964844,
+        1934.6663818359375,
+        2084.369140625,
+        2062.887451171875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/007_plain_text_0.86.png",
+    "text": "Manjul Bhargava, Professor, Princeton University, and Co-Chairperson,\nNSTC"
+}

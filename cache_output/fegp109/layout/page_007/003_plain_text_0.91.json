@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9115533232688904,
+    "bbox": [
+        294.2651672363281,
+        491.7400817871094,
+        1587.782958984375,
+        559.4783325195312
+    ],
+    "image_path": "cache_output/fegp109/layout/page_007/003_plain_text_0.91.png",
+    "text": "Here is another way of making symmetric shapes!"
+}

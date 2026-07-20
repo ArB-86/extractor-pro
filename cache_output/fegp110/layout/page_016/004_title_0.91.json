@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9121006727218628,
+    "bbox": [
+        294.0489807128906,
+        1563.12939453125,
+        1160.12451171875,
+        1633.855224609375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_016/004_title_0.91.png",
+    "text": "Using\ntokens\nfor subtraction"
+}

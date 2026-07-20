@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9179809093475342,
+    "bbox": [
+        514.0703735351562,
+        1686.2635498046875,
+        1303.046630859375,
+        1984.8236083984375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_009/002_plain_text_0.92.png",
+    "text": "(a)\n30 thousand\n3 lakhs\n(b)\n500 lakhs\n5 million\n(c)\n800 thousand\n8 million\n(d)\n640C\ncrore\n60 billion"
+}

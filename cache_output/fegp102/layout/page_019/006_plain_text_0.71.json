@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7103284597396851,
+    "bbox": [
+        401.8355407714844,
+        2575.992431640625,
+        2087.572021484375,
+        2888.052490234375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_019/006_plain_text_0.71.png",
+    "text": "1.\nIdentify\nacute, right, obtuse\nand\nstraight\nangles\ns in\nthe\nprevious\nfigures.\n2.\nMake a\nfew\nacute\nangles\nand a few\nobtuse\nangles. Draw\nthem\nin\ndifferent orientations."
+}

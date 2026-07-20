@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9744030833244324,
+    "bbox": [
+        420.00091552734375,
+        474.6485595703125,
+        2211.338623046875,
+        765.4841918945312
+    ],
+    "image_path": "cache_output/fegp102/layout/page_032/000_plain_text_0.97.png",
+    "text": "A\nstudent\nused\na protractor\nto\nthe\nangles\nas\nshown\nbelow.\nmeasure\nIn\neach f\nfigure, i\nidentify\nthe\nincorrect\nusage(s) of the\nprotractor\nand\ndiscuss\nthe reading\nhow\ncould have\nbeen made\nand t\nthink how i\nit can\nbe corrected."
+}

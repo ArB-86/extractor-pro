@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7853053212165833,
+    "bbox": [
+        531.5249633789062,
+        571.3632202148438,
+        1951.19970703125,
+        635.6170043945312
+    ],
+    "image_path": "cache_output/fegp105/layout/page_002/006_plain_text_0.79.png",
+    "text": "2.\nIf the\ne game is played for the numbers 1 to 90, find out:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8903694748878479,
+    "bbox": [
+        419.4637756347656,
+        591.45703125,
+        1334.544921875,
+        677.1864013671875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_026/006_plain_text_0.89.png",
+    "text": "Example: Find tl\nthe sum of\n2\n1-5\nand\n5"
+}

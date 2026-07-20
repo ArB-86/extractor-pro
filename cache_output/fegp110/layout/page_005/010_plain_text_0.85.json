@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.851290762424469,
+    "bbox": [
+        531.1317749023438,
+        2671.0830078125,
+        2026.7745361328125,
+        2940.481201171875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_005/010_plain_text_0.85.png",
+    "text": "1.\nJay is in\nthe Art\nCentre. So, he is on\nFloor\n+2.\n2.\nAsin is in the Sports\nCentre. So, she is\n on\nFloor\n3.\nBinnu is in\nthe\nCinema\nCentre. So, she is\non\nFloor\n4.\nAman is in \nthe Toys S\nStore. So, he is on\nFloor"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "title",
+    "confidence": 0.9253188967704773,
+    "bbox": [
+        295.0079040527344,
+        850.847900390625,
+        975.689208984375,
+        921.044189453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_021/005_title_0.93.png",
+    "text": "Symmetries\nof a circle"
+}

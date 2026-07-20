@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "title",
+    "confidence": 0.7738028764724731,
+    "bbox": [
+        296.0969543457031,
+        1439.8662109375,
+        2188.98291015625,
+        1564.4884033203125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_045/006_title_0.77.png",
+    "text": "Evaluate these\nby t\nthinking of them as\nthe resulting\nQ.\nexpressions\nmovement\nt of\ncombining button presses:"
+}

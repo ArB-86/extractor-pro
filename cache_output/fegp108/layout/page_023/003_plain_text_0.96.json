@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9606342315673828,
+    "bbox": [
+        398.95538330078125,
+        2397.63671875,
+        2081.2314453125,
+        2535.855712890625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_023/003_plain_text_0.96.png",
+    "text": "Can you spot the point B here? Remember that it is 7\ncm\nfrom point D and on the line l.\naway"
+}

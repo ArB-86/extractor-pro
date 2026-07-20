@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8493591547012329,
+    "bbox": [
+        378.32061767578125,
+        2001.7567138671875,
+        1813.786865234375,
+        2069.07177734375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_009/006_plain_text_0.85.png",
+    "text": "We shall\nn bigger numbers in later\nI come across even\ngrades."
+}

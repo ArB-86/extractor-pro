@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5031437873840332,
+    "bbox": [
+        369.75750732421875,
+        1352.5819091796875,
+        1570.5552978515625,
+        1418.219970703125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_032/013_plain_text_0.50.png",
+    "text": "1.\nFind c\nquick ways to calculate t\nthese\nproducts:"
+}

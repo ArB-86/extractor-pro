@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9138091206550598,
+    "bbox": [
+        365.7657470703125,
+        399.3603515625,
+        816.22802734375,
+        464.17999267578125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_017/005_plain_text_0.91.png",
+    "text": "Here\nis\none\nway:"
+}

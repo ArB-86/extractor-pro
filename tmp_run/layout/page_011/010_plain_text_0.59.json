@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5886135101318359,
+    "bbox": [
+        405.3498840332031,
+        2764.349609375,
+        1933.2525634765625,
+        2973.77734375
+    ],
+    "image_path": "tmp_run/layout/page_011/010_plain_text_0.59.png",
+    "text": "2.\nCount\nthe\nnumber\nof lines\nin\neach\n shape\nin\nthe\nsequence\nof\nf Complete\nGraphs. Which\nnumber\nsequence\ndo\nyou\nget?\nCan\nexplain\nwhy?\nyou"
+}

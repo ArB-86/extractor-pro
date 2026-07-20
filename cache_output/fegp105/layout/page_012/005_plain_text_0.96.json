@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9602940082550049,
+    "bbox": [
+        418.3983154296875,
+        1154.192138671875,
+        2208.711181640625,
+        1369.8265380859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_012/005_plain_text_0.96.png",
+    "text": "Every number\ngreater than 1 has a prime factorisation. The idea\nis the same: keep\no breaking\ng the composite numbers into factors till\nonly primes are left."
+}

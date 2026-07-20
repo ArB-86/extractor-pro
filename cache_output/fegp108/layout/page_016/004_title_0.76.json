@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.7629171013832092,
+    "bbox": [
+        524.07568359375,
+        666.5018920898438,
+        1038.405517578125,
+        733.0123291015625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_016/004_title_0.76.png",
+    "text": "Falling\nSquares\n2\n10"
+}

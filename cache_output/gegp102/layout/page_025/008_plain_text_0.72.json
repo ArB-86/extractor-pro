@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7205568552017212,
+    "bbox": [
+        308.76275634765625,
+        301.4915466308594,
+        2185.463623046875,
+        437.36077880859375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/008_plain_text_0.72.png",
+    "text": "Will this also hold when there are terms having\nnegative numbers as\nwell? Take some more expressions and check."
+}

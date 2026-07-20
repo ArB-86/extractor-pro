@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8583892583847046,
+    "bbox": [
+        527.46533203125,
+        1293.2176513671875,
+        2048.88037109375,
+        1363.6611328125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_030/001_plain_text_0.86.png",
+    "text": "6.\nFind the degree measures of ZBXE, ZCXE, ZAXB and ZBXC"
+}

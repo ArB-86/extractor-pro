@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8593280911445618,
+    "bbox": [
+        435.37420654296875,
+        2485.014892578125,
+        1707.23388671875,
+        2542.560791015625
+    ],
+    "image_path": "debug/full_book/layout/page_008/007_plain_text_0.86.png",
+    "text": "Observe\nthe number of zeroes\nin 1 lakh and 1 crore."
+}

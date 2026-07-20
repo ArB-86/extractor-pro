@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9520520567893982,
+    "bbox": [
+        421.2242736816406,
+        867.0899658203125,
+        2206.5888671875,
+        1015.9367065429688
+    ],
+    "image_path": "cache_output/fegp106/layout/page_014/003_plain_text_0.95.png",
+    "text": "Draw a rectangle on a p\npiece of paper and draw one of its diagonals.\nCut the rectangle along that diagonal and get two triangles."
+}

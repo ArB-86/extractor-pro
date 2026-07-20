@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "plain_text",
+    "confidence": 0.519784688949585,
+    "bbox": [
+        293.7257385253906,
+        584.9876098632812,
+        1122.9432373046875,
+        649.3731079101562
+    ],
+    "image_path": "cache_output/fegp110/layout/page_049/015_plain_text_0.52.png",
+    "text": "Q3. Is 2 > - 3? Why? Is - 2 < 3? Why?"
+}

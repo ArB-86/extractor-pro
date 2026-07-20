@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6835372447967529,
+    "bbox": [
+        523.4657592773438,
+        590.258544921875,
+        1485.5889892578125,
+        668.8505249023438
+    ],
+    "image_path": "cache_output/fegp107/layout/page_008/008_plain_text_0.68.png",
+    "text": "1?\n2\u3002\nCan\nyou create a similar table for\n14"
+}

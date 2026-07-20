@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9218253493309021,
+    "bbox": [
+        379.1780700683594,
+        2505.88818359375,
+        2088.7265625,
+        2620.875732421875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_004/004_plain_text_0.92.png",
+    "text": "Similarly, the number 15,75,000 in words is fifteen lakh seventy f\nfive\nthousand."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "title",
+    "confidence": 0.711294412612915,
+    "bbox": [
+        989.5606689453125,
+        407.90899658203125,
+        1495.9127197265625,
+        465.26324462890625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_044/008_title_0.71.png",
+    "text": "The\nOther Side of Zero"
+}

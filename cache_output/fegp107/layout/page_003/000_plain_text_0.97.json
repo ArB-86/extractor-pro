@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9744181632995605,
+    "bbox": [
+        354.3877258300781,
+        787.2481689453125,
+        2024.6666259765625,
+        1226.182373046875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_003/000_plain_text_0.97.png",
+    "text": "S          \n3-4\nIn the Rig Veda, the fraction\nis referred to as tri-pada. This has the\n3\nsame meaning as the words for\nin many\nIndian languages today,\n4\ne.g., \u2018teen paav' in colloquial Hindi and \u2018mukkaal in Tamil. Indeed,\nancient times."
+}

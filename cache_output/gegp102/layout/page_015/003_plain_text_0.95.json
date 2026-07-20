@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9461929798126221,
+    "bbox": [
+        379.84576416015625,
+        1851.621826171875,
+        2091.250244140625,
+        2034.318603515625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/003_plain_text_0.95.png",
+    "text": "9.\nConsider the two expressions: a) 73 - 14 + 1, b) 73 - 14 - 1. For each\nof these expressions, identify\nthe expressions from the following\ncollection that are equal to it."
+}

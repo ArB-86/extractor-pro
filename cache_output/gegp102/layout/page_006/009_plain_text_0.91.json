@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9128201603889465,
+    "bbox": [
+        434.6722412109375,
+        2567.745361328125,
+        968.8034057617188,
+        2627.16357421875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_006/009_plain_text_0.91.png",
+    "text": "It doesn't in this\ncase."
+}

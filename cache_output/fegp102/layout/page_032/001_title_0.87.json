@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "title",
+    "confidence": 0.8676388263702393,
+    "bbox": [
+        420.6297912597656,
+        396.4267883300781,
+        1462.32421875,
+        463.7490234375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_032/001_title_0.87.png",
+    "text": "Mind t\nthe Mistake, N\nMend t\nthe Mistake!"
+}

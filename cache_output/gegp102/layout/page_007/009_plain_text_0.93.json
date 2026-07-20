@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9275577664375305,
+    "bbox": [
+        377.9917297363281,
+        1715.2755126953125,
+        2089.377685546875,
+        1833.6368408203125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/009_plain_text_0.93.png",
+    "text": "Again, we know that while adding positive numbers, grouping them\nin any of the above two ways gives the same sum."
+}

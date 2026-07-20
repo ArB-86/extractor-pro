@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8822045922279358,
+    "bbox": [
+        527.3245849609375,
+        2562.516845703125,
+        2207.35107421875,
+        2634.34326171875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_022/003_plain_text_0.88.png",
+    "text": "How do we spot it? What else do we know about the position of B?"
+}

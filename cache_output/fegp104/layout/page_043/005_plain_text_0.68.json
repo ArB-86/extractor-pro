@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.6832910776138306,
+    "bbox": [
+        290.2486267089844,
+        300.06121826171875,
+        2186.025390625,
+        422.3265686035156
+    ],
+    "image_path": "cache_output/fegp104/layout/page_043/005_plain_text_0.68.png",
+    "text": "Q.9A\nsurvey of 120 school students was conducted to find out which activity t\nthey\npreferred to do in their free time."
+}

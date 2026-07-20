@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9463648200035095,
+    "bbox": [
+        377.2275085449219,
+        879.052001953125,
+        2093.112060546875,
+        1062.9615478515625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/002_plain_text_0.95.png",
+    "text": "6\u3002\nUsing only\nreasoning of how terms\nchange their values, fill the\nblanks to make the expressions on either side of the equality (=)\nequal."
+}

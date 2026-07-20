@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.5720697045326233,
+    "bbox": [
+        454.5949401855469,
+        773.4547729492188,
+        1996.9617919921875,
+        845.5294799804688
+    ],
+    "image_path": "cache_output/fegp107/layout/page_012/012_title_0.57.png",
+    "text": "Vriting\nfractions\nthan one as mixed\ngreater t\nnumber"
+}

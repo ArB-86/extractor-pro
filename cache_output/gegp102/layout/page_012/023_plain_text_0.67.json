@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6667861938476562,
+    "bbox": [
+        436.5164489746094,
+        1189.515869140625,
+        1176.7598876953125,
+        1250.8304443359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_012/023_plain_text_0.67.png",
+    "text": "And then subtract 3 from\n160:"
+}

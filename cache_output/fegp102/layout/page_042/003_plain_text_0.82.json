@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.8217446804046631,
+    "bbox": [
+        440.2337646484375,
+        1496.3814697265625,
+        2209.031982421875,
+        1640.4449462890625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_042/003_plain_text_0.82.png",
+    "text": "A line segment\nt corresponds to the shortest c\ndistance\nbetween\ntWo\npoints. The line segment joining points S and T is denoted by ST."
+}

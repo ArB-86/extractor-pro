@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8850588202476501,
+    "bbox": [
+        367.9295349121094,
+        395.1035461425781,
+        1061.029541015625,
+        462.6882629394531
+    ],
+    "image_path": "cache_output/fegp108/layout/page_007/007_plain_text_0.89.png",
+    "text": "Recall that, in a rectangle:"
+}

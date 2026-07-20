@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8939605951309204,
+    "bbox": [
+        403.16766357421875,
+        3077.503662109375,
+        2185.502685546875,
+        3200.750732421875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_026/006_plain_text_0.89.png",
+    "text": "If we reflect along the horizontal line of symmetry, D and C occupies the position earlier\noccupied by A and B respectively."
+}

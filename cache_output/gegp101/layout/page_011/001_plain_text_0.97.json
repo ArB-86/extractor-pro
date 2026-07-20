@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9670637845993042,
+    "bbox": [
+        378.2641906738281,
+        392.2729187011719,
+        2090.517822265625,
+        573.7232055664062
+    ],
+    "image_path": "cache_output/gegp101/layout/page_011/001_plain_text_0.97.png",
+    "text": "With large numbers it is useful to know the nearest thousand, lakh or\ncrore. For example, the nearest neighbours of the number 6,72,85,183\nare shown in the table below."
+}

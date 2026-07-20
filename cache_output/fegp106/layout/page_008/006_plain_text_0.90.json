@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9006807208061218,
+    "bbox": [
+        506.52374267578125,
+        1768.4471435546875,
+        2064.140380859375,
+        1840.8587646484375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_008/006_plain_text_0.90.png",
+    "text": "For example, the arrangement a. has a perimeter of 28 cm."
+}

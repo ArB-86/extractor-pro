@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.6929452419281006,
+    "bbox": [
+        412.75494384765625,
+        2305.62646484375,
+        1561.9215087890625,
+        2365.86376953125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_035/008_plain_text_0.69.png",
+    "text": "There are\nstudents who\nshoe size 5.\nwear"
+}

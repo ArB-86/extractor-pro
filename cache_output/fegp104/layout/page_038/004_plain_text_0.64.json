@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.641379177570343,
+    "bbox": [
+        296.69390869140625,
+        2076.865234375,
+        2183.972412109375,
+        2264.779052734375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_038/004_plain_text_0.64.png",
+    "text": "Q.1. Samantha visited a tea garden and collected data of the insects and critters she saw\nthere. Here is the data she collected -\nHelp her prepare a bar graph representing this data."
+}

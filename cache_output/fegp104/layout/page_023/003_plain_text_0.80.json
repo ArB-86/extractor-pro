@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8015666007995605,
+    "bbox": [
+        622.7167358398438,
+        2329.639892578125,
+        2210.287109375,
+        2765.48095703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_023/003_plain_text_0.80.png",
+    "text": "a.\nWhich village has the smallest number of tractors?\nb.\nWhich village has the most tractors?\nHow many\n more tractors does Village C have than Village B?\nd.\nKomal says, \"village\ne D has half the\n number of tractors as\nVillage E.\" Is she right?"
+}

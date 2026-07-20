@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5723517537117004,
+    "bbox": [
+        379.3179931640625,
+        1979.4598388671875,
+        1310.76708984375,
+        2094.838134765625
+    ],
+    "image_path": "debug/full_book/layout/page_007/014_plain_text_0.57.png",
+    "text": "Is\nthere\nanother\nway\nto\nget\n5072\nusing\nless\nthan\n23 button\nclicks?"
+}

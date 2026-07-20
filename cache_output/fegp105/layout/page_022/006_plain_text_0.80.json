@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8046033382415771,
+    "bbox": [
+        460.67303466796875,
+        2126.83544921875,
+        2208.164794921875,
+        2264.493408203125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_022/006_plain_text_0.80.png",
+    "text": "There is only\none way to factorise a number into p\nprimes, except for\nthe ordering of the factors."
+}

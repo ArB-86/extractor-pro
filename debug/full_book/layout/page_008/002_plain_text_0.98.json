@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9756322503089905,
+    "bbox": [
+        382.27410888671875,
+        2187.205322265625,
+        2087.786376953125,
+        2481.91455078125
+    ],
+    "image_path": "debug/full_book/layout/page_008/002_plain_text_0.98.png",
+    "text": "The\nIndian\nof\nnaming\nnumbers\nis also\nfollowed\nin\nBhutan,\nsystem\nNepal,\nSri\nLanka,l\nPakistan,\nBangladesh,\nMaldives, \nAfghanistan,\nand\nMyanmar.\nThe\ne words lakh\nand\ncrore originate f\nfrom\nthe Sanskrit\nt words\nlaksha\n(\u53ef&)\nand\nkoti\n(). The\ne American\nis also\nsystem\nused\nin\nmany\ncountries."
+}

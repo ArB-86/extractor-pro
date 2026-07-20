@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8459243774414062,
+    "bbox": [
+        520.649658203125,
+        2424.29833984375,
+        2208.613037109375,
+        2560.52734375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_002/003_plain_text_0.85.png",
+    "text": "1.\nThree\nguavas together weigh 1 kg. If they\nare roughly of the same\nsize, each\n guava will roughly weigh\nkg"
+}

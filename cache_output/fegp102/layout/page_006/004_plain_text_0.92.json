@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9227248430252075,
+    "bbox": [
+        416.4117736816406,
+        395.9836120605469,
+        2212.76513671875,
+        538.3343505859375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_006/004_plain_text_0.92.png",
+    "text": "Do you see angles being made in each of these cases? Can you mark\ntheir arms and vertex?"
+}

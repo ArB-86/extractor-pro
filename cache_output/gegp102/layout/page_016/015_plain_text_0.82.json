@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8177465796470642,
+    "bbox": [
+        436.3836364746094,
+        520.3302612304688,
+        1342.1007080078125,
+        580.0028686523438
+    ],
+    "image_path": "cache_output/gegp102/layout/page_016/015_plain_text_0.82.png",
+    "text": "This\ns expression means\n24\nmore than"
+}

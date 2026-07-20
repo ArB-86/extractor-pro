@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9440052509307861,
+    "bbox": [
+        376.7238464355469,
+        2384.711181640625,
+        2087.190673828125,
+        2503.079833984375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_004/002_plain_text_0.94.png",
+    "text": "The number name of 12,78,830 is twelve lakh seventy eight thousand\neight hundred thirty."
+}

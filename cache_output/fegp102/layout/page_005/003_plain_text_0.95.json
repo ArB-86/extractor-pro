@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.952601969242096,
+    "bbox": [
+        289.79461669921875,
+        2165.980224609375,
+        2083.992919921875,
+        2307.053466796875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_005/003_plain_text_0.95.png",
+    "text": "Vidya has just opened her book. Let us observe\ne her opening\ngthe\ncover of the book in different scenarios."
+}

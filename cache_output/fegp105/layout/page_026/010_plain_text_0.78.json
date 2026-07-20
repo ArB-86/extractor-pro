@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.7805796265602112,
+    "bbox": [
+        297.017578125,
+        3044.10498046875,
+        967.71337890625,
+        3105.982177734375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_026/010_plain_text_0.78.png",
+    "text": "Ans.\n90,91, 9\n92,9\n93, 94, 95, 96."
+}

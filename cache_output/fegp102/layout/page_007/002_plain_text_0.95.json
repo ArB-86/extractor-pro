@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.947965145111084,
+    "bbox": [
+        336.0509033203125,
+        1817.458251953125,
+        2032.6507568359375,
+        1958.88671875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_007/002_plain_text_0.95.png",
+    "text": "Teacher needs to organise\nvarious activities with the students to\nrecognise the size of an angle\ne as a measure of rotation."
+}

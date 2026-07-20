@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.6454188227653503,
+    "bbox": [
+        294.0936279296875,
+        527.109375,
+        1599.0162353515625,
+        675.4518432617188
+    ],
+    "image_path": "cache_output/fegp109/layout/page_035/007_plain_text_0.65.png",
+    "text": "Let us find the angles of symmetry f\nfor other kinds of figures.\nAns.\n360\u00b0\u00f7 7 = 51\n7"
+}

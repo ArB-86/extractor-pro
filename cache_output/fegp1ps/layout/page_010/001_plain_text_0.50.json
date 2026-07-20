@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5021912455558777,
+    "bbox": [
+        379.4914245605469,
+        356.3016357421875,
+        2124.09912109375,
+        813.5535888671875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_010/001_plain_text_0.50.png",
+    "text": "17. 1\nDinesh I\nKumar,.\nProfessor\nand\nHead,F\nPlanning\nand\nMonitoring\nDivision, NCERT, New Delhi\nDepartment of Education in Languages,\n18.Kirti\nKapur, Professor\nNCERT, NeW Delhi\n19. Ranjana Arora, Professor and Head, Department of Curriculum\nStudies and Development, NCERT (Member-Secretary)"
+}

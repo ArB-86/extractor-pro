@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6320717334747314,
+    "bbox": [
+        420.38134765625,
+        2091.8095703125,
+        1945.111572265625,
+        2157.599609375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/017_plain_text_0.63.png",
+    "text": "Padmapriya Shirali, Former Principal, Sahyadri School KFI, Pune"
+}

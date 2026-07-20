@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9810203909873962,
+    "bbox": [
+        416.89569091796875,
+        1918.42919921875,
+        2212.41943359375,
+        2362.53466796875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_015/001_plain_text_0.98.png",
+    "text": "A positive token and a negative token cancel each other, because\nthe value of this pair of tokens together is zero. These two tokens in\nhis pocket meant that he\npressed\u2018+'\nonce and \u2018-\u2019 c\nonce, respectively,\nand these cancel each other. We say\nthat a positive and a negative\ntoken make a 'zero pair'. When you remove all the zero pairs, you are\nleft with two positive tokens, so (+5) +\n\u5341\n+\uff08-3\uff09=\n= +2."
+}

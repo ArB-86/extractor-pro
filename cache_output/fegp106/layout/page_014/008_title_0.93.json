@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.9311761856079102,
+    "bbox": [
+        423.4293212890625,
+        734.4874267578125,
+        1229.2322998046875,
+        821.16259765625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_014/008_title_0.93.png",
+    "text": "6.3 Area of a Triangle"
+}

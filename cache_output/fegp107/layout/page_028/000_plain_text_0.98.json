@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9817705750465393,
+    "bbox": [
+        417.5186462402344,
+        1109.0013427734375,
+        2215.6220703125,
+        1553.2960205078125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_028/000_plain_text_0.98.png",
+    "text": "This method of addition, which works for adding\nany\nnumber of\nfractions, was\nfirst explicitly\ndescribed in\ngeneral by\nBrahmagupta\nin the year 628 CE! We will describe the history of the development\nof fractions in more\ndetail later in the chapter. For now, we simply\nthe\nsteps\nin\nBrahmagupta's\nmethod\nfor\naddition of\nsummarise\nfractions."
+}

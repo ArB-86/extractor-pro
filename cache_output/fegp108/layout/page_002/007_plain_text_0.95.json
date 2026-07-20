@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.948540985584259,
+    "bbox": [
+        419.7234191894531,
+        2168.99755859375,
+        2207.256591796875,
+        2313.369384765625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_002/007_plain_text_0.95.png",
+    "text": "Try to draw it and verify if it is correct by taking\nsome1\npoints on\nthe curve and checking if their distances from P are indeed 4 cm."
+}

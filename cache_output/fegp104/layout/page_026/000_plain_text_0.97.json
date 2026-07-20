@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9707062840461731,
+    "bbox": [
+        408.17034912109375,
+        2276.75,
+        2085.509765625,
+        2871.488525390625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_026/000_plain_text_0.97.png",
+    "text": "11. The number of tigers in India went down drastically between 19o0\nand 1970. Project Tiger was launched in 1973 to track and protect\nthe tigers in India. Starting in 2o06, the exact number of tigers\nin India Was tracked. Shagufta and Divya looked up information\nabout the number of tigers in India between 2006 and 2022 in four-\nbar graph to present this data, but there are a few mistakes in the\ngraph. Can you find those mistakes and fix them?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9795811772346497,
+    "bbox": [
+        418.0801696777344,
+        2439.587890625,
+        2210.939697265625,
+        2959.6845703125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_025/000_plain_text_0.98.png",
+    "text": "The\nfirst\nknown\ninstances of the\nof 1\nuse\nnegative\nnumbers\noccurred in the context of accounting. In one of China's most\nimportant mathematical works, The Nine Chapters on Mathematical\nArt (Jiuzhang Suanshu)\u2014which was completed by the first or second\ncentury CE\u2014positive and negative numbers were represented using\nred and black rods, much like the way we represented them using\ngreen and red tokens!"
+}

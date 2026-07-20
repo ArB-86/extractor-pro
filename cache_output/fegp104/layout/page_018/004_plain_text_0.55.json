@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.5515807867050171,
+    "bbox": [
+        300.22235107421875,
+        2496.72705078125,
+        2061.99951171875,
+        2572.9111328125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_018/004_plain_text_0.55.png",
+    "text": "Draw two perpendicular lines, one horizontal and one vertical."
+}

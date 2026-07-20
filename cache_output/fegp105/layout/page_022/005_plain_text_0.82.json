@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8201673626899719,
+    "bbox": [
+        451.1428527832031,
+        2426.102783203125,
+        2210.8720703125,
+        2642.724365234375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_022/005_plain_text_0.82.png",
+    "text": "To check if two numbers are o\nfirst find their prime\nco-prime, we can\nfactorisations and check if there is a common prime factor. If there is no\ncommon prime factor, they a\n are co-prime, and otherwise they &\nare not."
+}

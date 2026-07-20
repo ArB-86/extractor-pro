@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9232964515686035,
+    "bbox": [
+        297.7533874511719,
+        2295.820068359375,
+        2185.763427734375,
+        2418.0185546875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_022/002_plain_text_0.92.png",
+    "text": "Ans. No; the cell which is filled by the greatest number among the given numbers chosen, will\nbecome super cell irrespective of its position in the table."
+}

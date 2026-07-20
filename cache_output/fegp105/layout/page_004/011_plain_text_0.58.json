@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5827287435531616,
+    "bbox": [
+        527.48388671875,
+        2148.77490234375,
+        2038.3238525390625,
+        2586.962646484375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_004/011_plain_text_0.58.png",
+    "text": "1. 1\nIs\nthere\nanything\namong\nthe\ncommon\nshaded\nnumbers?\n2.\nIs\nthere\nanything\namong\nthe\ncircled\ncommon\nnumbers?\n3.\nWhich numbers are both shaded and circled? What\nare i\nthese numbers called?"
+}

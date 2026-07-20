@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8238080143928528,
+    "bbox": [
+        421.8213195800781,
+        1905.1583251953125,
+        699.9953002929688,
+        2038.6463623046875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/003_plain_text_0.82.png",
+    "text": "Chapter 7\nFractions"
+}

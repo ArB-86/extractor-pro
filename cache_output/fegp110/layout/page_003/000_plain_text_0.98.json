@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9827039837837219,
+    "bbox": [
+        419.2398986816406,
+        2053.49072265625,
+        1847.17822265625,
+        2649.81640625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_003/000_plain_text_0.98.png",
+    "text": "In the Building of Fun', the floors are numbered\nusing the ground floor, Floor O, as a reference or starting\npoint. The floors above the ground floor are numbered\nWith positive numbers. To get to them from the ground\nfloor, one must press the \u2018+\u2019 button some number of\ntimes. The floors below the ground are numbered with\nnegative numbers. To get to them from the ground floor,\none must press the \u2018-' button some number of times."
+}

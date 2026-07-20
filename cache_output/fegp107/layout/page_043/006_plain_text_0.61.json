@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.607516348361969,
+    "bbox": [
+        294.4601745605469,
+        2859.047119140625,
+        2186.3486328125,
+        2982.33203125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_043/006_plain_text_0.61.png",
+    "text": "Q3. Anil was in a group where 2 cakes were divided equally among 5 children. How much\ncake would Anil get?"
+}

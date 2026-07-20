@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5917257070541382,
+    "bbox": [
+        408.4405822753906,
+        776.959228515625,
+        1928.1505126953125,
+        1012.5676879882812
+    ],
+    "image_path": "tmp_layout/page_005/006_plain_text_0.59.png",
+    "text": "2.\nWhya\n are 1, 3, 6, 10, 15, .. called triangular numbers? Why\n1, 4, 9, 16, 25,\nare\ncalled\nsquare\nnumbers\nsquares?\nWhy\n1, 8, 27, 64, 125, ... called c\nare\ncubes?"
+}

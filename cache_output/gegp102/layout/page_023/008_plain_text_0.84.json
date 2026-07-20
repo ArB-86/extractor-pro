@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8365234136581421,
+    "bbox": [
+        333.7196960449219,
+        1673.904052734375,
+        2177.376708984375,
+        1807.072509765625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_023/008_plain_text_0.84.png",
+    "text": "1. Fill in the blanks to make the expressions equal on both sides of the\nsign:"
+}

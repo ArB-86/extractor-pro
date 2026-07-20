@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.5967563986778259,
+    "bbox": [
+        366.25543212890625,
+        2838.349853515625,
+        1996.1959228515625,
+        3197.462158203125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_044/015_plain_text_0.60.png",
+    "text": "1. Group\n1: 3 glasses of sugarcane\n juice divided e\nequally\namong 4 children.\nGroup 2: 7 glasses of sugarcane\njuice divided equally\namong\n 10 children\n2. Group\n1: 4 glasses of sugarcane\njuice divided equally\namong\n 7 children.\nGroup 2: 5 glasses of sugarcane\njuice divided equally\namong\n7 children."
+}

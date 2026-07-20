@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6487581729888916,
+    "bbox": [
+        377.7659912109375,
+        2322.2158203125,
+        1607.9898681640625,
+        2562.918212890625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/014_plain_text_0.65.png",
+    "text": "Imagine a situation, Raja had 113\nmarbles\nand lost\n25 of them. He has\n113 - 25\nmarbles. Joy\nhad 112\nmarbles and lost 24 today. He has 1\n112 - 24 marbles.\nWho has\nmore marbles\nleft\nWith them?"
+}

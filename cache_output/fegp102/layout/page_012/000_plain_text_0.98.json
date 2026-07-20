@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9755027890205383,
+    "bbox": [
+        419.9535827636719,
+        695.136474609375,
+        2209.699462890625,
+        990.21240234375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_012/000_plain_text_0.98.png",
+    "text": "the\ncircular\nthe\nmade by\nLet\nplace\nangle\nthe\nfirst\nus\npaper\non\nThe\ncircle is\nplaced\nin\nsuch\na\nthat\nits\ncentre\niS\nthe\ncrane.T\nway\nuo\nvertex of the angle. Let us mark the points A and B on the edge circle\nat the points where\nthe\narms of the\nangle\nthrough\nthe circle.\npass"
+}

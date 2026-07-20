@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6676009297370911,
+    "bbox": [
+        734.1539916992188,
+        2543.559326171875,
+        1889.5552978515625,
+        2614.72021484375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_002/008_plain_text_0.67.png",
+    "text": "Perimeter of a square\ne=4\u00d7\nlength of a side."
+}

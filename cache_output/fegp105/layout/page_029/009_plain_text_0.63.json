@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.6271286010742188,
+    "bbox": [
+        294.3409423828125,
+        2914.086669921875,
+        1685.4620361328125,
+        2977.577392578125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_029/009_plain_text_0.63.png",
+    "text": "Q.5. What is the smallest number whose prime factorisation has:"
+}

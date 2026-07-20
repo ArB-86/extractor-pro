@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9435598850250244,
+    "bbox": [
+        375.175537109375,
+        2612.288330078125,
+        2091.32568359375,
+        2740.148193359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/004_plain_text_0.94.png",
+    "text": "As each of them had one vegetable cutlet and one rasagulla, each of\ntheir shares can be represented by 43 + 24."
+}

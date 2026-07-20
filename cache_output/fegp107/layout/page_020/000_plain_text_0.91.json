@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.910729169845581,
+    "bbox": [
+        417.5320129394531,
+        1556.0648193359375,
+        2208.5087890625,
+        1700.6956787109375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_020/000_plain_text_0.91.png",
+    "text": "Now, decide in which of the two\ngroups will\neach child\nget a\nlarger share:"
+}

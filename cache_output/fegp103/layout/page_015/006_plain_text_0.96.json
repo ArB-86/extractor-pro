@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9599727988243103,
+    "bbox": [
+        294.7530517578125,
+        1336.27392578125,
+        2082.7001953125,
+        1480.799072265625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_015/006_plain_text_0.96.png",
+    "text": "Do you believe the conjecture of Collatz that all such sequences\nWill\neventually reach 1? Why or why not?"
+}

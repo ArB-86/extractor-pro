@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5977807641029358,
+    "bbox": [
+        407.44189453125,
+        2400.478271484375,
+        1930.7860107421875,
+        2749.23974609375
+    ],
+    "image_path": "cache_output/fegp101/layout/page_011/009_plain_text_0.60.png",
+    "text": "1.\nthe\nnumber of sides in each shape in the sequence\nCount\nof Regular Polygons. Which number sequence\ndo you\nget?\nWhat about\nthe 1\nnumber of\ncorners\nin each shape\nin the\nsequence of Regular Polygons? Do you get the same number\nsequence? Can\nyou explain why t\nthis happens?"
+}

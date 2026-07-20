@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6802656650543213,
+    "bbox": [
+        424.31048583984375,
+        1813.3028564453125,
+        1919.9697265625,
+        1886.674560546875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_007/007_plain_text_0.68.png",
+    "text": "the following\nAnswer\n questions using the pictograph:"
+}

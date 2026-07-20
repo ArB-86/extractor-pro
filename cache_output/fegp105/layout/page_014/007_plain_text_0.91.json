@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9122873544692993,
+    "bbox": [
+        487.7746887207031,
+        2483.142578125,
+        2208.019775390625,
+        2553.57763671875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_014/007_plain_text_0.91.png",
+    "text": "What about 80 and 63? Their prime factorisations are as follows:"
+}

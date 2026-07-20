@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8726945519447327,
+    "bbox": [
+        422.3136901855469,
+        362.1427307128906,
+        2085.689453125,
+        690.17138671875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_014/001_plain_text_0.87.png",
+    "text": "The\nCouncil\nthe\ncontributions\nof\nSushmita\nappreciates\nJoshi,\nSenior\nResearch Associate; Manju\nMhar, Senior\nResearch Associate;\nShakti\nKumar\nBhardwaj, Mathematics\ns Lab Assistant, Department\nt of\nEducation in Science and Mathematics, NCERT, for providing s\nsupport\nin the development of the textbook."
+}

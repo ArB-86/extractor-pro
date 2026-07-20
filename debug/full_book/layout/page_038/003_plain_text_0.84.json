@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.8430063128471375,
+    "bbox": [
+        448.8629150390625,
+        1976.443359375,
+        2132.979736328125,
+        2245.246826171875
+    ],
+    "image_path": "debug/full_book/layout/page_038/003_plain_text_0.84.png",
+    "text": "(i) 1\nBald e\neagles' f\nflight height = 4500 - 6000\nLower\nestimate = 4\n4500 \u00f7 40 = 112.5\ntimes\nUpper\nestimate =\n6000\n0 \u00f7 40 = 150 t\ntimes\nfly about \nSomu's building.\nBald\neagles\n112 to 1\n150\ntimes\nhigher\nthan"
+}

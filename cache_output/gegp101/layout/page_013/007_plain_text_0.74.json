@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7392493486404419,
+    "bbox": [
+        373.7755126953125,
+        1300.5306396484375,
+        2094.133544921875,
+        2007.2130126953125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_013/007_plain_text_0.74.png",
+    "text": "1. What is your general observation about this data? Share it with\nthe class.\n2. What is an appropriate title for the above table?\n           \nhow much has it increased compared to 2o01?\n4. Which city's population increased the most between 2001 and 2011?\n5. Are there cities whose population has almost doubled? Which\nare they?\n6\u3002]\nBy what number should we multiply Patna's population to get a\nnumber/population close to that of Mumbai?"
+}

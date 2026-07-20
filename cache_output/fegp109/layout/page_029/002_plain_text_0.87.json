@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8702750205993652,
+    "bbox": [
+        365.812255859375,
+        1106.24169921875,
+        1381.4439697265625,
+        1168.3934326171875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_029/002_plain_text_0.87.png",
+    "text": "b.A t\ntriangle with equal s\nsides and e\nequal\nangles."
+}

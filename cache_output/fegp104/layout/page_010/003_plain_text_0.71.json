@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7142361402511597,
+    "bbox": [
+        296.0359191894531,
+        1980.20556640625,
+        2082.51123046875,
+        2199.595458984375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/003_plain_text_0.71.png",
+    "text": "It can\nI be\nchallenging\nmore\n to]\nprepare a\npictograph when the\namount of data is large\n or when the frequencies are not exact\nmultiples of the scale or key."
+}

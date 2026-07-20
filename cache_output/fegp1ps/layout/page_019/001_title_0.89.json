@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "title",
+    "confidence": 0.8935667276382446,
+    "bbox": [
+        1060.5286865234375,
+        364.4093017578125,
+        1447.0001220703125,
+        459.5317687988281
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/001_title_0.89.png",
+    "text": "ONTENTS"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6933459043502808,
+    "bbox": [
+        1242.8427734375,
+        451.8508605957031,
+        1989.5472412109375,
+        655.1173706054688
+    ],
+    "image_path": "cache_output/fegp107/layout/page_020/003_plain_text_0.69.png",
+    "text": "If the number of \nfunits\nthat are shared\nis\nthe\nsame,\nbut\nthe\nnumber\nof\nchildren\namong\nwhom\nthe\nunits\nare\nshared is\nmore, t\nthen\nthe share is\nless."
+}

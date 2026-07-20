@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9206414818763733,
+    "bbox": [
+        644.6116333007812,
+        2119.076171875,
+        1859.9005126953125,
+        2393.694091796875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_020/002_plain_text_0.92.png",
+    "text": "IN\nOUR\nCONSTITUENT\nASSEMBLY\nthis\ntwenty-sixth day of November,\n1949\n9do\nHEREBY\nADOPT,\nENACT\nAND\nGIVE\nTO\nOURSELVESTHIS\nCONSTITUTION."
+}

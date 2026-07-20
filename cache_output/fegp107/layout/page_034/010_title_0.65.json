@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "title",
+    "confidence": 0.6502066254615784,
+    "bbox": [
+        420.89984130859375,
+        397.4641418457031,
+        734.7334594726562,
+        467.6716613769531
+    ],
+    "image_path": "cache_output/fegp107/layout/page_034/010_title_0.65.png",
+    "text": "Puzzle\ne"
+}

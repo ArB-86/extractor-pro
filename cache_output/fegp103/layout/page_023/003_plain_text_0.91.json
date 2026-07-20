@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9114131331443787,
+    "bbox": [
+        297.13092041015625,
+        896.2390747070312,
+        1970.0147705078125,
+        1082.04052734375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_023/003_plain_text_0.91.png",
+    "text": "Ans. Some of these could be-\n        s s a      \nCan you fill the table with 9 cells such that there are exactly 4 super cells?"
+}

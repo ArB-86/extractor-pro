@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.8111159205436707,
+    "bbox": [
+        295.465576171875,
+        1386.2825927734375,
+        1190.0604248046875,
+        1486.313232421875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_038/004_plain_text_0.81.png",
+    "text": "1\nQ2. Can\nyou create a similar table for\n\u4e00\n4"
+}

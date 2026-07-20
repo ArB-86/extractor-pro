@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9558708667755127,
+    "bbox": [
+        291.840087890625,
+        2669.243896484375,
+        2083.388427734375,
+        2815.00341796875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_013/004_plain_text_0.96.png",
+    "text": "The\nfactorisation of the original number is obtained by\nprime\nputting these together."
+}

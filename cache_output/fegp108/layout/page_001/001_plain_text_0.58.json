@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.5812589526176453,
+    "bbox": [
+        351.67431640625,
+        1190.4471435546875,
+        1893.989501953125,
+        1266.33740234375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_001/001_plain_text_0.58.png",
+    "text": "the following figures and try o\n drawing them freehan\noserve"
+}

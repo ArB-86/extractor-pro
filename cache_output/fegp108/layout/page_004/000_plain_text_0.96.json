@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.961201548576355,
+    "bbox": [
+        521.7496337890625,
+        2675.36279296875,
+        2205.355224609375,
+        2892.98291015625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_004/000_plain_text_0.96.png",
+    "text": "The\nchallenge\nhere\nis\nto\nfind\nout\nwhere\nto\nplace\nthe\ntip\nof the\nand the radius\nto be taken\nfor\ndrawing\ncompass\nthis\ncurve. You\nfix\nradius\nin\nthe\nand\ntry placing\nthe\ntip\nof the\ncan\na\ncompass"
+}

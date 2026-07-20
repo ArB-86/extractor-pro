@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9039960503578186,
+    "bbox": [
+        470.8899841308594,
+        1122.5006103515625,
+        1796.4384765625,
+        1184.480712890625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_022/002_plain_text_0.90.png",
+    "text": "What other similar interesting\n questions can\nyou ask?"
+}

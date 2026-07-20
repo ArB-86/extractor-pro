@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.8461974859237671,
+    "bbox": [
+        295.2392578125,
+        2639.643310546875,
+        2188.67138671875,
+        2762.590576171875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_037/001_plain_text_0.85.png",
+    "text": "Q. By dividing the whole chikki into 6 equal parts in different ways, we get 1/6 chikki\npieces of different shapes. Are they of the same size?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8985047936439514,
+    "bbox": [
+        508.9146728515625,
+        2073.869384765625,
+        2018.1195068359375,
+        2137.050537109375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_012/021_plain_text_0.90.png",
+    "text": "(a)\nFirst subtract the cost of the biscuit packet (15) from 100:"
+}

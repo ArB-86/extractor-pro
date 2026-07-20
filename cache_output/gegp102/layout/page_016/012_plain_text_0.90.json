@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9031949043273926,
+    "bbox": [
+        376.8955383300781,
+        585.13623046875,
+        1356.740966796875,
+        698.1008911132812
+    ],
+    "image_path": "cache_output/gegp102/layout/page_016/012_plain_text_0.90.png",
+    "text": "2\n\u00d7\n43. 1\nBut,\nwe\nwant\nan\nexpression\nwhich\ntwice or\ndouble of 43\nmeans\n+\n24."
+}

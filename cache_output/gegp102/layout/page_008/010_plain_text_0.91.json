@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9091585874557495,
+    "bbox": [
+        650.9844360351562,
+        2561.004150390625,
+        1811.080078125,
+        2794.386474609375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/010_plain_text_0.91.png",
+    "text": "hat\nand\nshoes!\"\nWhich\nshould\nshe\nyour\none\nfirst?\nShe can\nher\nhat first a\nand then\nwear\nwear\nher\nshoes. Or she\nher\nshoes\nfirst\ncan\nwear\nand\nthen\nher\nhat."
+}

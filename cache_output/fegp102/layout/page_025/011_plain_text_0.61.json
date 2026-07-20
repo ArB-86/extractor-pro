@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.608899712562561,
+    "bbox": [
+        296.50982666015625,
+        2508.3017578125,
+        2083.5537109375,
+        2647.33056640625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_025/011_plain_text_0.61.png",
+    "text": "1\u3002\nDraw a circle of a convenient radius on a sheet of paper. Cut out\nthe circle (Fig. 2.13). A circle or one full turn is 360\u00b0."
+}

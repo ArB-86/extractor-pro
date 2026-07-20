@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8604667782783508,
+    "bbox": [
+        296.89044189453125,
+        864.6435546875,
+        2094.046142578125,
+        986.0700073242188
+    ],
+    "image_path": "cache_output/fegp108/layout/page_032/003_plain_text_0.86.png",
+    "text": "Q.2. Identify if there are any squares in this collection. Use measurements if needed.\nAns. A is a square."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7786589860916138,
+    "bbox": [
+        689.1967163085938,
+        2494.82763671875,
+        1858.7698974609375,
+        2560.923828125
+    ],
+    "image_path": "tmp_debug_layout/003_plain_text_0.78.png",
+    "text": "(A) 6\n(B) 7\n(C) 8\n(D) 9"
+}

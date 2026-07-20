@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7575926184654236,
+    "bbox": [
+        374.4407958984375,
+        2160.385986328125,
+        2187.970703125,
+        2353.74755859375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/005_plain_text_0.76.png",
+    "text": "Ans: Yes, adding the terms of an expression in any order\ngives the same\nvalue Consider an expression with 3 terms\n9+4+6"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.8418964147567749,
+    "bbox": [
+        296.8376159667969,
+        1312.883056640625,
+        1615.134033203125,
+        1377.2393798828125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_039/003_plain_text_0.84.png",
+    "text": "Ans.\nOther angles 0f symmetry = 120\u00b0, 180\u00b0, 240\u00b0, 300\u00b0, 360\u00b0"
+}

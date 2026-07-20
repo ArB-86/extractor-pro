@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8707640171051025,
+    "bbox": [
+        427.4623718261719,
+        1052.2164306640625,
+        2063.092041015625,
+        1145.1597900390625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/008_plain_text_0.87.png",
+    "text": "100\nThe number of 2 kg packets he has now is 4 +\nThe terms are\n2"
+}

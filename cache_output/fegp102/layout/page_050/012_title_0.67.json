@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "title",
+    "confidence": 0.6672786474227905,
+    "bbox": [
+        297.138427734375,
+        395.36279296875,
+        455.4994812011719,
+        455.1077575683594
+    ],
+    "image_path": "cache_output/fegp102/layout/page_050/012_title_0.67.png",
+    "text": "Think!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9415760040283203,
+    "bbox": [
+        420.8153991699219,
+        788.0841064453125,
+        2209.0625,
+        927.6096801757812
+    ],
+    "image_path": "cache_output/fegp108/layout/page_012/005_plain_text_0.94.png",
+    "text": "The distance between X and Y can be obtained by measuring the\nlength of the line XY."
+}

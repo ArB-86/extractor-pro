@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7669188976287842,
+    "bbox": [
+        419.5985107421875,
+        394.5049743652344,
+        2146.62255859375,
+        468.3686218261719
+    ],
+    "image_path": "cache_output/fegp104/layout/page_007/005_plain_text_0.77.png",
+    "text": "Which mode of travel is used by the most number of students?"
+}

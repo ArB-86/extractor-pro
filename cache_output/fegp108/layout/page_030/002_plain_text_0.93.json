@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9281989336013794,
+    "bbox": [
+        435.8466491699219,
+        1931.6322021484375,
+        2210.267822265625,
+        2067.3544921875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_030/002_plain_text_0.93.png",
+    "text": "All the points of a circle are at the same\ndistance from its centre. This\ndistance is called the radius of the circle."
+}

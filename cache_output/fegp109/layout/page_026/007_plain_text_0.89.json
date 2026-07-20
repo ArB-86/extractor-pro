@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8857848048210144,
+    "bbox": [
+        299.2216491699219,
+        2476.00341796875,
+        1439.68505859375,
+        2536.847412109375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_026/007_plain_text_0.89.png",
+    "text": "Ans. No, Rectangle's diagonal is not a line of symmetry."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9289376735687256,
+    "bbox": [
+        374.4778747558594,
+        2757.713134765625,
+        2091.228515625,
+        2877.85400390625
+    ],
+    "image_path": "debug/full_book/layout/page_018/001_plain_text_0.93.png",
+    "text": "Let us assume a bus can accommodate 50 people. Then 1 lakh buses\ncan accommodate 1 lakh x 50 = 50 lakh people."
+}

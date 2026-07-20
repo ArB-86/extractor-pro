@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9380778074264526,
+    "bbox": [
+        420.268798828125,
+        549.3088989257812,
+        2210.687255859375,
+        688.2574462890625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_014/002_plain_text_0.94.png",
+    "text": "Observe\nhow\nmany\ntimes\neach\nprime\nfactor\nthe\noccurs\nfactorisation of 72."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9400452971458435,
+    "bbox": [
+        292.2252502441406,
+        1431.1019287109375,
+        2085.05029296875,
+        1571.643798828125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_013/005_plain_text_0.94.png",
+    "text": "can you explain why 30 = 2 \u00d7 3 \u00d7 5, no matter which way you multiply\n2, 3, and 5?"
+}

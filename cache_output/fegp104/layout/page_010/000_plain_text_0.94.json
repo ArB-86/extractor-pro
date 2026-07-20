@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9408803582191467,
+    "bbox": [
+        403.8700256347656,
+        2372.595947265625,
+        2087.520751953125,
+        2586.885009765625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/000_plain_text_0.94.png",
+    "text": "1.\nThe following pictograph shows 1\nthe number\nofbooks\nborrowed\nby\nstudents,\nin\nWeek,\nfrom\nthe\nlibrary\nof\nMiddle\nSchool,\na\nGinnori:"
+}

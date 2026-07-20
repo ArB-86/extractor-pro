@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6041693687438965,
+    "bbox": [
+        294.4553527832031,
+        1327.4234619140625,
+        2185.65869140625,
+        1388.9202880859375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_024/013_plain_text_0.60.png",
+    "text": "Q.2. Find out the total distance Toshi has covered in 7 rounds. Who ran a longer distance?"
+}

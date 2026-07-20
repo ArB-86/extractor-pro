@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9765573143959045,
+    "bbox": [
+        289.43109130859375,
+        1834.6044921875,
+        2084.908935546875,
+        2205.20458984375
+    ],
+    "image_path": "tmp_inspect/layout/page_009/000_plain_text_0.98.png",
+    "text": "Other\nimportant\nand\nbasic\npatterns\nthat\nin\noccur\nMathematics\npatterns of shapes. These\nshapes\nbe in one, two, or\nthree\nare\nmay\ndimensions\n(1D, 2D,0r\n3D)\u2014\u2014or\nin\ndimensions.\nThe\neven\nmore\nbranch of \nMathematics\nthat\nstudies\nin S\nshapes\nis called\npatterns\ngeometry."
+}

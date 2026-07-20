@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5952773690223694,
+    "bbox": [
+        367.5196533203125,
+        597.4627685546875,
+        1735.015380859375,
+        668.1744384765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_012/012_plain_text_0.60.png",
+    "text": "The corresponding subtraction statement is 9-5 = 4."
+}

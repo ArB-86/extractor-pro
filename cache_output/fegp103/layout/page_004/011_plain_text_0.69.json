@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6858375668525696,
+    "bbox": [
+        503.08837890625,
+        975.1561889648438,
+        2071.145263671875,
+        1195.185546875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_004/011_plain_text_0.69.png",
+    "text": "9.\nFill\ntable\nthat\nthe\nhaving\nsuch\ncell\nthe\nlargest\na\nsecond\nnumber\niS\nnot a supercell but t\nthe second\nsmallest\nnumber\nis\na supercell. Is it\npossible?"
+}

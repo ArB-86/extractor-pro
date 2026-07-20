@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5394683480262756,
+    "bbox": [
+        326.6072998046875,
+        1132.6788330078125,
+        1677.796142578125,
+        1202.7396240234375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_024/016_plain_text_0.54.png",
+    "text": "Q.1. Is there anything\ncommon among\nthe shaded numbers?"
+}

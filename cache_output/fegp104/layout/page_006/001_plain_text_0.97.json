@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9703191518783569,
+    "bbox": [
+        293.2192077636719,
+        1748.75341796875,
+        2086.056396484375,
+        1968.74658203125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_006/001_plain_text_0.97.png",
+    "text": "Pictographs\nvisual a\nand\nsuggestive\nway\nto represent\ndata\nare\none\nWithout\nt writing\nnumbers. Look at this\npicture \u2014you may\nbe\nany\nfamiliar with it from previous classes."
+}

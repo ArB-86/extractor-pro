@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9098221063613892,
+    "bbox": [
+        415.0033874511719,
+        2713.27392578125,
+        2015.593994140625,
+        2950.3720703125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_004/004_plain_text_0.91.png",
+    "text": "By c\n dividing the whole chikki into 6 equal\nparts in different\n1-6\nchikki\npieces\n of different shapes. Are t\nthey of\nways,\n,we\nget\nthe same size?"
+}

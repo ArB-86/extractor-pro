@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7235601544380188,
+    "bbox": [
+        297.20416259765625,
+        1947.6246337890625,
+        1821.4158935546875,
+        2008.19091796875
+    ],
+    "image_path": "tmp_inspect/layout/page_013/008_plain_text_0.72.png",
+    "text": "Q.1. Can you recognize the pattern in each of the sequences in Table 1?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9668427109718323,
+    "bbox": [
+        375.7336730957031,
+        2026.995849609375,
+        2089.58935546875,
+        2208.665771484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/004_plain_text_0.97.png",
+    "text": "Irfan spent ?15 on a biscuit packet and 56 on toor dal. So, the total\ncost in rupees is 15 + 56. He gave ?100 to the shopkeeper. So, he should\nget back 1o0 minus the total cost. Can we write that expression as"
+}

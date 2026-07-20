@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8622740507125854,
+    "bbox": [
+        294.40484619140625,
+        2469.72265625,
+        1551.2313232421875,
+        2611.372314453125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_015/003_plain_text_0.86.png",
+    "text": "The adjoining picture shows\nthe division of a\namong\nfour\nchildren."
+}

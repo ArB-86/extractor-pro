@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6171850562095642,
+    "bbox": [
+        417.1973571777344,
+        1348.48828125,
+        2094.7958984375,
+        2290.67529296875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_008/009_plain_text_0.62.png",
+    "text": "a. If the Target Floor is -1 and Starting Floor is -2, what button\nshould you press?\nYou need to go one floor up, so, you should press + 1.\nExpression:(-1)-(-2)=(+1)\nb. If the Target Floor is -1 and Starting floor is +3, what button\nshould you press?\nYou need to go four floors down, so, you should press -4.\nExpression: (-1)-(+3) =(-4)\nc. If the Target Floor is +2 and Starting Floor is -2, what button\nshould you press?\n+ ssad pinous nok os dn soo anog oo o paau no\nExpression: (+2)-(-2)=(+ 4)"
+}

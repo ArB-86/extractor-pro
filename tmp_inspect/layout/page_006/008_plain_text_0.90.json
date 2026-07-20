@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8974388837814331,
+    "bbox": [
+        622.5615844726562,
+        395.1509094238281,
+        1986.35595703125,
+        463.02996826171875
+    ],
+    "image_path": "tmp_inspect/layout/page_006/008_plain_text_0.90.png",
+    "text": "Here is one j\n possible way of thinking about Powers of 2:"
+}

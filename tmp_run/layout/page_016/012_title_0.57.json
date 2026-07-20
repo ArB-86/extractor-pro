@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.5720806121826172,
+    "bbox": [
+        295.4083557128906,
+        2413.21240234375,
+        540.324951171875,
+        2470.34765625
+    ],
+    "image_path": "tmp_run/layout/page_016/012_title_0.57.png",
+    "text": "Section"
+}

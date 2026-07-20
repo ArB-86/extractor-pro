@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9452897310256958,
+    "bbox": [
+        528.8684692382812,
+        2310.490966796875,
+        2208.3779296875,
+        2453.274169921875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_028/003_plain_text_0.95.png",
+    "text": "2\u3002\nFind the degree measures of different angles in your c\nclassroom\nusing your protractor."
+}

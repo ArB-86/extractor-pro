@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5144752264022827,
+    "bbox": [
+        407.551513671875,
+        764.2335815429688,
+        2194.623291015625,
+        1205.3974609375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_032/011_plain_text_0.51.png",
+    "text": "1. Only the last three digits matter when deciding if a given number is divisible by\n8.\n2. If the number formed by the last three digits is divisible by 8, then the original\nnumber is divisible by 8.\n3. If the original number is divisible by 8, then the number formed by the last three\ndigits is divisible by 8."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9318837523460388,
+    "bbox": [
+        420.2523498535156,
+        2578.542236328125,
+        1263.4271240234375,
+        2721.70166015625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_012/009_plain_text_0.93.png",
+    "text": "Multiply\nback\nto\nsee\nthat you\nin\nall four\nget 36\ncases."
+}

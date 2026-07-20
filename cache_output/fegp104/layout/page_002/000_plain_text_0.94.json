@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9446090459823608,
+    "bbox": [
+        293.218994140625,
+        1870.533447265625,
+        2084.592041015625,
+        2012.069091796875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_002/000_plain_text_0.94.png",
+    "text": "Shesays\n(happily), \"I have collected the data. I can figure out the\nmost popular game now!."
+}

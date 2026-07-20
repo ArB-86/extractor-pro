@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9716452360153198,
+    "bbox": [
+        292.44146728515625,
+        1591.976318359375,
+        2083.828369140625,
+        1961.448486328125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_013/002_plain_text_0.97.png",
+    "text": "Try\nusing\ndifferent\nshapes\n(triangle\nand\nrectangle)\nto fill\nthe\ngiven\n(without\noverlaps\nand\ngaps)\nand f\nfind\nout\nthe\nspace\nmerits\nWith\nusing\nshape\ne tof\nfind\nthe\nrather\nthan\nassociated\ng a square\narea\nanother shape. List out the points that make a square t\nthe best shape\nto use to measure a\narea."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8800248503684998,
+    "bbox": [
+        727.657470703125,
+        1893.385009765625,
+        1860.5484619140625,
+        2100.409912109375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_020/003_plain_text_0.88.png",
+    "text": "FRATERNITY\nassuring\nthe\ndignity\nof\nthe\nindividual\nthe\n2\n[unity\nand\nand\nintegrity of the Nation];"
+}

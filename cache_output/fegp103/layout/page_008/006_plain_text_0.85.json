@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8539963364601135,
+    "bbox": [
+        520.7234497070312,
+        1685.884033203125,
+        1461.63232421875,
+        2055.501708984375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_008/006_plain_text_0.85.png",
+    "text": "I am a 5-digit palindrome.\nam an odd\nnumber.\nMy \u2018t' digit is double of my\ny 'u' digit.\nMy h' digit is double of my 't' digit.\nWho a\nam\nI?"
+}

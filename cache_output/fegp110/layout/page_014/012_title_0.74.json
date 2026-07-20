@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.7361818552017212,
+    "bbox": [
+        366.1394958496094,
+        2562.822021484375,
+        670.0271606445312,
+        2627.601806640625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_014/012_title_0.74.png",
+    "text": "Exampl\nes:\n\u53e3"
+}

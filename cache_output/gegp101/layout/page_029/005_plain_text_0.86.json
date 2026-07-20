@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8570041656494141,
+    "bbox": [
+        369.14215087890625,
+        1241.0279541015625,
+        2176.9267578125,
+        1374.533447265625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_029/005_plain_text_0.86.png",
+    "text": "1. Read the numbers and write their number names in both the Indian\nand American systems:"
+}

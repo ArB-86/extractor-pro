@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6592919230461121,
+    "bbox": [
+        428.274658203125,
+        2270.04833984375,
+        1959.5823974609375,
+        2331.416259765625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/014_plain_text_0.66.png",
+    "text": "Here are some more examples of expressions and their terms:"
+}

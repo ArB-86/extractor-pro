@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.5997418165206909,
+    "bbox": [
+        298.1564636230469,
+        461.3494873046875,
+        1479.9658203125,
+        1014.1602783203125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_040/005_plain_text_0.60.png",
+    "text": "Ans.\nRegular Polygon\nNo. of line symmetry\nTriangle\n3\nQuadrilateral\n4\nPentagon\n5\nHexagon\n6\nHeptagon\n7\nOctagon\n8\nNonagon\n9\nDecagon\n10"
+}

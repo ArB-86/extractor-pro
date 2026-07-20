@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8861001133918762,
+    "bbox": [
+        379.97308349609375,
+        2944.35693359375,
+        1339.6966552734375,
+        3010.55224609375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_023/004_plain_text_0.89.png",
+    "text": "Ans: (a)\n>\n(b)\n(c)\n>\n(d)\n(e)\n\u4e8c"
+}

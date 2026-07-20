@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8822072744369507,
+    "bbox": [
+        422.4307556152344,
+        1116.6141357421875,
+        2083.98779296875,
+        1246.1600341796875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/005_plain_text_0.88.png",
+    "text": "Amritanshu Prasad, Professor, The Institute of Mathematical Sciences,\nChennai"
+}

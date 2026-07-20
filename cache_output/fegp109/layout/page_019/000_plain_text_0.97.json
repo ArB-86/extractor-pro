@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9654003381729126,
+    "bbox": [
+        291.85089111328125,
+        894.6731567382812,
+        2085.8369140625,
+        1190.309814453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_019/000_plain_text_0.97.png",
+    "text": "Consider\nfigure\nWith\nradial\nhaving\nexactly\na\narms\n7\nangles\nof\nsymmetry.\nWhat\nWill\nbe\nits\nsmallest\nangle of\nsymmetry?\nIs\nthe\nnumber of degrees a whole\nnumber in this\ncase? If not, express\nit as\na mixed \nfraction."
+}

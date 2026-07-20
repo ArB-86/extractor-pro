@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.894576370716095,
+    "bbox": [
+        403.5660095214844,
+        1269.322265625,
+        1713.3203125,
+        1337.042236328125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_041/003_plain_text_0.89.png",
+    "text": "1.\nDraw angles with the following degree measures:"
+}

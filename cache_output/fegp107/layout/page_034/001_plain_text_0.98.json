@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9757221341133118,
+    "bbox": [
+        521.9071655273438,
+        1146.3487548828125,
+        2212.0390625,
+        1466.4185791015625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_034/001_plain_text_0.98.png",
+    "text": "To\nget\ndifferent\nfractional\nunits, we\nwould have\nto\nreplace\nat\n2's\nleast\n of\nthe\none\nWith\nsome\nsmaller\nfractional\nunit - but t\nthen\nthe\nWould be less\nthan\n1!T\nTherefore, it is\nsum\nnot\npossible\nfor\ntwo\ndifferent fractional\nunits to add\nup\nto 1."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9488558769226074,
+    "bbox": [
+        292.16278076171875,
+        1426.7679443359375,
+        2084.1015625,
+        1569.16064453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_017/004_plain_text_0.95.png",
+    "text": "Let us try with 3 radial\narms as in the figure below. How many\nangles of symmetry does it have and what are they?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 54,
+    "label": "plain_text",
+    "confidence": 0.8807540535926819,
+    "bbox": [
+        297.4425964355469,
+        1854.4412841796875,
+        749.3519287109375,
+        1909.950439453125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_054/006_plain_text_0.88.png",
+    "text": "Ans.\nOne\nof the\nways:"
+}

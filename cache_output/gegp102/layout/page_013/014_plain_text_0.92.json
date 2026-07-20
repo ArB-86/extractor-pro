@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9160467982292175,
+    "bbox": [
+        363.9405517578125,
+        1414.7379150390625,
+        2089.92822265625,
+        1599.24267578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/014_plain_text_0.92.png",
+    "text": "Example 14: Hira has a rare coin collection. She has 28 coins in one bag\nand 35 coins in another. She g\ngifts her friend 10 coins from the second\nbag. Write an expression for the number of coins left with Hira."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9131638407707214,
+    "bbox": [
+        421.919921875,
+        1188.849365234375,
+        776.3033447265625,
+        1323.509765625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/000_plain_text_0.91.png",
+    "text": "Chapter 3\nNumber Play"
+}

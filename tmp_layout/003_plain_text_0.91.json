@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9065303206443787,
+    "bbox": [
+        455.2529602050781,
+        934.1553955078125,
+        2165.140869140625,
+        1191.2001953125
+    ],
+    "image_path": "tmp_layout/003_plain_text_0.91.png",
+    "text": "Number of sides = 3,4,5,6,7,8,9,10... \nWe get counting\nnumber sequence, starting\nwith 3.\nNumber of Corners\n= 3,4,5,6,7,8,9,10... Yes, we\nget the\nsame\nnumber sequence\nin\n any closed figure, number of sides\n = number of corners\n(vertices)."
+}

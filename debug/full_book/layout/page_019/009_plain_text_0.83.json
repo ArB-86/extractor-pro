@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8317051529884338,
+    "bbox": [
+        438.232666015625,
+        1524.9161376953125,
+        1523.0093994140625,
+        1579.588134765625
+    ],
+    "image_path": "debug/full_book/layout/page_019/009_plain_text_0.83.png",
+    "text": "How\nfar would she have\ntravelled in a year?"
+}

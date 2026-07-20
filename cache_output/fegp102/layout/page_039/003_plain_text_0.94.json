@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.9427077770233154,
+    "bbox": [
+        404.76129150390625,
+        2093.13330078125,
+        2083.525390625,
+        2226.213623046875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_039/003_plain_text_0.94.png",
+    "text": "1.\nIn each of the below grids, join A to other grid points in the figure\nby a straight line to get:"
+}

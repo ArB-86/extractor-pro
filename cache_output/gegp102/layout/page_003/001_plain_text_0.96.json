@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9587494730949402,
+    "bbox": [
+        285.5453796386719,
+        285.548095703125,
+        2090.569091796875,
+        469.9328918457031
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/001_plain_text_0.96.png",
+    "text": "Use\u2018>\u2019 or \u2018<\u2019 or \u2018=\u2019 in each of the following\n expressions to compare\nthem. Can you do it without complicated calculations? Explain your\nthinking in each case."
+}

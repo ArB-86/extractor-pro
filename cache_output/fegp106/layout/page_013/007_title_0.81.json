@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.8088491559028625,
+    "bbox": [
+        294.3165588378906,
+        397.75848388671875,
+        689.2533569335938,
+        466.456298828125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_013/007_title_0.81.png",
+    "text": "L\nExpl\net's\nS\n1\nore"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "title",
+    "confidence": 0.647895336151123,
+    "bbox": [
+        288.06170654296875,
+        802.758056640625,
+        2095.861083984375,
+        924.4567260742188
+    ],
+    "image_path": "cache_output/fegp103/layout/page_028/005_title_0.65.png",
+    "text": "Q.4. How many rounds does the number 5683 take to reach the Kaprekar constant?\nAns.\n5683"
+}

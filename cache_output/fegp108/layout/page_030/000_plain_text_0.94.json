@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9448744654655457,
+    "bbox": [
+        418.8081970214844,
+        390.03753662109375,
+        2213.11865234375,
+        530.7728881835938
+    ],
+    "image_path": "cache_output/fegp108/layout/page_030/000_plain_text_0.94.png",
+    "text": "Try to get the eyes as symmetrical and identical as possible. This might\nneed many trials."
+}

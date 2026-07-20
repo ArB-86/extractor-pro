@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9730408191680908,
+    "bbox": [
+        292.396484375,
+        568.4771118164062,
+        1422.029541015625,
+        856.7659301757812
+    ],
+    "image_path": "cache_output/fegp109/layout/page_007/000_plain_text_0.97.png",
+    "text": "In \nthese\ntwo\nfigures, a sheet of\npaper\nis\nfolded\nand\niS\nmade\nalong\ncut\nthe\ndotted\nline shown. Draw a sketch ofhow the paper\nwill look\n when\nunfolded."
+}

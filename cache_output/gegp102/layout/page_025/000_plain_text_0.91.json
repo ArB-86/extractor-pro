@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9072027206420898,
+    "bbox": [
+        317.23480224609375,
+        1952.487060546875,
+        2189.2822265625,
+        2151.064453125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/000_plain_text_0.91.png",
+    "text": "Does adding the terms of an expression in any order\ngive the same\nvalue? Take some more expressions and check. Consider expressions\nwith more than 3 terms also."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7006561160087585,
+    "bbox": [
+        660.6483154296875,
+        1805.771240234375,
+        2202.9453125,
+        1879.0533447265625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_024/003_plain_text_0.70.png",
+    "text": "the different angles in the figure and write their measures."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9577684998512268,
+    "bbox": [
+        420.83447265625,
+        2676.60400390625,
+        1841.169921875,
+        2820.5341796875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_003/005_plain_text_0.96.png",
+    "text": "Zero\nis\n neither a positive\n nor a negative\nnumber.\nWe do not put a\n+\uff0c\nsign in front of it.\nor"
+}

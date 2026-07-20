@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9061704874038696,
+    "bbox": [
+        301.6640930175781,
+        1230.046142578125,
+        2086.53173828125,
+        1445.0555419921875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_019/003_plain_text_0.91.png",
+    "text": "Numbers can be used for many c\ndifferent purposes including, to convey\ninformation, make and discover patterns, estimate magnitudes, pose\nand solve puzzles, and play and win games."
+}

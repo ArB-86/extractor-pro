@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7995240092277527,
+    "bbox": [
+        330.45721435546875,
+        3017.20703125,
+        1571.2391357421875,
+        3082.03857421875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_031/003_plain_text_0.80.png",
+    "text": "Q. Which of the following\ng is not a name\nfor this square?"
+}

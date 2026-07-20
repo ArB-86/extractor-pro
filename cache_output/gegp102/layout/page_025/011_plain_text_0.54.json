@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.5367424488067627,
+    "bbox": [
+        387.2733459472656,
+        443.3137512207031,
+        737.798583984375,
+        574.5418090820312
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/011_plain_text_0.54.png",
+    "text": "Ans: Yes\nFor\nexample,"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "title",
+    "confidence": 0.8161076307296753,
+    "bbox": [
+        368.45318603515625,
+        1130.731689453125,
+        931.0328979492188,
+        1195.5921630859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/004_title_0.82.png",
+    "text": "Q. Is 8536 divisible by 4?"
+}

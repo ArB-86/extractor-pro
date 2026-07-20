@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5641871690750122,
+    "bbox": [
+        293.5495300292969,
+        1607.039794921875,
+        1772.046142578125,
+        1745.2779541015625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_002/011_plain_text_0.56.png",
+    "text": "To go to the Art Centre\nfrom\nthe\ne Welcome\nHall', you\nmust\npress t\nthe\n\u2018+\"\nbutton twice."
+}

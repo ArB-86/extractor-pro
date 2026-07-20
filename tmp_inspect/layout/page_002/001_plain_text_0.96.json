@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9583539366722107,
+    "bbox": [
+        417.1938171386719,
+        1875.7998046875,
+        2210.58935546875,
+        2021.14599609375
+    ],
+    "image_path": "tmp_inspect/layout/page_002/001_plain_text_0.96.png",
+    "text": "Among\nthe\nbasic\nthat\nin mathematics\nmost\npatterns\noccur\nare\npatterns of numbers, particularly patterns of whole numbers:"
+}

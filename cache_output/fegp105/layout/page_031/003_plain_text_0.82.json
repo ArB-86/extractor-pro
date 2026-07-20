@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8187999725341797,
+    "bbox": [
+        296.6758117675781,
+        744.3886108398438,
+        1438.880126953125,
+        807.425048828125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/003_plain_text_0.82.png",
+    "text": "Ans.\nYes, for example 2, 3; 3,11 (Try other examples)"
+}

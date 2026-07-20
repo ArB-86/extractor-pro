@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.7195382118225098,
+    "bbox": [
+        444.2001037597656,
+        1034.150634765625,
+        1124.7794189453125,
+        1090.3519287109375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_040/004_plain_text_0.72.png",
+    "text": "It is a counting\nnumber sequence."
+}

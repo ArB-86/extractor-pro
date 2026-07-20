@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.7864316701889038,
+    "bbox": [
+        295.8423767089844,
+        1885.7935791015625,
+        611.7359619140625,
+        1945.889404296875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_052/007_plain_text_0.79.png",
+    "text": "Explo\nS\nlore:\nLet's"
+}

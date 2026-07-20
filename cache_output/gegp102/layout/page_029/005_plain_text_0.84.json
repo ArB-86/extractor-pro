@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8428744673728943,
+    "bbox": [
+        455.7485046386719,
+        860.4024047851562,
+        1433.2027587890625,
+        1201.1177978515625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/005_plain_text_0.84.png",
+    "text": "(c) E\nFind the total height of the \ne window\nby\nwriting\nan\nexpression\ndescribing\nthe relationship\namong\nthe\nshown\nin\nthe\nmeasurements\npicture."
+}

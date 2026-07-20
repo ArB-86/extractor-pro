@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8043276071548462,
+    "bbox": [
+        293.2823486328125,
+        1240.61572265625,
+        2186.986328125,
+        1364.5445556640625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_026/006_plain_text_0.80.png",
+    "text": "Q.2. Look at the list of primes till 1oo. What is the smallest difference between two\nsuccessive primes? What is the largest difference?"
+}

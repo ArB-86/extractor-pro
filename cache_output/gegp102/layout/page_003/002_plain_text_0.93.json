@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9345903396606445,
+    "bbox": [
+        294.45379638671875,
+        2542.968505859375,
+        2087.92919921875,
+        2727.84814453125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/002_plain_text_0.93.png",
+    "text": "Example\ne 4: Mallesh brought 30\nmarbles to the playground. Arun\nbrought 5 bags of marbles with 4 marbles in each bag. How many\nmarbles did Mallesh and Arun bring to the playground?"
+}

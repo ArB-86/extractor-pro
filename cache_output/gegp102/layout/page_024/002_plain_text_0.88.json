@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8805870413780212,
+    "bbox": [
+        381.8205261230469,
+        607.476318359375,
+        1375.5775146484375,
+        741.56689453125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_024/002_plain_text_0.88.png",
+    "text": "Ans:\nLet us take the numbers. 1\n18\nand 10\n18\n\u4e00\n10\n\u4e8c\n8\nand 18\n(-1\n10)\n+\n\u4e8c\n8"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.936980128288269,
+    "bbox": [
+        405.97637939453125,
+        492.6550598144531,
+        2087.322998046875,
+        632.4923706054688
+    ],
+    "image_path": "cache_output/fegp110/layout/page_020/001_plain_text_0.94.png",
+    "text": "1.\nLooking at the\ncross section, fill in the respective\ngeographical\nheights:"
+}

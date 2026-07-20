@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9400763511657715,
+    "bbox": [
+        372.721923828125,
+        2859.878662109375,
+        2090.725830078125,
+        2985.986328125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/007_plain_text_0.94.png",
+    "text": "Note that 6 \u00d7 5, 4 x 6 are single terms as they do not have any\nS +\uff0c\nSign\nIn the following table, some expressions are\ngiven. Complete the table."
+}

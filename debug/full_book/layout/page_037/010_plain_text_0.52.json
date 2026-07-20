@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5229122638702393,
+    "bbox": [
+        449.52716064453125,
+        1662.6829833984375,
+        1982.89111328125,
+        1932.4716796875
+    ],
+    "image_path": "debug/full_book/layout/page_037/010_plain_text_0.52.png",
+    "text": "(d) 12,45,000:\nAns:\nclosest estimate =\n(70,000\n20) -1,50,000 - 4,000 - (300 \u00d7 5)\n\u00d7\u00b2\n12,44,500."
+}

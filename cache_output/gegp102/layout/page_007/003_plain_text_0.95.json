@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9515470862388611,
+    "bbox": [
+        375.6727600097656,
+        444.84649658203125,
+        2091.1572265625,
+        566.3060913085938
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/003_plain_text_0.95.png",
+    "text": "Thus, in an expression having two terms, swapping them does not\nchange the value."
+}

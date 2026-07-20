@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7641252875328064,
+    "bbox": [
+        422.47198486328125,
+        2752.109130859375,
+        1638.82958984375,
+        2814.622314453125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/015_plain_text_0.76.png",
+    "text": "Shravan s\nS. K., Consultant,\nProgramme\nOffice, NSTC"
+}

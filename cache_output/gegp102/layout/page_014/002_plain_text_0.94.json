@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9354864358901978,
+    "bbox": [
+        378.5323486328125,
+        1364.421630859375,
+        2090.402587890625,
+        1487.360595703125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_014/002_plain_text_0.94.png",
+    "text": "1.\nFill in the blanks with numbers, and boxes with\noperation signs"
+}

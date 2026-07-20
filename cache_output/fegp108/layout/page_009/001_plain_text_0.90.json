@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9042310118675232,
+    "bbox": [
+        291.58929443359375,
+        539.7905883789062,
+        2085.49609375,
+        681.1250610351562
+    ],
+    "image_path": "cache_output/fegp108/layout/page_009/001_plain_text_0.90.png",
+    "text": "Now, let us start constructing squares and rectangles. How would\nyou construct a square with a side of 6 cm?"
+}

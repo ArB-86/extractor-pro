@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.7994127869606018,
+    "bbox": [
+        412.9122314453125,
+        2000.7633056640625,
+        2181.631103515625,
+        2246.09814453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_041/004_plain_text_0.80.png",
+    "text": "a. Which\nI village\nhas\nthe smallest\nnumber\nof\ntractors?\nb. Which\nn village\nhas\nthe\nmost\ntractors?\nc. How\ntractors\ndoes\nVillage\nC have\nthan\nVillage\nmany\nB?\nmore\nd.Komal\nsays,\n,\"Village\neD1\nhas\nhalf the\ne number of tractors as\nVillage\nE.\"\n' Is she right?"
+}

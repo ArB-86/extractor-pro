@@ -1,0 +1,13 @@
+{
+    "page": 56,
+    "label": "title",
+    "confidence": 0.5205856561660767,
+    "bbox": [
+        295.6521911621094,
+        1563.107421875,
+        2188.318359375,
+        1813.1744384765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_056/012_title_0.52.png",
+    "text": "Q.7 Here are six i\ninteger cards: (+1), (+7), (+18), (-5), (-2), (-9). You\npick\nany of these\ncan\nand\nmake an e\nusing addition(s)\nand\nsubtraction(s). Here\nexpression\neis\nane\nexpression:\n(+18)+(+1)-(+7) - (-2)\nwhich\ngives\nvalue\n(+14). Now, P\nsa\npick\ncards\nand\nmake\nan\nsuch that its value is closer to (-- 30).\nexpression"
+}

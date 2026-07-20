@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8211174607276917,
+    "bbox": [
+        296.11456298828125,
+        2370.950927734375,
+        1927.34423828125,
+        2703.73779296875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_030/004_plain_text_0.82.png",
+    "text": "Ans.\nNo, I do not agree with\nI her.\nThere are 6 school hours in a day and around 200 v\nworking days in a year.\n13,000\n10.8\n\u4e00\n8years\n6x200\n(Nursery, KG, 1,2,3,4,5,6) 8\nyears\nShe is in school for 8\nyears, 13,000 hours\nSiS\nway too high."
+}

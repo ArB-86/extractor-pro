@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8982123136520386,
+    "bbox": [
+        533.0552978515625,
+        2745.888671875,
+        2188.218994140625,
+        3188.1708984375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_028/000_plain_text_0.90.png",
+    "text": "5 digit + 5 digit > 90,250\n45,000 + 45,400 = 90,400 > 90,250\n5 digit + 3 digit = 6 digit sum\n99,999 + 999 = 100,998\n 9 = h + + 1 +\nt sum\nNot possible as even the sum of the greatest 4 digit numbers will not give a six\ndigit sum. (\n(9999 + 9999 = 19,998)"
+}

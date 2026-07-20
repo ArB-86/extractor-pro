@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.9293693900108337,
+    "bbox": [
+        780.247802734375,
+        727.2864990234375,
+        1722.3804931640625,
+        888.277099609375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_020/001_title_0.93.png",
+    "text": "THE\n CONSTITUTION OF\nINDLA"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9544062614440918,
+    "bbox": [
+        290.9017028808594,
+        2413.9287109375,
+        2088.13037109375,
+        2639.99609375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_013/000_plain_text_0.95.png",
+    "text": "In the\nprevious section, you v\nfolding\nused\npaper\nto\nrepresent\nvarious\nfractions\nusing\nfractional\nunits. Let us\ndo\nmore activities\nWith\nsome\nthe same\nstrips.\npaper"
+}

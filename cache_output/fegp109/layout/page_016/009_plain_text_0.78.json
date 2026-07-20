@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.7756069302558899,
+    "bbox": [
+        608.906494140625,
+        692.3389892578125,
+        2152.229736328125,
+        763.7254638671875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_016/009_plain_text_0.78.png",
+    "text": "n: Let us rotate the strip in a clockwise direction about its centre"
+}

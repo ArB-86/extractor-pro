@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.6823063492774963,
+    "bbox": [
+        285.75457763671875,
+        2534.43212890625,
+        2141.72021484375,
+        3102.738037109375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_034/009_plain_text_0.68.png",
+    "text": "Q.1. Complete the table to help Shri Nilesh to purchase the correct numbers of sweets:\n\u00b7 How many students chose jalebi?\n\u00b7 Barfi was chosen by\nstudents?\n\u00b7 How many students chose gujiya?\n\u00b7 Rasgulla was chosen by\nstudents?"
+}

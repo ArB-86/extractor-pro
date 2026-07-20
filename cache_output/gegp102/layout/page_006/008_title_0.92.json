@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9231470823287964,
+    "bbox": [
+        377.3401794433594,
+        1664.3546142578125,
+        1111.817138671875,
+        1739.118408203125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_006/008_title_0.92.png",
+    "text": "Swapping\nand Grouping"
+}

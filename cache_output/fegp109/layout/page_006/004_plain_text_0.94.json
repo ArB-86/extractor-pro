@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9428268671035767,
+    "bbox": [
+        484.8122253417969,
+        2497.45947265625,
+        2212.1083984375,
+        2942.0849609375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_006/004_plain_text_0.94.png",
+    "text": "What do you see?\nIs the resulting figure symmetric?\nIf yes, where is the line of symmetry?\nIs there any other line along which it can be folded to produce\ntwo identical\nI parts?\nTry making\nmore such patterns."
+}

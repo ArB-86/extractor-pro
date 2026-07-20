@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9405955076217651,
+    "bbox": [
+        294.594970703125,
+        2435.901123046875,
+        2084.730712890625,
+        2580.2294921875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_012/002_plain_text_0.94.png",
+    "text": "Let's take the data collected by Lakhanpal earlier, regarding\ngthe\nnumber of students absent on one day in each class:"
+}

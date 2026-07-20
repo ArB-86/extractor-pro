@@ -1,0 +1,160 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/6th_maths/feep101.pdf",
+  "sha256": "a82a34fff6a1e6d5c28c0b02b7eb9e776f1fced558501e663b0eba692dd55147",
+  "pages": 20,
+  "metadata": {
+    "format": "PDF 1.3",
+    "title": "Class VI Unit 1_Number System.pmd",
+    "author": "dtpcell13",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180411151507Z",
+    "modDate": "D:20180411171336+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 594.0,
+      "height": 784.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    }
+  ]
+}

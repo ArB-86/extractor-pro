@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8950416445732117,
+    "bbox": [
+        378.5885925292969,
+        2275.380859375,
+        1314.643798828125,
+        2573.364990234375
+    ],
+    "image_path": "debug/full_book/layout/page_007/007_plain_text_0.90.png",
+    "text": "1.\nFor\nthe\nnumbers\nin\nthe\nprevious\nexercise, f\nfind\nout\nhow\nto\nget e\neach\nnumber\nby\nmaking\nthe\nsmallest\nnumber of button clicks\nand\nWrite\nthe\nexpression."
+}

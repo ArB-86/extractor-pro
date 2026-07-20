@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.8747819066047668,
+    "bbox": [
+        293.6261291503906,
+        1519.5174560546875,
+        2063.412353515625,
+        1609.4234619140625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_009/007_title_0.87.png",
+    "text": "5.3 Co-prime Numbers\nfor Safekeeping\nTreasures"
+}

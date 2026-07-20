@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9741426110267639,
+    "bbox": [
+        376.1631774902344,
+        801.0635375976562,
+        2091.18310546875,
+        1043.6885986328125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/000_plain_text_0.97.png",
+    "text": "If\ndirectly s\nwe\nto\nsubtract 2\n250\nfrom\n500, then\nwere\nwe\nwould\nhave\nsubtracted 100\nmore than\nwhat\nwe needed to. So, we should add back\n    n   n       \n- (250 - 100). This :\nsequence of operations\ns is 500 - 250+100.Thus,"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7980932593345642,
+    "bbox": [
+        326.3249206542969,
+        2064.73779296875,
+        2154.9150390625,
+        2333.1533203125
+    ],
+    "image_path": "debug/full_book/layout/page_031/005_plain_text_0.80.png",
+    "text": "Ans:\nOne of the observations\niS\nS\u4e00\nMost cities s\nshown\nin the table have seen a significant rise\nein\npopulation\nfrom\n2001 to 2011.\nThink of more\nobservations."
+}

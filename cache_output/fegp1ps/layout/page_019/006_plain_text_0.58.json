@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.5837059617042542,
+    "bbox": [
+        418.93389892578125,
+        2620.256103515625,
+        2083.8349609375,
+        2687.681640625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/006_plain_text_0.58.png",
+    "text": "Learning\ng Material Sheets\n272"
+}

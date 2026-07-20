@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9834891557693481,
+    "bbox": [
+        421.0502624511719,
+        1704.250732421875,
+        2082.694091796875,
+        2432.915771484375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_016/000_plain_text_0.98.png",
+    "text": "This book contains a number of open-ended problems. It also\ncontains new treatments of certain concepts. If you are not able to\nsolve them or follow some of them immediately, it is perfectly okay!\nNot everyone knows everything. Along with trying to understand\nand reflect upon such content, it will be very useful to take it to\nthe classroom and open it up for discussion. After the discussion,\nthings that are clear and those that are not yet clear can be clearly\nsummarised. This process itself can throw a lot of light on the content.\nIn these discussions, you can participate as a fellow seeker, and when\nstudents see a teacher seek and think to understand something, it sets\na wonderful example for them."
+}

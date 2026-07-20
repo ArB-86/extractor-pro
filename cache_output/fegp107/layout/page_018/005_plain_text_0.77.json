@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.7743226289749146,
+    "bbox": [
+        489.9175720214844,
+        397.35186767578125,
+        1706.0673828125,
+        485.0517272949219
+    ],
+    "image_path": "cache_output/fegp107/layout/page_018/005_plain_text_0.77.png",
+    "text": "So,\n2\n3\nand\nare all\nequivalent fractions.\n-6\n2"
+}

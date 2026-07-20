@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8545604348182678,
+    "bbox": [
+        293.469482421875,
+        298.4228515625,
+        2187.74365234375,
+        425.7544860839844
+    ],
+    "image_path": "cache_output/fegp105/layout/page_027/002_plain_text_0.85.png",
+    "text": "Q.8. Twin primes are pairs of primes having a difference of 2. For example, 3 and 5\nare\ntwin primes. So are 17 and 19. Find the other twin primes between 1 and 100."
+}

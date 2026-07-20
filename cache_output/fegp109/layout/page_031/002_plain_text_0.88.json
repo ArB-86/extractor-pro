@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8841294646263123,
+    "bbox": [
+        441.2646484375,
+        1494.0328369140625,
+        1961.6512451171875,
+        1554.7178955078125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_031/002_plain_text_0.88.png",
+    "text": "No, it is not possible to draw a triangle with exactly two lines of symmetry."
+}

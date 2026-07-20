@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9398380517959595,
+    "bbox": [
+        313.39569091796875,
+        2025.2061767578125,
+        1959.256103515625,
+        2147.4052734375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/007_plain_text_0.94.png",
+    "text": "Can you explain why this is happening using the Token Model of\nintegers that we saw in the Class 6 textbook of mathematics?"
+}

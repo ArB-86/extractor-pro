@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9489994049072266,
+    "bbox": [
+        375.51806640625,
+        2631.01611328125,
+        2091.878173828125,
+        2749.859130859375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_006/001_plain_text_0.95.png",
+    "text": "We already know that swapping the terms does not change the sum\nwhen both the terms are positive numbers."
+}

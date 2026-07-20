@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.515653669834137,
+    "bbox": [
+        492.36212158203125,
+        2776.039306640625,
+        2087.64013671875,
+        2916.761962890625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_024/014_plain_text_0.52.png",
+    "text": "From the present year, which year was it 150 years ago?\na\u3002\nb."
+}

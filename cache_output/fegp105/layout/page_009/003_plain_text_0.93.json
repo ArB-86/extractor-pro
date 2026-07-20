@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9342383146286011,
+    "bbox": [
+        291.1275634765625,
+        2434.826171875,
+        2084.126953125,
+        2584.88623046875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_009/003_plain_text_0.93.png",
+    "text": "What about 4 and 9? Jumpy c\ncannot reach both using\ng any jump size\nother than 1. So, Grumpy l\nknows that the pair 4 and 9 is safe."
+}

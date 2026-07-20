@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6990231871604919,
+    "bbox": [
+        367.1272888183594,
+        2738.819091796875,
+        2052.66796875,
+        2808.9404296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/008_plain_text_0.70.png",
+    "text": "Mallesh summarized this by writing the mathematical expression"
+}

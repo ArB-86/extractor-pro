@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9517227411270142,
+    "bbox": [
+        529.9627685546875,
+        1597.0968017578125,
+        2205.886962890625,
+        1738.421142578125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_025/002_plain_text_0.95.png",
+    "text": "9.\nThis string\nhas a total of 10o tokens\n arranged in a particular\npattern. What is the value of the string?"
+}

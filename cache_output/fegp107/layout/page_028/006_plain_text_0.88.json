@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.883367121219635,
+    "bbox": [
+        419.25830078125,
+        2455.342041015625,
+        1332.0069580078125,
+        2538.343994140625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_028/006_plain_text_0.88.png",
+    "text": "Example: Find t\nthe sum c\n2\n1-5\nof\n-3\nand"
+}

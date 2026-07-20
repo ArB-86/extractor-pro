@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9120671153068542,
+    "bbox": [
+        307.39111328125,
+        420.2468566894531,
+        2186.917236328125,
+        558.8369140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_024/001_plain_text_0.91.png",
+    "text": "Check if replacing subtraction by addition in this way c\ndoes not change\nthe value of the expression, by taking different examples."
+}

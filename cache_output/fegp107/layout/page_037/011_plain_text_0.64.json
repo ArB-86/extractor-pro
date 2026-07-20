@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.6428983211517334,
+    "bbox": [
+        295.45343017578125,
+        2543.733154296875,
+        585.2644653320312,
+        2604.345458984375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_037/011_plain_text_0.64.png",
+    "text": "154\nD\nage"
+}

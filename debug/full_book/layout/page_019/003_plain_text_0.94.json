@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9436489343643188,
+    "bbox": [
+        307.23455810546875,
+        1798.79736328125,
+        2088.123779296875,
+        1981.900390625
+    ],
+    "image_path": "debug/full_book/layout/page_019/003_plain_text_0.94.png",
+    "text": "Find out if\n1 can reach the Sun in a lifetime, if\nyou\nyou travel 1000\nkilometers every c\nday. (You had written down the distance between the\nEarth and the Sun in a previous exercise.)"
+}

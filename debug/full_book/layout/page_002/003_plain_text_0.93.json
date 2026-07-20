@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9346916675567627,
+    "bbox": [
+        375.2389831542969,
+        284.1407775878906,
+        2090.809326171875,
+        410.52777099609375
+    ],
+    "image_path": "debug/full_book/layout/page_002/003_plain_text_0.93.png",
+    "text": "But how much is one lakh? Observe t\nthe pattern and fill in the boxes\ngiven below."
+}

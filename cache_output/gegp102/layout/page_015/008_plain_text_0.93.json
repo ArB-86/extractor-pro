@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9267350435256958,
+    "bbox": [
+        513.2842407226562,
+        1632.1763916015625,
+        1982.0029296875,
+        1835.029296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/008_plain_text_0.93.png",
+    "text": "think she always\n(a)\nDoy\ngets the correct answer? Why?\nyou\n(b)\nCan\nthink\nof\nother\nsimilar\nstrategies?\nGive\nyou\nexamples."
+}

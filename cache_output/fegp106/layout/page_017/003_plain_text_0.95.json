@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9474768042564392,
+    "bbox": [
+        292.1985168457031,
+        476.5584411621094,
+        2087.078857421875,
+        617.59033203125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_017/003_plain_text_0.95.png",
+    "text": "Observe\nthese\ntwo\nfigures. Is there\nsimilarity\neany\ndifference\n or \nbetween the two?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9193102121353149,
+    "bbox": [
+        289.7749328613281,
+        2107.7880859375,
+        1886.4130859375,
+        2251.4404296875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_035/001_plain_text_0.92.png",
+    "text": "Once you find one solution, try to divide a circle into parts\nlike in the figure above to visualise it!"
+}

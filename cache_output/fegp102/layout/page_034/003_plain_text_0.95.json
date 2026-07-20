@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9461272358894348,
+    "bbox": [
+        453.4678039550781,
+        2641.1904296875,
+        2190.286376953125,
+        2860.386962890625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_034/003_plain_text_0.95.png",
+    "text": "In ZTIN, I will be the\ne vertex, IT\nand IN\nwill be the\n of the\narms\nangle.\nKeeping\none arm, say\nIN, as t\nthe reference\n(base), the other arm\nIT should\ntake a turn\nof 30\u00b0"
+}

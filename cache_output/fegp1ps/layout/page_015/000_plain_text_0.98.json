@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9848039150238037,
+    "bbox": [
+        420.0266418457031,
+        2102.967529296875,
+        2081.6640625,
+        2629.71533203125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/000_plain_text_0.98.png",
+    "text": "While creating the spark for initiating mathematical thinking in\nclassrooms is not difficult, sustaining it may be challenging and may\ninvolve efforts from your side. Nevertheless, even if just the first part\nof throwing open a question, problem, pattern, or challenge is done\nat least once or twice a week, accompanied by sufficient waiting time\nfrom your side for students to play, discuss, and work on it, it can\nhave a great positive impact on how the students view and approach\nmathematics."
+}

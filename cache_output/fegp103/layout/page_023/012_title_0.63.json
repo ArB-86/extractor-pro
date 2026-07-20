@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.6344479918479919,
+    "bbox": [
+        293.7279357910156,
+        803.29638671875,
+        1854.3231201171875,
+        864.9642333984375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_023/012_title_0.63.png",
+    "text": "Q10. Make other variations of this puzzle and challenge your classmates."
+}

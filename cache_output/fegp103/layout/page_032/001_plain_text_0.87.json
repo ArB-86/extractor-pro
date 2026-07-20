@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8668942451477051,
+    "bbox": [
+        293.94769287109375,
+        1561.1824951171875,
+        2188.80810546875,
+        1683.671630859375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_032/001_plain_text_0.87.png",
+    "text": "Q.8. Recall the sequence of Powers of 2 from Chapter 1, Table 1. Why is the Collatz\nconjecture correct for all the starting numbers in this sequence?"
+}

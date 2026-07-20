@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "title",
+    "confidence": 0.6810727715492249,
+    "bbox": [
+        294.84698486328125,
+        597.3756103515625,
+        540.459228515625,
+        655.2461547851562
+    ],
+    "image_path": "cache_output/fegp102/layout/page_043/006_title_0.68.png",
+    "text": "Section\n2\nS\n4"
+}

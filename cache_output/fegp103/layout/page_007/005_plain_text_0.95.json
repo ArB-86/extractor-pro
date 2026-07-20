@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9543300867080688,
+    "bbox": [
+        293.52264404296875,
+        1705.93603515625,
+        2085.67822265625,
+        1851.7994384765625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_007/005_plain_text_0.95.png",
+    "text": "The numbers\n121, 313,222\n are some examples of palindromes\nusing the digits \u20181', \u201c2', 3'."
+}

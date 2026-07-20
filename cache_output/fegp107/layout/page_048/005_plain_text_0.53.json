@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.5332576036453247,
+    "bbox": [
+        297.5265197753906,
+        2820.2919921875,
+        1061.3780517578125,
+        3017.8046875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_048/005_plain_text_0.53.png",
+    "text": "3\nAns. Total length of the lace = 1\nm\n20\nYes."
+}

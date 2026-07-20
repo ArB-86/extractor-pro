@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.92271888256073,
+    "bbox": [
+        417.5465393066406,
+        2680.16357421875,
+        1265.306884765625,
+        2825.1728515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_004/003_plain_text_0.92.png",
+    "text": "The biggest number i\nin the t\ntable\nis"
+}

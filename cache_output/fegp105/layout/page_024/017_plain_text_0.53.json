@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5345367193222046,
+    "bbox": [
+        406.9681396484375,
+        2505.42041015625,
+        2181.635009765625,
+        2727.596923828125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_024/017_plain_text_0.53.png",
+    "text": "a. I\n1 a number\nless\nthan\n40. One\ne of\nmy\nfactors\nis 7. The sum\nof\nmy\ndigits is 8.\nam\nb. 1\nI a number\nless\nthan\n100. Tw0 of\nmy\nfactors are 3\nand 5.One of\nmy\ndigits is 1\nam\nthan\nthe other.\nmore"
+}

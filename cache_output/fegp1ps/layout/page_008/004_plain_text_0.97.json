@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9690350294113159,
+    "bbox": [
+        421.8193664550781,
+        2109.1923828125,
+        2080.6884765625,
+        2295.4716796875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_008/004_plain_text_0.97.png",
+    "text": "I thank again all the writers of and contributors to this textbook for\nthis important and valuable contribution and service to the nation's\nmathematics teachers, learners and enthusiasts."
+}

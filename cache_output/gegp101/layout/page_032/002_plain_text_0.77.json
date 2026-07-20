@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.7698277235031128,
+    "bbox": [
+        326.8210754394531,
+        683.3934326171875,
+        2167.701171875,
+        814.0594482421875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_032/002_plain_text_0.77.png",
+    "text": "Ans: We need to multiply Patna's population by 7.39 to get a number close to\nthe population of Mumbai."
+}

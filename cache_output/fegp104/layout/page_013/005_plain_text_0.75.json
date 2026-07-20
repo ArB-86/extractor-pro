@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7535523176193237,
+    "bbox": [
+        419.5439147949219,
+        2294.924560546875,
+        1906.101806640625,
+        2365.097412109375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_013/005_plain_text_0.75.png",
+    "text": "In Class 2,\nabsent that day.\n1.\nstudents were a"
+}

@@ -36,6 +36,8 @@ class Question:
 
     source_page: int | None = None
 
+    source_type: str = "textbook"
+
     academic_year: str | None = None
 
     confidence: float = 1.0
@@ -48,8 +50,6 @@ class Question:
 
     def __post_init__(self):
 
-        if not self.sha256:
-
-            self.sha256 = sha256(
-                self.question_text.strip().encode("utf-8")
-            ).hexdigest()
+        # SHA-256 is assigned by the QuestionDeduplicator after
+        # normalization and duplicate resolution.
+        pass

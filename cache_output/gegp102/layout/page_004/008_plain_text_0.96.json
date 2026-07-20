@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9585117101669312,
+    "bbox": [
+        380.36090087890625,
+        651.9636840820312,
+        2087.48583984375,
+        768.07666015625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/008_plain_text_0.96.png",
+    "text": "Just looking at the expression 30 + 5 \u00d7 4, it is not clear whether we\nshould do the addition first or multiplication."
+}

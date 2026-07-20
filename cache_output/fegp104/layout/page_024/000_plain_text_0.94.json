@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.93921959400177,
+    "bbox": [
+        404.9323425292969,
+        394.6645812988281,
+        2087.876220703125,
+        540.3948974609375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_024/000_plain_text_0.94.png",
+    "text": "7.\nThe number of girl students in each class of a school is depicted\nby the pictograph:"
+}

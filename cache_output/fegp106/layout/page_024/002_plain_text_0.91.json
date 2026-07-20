@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9083223938941956,
+    "bbox": [
+        297.9798278808594,
+        456.95037841796875,
+        1288.4447021484375,
+        617.2994995117188
+    ],
+    "image_path": "cache_output/fegp106/layout/page_024/002_plain_text_0.91.png",
+    "text": "Ans.\nPerimeter of the field\n1=\n780\nm\nTotal length of the rope needed\n1=\n2340\nm"
+}

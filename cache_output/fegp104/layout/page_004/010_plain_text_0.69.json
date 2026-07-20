@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6914491057395935,
+    "bbox": [
+        382.0208435058594,
+        2819.116943359375,
+        1528.8408203125,
+        2886.25048828125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_004/010_plain_text_0.69.png",
+    "text": "3.\nAre there other ways to a\narrange the data?"
+}

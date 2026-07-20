@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8963636755943298,
+    "bbox": [
+        398.1413269042969,
+        2313.55078125,
+        1682.8182373046875,
+        2382.540771484375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_013/008_plain_text_0.90.png",
+    "text": "If this seem\ndifficult, let us s\n simplify the problem."
+}

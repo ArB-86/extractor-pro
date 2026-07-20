@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9710201621055603,
+    "bbox": [
+        291.55255126953125,
+        495.1112976074219,
+        1087.311767578125,
+        1236.221435546875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_025/000_plain_text_0.97.png",
+    "text": "Draw a 6 by 6 grid. Two players\ntake turns\ncovering\ntwo\nadjacent squares by drawing\na line. The line can be placed\neither way: horizontally or\nvertically. The lines cannot\noverlap. The game goes on till\na player is not able to place any\nmore lines. The player who is\nnot able to place a line loses."
+}

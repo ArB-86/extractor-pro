@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.962006688117981,
+    "bbox": [
+        288.0348205566406,
+        2354.384521484375,
+        2088.758544921875,
+        2601.733642578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/001_plain_text_0.96.png",
+    "text": "?\nExample 15: Lham0\nand Norbu\nWent to a hotel. Each of them\nordered\na\nvegetable\ncutlet\nand\na1\nrasgulla. A\nvegetable\ncutlet\ncosts\n?43\nand\np\n24.Write\nfor the\namount they\nrasgulla\ncosts\nexpression\nwill have\nue\nto pay."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9728482961654663,
+    "bbox": [
+        417.5923156738281,
+        1035.504150390625,
+        2209.4755859375,
+        1331.33642578125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_022/000_plain_text_0.97.png",
+    "text": "In\nfraction, if its\nany\nand\ndenominator\nhave no\nnumerator\n common\nfactor\nexcept 1, then\nthe\nfraction is said\nd to be in lowest \n terms\nin\n or\nits\nsimplest\nform. In other\nwords, a f\nfraction\nis s\nsaid\nI to be in lowest\nif its\nterms\nnumerator\nand denominator\nare as\n6 small\nas\npossible."
+}

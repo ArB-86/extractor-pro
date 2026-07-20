@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9638869762420654,
+    "bbox": [
+        377.395263671875,
+        286.85546875,
+        2086.7421875,
+        467.3669128417969
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/005_plain_text_0.96.png",
+    "text": "Without knowing\ng the context behind this expression, Purna found\nthe value of this expression to be 140. He added 30 and 5 first, to get 35.\nand then multiplied 35 by 4 to get 140."
+}

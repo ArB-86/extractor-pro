@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8539502620697021,
+    "bbox": [
+        404.4373779296875,
+        2576.120361328125,
+        1969.8829345703125,
+        2857.08984375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_005/006_plain_text_0.85.png",
+    "text": "3.\nTry to recreate the figure where\nthe waves are smaller than a\nhalf circle (as appearing in the neck of the figure, A Person').\nThe c\nchallenge\nhere\nis to\nget both \n the\ns to be identical.\nwaves\nThis\nbe tricky!\nmay"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8967077732086182,
+    "bbox": [
+        299.4991149902344,
+        2871.69775390625,
+        2188.34716796875,
+        3066.135498046875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_013/003_plain_text_0.90.png",
+    "text": "Q.3. You will have noticed that 36 is both a triangular number and a square number!\nThat is, 36 dots can be arranged perfectly both in a triangle and in a square. Make\npictures in your notebook illustrating this!"
+}

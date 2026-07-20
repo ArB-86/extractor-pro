@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8261857032775879,
+    "bbox": [
+        444.16796875,
+        2206.372314453125,
+        1901.026611328125,
+        2278.646728515625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_013/004_plain_text_0.83.png",
+    "text": "the following questions using the bar\nAnswer\ngraph:"
+}

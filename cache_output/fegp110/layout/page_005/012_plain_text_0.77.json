@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7732600569725037,
+    "bbox": [
+        419.88970947265625,
+        1926.872802734375,
+        1492.54931640625,
+        1994.0162353515625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_005/012_plain_text_0.77.png",
+    "text": "Write the inverses of these numbers:"
+}

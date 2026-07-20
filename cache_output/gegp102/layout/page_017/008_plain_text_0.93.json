@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.934567391872406,
+    "bbox": [
+        377.7418518066406,
+        1719.505126953125,
+        2088.52197265625,
+        1841.9205322265625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_017/008_plain_text_0.93.png",
+    "text": "Similarly, let us consider the expression 14 \u00d7 10 - 6 \u00d7 10. This means\nsubtracting 6 times 10 from 14 times 10."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7749812006950378,
+    "bbox": [
+        367.095947265625,
+        475.4431457519531,
+        1637.6199951171875,
+        544.8340454101562
+    ],
+    "image_path": "cache_output/fegp108/layout/page_007/010_plain_text_0.77.png",
+    "text": "R1)\nThe opposite sides are equal in length, and"
+}

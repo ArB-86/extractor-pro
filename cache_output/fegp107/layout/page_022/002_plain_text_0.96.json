@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9600814580917358,
+    "bbox": [
+        417.1975402832031,
+        1339.3692626953125,
+        2210.68212890625,
+        1553.9840087890625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_022/002_plain_text_0.96.png",
+    "text": "Any\nfraction can\n be expressed in lowest terms\nby\nfinding\nan\nequivalent fraction whose numerator and denominator are as small\nas possible."
+}

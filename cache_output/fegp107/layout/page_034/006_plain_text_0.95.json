@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9534552693367004,
+    "bbox": [
+        525.3218994140625,
+        1489.6043701171875,
+        2211.3974609375,
+        1633.302734375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_034/006_plain_text_0.95.png",
+    "text": "We can try to look instead for a way to write 1 as the sum of\nthree different fractional units."
+}

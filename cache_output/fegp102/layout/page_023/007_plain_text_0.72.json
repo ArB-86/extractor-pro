@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.7196514010429382,
+    "bbox": [
+        1430.06787109375,
+        2634.568359375,
+        1661.81884765625,
+        2795.608642578125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_023/007_plain_text_0.72.png",
+    "text": "b.ZWAL\nZTAK\nC."
+}

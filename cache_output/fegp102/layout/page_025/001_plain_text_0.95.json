@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9493479132652283,
+    "bbox": [
+        291.48187255859375,
+        778.2125244140625,
+        2084.73974609375,
+        987.896484375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_025/001_plain_text_0.95.png",
+    "text": "Here, OT and OS pass through the numbers 20 and 55 on the outer\nscale. How many\nunits of 1 degree\ne are contained between\nthese\ntwo arms?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9323150515556335,
+    "bbox": [
+        378.1918029785156,
+        2146.640380859375,
+        2081.305419921875,
+        2266.235107421875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/010_plain_text_0.93.png",
+    "text": "All subtractions in an expression are converted to additions in this\nmanner to identify the terms."
+}

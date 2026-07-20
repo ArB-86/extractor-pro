@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.654273271560669,
+    "bbox": [
+        295.55413818359375,
+        394.65167236328125,
+        584.3516235351562,
+        457.10693359375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_028/011_plain_text_0.65.png",
+    "text": "No.\n115\nPa\nage"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.5298972129821777,
+    "bbox": [
+        297.36785888671875,
+        1392.6148681640625,
+        1985.4278564453125,
+        1551.3001708984375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_043/010_plain_text_0.53.png",
+    "text": "Ans.\nRihan can draw many/uncountable number of lines through the given point.\nSheetal can draw only one line through the two given points."
+}

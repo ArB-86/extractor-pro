@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.884935200214386,
+    "bbox": [
+        409.351806640625,
+        1513.01318359375,
+        2146.59228515625,
+        1762.7491455078125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_034/002_plain_text_0.88.png",
+    "text": "What is\nthe\nmost\npopular\nTV show a\na.\namong\nher\nclassmates?\nb. When\ndid India\nget i\nindependence?\n\u25a0\nc. How 1\nmuch\nwater\nis\ngetting\nwasted in her\nlocality?\n\u53e3\nd. What is the capital of India?"
+}

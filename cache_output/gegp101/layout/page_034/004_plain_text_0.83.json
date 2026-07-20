@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8300971388816833,
+    "bbox": [
+        445.1591491699219,
+        2027.9254150390625,
+        2188.421142578125,
+        2232.876708984375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_034/004_plain_text_0.83.png",
+    "text": "Weight of one lakh (1,00,000) sheets = 500 kg.\nAns:\nSince a person cannot lift 5o0 kg so, we cannot lift one lakh sheets\nof paper."
+}

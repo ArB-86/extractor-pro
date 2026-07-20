@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9171051979064941,
+    "bbox": [
+        496.1129455566406,
+        2536.693359375,
+        1877.5067138671875,
+        2868.4921875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_022/002_plain_text_0.92.png",
+    "text": "What information is this table\na.\ngiving?\nb.\nWhat may\nbe the title of this table?\nWhat caught your attention in this table?\nC.\nd.\nIn how many\nmatches has Bumrah taken 4 wickets?"
+}

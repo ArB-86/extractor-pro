@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6682424545288086,
+    "bbox": [
+        402.7177734375,
+        1701.49462890625,
+        1880.885009765625,
+        1981.2869873046875
+    ],
+    "image_path": "tmp_debug_layout/007_plain_text_0.67.png",
+    "text": "2.\nRewrite each sequence of Table 1 in\nn your notebook, along\nWith\nthe\nnext\nthree\nnumbers\nin\neach\nsequence!\nAfter\neach\nsequence, write in\nwords what is the rule\ni your\nown\nfor forming\nthe\nnumbers\nin the sequence."
+}

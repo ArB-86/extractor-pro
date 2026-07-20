@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.8642787933349609,
+    "bbox": [
+        269.5410461425781,
+        348.0489501953125,
+        931.8810424804688,
+        422.30224609375
+    ],
+    "image_path": "tmp_debug_layout/001_title_0.86.png",
+    "text": "(B) Solved Examples"
+}

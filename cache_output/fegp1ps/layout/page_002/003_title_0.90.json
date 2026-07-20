@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9006892442703247,
+    "bbox": [
+        1491.0419921875,
+        448.4537048339844,
+        1915.081787109375,
+        492.80413818359375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/003_title_0.90.png",
+    "text": "ALL RIGHTS RESERVED"
+}

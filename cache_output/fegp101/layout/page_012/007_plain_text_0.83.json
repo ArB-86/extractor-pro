@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8323051333427429,
+    "bbox": [
+        451.7821350097656,
+        2205.041259765625,
+        2208.055419921875,
+        2410.92529296875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_012/007_plain_text_0.83.png",
+    "text": "Sometimes number sequences can be related to each other in beautiful\nand remarkable ways. For example, adding up t\nthesequenceof odd\nnumbers starting with 1 gives square numbers."
+}

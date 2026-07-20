@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "title",
+    "confidence": 0.5055193901062012,
+    "bbox": [
+        298.2770690917969,
+        300.1210632324219,
+        577.6475219726562,
+        421.6474304199219
+    ],
+    "image_path": "cache_output/fegp108/layout/page_037/002_title_0.51.png",
+    "text": "Page no. 215\nConstruct"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9107785224914551,
+    "bbox": [
+        514.6802978515625,
+        286.59222412109375,
+        1182.036865234375,
+        429.11163330078125
+    ],
+    "image_path": "debug/full_book/layout/page_020/001_plain_text_0.91.png",
+    "text": "(a)\nLargest multiple\nof5\n(b)\nSmallest even number"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.941989004611969,
+    "bbox": [
+        420.9842834472656,
+        544.3466186523438,
+        1627.1513671875,
+        687.3674926757812
+    ],
+    "image_path": "cache_output/fegp108/layout/page_008/003_plain_text_0.94.png",
+    "text": "Therefore, this rotated figure satisfies both\nthe properties of a square and so, it is a square."
+}

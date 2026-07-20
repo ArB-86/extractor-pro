@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7914282083511353,
+    "bbox": [
+        371.5446472167969,
+        2845.1416015625,
+        2077.77685546875,
+        2960.891357421875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_014/002_plain_text_0.79.png",
+    "text": "By drawing a similar picture, can you say what is the sum of the first 10 odd\nnumbers?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.7371758222579956,
+    "bbox": [
+        297.33673095703125,
+        2112.621826171875,
+        1172.7852783203125,
+        2172.111328125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_052/007_plain_text_0.74.png",
+    "text": "Balance amount in Bank Account =  (-30)"
+}

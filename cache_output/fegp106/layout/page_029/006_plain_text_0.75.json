@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7492977380752563,
+    "bbox": [
+        295.7881164550781,
+        2041.48046875,
+        2186.631103515625,
+        2227.793212890625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_029/006_plain_text_0.75.png",
+    "text": "Q.8. A square piece of paper is folded in half. The square is then cut into two rectangles\nalong the fold. Regardless of the size of the square, one of the following statements\nis always true. Which statement is true here?"
+}

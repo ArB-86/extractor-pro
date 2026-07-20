@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5483123660087585,
+    "bbox": [
+        493.34539794921875,
+        1621.485107421875,
+        1365.675048828125,
+        1761.4488525390625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_011/010_plain_text_0.55.png",
+    "text": "Discuss\nWith\nfriends\nhow\nyour\non\ndecided\nwhich\nyou\niS\none\ngreater."
+}

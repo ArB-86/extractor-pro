@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9659160375595093,
+    "bbox": [
+        376.9527282714844,
+        1693.143798828125,
+        2088.01171875,
+        1873.54296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/003_plain_text_0.97.png",
+    "text": "We know that this is the same as 28 + (35 +\n+ (-1o)). Since the terms\ncan be added in any c\n order, this expression can simply\n1 be written as\n28 + 35 + (-10), 0r 28 + 35 - 10. Thus,"
+}

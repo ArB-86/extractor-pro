@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.7474377751350403,
+    "bbox": [
+        365.1288146972656,
+        542.3875122070312,
+        2180.147705078125,
+        674.929931640625
+    ],
+    "image_path": "debug/full_book/layout/page_032/003_plain_text_0.75.png",
+    "text": "6. By what number should\nWe multiply\nPatna's\npopulation to get\na\nnumber/population close to that of Mumbai?"
+}

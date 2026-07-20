@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.622118353843689,
+    "bbox": [
+        296.6517639160156,
+        1439.3961181640625,
+        1226.4736328125,
+        1497.111083984375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_024/013_plain_text_0.62.png",
+    "text": "Ans.\nAll circled\nnumbers are r\n multiples of 4."
+}

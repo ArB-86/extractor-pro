@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.949822187423706,
+    "bbox": [
+        663.1681518554688,
+        2107.8125,
+        2210.3916015625,
+        2390.7314453125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_008/002_plain_text_0.95.png",
+    "text": "Think: Is it\npossible\neto\nout\nif\nthe\n3\nreason\nsides\nare\nequal\nor\nnot,\nand\nif\nthe\nangles\nare\nright\nor\nnot\nwithout\nusing\nany\nmeasuring\ninstruments\nin t\nthe above\nfigure?\nCan\nwe\ndo t\nthis\nby only looking\ng at the\ne position of corners\nin the dot \ngrid?"
+}

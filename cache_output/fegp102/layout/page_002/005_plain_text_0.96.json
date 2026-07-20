@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9568401575088501,
+    "bbox": [
+        418.6457824707031,
+        2640.516357421875,
+        2210.609375,
+        2785.22802734375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_002/005_plain_text_0.96.png",
+    "text": "Observe that any two points determine a unique line that passes\nthrough both of them."
+}

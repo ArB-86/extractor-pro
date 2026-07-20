@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.7983776926994324,
+    "bbox": [
+        295.9076232910156,
+        1103.3162841796875,
+        1272.566162109375,
+        1356.5028076171875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_038/005_plain_text_0.80.png",
+    "text": "1\n1\n1\n1\n1\n1\n1\nAns.\n+\n+\n+\n6\ntimes\n\u4e00\n\u4e00\n+\n\u4e00\n\u4e00\n+\n\u4e00\n\u4e00\n=\n\u4e00\n2\n2\n2\n2\n2\n2\n2\n1\n1\n1\n1\n1\n1\n1\n1\n+\n7\ntimes\n\u4e00\n\u4e00\n+\n\u4e00\n+\n\u4e00\n+\n\u4e00\n+\n\u4e00\n+\n\u4e00\n\u4e00\n2\n2\n2\n2\n2\n2\n2\n2"
+}

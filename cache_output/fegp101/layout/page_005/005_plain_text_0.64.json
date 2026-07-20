@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6377499103546143,
+    "bbox": [
+        407.3258361816406,
+        1035.0777587890625,
+        2093.850341796875,
+        1355.1270751953125
+    ],
+    "image_path": "cache_output/fegp101/layout/page_005/005_plain_text_0.64.png",
+    "text": "3.\nYou will have r\nnoticed that 36 is both a triangular\n: number\nand\na\nnumber! That is, 36 dots\n can\nbe\narranged\nperfectly\nboth\nsquare\nin a t\ntriangle\nand\nin a s\nsquare. Make\npictures\nin\nyour 1\nnotebook\nillustrating this!"
+}

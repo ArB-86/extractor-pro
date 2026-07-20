@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9814890027046204,
+    "bbox": [
+        294.3186340332031,
+        2245.515869140625,
+        2084.41015625,
+        2765.702392578125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_030/001_plain_text_0.98.png",
+    "text": "As an example of how infographics can be used to communicate\ndata even more suggestively, let us go back to the table above listing\nthe tallest mountain on each continent. We drew a bar graph with\nvertical bars\n(columns) rather than horizontal bars, to be more\nindicative of mountains. But instead of rectangles, we could\nLuse\ntriangles, which look a bit more like mountains. And, we can add a\nsplash of colour as well. Here is the result."
+}

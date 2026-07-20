@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "title",
+    "confidence": 0.8375038504600525,
+    "bbox": [
+        1013.2005004882812,
+        1410.708251953125,
+        1427.0780029296875,
+        1471.709228515625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_037/002_title_0.84.png",
+    "text": "Note\nT\n\u95e8\ne\neacl\nS"
+}

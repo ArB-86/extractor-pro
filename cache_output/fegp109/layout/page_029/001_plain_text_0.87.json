@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8720073699951172,
+    "bbox": [
+        368.5372619628906,
+        1780.4649658203125,
+        1385.7279052734375,
+        1842.1173095703125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_029/001_plain_text_0.87.png",
+    "text": "c. A hexagon with equal\nsides and e\nequal\nangles."
+}

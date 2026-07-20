@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5003252029418945,
+    "bbox": [
+        381.3536682128906,
+        517.1456298828125,
+        2120.482177734375,
+        652.745361328125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_010/002_plain_text_0.50.png",
+    "text": "18. Kirti Kapur, Professor\nDepartment of Education in Languages,\nNCERT, NeW Delhi"
+}

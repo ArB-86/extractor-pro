@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.5560247302055359,
+    "bbox": [
+        367.4892883300781,
+        1847.1844482421875,
+        661.3206176757812,
+        1911.8779296875
+    ],
+    "image_path": "tmp_run/layout/page_013/011_title_0.56.png",
+    "text": "Figure\nit\nO1\nut"
+}

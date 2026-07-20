@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9708836078643799,
+    "bbox": [
+        294.03778076171875,
+        1719.93994140625,
+        2086.40185546875,
+        2091.174072265625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_019/000_plain_text_0.97.png",
+    "text": "We have seen t\nthat long\ndivision is not always needed to check if a\nnumber is a factor or not. We have made\ne use of certain observations\nto come\nwith simple\nmethods for\n10, 5, 2, 4, 8. D0 We\nhave such\nup\nsimple methods for other r\nnumbers as well? We will c\ndiscuss s\nsimple\nmethods to test divisibility k\nby 3, 6, 7, and 9 in later\nclasses!"
+}

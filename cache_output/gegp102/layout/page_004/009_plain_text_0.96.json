@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.957556962966919,
+    "bbox": [
+        378.1577453613281,
+        472.0704650878906,
+        2087.765625,
+        588.0982055664062
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/009_plain_text_0.96.png",
+    "text": "Mallesh found the value of this expression to be 50. He multiplied 5\nand 4 first to get 20 and added 20 to 30 to get 50."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9465961456298828,
+    "bbox": [
+        516.4091186523438,
+        2640.755126953125,
+        2091.64111328125,
+        2946.7177734375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_019/004_plain_text_0.95.png",
+    "text": "(a)\nThe\nmarket in Begur\ndistrict 1\nall\nseven\ndays of\noperates\non\na week. Rahim\n9 kg of r\nmangoes\neach day\nsupplies\nfrom\nhis\nS\norchard and Shyam supplies 11 kg of mangoes each day f\nfrom\nhis\norchard\nto\nthis\nmarket. Find\nthe\namount\nof\nmangoes\nsupplied by t\nthem in a week to the local c\ndistrict market."
+}

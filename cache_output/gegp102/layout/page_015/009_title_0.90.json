@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.8982044458389282,
+    "bbox": [
+        380.08843994140625,
+        2251.40673828125,
+        1088.2647705078125,
+        2322.54638671875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/009_title_0.90.png",
+    "text": "Removing\nBrackets\ns\u2014I"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9221364259719849,
+    "bbox": [
+        382.466064453125,
+        2434.152099609375,
+        2090.432861328125,
+        2573.52978515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_003/004_plain_text_0.92.png",
+    "text": "Out of the 9 numbers, how many s\n4.\nsupercells are t\nthere in the table\nabove?"
+}

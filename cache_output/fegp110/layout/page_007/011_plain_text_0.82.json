@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.824914813041687,
+    "bbox": [
+        418.2276611328125,
+        2426.38525390625,
+        2209.4765625,
+        2714.8818359375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_007/011_plain_text_0.82.png",
+    "text": "Target Floor - Starting\nFloor =\nMovement\nneeded.\nIn\nthe\nabove\nthe\nstarting\nexample,\nfloor\nis\n+2\n(Art\nCentre)\nand\nthe\ntarget\nfloor\niS\n+5. The\nbutton\nto\nt to\n+5\nfrom\n+\n2 is\n+3.\npress\nget\nTherefore,"
+}

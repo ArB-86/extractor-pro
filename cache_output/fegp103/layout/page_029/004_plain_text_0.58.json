@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.5839146971702576,
+    "bbox": [
+        407.6963195800781,
+        3034.984619140625,
+        937.83251953125,
+        3147.6298828125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_029/004_plain_text_0.58.png",
+    "text": "e. Never true\nEx.\n10,000\n99\n9901\n\u4e00"
+}

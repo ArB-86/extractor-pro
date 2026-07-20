@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9582698345184326,
+    "bbox": [
+        418.75439453125,
+        1690.41845703125,
+        2208.217041015625,
+        1855.7432861328125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_018/002_plain_text_0.96.png",
+    "text": "We know that a full turn has 360 degrees. This is equally distributed\n360\u00b0\namongst these three angles. So each angle must be\n=120\u00b0\n3"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.949507474899292,
+    "bbox": [
+        292.3729248046875,
+        2704.172119140625,
+        2088.083251953125,
+        2849.65673828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_021/003_plain_text_0.95.png",
+    "text": "A full\n has been\ndivided into 360\u00b0. Why\n: reason why\nturn\n360? The\ne 360\u00b0 today is not fully l\nknown. The division of a circle\ne into\nwe use"
+}

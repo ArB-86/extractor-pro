@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9537115097045898,
+    "bbox": [
+        377.87261962890625,
+        1395.902099609375,
+        2088.7685546875,
+        1516.130126953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/005_plain_text_0.95.png",
+    "text": "Weuset\nthe equality sign\n\u2018=\u2019\u2032 to denote the relationship between an\narithmetic expression and its value. For example:"
+}

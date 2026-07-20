@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9682731032371521,
+    "bbox": [
+        293.3427429199219,
+        2722.28955078125,
+        2087.128173828125,
+        2945.428466796875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_006/002_plain_text_0.97.png",
+    "text": "This\npicture\nhelps\nunderstand\nat a\nglance\nthe\ndifferent\nyou\nmodes of travel used by students. Based on this picture, answer the\nfollowing questions:"
+}

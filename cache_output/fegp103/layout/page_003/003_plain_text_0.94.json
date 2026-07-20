@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9354190826416016,
+    "bbox": [
+        382.5096740722656,
+        1814.4368896484375,
+        2090.67431640625,
+        1955.6351318359375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_003/003_plain_text_0.94.png",
+    "text": "2.\nFill\nthe table below\nwith only\n4-digit\nnumbers such t\nthat the\nsupercells are exactly the coloured cells."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.917462170124054,
+    "bbox": [
+        415.1632385253906,
+        2074.166259765625,
+        2053.366943359375,
+        2171.8466796875
+    ],
+    "image_path": "debug/full_book/layout/page_018/002_plain_text_0.92.png",
+    "text": "In a single gram of healthy soil there can be 1o0 million to 1 billion bacteria and 1 lakh to\n1 million fungi, which can support plants' growth and health."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8010977506637573,
+    "bbox": [
+        621.8655395507812,
+        2476.524658203125,
+        2033.468505859375,
+        2943.738525390625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_003/006_plain_text_0.80.png",
+    "text": "How many students chose jalebi?\na.\nb.\nBarfi was chosen by\nstudents?\nHow many students chose\ngujiya?\nd.\nRasgulla was chosen by\nstudents?\nHow many\nstudents chose\ngulab jamun?\ne."
+}

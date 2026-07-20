@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9120570421218872,
+    "bbox": [
+        294.4593200683594,
+        2132.84716796875,
+        2175.79052734375,
+        2256.6611328125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_035/002_plain_text_0.91.png",
+    "text": "Q.2. Construct a rectangle in which one of the diagonals divides the opposite angles into\n45\u00b0 and 45\u00b0. What do you observe about the sides?"
+}

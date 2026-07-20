@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9711424708366394,
+    "bbox": [
+        376.13031005859375,
+        1113.8377685546875,
+        2093.60986328125,
+        1295.627685546875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/003_plain_text_0.97.png",
+    "text": "In the expression to find the number of marbles \u2014 30 + 5 \u00d7 4 \u2014 we had\nto first multiply 5 and 4, and then add this product to 30. This order of\noperations is clarified by the use of brackets as follows:"
+}

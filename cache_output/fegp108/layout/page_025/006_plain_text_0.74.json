@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7422478199005127,
+    "bbox": [
+        403.5958557128906,
+        1048.8734130859375,
+        2085.893798828125,
+        1186.0941162109375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_025/006_plain_text_0.74.png",
+    "text": "4\u3002\nConstruct a rectangle one of whose sides is 3 cm and the diagonal\nis of length 7 cm."
+}

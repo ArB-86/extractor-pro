@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9380151033401489,
+    "bbox": [
+        290.87322998046875,
+        2040.4571533203125,
+        2083.03662109375,
+        2182.273193359375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_003/004_plain_text_0.94.png",
+    "text": "What about the jump of sizes 1 and 24? Yes, they also will land\non 24."
+}

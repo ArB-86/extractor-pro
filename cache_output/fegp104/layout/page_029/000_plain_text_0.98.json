@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9809128642082214,
+    "bbox": [
+        418.1934814453125,
+        1442.463134765625,
+        2210.0009765625,
+        1812.6544189453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_029/000_plain_text_0.98.png",
+    "text": "However, since the boxes represent heights, it is better and\nmore\nvisually\nappealing\nto\nthe\nrotate\npicture, so\nthat\nthe\nboxes\ngrow\nvertically\nfrom\nthe\nlike\nmountains. A bar\nupward,\nground\ngraph\nWith\nvertical bars is also called a column\ngraph. Columns\nthe\nare\npillars\nfind in a building\nthat hold\nup\nthe roof.\nyou"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.8901230096817017,
+    "bbox": [
+        295.3339538574219,
+        1126.3681640625,
+        2187.352294921875,
+        1250.265869140625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_040/001_plain_text_0.89.png",
+    "text": "Q10.Howmany\nlines of symmetry do the shapes in the last shape sequence in Chapter 1,\nTable 3, the Koch Snowflake sequence, have? How many angles of symmetry?"
+}

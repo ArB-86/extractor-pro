@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9467458128929138,
+    "bbox": [
+        419.7251892089844,
+        2331.5048828125,
+        2208.05810546875,
+        2475.654296875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_014/001_plain_text_0.95.png",
+    "text": "Now, we see that 7 is a prime factor of 56 as well as 63. Therefore,\n56 and 63 are not co-prime."
+}

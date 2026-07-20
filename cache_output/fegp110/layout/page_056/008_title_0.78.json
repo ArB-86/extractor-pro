@@ -1,0 +1,13 @@
+{
+    "page": 56,
+    "label": "title",
+    "confidence": 0.7783615589141846,
+    "bbox": [
+        292.4300842285156,
+        896.3733520507812,
+        1127.365478515625,
+        959.44921875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_056/008_title_0.78.png",
+    "text": "Q.6 Complete the following\nsequences:"
+}

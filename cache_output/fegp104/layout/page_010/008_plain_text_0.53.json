@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5287208557128906,
+    "bbox": [
+        297.4912414550781,
+        1168.6546630859375,
+        2083.10888671875,
+        1387.31787109375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/008_plain_text_0.53.png",
+    "text": "By\nreading\npictograph,\nquickly\nunderstand\nthe\na\nwe\ncan\nfrequencies\n of the\ndifferent\ncategories\n(for\nexample, c\ncricket,\nhockey, etc.) a\nand the comparisons of these frequencies."
+}

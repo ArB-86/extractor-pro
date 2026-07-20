@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5152371525764465,
+    "bbox": [
+        551.1976318359375,
+        395.0424499511719,
+        1387.7996826171875,
+        459.7177734375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_013/009_plain_text_0.52.png",
+    "text": "3. Is 2 > -3? Why? Is-2\n2<3?Why?"
+}

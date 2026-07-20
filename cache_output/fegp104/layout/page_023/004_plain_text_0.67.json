@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.671098530292511,
+    "bbox": [
+        623.4869995117188,
+        394.25469970703125,
+        2217.029296875,
+        922.0406494140625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_023/004_plain_text_0.67.png",
+    "text": "e.\nMayank says, \u201cIf\nf we want to know the total number of\nwickets he has taken in his last 30 matches, we have to add\nthe numbers 0, 1, 2, 3 ..., up to 7.\" Can Mayank get the total\nnumber of wickets taken in this way? Why?\nf.\nHow would\nd you correctly figure out the total number of\nwickets taken by Bumrah in his last 30 matches, using this\ntable?"
+}

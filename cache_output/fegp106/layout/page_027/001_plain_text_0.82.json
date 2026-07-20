@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8183735609054565,
+    "bbox": [
+        493.3182678222656,
+        2515.498779296875,
+        1202.8480224609375,
+        3209.665283203125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_027/001_plain_text_0.82.png",
+    "text": "Utility 7ft x 10 ft\nArea = 70 sq ft\nii.\nHall 23ft x 15 ft\nArea = 345 sq ft\nili.\nEntrance 7 ft x 15ft\nArea = 105 sq ft\niv.\nSmall bedroom 12ft x 10ft\nArea = 120 sq ft\nToilet 5ft x 10 ft\nV."
+}

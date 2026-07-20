@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9630056023597717,
+    "bbox": [
+        644.2114868164062,
+        1054.2974853515625,
+        1862.5223388671875,
+        1399.9564208984375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_020/000_plain_text_0.96.png",
+    "text": "WE,\nTHE\nPEOPLE\nOF\nINDLA,\nhaving\nsolemnly\nresolved to constitute India into\na\n[SOVEREIGN\nSOCIALIST\nSECULAR\nDEMOCRATIC\nREPUBLIC]\nand\nto\nsecure\nto allits citizens"
+}

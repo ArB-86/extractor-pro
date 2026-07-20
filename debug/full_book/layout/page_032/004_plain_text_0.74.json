@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.7394787669181824,
+    "bbox": [
+        361.5430908203125,
+        302.9039611816406,
+        2180.905517578125,
+        434.4405822753906
+    ],
+    "image_path": "debug/full_book/layout/page_032/004_plain_text_0.74.png",
+    "text": "5. Are there cities whose\npopulation has almost doubled? Which\nare\nthey?"
+}

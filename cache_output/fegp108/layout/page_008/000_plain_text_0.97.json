@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9716717004776001,
+    "bbox": [
+        531.6593017578125,
+        2428.85205078125,
+        2210.58349609375,
+        2716.59375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_008/000_plain_text_0.97.png",
+    "text": "3.\nDraw atleast 3\n3 rotated squares and rectangles on a dot g\ngrid. Draw\nthe dots. Verify if the squares\nthem such that their\ncorners are\neon\nand\nrectangles\nthat\nhave\ndrawn\nsatisfy\nyou\ntheir\nrespective\nproperties."
+}

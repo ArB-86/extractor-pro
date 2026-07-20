@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.5190772414207458,
+    "bbox": [
+        445.07958984375,
+        1622.4752197265625,
+        1558.5550537109375,
+        1825.219482421875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_036/007_plain_text_0.52.png",
+    "text": "(c) 1,20,500\nAns: 1,20,500\n0 = (12 \u00d7 10,000)\n(5 \u00d7 100)\n+\nTotal clicks\n12\n5 = 17 button clicks.\nS\u4e09\n+"
+}

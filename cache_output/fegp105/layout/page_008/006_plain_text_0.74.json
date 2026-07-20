@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7357382774353027,
+    "bbox": [
+        526.6273803710938,
+        2198.54541015625,
+        2212.966552734375,
+        2869.458251953125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_008/006_plain_text_0.74.png",
+    "text": "4. Which of the following numbers are prime: 23, 51, 37, 26?\n5. Write three pairs of prime numbers less than 20 whose sum is a\nmultiple of 5.\n6. The numbers 13 and 31 are prime numbers. Both these numbers have\nsame digits 1 and 3. Find such pairs of prime numbers up to 100.\n7.\nFind seven consecutive composite numbers between 1 and 100.\n8\u3002\nTwin primes are pairs of primes having a difference of 2. For\nexample, 3 and 5 are twin primes. So are 17 and 19. Find the other\ntwin primes between 1 and 1oo."
+}

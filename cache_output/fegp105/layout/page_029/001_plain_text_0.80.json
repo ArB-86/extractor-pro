@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7950359582901001,
+    "bbox": [
+        293.7168884277344,
+        2056.4443359375,
+        1816.5054931640625,
+        2118.96337890625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_029/001_plain_text_0.80.png",
+    "text": "Q.3. Find three prime numbers, all less than 30, whose product is 1955."
+}

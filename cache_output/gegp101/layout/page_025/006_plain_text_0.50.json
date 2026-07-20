@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.5014649033546448,
+    "bbox": [
+        375.4486083984375,
+        939.3493041992188,
+        2056.107421875,
+        1692.3232421875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_025/006_plain_text_0.50.png",
+    "text": "(a) One lakh twenty-three thousand four hundred and fifty-six.\nAns: 1,23,456\n(b) Four lakh seven thousand seven hundred and four.\nAns: 4,07,704\n(C)\nFifty lakhs five thousand and fifty.\nAns:50,05,050\n(d)  Ten lakhs two hundred and thirty-five.\nAns: 10,00,235"
+}

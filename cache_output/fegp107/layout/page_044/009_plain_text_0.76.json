@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7631485462188721,
+    "bbox": [
+        379.55792236328125,
+        1052.585693359375,
+        2185.845703125,
+        1176.5748291015625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_044/009_plain_text_0.76.png",
+    "text": "b. 4 kg of potatoes divided equally in 3 bags is the same as 12 kgs of potatoes divided\nequally in _\nbags."
+}

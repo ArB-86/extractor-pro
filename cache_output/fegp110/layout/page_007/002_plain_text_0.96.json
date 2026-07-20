@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9644843935966492,
+    "bbox": [
+        420.21636962890625,
+        2122.82568359375,
+        2207.706298828125,
+        2266.978759765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_007/002_plain_text_0.96.png",
+    "text": "Your starting\nfloor is the Art Centre and\nyour target floor is the\nSports Centre. What should be your button press?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8193634152412415,
+    "bbox": [
+        296.681884765625,
+        2241.43994140625,
+        1425.943603515625,
+        2313.391357421875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_018/010_plain_text_0.82.png",
+    "text": "What is\nbank balance now?\n6 your"
+}

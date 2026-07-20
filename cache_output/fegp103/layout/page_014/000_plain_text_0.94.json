@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9429935812950134,
+    "bbox": [
+        417.67657470703125,
+        2316.4384765625,
+        2208.231201171875,
+        2460.77392578125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_014/000_plain_text_0.94.png",
+    "text": "Look at the sequences\ns below-the same rule is applied in all t\nthe\nseguences:"
+}

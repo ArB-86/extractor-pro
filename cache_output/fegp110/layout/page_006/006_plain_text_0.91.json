@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9101293087005615,
+    "bbox": [
+        403.8140563964844,
+        1599.9871826171875,
+        1850.0594482421875,
+        1738.1502685546875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_006/006_plain_text_0.91.png",
+    "text": "2.\nImagine the Building of Fun with more\nfloors. Compare\nthe numbers and fill in the boxes with < or >:"
+}

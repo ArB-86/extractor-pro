@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7783510684967041,
+    "bbox": [
+        450.2464904785156,
+        954.1964721679688,
+        1718.734375,
+        1020.6679077148438
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/006_plain_text_0.78.png",
+    "text": "3\u3002\nSudha Murty, Acclaimed Writer and Educationist"
+}

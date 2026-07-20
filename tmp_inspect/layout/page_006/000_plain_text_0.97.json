@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9708049297332764,
+    "bbox": [
+        418.7314147949219,
+        2402.116943359375,
+        2212.0068359375,
+        2623.339599609375
+    ],
+    "image_path": "tmp_inspect/layout/page_006/000_plain_text_0.97.png",
+    "text": "Visualising with a picture can help explain the phenomenon. Recall\nthat square numbers are made by c\ncounting\ng the number of dots in a\nsquare\ngrid."
+}

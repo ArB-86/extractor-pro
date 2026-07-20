@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.7812862992286682,
+    "bbox": [
+        293.1044006347656,
+        2337.168701171875,
+        1494.54541015625,
+        2477.453369140625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_043/003_plain_text_0.78.png",
+    "text": "Ans.\n2 Rotis\nequally\nshared\nby 4 children. Each child\nroti."
+}

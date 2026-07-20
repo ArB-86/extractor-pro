@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.744630753993988,
+    "bbox": [
+        397.4674377441406,
+        1893.9122314453125,
+        624.0272216796875,
+        1958.662353515625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_025/005_plain_text_0.74.png",
+    "text": "Solution"
+}

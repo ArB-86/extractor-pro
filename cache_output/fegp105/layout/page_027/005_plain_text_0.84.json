@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.839001476764679,
+    "bbox": [
+        293.12762451171875,
+        2384.46923828125,
+        2187.966064453125,
+        2613.850341796875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_027/005_plain_text_0.84.png",
+    "text": "Ans.\nYes, 11 =2x5 + 1,\n47 = 2 \u00d7 23 + 1,\n83 =2 \u00d7 41 + 1\n23 = 2 x 11 +1,\n59 = 2 \u00d7 29 +1\n(Try other possibilities.)"
+}

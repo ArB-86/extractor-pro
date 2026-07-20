@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9509236216545105,
+    "bbox": [
+        625.6482543945312,
+        2249.56494140625,
+        2090.81591796875,
+        2435.380126953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_012/003_plain_text_0.95.png",
+    "text": "This\nis\nthe\nthe\nshopkeeper\nIrfan\nif he\nhad\namount\nowes\npurchased\nonly\nthe\nbiscuits. As\nhe\nhas\npurchased\ntoor\ndal\nalso, its\ncost is taken\nfrom\nthis\n remaining\namount of 85."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9491533637046814,
+    "bbox": [
+        419.4627990722656,
+        1606.7479248046875,
+        2209.955810546875,
+        1752.1483154296875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_014/002_plain_text_0.95.png",
+    "text": "The correct one can be found by placing\neach of the rotating\nsuuue\nover the slit. Let us do this for some of the rotating\narms:"
+}

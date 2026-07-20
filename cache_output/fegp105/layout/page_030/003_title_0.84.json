@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.8369898200035095,
+    "bbox": [
+        289.4914855957031,
+        2374.345458984375,
+        1850.1168212890625,
+        2437.72314453125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_030/003_title_0.84.png",
+    "text": "Q.2. Is the first number divisible by the second? Use prime factorisation."
+}

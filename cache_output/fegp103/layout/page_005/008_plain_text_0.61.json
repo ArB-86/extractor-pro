@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6059158444404602,
+    "bbox": [
+        403.17852783203125,
+        2767.435546875,
+        1925.9481201171875,
+        2912.013671875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_005/008_plain_text_0.61.png",
+    "text": "Puta circle\naround the smallest number and a box around the\nlargest number in each of the sequences above."
+}

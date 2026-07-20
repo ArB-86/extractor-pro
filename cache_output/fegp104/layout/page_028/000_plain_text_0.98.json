@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9848955869674683,
+    "bbox": [
+        293.52008056640625,
+        537.0343017578125,
+        2086.17333984375,
+        1287.2423095703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_028/000_plain_text_0.98.png",
+    "text": "In addition to the steps described in previous sections, there are\nalso some other more artistic and aesthetic aspects one can consider\nwhen preparing visual presentations of data to make them more\ninteresting and effective. First, when making a visual presentation\nof data such as a pictograph or bar graph, it is important to make\nit fit in the intended space; this can be controlled, for example, by\n n          \ndesirable to make the data presentation visually appealing and\neasy-to-understand, so that the intended audience appreciates the\ninformation being conveyed."
+}

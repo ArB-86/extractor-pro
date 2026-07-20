@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9503352046012878,
+    "bbox": [
+        294.2952575683594,
+        1279.8328857421875,
+        2080.508544921875,
+        1414.501953125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_025/000_plain_text_0.95.png",
+    "text": "Align the protractor so that one\nthe arms\nthrough the\npasses\n0\u00b0\nmark as in the picture below."
+}

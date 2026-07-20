@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9796831011772156,
+    "bbox": [
+        292.228759765625,
+        1591.3302001953125,
+        2085.44970703125,
+        2036.9007568359375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_007/001_plain_text_0.98.png",
+    "text": "Like squares, closed figures\nthat have all s\nsides and all angles equal\ncalled regular polygons. We studied the sequence of regular\nare\npolygons as \u2018Shape Sequence' #1 in Chapter 1. Examples of regular\npolygons are\nthe equilateral t\ntriangle\ne (where all t\nthree sides and all\nthree angles are e\nequal), regular pentagon\nn (where all five sides and\nall five angles are\nequal), etc."
+}

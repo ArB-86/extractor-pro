@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5204280018806458,
+    "bbox": [
+        402.00726318359375,
+        819.20458984375,
+        1779.4251708984375,
+        887.0924072265625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_011/006_plain_text_0.52.png",
+    "text": "3\u3002\nIs it possible to construct a 4-sided figure in which\u2014"
+}

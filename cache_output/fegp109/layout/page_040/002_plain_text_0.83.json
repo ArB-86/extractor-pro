@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.831214964389801,
+    "bbox": [
+        295.20452880859375,
+        1568.6158447265625,
+        2156.6728515625,
+        1632.7080078125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_040/002_plain_text_0.83.png",
+    "text": "Q11.How many l\nlines of symmetry and angles of symmetry does Ashoka Chakra have?"
+}

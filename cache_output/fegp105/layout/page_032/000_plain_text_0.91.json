@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9136838316917419,
+    "bbox": [
+        441.5245056152344,
+        300.869873046875,
+        2186.820068359375,
+        422.76947021484375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_032/000_plain_text_0.91.png",
+    "text": "if the number formed by one's, ten's and hundred's digit is divisible by 8, then the\nnumber is divisible by 8."
+}

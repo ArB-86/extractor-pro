@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.672302782535553,
+    "bbox": [
+        288.5920715332031,
+        804.4061889648438,
+        1382.5450439453125,
+        952.2260131835938
+    ],
+    "image_path": "cache_output/fegp106/layout/page_015/003_plain_text_0.67.png",
+    "text": "2.\nFind\nthe\nof\nred\ntriangle\nABE\narea"
+}

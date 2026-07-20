@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7045125365257263,
+    "bbox": [
+        660.0995483398438,
+        2127.17529296875,
+        2203.11181640625,
+        2202.759033203125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_014/004_plain_text_0.70.png",
+    "text": "the following questions after looking at the fraction wall:\ner"
+}

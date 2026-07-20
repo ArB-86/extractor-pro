@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9825877547264099,
+    "bbox": [
+        421.081298828125,
+        1979.6109619140625,
+        2082.945068359375,
+        2684.40234375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_007/002_plain_text_0.98.png",
+    "text": "that an immersive learning experience will be created that ignites\ncuriosity and fosters a love for mathematics. It is hoped that teachers\nWould give children the opportunity to discuss, play, engage with\neach other, provide logical arguments for different ideas, and find\nloopholes in arguments presented. This is necessary for the learners\nto eventually develop the ability to understand what it means to prove\ns     o  s\nThe mathematics classroom should not expect a blind application\nof algorithms but should rather encourage children to find many\ndifferent ways to solve problems."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8414350748062134,
+    "bbox": [
+        293.05755615234375,
+        2360.044677734375,
+        2083.626708984375,
+        2499.646240234375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_025/009_plain_text_0.84.png",
+    "text": "You may have wondered how the different equally spaced markings are\nmade on a protractor. We will now see how we can make some of them!"
+}

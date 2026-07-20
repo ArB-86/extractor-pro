@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.8739374876022339,
+    "bbox": [
+        441.03704833984375,
+        2026.88134765625,
+        2212.673095703125,
+        2377.465576171875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_036/001_plain_text_0.87.png",
+    "text": "Brahmagupta's method for subtracting fractions: When subtracting\nfractions,\nthem\ninto\nequivalent\nfractions\nWith\nthe\nconvert\nsame\nfractional\nunit\n(i.e., t\nthe\ndenominator),\nand\nthen\nsubtract\nthe\nsame\nnumber of fractional\nunits. This is\naccomplished by subtracting\nthe\nnumerators while keeping\nthe same\ndenominator."
+}

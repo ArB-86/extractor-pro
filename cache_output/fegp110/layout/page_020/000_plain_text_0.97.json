@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9746572375297546,
+    "bbox": [
+        341.4001770019531,
+        1704.6209716796875,
+        2037.15380859375,
+        1997.3966064453125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_020/000_plain_text_0.97.png",
+    "text": "Ask what a g\n section is by showing\ng the figure\ncross\nin this\ngeographical\npage. It is like i\n imagining a vertical slice taken out at some\nlocation on\nthe\nEarth. This is\nwhat\nwould be\nfrom a side\n View.\nDiscuss\nthe\nseen\nnotion of\u2018sea level'\nfor\nmeasuring\n heights and depths in\ngeography."
+}

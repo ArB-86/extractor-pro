@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.7887052297592163,
+    "bbox": [
+        296.7220458984375,
+        873.9212036132812,
+        400.09002685546875,
+        924.1192626953125
+    ],
+    "image_path": "cache_output/fegp101/layout/page_017/007_plain_text_0.79.png",
+    "text": "Ans."
+}

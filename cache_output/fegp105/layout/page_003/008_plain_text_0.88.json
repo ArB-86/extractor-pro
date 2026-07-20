@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.879435658454895,
+    "bbox": [
+        363.3680114746094,
+        1259.5645751953125,
+        2083.872314453125,
+        1479.8499755859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_003/008_plain_text_0.88.png",
+    "text": "Which jump sizes\nSWill\nget Jumpy\n to land\non\n24?\nIfhe chooses\n4: Jumpy\nlands on\n14\u21928\n8\u2192\n12\n2\u2192\n16 \u2192\n20\n\u2193\n24 \u2192\n28\n\u2192\nOther\nsuccessful\njump\nsizes are 2, 3, 6, 8\nand 12."
+}

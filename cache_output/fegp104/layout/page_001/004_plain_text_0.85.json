@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8537406325340271,
+    "bbox": [
+        420.75018310546875,
+        2190.18017578125,
+        1900.37939453125,
+        2259.052734375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_001/004_plain_text_0.85.png",
+    "text": "Navya and Naresh are\ndiscussing their favourite\ngames."
+}

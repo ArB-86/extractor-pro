@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.7608115673065186,
+    "bbox": [
+        296.70184326171875,
+        297.6289978027344,
+        2186.934326171875,
+        425.7619323730469
+    ],
+    "image_path": "cache_output/fegp109/layout/page_040/003_plain_text_0.76.png",
+    "text": "Q8. How many lines of symmetry do the shapes in the first shape sequence in Chapter 1,\nTable 3, the Regular Polygons, have? What number sequence do you get?"
+}

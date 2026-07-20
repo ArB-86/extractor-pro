@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8808580636978149,
+    "bbox": [
+        299.4830017089844,
+        985.0994873046875,
+        1631.00146484375,
+        1041.83935546875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_027/005_plain_text_0.88.png",
+    "text": "Ans.\n01/02/2001,\n02/02/2002,\nThink of some more!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9161015152931213,
+    "bbox": [
+        289.45111083984375,
+        1264.0135498046875,
+        2084.210693359375,
+        1405.890869140625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_012/002_plain_text_0.92.png",
+    "text": "You must move 6 steps backward, i.e., you must move -6. Hence,\nWe write 9 + (-6) = 3."
+}

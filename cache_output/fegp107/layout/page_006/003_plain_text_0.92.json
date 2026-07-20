@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9205338954925537,
+    "bbox": [
+        419.8465576171875,
+        534.8843383789062,
+        2206.48974609375,
+        609.1566772460938
+    ],
+    "image_path": "cache_output/fegp107/layout/page_006/003_plain_text_0.92.png",
+    "text": "Take a strip of paper. We consider this paper strip to be one unit long."
+}

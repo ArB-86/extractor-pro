@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6767553687095642,
+    "bbox": [
+        297.249267578125,
+        2906.461181640625,
+        2186.856201171875,
+        3030.3388671875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_028/004_plain_text_0.68.png",
+    "text": "Q.3. The floor of a room is 5 m long and 4 m wide. A square carpet whose sides are 3 m\nin length is laid on the floor. Find the area that is not carpeted."
+}

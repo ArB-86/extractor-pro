@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.8937281370162964,
+    "bbox": [
+        297.3684387207031,
+        1325.6461181640625,
+        2185.92626953125,
+        1448.999755859375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_036/004_plain_text_0.89.png",
+    "text": "Q.1. The following pictograph shows the number of books borrowed by students, in a\nweek, from the library of Middle School, Ginnori\n\u4e00"
+}

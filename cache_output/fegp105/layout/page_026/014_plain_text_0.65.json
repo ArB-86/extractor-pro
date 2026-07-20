@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.6534026265144348,
+    "bbox": [
+        297.48260498046875,
+        1149.0531005859375,
+        526.391357421875,
+        1205.8670654296875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_026/014_plain_text_0.65.png",
+    "text": "No."
+}

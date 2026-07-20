@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.6017336249351501,
+    "bbox": [
+        383.7995910644531,
+        2383.522705078125,
+        2087.284423828125,
+        2902.4853515625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_023/007_plain_text_0.60.png",
+    "text": "a. Use the colour tiles\ngiven at the end of the\nbook to complete the following figure so that it has exactly 2 lines\nof symmetry.\nb. Use 16 such tiles to make figures that have exactly:\n1 line of symmetry\n2 lines of symmetry\nc. Use these tiles in making creative symmetric designs."
+}

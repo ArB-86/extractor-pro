@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7845774292945862,
+    "bbox": [
+        375.86517333984375,
+        639.3350830078125,
+        1121.689208984375,
+        704.7850341796875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_013/006_plain_text_0.78.png",
+    "text": "2.\nAlways, S\nSometimes, Never?"
+}

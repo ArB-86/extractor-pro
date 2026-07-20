@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9624136090278625,
+    "bbox": [
+        378.2373352050781,
+        1236.0833740234375,
+        2089.80908203125,
+        1475.854248046875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/000_plain_text_0.96.png",
+    "text": "7.\nUsing\nthe\nnumbers\n2, 3\nand 5,\nand\nthe\nc+,\nand\n\u2018\uff0c\noperators\nand\nbrackets,\nas\nnecessary,\ngenerate\nexpressions\nto\ngive\nas\nmany\ndifferent values as possible. For\nexample, 2 -3 + 5 = 4 and 3 - (5 - 2)\n\u4e8c\n0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 47,
+    "label": "plain_text",
+    "confidence": 0.8779004216194153,
+    "bbox": [
+        364.3160705566406,
+        1127.7742919921875,
+        1529.7625732421875,
+        1324.0205078125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_047/003_plain_text_0.88.png",
+    "text": "15 -5\ncan\nbe expressed as 5 + ? = 15 . So, ? = 10\n100 - 10 can\nbe expressed as\n10 + ? = 100. So, ? = 90\n74 - 34 can\nbe expressed as 34 + ? = 74. So, ? = 40"
+}

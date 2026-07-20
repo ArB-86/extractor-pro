@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8425623178482056,
+    "bbox": [
+        398.9105224609375,
+        1255.1478271484375,
+        2189.353515625,
+        1456.73193359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_032/002_plain_text_0.84.png",
+    "text": "4. In each of the sets of expressions below, identify those that have the\nvalue.\nDo\nnot\nevaluate\nthem,\nbut\nsame\nrather\nuse\nyour\nunderstanding of terms."
+}

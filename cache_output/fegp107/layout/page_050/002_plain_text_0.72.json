@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.7157200574874878,
+    "bbox": [
+        309.9091796875,
+        1545.09716796875,
+        1536.352783203125,
+        1790.8702392578125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_050/002_plain_text_0.72.png",
+    "text": "1-5\nAns. a.\nKm\nL\nb. Namit takes\nthan Jeevika, by\nless\ntime\nminutes\n12"
+}

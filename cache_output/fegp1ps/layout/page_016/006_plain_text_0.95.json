@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9495851993560791,
+    "bbox": [
+        420.96661376953125,
+        2438.02294921875,
+        2081.255126953125,
+        2565.93310546875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_016/006_plain_text_0.95.png",
+    "text": "It is hoped that you and your students will have a great and fruitful\ntime using this book!"
+}

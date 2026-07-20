@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9338179230690002,
+    "bbox": [
+        360.6855163574219,
+        746.0985107421875,
+        2072.142333984375,
+        928.33984375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_020/001_plain_text_0.93.png",
+    "text": "2.\nMelvin reads a two-page story e\nevery day e\nexcept on Tuesdays and\nSaturdays. How many\n6 would he complete reading\nstories\nin 8\nWeeks? Which of the expressions below describes this scenario?"
+}

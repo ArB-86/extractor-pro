@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "title",
+    "confidence": 0.6534008383750916,
+    "bbox": [
+        365.69677734375,
+        2275.697998046875,
+        2012.9095458984375,
+        2403.844482421875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_033/008_title_0.65.png",
+    "text": "Q. Is there a shorthand way of writing it down? In all the sentences, only the\nposition of X, Y and the length XY changes. So we could write this as:"
+}

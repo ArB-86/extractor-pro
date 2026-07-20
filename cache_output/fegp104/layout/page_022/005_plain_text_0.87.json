@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8701689839363098,
+    "bbox": [
+        494.7497253417969,
+        984.4380493164062,
+        1976.3648681640625,
+        1248.6824951171875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_022/005_plain_text_0.87.png",
+    "text": "a.\nThe\nminimum number of t\ntimes.\nb.\nThe\nnumber of times.\nmaximum\nFind\nnumbers\nthat appeared\nC.\nan\nequal\nnumber\nof t\ntimes."
+}

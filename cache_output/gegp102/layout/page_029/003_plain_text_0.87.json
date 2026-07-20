@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8671005964279175,
+    "bbox": [
+        414.4618225097656,
+        1593.9150390625,
+        1649.547607421875,
+        1932.0428466796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/003_plain_text_0.87.png",
+    "text": "(b)\n(i) Expression = 4 \u00d7 40 + 3 \u00d7 20\nTerms: 4 \u00d7 40, 3 \u00d7 20\nValue: 3220\n(ii) Expression = 2 \u00d7 (3 \u00d7 40).\nTerms: 2 x (3 \u00d7 40)\nValue:?240"
+}

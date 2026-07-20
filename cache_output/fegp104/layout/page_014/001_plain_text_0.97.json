@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9742564558982849,
+    "bbox": [
+        292.4744567871094,
+        551.7332153320312,
+        2085.734130859375,
+        918.0110473632812
+    ],
+    "image_path": "cache_output/fegp104/layout/page_014/001_plain_text_0.97.png",
+    "text": "Let us look at an example ofvehicular traffic at a busyroad crossing\nin Delhi, which was studied by t\nthe traffic police on a particular d\nday.\nThe number of vehicles passing\ng through the crossing\neach hour from\n6\nnoon is shown in the bar\ne unit of length\na.m. to 12:00\ngraph. One\nstands for 1o0 vehicles."
+}

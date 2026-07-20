@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9018709063529968,
+    "bbox": [
+        443.6215515136719,
+        484.6819763183594,
+        1205.976806640625,
+        551.1775512695312
+    ],
+    "image_path": "cache_output/gegp101/layout/page_028/003_plain_text_0.90.png",
+    "text": "Ans: 997\ncan also be made as\nS\u4e00"
+}

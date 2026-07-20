@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9476057887077332,
+    "bbox": [
+        421.7608337402344,
+        772.7014770507812,
+        2209.462646484375,
+        913.723388671875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_004/003_plain_text_0.95.png",
+    "text": "So, the jump sizes of1 or 2 will land on both 14 and 36. Notice that\n1 and 2 are the common factors of 14 and 36."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9568668007850647,
+    "bbox": [
+        291.7992248535156,
+        1298.2857666015625,
+        1077.2230224609375,
+        1663.455078125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_007/003_plain_text_0.96.png",
+    "text": "Step\n3: You\nWill\nfind that t\nthe\nnext\nuncrossed\nnumber is 3.\nCircle 3 and then cross out all\nthe\nmultiples of 3 after\nthat,\ni.e., 6, 9, 12, and so on."
+}

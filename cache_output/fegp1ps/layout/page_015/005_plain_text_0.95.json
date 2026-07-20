@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9528073072433472,
+    "bbox": [
+        422.5680236816406,
+        1972.189453125,
+        2081.478271484375,
+        2098.989013671875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/005_plain_text_0.95.png",
+    "text": "Along\nWith\nit,\nan\nenvironment\nthat\naccepts\nmistakes\nand\nacknowledges their importance in learning needs to be nurtured."
+}

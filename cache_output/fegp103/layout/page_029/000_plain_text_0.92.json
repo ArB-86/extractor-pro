@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9223316311836243,
+    "bbox": [
+        528.9035034179688,
+        303.8222961425781,
+        2195.6982421875,
+        1437.9722900390625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_029/000_plain_text_0.92.png",
+    "text": "5 digit + 5 digit = 6 digit sum\n60,000 + 40,000 = 1,00,000\n5 digit + 5 digit = 18,500\nNot possible as smallest 5-digit number is 10,000.\nIf both the numbers are 10,000 then the sum is 20,000, which is more than\n18,500.\n5 digit - 5 digit < 56,503\n80,000 - 50,000 < 56,503\n< 56,503\n5 digit - 3 digit = 4 digit difference\n10,000 - 999 = 9001\n5 digit - 4 digit = 4 digit difference\n12,000 - 2,500 = 9,500\n5 digit - 5 digit = 3 digit difference\n50,999 - 50,000 = 999\n5 digit - 5 digit = 91,500\nNot possible as the difference of the greatest and the smallest 5 digit numbers,\nthe maximum difference, can be 99,999 - 10,000 = 89,999"
+}

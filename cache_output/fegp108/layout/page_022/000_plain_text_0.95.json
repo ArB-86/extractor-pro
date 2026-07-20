@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.949838399887085,
+    "bbox": [
+        522.7279052734375,
+        2380.1201171875,
+        2210.96728515625,
+        2520.67529296875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_022/000_plain_text_0.95.png",
+    "text": "This is easy\nknow\nthat this\ns line is j\nas we\n perpendicular to the\nbase. The point B should be somewhere on this line l."
+}

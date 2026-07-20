@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8282527327537537,
+    "bbox": [
+        443.631103515625,
+        795.94677734375,
+        1991.5164794921875,
+        915.6940307617188
+    ],
+    "image_path": "tmp_run/layout/page_013/005_plain_text_0.83.png",
+    "text": "Q1. Can you think of other examples where mathematics helps us in our\neveryday lives?"
+}

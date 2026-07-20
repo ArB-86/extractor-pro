@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "title",
+    "confidence": 0.9325059652328491,
+    "bbox": [
+        423.3163146972656,
+        2002.46923828125,
+        1237.95166015625,
+        2074.3544921875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_019/003_title_0.93.png",
+    "text": "Geographical\ncross sections"
+}

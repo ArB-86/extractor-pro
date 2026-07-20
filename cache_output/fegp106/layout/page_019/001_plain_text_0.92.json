@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9159966111183167,
+    "bbox": [
+        293.1308288574219,
+        394.74609375,
+        2085.359130859375,
+        543.889892578125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_019/001_plain_text_0.92.png",
+    "text": "Now, find out the missing\ndimensions and area of sharan's home.\nBelow is the plan:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9380336403846741,
+    "bbox": [
+        380.3824157714844,
+        289.43829345703125,
+        1031.079833984375,
+        359.15789794921875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/008_title_0.94.png",
+    "text": "Terms in Expressions"
+}

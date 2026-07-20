@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9569156765937805,
+    "bbox": [
+        411.0764465332031,
+        578.0652465820312,
+        2060.35009765625,
+        817.3169555664062
+    ],
+    "image_path": "cache_output/gegp102/layout/page_022/000_plain_text_0.96.png",
+    "text": "Using\nthree 3's along\nWith the four\n(addition, subtraction,\noperations\nmultiplication,\ndivision)\nand c\nand\nbrackets\nas\nneeded\nwe\ncan\ncreate\nexpressions.\nFor\nexample,(3\nseveral\n3)/3\n2, 3\n3-3\n3, 3\n+\n\u4e8c\n+\n\u4e8c\n3\n+\n3\n3=\n12,\nand\nSO C\non."
+}

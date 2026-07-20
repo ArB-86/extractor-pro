@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "title",
+    "confidence": 0.8646312952041626,
+    "bbox": [
+        1056.48583984375,
+        1241.9927978515625,
+        1569.672607421875,
+        1324.93408203125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_042/002_title_0.86.png",
+    "text": "R\nY"
+}

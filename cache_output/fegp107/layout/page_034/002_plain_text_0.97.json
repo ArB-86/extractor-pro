@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9704263806343079,
+    "bbox": [
+        418.79876708984375,
+        2583.44140625,
+        2211.2724609375,
+        2828.287353515625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_034/002_plain_text_0.97.png",
+    "text": "Now\n1-2\n1-4\n1-4\n=\n1.To\nthe\nfractional\nunits\nto\nbe\ndifferent,\n+\n+\nget t\nwe\n1's\n1-4\nWill\nhave\nto\nincrease\nof\nthe\nand\ndecrease\nthe\none\nother\nto\nonly\n1-4\ncompensate\nfor\nthat\nincrease. \nNow\nthe\nway\nto\nincrease\nto"
+}

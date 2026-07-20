@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5613564848899841,
+    "bbox": [
+        296.16448974609375,
+        1022.7667846679688,
+        988.9376831054688,
+        1084.168212890625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_037/010_plain_text_0.56.png",
+    "text": "Answer the following questions:"
+}

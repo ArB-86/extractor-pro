@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.6034491658210754,
+    "bbox": [
+        405.68243408203125,
+        1037.3382568359375,
+        2194.41015625,
+        1514.62646484375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_050/003_plain_text_0.60.png",
+    "text": "7\n1\na. Jaya's school is\nkm from her home. She takes an auto for\n\u4e00\nkm from her home\n10\n2\ndaily, and then walks the remaining distance to reach her school. How much does\nshe walk daily to reach the school?\n10\nb. Jeevika takes\nminutes to take a complete round of the park and her friend\n3\n13\nNamit takes\nminutes to do the same. Who takes less time and by how much?\n4"
+}

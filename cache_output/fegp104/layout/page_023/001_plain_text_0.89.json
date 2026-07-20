@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8858221173286438,
+    "bbox": [
+        532.6259155273438,
+        944.2557983398438,
+        2210.2783203125,
+        1088.3984375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_023/001_plain_text_0.89.png",
+    "text": "6.\nThe following pictograph shows\nthe number of tractors in five\nSt\ndifferent villages."
+}

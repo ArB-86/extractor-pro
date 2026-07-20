@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9736462235450745,
+    "bbox": [
+        293.8040771484375,
+        947.1856689453125,
+        2094.91650390625,
+        1243.5665283203125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_021/001_plain_text_0.97.png",
+    "text": "The circle is\nfascinating\nsaf\nfigure. What \nhappens\nwhen\nyou rotate\na\ncircle clockwise\nabout its centre? It coincides with itself. It does not\nmatter what angle\nyou rotate it by! So, for a circle, every &\nangle is\nan\nangle of s\nsymmetry."
+}

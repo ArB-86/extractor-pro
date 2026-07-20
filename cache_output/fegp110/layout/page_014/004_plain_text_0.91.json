@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9086326360702515,
+    "bbox": [
+        361.7691345214844,
+        1245.1307373046875,
+        2085.79052734375,
+        1315.7720947265625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_014/004_plain_text_0.91.png",
+    "text": "If we start at 2 and wish to go to -3, what is the movement needed?"
+}

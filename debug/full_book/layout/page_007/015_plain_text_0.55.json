@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5506021976470947,
+    "bbox": [
+        377.21099853515625,
+        2097.819580078125,
+        1223.1510009765625,
+        2157.5712890625
+    ],
+    "image_path": "debug/full_book/layout/page_007/015_plain_text_0.55.png",
+    "text": "Write the expression\nfor\nthe same."
+}

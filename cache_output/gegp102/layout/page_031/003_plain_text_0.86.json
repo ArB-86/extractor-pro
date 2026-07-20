@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8563607931137085,
+    "bbox": [
+        396.8171081542969,
+        1936.85400390625,
+        2186.03125,
+        2066.03515625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_031/003_plain_text_0.86.png",
+    "text": "2. Remove\nthe brackets and write the expression having\n the same\nvalue."
+}

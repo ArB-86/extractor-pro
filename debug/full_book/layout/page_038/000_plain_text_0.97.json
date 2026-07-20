@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.9684739112854004,
+    "bbox": [
+        372.48681640625,
+        848.45654296875,
+        2189.50634765625,
+        1190.1697998046875
+    ],
+    "image_path": "debug/full_book/layout/page_038/000_plain_text_0.97.png",
+    "text": "13.A bar-tailed\ngodwit\nholds\nthe\nfor\nthe\ne longest\nrecord\nrecorded\nnon-\nstop\nflight. It\ntravelled 1\n13,560\n0km\nfrom Alaska to Australia \n1 Without\nstopping. Its\njourney\nstarted\non\nn 13\nOctober\n2022\nand\ncontinued\nfor\nabout\n11\ndays. Find out\nthe\napproximate\ndistance\nit\ncovered\nevery\nday. Find\ndl out the approximate\ndistance\nit\nt covered\nevery\nhour."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9550997018814087,
+    "bbox": [
+        397.6931457519531,
+        1699.5538330078125,
+        2084.36865234375,
+        1842.46435546875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_027/000_plain_text_0.96.png",
+    "text": "Are you able to spot the point A? Check the figure in your\nnotebook. What do you observe?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 56,
+    "label": "plain_text",
+    "confidence": 0.9621618390083313,
+    "bbox": [
+        411.53802490234375,
+        2071.179443359375,
+        1711.422607421875,
+        2254.290283203125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_056/000_plain_text_0.96.png",
+    "text": "a. (positive) - (negative)\nb. (positive) +\n(negative)\nd. (negative) - (negative)\nc. (negative) + (\n(negative)\ne. (negative) - (positive)\nf. (negative) + (\n(positive)"
+}

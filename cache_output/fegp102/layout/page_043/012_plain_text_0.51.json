@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.5094149112701416,
+    "bbox": [
+        377.111328125,
+        2090.82421875,
+        1657.603515625,
+        2249.019775390625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_043/012_plain_text_0.51.png",
+    "text": "TA, TB, TN and NB\n\u4e00\nNo, T is the starting point of TB, TN and TA but not of NB."
+}

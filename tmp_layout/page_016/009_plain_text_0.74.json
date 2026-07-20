@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.7439983487129211,
+    "bbox": [
+        296.7021789550781,
+        2029.0787353515625,
+        1261.058349609375,
+        2189.831298828125
+    ],
+    "image_path": "tmp_layout/page_016/009_plain_text_0.74.png",
+    "text": "Ans.\n5. 1, 8, 27, 64,\n...We get cube numbers.\nFor\npicture, refer\nTable 2, page 4"
+}

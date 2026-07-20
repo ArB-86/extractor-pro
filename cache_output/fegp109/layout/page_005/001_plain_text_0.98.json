@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9768433570861816,
+    "bbox": [
+        295.6881103515625,
+        1740.490478515625,
+        1530.40771484375,
+        2105.39111328125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_005/001_plain_text_0.98.png",
+    "text": "First,\nthe\nrectangle\nand\nthis\nsee\nanswer\nThen, t\nquestion.\ntake\nrectangular\npiece\nof\na\nand\ncheck if\nthe\ntwo\noverlap\nby\npaper\nparts\nfolding\nit\nalong\nits\ndiagonal.\nWhat\ndo\nyou\nobserve?"
+}

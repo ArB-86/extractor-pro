@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.724947452545166,
+    "bbox": [
+        319.9360656738281,
+        2697.11572265625,
+        2063.43896484375,
+        2763.348876953125
+    ],
+    "image_path": "tmp_debug_layout/010_plain_text_0.72.png",
+    "text": "Example 7:\nThe sum of first three common multiples of 3, 4 and 9 is"
+}

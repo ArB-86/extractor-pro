@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.6358682513237,
+    "bbox": [
+        460.43731689453125,
+        823.0632934570312,
+        1971.9871826171875,
+        881.5231323242188
+    ],
+    "image_path": "cache_output/gegp102/layout/page_022/005_plain_text_0.64.png",
+    "text": "Usingf\nfour 4's, create expressions to get all values f\nfrom 1 to 2c"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7226162552833557,
+    "bbox": [
+        618.385986328125,
+        2533.337158203125,
+        1998.5306396484375,
+        2603.946044921875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_020/004_plain_text_0.72.png",
+    "text": "There are at least two ways of finding the point D\n\u4e00"
+}

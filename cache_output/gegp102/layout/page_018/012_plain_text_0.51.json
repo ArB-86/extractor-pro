@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.5052539706230164,
+    "bbox": [
+        380.1147155761719,
+        369.25213623046875,
+        1100.32958984375,
+        425.5272216796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_018/012_plain_text_0.51.png",
+    "text": "AS\n63\n18\n63\ntimes 18,\n\u00d7\nmeans"
+}

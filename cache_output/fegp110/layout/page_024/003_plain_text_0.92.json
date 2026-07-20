@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9248873591423035,
+    "bbox": [
+        404.24554443359375,
+        644.962646484375,
+        2085.564697265625,
+        787.0069580078125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_024/003_plain_text_0.92.png",
+    "text": "2.\nPlay\nthe\nWith the\ngrids below. What answer\ndid\nsame\ngame\nyou get?"
+}

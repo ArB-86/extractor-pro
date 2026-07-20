@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9748104810714722,
+    "bbox": [
+        420.336181640625,
+        1070.7774658203125,
+        1613.4080810546875,
+        1287.7430419921875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_002/002_plain_text_0.97.png",
+    "text": "Mark any two p\npoints A and B\non a sheet of\nTry\nto\nA\nto\nB\nby\npaper.\nconnect\nvarious\n(Fig. 2.1).\nroutes"
+}

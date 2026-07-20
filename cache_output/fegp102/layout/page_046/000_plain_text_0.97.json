@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "plain_text",
+    "confidence": 0.9676963090896606,
+    "bbox": [
+        297.2076416015625,
+        299.2863464355469,
+        2188.821533203125,
+        529.4902954101562
+    ],
+    "image_path": "cache_output/fegp102/layout/page_046/000_plain_text_0.97.png",
+    "text": "Q.6. Now mark any four points on your paper so that no three of them are on one line. Label them\nA, B, C, D. Draw all possible lines going through pairs of these points. How many lines do\nyou get? Name them. How many angles can you name using A, B, C, D? Write them all\ndown, and mark each of them with a curve as in Fig. 2.9."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5322369337081909,
+    "bbox": [
+        384.5038757324219,
+        360.3660583496094,
+        2122.0029296875,
+        493.4659729003906
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_010/000_plain_text_0.53.png",
+    "text": "17. Dinesh\nKumar,\nProfessor\nand\nHead,1\nPlanning\nand\nMonitoring\nDivision, NCERT, New Delhi"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "title",
+    "confidence": 0.7640546560287476,
+    "bbox": [
+        397.02557373046875,
+        397.0983581542969,
+        666.1249389648438,
+        532.1876831054688
+    ],
+    "image_path": "cache_output/fegp108/layout/page_027/006_title_0.76.png",
+    "text": "STEP 3\nMethod 1"
+}

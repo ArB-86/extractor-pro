@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8955757021903992,
+    "bbox": [
+        426.0251159667969,
+        565.85888671875,
+        2038.1329345703125,
+        671.8448486328125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_012/002_plain_text_0.90.png",
+    "text": "Note to the Teacher: Ask students\n questions like \u2014\u201cwhat could the numbers\nbe if the sum had to be less than 8,50,0oo."
+}

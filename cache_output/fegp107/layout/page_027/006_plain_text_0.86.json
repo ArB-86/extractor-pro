@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8599709272384644,
+    "bbox": [
+        1475.10546875,
+        692.7354125976562,
+        2058.946044921875,
+        1017.593017578125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_027/006_plain_text_0.86.png",
+    "text": "While adding\nfractions\nwith the same f\nfractional\nunit, just add the number of\nfractional units from each\nfraction."
+}

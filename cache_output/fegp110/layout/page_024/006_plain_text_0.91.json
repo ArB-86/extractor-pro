@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9071404337882996,
+    "bbox": [
+        403.1403503417969,
+        1890.296875,
+        1612.840087890625,
+        1951.7625732421875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_024/006_plain_text_0.91.png",
+    "text": "2.\nGive three numbers such that their\nsum is -8."
+}

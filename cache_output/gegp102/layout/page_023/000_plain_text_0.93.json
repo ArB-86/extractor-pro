@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.930540144443512,
+    "bbox": [
+        336.2865295410156,
+        2145.284423828125,
+        2170.83544921875,
+        2277.738037109375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_023/000_plain_text_0.93.png",
+    "text": "2. Arrange the following expressions in ascending (increasing) order of\ntheir values."
+}

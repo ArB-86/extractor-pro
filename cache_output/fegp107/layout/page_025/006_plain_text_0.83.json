@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8271001577377319,
+    "bbox": [
+        289.4565124511719,
+        2075.73828125,
+        1063.001708984375,
+        2312.41943359375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_025/006_plain_text_0.83.png",
+    "text": "The total chikki\nL\ni eaten\nis\n1-2\n(by\nMeena)\n1-4\n(by\nand\nher\nbrother)"
+}

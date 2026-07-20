@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.891106367111206,
+    "bbox": [
+        448.8687744140625,
+        796.195068359375,
+        2085.778564453125,
+        930.1605834960938
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/002_plain_text_0.89.png",
+    "text": "2. 1\nManjul\nBhargava,\nProfessor\nPrinceton\nUniversity\n( Co-Chairperson"
+}

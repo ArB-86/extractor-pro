@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8300599455833435,
+    "bbox": [
+        377.6332702636719,
+        2448.03369140625,
+        2070.08203125,
+        2508.38427734375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/007_plain_text_0.83.png",
+    "text": "Let us see an expression that can be evaluated in more than one way."
+}

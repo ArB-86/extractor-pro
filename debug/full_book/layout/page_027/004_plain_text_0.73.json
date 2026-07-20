@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.7266548275947571,
+    "bbox": [
+        588.677001953125,
+        2969.381591796875,
+        2185.1162109375,
+        3122.3056640625
+    ],
+    "image_path": "debug/full_book/layout/page_027/004_plain_text_0.73.png",
+    "text": "102\n is the\n smallest 3-digit\nnumber t\nthat can\nbe made\nusing\n30\nbutton presses."
+}

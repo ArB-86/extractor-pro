@@ -1,0 +1,110 @@
+$ git log --graph --decorate --oneline -100
+
+RETURN CODE: 0
+
+STDOUT
+================================================================================
+* 6745e26 (HEAD -> refactor/tournament-pipeline, origin/refactor/tournament-pipeline) wip: dataset pipeline recovery
+* fd10282 fix: restore evaluation runner
+* fe8a726 feat: benchmark evaluation pipeline
+* cef401a feat: add regression tracking
+* 5c1a549 refactor: production evaluation runner
+* fe13cf6 fix: restore production pipeline after refactor
+* c97e3d8 feat: improve numbering and text normalization
+* d45b625 feat: refine extraction quality
+* e8ff2a9 feat: preserve mathematical expressions
+* 9f1c45d feat: harden extraction pipeline
+* 2f6907b feat: harden extraction pipeline
+* a12e79a feat: improve extraction consistency
+* 4dbeb84 feat: support subquestions and header filtering
+* 2c24b08 feat: improve OCR continuation heuristics
+* 576a03d feat: improve OCR continuation heuristics
+* 8220625 feat: improve OCR continuation heuristics
+* 842213f feat: improve OCR parsing robustness
+* 5d3dd0a feat: add confidence scoring
+* 08d0caf feat: normalize OCR artifacts
+* 7979f13 feat: improve continuation parsing and validation
+* 635f8d8 feat: improve MCQ option aggregation
+* 4f28331 feat: improve multiline assembly and context tracking
+* e6d36c9 feat: improve boundary detection robustness
+* 94becbf feat: improve question numbering detection
+* c266222 feat: strengthen question validation
+* 4432f13 feat: improve context propagation
+* c712a9f feat: improve MCQ classification
+* 9e0a805 feat: improve multiline question assembly
+* 17ed07e feat: improve question boundary detection
+* c935100 refactor: production batch execution pipeline
+* 1dcbbb5 refactor: centralize production execution
+* 5fd95c6 refactor: unify extraction and evaluation pipeline
+* c282b8e refactor: introduce production pipeline
+* b364a31 refactor: introduce canonical ExtractionResult
+* 9a64975 refactor: production dataset pipeline
+* 2162f67 refactor: unify production dataset pipeline
+* 0611676 feat: add QA layer for QuestionExtractorV2
+* b3e5771 feat: add QA layer for QuestionExtractorV2
+* 9905555 feat: add extraction monitoring
+* b3f062f feat: add context and confidence validation
+* 6b527e5 feat: production quality inspection for QuestionExtractorV2
+* 8caab43 refactor: complete QuestionExtractorV2 pipeline
+* d789d00 refactor: make QuestionExtractorV2 production extractor
+* dc3092f refactor: migrate pipeline to QuestionExtractorV2
+* 2f8d8ce refactor: unify evaluation architecture
+* 392e52c feat: gold dataset infrastructure
+* cc8055d feat: evaluation reports and statistics
+* be800e4 feat: production evaluation engine part 2
+* 4bebbc2 feat: production evaluation engine part 1
+* 4daab79 feat: production evaluation engine part 1
+* 1f7f59a (origin/feature/gold-benchmark, feature/gold-benchmark) feat: ...
+* 89e081f feat: implement evaluation engine
+* 75d6f2d feat: initialize production evaluation framework
+* 932f757 feat: complete question extraction engine v2
+* 974b32d feat: implement v2 question validator
+* 26c34fb feat: implement v2 question classifier
+* 239cbf5 feat: implement question assembler
+* 0614245 feat: implement boundary detector
+* 23200d4 feat: implement numbering detector
+* a8e4d6b feat: implement parser context manager
+* 57728c9 feat: implement parser state
+* 0c34a42 feat: initialize question extraction v2
+* 6bb86a4 milestone: project builds successfully on Python 3.11 HPC
+* 174c865 fix: restore question pipeline
+* cae479e feat: implement benchmark evaluator
+* 8dfcd71 feat: implement benchmark alignment engine
+* e410314 feat: implement benchmark metrics
+* 854a932 feat: initialize benchmark framework
+* 9acf23e (origin/feature/canonical-dataset, feature/canonical-dataset) feat: integrate production question engine
+* f1e07a3 feat: implement question enricher
+* 5998800 feat: implement question filters
+* 0222bb1 feat: implement hierarchy builder
+* a319a3f feat: implement extraction context
+* c531ede feat: implement NCERT rule engine
+* 20ee8f5 feat: initialize rule engine
+* 2583b04 feat: implement production question extractor v1
+* 65f45ef feat: implement question segmenter
+* 5789e07 feat: add production question patterns
+* 08c4bd0 feat: add question engine models
+* 0e33d4d feat: initialize production question engine
+* 7cb52ae feat: add HPC scheduler
+* e8f4b4f feat: add parallel batch pipeline
+* 795c8bc feat: add master pipeline
+* f0befce feat: add master dataset manager
+* 79a6a39 feat: add storage layer and search index
+* 47ec8a1 feat: add dataset registry manifest statistics
+* 5dd47ac feat: add metadata models
+* c2439ae feat: initialize canonical dataset infrastructure
+* b94ecf5 (origin/feature/question-engine, feature/question-engine) feat: add curriculum CLI
+* 1ad0e1a feat: add curriculum runner
+* b2cdd9c feat: add curriculum version metadata
+* 72da0d0 feat: add curriculum catalog
+* d6f42d2 feat: add curriculum coverage report
+* 9cc743a feat: add curriculum book index
+* 80f1ddc feat: add chapter mapper
+* 112b0b4 feat: add curriculum validation checks
+* 69b6d2e feat: add curriculum statistics
+* 84cbac2 feat: add curriculum mapper
+* 9e9b2a5 feat: add curriculum auditor
+* 819a67a feat: add curriculum inventory and manifest
+
+
+STDERR
+================================================================================

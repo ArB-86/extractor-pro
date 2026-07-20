@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.586453378200531,
+    "bbox": [
+        443.0097351074219,
+        2282.573486328125,
+        2031.0626220703125,
+        2417.29052734375
+    ],
+    "image_path": "debug/full_book/layout/page_034/009_plain_text_0.59.png",
+    "text": "(b) If 250 babies are born every minute across the world, will\na\nmillion babies be born in a day?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9519556164741516,
+    "bbox": [
+        292.6806945800781,
+        924.5296020507812,
+        2083.083740234375,
+        1065.4473876953125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_015/002_plain_text_0.95.png",
+    "text": "How manya\nangles of symmetry\ndoes a square\ne have? How much\nrotation does it require to get the initial square?"
+}

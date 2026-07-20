@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9083027243614197,
+    "bbox": [
+        421.467041015625,
+        581.25634765625,
+        2208.924072265625,
+        725.6309814453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_007/002_plain_text_0.91.png",
+    "text": "A\npictograph represents data through pictures\nof objects. It helps\nanswer questions about data with just a quick glance."
+}

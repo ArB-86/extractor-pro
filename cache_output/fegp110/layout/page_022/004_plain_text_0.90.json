@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8964163661003113,
+    "bbox": [
+        310.7368469238281,
+        1718.35302734375,
+        2061.5029296875,
+        1862.2415771484375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_022/004_plain_text_0.90.png",
+    "text": "There is something special about the numbers in these two\ngrids.\nLet us explore what that is."
+}

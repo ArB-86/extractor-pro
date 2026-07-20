@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.713534951210022,
+    "bbox": [
+        522.11181640625,
+        545.9411010742188,
+        2214.368896484375,
+        1288.859375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_029/004_plain_text_0.71.png",
+    "text": "a. If both numbers are positive, add the numbers and the result is a\npositive number (e.g., 2 + 3 = 5).\nb. If both numbers are negative, add the numbers (without the signs),\nand then place a minus sign to obtain the result (-2 + (-3) = -5).\nc. If one number is positive and the other is negative, subtract the\nsmaller number (without the sign) from the greater number\n(without the sign), and place the sign of the greater number to\nobtain the result (e.g., -5 + 3 = -2).\nd. A number plus its additive inverse is zero (e.g., 2 + (-2) = 0).\ne. A number plus zero gives back the same number (e.g., -2 + 0 = -2)."
+}

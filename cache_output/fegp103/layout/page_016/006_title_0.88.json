@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.8754206299781799,
+    "bbox": [
+        420.5404357910156,
+        1612.06201171875,
+        1092.611572265625,
+        1677.334716796875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_016/006_title_0.88.png",
+    "text": "Estimate the a\nanswer"
+}

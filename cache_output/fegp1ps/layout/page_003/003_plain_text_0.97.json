@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9740545153617859,
+    "bbox": [
+        422.21136474609375,
+        2633.193603515625,
+        2083.115234375,
+        2899.15087890625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_003/003_plain_text_0.97.png",
+    "text": "The\nNational\nCouncil\nof\nEducational\nResearch\nand\nTraining\n(NCERT), in its part, is\ns committed to provide students with\nsuch high-\nquality textbooks. Various\nCurricular\nArea\nGroups, which have\nbeen\nconstituted\nfor\nthis\ncomprising\nnotable\nsubject-experts,\npurpose,"
+}

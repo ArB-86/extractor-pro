@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9787423610687256,
+    "bbox": [
+        356.1358642578125,
+        861.3233032226562,
+        2035.5770263671875,
+        1465.224609375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_006/000_plain_text_0.98.png",
+    "text": "Provide more opportunities to collect and organise data. Ask students\nto guess what is the most popular colour, game, toy, school subject,\netc., amongst the students in their classroom and then collect the\ndata for it. It can be a fun activity in which they also learn about their\neach way having its own advantages and limitations. For all these\ntasks and the tasks under \u2018Figure it Out', discuss the tasks with the\nchildren and let them understand the tasks, and then let them plan\nand present their research processes and conclusions in the class."
+}

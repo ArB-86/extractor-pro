@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9439296126365662,
+    "bbox": [
+        423.1091003417969,
+        2137.702392578125,
+        2216.833740234375,
+        2282.846435546875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_010/006_plain_text_0.94.png",
+    "text": "The corners of both of these angles match and the arms overlap with\neach other, i.e., OA > OX and OB > OY. So, the angles are equal in size."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8832623958587646,
+    "bbox": [
+        501.12713623046875,
+        2637.009521484375,
+        1767.17626953125,
+        2704.4501953125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_003/004_plain_text_0.88.png",
+    "text": "Can\nyou help\n0 Rihan and Sheetal find their\nanswers?"
+}

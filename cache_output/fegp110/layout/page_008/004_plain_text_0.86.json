@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8642129302024841,
+    "bbox": [
+        366.3072204589844,
+        884.3387451171875,
+        1556.86376953125,
+        953.2604370117188
+    ],
+    "image_path": "cache_output/fegp110/layout/page_008/004_plain_text_0.86.png",
+    "text": "If the movement needed is to be found, then,"
+}

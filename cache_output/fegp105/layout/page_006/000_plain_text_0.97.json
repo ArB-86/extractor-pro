@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.970280647277832,
+    "bbox": [
+        419.7920227050781,
+        1881.2537841796875,
+        1379.6971435546875,
+        2243.533447265625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_006/000_plain_text_0.97.png",
+    "text": "In each of\nGuna's\narrangements,\nmultiplying\nthe\nnumber of\nrows\nby\nthe\nnumber\nof\ncolumns\ngives\nthe\nnumber\n12.So, the\nnumber\n: of rows\nor columns are factors of 12."
+}

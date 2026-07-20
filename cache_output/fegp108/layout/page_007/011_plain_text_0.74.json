@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7440802454948425,
+    "bbox": [
+        367.7408752441406,
+        939.0418701171875,
+        1075.360107421875,
+        1005.0615844726562
+    ],
+    "image_path": "cache_output/fegp108/layout/page_007/011_plain_text_0.74.png",
+    "text": "S2)\nAll the\n angles are\n90\u00b0"
+}

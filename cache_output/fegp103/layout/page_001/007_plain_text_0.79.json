@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.786651074886322,
+    "bbox": [
+        296.6416320800781,
+        2762.33740234375,
+        1481.6456298828125,
+        2832.0478515625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_001/007_plain_text_0.79.png",
+    "text": "What do you\nthink these numbers mean?"
+}

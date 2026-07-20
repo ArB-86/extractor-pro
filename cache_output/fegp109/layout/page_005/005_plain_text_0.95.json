@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9508371949195862,
+    "bbox": [
+        292.1048583984375,
+        746.8600463867188,
+        2085.746337890625,
+        892.343505859375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_005/005_plain_text_0.95.png",
+    "text": "    s     \nbelow also have multiple lines of symmetry. Can you find them all?"
+}

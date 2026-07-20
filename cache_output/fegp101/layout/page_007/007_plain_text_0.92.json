@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9178229570388794,
+    "bbox": [
+        292.68194580078125,
+        2038.93505859375,
+        1241.2845458984375,
+        2107.50048828125
+    ],
+    "image_path": "cache_output/fegp101/layout/page_007/007_plain_text_0.92.png",
+    "text": "look at the following pattern:\nLet us"
+}

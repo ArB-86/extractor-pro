@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8825783729553223,
+    "bbox": [
+        423.040771484375,
+        958.86083984375,
+        2083.9423828125,
+        1090.1812744140625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/003_plain_text_0.88.png",
+    "text": "Amartya Kumar\nDutta, Professor, Stat-Math Unit, Indian Statistical\nInstitute (ISI), Kolkata"
+}

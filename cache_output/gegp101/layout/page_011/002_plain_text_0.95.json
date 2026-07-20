@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9479318261146545,
+    "bbox": [
+        287.5825500488281,
+        1395.0457763671875,
+        1997.3829345703125,
+        1577.6138916015625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_011/002_plain_text_0.95.png",
+    "text": "?\nI have\nnumber\nfor which all\nfive\naj\nnearest\nneighbours\nare\n5,00,oo,ooo. What could the number be? How many such numbers\nare there?"
+}

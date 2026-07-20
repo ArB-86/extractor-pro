@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.6926848888397217,
+    "bbox": [
+        289.4277038574219,
+        1643.82177734375,
+        1532.4832763671875,
+        1830.5565185546875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_033/007_plain_text_0.69.png",
+    "text": "Q.3. Is it j\npossible to construct a 4-sided figure :\ne in\nwhich-\nall \nthe angles :\nare equal to 90\u00b0\nbut\nopposite sides\nare not equal?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7359122633934021,
+    "bbox": [
+        429.0501708984375,
+        591.0283813476562,
+        1920.757568359375,
+        649.3145751953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/015_plain_text_0.74.png",
+    "text": "In this case, Mallesh is right. But why did Purna\nget it wrong"
+}

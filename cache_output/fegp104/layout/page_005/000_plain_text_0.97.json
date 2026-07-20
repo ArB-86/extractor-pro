@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9735813736915588,
+    "bbox": [
+        496.6532287597656,
+        1524.160888671875,
+        2213.06982421875,
+        1891.3236083984375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_005/000_plain_text_0.97.png",
+    "text": "5.\nTake a blank piece of paper a\nand paste any\nsmall\nnews item\nfrom\nEach\nstudent\nmay\ndifferent\narticle. Now,\naj\nnewspaper. l\nuse\na\nprepare a table on the piece of paper as\ngiven below. Count the\nnumber of each of the letters 'c', \u2018e', i', \u2018r', and \u2018x' in the words of\nthe news article, and fill in the table."
+}

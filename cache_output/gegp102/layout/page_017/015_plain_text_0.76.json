@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.7557420134544373,
+    "bbox": [
+        364.2445373535156,
+        381.9573669433594,
+        1447.1702880859375,
+        449.0294189453125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_017/015_plain_text_0.76.png",
+    "text": "5 \u00d7 4 + 3 5\u00d7(4 + 3). Can\nyou explain why?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8385022282600403,
+    "bbox": [
+        420.6838073730469,
+        2342.68212890625,
+        2083.1123046875,
+        2472.792724609375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/012_plain_text_0.84.png",
+    "text": "Rakhi\nBannerjee,\nAssociate\nProfessor,\nAzim\nPremji\nUniversity,\nBengaluru"
+}

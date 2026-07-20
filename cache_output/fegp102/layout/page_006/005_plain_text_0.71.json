@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7103154063224792,
+    "bbox": [
+        483.5163879394531,
+        562.7109985351562,
+        2210.52294921875,
+        636.9017333984375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_006/005_plain_text_0.71.png",
+    "text": "Which angle is greater-the angle in Case 1 or the angle in Case 2?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9474181532859802,
+    "bbox": [
+        420.82952880859375,
+        796.7543334960938,
+        2207.708984375,
+        938.8278198242188
+    ],
+    "image_path": "cache_output/fegp110/layout/page_019/002_plain_text_0.95.png",
+    "text": "        n     \nbank account!"
+}

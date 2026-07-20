@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.8189061880111694,
+    "bbox": [
+        295.2365417480469,
+        682.4107666015625,
+        2188.51953125,
+        806.6844482421875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_048/005_plain_text_0.82.png",
+    "text": "Q.4. Get a slanting\ncrease on\nthe\n paper. Now, try to get another crease\nthat  is\nperpendicular to the slanting crease."
+}

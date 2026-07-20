@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.6272721290588379,
+    "bbox": [
+        531.8348388671875,
+        772.0790405273438,
+        2211.35693359375,
+        1210.3780517578125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_025/009_plain_text_0.63.png",
+    "text": "7.\nHere are six integer cards: (+ 1), (+ 7), (+ 18), (-5), (-2), (-9).\nYou can pick any of these and make an expression using addition(s)\nand subtraction(s).\n (-)-( +)-( +) + ( +) x   \ngives a value\n(+ 14). Now, pick cards and make an expression such that its value\nis closer to (- 30)."
+}

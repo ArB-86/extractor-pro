@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6685361266136169,
+    "bbox": [
+        427.99517822265625,
+        564.5986328125,
+        1049.098876953125,
+        627.0970458984375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_010/007_plain_text_0.67.png",
+    "text": "Width of land (w)\n\u4e8c\n10\nm."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9711493253707886,
+    "bbox": [
+        419.9197998046875,
+        494.20733642578125,
+        2213.142333984375,
+        715.0946655273438
+    ],
+    "image_path": "cache_output/fegp102/layout/page_024/000_plain_text_0.97.png",
+    "text": "This is a protractor that\nfind in\nyou f\ngeometry\nbox. It\nyour\nt would\nappear similar to the protractor above except that there are numbers\nWritten on it. Will these make it easier to read the angles?"
+}

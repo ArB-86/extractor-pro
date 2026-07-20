@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9473028182983398,
+    "bbox": [
+        378.2684631347656,
+        701.4551391601562,
+        2086.589111328125,
+        820.265380859375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_017/003_plain_text_0.95.png",
+    "text": "Consider 10 x 98 + 3 x 98. This means taking the sum of 10 times 98\nand 3 times 98."
+}

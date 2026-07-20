@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "plain_text",
+    "confidence": 0.7165291905403137,
+    "bbox": [
+        406.29718017578125,
+        868.6549072265625,
+        1660.4783935546875,
+        1224.1905517578125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_046/006_plain_text_0.72.png",
+    "text": "1. Jay is in the Art Centre. So, he is on Floor +2.\n2. Asin is in the Sports Centre. So, she is on Floor\n3. Binnu is in the\ne Cinema\nCentre. So, she is on Floor\n4. Aman is in the Toys Shop. So, he is on Floor"
+}

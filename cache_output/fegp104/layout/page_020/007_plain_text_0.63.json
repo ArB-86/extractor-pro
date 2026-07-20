@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.63029545545578,
+    "bbox": [
+        363.72113037109375,
+        483.8368225097656,
+        2085.0908203125,
+        823.5584106445312
+    ],
+    "image_path": "cache_output/fegp104/layout/page_020/007_plain_text_0.63.png",
+    "text": "1.\nOn\nWhich i\nitem\ndoes\nImran's f\nfamily\nspend t\nthe\nmost and\nthe\nsecond 1\nmost?\n2.\nIs the\ne cost of electricity a\nabout one-half the cost of education?\n3.\nIs the cost of education less\nthan one-fourth the cost of food?"
+}

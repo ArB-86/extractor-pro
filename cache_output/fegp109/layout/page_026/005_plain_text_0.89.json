@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8948184251785278,
+    "bbox": [
+        297.0497741699219,
+        2318.26416015625,
+        2186.61328125,
+        2442.841064453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_026/005_plain_text_0.89.png",
+    "text": "Q. We saw that the diagonal of a square is also a line of symmetry. Let us take a rectangle\nthat is not a square. Is its diagonal a line of symmetry?"
+}

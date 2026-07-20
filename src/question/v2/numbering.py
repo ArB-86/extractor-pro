@@ -1,64 +1,149 @@
+from __future__ import annotations
+
 import re
-from src.question.v2.state import ParserState
+from dataclasses import dataclass
 
 
-class NumberingDetector:
+class NumberingPatterns:
 
-    # FIX: Require [.)] after digits
-    QUESTION = re.compile(
+    # OCR punctuation:
+    # . ) ] 。 ． ﹒ ․  】 
+    QUESTION_NUMBER = re.compile(
         r"""
         ^
         \s*
         (?:
             Question\s+
-          | Q\.?\s*
+          |
+            Q\.?\s*
         )?
-        (\d+)
-        [.)]
-        \s+
+        ([1-9]\d*)
+        [\.\)\]】】。．﹒․]+
+        \s*
         """,
         re.I | re.X,
     )
 
     SUBQUESTION = re.compile(
-        r"^\s*(\([a-z]\)|\([ivxlcdm]+\)|[a-z][.)]|[ivxlcdm]+[.)])",
-        re.IGNORECASE,
+        r"""
+        ^
+        \s*
+        (
+            \([a-z]\)
+            |
+            \([ivxlcdm]+\)
+            |
+            [a-z][.)]
+            |
+            [ivxlcdm]+[.)]
+        )
+        \s+
+        """,
+        re.I | re.X,
     )
 
     OPTION = re.compile(
-        r"^\s*\([A-D]\)",
-        re.IGNORECASE,
+        r"""
+        ^
+        \s*
+        (?:\([A-D]\)|[A-D][.)])
+        \s+
+        """,
+        re.I | re.X,
     )
 
-    def detect(
+
+@dataclass(slots=True, frozen=True)
+class NumberSignal:
+
+    kind: str | None
+
+    value: str | None = None
+
+
+class NumberingDetector:
+
+    _BAD_PREFIXES = (
+        "table",
+        "figure",
+        "fig.",
+        "fig ",
+        "example",
+        "activity",
+        "note",
+        "box",
+        "chapter",
+        "section",
+        "exercise",
+        "solution",
+        "answer",
+        "answers",
+        "hint",
+        "hints",
+        "summary",
+    )
+
+    _BAD_REMAINDER = (
+        "answer",
+        "answers",
+        "solution",
+        "page",
+        "figure",
+        "table",
+    )
+
+    def read(
         self,
         text: str,
-        state: ParserState,
-    ) -> ParserState:
+    ) -> NumberSignal:
 
-        # FIX: Skip section titles like "1.4 Relations..."
-        if re.match(r"^\d+\.\d+\s+[A-Za-z]", text):
-            return state
+        if not text:
+            return NumberSignal(None)
 
-        # Ignore option lines (they are not new questions or subquestions)
-        if re.match(r"^\s*\([A-D]\)", text, re.I):
-            return state
+        text = " ".join(text.split())
 
-        # Try to match a main question number
-        m = self.QUESTION.match(text)
+        lower = text.lower()
+
+        if lower.startswith(self._BAD_PREFIXES):
+            return NumberSignal(None)
+
+        m = NumberingPatterns.QUESTION_NUMBER.match(text)
+
         if m:
-            state.question_number = m.group(1).strip()
-            state.subquestion = None
-            return state
 
-        # Try to match a subquestion (a), (i), 1., etc.
-        m = self.SUBQUESTION.match(text)
+            number = m.group(1)
+
+            remainder = text[m.end():].strip()
+
+            if not remainder:
+                return NumberSignal(None)
+
+            lower_rem = remainder.lower()
+
+            if lower_rem.startswith(self._BAD_REMAINDER):
+                return NumberSignal(None)
+
+            if re.fullmatch(r"\d+", remainder):
+                return NumberSignal(None)
+
+            if len(remainder) < 3:
+                return NumberSignal(None)
+
+            return NumberSignal(
+                kind="question",
+                value=number,
+            )
+
+        if NumberingPatterns.OPTION.match(text):
+            return NumberSignal("option")
+
+        m = NumberingPatterns.SUBQUESTION.match(text)
+
         if m:
-            state.subquestion = m.group(1)
-            return state
 
-        # Detect if this is an option (A), (B), etc.
-        if self.OPTION.match(text):
-            state.metadata["option"] = True
+            return NumberSignal(
+                "subquestion",
+                m.group(1),
+            )
 
-        return state
+        return NumberSignal(None)

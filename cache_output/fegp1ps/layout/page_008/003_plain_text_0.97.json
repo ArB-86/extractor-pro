@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9720783829689026,
+    "bbox": [
+        419.32000732421875,
+        2303.68017578125,
+        2081.872314453125,
+        2555.54296875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_008/003_plain_text_0.97.png",
+    "text": "We look forward\n to your\nand\nsuggestions regarding\ncomments\nthe\nbook\nand hope\nthat\nsend\ninteresting\nyou will\nexercises, activities\nand\nthat\ndevelop\nduring\ne of teaching\ntasks t\nthe\nand learning, to\nyou\ncourse\nbe included in future editions."
+}

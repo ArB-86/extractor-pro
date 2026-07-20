@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9793432950973511,
+    "bbox": [
+        418.0324401855469,
+        895.7788696289062,
+        2211.004150390625,
+        1268.289794921875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_016/000_plain_text_0.98.png",
+    "text": "A1l\nprime factors of 12\nalso\n prime factors of 42. But the\nare a\nprime\nfactorisation of 12 is not included in t\nthe\nprime\nfactorisation of 42.\nThis is because\n2 occurs\ntwice in the\nprime\nfactorisation of 12 but\nonce in the prime factorisation of 42. This\nonly\nthat 42 is not\n means\ndivisible by 1\n12."
+}

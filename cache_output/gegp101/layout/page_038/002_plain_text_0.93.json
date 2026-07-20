@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.9265202879905701,
+    "bbox": [
+        444.33392333984375,
+        1310.3538818359375,
+        2207.247802734375,
+        1441.9420166015625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_038/002_plain_text_0.93.png",
+    "text": "Distance c0vered per day = 13,560 km \u00f7 11 days = 1232.73 km or 1233 km.\nDistance covered per hour = 1233 \u00f7 24 = 51.36 km 0r 51 km."
+}

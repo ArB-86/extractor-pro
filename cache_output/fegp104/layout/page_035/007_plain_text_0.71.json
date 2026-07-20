@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.7136157751083374,
+    "bbox": [
+        413.10650634765625,
+        2400.778564453125,
+        1833.697509765625,
+        2462.867919921875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_035/007_plain_text_0.71.png",
+    "text": "Thereare\nstudents who wear shoe sizes larger t\nthan 4."
+}

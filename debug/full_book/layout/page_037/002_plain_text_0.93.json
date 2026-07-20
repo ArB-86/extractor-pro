@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.934867262840271,
+    "bbox": [
+        368.0487976074219,
+        857.9964599609375,
+        2188.849853515625,
+        1125.6953125
+    ],
+    "image_path": "debug/full_book/layout/page_037/002_plain_text_0.93.png",
+    "text": "10.You\ngiven some\nnumber\ncards; 4000, 13000, 300, 70000, 150000, 20,\nare\n5. Using\nthe c\ncards\nclose as\nthe\nnumbers\nbelow\nusing\nget as\nyou\ncan\nto\nbe\nonly\nmaking\nany c\noperation\nyou want. Each\ncard\ncan\ne used\nonce\nfor\na\nparticular\nnumber."
+}

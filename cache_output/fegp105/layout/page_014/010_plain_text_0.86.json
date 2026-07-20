@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8580660223960876,
+    "bbox": [
+        419.5376281738281,
+        1816.8619384765625,
+        2211.94775390625,
+        1960.0025634765625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_014/010_plain_text_0.86.png",
+    "text": "Prime factorisation is of fundamental importance in the study of\nnumbers. Let us discuss two ways in which it can be useful."
+}

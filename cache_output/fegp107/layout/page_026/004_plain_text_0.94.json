@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9379841685295105,
+    "bbox": [
+        419.8265380859375,
+        1318.0965576171875,
+        1261.3131103515625,
+        1398.6212158203125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_026/004_plain_text_0.94.png",
+    "text": "15\nwill be represented\nAnd\nas"
+}

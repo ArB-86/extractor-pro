@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.919994056224823,
+    "bbox": [
+        391.5082092285156,
+        2315.544189453125,
+        2084.23486328125,
+        2477.744384765625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_029/002_plain_text_0.92.png",
+    "text": "2-3\n2. Rahim mixes\nlitres of yellow paint with\n3\nlitres of blue paint to\n4\nmake\n green paint. What is the volume of\ngreen paint he has made?"
+}

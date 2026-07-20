@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "title",
+    "confidence": 0.8811704516410828,
+    "bbox": [
+        1021.5840454101562,
+        1616.17626953125,
+        1473.7210693359375,
+        1696.3011474609375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_021/002_title_0.88.png",
+    "text": "IR"
+}

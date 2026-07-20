@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7829362750053406,
+    "bbox": [
+        343.6548156738281,
+        543.7133178710938,
+        1331.9095458984375,
+        610.20703125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_006/012_plain_text_0.78.png",
+    "text": "Should\nWe write -3\n3<-4 0r-4<-3?"
+}

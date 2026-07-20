@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9310067296028137,
+    "bbox": [
+        420.1238708496094,
+        1517.58740234375,
+        1042.120849609375,
+        1587.538330078125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_012/005_title_0.93.png",
+    "text": "Digits a\n and Operations"
+}

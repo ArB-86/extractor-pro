@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9129811525344849,
+    "bbox": [
+        419.81793212890625,
+        2177.744140625,
+        1512.506103515625,
+        2250.97607421875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_012/003_plain_text_0.91.png",
+    "text": "Find the\narea of the following\nfigures."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8877668976783752,
+    "bbox": [
+        436.9018859863281,
+        1672.42822265625,
+        2212.09228515625,
+        2190.298828125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_029/000_plain_text_0.89.png",
+    "text": "We can give meaning to positive and negative numbers by interpreting\nthem as credits and debits. We can also interpret positive numbers\nas distances above a reference point like the ground level. Similarly,\n       n  g\nlevel. When measuring\ntemperatures in degrees Celsius, positive\ntemperatures are those below the freezing point of water."
+}

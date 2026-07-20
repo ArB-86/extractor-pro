@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8284679055213928,
+    "bbox": [
+        366.4913330078125,
+        1923.546142578125,
+        2112.841552734375,
+        2054.09716796875
+    ],
+    "image_path": "debug/full_book/layout/page_031/004_plain_text_0.83.png",
+    "text": "1. What is your\ngeneral observation about this data? Share with the\nclass."
+}

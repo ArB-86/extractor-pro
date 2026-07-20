@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "title",
+    "confidence": 0.5890576839447021,
+    "bbox": [
+        296.6673583984375,
+        299.1399230957031,
+        2188.703857421875,
+        424.4595642089844
+    ],
+    "image_path": "cache_output/fegp109/layout/page_032/003_title_0.59.png",
+    "text": "Q11. Copy the following on squared\npaper. Complete them so that the blue line is a line\nof symmetry. Problem (a) has been done for you."
+}

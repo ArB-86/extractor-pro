@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.671874463558197,
+    "bbox": [
+        426.9332580566406,
+        480.0248107910156,
+        1135.0992431640625,
+        543.739013671875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_010/006_plain_text_0.67.png",
+    "text": "Length of the land (l)\n\u4e8c\n12\nuu"
+}

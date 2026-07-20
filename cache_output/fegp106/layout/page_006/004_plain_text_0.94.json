@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9407970905303955,
+    "bbox": [
+        421.1665344238281,
+        790.2578735351562,
+        1613.617431640625,
+        1005.9669189453125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_006/004_plain_text_0.94.png",
+    "text": "finishing\nline\nfor\nboth\nis\nshown\nby\nrunners\nthe flags\nthe figure which\nin 1\nare in t\nthe center\nof one of the sides\nof the tracks."
+}

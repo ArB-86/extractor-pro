@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7829016447067261,
+    "bbox": [
+        310.7867736816406,
+        1182.3543701171875,
+        2185.54052734375,
+        1313.860107421875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_024/005_plain_text_0.78.png",
+    "text": "Does changing the order in which the terms are added give different\nValues?"
+}

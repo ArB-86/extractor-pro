@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7269371151924133,
+    "bbox": [
+        379.08270263671875,
+        563.18505859375,
+        2092.023681640625,
+        682.9946899414062
+    ],
+    "image_path": "debug/full_book/layout/page_003/011_plain_text_0.73.png",
+    "text": "1.\nAccording to the\n2011\nCensus, t\nthe\npopulationof  the  town\nn of\nChintamani was about 75,0o0. How much less than one lakh is 75,0o0?"
+}

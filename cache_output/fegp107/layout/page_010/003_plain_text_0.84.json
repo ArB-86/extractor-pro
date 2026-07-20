@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8374020457267761,
+    "bbox": [
+        518.85498046875,
+        1030.53515625,
+        2214.166748046875,
+        1465.335205078125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_010/003_plain_text_0.84.png",
+    "text": "4. What is the length of the blue line and black line shown below? The\ndistance between 0 and 1 is 1 unit long, and it is divided into two\nequal parts. The length of each part is\n12\nunits\nlong. Write the fraction that gives the length of the black line in the\nbox."
+}

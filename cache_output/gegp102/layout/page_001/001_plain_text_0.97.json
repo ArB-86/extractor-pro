@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.970212996006012,
+    "bbox": [
+        377.80120849609375,
+        1218.0782470703125,
+        2089.69580078125,
+        1393.9185791015625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/001_plain_text_0.97.png",
+    "text": "Every\narithmetic\nexpression has a value which is the\nnumber\nit\nevaluates to. For example, the value of the expression 13 + 2 is 15. This\nexpression can be read as \u201c13 plus 2' or the sum of 13 and 2'."
+}

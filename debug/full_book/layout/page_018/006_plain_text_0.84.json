@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8365379571914673,
+    "bbox": [
+        439.161376953125,
+        2638.125,
+        924.7330932617188,
+        2692.976806640625
+    ],
+    "image_path": "debug/full_book/layout/page_018/006_plain_text_0.84.png",
+    "text": "What do\nyou think?"
+}

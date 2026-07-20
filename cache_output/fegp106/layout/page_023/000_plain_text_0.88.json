@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8752478361129761,
+    "bbox": [
+        297.12066650390625,
+        1560.7891845703125,
+        2188.818603515625,
+        1745.4205322265625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_023/000_plain_text_0.88.png",
+    "text": "Q.2. A rectangle having side lengths 5 cm and 3 cm is made using a piece of wire. If the\nwire is straightened and then bent to form a square, what will be the length of a side\nof thesquare?"
+}

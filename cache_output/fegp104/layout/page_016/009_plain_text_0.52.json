@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.5157049298286438,
+    "bbox": [
+        298.0694274902344,
+        877.8994750976562,
+        2082.9453125,
+        1027.5513916015625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_016/009_plain_text_0.52.png",
+    "text": "How much did the population of India increase \n50\neover\nyears?\nHow much did the population increase in each decade?"
+}

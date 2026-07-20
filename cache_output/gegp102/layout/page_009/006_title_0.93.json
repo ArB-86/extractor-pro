@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.9339455366134644,
+    "bbox": [
+        377.0536804199219,
+        530.9739379882812,
+        1439.343017578125,
+        601.0809326171875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/006_title_0.93.png",
+    "text": "More\nExpressions\nand Their Terms"
+}

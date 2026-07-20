@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.6214047074317932,
+    "bbox": [
+        409.71478271484375,
+        3009.53759765625,
+        1150.41552734375,
+        3168.701904296875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_029/010_plain_text_0.62.png",
+    "text": "a. three different\nprime numbers?\nb. four\ndifferent\nprime numbers?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9622875452041626,
+    "bbox": [
+        329.1288757324219,
+        1825.4488525390625,
+        2088.495361328125,
+        2011.72607421875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/006_plain_text_0.96.png",
+    "text": "Example 5: Irfan bought a pack of biscuits for 15 and a packet of toor\ndal for 56. He gave the shopkeeper 100. Write an expression that can\nhelp us calculate the change Irfan will\nget back from the shopkeeper."
+}

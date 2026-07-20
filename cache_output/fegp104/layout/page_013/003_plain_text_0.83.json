@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8308747410774231,
+    "bbox": [
+        418.49578857421875,
+        2559.012451171875,
+        1925.5869140625,
+        2630.49169921875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_013/003_plain_text_0.83.png",
+    "text": "3.\nWhich class had full a\nattendance that day?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6236291527748108,
+    "bbox": [
+        497.68804931640625,
+        1356.48388671875,
+        973.6248779296875,
+        1609.4908447265625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_011/009_plain_text_0.62.png",
+    "text": "a.\nZAOB\nor\nZXOY\nb.\nZAOB\nor\nZXOB\nC.\nZXOB\nor\nZXOC"
+}

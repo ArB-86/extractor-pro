@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9665049910545349,
+    "bbox": [
+        293.0487365722656,
+        394.8121032714844,
+        2088.5576171875,
+        614.9885864257812
+    ],
+    "image_path": "cache_output/fegp105/layout/page_013/003_plain_text_0.97.png",
+    "text": "orders. As\nexplain below, the order is not important. However,\nsWee\nas we saw in these examples, there are many v\nWays to arrive at the\nprime factorisation!"
+}

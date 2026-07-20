@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8389619588851929,
+    "bbox": [
+        296.23577880859375,
+        395.2902526855469,
+        2177.0478515625,
+        516.4439086914062
+    ],
+    "image_path": "cache_output/fegp106/layout/page_027/000_plain_text_0.84.png",
+    "text": "Q. Below is the house plan of Charan. It is in a rectangular plot. Look at the plan. What\ndo you notice?"
+}

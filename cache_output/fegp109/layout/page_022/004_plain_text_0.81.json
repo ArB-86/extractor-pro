@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8109637498855591,
+    "bbox": [
+        507.07861328125,
+        1477.4267578125,
+        1672.421630859375,
+        1541.2232666015625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_022/004_plain_text_0.81.png",
+    "text": "3.\nDraw, wherever\npossible, a rough sketch of:"
+}

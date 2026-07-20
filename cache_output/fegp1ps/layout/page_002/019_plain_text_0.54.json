@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5354344844818115,
+    "bbox": [
+        333.28839111328125,
+        992.97509765625,
+        602.5901489257812,
+        1043.3214111328125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/019_plain_text_0.54.png",
+    "text": "PD\n48\n0\nOT\nBS"
+}

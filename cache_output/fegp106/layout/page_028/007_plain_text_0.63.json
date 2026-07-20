@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6277161240577698,
+    "bbox": [
+        295.0918273925781,
+        2558.325927734375,
+        1972.4183349609375,
+        2619.717529296875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_028/007_plain_text_0.63.png",
+    "text": "Ans.\nPossible dimensions are 16 m and 4 m Or 32 m and 2m\nOr 8 m and 8 m"
+}

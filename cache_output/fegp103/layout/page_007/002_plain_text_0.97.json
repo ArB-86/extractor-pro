@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9703983068466187,
+    "bbox": [
+        291.57220458984375,
+        2627.622314453125,
+        1191.7724609375,
+        2847.70263671875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_007/002_plain_text_0.97.png",
+    "text": "Try\nthe\nsame\nprocedure\nfor\nother\nnumbers,\nsome\nand\nperform\nthe\nsteps. S\nStop\nif\nsame"
+}

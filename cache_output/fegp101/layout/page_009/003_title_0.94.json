@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.9379112720489502,
+    "bbox": [
+        294.25506591796875,
+        1701.5386962890625,
+        1107.535888671875,
+        1785.888916015625
+    ],
+    "image_path": "cache_output/fegp101/layout/page_009/003_title_0.94.png",
+    "text": "1.5 Patterns in Shapes"
+}

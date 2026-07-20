@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9448179006576538,
+    "bbox": [
+        292.23760986328125,
+        1342.3299560546875,
+        2084.692138671875,
+        1559.90283203125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_014/002_plain_text_0.94.png",
+    "text": "First method: Looking at the\n number line, we see\neweneed\nLto\nmove -5 (i.e., 5 in the backward direction). Therefore, -3 -2 = -5.\nThe movement needed is -5."
+}

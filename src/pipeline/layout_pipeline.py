@@ -25,7 +25,32 @@ class LayoutPipeline:
         results = self.detector.detect(image_path)
 
         boxes = self.parser.parse(results[0])
+
+        # ---- DEBUG: Raw boxes ----
+        print("=" * 80)
+        print("RAW BOXES")
+        for i, b in enumerate(boxes):
+            print(
+                i,
+                b.label,
+                round(b.confidence, 3),
+                (b.x1, b.y1, b.x2, b.y2),
+            )
+        print("=" * 80)
+
         boxes = self.filter.filter(boxes)
+
+        # ---- DEBUG: Filtered boxes ----
+        print("=" * 80)
+        print("FILTERED BOXES")
+        for i, b in enumerate(boxes):
+            print(
+                i,
+                b.label,
+                round(b.confidence, 3),
+                (b.x1, b.y1, b.x2, b.y2),
+            )
+        print("=" * 80)
 
         print(f"[Layout] Page {page}: {len(boxes)} boxes")
 

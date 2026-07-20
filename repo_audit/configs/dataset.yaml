@@ -1,0 +1,44 @@
+dataset_version: "1.0"
+
+board: CBSE
+
+language: English
+
+publisher: NCERT
+
+edition: 2026
+
+classes:
+
+  - 6
+  - 9
+  - 10
+  - 11
+
+subjects:
+
+  Mathematics
+
+output:
+
+  json: datasets/final
+
+  parquet: datasets/parquet
+
+  sqlite: datasets/sqlite
+
+  embeddings: datasets/embeddings
+
+  vector: datasets/vector
+
+gpu:
+
+  enabled: true
+
+workers: 8
+
+batch_size: 32
+
+similarity_threshold: 0.90
+
+minimum_questions: 60

@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.9349020719528198,
+    "bbox": [
+        297.5119934082031,
+        2051.406982421875,
+        1257.157958984375,
+        2212.47216796875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_053/000_plain_text_0.93.png",
+    "text": "Ans.\nA, E, C,\n,G, F, B, D.\n(Decreasing\norder)\nD, B, F, \nG, (\nC, E, A.\n(Increasing\norder)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9388065934181213,
+    "bbox": [
+        421.2017822265625,
+        2538.414306640625,
+        1164.0330810546875,
+        2626.3115234375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_016/005_title_0.94.png",
+    "text": "5.5 Divisibility Tests"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9356087446212769,
+    "bbox": [
+        289.9491882324219,
+        394.6781311035156,
+        1810.470458984375,
+        614.1373901367188
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/001_plain_text_0.94.png",
+    "text": "What could be the problems\nfaced in\npreparing\n such a\na\npictograph, i\nif the\ntotal\nnumber\nof\nstudents\npresent\nin\na\nclass\nis 33\nor\n27?"
+}

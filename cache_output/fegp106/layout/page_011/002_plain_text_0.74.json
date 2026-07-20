@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7388790845870972,
+    "bbox": [
+        504.8605041503906,
+        1892.2689208984375,
+        2083.66064453125,
+        2311.318359375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_011/002_plain_text_0.74.png",
+    "text": "Hint: In the tangram\npieces, by placing\nthe shapes\nover\neach\nother, we can find out that Shapes A and B have the same\narea, Shapes C and E have the same area. You would have\nalso figured out that Shape D can be exactly c\ncovered using\nShapes C and E, which means Shape D has twice the area of\nShape C or shape E, etc."
+}

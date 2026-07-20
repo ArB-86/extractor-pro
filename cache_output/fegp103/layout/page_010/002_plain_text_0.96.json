@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9619229435920715,
+    "bbox": [
+        418.32049560546875,
+        2125.080810546875,
+        2051.949462890625,
+        2342.583740234375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_010/002_plain_text_0.96.png",
+    "text": "?\nBut,\nWill\nany\ncalendar\nrepeat\nagain\nafter\nyear's\nsome\ndates\ndays\nexactly\nWill\nall\nand\nin\nmatch\nWith\nyears?\na\nyear\nthat of\nanother\nyear?"
+}

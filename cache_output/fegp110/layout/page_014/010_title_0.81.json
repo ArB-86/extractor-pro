@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.8064877986907959,
+    "bbox": [
+        294.42193603515625,
+        825.3907470703125,
+        2084.110107421875,
+        898.9515991210938
+    ],
+    "image_path": "cache_output/fegp110/layout/page_014/010_title_0.81.png",
+    "text": "Converting subtraction to addition and addition to subtraction"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.5334125757217407,
+    "bbox": [
+        295.21258544921875,
+        678.9610595703125,
+        1301.5308837890625,
+        739.9181518554688
+    ],
+    "image_path": "cache_output/fegp110/layout/page_045/011_plain_text_0.53.png",
+    "text": "Ans.\nStarting\nfloor + Movement = Target Floor"
+}

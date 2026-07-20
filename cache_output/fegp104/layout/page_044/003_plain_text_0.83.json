@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.8270828127861023,
+    "bbox": [
+        298.0574035644531,
+        1229.2984619140625,
+        2187.009521484375,
+        1412.2841796875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_044/003_plain_text_0.83.png",
+    "text": "Q.1. If you wanted to visually represent the data of the heights of the tallest persons\nsin\neach class in your school, would you use a g\ngraph with vertical bars or horizontal\nbars?Why?"
+}

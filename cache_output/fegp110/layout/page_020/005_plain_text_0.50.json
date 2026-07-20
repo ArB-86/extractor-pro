@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.5046610236167908,
+    "bbox": [
+        401.244384765625,
+        2154.8369140625,
+        2083.042724609375,
+        2294.627197265625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_020/005_plain_text_0.50.png",
+    "text": "2.\nWhich is the highest point in this\ngeographical\ncross section?\nWhich is the lowest point?"
+}

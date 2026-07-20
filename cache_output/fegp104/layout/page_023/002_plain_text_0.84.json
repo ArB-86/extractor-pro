@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8446195721626282,
+    "bbox": [
+        627.8809814453125,
+        2243.807373046875,
+        2141.5341796875,
+        2310.908447265625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_023/002_plain_text_0.84.png",
+    "text": "Observe t\nthe pictograph and \nthe following questions\nanswer t"
+}

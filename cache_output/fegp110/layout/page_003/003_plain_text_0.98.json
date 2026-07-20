@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9765065312385559,
+    "bbox": [
+        421.8995056152344,
+        1409.9141845703125,
+        1845.0234375,
+        1783.6748046875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_003/003_plain_text_0.98.png",
+    "text": "Did\nyou notice that +3 is the floor number of the Book\nStore, but it is also\nthe\nnumber\noff\nfloors\nyou\nmove\nwhen you press + 3? Similarly,\nV, -3 is the floor number\nbut it is also the number\nr of floors\ngo down when\nyou\nyou\npress -3, i.e., when\nyou\npress ---"
+}

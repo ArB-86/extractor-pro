@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.891754686832428,
+    "bbox": [
+        293.19171142578125,
+        2149.280029296875,
+        2085.567626953125,
+        2288.845458984375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_001/006_plain_text_0.89.png",
+    "text": "Consider a rectangle ABcD whose length and breadth are 12 cm and\n8 cm, respectively. What is its perimeter?"
+}

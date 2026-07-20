@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9398471713066101,
+    "bbox": [
+        291.383056640625,
+        737.3292236328125,
+        2088.501953125,
+        859.5517578125
+    ],
+    "image_path": "debug/full_book/layout/page_015/003_plain_text_0.94.png",
+    "text": "Should we try all possible multiplications with 2-digit numbers to tell\nwhether Roxie's claim is true? Or is there a better way to find out?"
+}

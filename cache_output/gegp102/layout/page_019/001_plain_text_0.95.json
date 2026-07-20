@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9535000324249268,
+    "bbox": [
+        375.2831726074219,
+        1625.853759765625,
+        2092.04150390625,
+        1806.3082275390625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_019/001_plain_text_0.95.png",
+    "text": "4\u3002\nFind out the sum of the numbers\ngiven\nn in each picture below in\nat least two c\n different ways. Describe how you solved it through\nexpressions."
+}

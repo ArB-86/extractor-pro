@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.940980076789856,
+    "bbox": [
+        288.9100646972656,
+        1074.3583984375,
+        2085.39111328125,
+        1251.0029296875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_023/003_plain_text_0.94.png",
+    "text": "Now, 3 and 5 have no common factor other than 1, s0,\n36\nin lowest\n60\nterms is\n3IL"
+}

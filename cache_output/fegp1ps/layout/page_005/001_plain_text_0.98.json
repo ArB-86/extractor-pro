@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9817093014717102,
+    "bbox": [
+        421.3413391113281,
+        497.4908447265625,
+        2085.260498046875,
+        1210.574462890625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_005/001_plain_text_0.98.png",
+    "text": "Mathematics helps students develop not only basic arithmetic skills,\nbut also the crucial capacities of logical reasoning, creative problem\nsolving, and clear and precise communication (both oral and written).\nMathematical knowledge also plays a crucial role in understanding\nconcepts in other school subjects, such as Science and Social Science,\nand even Art, Physical Education, and Vocational Education. Learning\nMathematics can also contribute to the development of capacities\nfor making informed choices and decisions. Understanding numbers\nand quantitative arguments is necessary for effective and meaningful\ndemocratic and economic participation. Mathematics thus has an\nimportant role to play in achieving the overall Aims ofSchoolEducation."
+}

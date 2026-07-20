@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9121565818786621,
+    "bbox": [
+        294.31195068359375,
+        1421.8121337890625,
+        2085.503662109375,
+        1568.34423828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_027/001_plain_text_0.91.png",
+    "text": "5.\nContinuing with another half fold as shown in Fig. 2.18, we g\nget\nan angle of measure"
+}

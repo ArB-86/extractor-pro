@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9757815003395081,
+    "bbox": [
+        418.5118408203125,
+        1240.98681640625,
+        2211.994384765625,
+        1532.9556884765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_013/001_plain_text_0.98.png",
+    "text": "This\nline\nshows\nonly\nthe\nposition\n of\nzero. Other\nnumbers\nare j\nnot\nmarked. It\n can\nbe\nconvenient to\nthis\nunmarked\nnumber\nline\nuse\nto\nadd:\n and subtract integers. You can s\nshow, or s\nsimply i\nimagine, the scale\nof\nthe\nnumber\nline\nand\nthe\npositions\nof\nnumbers\ns on\nit."
+}

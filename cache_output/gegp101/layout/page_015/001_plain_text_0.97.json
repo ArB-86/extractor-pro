@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9666532278060913,
+    "bbox": [
+        925.1595458984375,
+        1199.561767578125,
+        2090.31103515625,
+        1438.3238525390625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_015/001_plain_text_0.97.png",
+    "text": "To\nknow\nthe\ngreatest\nsuch\nproduct\nI\nmultiplied\nthe\nsmallest\n3-digit\nnumbers\n(100\n100)\nto\n10,000; S0\nthe\nproduct\nof \nall\nthe\nget \n2-digit\nmultiplications\nwill be less\nthan\n10,000.\""
+}

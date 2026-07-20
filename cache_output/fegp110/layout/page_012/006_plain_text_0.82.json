@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.821861743927002,
+    "bbox": [
+        369.2176818847656,
+        396.61181640625,
+        1544.876708984375,
+        468.4127197265625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_012/006_plain_text_0.82.png",
+    "text": "You must travel 4 steps. That is why 5+4 = 9."
+}

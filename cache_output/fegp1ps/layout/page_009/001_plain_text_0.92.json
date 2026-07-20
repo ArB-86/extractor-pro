@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9225543737411499,
+    "bbox": [
+        449.8908386230469,
+        638.4461669921875,
+        2085.2490234375,
+        772.69140625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/001_plain_text_0.92.png",
+    "text": "1\u3002\nM.C. Pant, Chancellor National\nInstitute\nof\nEducational\nPlanning\ng and Administration (NIEPA), (Chairperson"
+}

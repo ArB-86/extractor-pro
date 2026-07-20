@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "table",
+    "confidence": 0.7086665630340576,
+    "bbox": [
+        551.1385498046875,
+        576.1605224609375,
+        1824.685302734375,
+        1599.6224365234375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_015/006_table_0.71.png",
+    "text": "OCR(cache_output/fegp107/layout/page_015/006_table_0.71.png)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9189708828926086,
+    "bbox": [
+        418.2698669433594,
+        396.4681701660156,
+        2210.0849609375,
+        535.994140625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_004/004_plain_text_0.92.png",
+    "text": "did not land on 36, so he does not get the treasure. What jump\nSize\nshould he have chosen?"
+}

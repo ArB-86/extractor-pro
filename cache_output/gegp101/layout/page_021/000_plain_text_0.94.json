@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9429509043693542,
+    "bbox": [
+        382.05615234375,
+        286.61041259765625,
+        1919.9261474609375,
+        531.6799926757812
+    ],
+    "image_path": "cache_output/gegp101/layout/page_021/000_plain_text_0.94.png",
+    "text": "10.\nYou\ngiven\nsome number\ncards; 4000, 13000, 300, 70000,\nare\n150000, 20, 5.Using\nthe\ncards\nget\nas\nclose\nto\nthe\nas\nyou\ncan\nnumbers\nbelow\nusing\nany\noperation\nyou\nwant.l\nEach\ncard\nbe\nonly\nfor\nmaking\ncan\nused\na\nparticular\nnumber.\nonce"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9538713693618774,
+    "bbox": [
+        305.8429260253906,
+        2320.029052734375,
+        2088.028564453125,
+        2444.19189453125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/004_plain_text_0.95.png",
+    "text": "Choose your favourite number and write as many e\nexpressions as you\ncan having that value."
+}

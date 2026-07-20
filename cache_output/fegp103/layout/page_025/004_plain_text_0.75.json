@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7530580163002014,
+    "bbox": [
+        294.10894775390625,
+        411.86639404296875,
+        682.2537841796875,
+        473.7738037109375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_025/004_plain_text_0.75.png",
+    "text": "Di\nDigit\n14\nO\n1\nsum"
+}

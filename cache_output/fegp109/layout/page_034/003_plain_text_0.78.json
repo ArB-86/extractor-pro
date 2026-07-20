@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.7827281355857849,
+    "bbox": [
+        352.4872741699219,
+        497.07366943359375,
+        2185.835205078125,
+        623.0947265625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_034/003_plain_text_0.78.png",
+    "text": "Can you draw a figure with radial arms that has a) exactly 5 angles of symmetry, b)\n6 angles of symmetry? Also find the angles of symmetry in each case."
+}

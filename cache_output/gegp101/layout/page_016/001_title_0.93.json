@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9306986927986145,
+    "bbox": [
+        380.6097106933594,
+        288.89239501953125,
+        1572.3546142578125,
+        363.2543029785156
+    ],
+    "image_path": "cache_output/gegp101/layout/page_016/001_title_0.93.png",
+    "text": "Fascinating\nFacts about\nt Large Numbers"
+}

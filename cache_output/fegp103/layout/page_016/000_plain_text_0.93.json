@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9319989085197449,
+    "bbox": [
+        628.8274536132812,
+        1111.765625,
+        997.5541381835938,
+        1324.1776123046875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_016/000_plain_text_0.93.png",
+    "text": "a.\nIn a\nminute\nb.\nIn\nan\nhour\nIn a \nday\nC."
+}

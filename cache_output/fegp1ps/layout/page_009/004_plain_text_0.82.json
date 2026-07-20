@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8155943155288696,
+    "bbox": [
+        449.10235595703125,
+        1205.2470703125,
+        2085.759521484375,
+        1337.8505859375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/004_plain_text_0.82.png",
+    "text": "5.S\nShekhar\nr Mande, Director\nGeneral (Former), CSIR, Distinguished\nProfessor, Savitribai Phule Pune University, Pune"
+}

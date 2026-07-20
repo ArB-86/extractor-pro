@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "title",
+    "confidence": 0.7359679341316223,
+    "bbox": [
+        446.60748291015625,
+        1842.942138671875,
+        565.6832885742188,
+        1896.0426025390625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_038/007_title_0.74.png",
+    "text": ":suy\nD"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9207464456558228,
+    "bbox": [
+        529.1925048828125,
+        2167.074951171875,
+        2215.4814453125,
+        2979.2578125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_020/003_plain_text_0.92.png",
+    "text": "Karnawati says, \u201c9 is special because it is a single-digit\nnumber whereas all the other numbers are 2-digit numbers\".\nGurupreet says, \u201c9 is special because it is the only number\nthat is a multiple of 3\".\nMurugan says, \u201c16 is special because it is the only even\nnumber and also the only multiple of 4\".\nGopika says, \u201c25 is special as it is the only multiple of 5\".\n        ,  s\nnumber\".\nRadha says, \u201c43 is special because it is the only number that\nis not a square\"."
+}

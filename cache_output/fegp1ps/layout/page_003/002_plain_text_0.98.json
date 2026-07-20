@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9838481545448303,
+    "bbox": [
+        422.192138671875,
+        1499.1474609375,
+        2082.490478515625,
+        2093.946044921875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_003/002_plain_text_0.98.png",
+    "text": "This framework, at the Middle Stage, aims to equip students with\nthe skills that are needed to grow as they advance in their lives. It\nendeavours to enhance their analytical, descriptive, and narrative\ncapabilities, and to prepare them for the challenges and opportunities\nthat await them. A diverse curriculum, covering nine subjects ranging\nfrom three languages\u2014including at least two languages native to\nIndia\u2014to Science, Mathematics, SocialSciences,ArtEducation, Physical\nEducation and Well-being, and Vocational Education promotes their\nholistic development."
+}

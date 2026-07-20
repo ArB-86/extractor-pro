@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5826743245124817,
+    "bbox": [
+        520.8539428710938,
+        685.1331787109375,
+        2047.84716796875,
+        760.5399780273438
+    ],
+    "image_path": "cache_output/fegp107/layout/page_008/010_plain_text_0.58.png",
+    "text": "3. Make\n1\nusing a paper strip. Can you use\nthis to also make\n3"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9450838565826416,
+    "bbox": [
+        417.76947021484375,
+        1848.0819091796875,
+        2209.09423828125,
+        1991.5037841796875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_022/004_plain_text_0.95.png",
+    "text": "We know\nthat both 16\n(numerator)\nand 2o (denominator)\nare\ndivisible by 4."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7874029874801636,
+    "bbox": [
+        724.5347900390625,
+        1423.9051513671875,
+        1857.5535888671875,
+        1560.9547119140625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_020/006_plain_text_0.79.png",
+    "text": "JUSTICE,\nsocial,\neconomic\nand\npolitical;"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "title",
+    "confidence": 0.8946956992149353,
+    "bbox": [
+        292.76788330078125,
+        2372.43603515625,
+        2077.239501953125,
+        2463.365234375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_017/003_title_0.89.png",
+    "text": "8.5 Exploring\nDiagonals of Rectangles and Squares"
+}

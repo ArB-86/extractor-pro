@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.898830235004425,
+    "bbox": [
+        295.94012451171875,
+        1814.5550537109375,
+        666.2025146484375,
+        2211.099365234375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_034/001_plain_text_0.90.png",
+    "text": "Ans.\na.\nX\nb.\nC.\nX\nd."
+}

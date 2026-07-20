@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8701395988464355,
+    "bbox": [
+        382.5107421875,
+        303.8886413574219,
+        2102.596923828125,
+        433.593994140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_028/002_plain_text_0.87.png",
+    "text": "2\u3002\nWrite a story/situation for each of the following\n: expressions and\nfind their values."
+}

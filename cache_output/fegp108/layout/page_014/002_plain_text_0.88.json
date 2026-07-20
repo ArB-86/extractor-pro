@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.875282347202301,
+    "bbox": [
+        522.9070434570312,
+        1883.523193359375,
+        2209.749755859375,
+        2029.7425537109375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_014/002_plain_text_0.88.png",
+    "text": "A convention is followed to represent equal sides. It is done by\nputting a*I'on the line. Refer to the rough figure."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.556289553642273,
+    "bbox": [
+        1206.462890625,
+        1990.2872314453125,
+        2051.79345703125,
+        2081.664306640625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/018_plain_text_0.56.png",
+    "text": "Head,F\nPublication\nM.V. Srinivasan\nDivision"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9073549509048462,
+    "bbox": [
+        494.29974365234375,
+        394.7530517578125,
+        2084.815185546875,
+        722.0069580078125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_022/003_plain_text_0.91.png",
+    "text": "Prepare a f\nfrequency\ndistribution table for the data.\na.\nb.\nWhich means of transport was used the most?\nIf\nyou were\nthere\n to collect this\ndata, how c\ncould\nyou\ndo it?\nC.\nWrite the steps\nsor\nprocess."
+}

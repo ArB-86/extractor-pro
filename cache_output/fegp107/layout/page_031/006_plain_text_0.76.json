@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7568225860595703,
+    "bbox": [
+        292.5705871582031,
+        2182.987060546875,
+        1106.2000732421875,
+        2279.897216796875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_031/006_plain_text_0.76.png",
+    "text": "Therefore,\n3\n2\n9\n8\n1\n\u4e8c\n\u4e8c\n4\n3\n12\n12\n12"
+}

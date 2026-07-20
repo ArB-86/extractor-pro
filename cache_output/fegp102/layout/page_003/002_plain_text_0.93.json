@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9311023950576782,
+    "bbox": [
+        563.6704711914062,
+        2129.53515625,
+        1156.2344970703125,
+        2498.06689453125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_003/002_plain_text_0.93.png",
+    "text": "Rihan\nmarked\na\npoint\npiece\nof\non\na\npaper.\nHow many\nlines can he\ndraw t\nthat pass\nthrough\nthe point?"
+}

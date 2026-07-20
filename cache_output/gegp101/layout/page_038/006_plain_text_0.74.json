@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.7397741079330444,
+    "bbox": [
+        445.5705871582031,
+        1906.172119140625,
+        1238.7613525390625,
+        1968.6993408203125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_038/006_plain_text_0.74.png",
+    "text": "Height of Somu's building\n= 40\nuu"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6601150035858154,
+    "bbox": [
+        377.26434326171875,
+        1753.396728515625,
+        1450.9207763671875,
+        1872.9039306640625
+    ],
+    "image_path": "debug/full_book/layout/page_006/006_plain_text_0.66.png",
+    "text": "5.\nTWO\nof\nthe\nmany\ndifferent\nways\nto\nget\n5072\nare shown\nbelow:"
+}

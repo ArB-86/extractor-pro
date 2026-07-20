@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.7486026883125305,
+    "bbox": [
+        297.44989013671875,
+        2357.91455078125,
+        674.8325805664062,
+        2465.55126953125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_048/003_plain_text_0.75.png",
+    "text": "5\nAns.\n1\nlitres\n12"
+}

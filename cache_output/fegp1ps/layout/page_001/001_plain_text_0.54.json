@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.5433148741722107,
+    "bbox": [
+        725.2952270507812,
+        2748.16748046875,
+        1775.0372314453125,
+        2858.93701171875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_001/001_plain_text_0.54.png",
+    "text": "be\n3T\nYfqT&TUT\nNATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND\nOTRAINING"
+}

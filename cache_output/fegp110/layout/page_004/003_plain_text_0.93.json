@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9345680475234985,
+    "bbox": [
+        292.36468505859375,
+        2623.9052734375,
+        2087.731689453125,
+        2842.16162109375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_004/003_plain_text_0.93.png",
+    "text": "Gurmit\nt will\ngo\nfloor\ndown.\nWe\nshow\ncan\nthe\none\nmovement\nresulting\nfrom\ncombining\nbutton\npresses\nas\nue\nexpression:\n(+2)+(-3) =-1."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.906775176525116,
+    "bbox": [
+        490.564453125,
+        885.7900390625,
+        1898.9935302734375,
+        954.55126953125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_018/006_plain_text_0.91.png",
+    "text": "What are all the multiples of 2 between 399\nand 411?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9577592611312866,
+    "bbox": [
+        375.65118408203125,
+        696.3583374023438,
+        2088.419677734375,
+        816.3360595703125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/003_plain_text_0.96.png",
+    "text": "Terms are\nthe\n parts of an expression separated by.\na\n\u5341\uff0c\nsign. For\nexample, in 12+7, the terms are 12 and 7, as marked below."
+}

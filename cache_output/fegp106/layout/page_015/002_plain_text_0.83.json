@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8292545676231384,
+    "bbox": [
+        290.369384765625,
+        634.8630981445312,
+        1382.023681640625,
+        781.5074462890625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_015/002_plain_text_0.83.png",
+    "text": "1.\nFind\nthe\nblue\ntriangle\nof b\nBAD.\narea"
+}

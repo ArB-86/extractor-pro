@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.7724990844726562,
+    "bbox": [
+        1003.951171875,
+        415.0555419921875,
+        1437.65283203125,
+        483.0517883300781
+    ],
+    "image_path": "cache_output/gegp101/layout/page_023/003_title_0.77.png",
+    "text": " Digits"
+}

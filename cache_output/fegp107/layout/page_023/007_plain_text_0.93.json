@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9259565472602844,
+    "bbox": [
+        290.12005615234375,
+        1273.2501220703125,
+        2084.732177734375,
+        1534.3353271484375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_023/007_plain_text_0.93.png",
+    "text": "Alternatively, we could have noticed that in\n36\n, both the numerator\n60\ndenominator\nmultiples\nand\nof\n12 : we\nthat\n36\n3\n\u00d7\n12\nare\nsee\nand\n60= 5\u00d71\n36\n12. Therefore, we could have concluded that\n3-5\nstraight away.\n60"
+}

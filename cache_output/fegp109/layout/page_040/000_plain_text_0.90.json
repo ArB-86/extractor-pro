@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.9025254845619202,
+    "bbox": [
+        297.8348388671875,
+        1665.1298828125,
+        1187.3896484375,
+        1824.2314453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_040/000_plain_text_0.90.png",
+    "text": "Ans.\nNumber of lines of symmetry = 2\n24\nNumber of\nangles of \nsymmetry = \n24"
+}

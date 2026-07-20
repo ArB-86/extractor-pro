@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9184446930885315,
+    "bbox": [
+        295.6846008300781,
+        2009.4908447265625,
+        2188.003662109375,
+        2198.74365234375
+    ],
+    "image_path": "tmp_layout/page_017/002_plain_text_0.92.png",
+    "text": "Q.4. How many\nlittle triangles are there in each shape of the sequence of Stacked\nTriangles? Which number sequence does this give? Can you explain why? (Hint: In"
+}

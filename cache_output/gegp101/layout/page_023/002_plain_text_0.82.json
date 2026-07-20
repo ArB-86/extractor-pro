@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.822547197341919,
+    "bbox": [
+        472.3851623535156,
+        2709.251953125,
+        1740.20263671875,
+        2773.76806640625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_023/002_plain_text_0.82.png",
+    "text": "Make your own\nquestions and challenge each other."
+}

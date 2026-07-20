@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.5084666013717651,
+    "bbox": [
+        385.0382995605469,
+        1162.5614013671875,
+        507.58380126953125,
+        1217.6226806640625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_031/008_plain_text_0.51.png",
+    "text": "Ans:\n\u53e3"
+}

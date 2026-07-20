@@ -1,0 +1,24 @@
+$ git branch -a
+
+RETURN CODE: 0
+
+STDOUT
+================================================================================
+  dataset-v1
+  feature/canonical-dataset
+  feature/gold-benchmark
+  feature/question-engine
+  main
+  parser-v3
+  question-splitter-v2
+* refactor/tournament-pipeline
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature/canonical-dataset
+  remotes/origin/feature/gold-benchmark
+  remotes/origin/feature/question-engine
+  remotes/origin/main
+  remotes/origin/refactor/tournament-pipeline
+
+
+STDERR
+================================================================================

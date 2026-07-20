@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8834752440452576,
+    "bbox": [
+        420.81243896484375,
+        1617.2896728515625,
+        2082.9365234375,
+        1748.3004150390625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/002_plain_text_0.88.png",
+    "text": "K. V. Subrahmanyam, Professor, Chennai Mathematical Institute (CMI),\nChennai"
+}

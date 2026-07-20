@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9048091769218445,
+    "bbox": [
+        417.45562744140625,
+        2666.480712890625,
+        2209.605712890625,
+        2742.176513671875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_008/005_plain_text_0.90.png",
+    "text": "Arrange the two pieces to form a figure with a perimeter of 22\n2cm."
+}

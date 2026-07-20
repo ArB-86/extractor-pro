@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8820058107376099,
+    "bbox": [
+        532.7671508789062,
+        2158.610107421875,
+        2208.099609375,
+        2370.9326171875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_016/010_plain_text_0.88.png",
+    "text": "3.\nThe first\nnumber\nhas\nprime factorisation\n2\n2\u00d73\n3\n7\nand\nthe second\nnumber\nhas\nprime\nfactorisation\n3\n7\n11. Are\nthey\nX\nco-prime?\nDoes\n one of them\ndivide the other?"
+}

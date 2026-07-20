@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7680857181549072,
+    "bbox": [
+        418.3558654785156,
+        1312.0758056640625,
+        1766.4615478515625,
+        1458.6243896484375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_002/003_plain_text_0.77.png",
+    "text": "Did\nfigure out what these numbers represent?\nyou\nHint: Could their heights be playing\n a role?"
+}

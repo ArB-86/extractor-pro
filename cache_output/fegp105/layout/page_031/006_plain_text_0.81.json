@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8093804717063904,
+    "bbox": [
+        294.62493896484375,
+        1328.275634765625,
+        943.51025390625,
+        1386.44384765625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/006_plain_text_0.81.png",
+    "text": "Q. Consider these statements:"
+}

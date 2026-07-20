@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9278262257575989,
+    "bbox": [
+        436.7101745605469,
+        288.0582580566406,
+        1235.6258544921875,
+        349.4242858886719
+    ],
+    "image_path": "cache_output/gegp102/layout/page_016/007_plain_text_0.93.png",
+    "text": "Writing it as sum o\nof terms\ngives:"
+}

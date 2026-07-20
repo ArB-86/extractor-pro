@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9749712944030762,
+    "bbox": [
+        418.3317565917969,
+        394.1748962402344,
+        2214.272216796875,
+        690.46728515625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_006/000_plain_text_0.97.png",
+    "text": "the square\nalong\nthis\nline, the\ne points\nB, C\non\nthe\nright\nget reflected\nto\nthe left\nside\nand\nthe\npositions\nearlier\nby A, D. What\noccupy\noccupied\nhappens\ns to the points A, D? A occupies the \ne position occupied by\nB\nand\nD t\nthat of C!"
+}

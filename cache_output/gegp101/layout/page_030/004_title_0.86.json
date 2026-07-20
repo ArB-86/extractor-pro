@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.8553168177604675,
+    "bbox": [
+        355.4450378417969,
+        2482.07861328125,
+        474.68634033203125,
+        2534.078369140625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_030/004_title_0.86.png",
+    "text": "Ans:\nD"
+}

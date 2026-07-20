@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9784789681434631,
+    "bbox": [
+        292.48663330078125,
+        1355.750244140625,
+        2085.49609375,
+        1724.6031494140625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_001/000_plain_text_0.98.png",
+    "text": "Thej\nperimeter\n:ofa\nany\nclosed plane\nfigure is the\ndistance\ncovered\nalong its boundary when\naround it once. For a j\n you\ngo\npolygon, i.e.,\nclosed\nplane\nfigure\nmade\no of line\nthe\nac\nup\nsegments, t\nperimeter\niS\nsimply the\ne sum of the lengths of its all s\nsides, i.e., the total c\ndistance\nalong\nits outer\nr boundary."
+}

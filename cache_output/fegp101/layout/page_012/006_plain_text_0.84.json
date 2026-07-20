@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.836860716342926,
+    "bbox": [
+        440.70904541015625,
+        1993.466796875,
+        2210.279296875,
+        2197.073486328125
+    ],
+    "image_path": "cache_output/fegp101/layout/page_012/006_plain_text_0.84.png",
+    "text": "Some important examples of number sequences include the counting\nnumbers, odd\n numbers, even numbers, square numbers, triangular\nnumbers, cube numbers, Virahanka numbers, and powers of 2."
+}

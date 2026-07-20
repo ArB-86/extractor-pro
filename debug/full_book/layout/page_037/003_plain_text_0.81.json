@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.8129298090934753,
+    "bbox": [
+        372.8460388183594,
+        2211.085205078125,
+        2183.216796875,
+        2344.354248046875
+    ],
+    "image_path": "debug/full_book/layout/page_037/003_plain_text_0.81.png",
+    "text": "11.Find out how many coins should be stacked to match the height of the\nStatue of Unity. Assume each coin is 1 mm thick."
+}

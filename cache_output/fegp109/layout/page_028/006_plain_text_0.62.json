@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6234431862831116,
+    "bbox": [
+        441.4574279785156,
+        1416.5352783203125,
+        1681.8472900390625,
+        1478.3905029296875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_028/006_plain_text_0.62.png",
+    "text": "Now cut a small\nsquare at the center\nr (all sides closed corner)."
+}

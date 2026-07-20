@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.7040122151374817,
+    "bbox": [
+        295.3270263671875,
+        488.2395935058594,
+        564.6536254882812,
+        607.6146240234375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_030/007_plain_text_0.70.png",
+    "text": "Section\n3.10"
+}

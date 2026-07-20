@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.7991340160369873,
+    "bbox": [
+        524.1406860351562,
+        1303.14111328125,
+        723.3272094726562,
+        1369.0712890625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_020/002_title_0.80.png",
+    "text": "STEP\n3"
+}

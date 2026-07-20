@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "title",
+    "confidence": 0.5838415026664734,
+    "bbox": [
+        292.314453125,
+        491.1636657714844,
+        2186.6240234375,
+        616.005859375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_050/005_title_0.58.png",
+    "text": "Q.2. Cancel the zero pairs in the following two sets of tokens. On what floor is the lift\nattendant in each case? What is the corresponding addition statement in each case?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.5645554661750793,
+    "bbox": [
+        453.3359069824219,
+        3110.27587890625,
+        892.1610717773438,
+        3172.577392578125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_036/005_plain_text_0.56.png",
+    "text": "Sum\n00\n\u4e8c\n7"
+}

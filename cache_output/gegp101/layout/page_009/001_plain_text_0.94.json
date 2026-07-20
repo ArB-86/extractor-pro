@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9370184540748596,
+    "bbox": [
+        377.856689453125,
+        837.9116821289062,
+        2090.694091796875,
+        961.2365112304688
+    ],
+    "image_path": "cache_output/gegp101/layout/page_009/001_plain_text_0.94.png",
+    "text": "Read the following\n1.\nnumbers in Indian place value notation and\nwrite their number names in both the Indian and American systems:"
+}

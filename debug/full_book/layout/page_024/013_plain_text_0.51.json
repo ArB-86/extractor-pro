@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5083513259887695,
+    "bbox": [
+        441.7005920410156,
+        1601.5213623046875,
+        1783.757080078125,
+        1666.547607421875
+    ],
+    "image_path": "debug/full_book/layout/page_024/013_plain_text_0.51.png",
+    "text": "Ans: Increase in population from 2011 to 2024 is 31,000."
+}

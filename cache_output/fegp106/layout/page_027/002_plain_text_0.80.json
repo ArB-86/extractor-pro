@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.7997556924819946,
+    "bbox": [
+        296.9664611816406,
+        814.0696411132812,
+        1238.3065185546875,
+        1890.2430419921875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_027/002_plain_text_0.80.png",
+    "text": "Ans.  a.\nSmall bedroom 15ft x 12ft\nArea = 180 sq ft\nii.\nUtility 15ft x 3ft\nArea = 45 sq ft\nili.\nHall 20ft x 12ft\nArea = 240 sq ft\niv.\nParking 15ft x 3ft\nArea = 45 sq ft\nGarden 20ft x 3ft\nV.\nArea = 60 sq ft\nb.\nArea of his house = 35ft x 30ft\n=1050 sq ft"
+}

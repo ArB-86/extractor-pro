@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.6963857412338257,
+    "bbox": [
+        394.6761779785156,
+        2016.936279296875,
+        682.7179565429688,
+        2081.97119140625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_015/006_title_0.70.png",
+    "text": "construct\nC"
+}

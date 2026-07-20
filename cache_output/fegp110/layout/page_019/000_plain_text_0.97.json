@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9721900820732117,
+    "bbox": [
+        418.8798828125,
+        2099.468017578125,
+        2211.50634765625,
+        2396.38671875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_019/000_plain_text_0.97.png",
+    "text": "We\nthe\nheight\nof\ngeographical\nfeatures\nlike\nmountains,\nmeasure\nplateaus, a\ndeserts\nfrom\nlevel. The height at s\nsea\nlevel is\nand c\nsea\n0m.\nHeights above sea\nAlevel\nare represented\nusing positive numbers and\nheights below sea\nlevel\nare represented\nusing\ne numbers.\nnegative"
+}

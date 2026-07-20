@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.843880295753479,
+    "bbox": [
+        444.4093933105469,
+        2695.7822265625,
+        2030.744384765625,
+        2752.189697265625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_040/003_plain_text_0.84.png",
+    "text": "c. To collect the data of various means of transport, one of the ways could be"
+}

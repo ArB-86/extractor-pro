@@ -1,0 +1,104 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/11th_maths/keep204.pdf",
+  "sha256": "b46ca76b0dd826e143080999dd5b10758e110347ee6a644253c148467f468153",
+  "pages": 12,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "iLovePDF",
+    "creationDate": "D:20250528105947+05'30'",
+    "modDate": "D:20250528105947+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 74,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 40,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 40,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 37,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 2
+    },
+    {
+      "width": 484.3800048828125,
+      "height": 682.1400146484375,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 482.8299865722656,
+      "height": 683.6900024414062,
+      "rotation": 0,
+      "text_blocks": 10,
+      "images": 2
+    }
+  ]
+}

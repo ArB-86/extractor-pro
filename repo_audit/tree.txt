@@ -1,0 +1,3299 @@
+$ tree -a -I .git|.venv|__pycache__|build|dist|.mypy_cache|.pytest_cache|runs
+
+RETURN CODE: 0
+
+STDOUT
+================================================================================
+.
+├── api
+├── archive
+│   ├── block_merger.py
+│   └── question_parser_old.py
+├── audit_dataset.py
+├── audit_debug.py
+├── audit_details.txt
+├── audit.py
+├── batch_run.sh
+├── benchmark
+│   ├── ast
+│   │   └── ast_stats.csv
+│   ├── benchmark.py
+│   ├── golden
+│   │   └── README.md
+│   ├── golden_dataset.py
+│   ├── __init__.py
+│   ├── layout
+│   │   └── layout_stats.csv
+│   ├── parser
+│   │   ├── metrics.py
+│   │   └── parser_stats.csv
+│   ├── parser_v2
+│   │   ├── golden_questions.json
+│   │   └── run.py
+│   ├── question_splitter
+│   │   ├── golden_cases.json
+│   │   └── run.py
+│   ├── report.py
+│   └── speed
+│       └── runtime.csv
+├── candidates.txt
+├── clean_and_validate.py
+├── config
+│   ├── layout.yaml
+│   ├── ocr.yaml
+│   └── pipeline.yaml
+├── configs
+│   ├── config.yaml
+│   ├── dataset.yaml
+│   └── llm.yaml
+├── crop_0.png
+├── crop_1.png
+├── crop_2.png
+├── crop_3.png
+├── crop_4.png
+├── data
+│   ├── cache
+│   ├── images
+│   ├── pdf
+│   ├── raw
+│   └── rendered
+│       ├── fegp101
+│       │   ├── page_001.png
+│       │   ├── page_002.png
+│       │   ├── page_003.png
+│       │   ├── page_004.png
+│       │   ├── page_005.png
+│       │   ├── page_006.png
+│       │   ├── page_007.png
+│       │   ├── page_008.png
+│       │   ├── page_009.png
+│       │   ├── page_010.png
+│       │   ├── page_011.png
+│       │   ├── page_012.png
+│       │   ├── page_013.png
+│       │   ├── page_014.png
+│       │   ├── page_015.png
+│       │   ├── page_016.png
+│       │   └── page_017.png
+│       ├── fegp102
+│       │   ├── page_001.png
+│       │   ├── page_002.png
+│       │   ├── page_003.png
+│       │   ├── page_004.png
+│       │   ├── page_005.png
+│       │   ├── page_006.png
+│       │   ├── page_007.png
+│       │   ├── page_008.png
+│       │   ├── page_009.png
+│       │   ├── page_010.png
+│       │   ├── page_011.png
+│       │   ├── page_012.png
+│       │   ├── page_013.png
+│       │   ├── page_014.png
+│       │   ├── page_015.png
+│       │   ├── page_016.png
+│       │   ├── page_017.png
+│       │   ├── page_018.png
+│       │   ├── page_019.png
+│       │   ├── page_020.png
+│       │   ├── page_021.png
+│       │   ├── page_022.png
+│       │   ├── page_023.png
+│       │   ├── page_024.png
+│       │   ├── page_025.png
+│       │   ├── page_026.png
+│       │   ├── page_027.png
+│       │   ├── page_028.png
+│       │   ├── page_029.png
+│       │   ├── page_030.png
+│       │   ├── page_031.png
+│       │   ├── page_032.png
+│       │   ├── page_033.png
+│       │   ├── page_034.png
+│       │   ├── page_035.png
+│       │   ├── page_036.png
+│       │   ├── page_037.png
+│       │   ├── page_038.png
+│       │   ├── page_039.png
+│       │   ├── page_040.png
+│       │   ├── page_041.png
+│       │   ├── page_042.png
+│       │   ├── page_043.png
+│       │   ├── page_044.png
+│       │   ├── page_045.png
+│       │   ├── page_046.png
+│       │   ├── page_047.png
+│       │   ├── page_048.png
+│       │   ├── page_049.png
+│       │   ├── page_050.png
+│       │   ├── page_051.png
+│       │   ├── page_052.png
+│       │   └── page_053.png
+│       └── fegp103
+│           ├── page_001.png
+│           ├── page_002.png
+│           ├── page_003.png
+│           ├── page_004.png
+│           ├── page_005.png
+│           ├── page_006.png
+│           ├── page_007.png
+│           ├── page_008.png
+│           ├── page_009.png
+│           ├── page_010.png
+│           ├── page_011.png
+│           ├── page_012.png
+│           ├── page_013.png
+│           ├── page_014.png
+│           ├── page_015.png
+│           ├── page_016.png
+│           ├── page_017.png
+│           ├── page_018.png
+│           ├── page_019.png
+│           ├── page_020.png
+│           ├── page_021.png
+│           ├── page_022.png
+│           ├── page_023.png
+│           ├── page_024.png
+│           ├── page_025.png
+│           ├── page_026.png
+│           ├── page_027.png
+│           ├── page_028.png
+│           ├── page_029.png
+│           ├── page_030.png
+│           ├── page_031.png
+│           └── page_032.png
+├── dataset
+│   ├── generated
+│   └── json
+│       └── dataset_v1.json
+├── datasets
+│   ├── benchmark
+│   ├── cache
+│   │   └── .gitkeep
+│   ├── checkpoints
+│   │   └── .gitkeep
+│   ├── concepts
+│   │   └── .gitkeep
+│   ├── embeddings
+│   ├── figures
+│   │   └── .gitkeep
+│   ├── final
+│   │   └── .gitkeep
+│   ├── formulas
+│   │   └── .gitkeep
+│   ├── .gitkeep
+│   ├── gold
+│   │   └── .gitkeep
+│   ├── images
+│   │   └── .gitkeep
+│   ├── intermediate
+│   │   ├── .gitkeep
+│   │   └── pdf_analysis
+│   │       ├── feep101.json
+│   │       ├── feep102.json
+│   │       ├── feep103.json
+│   │       ├── feep104.json
+│   │       ├── feep105.json
+│   │       ├── feep106.json
+│   │       ├── feep107.json
+│   │       ├── feep108.json
+│   │       ├── feep109.json
+│   │       ├── feep1an.json
+│   │       ├── fegp101.json
+│   │       ├── fegp102.json
+│   │       ├── fegp103.json
+│   │       ├── fegp104.json
+│   │       ├── fegp105.json
+│   │       ├── fegp106.json
+│   │       ├── fegp107.json
+│   │       ├── fegp108.json
+│   │       ├── fegp109.json
+│   │       ├── fegp110.json
+│   │       ├── fegp1ps.json
+│   │       ├── gegp101.json
+│   │       ├── gegp102.json
+│   │       ├── gegp103.json
+│   │       ├── gegp104.json
+│   │       ├── gegp105.json
+│   │       ├── gegp106.json
+│   │       ├── gegp107.json
+│   │       ├── gegp108.json
+│   │       ├── gegp1ps.json
+│   │       ├── gegp201.json
+│   │       ├── gegp202.json
+│   │       ├── gegp203.json
+│   │       ├── gegp204.json
+│   │       ├── gegp205.json
+│   │       ├── gegp206.json
+│   │       ├── gegp207.json
+│   │       ├── gegp2ps.json
+│   │       ├── gemp101.json
+│   │       ├── gemp102.json
+│   │       ├── gemp103.json
+│   │       ├── gemp104.json
+│   │       ├── gemp105.json
+│   │       ├── gemp106.json
+│   │       ├── gemp107.json
+│   │       ├── gemp108.json
+│   │       ├── gemp109.json
+│   │       ├── gemp110.json
+│   │       ├── gemp111.json
+│   │       ├── gemp112.json
+│   │       ├── gemp1a1.json
+│   │       ├── heep201.json
+│   │       ├── heep202.json
+│   │       ├── heep203.json
+│   │       ├── heep204.json
+│   │       ├── heep205.json
+│   │       ├── heep206.json
+│   │       ├── heep207.json
+│   │       ├── heep208.json
+│   │       ├── heep209.json
+│   │       ├── heep210.json
+│   │       ├── heep211.json
+│   │       ├── heep212.json
+│   │       ├── heep213.json
+│   │       ├── heep2an.json
+│   │       ├── hegp101.json
+│   │       ├── hegp102.json
+│   │       ├── hegp103.json
+│   │       ├── hegp104.json
+│   │       ├── hegp105.json
+│   │       ├── hegp106.json
+│   │       ├── hegp107.json
+│   │       ├── hegp1ps.json
+│   │       ├── hegp201.json
+│   │       ├── hegp202.json
+│   │       ├── hegp203.json
+│   │       ├── hegp204.json
+│   │       ├── hegp205.json
+│   │       ├── hegp206.json
+│   │       ├── hegp207.json
+│   │       ├── hegp2ps.json
+│   │       ├── ieep201.json
+│   │       ├── ieep202.json
+│   │       ├── ieep203.json
+│   │       ├── ieep204.json
+│   │       ├── ieep205.json
+│   │       ├── ieep206.json
+│   │       ├── ieep207.json
+│   │       ├── ieep208.json
+│   │       ├── ieep209.json
+│   │       ├── ieep210.json
+│   │       ├── ieep211.json
+│   │       ├── ieep212.json
+│   │       ├── ieep213.json
+│   │       ├── ieep214.json
+│   │       ├── ieep215.json
+│   │       ├── ieep216.json
+│   │       ├── iemh101.json
+│   │       ├── iemh102.json
+│   │       ├── iemh103.json
+│   │       ├── iemh104.json
+│   │       ├── iemh105.json
+│   │       ├── iemh106.json
+│   │       ├── iemh107.json
+│   │       ├── iemh108.json
+│   │       ├── iemh1ps.json
+│   │       ├── jeep201.json
+│   │       ├── jeep202.json
+│   │       ├── jeep203.json
+│   │       ├── jeep204.json
+│   │       ├── jeep205.json
+│   │       ├── jeep206.json
+│   │       ├── jeep207.json
+│   │       ├── jeep208.json
+│   │       ├── jeep209.json
+│   │       ├── jeep210.json
+│   │       ├── jeep211.json
+│   │       ├── jeep212.json
+│   │       ├── jeep213.json
+│   │       ├── jeep214.json
+│   │       ├── jeep215.json
+│   │       ├── jemh101.json
+│   │       ├── jemh102.json
+│   │       ├── jemh103.json
+│   │       ├── jemh104.json
+│   │       ├── jemh105.json
+│   │       ├── jemh106.json
+│   │       ├── jemh107.json
+│   │       ├── jemh108.json
+│   │       ├── jemh109.json
+│   │       ├── jemh110.json
+│   │       ├── jemh111.json
+│   │       ├── jemh112.json
+│   │       ├── jemh113.json
+│   │       ├── jemh114.json
+│   │       ├── jemh1a1.json
+│   │       ├── jemh1a2.json
+│   │       ├── jemh1an.json
+│   │       ├── jemh1ps.json
+│   │       ├── keep201.json
+│   │       ├── keep202.json
+│   │       ├── keep203.json
+│   │       ├── keep204.json
+│   │       ├── keep205.json
+│   │       ├── keep206.json
+│   │       ├── keep207.json
+│   │       ├── keep208.json
+│   │       ├── keep209.json
+│   │       ├── keep210.json
+│   │       ├── keep211.json
+│   │       ├── keep212.json
+│   │       ├── keep213.json
+│   │       ├── keep214.json
+│   │       ├── keep215.json
+│   │       ├── keep216.json
+│   │       ├── keep217.json
+│   │       ├── keep218.json
+│   │       ├── kemh101.json
+│   │       ├── kemh102.json
+│   │       ├── kemh103.json
+│   │       ├── kemh104.json
+│   │       ├── kemh105.json
+│   │       ├── kemh106.json
+│   │       ├── kemh107.json
+│   │       ├── kemh108.json
+│   │       ├── kemh109.json
+│   │       ├── kemh110.json
+│   │       ├── kemh111.json
+│   │       ├── kemh112.json
+│   │       ├── kemh113.json
+│   │       ├── kemh114.json
+│   │       ├── kemh1a1.json
+│   │       ├── kemh1a2.json
+│   │       ├── kemh1an.json
+│   │       ├── kemh1ps.json
+│   │       └── kemh1sm.json
+│   ├── logs
+│   │   └── .gitkeep
+│   ├── manifests
+│   │   ├── pdf_manifest.csv
+│   │   └── pdf_manifest.parquet
+│   ├── parquet
+│   │   └── .gitkeep
+│   ├── raw
+│   │   └── .gitkeep
+│   ├── sqlite
+│   │   └── .gitkeep
+│   └── vector
+│       └── .gitkeep
+├── debug
+│   ├── crops
+│   │   ├── 000_plain_text_0.98.png
+│   │   ├── 001_plain_text_0.98.png
+│   │   ├── 002_plain_text_0.96.png
+│   │   ├── 003_plain_text_0.96.png
+│   │   └── 004_title_0.90.png
+│   ├── debug_ex32.py
+│   ├── debug_short.py
+│   ├── debug_zero.py
+│   ├── dump_questions.py
+│   ├── dump_sections.py
+│   ├── export_json.py
+│   ├── feep101
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── feep102
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── feep103
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── feep104
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── feep105
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── feep106
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── feep107
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── feep108
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── feep109
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── feep1an
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── full_book
+│   │   ├── page_001
+│   │   │   ├── 000_plain_text_0.98.json
+│   │   │   ├── 000_plain_text_0.98.png
+│   │   │   ├── 001_plain_text_0.97.json
+│   │   │   ├── 001_plain_text_0.97.png
+│   │   │   ├── 002_plain_text_0.96.json
+│   │   │   ├── 002_plain_text_0.96.png
+│   │   │   ├── 003_plain_text_0.96.json
+│   │   │   ├── 003_plain_text_0.96.png
+│   │   │   ├── 004_plain_text_0.95.json
+│   │   │   ├── 004_plain_text_0.95.png
+│   │   │   ├── 005_plain_text_0.89.json
+│   │   │   ├── 005_plain_text_0.89.png
+│   │   │   ├── 006_plain_text_0.83.json
+│   │   │   ├── 006_plain_text_0.83.png
+│   │   │   ├── 007_title_0.62.json
+│   │   │   ├── 007_title_0.62.png
+│   │   │   ├── 008_title_0.61.json
+│   │   │   ├── 008_title_0.61.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_002
+│   │   │   ├── 000_plain_text_0.96.json
+│   │   │   ├── 000_plain_text_0.96.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_plain_text_0.95.json
+│   │   │   ├── 002_plain_text_0.95.png
+│   │   │   ├── 003_plain_text_0.93.json
+│   │   │   ├── 003_plain_text_0.93.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_003
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_plain_text_0.94.json
+│   │   │   ├── 002_plain_text_0.94.png
+│   │   │   ├── 003_plain_text_0.93.json
+│   │   │   ├── 003_plain_text_0.93.png
+│   │   │   ├── 004_title_0.92.json
+│   │   │   ├── 004_title_0.92.png
+│   │   │   ├── 005_plain_text_0.92.json
+│   │   │   ├── 005_plain_text_0.92.png
+│   │   │   ├── 006_plain_text_0.91.json
+│   │   │   ├── 006_plain_text_0.91.png
+│   │   │   ├── 007_plain_text_0.90.json
+│   │   │   ├── 007_plain_text_0.90.png
+│   │   │   ├── 008_title_0.84.json
+│   │   │   ├── 008_title_0.84.png
+│   │   │   ├── 009_plain_text_0.83.json
+│   │   │   ├── 009_plain_text_0.83.png
+│   │   │   ├── 010_plain_text_0.83.json
+│   │   │   ├── 010_plain_text_0.83.png
+│   │   │   ├── 011_plain_text_0.73.json
+│   │   │   ├── 011_plain_text_0.73.png
+│   │   │   ├── 012_plain_text_0.66.json
+│   │   │   ├── 012_plain_text_0.66.png
+│   │   │   ├── 013_plain_text_0.64.json
+│   │   │   ├── 013_plain_text_0.64.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_004
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_plain_text_0.94.json
+│   │   │   ├── 002_plain_text_0.94.png
+│   │   │   ├── 003_title_0.92.json
+│   │   │   ├── 003_title_0.92.png
+│   │   │   ├── 004_plain_text_0.92.json
+│   │   │   ├── 004_plain_text_0.92.png
+│   │   │   ├── 005_title_0.91.json
+│   │   │   ├── 005_title_0.91.png
+│   │   │   ├── 006_plain_text_0.88.json
+│   │   │   ├── 006_plain_text_0.88.png
+│   │   │   ├── 007_plain_text_0.88.json
+│   │   │   ├── 007_plain_text_0.88.png
+│   │   │   ├── 008_plain_text_0.88.json
+│   │   │   ├── 008_plain_text_0.88.png
+│   │   │   ├── 009_plain_text_0.83.json
+│   │   │   ├── 009_plain_text_0.83.png
+│   │   │   ├── 010_plain_text_0.81.json
+│   │   │   ├── 010_plain_text_0.81.png
+│   │   │   ├── 011_plain_text_0.65.json
+│   │   │   ├── 011_plain_text_0.65.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_005
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_plain_text_0.94.json
+│   │   │   ├── 002_plain_text_0.94.png
+│   │   │   ├── 003_title_0.93.json
+│   │   │   ├── 003_title_0.93.png
+│   │   │   ├── 004_plain_text_0.93.json
+│   │   │   ├── 004_plain_text_0.93.png
+│   │   │   ├── 005_plain_text_0.92.json
+│   │   │   ├── 005_plain_text_0.92.png
+│   │   │   ├── 006_plain_text_0.89.json
+│   │   │   ├── 006_plain_text_0.89.png
+│   │   │   ├── 007_plain_text_0.89.json
+│   │   │   ├── 007_plain_text_0.89.png
+│   │   │   ├── 008_plain_text_0.86.json
+│   │   │   ├── 008_plain_text_0.86.png
+│   │   │   ├── 009_plain_text_0.82.json
+│   │   │   ├── 009_plain_text_0.82.png
+│   │   │   ├── 010_plain_text_0.81.json
+│   │   │   ├── 010_plain_text_0.81.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_006
+│   │   │   ├── 000_plain_text_0.96.json
+│   │   │   ├── 000_plain_text_0.96.png
+│   │   │   ├── 001_plain_text_0.94.json
+│   │   │   ├── 001_plain_text_0.94.png
+│   │   │   ├── 002_plain_text_0.94.json
+│   │   │   ├── 002_plain_text_0.94.png
+│   │   │   ├── 003_plain_text_0.93.json
+│   │   │   ├── 003_plain_text_0.93.png
+│   │   │   ├── 004_table_0.91.json
+│   │   │   ├── 004_table_0.91.png
+│   │   │   ├── 005_plain_text_0.89.json
+│   │   │   ├── 005_plain_text_0.89.png
+│   │   │   ├── 006_plain_text_0.66.json
+│   │   │   ├── 006_plain_text_0.66.png
+│   │   │   ├── 007_title_0.64.json
+│   │   │   ├── 007_title_0.64.png
+│   │   │   ├── 008_plain_text_0.50.json
+│   │   │   ├── 008_plain_text_0.50.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_007
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.97.json
+│   │   │   ├── 001_plain_text_0.97.png
+│   │   │   ├── 002_plain_text_0.97.json
+│   │   │   ├── 002_plain_text_0.97.png
+│   │   │   ├── 003_plain_text_0.94.json
+│   │   │   ├── 003_plain_text_0.94.png
+│   │   │   ├── 004_plain_text_0.93.json
+│   │   │   ├── 004_plain_text_0.93.png
+│   │   │   ├── 005_plain_text_0.91.json
+│   │   │   ├── 005_plain_text_0.91.png
+│   │   │   ├── 006_plain_text_0.90.json
+│   │   │   ├── 006_plain_text_0.90.png
+│   │   │   ├── 007_plain_text_0.90.json
+│   │   │   ├── 007_plain_text_0.90.png
+│   │   │   ├── 008_plain_text_0.88.json
+│   │   │   ├── 008_plain_text_0.88.png
+│   │   │   ├── 009_plain_text_0.88.json
+│   │   │   ├── 009_plain_text_0.88.png
+│   │   │   ├── 010_table_0.88.json
+│   │   │   ├── 010_table_0.88.png
+│   │   │   ├── 011_plain_text_0.87.json
+│   │   │   ├── 011_plain_text_0.87.png
+│   │   │   ├── 012_title_0.83.json
+│   │   │   ├── 012_title_0.83.png
+│   │   │   ├── 013_plain_text_0.63.json
+│   │   │   ├── 013_plain_text_0.63.png
+│   │   │   ├── 014_plain_text_0.57.json
+│   │   │   ├── 014_plain_text_0.57.png
+│   │   │   ├── 015_plain_text_0.55.json
+│   │   │   ├── 015_plain_text_0.55.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_008
+│   │   │   ├── 000_table_0.99.json
+│   │   │   ├── 000_table_0.99.png
+│   │   │   ├── 001_plain_text_0.98.json
+│   │   │   ├── 001_plain_text_0.98.png
+│   │   │   ├── 002_plain_text_0.98.json
+│   │   │   ├── 002_plain_text_0.98.png
+│   │   │   ├── 003_plain_text_0.97.json
+│   │   │   ├── 003_plain_text_0.97.png
+│   │   │   ├── 004_plain_text_0.97.json
+│   │   │   ├── 004_plain_text_0.97.png
+│   │   │   ├── 005_plain_text_0.96.json
+│   │   │   ├── 005_plain_text_0.96.png
+│   │   │   ├── 006_title_0.94.json
+│   │   │   ├── 006_title_0.94.png
+│   │   │   ├── 007_plain_text_0.86.json
+│   │   │   ├── 007_plain_text_0.86.png
+│   │   │   ├── 008_plain_text_0.85.json
+│   │   │   ├── 008_plain_text_0.85.png
+│   │   │   ├── 009_plain_text_0.85.json
+│   │   │   ├── 009_plain_text_0.85.png
+│   │   │   ├── 010_plain_text_0.77.json
+│   │   │   ├── 010_plain_text_0.77.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_009
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.94.json
+│   │   │   ├── 001_plain_text_0.94.png
+│   │   │   ├── 002_plain_text_0.92.json
+│   │   │   ├── 002_plain_text_0.92.png
+│   │   │   ├── 003_plain_text_0.91.json
+│   │   │   ├── 003_plain_text_0.91.png
+│   │   │   ├── 004_plain_text_0.89.json
+│   │   │   ├── 004_plain_text_0.89.png
+│   │   │   ├── 005_plain_text_0.87.json
+│   │   │   ├── 005_plain_text_0.87.png
+│   │   │   ├── 006_plain_text_0.85.json
+│   │   │   ├── 006_plain_text_0.85.png
+│   │   │   ├── 007_title_0.83.json
+│   │   │   ├── 007_title_0.83.png
+│   │   │   ├── 008_title_0.67.json
+│   │   │   ├── 008_title_0.67.png
+│   │   │   ├── 009_plain_text_0.67.json
+│   │   │   ├── 009_plain_text_0.67.png
+│   │   │   ├── 010_plain_text_0.62.json
+│   │   │   ├── 010_plain_text_0.62.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_010
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.96.json
+│   │   │   ├── 001_plain_text_0.96.png
+│   │   │   ├── 002_plain_text_0.96.json
+│   │   │   ├── 002_plain_text_0.96.png
+│   │   │   ├── 003_plain_text_0.96.json
+│   │   │   ├── 003_plain_text_0.96.png
+│   │   │   ├── 004_plain_text_0.95.json
+│   │   │   ├── 004_plain_text_0.95.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_011
+│   │   │   ├── 000_table_0.98.json
+│   │   │   ├── 000_table_0.98.png
+│   │   │   ├── 001_plain_text_0.97.json
+│   │   │   ├── 001_plain_text_0.97.png
+│   │   │   ├── 002_plain_text_0.95.json
+│   │   │   ├── 002_plain_text_0.95.png
+│   │   │   ├── 003_title_0.92.json
+│   │   │   ├── 003_title_0.92.png
+│   │   │   ├── 004_plain_text_0.92.json
+│   │   │   ├── 004_plain_text_0.92.png
+│   │   │   ├── 005_plain_text_0.90.json
+│   │   │   ├── 005_plain_text_0.90.png
+│   │   │   ├── 006_plain_text_0.85.json
+│   │   │   ├── 006_plain_text_0.85.png
+│   │   │   ├── 007_plain_text_0.81.json
+│   │   │   ├── 007_plain_text_0.81.png
+│   │   │   ├── 008_plain_text_0.79.json
+│   │   │   ├── 008_plain_text_0.79.png
+│   │   │   ├── 009_plain_text_0.75.json
+│   │   │   ├── 009_plain_text_0.75.png
+│   │   │   ├── 010_plain_text_0.74.json
+│   │   │   ├── 010_plain_text_0.74.png
+│   │   │   ├── 011_plain_text_0.51.json
+│   │   │   ├── 011_plain_text_0.51.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_012
+│   │   │   ├── 000_table_0.96.json
+│   │   │   ├── 000_table_0.96.png
+│   │   │   ├── 001_title_0.91.json
+│   │   │   ├── 001_title_0.91.png
+│   │   │   ├── 002_plain_text_0.90.json
+│   │   │   ├── 002_plain_text_0.90.png
+│   │   │   ├── 003_plain_text_0.69.json
+│   │   │   ├── 003_plain_text_0.69.png
+│   │   │   ├── 004_plain_text_0.53.json
+│   │   │   ├── 004_plain_text_0.53.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_013
+│   │   │   ├── 000_table_0.98.json
+│   │   │   ├── 000_table_0.98.png
+│   │   │   ├── 001_plain_text_0.96.json
+│   │   │   ├── 001_plain_text_0.96.png
+│   │   │   ├── 002_title_0.93.json
+│   │   │   ├── 002_title_0.93.png
+│   │   │   ├── 003_isolate_formula_0.93.json
+│   │   │   ├── 003_isolate_formula_0.93.png
+│   │   │   ├── 004_plain_text_0.92.json
+│   │   │   ├── 004_plain_text_0.92.png
+│   │   │   ├── 005_plain_text_0.92.json
+│   │   │   ├── 005_plain_text_0.92.png
+│   │   │   ├── 006_title_0.92.json
+│   │   │   ├── 006_title_0.92.png
+│   │   │   ├── 007_plain_text_0.74.json
+│   │   │   ├── 007_plain_text_0.74.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_014
+│   │   │   ├── 000_plain_text_0.96.json
+│   │   │   ├── 000_plain_text_0.96.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_isolate_formula_0.93.json
+│   │   │   ├── 002_isolate_formula_0.93.png
+│   │   │   ├── 003_title_0.92.json
+│   │   │   ├── 003_title_0.92.png
+│   │   │   ├── 004_plain_text_0.91.json
+│   │   │   ├── 004_plain_text_0.91.png
+│   │   │   ├── 005_plain_text_0.90.json
+│   │   │   ├── 005_plain_text_0.90.png
+│   │   │   ├── 006_plain_text_0.89.json
+│   │   │   ├── 006_plain_text_0.89.png
+│   │   │   ├── 007_plain_text_0.88.json
+│   │   │   ├── 007_plain_text_0.88.png
+│   │   │   ├── 008_plain_text_0.88.json
+│   │   │   ├── 008_plain_text_0.88.png
+│   │   │   ├── 009_title_0.69.json
+│   │   │   ├── 009_title_0.69.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_015
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.97.json
+│   │   │   ├── 001_plain_text_0.97.png
+│   │   │   ├── 002_plain_text_0.94.json
+│   │   │   ├── 002_plain_text_0.94.png
+│   │   │   ├── 003_plain_text_0.94.json
+│   │   │   ├── 003_plain_text_0.94.png
+│   │   │   ├── 004_plain_text_0.94.json
+│   │   │   ├── 004_plain_text_0.94.png
+│   │   │   ├── 005_plain_text_0.93.json
+│   │   │   ├── 005_plain_text_0.93.png
+│   │   │   ├── 006_plain_text_0.93.json
+│   │   │   ├── 006_plain_text_0.93.png
+│   │   │   ├── 007_plain_text_0.92.json
+│   │   │   ├── 007_plain_text_0.92.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_016
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_title_0.93.json
+│   │   │   ├── 001_title_0.93.png
+│   │   │   ├── 002_title_0.72.json
+│   │   │   ├── 002_title_0.72.png
+│   │   │   ├── 003_plain_text_0.58.json
+│   │   │   ├── 003_plain_text_0.58.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_017
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.65.json
+│   │   │   ├── 001_plain_text_0.65.png
+│   │   │   ├── 002_plain_text_0.56.json
+│   │   │   ├── 002_plain_text_0.56.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_018
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.93.json
+│   │   │   ├── 001_plain_text_0.93.png
+│   │   │   ├── 002_plain_text_0.92.json
+│   │   │   ├── 002_plain_text_0.92.png
+│   │   │   ├── 003_title_0.92.json
+│   │   │   ├── 003_title_0.92.png
+│   │   │   ├── 004_plain_text_0.85.json
+│   │   │   ├── 004_plain_text_0.85.png
+│   │   │   ├── 005_title_0.84.json
+│   │   │   ├── 005_title_0.84.png
+│   │   │   ├── 006_plain_text_0.84.json
+│   │   │   ├── 006_plain_text_0.84.png
+│   │   │   ├── 007_plain_text_0.69.json
+│   │   │   ├── 007_plain_text_0.69.png
+│   │   │   ├── 008_title_0.57.json
+│   │   │   ├── 008_title_0.57.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_019
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_plain_text_0.94.json
+│   │   │   ├── 002_plain_text_0.94.png
+│   │   │   ├── 003_plain_text_0.94.json
+│   │   │   ├── 003_plain_text_0.94.png
+│   │   │   ├── 004_plain_text_0.94.json
+│   │   │   ├── 004_plain_text_0.94.png
+│   │   │   ├── 005_plain_text_0.93.json
+│   │   │   ├── 005_plain_text_0.93.png
+│   │   │   ├── 006_plain_text_0.92.json
+│   │   │   ├── 006_plain_text_0.92.png
+│   │   │   ├── 007_plain_text_0.91.json
+│   │   │   ├── 007_plain_text_0.91.png
+│   │   │   ├── 008_plain_text_0.91.json
+│   │   │   ├── 008_plain_text_0.91.png
+│   │   │   ├── 009_plain_text_0.83.json
+│   │   │   ├── 009_plain_text_0.83.png
+│   │   │   ├── 010_plain_text_0.82.json
+│   │   │   ├── 010_plain_text_0.82.png
+│   │   │   ├── 011_title_0.72.json
+│   │   │   ├── 011_title_0.72.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_020
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.91.json
+│   │   │   ├── 001_plain_text_0.91.png
+│   │   │   ├── 002_plain_text_0.89.json
+│   │   │   ├── 002_plain_text_0.89.png
+│   │   │   ├── 003_plain_text_0.88.json
+│   │   │   ├── 003_plain_text_0.88.png
+│   │   │   ├── 004_plain_text_0.80.json
+│   │   │   ├── 004_plain_text_0.80.png
+│   │   │   ├── 005_plain_text_0.67.json
+│   │   │   ├── 005_plain_text_0.67.png
+│   │   │   ├── 006_plain_text_0.66.json
+│   │   │   ├── 006_plain_text_0.66.png
+│   │   │   ├── 007_plain_text_0.63.json
+│   │   │   ├── 007_plain_text_0.63.png
+│   │   │   ├── 008_plain_text_0.62.json
+│   │   │   ├── 008_plain_text_0.62.png
+│   │   │   ├── 009_plain_text_0.59.json
+│   │   │   ├── 009_plain_text_0.59.png
+│   │   │   ├── 010_plain_text_0.55.json
+│   │   │   ├── 010_plain_text_0.55.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_021
+│   │   │   ├── 000_plain_text_0.94.json
+│   │   │   ├── 000_plain_text_0.94.png
+│   │   │   ├── 001_plain_text_0.86.json
+│   │   │   ├── 001_plain_text_0.86.png
+│   │   │   ├── 002_plain_text_0.77.json
+│   │   │   ├── 002_plain_text_0.77.png
+│   │   │   ├── 003_plain_text_0.75.json
+│   │   │   ├── 003_plain_text_0.75.png
+│   │   │   ├── 004_plain_text_0.75.json
+│   │   │   ├── 004_plain_text_0.75.png
+│   │   │   ├── 005_plain_text_0.73.json
+│   │   │   ├── 005_plain_text_0.73.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_022
+│   │   │   ├── 000_plain_text_0.93.json
+│   │   │   ├── 000_plain_text_0.93.png
+│   │   │   ├── 001_title_0.84.json
+│   │   │   ├── 001_title_0.84.png
+│   │   │   ├── 002_plain_text_0.73.json
+│   │   │   ├── 002_plain_text_0.73.png
+│   │   │   ├── 003_plain_text_0.61.json
+│   │   │   ├── 003_plain_text_0.61.png
+│   │   │   ├── 004_plain_text_0.60.json
+│   │   │   ├── 004_plain_text_0.60.png
+│   │   │   ├── 005_plain_text_0.55.json
+│   │   │   ├── 005_plain_text_0.55.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_023
+│   │   │   ├── 000_plain_text_0.90.json
+│   │   │   ├── 000_plain_text_0.90.png
+│   │   │   ├── 001_plain_text_0.89.json
+│   │   │   ├── 001_plain_text_0.89.png
+│   │   │   ├── 002_plain_text_0.82.json
+│   │   │   ├── 002_plain_text_0.82.png
+│   │   │   ├── 003_title_0.77.json
+│   │   │   ├── 003_title_0.77.png
+│   │   │   ├── 004_plain_text_0.76.json
+│   │   │   ├── 004_plain_text_0.76.png
+│   │   │   ├── 005_plain_text_0.75.json
+│   │   │   ├── 005_plain_text_0.75.png
+│   │   │   ├── 006_title_0.75.json
+│   │   │   ├── 006_title_0.75.png
+│   │   │   ├── 007_title_0.65.json
+│   │   │   ├── 007_title_0.65.png
+│   │   │   ├── 008_plain_text_0.54.json
+│   │   │   ├── 008_plain_text_0.54.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_024
+│   │   │   ├── 000_plain_text_0.88.json
+│   │   │   ├── 000_plain_text_0.88.png
+│   │   │   ├── 001_plain_text_0.75.json
+│   │   │   ├── 001_plain_text_0.75.png
+│   │   │   ├── 002_plain_text_0.75.json
+│   │   │   ├── 002_plain_text_0.75.png
+│   │   │   ├── 003_title_0.72.json
+│   │   │   ├── 003_title_0.72.png
+│   │   │   ├── 004_plain_text_0.69.json
+│   │   │   ├── 004_plain_text_0.69.png
+│   │   │   ├── 005_plain_text_0.65.json
+│   │   │   ├── 005_plain_text_0.65.png
+│   │   │   ├── 006_plain_text_0.64.json
+│   │   │   ├── 006_plain_text_0.64.png
+│   │   │   ├── 007_plain_text_0.63.json
+│   │   │   ├── 007_plain_text_0.63.png
+│   │   │   ├── 008_plain_text_0.63.json
+│   │   │   ├── 008_plain_text_0.63.png
+│   │   │   ├── 009_title_0.63.json
+│   │   │   ├── 009_title_0.63.png
+│   │   │   ├── 010_plain_text_0.62.json
+│   │   │   ├── 010_plain_text_0.62.png
+│   │   │   ├── 011_plain_text_0.53.json
+│   │   │   ├── 011_plain_text_0.53.png
+│   │   │   ├── 012_plain_text_0.52.json
+│   │   │   ├── 012_plain_text_0.52.png
+│   │   │   ├── 013_plain_text_0.51.json
+│   │   │   ├── 013_plain_text_0.51.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_025
+│   │   │   ├── 000_title_0.90.json
+│   │   │   ├── 000_title_0.90.png
+│   │   │   ├── 001_title_0.83.json
+│   │   │   ├── 001_title_0.83.png
+│   │   │   ├── 002_plain_text_0.74.json
+│   │   │   ├── 002_plain_text_0.74.png
+│   │   │   ├── 003_plain_text_0.63.json
+│   │   │   ├── 003_plain_text_0.63.png
+│   │   │   ├── 004_title_0.62.json
+│   │   │   ├── 004_title_0.62.png
+│   │   │   ├── 005_plain_text_0.53.json
+│   │   │   ├── 005_plain_text_0.53.png
+│   │   │   ├── 006_plain_text_0.50.json
+│   │   │   ├── 006_plain_text_0.50.png
+│   │   │   ├── 007_plain_text_0.50.json
+│   │   │   ├── 007_plain_text_0.50.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_026
+│   │   │   ├── 000_table_0.98.json
+│   │   │   ├── 000_table_0.98.png
+│   │   │   ├── 001_title_0.82.json
+│   │   │   ├── 001_title_0.82.png
+│   │   │   ├── 002_title_0.81.json
+│   │   │   ├── 002_title_0.81.png
+│   │   │   ├── 003_plain_text_0.78.json
+│   │   │   ├── 003_plain_text_0.78.png
+│   │   │   ├── 004_plain_text_0.72.json
+│   │   │   ├── 004_plain_text_0.72.png
+│   │   │   ├── 005_plain_text_0.67.json
+│   │   │   ├── 005_plain_text_0.67.png
+│   │   │   ├── 006_plain_text_0.54.json
+│   │   │   ├── 006_plain_text_0.54.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_027
+│   │   │   ├── 000_plain_text_0.89.json
+│   │   │   ├── 000_plain_text_0.89.png
+│   │   │   ├── 001_plain_text_0.81.json
+│   │   │   ├── 001_plain_text_0.81.png
+│   │   │   ├── 002_plain_text_0.79.json
+│   │   │   ├── 002_plain_text_0.79.png
+│   │   │   ├── 003_plain_text_0.78.json
+│   │   │   ├── 003_plain_text_0.78.png
+│   │   │   ├── 004_plain_text_0.73.json
+│   │   │   ├── 004_plain_text_0.73.png
+│   │   │   ├── 005_title_0.73.json
+│   │   │   ├── 005_title_0.73.png
+│   │   │   ├── 006_plain_text_0.70.json
+│   │   │   ├── 006_plain_text_0.70.png
+│   │   │   ├── 007_title_0.59.json
+│   │   │   ├── 007_title_0.59.png
+│   │   │   ├── 008_plain_text_0.58.json
+│   │   │   ├── 008_plain_text_0.58.png
+│   │   │   ├── 009_isolate_formula_0.56.json
+│   │   │   ├── 009_isolate_formula_0.56.png
+│   │   │   ├── 010_plain_text_0.55.json
+│   │   │   ├── 010_plain_text_0.55.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_028
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.93.json
+│   │   │   ├── 001_plain_text_0.93.png
+│   │   │   ├── 002_plain_text_0.92.json
+│   │   │   ├── 002_plain_text_0.92.png
+│   │   │   ├── 003_plain_text_0.90.json
+│   │   │   ├── 003_plain_text_0.90.png
+│   │   │   ├── 004_plain_text_0.87.json
+│   │   │   ├── 004_plain_text_0.87.png
+│   │   │   ├── 005_plain_text_0.85.json
+│   │   │   ├── 005_plain_text_0.85.png
+│   │   │   ├── 006_title_0.81.json
+│   │   │   ├── 006_title_0.81.png
+│   │   │   ├── 007_plain_text_0.74.json
+│   │   │   ├── 007_plain_text_0.74.png
+│   │   │   ├── 008_plain_text_0.67.json
+│   │   │   ├── 008_plain_text_0.67.png
+│   │   │   ├── 009_isolate_formula_0.61.json
+│   │   │   ├── 009_isolate_formula_0.61.png
+│   │   │   ├── 010_isolate_formula_0.53.json
+│   │   │   ├── 010_isolate_formula_0.53.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_029
+│   │   │   ├── 000_table_0.98.json
+│   │   │   ├── 000_table_0.98.png
+│   │   │   ├── 001_plain_text_0.91.json
+│   │   │   ├── 001_plain_text_0.91.png
+│   │   │   ├── 002_plain_text_0.89.json
+│   │   │   ├── 002_plain_text_0.89.png
+│   │   │   ├── 003_title_0.88.json
+│   │   │   ├── 003_title_0.88.png
+│   │   │   ├── 004_title_0.87.json
+│   │   │   ├── 004_title_0.87.png
+│   │   │   ├── 005_plain_text_0.86.json
+│   │   │   ├── 005_plain_text_0.86.png
+│   │   │   ├── 006_title_0.53.json
+│   │   │   ├── 006_title_0.53.png
+│   │   │   ├── 007_plain_text_0.52.json
+│   │   │   ├── 007_plain_text_0.52.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_030
+│   │   │   ├── 000_table_0.98.json
+│   │   │   ├── 000_table_0.98.png
+│   │   │   ├── 001_plain_text_0.93.json
+│   │   │   ├── 001_plain_text_0.93.png
+│   │   │   ├── 002_title_0.88.json
+│   │   │   ├── 002_title_0.88.png
+│   │   │   ├── 003_plain_text_0.86.json
+│   │   │   ├── 003_plain_text_0.86.png
+│   │   │   ├── 004_title_0.86.json
+│   │   │   ├── 004_title_0.86.png
+│   │   │   ├── 005_plain_text_0.77.json
+│   │   │   ├── 005_plain_text_0.77.png
+│   │   │   ├── 006_plain_text_0.75.json
+│   │   │   ├── 006_plain_text_0.75.png
+│   │   │   ├── 007_plain_text_0.74.json
+│   │   │   ├── 007_plain_text_0.74.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_031
+│   │   │   ├── 000_table_0.97.json
+│   │   │   ├── 000_table_0.97.png
+│   │   │   ├── 001_table_0.97.json
+│   │   │   ├── 001_table_0.97.png
+│   │   │   ├── 002_plain_text_0.92.json
+│   │   │   ├── 002_plain_text_0.92.png
+│   │   │   ├── 003_title_0.88.json
+│   │   │   ├── 003_title_0.88.png
+│   │   │   ├── 004_plain_text_0.83.json
+│   │   │   ├── 004_plain_text_0.83.png
+│   │   │   ├── 005_plain_text_0.80.json
+│   │   │   ├── 005_plain_text_0.80.png
+│   │   │   ├── 006_plain_text_0.71.json
+│   │   │   ├── 006_plain_text_0.71.png
+│   │   │   ├── 007_title_0.70.json
+│   │   │   ├── 007_title_0.70.png
+│   │   │   ├── 008_plain_text_0.69.json
+│   │   │   ├── 008_plain_text_0.69.png
+│   │   │   ├── 009_plain_text_0.67.json
+│   │   │   ├── 009_plain_text_0.67.png
+│   │   │   ├── 010_plain_text_0.60.json
+│   │   │   ├── 010_plain_text_0.60.png
+│   │   │   ├── 011_title_0.52.json
+│   │   │   ├── 011_title_0.52.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_032
+│   │   │   ├── 000_title_0.87.json
+│   │   │   ├── 000_title_0.87.png
+│   │   │   ├── 001_title_0.86.json
+│   │   │   ├── 001_title_0.86.png
+│   │   │   ├── 002_plain_text_0.77.json
+│   │   │   ├── 002_plain_text_0.77.png
+│   │   │   ├── 003_plain_text_0.75.json
+│   │   │   ├── 003_plain_text_0.75.png
+│   │   │   ├── 004_plain_text_0.74.json
+│   │   │   ├── 004_plain_text_0.74.png
+│   │   │   ├── 005_plain_text_0.73.json
+│   │   │   ├── 005_plain_text_0.73.png
+│   │   │   ├── 006_plain_text_0.70.json
+│   │   │   ├── 006_plain_text_0.70.png
+│   │   │   ├── 007_plain_text_0.68.json
+│   │   │   ├── 007_plain_text_0.68.png
+│   │   │   ├── 008_plain_text_0.62.json
+│   │   │   ├── 008_plain_text_0.62.png
+│   │   │   ├── 009_plain_text_0.60.json
+│   │   │   ├── 009_plain_text_0.60.png
+│   │   │   ├── 010_plain_text_0.59.json
+│   │   │   ├── 010_plain_text_0.59.png
+│   │   │   ├── 011_plain_text_0.58.json
+│   │   │   ├── 011_plain_text_0.58.png
+│   │   │   ├── 012_plain_text_0.55.json
+│   │   │   ├── 012_plain_text_0.55.png
+│   │   │   ├── 013_plain_text_0.50.json
+│   │   │   ├── 013_plain_text_0.50.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_033
+│   │   │   ├── 000_plain_text_0.87.json
+│   │   │   ├── 000_plain_text_0.87.png
+│   │   │   ├── 001_title_0.84.json
+│   │   │   ├── 001_title_0.84.png
+│   │   │   ├── 002_plain_text_0.79.json
+│   │   │   ├── 002_plain_text_0.79.png
+│   │   │   ├── 003_plain_text_0.77.json
+│   │   │   ├── 003_plain_text_0.77.png
+│   │   │   ├── 004_plain_text_0.74.json
+│   │   │   ├── 004_plain_text_0.74.png
+│   │   │   ├── 005_plain_text_0.73.json
+│   │   │   ├── 005_plain_text_0.73.png
+│   │   │   ├── 006_plain_text_0.60.json
+│   │   │   ├── 006_plain_text_0.60.png
+│   │   │   ├── 007_isolate_formula_0.54.json
+│   │   │   ├── 007_isolate_formula_0.54.png
+│   │   │   ├── 008_plain_text_0.53.json
+│   │   │   ├── 008_plain_text_0.53.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_034
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_plain_text_0.88.json
+│   │   │   ├── 001_plain_text_0.88.png
+│   │   │   ├── 002_title_0.88.json
+│   │   │   ├── 002_title_0.88.png
+│   │   │   ├── 003_plain_text_0.84.json
+│   │   │   ├── 003_plain_text_0.84.png
+│   │   │   ├── 004_plain_text_0.83.json
+│   │   │   ├── 004_plain_text_0.83.png
+│   │   │   ├── 005_plain_text_0.79.json
+│   │   │   ├── 005_plain_text_0.79.png
+│   │   │   ├── 006_plain_text_0.79.json
+│   │   │   ├── 006_plain_text_0.79.png
+│   │   │   ├── 007_title_0.63.json
+│   │   │   ├── 007_title_0.63.png
+│   │   │   ├── 008_plain_text_0.63.json
+│   │   │   ├── 008_plain_text_0.63.png
+│   │   │   ├── 009_plain_text_0.59.json
+│   │   │   ├── 009_plain_text_0.59.png
+│   │   │   ├── 010_plain_text_0.58.json
+│   │   │   ├── 010_plain_text_0.58.png
+│   │   │   ├── 011_plain_text_0.53.json
+│   │   │   ├── 011_plain_text_0.53.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_035
+│   │   │   ├── 000_plain_text_0.87.json
+│   │   │   ├── 000_plain_text_0.87.png
+│   │   │   ├── 001_plain_text_0.83.json
+│   │   │   ├── 001_plain_text_0.83.png
+│   │   │   ├── 002_plain_text_0.80.json
+│   │   │   ├── 002_plain_text_0.80.png
+│   │   │   ├── 003_plain_text_0.80.json
+│   │   │   ├── 003_plain_text_0.80.png
+│   │   │   ├── 004_title_0.74.json
+│   │   │   ├── 004_title_0.74.png
+│   │   │   ├── 005_plain_text_0.69.json
+│   │   │   ├── 005_plain_text_0.69.png
+│   │   │   ├── 006_plain_text_0.68.json
+│   │   │   ├── 006_plain_text_0.68.png
+│   │   │   ├── 007_title_0.64.json
+│   │   │   ├── 007_title_0.64.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_036
+│   │   │   ├── 000_plain_text_0.94.json
+│   │   │   ├── 000_plain_text_0.94.png
+│   │   │   ├── 001_table_0.88.json
+│   │   │   ├── 001_table_0.88.png
+│   │   │   ├── 002_plain_text_0.81.json
+│   │   │   ├── 002_plain_text_0.81.png
+│   │   │   ├── 003_plain_text_0.80.json
+│   │   │   ├── 003_plain_text_0.80.png
+│   │   │   ├── 004_plain_text_0.60.json
+│   │   │   ├── 004_plain_text_0.60.png
+│   │   │   ├── 005_plain_text_0.56.json
+│   │   │   ├── 005_plain_text_0.56.png
+│   │   │   ├── 006_plain_text_0.54.json
+│   │   │   ├── 006_plain_text_0.54.png
+│   │   │   ├── 007_plain_text_0.52.json
+│   │   │   ├── 007_plain_text_0.52.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_037
+│   │   │   ├── 000_plain_text_0.95.json
+│   │   │   ├── 000_plain_text_0.95.png
+│   │   │   ├── 001_table_0.94.json
+│   │   │   ├── 001_table_0.94.png
+│   │   │   ├── 002_plain_text_0.93.json
+│   │   │   ├── 002_plain_text_0.93.png
+│   │   │   ├── 003_plain_text_0.81.json
+│   │   │   ├── 003_plain_text_0.81.png
+│   │   │   ├── 004_plain_text_0.79.json
+│   │   │   ├── 004_plain_text_0.79.png
+│   │   │   ├── 005_plain_text_0.79.json
+│   │   │   ├── 005_plain_text_0.79.png
+│   │   │   ├── 006_plain_text_0.77.json
+│   │   │   ├── 006_plain_text_0.77.png
+│   │   │   ├── 007_plain_text_0.62.json
+│   │   │   ├── 007_plain_text_0.62.png
+│   │   │   ├── 008_plain_text_0.62.json
+│   │   │   ├── 008_plain_text_0.62.png
+│   │   │   ├── 009_plain_text_0.57.json
+│   │   │   ├── 009_plain_text_0.57.png
+│   │   │   ├── 010_plain_text_0.52.json
+│   │   │   ├── 010_plain_text_0.52.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   ├── page_038
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.96.json
+│   │   │   ├── 001_plain_text_0.96.png
+│   │   │   ├── 002_plain_text_0.93.json
+│   │   │   ├── 002_plain_text_0.93.png
+│   │   │   ├── 003_plain_text_0.84.json
+│   │   │   ├── 003_plain_text_0.84.png
+│   │   │   ├── 004_plain_text_0.83.json
+│   │   │   ├── 004_plain_text_0.83.png
+│   │   │   ├── 005_title_0.77.json
+│   │   │   ├── 005_title_0.77.png
+│   │   │   ├── 006_plain_text_0.74.json
+│   │   │   ├── 006_plain_text_0.74.png
+│   │   │   ├── 007_title_0.74.json
+│   │   │   ├── 007_title_0.74.png
+│   │   │   ├── 008_plain_text_0.67.json
+│   │   │   ├── 008_plain_text_0.67.png
+│   │   │   ├── 009_plain_text_0.59.json
+│   │   │   ├── 009_plain_text_0.59.png
+│   │   │   ├── 010_title_0.52.json
+│   │   │   ├── 010_title_0.52.png
+│   │   │   ├── page_clean.md
+│   │   │   ├── page.json
+│   │   │   └── page.md
+│   │   └── render
+│   │       ├── page_001.png
+│   │       ├── page_002.png
+│   │       ├── page_003.png
+│   │       ├── page_004.png
+│   │       ├── page_005.png
+│   │       ├── page_006.png
+│   │       ├── page_007.png
+│   │       ├── page_008.png
+│   │       ├── page_009.png
+│   │       ├── page_010.png
+│   │       ├── page_011.png
+│   │       ├── page_012.png
+│   │       ├── page_013.png
+│   │       ├── page_014.png
+│   │       ├── page_015.png
+│   │       ├── page_016.png
+│   │       ├── page_017.png
+│   │       ├── page_018.png
+│   │       ├── page_019.png
+│   │       ├── page_020.png
+│   │       ├── page_021.png
+│   │       ├── page_022.png
+│   │       ├── page_023.png
+│   │       ├── page_024.png
+│   │       ├── page_025.png
+│   │       ├── page_026.png
+│   │       ├── page_027.png
+│   │       ├── page_028.png
+│   │       ├── page_029.png
+│   │       ├── page_030.png
+│   │       ├── page_031.png
+│   │       ├── page_032.png
+│   │       ├── page_033.png
+│   │       ├── page_034.png
+│   │       ├── page_035.png
+│   │       ├── page_036.png
+│   │       ├── page_037.png
+│   │       └── page_038.png
+│   ├── full_book_parallel
+│   │   ├── page_001
+│   │   ├── page_002
+│   │   ├── page_003
+│   │   ├── page_004
+│   │   ├── page_005
+│   │   ├── page_006
+│   │   ├── page_007
+│   │   ├── page_008
+│   │   ├── page_009
+│   │   ├── page_010
+│   │   ├── page_011
+│   │   ├── page_012
+│   │   ├── page_013
+│   │   ├── page_014
+│   │   ├── page_015
+│   │   ├── page_016
+│   │   ├── page_017
+│   │   ├── page_019
+│   │   ├── page_021
+│   │   ├── page_023
+│   │   ├── page_025
+│   │   ├── page_027
+│   │   ├── page_029
+│   │   ├── page_031
+│   │   ├── page_033
+│   │   ├── page_035
+│   │   ├── page_037
+│   │   └── render
+│   │       ├── page_001.png
+│   │       ├── page_002.png
+│   │       ├── page_003.png
+│   │       ├── page_004.png
+│   │       ├── page_005.png
+│   │       ├── page_006.png
+│   │       ├── page_007.png
+│   │       ├── page_008.png
+│   │       ├── page_009.png
+│   │       ├── page_010.png
+│   │       ├── page_011.png
+│   │       ├── page_012.png
+│   │       ├── page_013.png
+│   │       ├── page_014.png
+│   │       ├── page_015.png
+│   │       ├── page_016.png
+│   │       ├── page_017.png
+│   │       ├── page_018.png
+│   │       ├── page_019.png
+│   │       ├── page_020.png
+│   │       ├── page_021.png
+│   │       ├── page_022.png
+│   │       ├── page_023.png
+│   │       ├── page_024.png
+│   │       ├── page_025.png
+│   │       ├── page_026.png
+│   │       ├── page_027.png
+│   │       ├── page_028.png
+│   │       ├── page_029.png
+│   │       ├── page_030.png
+│   │       ├── page_031.png
+│   │       ├── page_032.png
+│   │       ├── page_033.png
+│   │       ├── page_034.png
+│   │       ├── page_035.png
+│   │       ├── page_036.png
+│   │       ├── page_037.png
+│   │       └── page_038.png
+│   ├── full_book_parallel,
+│   ├── gemp101
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp102
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── gemp103
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp104
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp105
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp106
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp107
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp108
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── gemp109
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp110
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp111
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── gemp112
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── gemp1a1
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep201
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep202
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep203
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep204
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep205
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep206
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── heep207
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep208
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── heep209
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── heep210
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep211
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep212
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── heep213
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── heep2an
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── hegp204
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── ieep201
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep202
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep203
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep204
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep205
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep206
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep207
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep208
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep209
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep210
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep211
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep212
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep213
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep214
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── ieep215
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── ieep216
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── iemh102
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── iemh103
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── __init__.py
+│   ├── inspect_page8.py
+│   ├── inspect_pymupdf.py
+│   ├── jeep201
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep202
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep203
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep204
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep205
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep206
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep207
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep208
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep209
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep210
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep211
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep212
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep213
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── jeep214
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── jeep215
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep201
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep202
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep203
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep204
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep205
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── keep206
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep207
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── keep208
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── keep209
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep210
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep211
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep212
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep213
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep214
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep215
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── keep216
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── keep217
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   └── 07_SectionParserStage.txt
+│   ├── keep218
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── kemh106
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── kemh110
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── kemh114
+│   │   ├── 01_MetadataStage.json
+│   │   ├── 02_PDFParserStage.txt
+│   │   ├── 03_BlockSplitterStage.txt
+│   │   ├── 04_BlockMergerStage.txt
+│   │   ├── 05_BlockNormalizerStage.txt
+│   │   ├── 06_LayoutCleanerStage.txt
+│   │   ├── 07_SectionParserStage.txt
+│   │   ├── 08_QuestionParserStage.json
+│   │   └── 09_QuestionEnrichmentStage.json
+│   ├── page1
+│   │   ├── 000_plain_text_0.98.json
+│   │   ├── 000_plain_text_0.98.png
+│   │   ├── 001_plain_text_0.97.json
+│   │   ├── 001_plain_text_0.97.png
+│   │   ├── 002_plain_text_0.96.json
+│   │   ├── 002_plain_text_0.96.png
+│   │   ├── 003_plain_text_0.96.json
+│   │   ├── 003_plain_text_0.96.png
+│   │   ├── 004_plain_text_0.95.json
+│   │   ├── 004_plain_text_0.95.png
+│   │   ├── 005_plain_text_0.89.json
+│   │   ├── 005_plain_text_0.89.png
+│   │   ├── 006_plain_text_0.83.json
+│   │   ├── 006_plain_text_0.83.png
+│   │   ├── 007_title_0.62.json
+│   │   ├── 007_title_0.62.png
+│   │   ├── 008_title_0.61.json
+│   │   ├── 008_title_0.61.png
+│   │   └── page.md
+│   ├── page1,
+│   ├── page_clean.md
+│   ├── page.md
+│   ├── pipeline
+│   │   ├── 000_plain_text_0.98.json
+│   │   ├── 000_plain_text_0.98.png
+│   │   ├── 001_plain_text_0.98.json
+│   │   ├── 001_plain_text_0.98.png
+│   │   ├── 002_plain_text_0.96.json
+│   │   ├── 002_plain_text_0.96.png
+│   │   ├── 003_plain_text_0.96.json
+│   │   ├── 003_plain_text_0.96.png
+│   │   ├── 004_title_0.90.json
+│   │   └── 004_title_0.90.png
+│   ├── render
+│   │   ├── page_0001.png,
+│   │   ├── page_001.png
+│   │   ├── page_002.png
+│   │   ├── page_003.png
+│   │   ├── page_004.png
+│   │   ├── page_005.png
+│   │   ├── page_006.png
+│   │   ├── page_007.png
+│   │   ├── page_008.png
+│   │   ├── page_009.png
+│   │   ├── page_010.png
+│   │   ├── page_011.png
+│   │   ├── page_012.png
+│   │   ├── page_013.png
+│   │   ├── page_014.png
+│   │   ├── page_015.png
+│   │   ├── page_016.png
+│   │   ├── page_017.png
+│   │   ├── page_018.png
+│   │   ├── page_019.png
+│   │   ├── page_020.png
+│   │   ├── page_021.png
+│   │   ├── page_022.png
+│   │   ├── page_023.png
+│   │   ├── page_024.png
+│   │   ├── page_025.png
+│   │   ├── page_026.png
+│   │   ├── page_027.png
+│   │   ├── page_028.png
+│   │   ├── page_029.png
+│   │   ├── page_030.png
+│   │   ├── page_031.png
+│   │   ├── page_032.png
+│   │   ├── page_033.png
+│   │   ├── page_034.png
+│   │   ├── page_035.png
+│   │   ├── page_036.png
+│   │   ├── page_037.png
+│   │   └── page_038.png
+│   ├── stats.py
+│   ├── test
+│   │   └── 000_plain_text_0.98.png
+│   ├── test_ai_model.py
+│   ├── test_ai_pipeline.py
+│   ├── test_answer_extractor.py
+│   ├── test_answers.py
+│   ├── test_benchmark.py
+│   ├── test_builtin_pipeline.py
+│   ├── test_chapter.py
+│   ├── test_classifier.py
+│   ├── test_dataset_score.py
+│   ├── test_detector.py
+│   ├── test_difficulty.py
+│   ├── test_enricher.py
+│   ├── test_exercise_tracker.py
+│   ├── test_factory.py
+│   ├── test_figure_extractor.py
+│   ├── test_figure_linker.py
+│   ├── test_formula_merger.py
+│   ├── test_images.py
+│   ├── test_layout_graph2.py
+│   ├── test_layout_graph.py
+│   ├── test_line_grouper.py
+│   ├── test_line_merger.py
+│   ├── test_mcq.py
+│   ├── test_parser_v2.py
+│   ├── test_pipeline_engine.py
+│   ├── test_question_builder.py
+│   ├── test_question_classifier.py
+│   ├── test_question_parser_v2.py
+│   ├── test_question_splitter.py
+│   ├── test_report.py
+│   ├── test_schema_validator.py
+│   ├── test_solution_extractor.py
+│   ├── test_solution.py
+│   ├── test_statistics.py
+│   ├── test_topic.py
+│   ├── test_validator_engine.py
+│   ├── test_validator.py
+│   └── validate.py
+├── dev_check.sh
+├── docs
+│   └── design
+│       ├── DocumentGrammar.md
+│       └── LexerSpecification.md
+├── EOF
+├── experiment.log
+├── exporters
+│   └── json_exporter.py
+├── extractor_pro.egg-info
+│   ├── dependency_links.txt
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   └── top_level.txt
+├── extract.py
+├── from
+├── .gitignore
+├── import
+├── jeep214_blocks.txt
+├── merged_page8.txt
+├── models
+│   └── __init__.py
+├── nano
+├── output
+│   ├── debug
+│   ├── evaluation
+│   │   ├── evaluation.json
+│   │   ├── master_dataset.jsonl
+│   │   ├── master_dataset.parquet
+│   │   ├── page_001
+│   │   │   ├── 000_plain_text_0.98.json
+│   │   │   ├── 000_plain_text_0.98.png
+│   │   │   ├── 001_plain_text_0.98.json
+│   │   │   ├── 001_plain_text_0.98.png
+│   │   │   ├── 002_plain_text_0.96.json
+│   │   │   ├── 002_plain_text_0.96.png
+│   │   │   ├── 003_plain_text_0.96.json
+│   │   │   ├── 003_plain_text_0.96.png
+│   │   │   ├── 004_title_0.90.json
+│   │   │   └── 004_title_0.90.png
+│   │   ├── page_002
+│   │   │   ├── 000_plain_text_0.98.json
+│   │   │   ├── 000_plain_text_0.98.png
+│   │   │   ├── 001_plain_text_0.96.json
+│   │   │   ├── 001_plain_text_0.96.png
+│   │   │   ├── 002_plain_text_0.95.json
+│   │   │   ├── 002_plain_text_0.95.png
+│   │   │   ├── 003_plain_text_0.95.json
+│   │   │   ├── 003_plain_text_0.95.png
+│   │   │   ├── 004_plain_text_0.95.json
+│   │   │   ├── 004_plain_text_0.95.png
+│   │   │   ├── 005_title_0.94.json
+│   │   │   ├── 005_title_0.94.png
+│   │   │   ├── 006_title_0.90.json
+│   │   │   ├── 006_title_0.90.png
+│   │   │   ├── 007_isolate_formula_0.90.json
+│   │   │   ├── 007_isolate_formula_0.90.png
+│   │   │   ├── 008_plain_text_0.67.json
+│   │   │   └── 008_plain_text_0.67.png
+│   │   ├── page_003
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.95.json
+│   │   │   ├── 001_plain_text_0.95.png
+│   │   │   ├── 002_title_0.92.json
+│   │   │   ├── 002_title_0.92.png
+│   │   │   ├── 003_plain_text_0.91.json
+│   │   │   ├── 003_plain_text_0.91.png
+│   │   │   ├── 004_title_0.89.json
+│   │   │   ├── 004_title_0.89.png
+│   │   │   ├── 005_title_0.85.json
+│   │   │   ├── 005_title_0.85.png
+│   │   │   ├── 006_plain_text_0.72.json
+│   │   │   ├── 006_plain_text_0.72.png
+│   │   │   ├── 007_plain_text_0.67.json
+│   │   │   └── 007_plain_text_0.67.png
+│   │   ├── page_004
+│   │   │   ├── 000_table_caption_0.67.json
+│   │   │   └── 000_table_caption_0.67.png
+│   │   ├── page_005
+│   │   │   ├── 000_plain_text_0.92.json
+│   │   │   ├── 000_plain_text_0.92.png
+│   │   │   ├── 001_plain_text_0.92.json
+│   │   │   ├── 001_plain_text_0.92.png
+│   │   │   ├── 002_title_0.90.json
+│   │   │   ├── 002_title_0.90.png
+│   │   │   ├── 003_plain_text_0.76.json
+│   │   │   ├── 003_plain_text_0.76.png
+│   │   │   ├── 004_plain_text_0.75.json
+│   │   │   ├── 004_plain_text_0.75.png
+│   │   │   ├── 005_plain_text_0.64.json
+│   │   │   ├── 005_plain_text_0.64.png
+│   │   │   ├── 006_plain_text_0.59.json
+│   │   │   ├── 006_plain_text_0.59.png
+│   │   │   ├── 007_plain_text_0.53.json
+│   │   │   ├── 007_plain_text_0.53.png
+│   │   │   ├── 008_plain_text_0.52.json
+│   │   │   └── 008_plain_text_0.52.png
+│   │   ├── page_006
+│   │   │   ├── 000_plain_text_0.97.json
+│   │   │   ├── 000_plain_text_0.97.png
+│   │   │   ├── 001_plain_text_0.96.json
+│   │   │   ├── 001_plain_text_0.96.png
+│   │   │   ├── 002_plain_text_0.96.json
+│   │   │   ├── 002_plain_text_0.96.png
+│   │   │   ├── 003_plain_text_0.96.json
+│   │   │   ├── 003_plain_text_0.96.png
+│   │   │   ├── 004_plain_text_0.92.json
+│   │   │   ├── 004_plain_text_0.92.png
+│   │   │   ├── 005_plain_text_0.92.json
+│   │   │   ├── 005_plain_text_0.92.png
+│   │   │   ├── 006_plain_text_0.92.json
+│   │   │   ├── 006_plain_text_0.92.png
+│   │   │   ├── 007_title_0.91.json
+│   │   │   ├── 007_title_0.91.png
+│   │   │   ├── 008_plain_text_0.90.json
+│   │   │   ├── 008_plain_text_0.90.png
+│   │   │   ├── 009_isolate_formula_0.89.json
+│   │   │   ├── 009_isolate_formula_0.89.png
+│   │   │   ├── 010_title_0.87.json
+│   │   │   ├── 010_title_0.87.png
+│   │   │   ├── 011_plain_text_0.65.json
+│   │   │   └── 011_plain_text_0.65.png
+│   │   ├── page_007
+│   │   │   ├── 000_plain_text_0.96.json
+│   │   │   ├── 000_plain_text_0.96.png
+│   │   │   ├── 001_plain_text_0.96.json
+│   │   │   ├── 001_plain_text_0.96.png
+│   │   │   ├── 002_plain_text_0.95.json
+│   │   │   ├── 002_plain_text_0.95.png
+│   │   │   ├── 003_plain_text_0.94.json
+│   │   │   ├── 003_plain_text_0.94.png
+│   │   │   ├── 004_isolate_formula_0.94.json
+│   │   │   ├── 004_isolate_formula_0.94.png
+│   │   │   ├── 005_isolate_formula_0.93.json
+│   │   │   ├── 005_isolate_formula_0.93.png
+│   │   │   ├── 006_plain_text_0.93.json
+│   │   │   ├── 006_plain_text_0.93.png
+│   │   │   ├── 007_plain_text_0.92.json
+│   │   │   ├── 007_plain_text_0.92.png
+│   │   │   ├── 008_plain_text_0.89.json
+│   │   │   └── 008_plain_text_0.89.png
+│   │   ├── page_008
+│   │   │   ├── 000_title_0.92.json
+│   │   │   ├── 000_title_0.92.png
+│   │   │   ├── 001_plain_text_0.90.json
+│   │   │   ├── 001_plain_text_0.90.png
+│   │   │   ├── 002_plain_text_0.71.json
+│   │   │   ├── 002_plain_text_0.71.png
+│   │   │   ├── 003_plain_text_0.66.json
+│   │   │   ├── 003_plain_text_0.66.png
+│   │   │   ├── 004_plain_text_0.63.json
+│   │   │   ├── 004_plain_text_0.63.png
+│   │   │   ├── 005_plain_text_0.61.json
+│   │   │   ├── 005_plain_text_0.61.png
+│   │   │   ├── 006_plain_text_0.61.json
+│   │   │   ├── 006_plain_text_0.61.png
+│   │   │   ├── 007_plain_text_0.57.json
+│   │   │   └── 007_plain_text_0.57.png
+│   │   ├── page_009
+│   │   │   ├── 000_plain_text_0.98.json
+│   │   │   ├── 000_plain_text_0.98.png
+│   │   │   ├── 001_plain_text_0.97.json
+│   │   │   ├── 001_plain_text_0.97.png
+│   │   │   ├── 002_plain_text_0.96.json
+│   │   │   ├── 002_plain_text_0.96.png
+│   │   │   ├── 003_title_0.94.json
+│   │   │   ├── 003_title_0.94.png
+│   │   │   ├── 004_plain_text_0.93.json
+│   │   │   ├── 004_plain_text_0.93.png
+│   │   │   ├── 005_plain_text_0.91.json
+│   │   │   └── 005_plain_text_0.91.png
+│   │   ├── page_010
+│   │   ├── page_011
+│   │   │   ├── 000_plain_text_0.98.json
+│   │   │   ├── 000_plain_text_0.98.png
+│   │   │   ├── 001_plain_text_0.97.json
+│   │   │   ├── 001_plain_text_0.97.png
+│   │   │   ├── 002_plain_text_0.96.json
+│   │   │   ├── 002_plain_text_0.96.png
+│   │   │   ├── 003_plain_text_0.96.json
+│   │   │   ├── 003_plain_text_0.96.png
+│   │   │   ├── 004_title_0.93.json
+│   │   │   ├── 004_title_0.93.png
+│   │   │   ├── 005_title_0.90.json
+│   │   │   ├── 005_title_0.90.png
+│   │   │   ├── 006_title_0.89.json
+│   │   │   ├── 006_title_0.89.png
+│   │   │   ├── 007_plain_text_0.62.json
+│   │   │   ├── 007_plain_text_0.62.png
+│   │   │   ├── 008_plain_text_0.62.json
+│   │   │   ├── 008_plain_text_0.62.png
+│   │   │   ├── 009_plain_text_0.60.json
+│   │   │   ├── 009_plain_text_0.60.png
+│   │   │   ├── 010_plain_text_0.59.json
+│   │   │   └── 010_plain_text_0.59.png
+│   │   ├── page_012
+│   │   │   ├── 000_plain_text_0.92.json
+│   │   │   ├── 000_plain_text_0.92.png
+│   │   │   ├── 001_plain_text_0.90.json
+│   │   │   ├── 001_plain_text_0.90.png
+│   │   │   ├── 002_plain_text_0.88.json
+│   │   │   ├── 002_plain_text_0.88.png
+│   │   │   ├── 003_plain_text_0.88.json
+│   │   │   ├── 003_plain_text_0.88.png
+│   │   │   ├── 004_title_0.87.json
+│   │   │   ├── 004_title_0.87.png
+│   │   │   ├── 005_plain_text_0.85.json
+│   │   │   ├── 005_plain_text_0.85.png
+│   │   │   ├── 006_plain_text_0.84.json
+│   │   │   ├── 006_plain_text_0.84.png
+│   │   │   ├── 007_plain_text_0.83.json
+│   │   │   ├── 007_plain_text_0.83.png
+│   │   │   ├── 008_plain_text_0.83.json
+│   │   │   ├── 008_plain_text_0.83.png
+│   │   │   ├── 009_plain_text_0.82.json
+│   │   │   └── 009_plain_text_0.82.png
+│   │   ├── page_013
+│   │   │   ├── 000_plain_text_0.94.json
+│   │   │   ├── 000_plain_text_0.94.png
+│   │   │   ├── 001_plain_text_0.93.json
+│   │   │   ├── 001_plain_text_0.93.png
+│   │   │   ├── 002_plain_text_0.91.json
+│   │   │   ├── 002_plain_text_0.91.png
+│   │   │   ├── 003_plain_text_0.90.json
+│   │   │   ├── 003_plain_text_0.90.png
+│   │   │   ├── 004_plain_text_0.87.json
+│   │   │   ├── 004_plain_text_0.87.png
+│   │   │   ├── 005_plain_text_0.83.json
+│   │   │   ├── 005_plain_text_0.83.png
+│   │   │   ├── 006_plain_text_0.80.json
+│   │   │   ├── 006_plain_text_0.80.png
+│   │   │   ├── 007_plain_text_0.73.json
+│   │   │   ├── 007_plain_text_0.73.png
+│   │   │   ├── 008_plain_text_0.72.json
+│   │   │   ├── 008_plain_text_0.72.png
+│   │   │   ├── 009_title_0.70.json
+│   │   │   ├── 009_title_0.70.png
+│   │   │   ├── 010_title_0.67.json
+│   │   │   ├── 010_title_0.67.png
+│   │   │   ├── 011_title_0.56.json
+│   │   │   ├── 011_title_0.56.png
+│   │   │   ├── 012_plain_text_0.54.json
+│   │   │   └── 012_plain_text_0.54.png
+│   │   ├── page_014
+│   │   │   ├── 000_plain_text_0.88.json
+│   │   │   ├── 000_plain_text_0.88.png
+│   │   │   ├── 001_title_0.80.json
+│   │   │   ├── 001_title_0.80.png
+│   │   │   ├── 002_plain_text_0.79.json
+│   │   │   ├── 002_plain_text_0.79.png
+│   │   │   ├── 003_plain_text_0.71.json
+│   │   │   ├── 003_plain_text_0.71.png
+│   │   │   ├── 004_title_0.61.json
+│   │   │   └── 004_title_0.61.png
+│   │   ├── page_015
+│   │   │   ├── 000_plain_text_0.93.json
+│   │   │   ├── 000_plain_text_0.93.png
+│   │   │   ├── 001_plain_text_0.91.json
+│   │   │   ├── 001_plain_text_0.91.png
+│   │   │   ├── 002_plain_text_0.88.json
+│   │   │   ├── 002_plain_text_0.88.png
+│   │   │   ├── 003_plain_text_0.88.json
+│   │   │   ├── 003_plain_text_0.88.png
+│   │   │   ├── 004_plain_text_0.85.json
+│   │   │   ├── 004_plain_text_0.85.png
+│   │   │   ├── 005_isolate_formula_0.78.json
+│   │   │   ├── 005_isolate_formula_0.78.png
+│   │   │   ├── 006_plain_text_0.75.json
+│   │   │   ├── 006_plain_text_0.75.png
+│   │   │   ├── 007_plain_text_0.60.json
+│   │   │   ├── 007_plain_text_0.60.png
+│   │   │   ├── 008_plain_text_0.60.json
+│   │   │   ├── 008_plain_text_0.60.png
+│   │   │   ├── 009_plain_text_0.56.json
+│   │   │   ├── 009_plain_text_0.56.png
+│   │   │   ├── 010_title_0.55.json
+│   │   │   ├── 010_title_0.55.png
+│   │   │   ├── 011_plain_text_0.51.json
+│   │   │   └── 011_plain_text_0.51.png
+│   │   ├── page_016
+│   │   │   ├── 000_plain_text_0.93.json
+│   │   │   ├── 000_plain_text_0.93.png
+│   │   │   ├── 001_plain_text_0.88.json
+│   │   │   ├── 001_plain_text_0.88.png
+│   │   │   ├── 002_plain_text_0.87.json
+│   │   │   ├── 002_plain_text_0.87.png
+│   │   │   ├── 003_plain_text_0.85.json
+│   │   │   ├── 003_plain_text_0.85.png
+│   │   │   ├── 004_plain_text_0.84.json
+│   │   │   ├── 004_plain_text_0.84.png
+│   │   │   ├── 005_plain_text_0.78.json
+│   │   │   ├── 005_plain_text_0.78.png
+│   │   │   ├── 006_plain_text_0.77.json
+│   │   │   ├── 006_plain_text_0.77.png
+│   │   │   ├── 007_plain_text_0.76.json
+│   │   │   ├── 007_plain_text_0.76.png
+│   │   │   ├── 008_plain_text_0.76.json
+│   │   │   ├── 008_plain_text_0.76.png
+│   │   │   ├── 009_plain_text_0.74.json
+│   │   │   ├── 009_plain_text_0.74.png
+│   │   │   ├── 010_title_0.69.json
+│   │   │   ├── 010_title_0.69.png
+│   │   │   ├── 011_plain_text_0.66.json
+│   │   │   ├── 011_plain_text_0.66.png
+│   │   │   ├── 012_title_0.57.json
+│   │   │   ├── 012_title_0.57.png
+│   │   │   ├── 013_title_0.57.json
+│   │   │   ├── 013_title_0.57.png
+│   │   │   ├── 014_plain_text_0.53.json
+│   │   │   └── 014_plain_text_0.53.png
+│   │   └── page_017
+│   │       ├── 000_plain_text_0.95.json
+│   │       ├── 000_plain_text_0.95.png
+│   │       ├── 001_plain_text_0.94.json
+│   │       ├── 001_plain_text_0.94.png
+│   │       ├── 002_plain_text_0.92.json
+│   │       ├── 002_plain_text_0.92.png
+│   │       ├── 003_plain_text_0.91.json
+│   │       ├── 003_plain_text_0.91.png
+│   │       ├── 004_plain_text_0.89.json
+│   │       ├── 004_plain_text_0.89.png
+│   │       ├── 005_plain_text_0.87.json
+│   │       ├── 005_plain_text_0.87.png
+│   │       ├── 006_plain_text_0.82.json
+│   │       ├── 006_plain_text_0.82.png
+│   │       ├── 007_plain_text_0.79.json
+│   │       ├── 007_plain_text_0.79.png
+│   │       ├── 008_plain_text_0.76.json
+│   │       ├── 008_plain_text_0.76.png
+│   │       ├── 009_plain_text_0.73.json
+│   │       ├── 009_plain_text_0.73.png
+│   │       ├── 010_plain_text_0.73.json
+│   │       ├── 010_plain_text_0.73.png
+│   │       ├── 011_plain_text_0.69.json
+│   │       ├── 011_plain_text_0.69.png
+│   │       ├── 012_plain_text_0.65.json
+│   │       ├── 012_plain_text_0.65.png
+│   │       ├── 013_title_0.61.json
+│   │       ├── 013_title_0.61.png
+│   │       ├── 014_plain_text_0.53.json
+│   │       └── 014_plain_text_0.53.png
+│   ├── figures
+│   │   ├── page_001_fig_0.png
+│   │   ├── page_001_fig_1.png
+│   │   ├── page_001_fig_2.png
+│   │   ├── page_002_fig_0.png
+│   │   ├── page_002_fig_1.png
+│   │   ├── page_003_fig_0.png
+│   │   ├── page_003_fig_1.png
+│   │   ├── page_004_fig_0.png
+│   │   ├── page_004_fig_1.png
+│   │   ├── page_005_fig_0.png
+│   │   ├── page_005_fig_1.png
+│   │   ├── page_006_fig_0.png
+│   │   ├── page_006_fig_1.png
+│   │   ├── page_007_fig_0.png
+│   │   ├── page_007_fig_1.png
+│   │   ├── page_008_fig_0.png
+│   │   ├── page_008_fig_1.png
+│   │   ├── page_009_fig_0.png
+│   │   ├── page_009_fig_1.png
+│   │   ├── page_010_fig_0.png
+│   │   ├── page_010_fig_1.png
+│   │   ├── page_011_fig_0.png
+│   │   ├── page_011_fig_1.png
+│   │   ├── page_012_fig_0.png
+│   │   ├── page_012_fig_1.png
+│   │   ├── page_013_fig_0.png
+│   │   ├── page_013_fig_1.png
+│   │   ├── page_014_fig_0.png
+│   │   └── page_014_fig_1.png
+│   ├── json
+│   │   └── final_dataset.json
+│   ├── logs
+│   ├── master_dataset
+│   │   ├── duplicate_questions.json
+│   │   ├── feep101.json
+│   │   ├── feep102.json
+│   │   ├── feep103.json
+│   │   ├── feep104.json
+│   │   ├── feep105.json
+│   │   ├── feep106.json
+│   │   ├── feep107.json
+│   │   ├── feep108.json
+│   │   ├── feep109.json
+│   │   ├── feep1an.json
+│   │   ├── final_dataset.json
+│   │   ├── gemp101.json
+│   │   ├── gemp102.json
+│   │   ├── gemp103.json
+│   │   ├── gemp104.json
+│   │   ├── gemp105.json
+│   │   ├── gemp106.json
+│   │   ├── gemp107.json
+│   │   ├── gemp108.json
+│   │   ├── gemp109.json
+│   │   ├── gemp110.json
+│   │   ├── gemp111.json
+│   │   ├── gemp112.json
+│   │   ├── gemp1a1.json
+│   │   ├── heep201.json
+│   │   ├── heep202.json
+│   │   ├── heep203.json
+│   │   ├── heep204.json
+│   │   ├── heep205.json
+│   │   ├── heep207.json
+│   │   ├── heep209.json
+│   │   ├── heep210.json
+│   │   ├── heep211.json
+│   │   ├── heep213.json
+│   │   ├── heep2an.json
+│   │   ├── ieep201.json
+│   │   ├── ieep202.json
+│   │   ├── ieep203.json
+│   │   ├── ieep204.json
+│   │   ├── ieep205.json
+│   │   ├── ieep206.json
+│   │   ├── ieep207.json
+│   │   ├── ieep208.json
+│   │   ├── ieep209.json
+│   │   ├── ieep210.json
+│   │   ├── ieep211.json
+│   │   ├── ieep212.json
+│   │   ├── ieep213.json
+│   │   ├── ieep214.json
+│   │   ├── ieep215.json
+│   │   ├── ieep216.json
+│   │   ├── jeep201.json
+│   │   ├── jeep202.json
+│   │   ├── jeep203.json
+│   │   ├── jeep204.json
+│   │   ├── jeep205.json
+│   │   ├── jeep206.json
+│   │   ├── jeep207.json
+│   │   ├── jeep208.json
+│   │   ├── jeep209.json
+│   │   ├── jeep210.json
+│   │   ├── jeep211.json
+│   │   ├── jeep212.json
+│   │   ├── jeep213.json
+│   │   ├── jeep214.json
+│   │   ├── jeep215.json
+│   │   ├── keep201.json
+│   │   ├── keep202.json
+│   │   ├── keep203.json
+│   │   ├── keep204.json
+│   │   ├── keep205.json
+│   │   ├── keep206.json
+│   │   ├── keep207.json
+│   │   ├── keep208.json
+│   │   ├── keep209.json
+│   │   ├── keep210.json
+│   │   ├── keep211.json
+│   │   ├── keep212.json
+│   │   ├── keep213.json
+│   │   ├── keep214.json
+│   │   ├── keep215.json
+│   │   ├── keep216.json
+│   │   ├── keep217.json
+│   │   ├── keep218.json
+│   │   ├── long_questions.json
+│   │   └── worst_questions.json
+│   └── reports
+│       ├── duplicate_questions.json
+│       ├── long_questions.json
+│       ├── quality_report.txt
+│       ├── regression_report.txt
+│       └── worst_questions.json
+├── page=1,
+├── page5.txt
+├── page8.txt
+├── parsers
+│   ├── __init__.py
+│   ├── pdf_parser_old.py
+│   ├── pdf_parser.py
+│   ├── pdf_parser_v2.py
+│   └── pdf_parser_v3_backup.py
+├── pipeline
+│   ├── ai
+│   │   ├── batch_inference.py
+│   │   ├── factory.py
+│   │   ├── figure_repair.py
+│   │   ├── formula_repair.py
+│   │   ├── __init__.py
+│   │   ├── model.py
+│   │   ├── ocr_repair.py
+│   │   ├── pipeline.py
+│   │   ├── prompt.py
+│   │   └── providers
+│   │       ├── base.py
+│   │       ├── dummy.py
+│   │       ├── __init__.py
+│   │       ├── openai_compatible.py
+│   │       ├── qwen_local.py
+│   │       └── vllm.py
+│   ├── ai_validation
+│   │   ├── __init__.py
+│   │   ├── prompts.py
+│   │   ├── schema.py
+│   │   └── validator.py
+│   ├── answer_parser.py
+│   ├── block_merger.py
+│   ├── block_normalizer.py
+│   ├── block_splitter
+│   │   ├── base.py
+│   │   ├── __init__.py
+│   │   ├── models
+│   │   │   ├── line.py
+│   │   │   └── question_segment.py
+│   │   ├── models.py
+│   │   ├── patterns.py
+│   │   ├── registry.py
+│   │   ├── splitter.py
+│   │   ├── splitters
+│   │   │   ├── activity.py
+│   │   │   ├── example.py
+│   │   │   ├── exercise.py
+│   │   │   ├── figure_it_out.py
+│   │   │   ├── heading.py
+│   │   │   ├── __init__.py
+│   │   │   ├── misc.py
+│   │   │   ├── paragraph.py
+│   │   │   ├── question.py
+│   │   │   ├── question_v1.py
+│   │   │   ├── question_v2_backup.py
+│   │   │   ├── sample_question.py
+│   │   │   └── section.py
+│   │   └── utils.py
+│   ├── block_splitter_old.py
+│   ├── builders
+│   │   ├── exercise_builder.py
+│   │   ├── __init__.py
+│   │   ├── question_builder.py
+│   │   └── section_builder.py
+│   ├── chapter_parser.py
+│   ├── classifiers
+│   │   ├── difficulty.py
+│   │   ├── exercise_classifier.py
+│   │   ├── __init__.py
+│   │   ├── layout_classifier.py
+│   │   ├── question_classifier.py
+│   │   ├── question_type.py
+│   │   └── topic.py
+│   ├── cleaner.py
+│   ├── core
+│   │   ├── block_merger_stage.py
+│   │   ├── block_normalizer_stage.py
+│   │   ├── block_splitter_stage.py
+│   │   ├── builtin_stages.py
+│   │   ├── context.py
+│   │   ├── debug_dump.py
+│   │   ├── default_pipeline.py
+│   │   ├── engine.py
+│   │   ├── export_stage.py
+│   │   ├── __init__.py
+│   │   ├── layout_cleaner_stage.py
+│   │   ├── metadata_stage.py
+│   │   ├── metrics_stage.py
+│   │   ├── pdf_parser_stage.py
+│   │   ├── question_enrichment_stage.py
+│   │   ├── question_parser_stage_v1.py
+│   │   ├── question_parser_v2_stage.py
+│   │   ├── question_parser_v2_stage.py.bak
+│   │   ├── question_parser_v3_stage.py
+│   │   ├── registry.py
+│   │   ├── report.py
+│   │   ├── section_parser_stage.py
+│   │   └── stage.py
+│   ├── dataset_builder
+│   │   ├── builder.py
+│   │   ├── deduplicate.py
+│   │   ├── export_jsonl.py
+│   │   ├── export_parquet.py
+│   │   ├── export_sqlite.py
+│   │   ├── __init__.py
+│   │   └── schema.py
+│   ├── document_ast
+│   │   ├── builder.py
+│   │   ├── __init__.py
+│   │   ├── nodes.py
+│   │   └── parser.py
+│   ├── document_detector.py
+│   ├── enricher.py
+│   ├── extractors
+│   │   ├── answer_extractor.py
+│   │   ├── __init__.py
+│   │   └── solution_extractor.py
+│   ├── features
+│   │   ├── font.py
+│   │   ├── geometry.py
+│   │   ├── __init__.py
+│   │   ├── margin_detector.py
+│   │   ├── numbering.py
+│   │   ├── page_statistics.py
+│   │   └── statistics.py
+│   ├── generation
+│   │   ├── chapter_generator.py
+│   │   ├── filter.py
+│   │   ├── __init__.py
+│   │   ├── prompt.py
+│   │   └── schema.py
+│   ├── hierarchy
+│   │   ├── builder.py
+│   │   ├── __init__.py
+│   │   └── node.py
+│   ├── image_extractor.py
+│   ├── __init__.py
+│   ├── intelligence
+│   │   └── embedder.py
+│   ├── layout
+│   │   ├── __init__.py
+│   │   ├── layout_graph.py
+│   │   ├── line_extractor.py
+│   │   ├── line.py
+│   │   └── reading_order.py
+│   ├── layout_cleaner.py
+│   ├── layout_graph
+│   │   ├── graph.py
+│   │   ├── node.py
+│   │   └── question_detector.py
+│   ├── layout_normalizer
+│   │   └── line_merger.py
+│   ├── lexer
+│   │   ├── __init__.py
+│   │   ├── lexer.py
+│   │   └── tokens.py
+│   ├── manifest
+│   │   └── build_manifest.py
+│   ├── math
+│   │   ├── formula_merger.py
+│   │   └── __init__.py
+│   ├── mcq_parser.py
+│   ├── metadata.py
+│   ├── models
+│   │   ├── __init__.py
+│   │   └── question.py
+│   ├── paragraph_builder
+│   ├── paragraph_builder.py
+│   ├── pdf_loader
+│   │   └── main.py
+│   ├── postprocess
+│   │   └── subquestion_expander.py
+│   ├── question_classifier.py
+│   ├── question_cleaner.py
+│   ├── question_parser_old.py
+│   ├── question_parser.py
+│   ├── question_parser_v2
+│   │   ├── continuation_detector.py
+│   │   ├── exercise_tracker.py
+│   │   ├── __init__.py
+│   │   ├── layout_state.py
+│   │   ├── parser.py
+│   │   ├── question_builder.py
+│   │   ├── question_classifier.py
+│   │   └── question_splitter.py
+│   ├── question_parser_v3
+│   │   ├── detectors.py
+│   │   ├── parser.py
+│   │   └── state.py
+│   ├── question_splitter
+│   │   └── line_grouper.py
+│   ├── section_parser.py
+│   ├── solution_parser.py
+│   ├── text_normalizer.py
+│   ├── validator.py
+│   ├── validators
+│   │   ├── document_validator.py
+│   │   ├── __init__.py
+│   │   └── question_validator.py
+│   └── vision
+│       ├── figure_extractor.py
+│       ├── figure_linker.py
+│       └── __init__.py
+├── pipeline_graph.svg
+├── prompts
+├── PY
+├── pyproject.toml
+├── pytest.ini
+├── README.md
+├── repo_audit
+│   ├── diff_stat.txt
+│   ├── git_branches.txt
+│   ├── git_log.txt
+│   ├── git_remote.txt
+│   ├── git_status.txt
+│   └── tracked_files.txt
+├── report.py
+├── reports
+├── repo_snapshot_2.txt
+├── repo_snapshot.tar.gz
+├── repo_snapshot.txt
+├── reprocess_pro.py
+├── run.log
+├── run_master_pipeline.py
+├── run_pipeline.py
+├── scripts
+│   ├── analyze_all.py
+│   ├── analyze_pdf.py
+│   ├── audit.py
+│   ├── batch_extract_old.py
+│   ├── batch_extract.py
+│   ├── benchmark_dataset.py
+│   ├── benchmark_splitter.py
+│   ├── build_dataset.py
+│   ├── build_manifest.py
+│   ├── debug_pipeline.py
+│   ├── evaluate_question_classifier.py
+│   ├── extract.py
+│   ├── failure_classifier.py
+│   ├── generate_chapter_questions.py
+│   ├── generate_dataset.py
+│   ├── parser_benchmark.py
+│   ├── profile_pipeline.py
+│   ├── quality_audit.py
+│   ├── regression_report.py
+│   ├── report.py
+│   ├── validate_dataset.py
+│   └── validate_with_ai.py
+├── snapshot.py
+├── src
+│   ├── benchmark
+│   │   ├── alignment.py
+│   │   ├── evaluator.py
+│   │   ├── __init__.py
+│   │   ├── metrics.py
+│   │   ├── report.py
+│   │   └── runner.py
+│   ├── cli.py
+│   ├── config
+│   │   ├── config.py
+│   │   ├── model_config.py
+│   │   ├── paths.py
+│   │   ├── runtime_config.py
+│   │   └── settings.py
+│   ├── crop
+│   │   └── cropper.py
+│   ├── curriculum
+│   │   ├── auditor.py
+│   │   ├── book_index.py
+│   │   ├── catalog.py
+│   │   ├── chapter_mapper.py
+│   │   ├── checks.py
+│   │   ├── coverage.py
+│   │   ├── duplicate_detector.py
+│   │   ├── __init__.py
+│   │   ├── inventory.py
+│   │   ├── manifest.py
+│   │   ├── mapper.py
+│   │   ├── report.py
+│   │   ├── run.py
+│   │   ├── statistics.py
+│   │   └── versioning.py
+│   ├── dataset
+│   │   ├── builder.py
+│   │   ├── __init__.py
+│   │   ├── manifest.py
+│   │   ├── master_dataset.py
+│   │   ├── registry.py
+│   │   └── statistics.py
+│   ├── document
+│   │   ├── block.py
+│   │   ├── builder.py
+│   │   ├── document.py
+│   │   ├── __init__.py
+│   │   ├── page.py
+│   │   └── question.py
+│   ├── evaluation
+│   │   ├── aligner.py
+│   │   ├── batch_runner.py
+│   │   ├── benchmark.py
+│   │   ├── benchmark_runner.py
+│   │   ├── boundary.py
+│   │   ├── chapter_metrics.py
+│   │   ├── confusion_matrix.py
+│   │   ├── csv_report.py
+│   │   ├── dataset_converter.py
+│   │   ├── dataset_integrity.py
+│   │   ├── dataset_manifest.py
+│   │   ├── error_analyzer.py
+│   │   ├── exercise_metrics.py
+│   │   ├── gold_dataset.py
+│   │   ├── gold_loader.py
+│   │   ├── gold_validator.py
+│   │   ├── html_report.py
+│   │   ├── __init__.py
+│   │   ├── json_report.py
+│   │   ├── metrics_engine.py
+│   │   ├── metrics.py
+│   │   ├── ocr_metrics.py
+│   │   ├── question_metrics.py
+│   │   ├── regression.py
+│   │   ├── report_writer.py
+│   │   ├── runner.py
+│   │   └── statistics.py
+│   ├── export
+│   │   ├── __init__.py
+│   │   ├── jsonl.py
+│   │   ├── parquet.py
+│   │   └── sqlite.py
+│   ├── extractor
+│   │   ├── extractor.py
+│   │   ├── extractor.pynano
+│   │   └── result.py
+│   ├── extractors
+│   │   ├── base_extractor.py
+│   │   └── __init__.py
+│   ├── io
+│   │   └── json_writer.py
+│   ├── layout
+│   │   ├── doclayout_yolo.py
+│   │   ├── filter.py
+│   │   ├── __init__.py
+│   │   ├── layout_detector.py
+│   │   ├── layout_parser.py
+│   │   └── layout_schema.py
+│   ├── llm
+│   │   ├── __init__.py
+│   │   ├── prompt_loader.py
+│   │   ├── prompt_manager.py
+│   │   └── qwen_client.py
+│   ├── markdown
+│   │   └── builder.py
+│   ├── metadata
+│   │   ├── chapter.py
+│   │   ├── difficulty.py
+│   │   ├── exercise.py
+│   │   ├── __init__.py
+│   │   ├── source.py
+│   │   └── taxonomy.py
+│   ├── ocr
+│   │   ├── base_ocr.py
+│   │   ├── base.py
+│   │   ├── dummy.py
+│   │   ├── factory.py
+│   │   ├── __init__.py
+│   │   ├── qwen_cleanup.py
+│   │   ├── rapid_ocr.py
+│   │   └── surya_ocr.py
+│   ├── parser
+│   │   ├── __init__.py
+│   │   └── json_parser.py
+│   ├── pdf
+│   │   ├── pdf_discovery.py
+│   │   └── pdf_renderer.py
+│   ├── pipeline
+│   │   ├── batch_pipeline.py
+│   │   ├── dataset_pipeline.py
+│   │   ├── document_pipeline.py
+│   │   ├── evaluation_pipeline.py
+│   │   ├── export_pipeline.py
+│   │   ├── hpc_pipeline.py
+│   │   ├── incremental_pipeline.py
+│   │   ├── layout_pipeline.py
+│   │   ├── master_pipeline.py
+│   │   ├── production_pipeline.py
+│   │   ├── question_pipeline.py
+│   │   ├── question_pipeline.py:
+│   │   ├── runner.py
+│   │   ├── scheduler.py
+│   │   └── validation_pipeline.py
+│   ├── postprocess
+│   │   └── region_merger.py
+│   ├── prompts
+│   │   ├── layout
+│   │   │   └── layout.txt
+│   │   ├── math
+│   │   │   └── math.txt
+│   │   ├── metadata
+│   │   │   └── metadata.txt
+│   │   ├── ocr
+│   │   │   └── ocr_cleanup.txt
+│   │   ├── question
+│   │   │   └── question.txt
+│   │   ├── system_prompt.txt
+│   │   └── validation
+│   │       └── check.txt
+│   ├── question
+│   │   ├── classifier.py
+│   │   ├── context.py
+│   │   ├── deduplicator.py
+│   │   ├── enricher.py
+│   │   ├── extractor.py
+│   │   ├── filters.py
+│   │   ├── hierarchy.py
+│   │   ├── __init__.py
+│   │   ├── merger.py
+│   │   ├── models.py
+│   │   ├── normalizer.py
+│   │   ├── parser.py
+│   │   ├── patterns.py
+│   │   ├── rules.py
+│   │   ├── segmenter.py
+│   │   └── v2
+│   │       ├── assembler.py
+│   │       ├── boundary.py
+│   │       ├── classifier.py
+│   │       ├── context.py
+│   │       ├── converter.py
+│   │       ├── extractor.py
+│   │       ├── __init__.py
+│   │       ├── numbering.py
+│   │       ├── parser.py
+│   │       ├── state.py
+│   │       └── validator.py
+│   ├── reading_order
+│   │   ├── geometry_sorter.py
+│   │   └── sorter.py
+│   ├── render
+│   │   └── pdf_renderer.py
+│   ├── schema
+│   │   └── region.py
+│   ├── search
+│   │   └── index.py
+│   ├── storage
+│   │   ├── jsonl_store.py
+│   │   ├── parquet_store.py
+│   │   └── sqlite_store.py
+│   ├── text
+│   │   └── cleaner.py
+│   ├── utils
+│   │   ├── file_utils.py
+│   │   ├── json_utils.py
+│   │   ├── logger.py
+│   │   └── thread_pool.py
+│   ├── validator
+│   │   └── question_validator.py
+│   └── workers
+│       ├── page_worker.p
+│       └── page_worker.py
+├── start_dev.sh
+├── test_qwen_api.py
+├── tests
+│   ├── test_batch.py
+│   ├── test_classifier.py
+│   ├── test_config.py
+│   ├── test_crop.py
+│   ├── test_detector.py
+│   ├── test_document.py
+│   ├── test_extract.py
+│   ├── test_json.py
+│   ├── test_layout.py
+│   ├── test_markdown.py
+│   ├── test_parser.py
+│   ├── test_pipeline_engine_debug.py
+│   ├── test_pipeline.py
+│   ├── test_question_parser.py
+│   ├── test_qwen_clean.py
+│   ├── test_qwen.py
+│   ├── test_rapidocr.py
+│   ├── test_reading_order.py
+│   ├── test_regression_report.py
+│   ├── test_section_parser.py
+│   ├── test_surya.py
+│   └── unit
+│       ├── classifiers
+│       │   ├── test_exercise_classifier.py
+│       │   ├── test_question_classifier.py
+│       │   ├── test_question_metadata.py
+│       │   └── test_question_text.py
+│       ├── hierarchy
+│       │   ├── data
+│       │   ├── test_builder.py
+│       │   ├── test_exercise_tree.py
+│       │   └── test_subquestion_tree.py
+│       ├── lexer
+│       │   └── test_lexer.py
+│       └── question_splitter
+│           └── test_multiple_questions.py
+├── text=text,
+├── validators
+│   ├── dataset_validator.py
+│   ├── engine.py
+│   ├── __init__.py
+│   ├── schema_validator.py
+│   └── score.py
+├── vllm.log
+├── web
+└── workers=8,
+
+325 directories, 2961 files
+
+
+STDERR
+================================================================================

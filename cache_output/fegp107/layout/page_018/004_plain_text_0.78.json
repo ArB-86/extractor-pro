@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.7804244160652161,
+    "bbox": [
+        571.1500244140625,
+        1828.453369140625,
+        2127.357177734375,
+        1918.3955078125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_018/004_plain_text_0.78.png",
+    "text": "2-3\n4-6\n6-9\nis also called the simplest form of\n. It is also the simplest form of\nas well."
+}

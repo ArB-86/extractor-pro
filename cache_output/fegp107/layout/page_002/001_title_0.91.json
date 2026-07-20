@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9097950458526611,
+    "bbox": [
+        422.2090148925781,
+        654.9898071289062,
+        1798.90380859375,
+        743.8406982421875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_002/001_title_0.91.png",
+    "text": "7.1 Fractional Units\nand Equal shares"
+}

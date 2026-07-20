@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.8586826920509338,
+    "bbox": [
+        454.54425048828125,
+        670.75537109375,
+        1997.27490234375,
+        742.791259765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_013/006_title_0.86.png",
+    "text": "Jsing\nthe\nunmarked number line to add\nand subtrac"
+}

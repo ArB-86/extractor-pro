@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9460769295692444,
+    "bbox": [
+        391.1692199707031,
+        2496.8349609375,
+        2086.778564453125,
+        2790.748291015625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_029/000_plain_text_0.95.png",
+    "text": "2-5\n3-4\n3.\nGeeta\nbought\nmeter\nof lace\nand\nshamim\nbought\nmeter\nof t\nthe\nsame lace to put a complete border on a table cloth whose perimeter\niS\nS1\nmeter\nlong. Find\nthe\ntotal\nlength of\nthe\nlace\nthey\nboth\nhave\nbought. Will the lace be sufficient to cover\nthe whole border?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8195669054985046,
+    "bbox": [
+        472.7585144042969,
+        2790.076416015625,
+        1295.4837646484375,
+        2991.19384765625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_031/006_plain_text_0.82.png",
+    "text": "(a) (6\n10) - 2 and 6\n(10 - 2)\n+\n+\n(b) 16 - (8 - 3)\nand (16 -8) - 3\n(c) 27 - (18\n+\n4)\nand 27\n+\n(- 18 - 4)"
+}

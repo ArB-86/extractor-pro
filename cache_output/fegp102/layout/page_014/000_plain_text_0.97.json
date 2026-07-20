@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.970811128616333,
+    "bbox": [
+        417.9403381347656,
+        2587.380126953125,
+        2211.94921875,
+        2885.525390625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_014/000_plain_text_0.97.png",
+    "text": "Only the pair of rotating\narms where\nthe angle is equal to that of the\nslit passes\nthrough the slit. Note that the possibility of passing through\nthe slit\ndepends\ns only\nthe\ne angle between\nthe rotating\n on\narms and not\ntheir lengths\n(as long\nthey a\nshorter t\nthan\nthe length of the slit).\non\nas t\nare"
+}

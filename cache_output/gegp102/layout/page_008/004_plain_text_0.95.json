@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9476734399795532,
+    "bbox": [
+        372.8902587890625,
+        1809.430908203125,
+        1865.4796142578125,
+        2054.178466796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/004_plain_text_0.95.png",
+    "text": "Manasa\niS\nadding\na\nlong\nlist\nof\nnumbers. It t\ntook\nher\nfive\nminutes to a\nadd them\nall\nand she got the\n11749. Then\nanswer\nshe\nrealised\nthat\nshe\nhad\nforgotten\nto\ninclude\nthe\nfourth\nnumber\n9055. Does she have to start all\nover a\nagain?"
+}

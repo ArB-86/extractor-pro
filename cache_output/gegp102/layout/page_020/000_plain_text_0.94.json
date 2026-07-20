@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9415527582168579,
+    "bbox": [
+        494.2713928222656,
+        942.7393798828125,
+        899.5991821289062,
+        1557.22412109375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_020/000_plain_text_0.94.png",
+    "text": "(a)\n5\u00d72\u00d78\n(b)\n(7 -2) \u00d7 8\n(c)\n8\u00d7 7\n(d)\n7\u00d72\u00d78\n(e)\n7\u00d75-2\n(f)\n(7 + 2) \u00d7 8\n(g)\n7\u00d78-2\u00d78\n(h)\n(7 -5) \u00d7 8"
+}

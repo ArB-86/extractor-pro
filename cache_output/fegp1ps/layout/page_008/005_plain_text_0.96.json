@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9642080664634705,
+    "bbox": [
+        420.89178466796875,
+        361.2264404296875,
+        2083.343505859375,
+        617.4479370117188
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_008/005_plain_text_0.96.png",
+    "text": "mind\nwhile\ngiving\nfor\ndifferent\nconcepts. The\ncontributions\ncontexts\nof\nIndian\nmathematicians\nhave\nbeen\ngiven\nas\npart\nof\na\nproblem-\nsolving approach to make students aware of India's rich r\nmathematical\nheritage\nand\nits\nglobal\ncontributions\nto\nmathematics."
+}

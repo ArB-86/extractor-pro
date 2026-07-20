@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9090260863304138,
+    "bbox": [
+        367.5279846191406,
+        1532.8424072265625,
+        831.7191772460938,
+        1598.910888671875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_032/001_plain_text_0.91.png",
+    "text": "What\nis\n642\n5\n2?"
+}

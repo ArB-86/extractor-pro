@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9202409386634827,
+    "bbox": [
+        365.9215087890625,
+        300.1971435546875,
+        2185.85986328125,
+        450.2979431152344
+    ],
+    "image_path": "debug/full_book/layout/page_028/002_plain_text_0.92.png",
+    "text": "(b) 997 can be made using 25 clicks. Can you make 997 with a different\nnumber of clicks?"
+}

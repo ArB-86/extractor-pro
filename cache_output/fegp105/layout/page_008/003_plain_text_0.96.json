@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.957399845123291,
+    "bbox": [
+        418.6375427246094,
+        396.2188415527344,
+        2213.635498046875,
+        619.7190551757812
+    ],
+    "image_path": "cache_output/fegp105/layout/page_008/003_plain_text_0.96.png",
+    "text": "Guna and Anshu started wondering how this simple method is able\nto find prime numbers! Think how this method works. Read the steps\ngiven above again and see what happens after each step is carried out."
+}

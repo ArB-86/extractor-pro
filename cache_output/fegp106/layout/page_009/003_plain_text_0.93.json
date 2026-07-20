@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9288637042045593,
+    "bbox": [
+        292.111328125,
+        1610.68505859375,
+        2085.05126953125,
+        1747.477783203125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_009/003_plain_text_0.93.png",
+    "text": "Example: A floor is 5 m long and 4 m wide. A square carpet of sides 3 m\nis laid on the floor. Find the area of the floor that is not carpeted."
+}

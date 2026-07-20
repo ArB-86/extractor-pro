@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7293210625648499,
+    "bbox": [
+        378.71795654296875,
+        2748.807861328125,
+        563.2462768554688,
+        2804.97998046875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/012_plain_text_0.73.png",
+    "text": "That\nis,"
+}

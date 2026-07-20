@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7075724601745605,
+    "bbox": [
+        405.4608459472656,
+        660.139404296875,
+        2087.27685546875,
+        798.5470581054688
+    ],
+    "image_path": "cache_output/fegp108/layout/page_011/004_plain_text_0.71.png",
+    "text": "2.\nDraw a rectangle of sides 2 cm and 10 cm. After drawing, check if\nit satisfies both the rectangle properties."
+}

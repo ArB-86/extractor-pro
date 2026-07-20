@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.939547061920166,
+    "bbox": [
+        483.846923828125,
+        1732.1302490234375,
+        2210.382568359375,
+        2098.392333984375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_020/002_plain_text_0.94.png",
+    "text": "Angles of symmetry when there are exactly 2 ofthem: 180\u00b0, 360\u00b0\nAngles of\nsymmetry\nwhen\nthere\nexactly\ny 3 of t\nthem:\n120\u00b0\nare\n240\u00b0, 360\u00b0\nAngles of\nthere\nexactly\n 4 of them: 90\u00b0,\nsymmetry\nwhen\nare\n180\u00b0, 270\u00b0, 360\u00b0"
+}

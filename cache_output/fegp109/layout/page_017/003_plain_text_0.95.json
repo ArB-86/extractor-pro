@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9522872567176819,
+    "bbox": [
+        291.96148681640625,
+        2722.2509765625,
+        2084.06005859375,
+        2868.915771484375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_017/003_plain_text_0.95.png",
+    "text": "However, can anything in the figure be changed to make it have\n3 angles of symmetry?"
+}

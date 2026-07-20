@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8413752317428589,
+    "bbox": [
+        420.5143127441406,
+        2184.286865234375,
+        2082.13720703125,
+        2315.21533203125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/011_plain_text_0.84.png",
+    "text": "Patanjali Sharma, Assistant Professor, Regional Institute of Education\n(RIE),Ajmer"
+}

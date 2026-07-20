@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.895578145980835,
+    "bbox": [
+        426.0251770019531,
+        565.85888671875,
+        2038.1329345703125,
+        671.8448486328125
+    ],
+    "image_path": "debug/full_book/layout/page_012/002_plain_text_0.90.png",
+    "text": "Note to the Teacher: Ask students\n questions like \u2014\u201cwhat could the numbers\nbe if the sum had to be less than 8,50,0oo."
+}

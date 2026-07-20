@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9704554080963135,
+    "bbox": [
+        1226.765869140625,
+        2318.990966796875,
+        2085.133544921875,
+        2604.256103515625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_023/001_plain_text_0.97.png",
+    "text": "Making\nuse ofthe medium sized\nand large sized r\n marks, is it possible\nto count\nthe\nnumber\nr of\nunits\nin\n5s\nor\n10s?"
+}

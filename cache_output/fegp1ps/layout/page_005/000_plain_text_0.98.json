@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9821584224700928,
+    "bbox": [
+        420.7604064941406,
+        1858.0775146484375,
+        2082.253662109375,
+        2890.276611328125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_005/000_plain_text_0.98.png",
+    "text": "The present textbook has made an attempt to address the above-\nmentioned goals and challenges oflearning mathematics. The writers\nof this book have aimed to strike a judicious balance between informal\nand formal definitions and methods to develop in students both\nintuition and rigour. The book also provides numerous opportunities\nfor student-student and student-teacher interaction in the classroom\nto promote active and experiential learning. A number of questions,\npuzzles, and interactive exercises are posed throughout the book to\nencourage constant exploration. Many of the questions are open-\nended to stimulate in-class discussion. Finally, some famous unsolved\nproblems have also been included so that students can appreciate that\nMathematics is still a very active subject, with much that is already\nn   a  o   n \nunknown and unseen. Such unknown realms and unresolved questions\nwill require new ideas and a new generation of adventurers to explore\nand understand, and to thereby solve these exciting problems."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9015432000160217,
+    "bbox": [
+        396.9515380859375,
+        2581.99560546875,
+        2187.84716796875,
+        2783.091552734375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_031/000_plain_text_0.90.png",
+    "text": "3. Find the values of the following\nexpressions. For each pair, first try\nto\n whether t\nthey\nhave\nthe\ne same value. When are\nthe two\nguess\nexpressions equal?"
+}

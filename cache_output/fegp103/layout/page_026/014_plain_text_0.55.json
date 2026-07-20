@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.5479273796081543,
+    "bbox": [
+        444.04046630859375,
+        2801.400390625,
+        1113.9781494140625,
+        2852.608154296875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_026/014_plain_text_0.55.png",
+    "text": "Take a 3- Digit number say, 321."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6516803503036499,
+    "bbox": [
+        461.753662109375,
+        777.400634765625,
+        2190.199951171875,
+        1937.2451171875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_028/005_plain_text_0.65.png",
+    "text": "(a) 89 + 21 - 10;\nOne of the stories could be;\nA library had 89 books on its shelves. The librarian bought 21 new\nbooks and added them to the collection. Later, 1o books were\nborrowed by students. How many books remain on the shelves?\nValue of the expression: 100\n(b) 5 \u00d7 12 - 6\nMake a story of your own for the given expression.\nValue of the expression: 54\n(c) 4 \u00d7 9 + 2 \u00d7 6\nMake a story of your own for the given expression.\nValue of the expression: 48"
+}

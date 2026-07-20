@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9389887452125549,
+    "bbox": [
+        583.77880859375,
+        2149.248779296875,
+        2009.7677001953125,
+        2514.324462890625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_006/005_plain_text_0.94.png",
+    "text": "a.\nWrite other numbers whose\ndigits add\nup to 14.\nb.\nWhat is the smallest number whose\ndigit\nt sum is 14?\nWhat is the largest 5-digit whose digit\nC.\nt sum is 14?\nd.\nHow big\n a number can you form having the digit\nsum\nof 14? Can\nyou make\n an even\nbigger number?"
+}

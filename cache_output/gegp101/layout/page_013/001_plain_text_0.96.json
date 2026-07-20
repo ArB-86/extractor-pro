@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.963789701461792,
+    "bbox": [
+        376.1009216308594,
+        2188.40478515625,
+        2091.026123046875,
+        2374.693115234375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_013/001_plain_text_0.96.png",
+    "text": "Roxie\n and Estu\nplaying with multiplication. They\nl are\nencounter\nan\ninteresting technique for multiplying a number by 10, 100, 1000, and\nso on."
+}

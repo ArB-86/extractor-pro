@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.942249596118927,
+    "bbox": [
+        300.7920227050781,
+        2126.642578125,
+        1449.906494140625,
+        2251.949951171875
+    ],
+    "image_path": "debug/full_book/layout/page_006/001_plain_text_0.94.png",
+    "text": "\uff1f\nFind a\nac\ndifferent\nway\nto\nget 5072\nand\nWrite\nfor the same.\nane\nexpression"
+}

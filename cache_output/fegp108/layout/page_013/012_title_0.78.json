@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.7801343202590942,
+    "bbox": [
+        396.7958068847656,
+        1812.6781005859375,
+        978.40625,
+        1878.6279296875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_013/012_title_0.78.png",
+    "text": "Breaking Rectangles"
+}

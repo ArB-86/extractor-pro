@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9381853342056274,
+    "bbox": [
+        443.9895324707031,
+        1262.910400390625,
+        2191.9423828125,
+        1551.26611328125
+    ],
+    "image_path": "tmp_inspect/layout/page_013/000_plain_text_0.94.png",
+    "text": "Q2. How\nhas mathematics helped\npropel humanity\nforward?\n(You might\nthink of\nexamples\ninvolving:\ncarrying\nout\nscientific\nexperiments;\nrunning\nour\nand\ndemocracy;\nbuilding\neconomy\nbridges,\nhouses\nor\nother\ncomplex\nstructures;\nmaking\nTVs,\nmobile\nphones,\ncomputers,\nbicycles, t\ntrains,\ncars,\nplanes,\ncalendars, c\nclocks, etc.)"
+}

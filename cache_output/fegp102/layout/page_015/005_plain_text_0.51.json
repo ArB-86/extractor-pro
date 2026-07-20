@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.508926510810852,
+    "bbox": [
+        292.1871032714844,
+        2101.754638671875,
+        1101.55908203125,
+        2314.80810546875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_015/005_plain_text_0.51.png",
+    "text": "She makes a half turn of the\nwhen\nshe\nhas\ncover\nto\nopen\nit\nher\ntable.\nIn\nthis\non\ncase,"
+}

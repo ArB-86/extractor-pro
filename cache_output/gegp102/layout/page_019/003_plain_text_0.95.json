@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9478733539581299,
+    "bbox": [
+        378.11724853515625,
+        2503.630615234375,
+        2088.736572265625,
+        2622.681396484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_019/003_plain_text_0.95.png",
+    "text": "1.\nRead the situations \n given below. Write appropriate expressions for\neach of them and find their values."
+}

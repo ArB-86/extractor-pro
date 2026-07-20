@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.6175380349159241,
+    "bbox": [
+        404.4319152832031,
+        2623.767822265625,
+        2081.643310546875,
+        2766.66162109375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_041/008_plain_text_0.62.png",
+    "text": "4\u3002\nDraw the letter *M' such that the angles on the sides are 40\u00b0\neach\nand the angle in the middle is 60\u00b0."
+}

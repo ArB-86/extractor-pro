@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8929065465927124,
+    "bbox": [
+        295.594482421875,
+        3070.778564453125,
+        1290.5362548828125,
+        3132.183349609375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_053/004_plain_text_0.89.png",
+    "text": "Ans.\nThe acute angle can\nbe 19\u00b0, 20\u00b0, 21\u00b0& 22\u00b0"
+}

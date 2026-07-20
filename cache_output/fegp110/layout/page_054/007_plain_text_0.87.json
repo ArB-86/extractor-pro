@@ -1,0 +1,13 @@
+{
+    "page": 54,
+    "label": "plain_text",
+    "confidence": 0.8708742260932922,
+    "bbox": [
+        296.93560791015625,
+        1757.4193115234375,
+        1452.5347900390625,
+        1816.7498779296875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_054/007_plain_text_0.87.png",
+    "text": "Q.2 Complete the grids to make the required border sum:"
+}

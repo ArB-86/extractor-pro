@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9497603178024292,
+    "bbox": [
+        292.6761779785156,
+        2858.4365234375,
+        2085.4501953125,
+        3003.7705078125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_001/003_plain_text_0.95.png",
+    "text": "The children now rearrange\nthemselves, and\nagain each\none\nsays a number based on the arrangement."
+}

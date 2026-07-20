@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.751143753528595,
+    "bbox": [
+        380.40997314453125,
+        2663.890625,
+        1816.9664306640625,
+        2805.21728515625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_004/008_plain_text_0.75.png",
+    "text": "2.\nHow did\n arranging the data in ascending order help to\nthese\nanswert\nquestions?"
+}

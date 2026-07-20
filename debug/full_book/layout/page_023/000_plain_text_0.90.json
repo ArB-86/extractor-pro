@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8959851264953613,
+    "bbox": [
+        411.50750732421875,
+        898.2451171875,
+        2055.62060546875,
+        1078.4193115234375
+    ],
+    "image_path": "debug/full_book/layout/page_023/000_plain_text_0.90.png",
+    "text": "You can\neither use\ntoothpicks\ns or matchsticks, or j\njust write\nthe\ndigits in this way, using\nlines to represent sticks.\nTo make the digit 7, three sticks are needed."
+}

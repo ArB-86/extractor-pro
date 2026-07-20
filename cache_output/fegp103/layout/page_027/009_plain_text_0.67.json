@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6654937267303467,
+    "bbox": [
+        302.2856750488281,
+        1735.9876708984375,
+        2192.2724609375,
+        1976.9564208984375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_027/009_plain_text_0.67.png",
+    "text": "Q.1.\nPratibha\nthe digits\ns\u20184', \u20187',\u20183'\nand \u20182',\nand\nmakes\nthe\ne smallesta\nand largest 4-\nuses\ndigit\nnumbers\nwith\nthem:\n2347\nand\n7432.\nThe\ndifference\nbetween\nthese\ntwo\nnumbers is 7432 - 2347 = 5085. The\nof these\ntwo\nnumbers\nis 9779. Ch00se\nsum\n4-\ndigits to\nmake:"
+}

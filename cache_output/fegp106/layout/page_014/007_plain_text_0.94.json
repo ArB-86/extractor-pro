@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9368991255760193,
+    "bbox": [
+        420.569091796875,
+        1649.64892578125,
+        2210.00341796875,
+        1796.8997802734375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_014/007_plain_text_0.94.png",
+    "text": "Now, see the figures below. Is the area of the blue rectangle\nemore\nor less than the area of the yellow triangle? Or is it the same? Why?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8837317228317261,
+    "bbox": [
+        623.7384033203125,
+        1961.312255859375,
+        1831.2818603515625,
+        2333.282470703125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_004/005_plain_text_0.88.png",
+    "text": "OP\nand\na.\nmeet at O.\nb.XY\nandPQ\nintersect at point M.\nLine l contains points E and F but not point D.\nC.\nd.\nPoint P lies on AB."
+}

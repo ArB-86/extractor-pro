@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9847448468208313,
+    "bbox": [
+        420.08734130859375,
+        1075.2769775390625,
+        2084.04345703125,
+        1585.8201904296875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_008/000_plain_text_0.98.png",
+    "text": "We have tried to link concepts learnt in initial chapters with\nideas in subsequent chapters to show the connectedness and unity of\nmathematics. We hope that teachers will use this as an opportunity to\n     os    n s  \nappreciate the entire conceptual structure of mathematics. We hope\n   r        \nnumbers and other notions that are new to students. Many of these\nare the basis for further learning in mathematics."
+}

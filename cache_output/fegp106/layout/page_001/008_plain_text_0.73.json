@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.7327196002006531,
+    "bbox": [
+        291.7890319824219,
+        2301.86181640625,
+        1961.639404296875,
+        2371.27490234375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_001/008_plain_text_0.73.png",
+    "text": "Perimeter of the rectangle = Sum of the lengths of its four sides"
+}

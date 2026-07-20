@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.968006432056427,
+    "bbox": [
+        376.9209899902344,
+        1593.312255859375,
+        2090.94091796875,
+        1773.1756591796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/000_plain_text_0.97.png",
+    "text": "Where (3+2) is first evaluated and this sum is multiplied by 5 (= 25).\nThe expression 7 \u00d7 8 is evaluated (= 56). This simplifies to 25 + 56 + 3 =\n84."
+}

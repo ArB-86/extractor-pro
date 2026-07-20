@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9396565556526184,
+    "bbox": [
+        455.7838439941406,
+        2152.275390625,
+        2089.9677734375,
+        2556.975341796875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_019/004_plain_text_0.94.png",
+    "text": "(a)\nIf a single sheet of paper weighs 5\ngrams, could\nyou l\nlift\n one\nlakh sheets of paper together at the same time?\n(b)\nIf 250 babies are born every\nminute\nthe world, will\neacross t\na\nmillion babies be born in a day?\n(c)\nCan you count 1 million coins in a day? Assume\nyou can count\n1 coin every s\nsecond."
+}

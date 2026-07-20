@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.8403386473655701,
+    "bbox": [
+        295.7124328613281,
+        1744.4798583984375,
+        1615.237548828125,
+        1809.146484375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_044/006_plain_text_0.84.png",
+    "text": "Ans. One of the choices is 14, 10\n(Try for other options also.)"
+}

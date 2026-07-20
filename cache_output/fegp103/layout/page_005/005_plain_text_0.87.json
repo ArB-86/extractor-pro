@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8729458451271057,
+    "bbox": [
+        293.8044738769531,
+        394.7460021972656,
+        1706.770263671875,
+        468.0508117675781
+    ],
+    "image_path": "cache_output/fegp103/layout/page_005/005_plain_text_0.87.png",
+    "text": "The smallest even number in the table is"
+}

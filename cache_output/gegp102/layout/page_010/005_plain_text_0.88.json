@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8838093280792236,
+    "bbox": [
+        436.404052734375,
+        1489.976318359375,
+        1619.3001708984375,
+        1554.400146484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/005_plain_text_0.88.png",
+    "text": "There\ne is more\nthan one\n possibility. For example,"
+}

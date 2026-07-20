@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9499528408050537,
+    "bbox": [
+        290.049560546875,
+        943.2552490234375,
+        2088.583251953125,
+        1165.5250244140625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_031/000_plain_text_0.95.png",
+    "text": "As we already l\nknow the procedure for subtraction of fractions with\nthe same\nfractional units, let us convert each of the\ngiven fractions\ninto equivalent fractions with the same fractional units."
+}

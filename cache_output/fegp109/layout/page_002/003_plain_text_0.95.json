@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9473587870597839,
+    "bbox": [
+        422.34100341796875,
+        1524.627685546875,
+        1598.5167236328125,
+        1665.6668701171875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_002/003_plain_text_0.95.png",
+    "text": "On\nthe\ne other\nhand, look\n at i\nthis\npicture\nof clouds. There\nis\ns no such repetitive pattern."
+}

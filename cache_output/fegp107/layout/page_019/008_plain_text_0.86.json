@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8558440208435059,
+    "bbox": [
+        615.1756591796875,
+        2618.179931640625,
+        1766.1397705078125,
+        2809.73388671875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_019/008_plain_text_0.86.png",
+    "text": "When\n4 chikkis a\n are divided e\nequally\namong\n 7 children, each\nWill\nget\n4\nchikki. When\n4 chikkis\nare\ndivided\nequally\none\n8 children, e\n4\nchikki. So\n4\n4\namong\neach\nn one will\nget\n8\n7\n8"
+}

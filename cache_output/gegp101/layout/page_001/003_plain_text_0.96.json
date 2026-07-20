@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9583337903022766,
+    "bbox": [
+        378.26593017578125,
+        1807.36572265625,
+        2089.2099609375,
+        1985.18017578125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_001/003_plain_text_0.96.png",
+    "text": "Lakshmamma said, \"There is a seed bank near my house. So far, they\nhave collected about a hundred indigenous varieties of rice seeds from\ndifferent places. You can also buy seeds from there.\""
+}

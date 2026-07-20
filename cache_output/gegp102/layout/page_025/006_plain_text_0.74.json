@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.741309642791748,
+    "bbox": [
+        413.5278625488281,
+        2736.98486328125,
+        1814.4954833984375,
+        2869.14501953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/006_plain_text_0.74.png",
+    "text": "An expression with 4 terms\n(including\n a negative number)\nConsider the expression: 15 + (- 8) + 5 + 12"
+}

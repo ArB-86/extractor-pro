@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6493366360664368,
+    "bbox": [
+        594.508056640625,
+        2292.144287109375,
+        1829.4884033203125,
+        2358.809326171875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_010/006_plain_text_0.65.png",
+    "text": "b.\n A triangle with equal sides and equal\nangles."
+}

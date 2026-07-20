@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.642511785030365,
+    "bbox": [
+        411.0565490722656,
+        1546.9205322265625,
+        866.8372802734375,
+        1786.1104736328125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_044/005_plain_text_0.64.png",
+    "text": "a. Five\npoints\nb. A\nline\nc. Four\nrays\nd. Five\nline segments"
+}

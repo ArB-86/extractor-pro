@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9576892256736755,
+    "bbox": [
+        375.824951171875,
+        393.74713134765625,
+        2087.7294921875,
+        514.7731323242188
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/004_plain_text_0.96.png",
+    "text": "Suppose we have the expression 30 + 5 \u00d7 4 without any brackets. Does\nit have no meaning?"
+}

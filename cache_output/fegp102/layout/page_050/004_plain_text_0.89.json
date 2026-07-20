@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.8897732496261597,
+    "bbox": [
+        295.7444763183594,
+        488.35491943359375,
+        1980.7379150390625,
+        653.866943359375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_050/004_plain_text_0.89.png",
+    "text": "Q. In Fig. 2.20, we have LAOB = BOC = ZCOD = DOE = EOF = FOG =\nZGOH=ZHOI=\n.Why?"
+}

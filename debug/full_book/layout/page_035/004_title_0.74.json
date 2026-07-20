@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "title",
+    "confidence": 0.7377882599830627,
+    "bbox": [
+        296.6391906738281,
+        428.70159912109375,
+        593.59130859375,
+        494.06463623046875
+    ],
+    "image_path": "debug/full_book/layout/page_035/004_title_0.74.png",
+    "text": "P:\nage\nNo.\n19"
+}

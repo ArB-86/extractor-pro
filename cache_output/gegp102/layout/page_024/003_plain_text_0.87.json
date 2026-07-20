@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.874174177646637,
+    "bbox": [
+        384.0456237792969,
+        1066.1162109375,
+        1731.852294921875,
+        1133.0635986328125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_024/003_plain_text_0.87.png",
+    "text": "Ans: Refer chapter 10 of class VI Mathematics Textbook."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8863041400909424,
+    "bbox": [
+        621.2514038085938,
+        1241.64453125,
+        2069.376708984375,
+        1484.532958984375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_005/004_plain_text_0.89.png",
+    "text": "a.\nWhich\ntree\nfound\nin\nthe\ngreatest r\nnumber?\nwas\nb.\nWhich\ntree\nfound\nin t\nthe\nsmallest number?\nwas\nC.\nWere\nthere\ntwo\ntrees\nfound\nin t\nany\nthe\n same\nnumbers?"
+}

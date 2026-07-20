@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9284788966178894,
+    "bbox": [
+        324.86810302734375,
+        2096.505615234375,
+        2089.8173828125,
+        2220.764404296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/003_plain_text_0.93.png",
+    "text": "Example 11: Here are two pictures. Which of these two arrangements\nmatches with the expression 5 \u00d7 2 + 3?"
+}

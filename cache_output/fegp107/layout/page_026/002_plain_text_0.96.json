@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9629594087600708,
+    "bbox": [
+        416.2277526855469,
+        2382.997314453125,
+        2213.347900390625,
+        2612.940673828125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_026/002_plain_text_0.96.png",
+    "text": "Let us represent both again\nn using\nthe rectangular strip\nmodel. Here\nin\nboth fractions, the fractional\nthe same, i.e.,\nunit is t\n1\neach strip\nSO\nWill\n7\uff0c\nbe divided into 7\nequal\nparts."
+}

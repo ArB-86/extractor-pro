@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.864362359046936,
+    "bbox": [
+        438.6861877441406,
+        1138.4825439453125,
+        1863.0794677734375,
+        1199.8082275390625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/015_plain_text_0.86.png",
+    "text": "Check that 500 - (250 - 100) is not equal to 500 - 250 - 100."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9726998209953308,
+    "bbox": [
+        419.1120300292969,
+        2656.503662109375,
+        2210.906494140625,
+        2953.0322265625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_014/000_plain_text_0.97.png",
+    "text": "There\nprime\nfactors. Can\nconclude\nthat \nthey\nare\nno\ncommon\nwe\nare co-prime? Suppose\nthey\nhave a common f\nfactor that is\ns composite.\nWould the\ne prime\nfactors of this\ncomposite common\nfactor\nappear\nin\nthe\nprime\nfactorisation of 80\nand\n63?"
+}

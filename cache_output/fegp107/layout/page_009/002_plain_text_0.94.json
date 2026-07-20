@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9422966241836548,
+    "bbox": [
+        294.9535827636719,
+        1546.7420654296875,
+        2084.18310546875,
+        1765.9564208984375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_009/002_plain_text_0.94.png",
+    "text": "1.1\nHere, the fractional unit is dividing a length of 1 unit into three\n parts. Write the fraction that\ngives the length of the blue\nequal\nline in the box or in your notebook."
+}

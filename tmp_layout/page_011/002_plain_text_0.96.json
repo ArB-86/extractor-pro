@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9625110030174255,
+    "bbox": [
+        292.5192565917969,
+        1137.075927734375,
+        2088.0107421875,
+        1429.088134765625
+    ],
+    "image_path": "tmp_layout/page_011/002_plain_text_0.96.png",
+    "text": "Often,\nshape\nrelated\nto\nnumber\nin\nsequences\nare\nsequences\nsurprising\nrelationships\nbe\nhelpful\nin\nstudying\nWays. Such\ncan\nand\nunderstanding\nboth\nthe\nshape\nand\nthe\nsequence\nrelated\nnumber\nseguence."
+}

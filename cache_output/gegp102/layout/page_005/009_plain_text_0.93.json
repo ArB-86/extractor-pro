@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9349105954170227,
+    "bbox": [
+        436.1286926269531,
+        1674.806884765625,
+        1810.84619140625,
+        1738.0147705078125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/009_plain_text_0.93.png",
+    "text": "Thus, the terms of the expression 83 - 14 are 83 and -14."
+}

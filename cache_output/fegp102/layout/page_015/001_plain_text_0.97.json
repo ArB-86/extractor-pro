@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9657542705535889,
+    "bbox": [
+        291.5882873535156,
+        1800.6776123046875,
+        1099.335693359375,
+        2090.271728515625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_015/001_plain_text_0.97.png",
+    "text": "She\nmakes a f\nfull\nturn\nof\nf the\nwhen\nshe\nhas\nto\nWrite\ncover\nholding\nwhile\nthe\nbook\nin\nher\nhand."
+}

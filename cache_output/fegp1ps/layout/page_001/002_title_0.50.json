@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.5020137429237366,
+    "bbox": [
+        699.298095703125,
+        806.5877075195312,
+        1804.5626220703125,
+        983.1417846679688
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_001/002_title_0.50.png",
+    "text": "Textbook of Mathematics for\nGrade 6"
+}

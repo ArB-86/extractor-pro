@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9654865860939026,
+    "bbox": [
+        417.6887512207031,
+        394.6145324707031,
+        2216.81298828125,
+        618.5211791992188
+    ],
+    "image_path": "cache_output/fegp102/layout/page_002/003_plain_text_0.97.png",
+    "text": "Z, P and T. These\ne points are read as \u2018Point Z', \u2018Point P' and Point T'. Of\ncourse, the dots represent precise locations and must be imagined to be\ninvisibly thin."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9208244681358337,
+    "bbox": [
+        291.41961669921875,
+        1406.46923828125,
+        2080.568359375,
+        1552.3370361328125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_005/000_plain_text_0.92.png",
+    "text": "The figures below show different fractional units of a whole chikki.\nHow much of a whole chikki is each piece?"
+}

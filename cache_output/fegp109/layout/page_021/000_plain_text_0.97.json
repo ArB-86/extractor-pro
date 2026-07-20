@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9738931059837341,
+    "bbox": [
+        291.4031066894531,
+        1928.0433349609375,
+        2087.841796875,
+        2223.325439453125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_021/000_plain_text_0.97.png",
+    "text": "Now\ntake a p\nthe\ne rim of the\n circle\nand\njoin it to t\npoint\non\nthe\ncentre.\nExtend\nthe\nto\ndiameter\nof\nthe\ncircle. Is\nsegment\nthat\ndiameter\na\nline\nof\nreflection\nIt\nis.\nEvery\nsymmetry?\ndiameter\nis\na\nline\nof\na\nsymmetry!"
+}

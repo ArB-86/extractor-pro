@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9131425619125366,
+    "bbox": [
+        441.6929016113281,
+        301.4216613769531,
+        2190.54345703125,
+        437.24560546875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/001_plain_text_0.91.png",
+    "text": "(b) A metro train ticket between two stations is z40 for an adult and\n20 for a child. What is the total cost of the tickets?"
+}

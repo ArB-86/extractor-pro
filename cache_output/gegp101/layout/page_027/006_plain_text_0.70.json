@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6983583569526672,
+    "bbox": [
+        368.3457336425781,
+        407.69873046875,
+        2189.909912109375,
+        639.7272338867188
+    ],
+    "image_path": "cache_output/gegp101/layout/page_027/006_plain_text_0.70.png",
+    "text": "1.\nFor\neach\nnumber\ngiven\nbelow,\nWrite\nexpressions\nfor\nat\nleast\ntwo\ndifferent\nways\nto\nobtain\nthe\nnumber\nthrough\nbutton\nclicks. Think\nlike\nChitti\nand\nbe\ne creative."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9827422499656677,
+    "bbox": [
+        293.2290344238281,
+        1136.9749755859375,
+        2084.023681640625,
+        1730.72216796875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_033/000_plain_text_0.98.png",
+    "text": "General fractions (where the numerator is not necessarily 1)\nWere first introduced in India, along with their rules of arithmetic\noperations like addition, subtraction, multiplication, and even\ndivision of fractions. The ancient Indian treatises called the \u2018Sulba-\nsutras\u2019 shows that even during Vedic times, Indians had discovered\nthe rules for operations with fractions. General rules and procedures\nfor working with and computing with fractions were first codified\nformally and in a modern form by Brahmagupta."
+}

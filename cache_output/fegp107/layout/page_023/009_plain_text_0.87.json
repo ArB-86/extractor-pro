@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8743723630905151,
+    "bbox": [
+        292.2109069824219,
+        1548.30810546875,
+        2084.783935546875,
+        1695.40087890625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_023/009_plain_text_0.87.png",
+    "text": "Either\nmethod\nWorks\n and\nwill\ngive\nthe\nsame\nanswer!\nBut\nsometimes it can be easier to go in steps."
+}

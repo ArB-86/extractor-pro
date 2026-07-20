@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9365578293800354,
+    "bbox": [
+        419.94927978515625,
+        2575.3525390625,
+        2211.925048828125,
+        2720.113037109375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_028/001_plain_text_0.94.png",
+    "text": "The\n denominators of the\ngiven\nfractions are\n3 \nand 5. The lowest\ncommon multiple of 3 and 5 is 15. Then we see that"
+}

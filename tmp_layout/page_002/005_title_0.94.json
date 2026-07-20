@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9359431862831116,
+    "bbox": [
+        422.57421875,
+        1743.41650390625,
+        1313.55078125,
+        1825.7591552734375
+    ],
+    "image_path": "tmp_layout/page_002/005_title_0.94.png",
+    "text": "1.2 Patterns in Numbers"
+}

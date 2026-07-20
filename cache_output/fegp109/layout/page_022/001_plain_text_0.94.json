@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9356372356414795,
+    "bbox": [
+        505.55963134765625,
+        1324.9197998046875,
+        2209.76953125,
+        1465.70947265625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_022/001_plain_text_0.94.png",
+    "text": "2\u3002\nDrawtwo\nfigures other than a circle and a square that have both\nreflection symmetry and rotational symmetry."
+}

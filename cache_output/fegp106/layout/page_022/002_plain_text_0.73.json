@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.7339726090431213,
+    "bbox": [
+        511.1306457519531,
+        672.0438842773438,
+        2210.4208984375,
+        965.3406372070312
+    ],
+    "image_path": "cache_output/fegp106/layout/page_022/002_plain_text_0.73.png",
+    "text": "The\nperimeter\nof\nrectangle is\ntwice\nthe\nof\nits\nlength\na.\na\nsum\nand\nWidth.\nb.\nThe perimeter of a square\ne is four\nthe length of any\ntimes \none of its\nsides."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8007614016532898,
+    "bbox": [
+        307.1180419921875,
+        2236.79052734375,
+        2191.359619140625,
+        2392.729248046875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_024/004_plain_text_0.80.png",
+    "text": "Can\nexplain why\nthis is happening using\nthe Token\nModel of\nyoue\nintegers that we saw in the Class 6 textbook of mathematics?"
+}

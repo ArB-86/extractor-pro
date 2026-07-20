@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9702562093734741,
+    "bbox": [
+        290.46728515625,
+        549.76416015625,
+        2085.621826171875,
+        763.908203125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_021/000_plain_text_0.97.png",
+    "text": "This unit part is used to assign measure to any angle: the measure\nof\nan angle is the r\nnumber of 1\u00b0\nunit\n parts it contains inside\neit.\nFor example, see this figure:"
+}

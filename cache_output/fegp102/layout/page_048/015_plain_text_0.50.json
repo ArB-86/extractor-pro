@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.5043545365333557,
+    "bbox": [
+        294.8490905761719,
+        1156.2955322265625,
+        1662.3778076171875,
+        1217.961669921875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_048/015_plain_text_0.50.png",
+    "text": "Ans. a. Four right angle. Each angle is 14 the of the complete angle."
+}

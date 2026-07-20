@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9637764692306519,
+    "bbox": [
+        408.4342956542969,
+        394.668701171875,
+        2087.0966796875,
+        680.6600952148438
+    ],
+    "image_path": "cache_output/fegp104/layout/page_026/001_plain_text_0.96.png",
+    "text": "10. S\nStudents\nteachers\n of a primary s\nand\nschool\ndecided\nltoj\nplant\ntree\nsaplings\nin\nthe\nschool\nin\nthe\nsurrounding\nvillage\ncampus\nand\nduring\nthe\ne first week of July. Details of the\ne saplings\nthey planted\neas\nfollows\nare"
+}

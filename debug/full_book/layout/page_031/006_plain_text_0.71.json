@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7108684778213501,
+    "bbox": [
+        391.03045654296875,
+        412.0918884277344,
+        2034.3868408203125,
+        483.0216979980469
+    ],
+    "image_path": "debug/full_book/layout/page_031/006_plain_text_0.71.png",
+    "text": "Similarly, write the five nearest neighbours f\nfor these numbers"
+}

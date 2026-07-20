@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8934054374694824,
+    "bbox": [
+        394.2084655761719,
+        2439.068359375,
+        1406.4615478515625,
+        2572.57275390625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_003/004_plain_text_0.89.png",
+    "text": "Perimeter\nof the \n4\u00d7\nlength\nsquare\npark =\nof a side\n\u4e09\n4 \u00d7\n75\n300\n\u4e8c"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.6686484217643738,
+    "bbox": [
+        379.1123046875,
+        2122.512451171875,
+        1563.4586181640625,
+        2204.4443359375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_009/008_title_0.67.png",
+    "text": "1.4 Exact\n and Approximate Values"
+}

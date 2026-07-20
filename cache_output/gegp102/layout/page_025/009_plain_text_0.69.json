@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.6926587224006653,
+    "bbox": [
+        413.9665832519531,
+        3009.305419921875,
+        1049.369873046875,
+        3141.82958984375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/009_plain_text_0.69.png",
+    "text": "Order 2: 15\n+5+12\n(-8\n8)\n+\n(15\n+12)\n5\n(-8\n8)\n\u4e8c\n+\n+"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8655927181243896,
+    "bbox": [
+        293.93304443359375,
+        2317.421630859375,
+        1551.2088623046875,
+        2459.49853515625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_015/002_plain_text_0.87.png",
+    "text": "One\nroti\nshared\nequally\nby\nfour\nwas\nchildren.\nWhat fraction of the whole did e\neach child\nget?"
+}

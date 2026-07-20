@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7451024651527405,
+    "bbox": [
+        556.3624267578125,
+        486.3225402832031,
+        1433.640625,
+        810.9874267578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/008_plain_text_0.75.png",
+    "text": "(i)\nfor\nfour\nadults\nand\nthree\nchildren?\n(ii)\nfor\nhaving\ntwo\ngroups\nthree\nadults each?"
+}

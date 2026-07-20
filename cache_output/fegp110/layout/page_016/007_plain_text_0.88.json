@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8821456432342529,
+    "bbox": [
+        405.1145935058594,
+        733.76806640625,
+        1387.7109375,
+        798.37158203125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_016/007_plain_text_0.88.png",
+    "text": "1.\nComplete the additions using tokens."
+}

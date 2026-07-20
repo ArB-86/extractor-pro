@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7164950966835022,
+    "bbox": [
+        412.722900390625,
+        1834.31103515625,
+        1112.2822265625,
+        1895.26416015625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/009_plain_text_0.72.png",
+    "text": "Do you agree? Why o\nwhy\nor\nnot?"
+}

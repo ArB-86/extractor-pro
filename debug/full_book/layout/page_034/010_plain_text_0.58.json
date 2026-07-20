@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.5776048898696899,
+    "bbox": [
+        444.8188171386719,
+        2423.185302734375,
+        1688.3914794921875,
+        2622.495361328125
+    ],
+    "image_path": "debug/full_book/layout/page_034/010_plain_text_0.58.png",
+    "text": "Ans:\nBabies\nborn\nin\ne day = 3\n3,60,000 babies.\none\n3,60,000 is less\nthan\none million\n(10 lakh)\nHence, a million\nbabies cannot born\nin a day."
+}

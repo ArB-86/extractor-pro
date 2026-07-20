@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9804487824440002,
+    "bbox": [
+        293.3158264160156,
+        1961.4420166015625,
+        2082.7802734375,
+        2404.284912109375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_033/002_plain_text_0.98.png",
+    "text": "\"By\nthe multiplication of the\nnumerator a\nand\nthe\ndenominator\nof each of the fractions\ns by t\nthe other\ndenominators, the fractions\nare reduced to a common denominator. Then, in case of addition,\nthe\nnumerators\n(obtained after\nr the above reduction)\nare added.\nIn case of subtraction, their\ndifference is taken.\"\n(Brahmagupta,\nBrahmasphutasiddhanta, Verse\ne 12.2, 628 CE)"
+}

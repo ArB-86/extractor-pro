@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9767901301383972,
+    "bbox": [
+        419.83929443359375,
+        2563.674072265625,
+        2215.120849609375,
+        2860.72412109375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_022/002_plain_text_0.98.png",
+    "text": "How\n other\nangles in degrees?\nIt is\nfor\nthis\ncan\nwe\nmeasure\npurpose\nthat we\nhave a tool called a protractor\nthat is either a circle divided\ninto\n360\nparts\nshown\nin\nFig. 2.12\nequal\nas\n(on\n32),\nor\na\nhalf\npage\ncircle divided into\n180e\nequal\nparts."
+}

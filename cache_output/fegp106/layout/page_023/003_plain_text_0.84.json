@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8364213705062866,
+    "bbox": [
+        298.0591735839844,
+        1780.90966796875,
+        1128.2379150390625,
+        1843.62548828125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_023/003_plain_text_0.84.png",
+    "text": "Ans.\nLength of a side of square = 4 cm"
+}

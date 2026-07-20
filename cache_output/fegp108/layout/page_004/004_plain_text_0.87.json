@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8745302557945251,
+    "bbox": [
+        522.2083129882812,
+        620.2363891601562,
+        1177.1768798828125,
+        687.9047241210938
+    ],
+    "image_path": "cache_output/fegp108/layout/page_004/004_plain_text_0.87.png",
+    "text": "How will\nyou draw this?"
+}

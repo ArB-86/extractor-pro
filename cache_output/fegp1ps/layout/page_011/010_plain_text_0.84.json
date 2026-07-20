@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8424440622329712,
+    "bbox": [
+        420.0103454589844,
+        2499.6982421875,
+        2083.472412109375,
+        2629.724365234375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/010_plain_text_0.84.png",
+    "text": "Shailesh A. Shirali, Director, Teacher Education Program Valley School\nKFI"
+}

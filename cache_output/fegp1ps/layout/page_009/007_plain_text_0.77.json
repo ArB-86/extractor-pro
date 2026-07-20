@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.773182213306427,
+    "bbox": [
+        447.8835144042969,
+        1614.1170654296875,
+        2084.931640625,
+        1748.1126708984375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/007_plain_text_0.77.png",
+    "text": "8. U.\nVimal\nKumar,\nDirector\nPrakash\nPadukone\nBadminton\nAcademy, Bengaluru"
+}

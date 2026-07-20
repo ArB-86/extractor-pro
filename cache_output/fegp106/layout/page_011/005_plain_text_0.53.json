@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.527617871761322,
+    "bbox": [
+        404.0748596191406,
+        1250.006591796875,
+        2081.998779296875,
+        1386.5411376953125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_011/005_plain_text_0.53.png",
+    "text": "2.\nHow many t\ntimes bigger is Shape D\nas compared to Shape C? What\nis the relationship between S\nShapes C, D and E?"
+}

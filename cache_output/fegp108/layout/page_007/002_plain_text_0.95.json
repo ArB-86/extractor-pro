@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9541513919830322,
+    "bbox": [
+        291.45928955078125,
+        1463.92333984375,
+        2084.5361328125,
+        1606.2916259765625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_007/002_plain_text_0.95.png",
+    "text": "In a valid name, the corners occur in an order of travel\naround\nthe rectangle, starting from any corner."
+}

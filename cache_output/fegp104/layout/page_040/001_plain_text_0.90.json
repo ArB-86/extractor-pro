@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.896709680557251,
+    "bbox": [
+        299.23272705078125,
+        1264.346923828125,
+        2189.359375,
+        1382.9898681640625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_040/001_plain_text_0.90.png",
+    "text": "Q.3. Chinu listed the various means of transport that passed across the road in front of\nhis house from 9 am to 10 am:"
+}

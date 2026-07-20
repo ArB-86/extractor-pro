@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5400572419166565,
+    "bbox": [
+        320.2169189453125,
+        1720.8515625,
+        1627.5592041015625,
+        1784.089599609375
+    ],
+    "image_path": "tmp_debug_layout/014_plain_text_0.54.png",
+    "text": "Example 4:\nWhich of the following\n is not defined?"
+}

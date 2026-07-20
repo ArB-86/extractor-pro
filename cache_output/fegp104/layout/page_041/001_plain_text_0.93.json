@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.928257167339325,
+    "bbox": [
+        297.6197814941406,
+        2282.020263671875,
+        710.0611572265625,
+        2522.1845703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_041/001_plain_text_0.93.png",
+    "text": "Ans.\na. Village D.\nb. Village C.\nc. 3.\nd. Yes"
+}

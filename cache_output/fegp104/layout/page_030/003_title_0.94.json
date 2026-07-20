@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.9376696348190308,
+    "bbox": [
+        295.1700744628906,
+        1681.0870361328125,
+        714.81591796875,
+        1759.1561279296875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_030/003_title_0.94.png",
+    "text": "Infog"
+}

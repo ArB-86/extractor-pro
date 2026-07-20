@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9262569546699524,
+    "bbox": [
+        471.8612060546875,
+        1808.0684814453125,
+        2185.638916015625,
+        2159.01123046875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_008/001_plain_text_0.93.png",
+    "text": "3-4\nWe usually\nread the fraction\nas \u2018three\nquarters' or \u2018three\ne upon four',\n1\nbut\nreading\nit\nt as\n3\ntimes\nhelps\nto\nunderstand\nthe\nsize\nof t\nthe\nus\n4\nfraction because\nit clearly\nwhat the\nunit is\nshows\nfractional\nand\nG\nhow many\nsuch fractional:\nunits\n(3) there are."
+}

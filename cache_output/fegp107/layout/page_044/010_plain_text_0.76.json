@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7566110491752625,
+    "bbox": [
+        291.701171875,
+        2744.739501953125,
+        1920.2794189453125,
+        2811.106689453125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_044/010_plain_text_0.76.png",
+    "text": "Q. Now, decide in which of the two groups will each child get a larger share:"
+}

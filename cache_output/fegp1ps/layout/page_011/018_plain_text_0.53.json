@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5348717570304871,
+    "bbox": [
+        422.4197692871094,
+        1366.5323486328125,
+        1944.8399658203125,
+        1431.2547607421875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/018_plain_text_0.53.png",
+    "text": "H. S. Sharada, TGT, Government High School, HD Kote, Karnatak"
+}

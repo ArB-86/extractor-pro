@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8875398635864258,
+    "bbox": [
+        383.04058837890625,
+        1967.437255859375,
+        2186.34130859375,
+        2103.5927734375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_028/001_plain_text_0.89.png",
+    "text": "3. For each of the following situations, write the expression describing\nthe situation, identify its terms, and find the value of the expression."
+}

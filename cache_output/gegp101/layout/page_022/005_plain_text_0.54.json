@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5437382459640503,
+    "bbox": [
+        509.3603210449219,
+        628.8632202148438,
+        2030.1724853515625,
+        995.82080078125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_022/005_plain_text_0.54.png",
+    "text": "(a)\n1 lakh is 1 followed by 5 zeroes: 1,0o,000\n(b)\n1 crore is 1 followed by 7 zeroes: 1,00,00,000\n(c)\n            \nlakhs)\n(d)\n1 arab is 1 followed by 9 zeroes: 1,000,000,000 (which is also 100\ncrore or 1 billion)"
+}

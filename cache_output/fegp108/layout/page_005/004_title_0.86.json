@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.8631929755210876,
+    "bbox": [
+        293.4541931152344,
+        582.6716918945312,
+        729.3363037109375,
+        649.09619140625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_005/004_title_0.86.png",
+    "text": "Wa\navy\nWa\n2\nave\n1."
+}

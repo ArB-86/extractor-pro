@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.6577133536338806,
+    "bbox": [
+        294.2406311035156,
+        793.894287109375,
+        2186.6318359375,
+        923.1519165039062
+    ],
+    "image_path": "cache_output/fegp107/layout/page_037/010_plain_text_0.66.png",
+    "text": "Q1. Three guavas together weigh 1 kg. If they are roughly of the same size, each\nlguava\nwill roughly weigh\nkg\u00b7"
+}

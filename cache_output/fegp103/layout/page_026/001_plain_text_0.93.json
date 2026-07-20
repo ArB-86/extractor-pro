@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9328509569168091,
+    "bbox": [
+        296.8086853027344,
+        602.91796875,
+        1031.064208984375,
+        787.8405151367188
+    ],
+    "image_path": "cache_output/fegp103/layout/page_026/001_plain_text_0.93.png",
+    "text": "Ans. Palindromes:\n111,121,131\n222,212,232\n313,323,333"
+}

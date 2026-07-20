@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9744020700454712,
+    "bbox": [
+        375.5599060058594,
+        537.7470703125,
+        2092.17041015625,
+        660.9600219726562
+    ],
+    "image_path": "cache_output/gegp102/layout/page_011/000_plain_text_0.97.png",
+    "text": "This expression 5 \u00d7 2 + 3 can be understood as 3 more than 5 \u00d7 2,\nwhich describes the arrangement on the left."
+}

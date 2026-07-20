@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9387031197547913,
+    "bbox": [
+        421.87298583984375,
+        2489.888916015625,
+        2211.80615234375,
+        2632.79052734375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_014/005_plain_text_0.94.png",
+    "text": "Will\nthe\nWindmill\nabove\nl0ok\nexactly\nthe same\nwhen rotated\nthrough\n1 an angle ofless than 90?"
+}

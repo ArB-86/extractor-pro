@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9778581261634827,
+    "bbox": [
+        471.60430908203125,
+        2293.17578125,
+        2157.026611328125,
+        2815.32275390625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_009/001_plain_text_0.98.png",
+    "text": "Bela's Building of Fun had only six floors above and five floors below.\nThat is numbers -5 to + 6. In the mine above, we have numbers from\n-200 to +180. But we can imagine larger buildings or mineshafts.\nJust as positive numbers + 1, + 2, + 3, .. keep going up without an end,\nsimilarly, negative numbers -1, -2, -3, . keep going down. Positive\nand negative numbers, with zero, are called integers. They go both\nWays from 0: ... -4, -3, -2, -1, 0,1,2, 3, 4, ..."
+}

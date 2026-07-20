@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9633893966674805,
+    "bbox": [
+        290.811767578125,
+        2397.0556640625,
+        2088.45068359375,
+        2619.009033203125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_013/001_plain_text_0.96.png",
+    "text": "Make several\n'rotating\nwith different angles between\narms'\nthe\narms. Arrange the angles you have made from smallest to largest by\nand using superimposition.\ncomparing"
+}

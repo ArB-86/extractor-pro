@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8984830379486084,
+    "bbox": [
+        372.4610900878906,
+        1122.7039794921875,
+        2180.923095703125,
+        1310.12451171875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_032/001_plain_text_0.90.png",
+    "text": "Think: Is it possible to reason out if the sides are equal or not, and if the angles are\nright or not without using any measuring instruments in the above figure? Can we\ndo this by only looking at the position of corners in the dot grid?"
+}

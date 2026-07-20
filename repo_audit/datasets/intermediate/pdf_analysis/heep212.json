@@ -1,0 +1,300 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/8th_maths/heep212.pdf",
+  "sha256": "79fb229be5d20b7bd57d8ee748b71a03b0db18e8b6581a5146a516831a46e3df",
+  "pages": 40,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Unit-12_Introduction to graphs final.pmd",
+    "author": "dtpcell6",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180412100613Z",
+    "modDate": "D:20180621164629+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 37,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 8,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 5
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 4
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 4
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 34,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 3,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 4,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 4,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 4,
+      "images": 2
+    }
+  ]
+}

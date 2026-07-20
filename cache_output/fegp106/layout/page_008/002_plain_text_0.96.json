@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9601598978042603,
+    "bbox": [
+        517.8335571289062,
+        754.6216430664062,
+        2107.454345703125,
+        961.4830322265625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_008/002_plain_text_0.96.png",
+    "text": "Discuss\nabout\nregular\npolygons\nand\nencourage students\nmore\nto\nWith\nformula \nup\ngeneral\nfor\nthe\ncome\na\nperimeter\nof\na1\nregular\npolygon."
+}

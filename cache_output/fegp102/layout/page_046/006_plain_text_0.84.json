@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "plain_text",
+    "confidence": 0.843463659286499,
+    "bbox": [
+        377.7436218261719,
+        2211.91162109375,
+        1884.1737060546875,
+        2396.879150390625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_046/006_plain_text_0.84.png",
+    "text": "Where else do we use superimposition to compare?\nA few examples are- line segments, squares and circles. Think of more.\nFigure it out"
+}

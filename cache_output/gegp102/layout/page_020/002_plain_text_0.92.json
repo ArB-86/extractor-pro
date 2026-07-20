@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9240036606788635,
+    "bbox": [
+        359.0115051269531,
+        1811.233642578125,
+        2072.2744140625,
+        1934.646240234375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_020/002_plain_text_0.92.png",
+    "text": "\u2018<',\u2018>' or \u2018=\u2032 or by\n4\u3002\nCompare the following pairs of expressions using\nreasoning."
+}

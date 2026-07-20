@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8747596144676208,
+    "bbox": [
+        494.6552734375,
+        2382.107666015625,
+        1887.407470703125,
+        2453.387939453125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_002/005_plain_text_0.87.png",
+    "text": "Thus, the length of the tape required = 4 \u00d7 1 m = 4 m."
+}

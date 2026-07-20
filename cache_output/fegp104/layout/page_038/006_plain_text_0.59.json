@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.5874062776565552,
+    "bbox": [
+        297.3651428222656,
+        637.922119140625,
+        650.706787109375,
+        695.7026977539062
+    ],
+    "image_path": "cache_output/fegp104/layout/page_038/006_plain_text_0.59.png",
+    "text": "Ans.\n4450\ncars"
+}

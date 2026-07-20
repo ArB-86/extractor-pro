@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8243335485458374,
+    "bbox": [
+        445.0124206542969,
+        1830.1590576171875,
+        1463.64208984375,
+        1890.5167236328125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_031/003_plain_text_0.82.png",
+    "text": "It takes\nrounds. (Try\nfor your\nyear of birth.)\n6\nnow"
+}

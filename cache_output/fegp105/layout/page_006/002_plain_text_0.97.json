@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.966448962688446,
+    "bbox": [
+        419.4936218261719,
+        2705.089599609375,
+        2212.462646484375,
+        2922.76611328125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_006/002_plain_text_0.97.png",
+    "text": "What about numbers\nthat have\nthan two\nfactors?\nThey\nemore\ncalled composite\n numbers. The first few composite numbers\nare\nare\u20144, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20."
+}

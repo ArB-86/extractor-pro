@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5274538397789001,
+    "bbox": [
+        559.021728515625,
+        2627.560546875,
+        2097.352294921875,
+        2700.353271484375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_002/011_plain_text_0.53.png",
+    "text": "perimeter of a square is quadruple the length of its side.\ne"
+}

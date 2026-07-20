@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9042924046516418,
+    "bbox": [
+        446.042236328125,
+        2559.9111328125,
+        2211.778564453125,
+        2908.49365234375
+    ],
+    "image_path": "tmp_run/layout/page_012/001_plain_text_0.90.png",
+    "text": "Shape sequences\nanother\nbasic\ntype of p\npattern\nin\nmathematics.\nare\nSome important examples of shape sequences include regular polygons,\ncomplete\ngraphs, stacked t\ntriangles\nand\nsquares, and Koch\nsnowflake\nsa\ninteresting relationships\nWith\nnumber sequences."
+}

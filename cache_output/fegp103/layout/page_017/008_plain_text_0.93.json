@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9319351315498352,
+    "bbox": [
+        293.1388854980469,
+        2145.397216796875,
+        2081.87646484375,
+        2288.603759765625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_017/008_plain_text_0.93.png",
+    "text": "Which player can a\nalways win if they play\ncorrectly? What is the\npattern of numbers that the winning player should say?"
+}

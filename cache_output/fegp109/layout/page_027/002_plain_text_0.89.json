@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8903558850288391,
+    "bbox": [
+        296.7041015625,
+        1550.153076171875,
+        1511.05712890625,
+        1612.6163330078125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_027/002_plain_text_0.89.png",
+    "text": "Q2. Given\nthe line(s) of symmetry, find the other hole(s):"
+}

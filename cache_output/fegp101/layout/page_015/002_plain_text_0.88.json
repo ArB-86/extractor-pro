@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8847585320472717,
+    "bbox": [
+        295.987060546875,
+        802.9113159179688,
+        801.3609008789062,
+        863.6056518554688
+    ],
+    "image_path": "cache_output/fegp101/layout/page_015/002_plain_text_0.88.png",
+    "text": "Ans.\n One of the\ne ways is-"
+}

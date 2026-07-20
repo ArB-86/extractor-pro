@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8889783620834351,
+    "bbox": [
+        291.16094970703125,
+        1707.2156982421875,
+        907.7387084960938,
+        1768.14599609375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_017/003_plain_text_0.89.png",
+    "text": "Let us\ndraw a\nand s\nshare!"
+}

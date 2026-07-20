@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.6444507241249084,
+    "bbox": [
+        444.1942443847656,
+        1478.4954833984375,
+        2188.156494140625,
+        1598.0782470703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_035/011_plain_text_0.64.png",
+    "text": "One of the alternatives could be, students should be categorized a\naccording to their\nchoice of sweet."
+}

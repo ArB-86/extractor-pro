@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "title",
+    "confidence": 0.6110712885856628,
+    "bbox": [
+        417.99493408203125,
+        396.58447265625,
+        2210.966064453125,
+        539.5055541992188
+    ],
+    "image_path": "cache_output/fegp107/layout/page_026/010_title_0.61.png",
+    "text": "Adding\nfractions\nWith\nthe\nfractional\nunit\nsame\nor\ndenominator"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8736113905906677,
+    "bbox": [
+        298.5639953613281,
+        755.4259033203125,
+        1686.858154296875,
+        815.045654296875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_020/002_plain_text_0.87.png",
+    "text": "Ans.\nFive different possible situations in which numbers are used"
+}

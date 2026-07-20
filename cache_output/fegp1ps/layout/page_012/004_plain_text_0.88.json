@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8770180940628052,
+    "bbox": [
+        420.77178955078125,
+        517.9630126953125,
+        2083.281494140625,
+        650.1625366210938
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_012/004_plain_text_0.88.png",
+    "text": "S. Viswanath, Professor, Institute of Mathematical S\nSciences\n(IMSc),\nChennai"
+}

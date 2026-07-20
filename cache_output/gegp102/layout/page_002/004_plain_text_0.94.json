@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.937122106552124,
+    "bbox": [
+        377.1675720214844,
+        2567.60302734375,
+        1605.5386962890625,
+        2746.16943359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/004_plain_text_0.94.png",
+    "text": "Raja\nhad 1\nmarble\nthan\nJoy. E\nBut\nhe\nalso\nmore\nlost 1\nmarble\nthan\nJoy\ndid.\nTherefore,\nthey\nmore\nhave an\nnumber\nof marbles\nequal\nnow."
+}

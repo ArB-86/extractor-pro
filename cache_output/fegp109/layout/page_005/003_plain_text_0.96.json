@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9592649340629578,
+    "bbox": [
+        293.83197021484375,
+        2716.39111328125,
+        2086.00048828125,
+        2861.0244140625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_005/003_plain_text_0.96.png",
+    "text": "The figure shows a square with its corners labeled A, B, C and D.\nLet us first consider the vertical line of symmetry. When we reflect"
+}

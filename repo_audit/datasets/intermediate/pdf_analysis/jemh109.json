@@ -1,0 +1,97 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/jemh1dd/jemh109.pdf",
+  "sha256": "89c6c125039bfb8c7708b6bc5a27321021de629d4a1608f7f94812a96698f63f",
+  "pages": 11,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Chap\u20139 (11th Nov.)",
+    "author": "admin",
+    "subject": "Chap\u20139 (11th Nov.)",
+    "keywords": "",
+    "creator": "Adobe PageMaker 7.0",
+    "producer": "Acrobat Distiller 10.1.1 (Windows)",
+    "creationDate": "D:20220817115718+05'30'",
+    "modDate": "D:20260324120042+05'30'",
+    "trapped": "",
+    "encryption": "Standard V1 R2 40-bit RC4"
+  },
+  "page_info": [
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 14
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 10,
+      "images": 4
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 23,
+      "images": 470
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 3
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 468.0,
+      "height": 684.0,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    }
+  ]
+}

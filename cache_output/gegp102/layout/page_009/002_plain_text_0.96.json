@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9596787691116333,
+    "bbox": [
+        375.5851135253906,
+        1799.531982421875,
+        886.0576171875,
+        2154.834716796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/002_plain_text_0.96.png",
+    "text": "Ruby\nwanted\nto\nrest\nand\nsat\non\nside. The\nother\none\n33\nstudents\nwere\nplaying\ng the\ngame\nin\nthe class."
+}

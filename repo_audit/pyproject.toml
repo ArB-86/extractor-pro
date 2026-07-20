@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "extractor-pro"
+version = "0.1.0"
+description = "Research-grade PDF extraction pipeline for NCERT Mathematics"
+requires-python = ">=3.11"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["pipeline*", "parsers*"]

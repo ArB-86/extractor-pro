@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.6672069430351257,
+    "bbox": [
+        412.95135498046875,
+        1470.509765625,
+        2187.103271484375,
+        1593.9344482421875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_037/007_plain_text_0.67.png",
+    "text": "d. Rukhsana says\ns Poonam Ben purchased more than double the number of kites\nthat Rani purchased. Is she correct? Why?"
+}

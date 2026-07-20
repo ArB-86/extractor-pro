@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9512578248977661,
+    "bbox": [
+        376.2024841308594,
+        2711.173095703125,
+        2088.976806640625,
+        2831.25146484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/004_plain_text_0.95.png",
+    "text": "Weseet\nthat adding the terms of the expression (-7) + 10 +\n(-11)\nin\nany order gives the same sum of -8."
+}

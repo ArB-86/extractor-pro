@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.8241563439369202,
+    "bbox": [
+        295.8203125,
+        2495.3623046875,
+        2188.71875,
+        2786.4599609375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_048/001_plain_text_0.82.png",
+    "text": "2\n3\nQ3. Geeta bought\n-5\nmeter of lace and :\nShamim\nbought\n\u4e00\nmeter of the\nlace to put\nsame\nt a\n4\ncomplete\nborder\ntable cloth\n whose\nperimeter\n: is\n1\nmeter\nlong. Find\non a 1\nthe\n total\nlength of the\nlace\nthey\nboth\nhave\nbought. Will\nthe\nlace\nbe sufficient to cover\nthe\nwhole border?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7790722250938416,
+    "bbox": [
+        294.823974609375,
+        500.97906494140625,
+        1791.879150390625,
+        564.5626831054688
+    ],
+    "image_path": "cache_output/fegp106/layout/page_025/008_plain_text_0.78.png",
+    "text": "Ans.\nThe perimeters of the figures: 8s + 2d, 4s + 6d, 12s + 6d, 18s + 6d."
+}

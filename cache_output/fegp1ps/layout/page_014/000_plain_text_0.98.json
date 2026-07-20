@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9832860231399536,
+    "bbox": [
+        422.0283203125,
+        696.3416748046875,
+        2085.68701171875,
+        1293.10302734375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_014/000_plain_text_0.98.png",
+    "text": "The contributions of1lma Nasir, Editor(contractual); Asma Khanam,\nAssistant Editor (contractual); Aastha Sharma, Editorial Assistant\n(contractual); Ariba Usman, Adiba Tasneem, Ritika Marothia, Mobbata\nRam and Kaiminlen Doungel, Proof Readers (contractual), Publication\nDivision are also appreciated. The NCERT gratefully acknowledges the\ncontributions of Pawan Kumar Barriar, In charge, DTP Cell; Mohan\nSingh, Vipan Kumar Sharma, Kishore Singhal, Ajay Kumar Prajapati\nand Upasana, DTP Operators (contractual), Publication Division,\nNCERT for all their efforts in laying out this book."
+}

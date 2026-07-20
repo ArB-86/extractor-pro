@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.941605269908905,
+    "bbox": [
+        292.9037780761719,
+        1360.0048828125,
+        2083.726318359375,
+        1504.06787109375
+    ],
+    "image_path": "tmp_run/layout/page_007/003_plain_text_0.94.png",
+    "text": "S    e e    n e s asa\nsize, this\nexplains why adding up odd numbers\ngives square numbers."
+}

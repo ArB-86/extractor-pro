@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.938669741153717,
+    "bbox": [
+        289.6797180175781,
+        2259.278076171875,
+        2056.57080078125,
+        2333.7314453125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_015/005_plain_text_0.94.png",
+    "text": "Example: Is 168 divisible by 12? Find the prime factorisations of both:"
+}

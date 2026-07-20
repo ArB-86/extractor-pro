@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.899185836315155,
+    "bbox": [
+        312.9361572265625,
+        572.4506225585938,
+        2058.81298828125,
+        722.9223022460938
+    ],
+    "image_path": "tmp_debug_layout/000_plain_text_0.90.png",
+    "text": "Example 1:\nes s! 1 x 2 + 01 \u00d7 0 + 001 \u00d7 8 + 0001 x 0 + 00001 \u00d7 8\nas"
+}

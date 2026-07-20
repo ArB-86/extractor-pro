@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9465917348861694,
+    "bbox": [
+        421.1309814453125,
+        1451.66259765625,
+        2214.86083984375,
+        1596.6104736328125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_010/005_plain_text_0.95.png",
+    "text": "Equal angles. Now consider ZAOB and ZXOY in the figure. Which\niS\ngreater?"
+}

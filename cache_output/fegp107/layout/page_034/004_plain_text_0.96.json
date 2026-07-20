@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9559409022331238,
+    "bbox": [
+        520.7175903320312,
+        477.7652587890625,
+        2211.076904296875,
+        622.2192993164062
+    ],
+    "image_path": "cache_output/fegp107/layout/page_034/004_plain_text_0.96.png",
+    "text": "It is easy to add up\nfractional units to obtain the sum\n1, if one\nuses the same fractional unit, for example,"
+}

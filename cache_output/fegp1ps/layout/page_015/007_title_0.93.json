@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.9297531843185425,
+    "bbox": [
+        808.5028686523438,
+        333.4174499511719,
+        1693.947509765625,
+        429.8902587890625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/007_title_0.93.png",
+    "text": "NoTE TO THE TEACHER"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.6237302422523499,
+    "bbox": [
+        581.6780395507812,
+        256.3084411621094,
+        1813.7333984375,
+        606.3576049804688
+    ],
+    "image_path": "debug/full_book/layout/page_001/007_title_0.62.png",
+    "text": "LARGE NUMBERS\nAROUND US"
+}

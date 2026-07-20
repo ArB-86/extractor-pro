@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.618323028087616,
+    "bbox": [
+        421.8816223144531,
+        1368.2357177734375,
+        1268.3472900390625,
+        1504.4256591796875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/005_plain_text_0.62.png",
+    "text": "Chapter 4\nData Handling \nand Presentation"
+}

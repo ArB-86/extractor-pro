@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.539427638053894,
+    "bbox": [
+        384.93475341796875,
+        304.95098876953125,
+        947.3689575195312,
+        369.5883483886719
+    ],
+    "image_path": "cache_output/gegp101/layout/page_026/006_plain_text_0.54.png",
+    "text": "(g)\n4350\n? 435 times"
+}

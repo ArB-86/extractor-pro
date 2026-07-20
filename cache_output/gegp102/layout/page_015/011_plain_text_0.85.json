@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8478364944458008,
+    "bbox": [
+        511.094482421875,
+        1077.7823486328125,
+        1246.9464111328125,
+        1221.4736328125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_015/011_plain_text_0.85.png",
+    "text": "(a)\n423\n+\n419\n9+\n(b)\n207\n\u4e00\n68\n\u4e8c\n210"
+}

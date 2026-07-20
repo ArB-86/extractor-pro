@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9748175144195557,
+    "bbox": [
+        378.38153076171875,
+        718.5223388671875,
+        2092.05419921875,
+        964.4631958007812
+    ],
+    "image_path": "debug/full_book/layout/page_008/003_plain_text_0.97.png",
+    "text": "The\ntable\nbelow\nshows\nnumbers\naccording\nto\nboth\nthe\nIndian\nsome\nand the American s\n(also called the International\nsystem\nsystem\nsystem)\nof\nnaming\nnumerals\nand\nplacing\nObserve\nthe\nplacement\ncommas.\nof\nin both systems.\ncommas"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9063833951950073,
+    "bbox": [
+        297.507080078125,
+        1135.9268798828125,
+        1563.0694580078125,
+        1292.8592529296875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_024/003_plain_text_0.91.png",
+    "text": "Ans.\nPerimeter of the outer track = 220\nm\nTotal distance Akshi has covered in 5 rounds = 1100\nm"
+}

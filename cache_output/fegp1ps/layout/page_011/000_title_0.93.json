@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9344606995582581,
+    "bbox": [
+        637.9224243164062,
+        333.5083312988281,
+        1870.9459228515625,
+        430.92327880859375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_011/000_title_0.93.png",
+    "text": "DE\nTeAm\nT\nEXTbOOK\nEVelOPMeNt"
+}

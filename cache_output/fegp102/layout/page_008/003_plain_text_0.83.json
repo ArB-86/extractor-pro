@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8306531310081482,
+    "bbox": [
+        531.082275390625,
+        825.67724609375,
+        1757.1976318359375,
+        891.1065673828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_008/003_plain_text_0.83.png",
+    "text": "2.\nDraw a\nand label\nan angle\ne with\narms\nST\nand SR."
+}

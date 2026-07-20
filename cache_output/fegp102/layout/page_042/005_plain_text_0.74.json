@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.7447937726974487,
+    "bbox": [
+        459.86114501953125,
+        1651.465576171875,
+        2208.51171875,
+        1873.433837890625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_042/005_plain_text_0.74.png",
+    "text": "A1\nline\nis\nobtained\nwhen\nline\na\nsegment\nlike\nST\nis\nextended\non\nboth\nsides\nindefinitely; it is\ndenoted\nby s\nsometimes\nby\nsingle\nST\nor\na\nsmall\nletter\nlike\nm."
+}

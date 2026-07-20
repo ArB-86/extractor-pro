@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "title",
+    "confidence": 0.7600409984588623,
+    "bbox": [
+        293.5211181640625,
+        299.79119873046875,
+        863.9486694335938,
+        359.7872314453125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_050/001_title_0.76.png",
+    "text": "Q2. Subtract as indicated:"
+}

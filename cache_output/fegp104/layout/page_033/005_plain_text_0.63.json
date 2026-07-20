@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.6317704916000366,
+    "bbox": [
+        443.8865661621094,
+        1447.7513427734375,
+        2208.390625,
+        1588.0347900390625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_033/005_plain_text_0.63.png",
+    "text": "However\nmaking\nvisual\nrepresentations of data\n'fancy'\ncan\nalso\nsometimes be misleading."
+}

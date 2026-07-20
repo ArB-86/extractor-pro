@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6344026923179626,
+    "bbox": [
+        386.9504089355469,
+        396.537353515625,
+        1848.468994140625,
+        570.2745361328125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_003/007_plain_text_0.63.png",
+    "text": "4.\nThe\nbig\nfish \nWeighs\n1\nkg. The\n1\nWeighs\nkg.\n small\none\n2\n4\nTogether they weigh\nkg."
+}

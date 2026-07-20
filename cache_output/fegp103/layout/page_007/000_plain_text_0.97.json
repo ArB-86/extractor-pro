@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9739406108856201,
+    "bbox": [
+        290.9231262207031,
+        2176.854736328125,
+        1187.985107421875,
+        2618.382568359375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_007/000_plain_text_0.97.png",
+    "text": "Steps\nto\nfollow:\nStart\nWith\na\n2-digit\nnumber. Add this number\nto its\nreverse. Stop\nif\nyou\nget a\npalindrome\nelse\nthe\nor\nrepeat\nreversing\nsteps of\nthe\ndigits and\ne\nadding."
+}

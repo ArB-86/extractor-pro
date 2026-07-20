@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9071156978607178,
+    "bbox": [
+        418.0287170410156,
+        2649.167724609375,
+        2211.96923828125,
+        2795.84521484375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_013/001_plain_text_0.91.png",
+    "text": "When making\nbar\ngraphs, bars of uniform width can\n be\ndrawn\nhorizontally\n or vertically with equal spacing\n between t\nthem; then the"
+}

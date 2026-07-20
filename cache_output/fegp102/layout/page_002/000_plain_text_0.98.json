@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9803671836853027,
+    "bbox": [
+        420.7110900878906,
+        1295.06201171875,
+        1622.4788818359375,
+        1740.681396484375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_002/000_plain_text_0.98.png",
+    "text": "What is\nthe shortest route\nfrom A to B?\nThis shortest\npath from\nn Point A to Point\nt B\n(including A and B) a\nas shown\n1 here is called\nthe line segment from A to B. It is denoted by\neither AB or BA. The points A and B\nare called\nthe end points of the line segment AB."
+}

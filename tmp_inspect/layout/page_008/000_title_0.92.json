@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.9167402982711792,
+    "bbox": [
+        418.9712219238281,
+        1161.6707763671875,
+        878.5094604492188,
+        1237.7596435546875
+    ],
+    "image_path": "tmp_inspect/layout/page_008/000_title_0.92.png",
+    "text": "Figure\nit\nOut"
+}

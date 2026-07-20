@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9660149216651917,
+    "bbox": [
+        377.609130859375,
+        2004.962158203125,
+        2089.134033203125,
+        2186.989501953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/003_plain_text_0.97.png",
+    "text": "Different expressions can have\nthe same value. Here are multiple\nways to express the number 12, using two numbers and any of the four\noperations +, -,\nx and\n\u4e00"
+}

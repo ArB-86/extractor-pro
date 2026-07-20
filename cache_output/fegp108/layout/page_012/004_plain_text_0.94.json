@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9434438943862915,
+    "bbox": [
+        420.9312744140625,
+        937.87451171875,
+        2208.214599609375,
+        1079.4129638671875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_012/004_plain_text_0.94.png",
+    "text": "HoW\ndoes the minimum\ndistance\nbetween\nthe points X and Y\ncompare to the length of AB?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9719318747520447,
+    "bbox": [
+        421.33172607421875,
+        2547.4091796875,
+        1570.5740966796875,
+        2764.365478515625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_002/001_plain_text_0.97.png",
+    "text": "You\nby\nmarking\nfew\ncan\nstart\na\npoints\nof distance\nfrom\nP\nusing\n4\ncm\nthe\ncompass.\nHow\nthis be done?\ncan"
+}

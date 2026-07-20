@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.6139770150184631,
+    "bbox": [
+        361.9667053222656,
+        597.2987670898438,
+        2018.16943359375,
+        814.8092041015625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_030/002_plain_text_0.61.png",
+    "text": "This\nis\ntwo\nplayer\nEach\nplayer\ngame.\nhas\na\n1\npawn.\nBoth\nplayers start at 0. Players\nreach either -50\nor\n50 to\n can\n+\nwin\nbut\nnot decide or\nfix\nx this\ns before or\nduring play.\nneed"
+}

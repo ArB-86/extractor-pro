@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9808508157730103,
+    "bbox": [
+        420.7472229003906,
+        360.1920166015625,
+        2083.914306640625,
+        765.9995727539062
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_016/002_plain_text_0.98.png",
+    "text": "      n   o\nquestions\nin this book are marked using the icon\n. This icon is an indicator\nof a potential\nopportunity to start off a process of problem solving\nand exploration in the classroom. You will find some of the problems\nn          s\nfor classroom discussion."
+}

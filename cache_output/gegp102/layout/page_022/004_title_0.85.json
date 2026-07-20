@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.8454817533493042,
+    "bbox": [
+        1021.0337524414062,
+        416.67828369140625,
+        1584.7398681640625,
+        482.60565185546875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_022/004_title_0.85.png",
+    "text": "Expression Engineer!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5049505829811096,
+    "bbox": [
+        375.5367736816406,
+        1033.132568359375,
+        2085.410888671875,
+        1173.35205078125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_011/008_plain_text_0.50.png",
+    "text": "4\u3002\nHow many rounds does the number 5683 take to reach the Kaprekar\nconstant?"
+}

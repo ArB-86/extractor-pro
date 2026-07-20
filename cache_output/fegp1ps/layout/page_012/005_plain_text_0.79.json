@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7868612408638,
+    "bbox": [
+        419.39208984375,
+        1207.8607177734375,
+        2084.84228515625,
+        1331.1090087890625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_012/005_plain_text_0.79.png",
+    "text": "Ashutosh Kedarnath Wazalwar, Professor, Department of Education\nin Science and Mathematics, NCERT, New Delhi"
+}

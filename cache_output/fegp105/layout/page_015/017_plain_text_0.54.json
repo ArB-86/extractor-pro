@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5360870957374573,
+    "bbox": [
+        289.9175720214844,
+        643.044921875,
+        2084.360595703125,
+        850.2283325195312
+    ],
+    "image_path": "cache_output/fegp105/layout/page_015/017_plain_text_0.54.png",
+    "text": "Example: Consider 40 and 231. Their\nprime factorisations\nsareas\nfollows:\n40 = 2 \u00d7 2 \u00d7 2 \u00d7 5 and 231 = 3 \u00d7 7 \u00d7 11"
+}

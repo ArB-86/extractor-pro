@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8419592380523682,
+    "bbox": [
+        331.12799072265625,
+        1236.188720703125,
+        1634.0391845703125,
+        1303.722900390625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_028/005_plain_text_0.84.png",
+    "text": "Q. Which of the following pairs of numbers are co-prime?"
+}

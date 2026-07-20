@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9586203694343567,
+    "bbox": [
+        525.3201293945312,
+        2488.579345703125,
+        2208.28173828125,
+        2629.46435546875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_026/005_plain_text_0.96.png",
+    "text": "Does this help in spotting the point A? Construct and explore\nin the figure."
+}

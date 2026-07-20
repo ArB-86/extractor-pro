@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7065160870552063,
+    "bbox": [
+        297.9553527832031,
+        388.198486328125,
+        474.0904846191406,
+        443.9664001464844
+    ],
+    "image_path": "tmp_run/layout/page_014/003_plain_text_0.71.png",
+    "text": "Ans.\n6"
+}

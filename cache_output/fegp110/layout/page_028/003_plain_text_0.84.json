@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8375067114830017,
+    "bbox": [
+        325.36865234375,
+        2050.46044921875,
+        2083.638427734375,
+        2336.778564453125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_028/003_plain_text_0.84.png",
+    "text": "Every\ngiven number\nhas\nanother\nnumber\nassociated to it which\n when\nadded\nto\nthe\ngiven\nnumber\ngives\nThis\nis\ncalled\nthe\nadditive\nzero.\ninverse of the\nnumber. For\nexample, the additive\ninverse of 7 is -7\nand\nthe additive\ninverse\n of-543 is 543."
+}

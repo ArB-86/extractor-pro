@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8886425495147705,
+    "bbox": [
+        377.8134765625,
+        2731.326416015625,
+        1847.43359375,
+        2854.498779296875
+    ],
+    "image_path": "debug/full_book/layout/page_005/006_plain_text_0.89.png",
+    "text": "3.\nTheHandy\nHundreds only has a +1o0 button. How many\ntimes should it be pressed to show:"
+}

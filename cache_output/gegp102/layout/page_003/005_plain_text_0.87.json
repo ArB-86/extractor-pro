@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.87201327085495,
+    "bbox": [
+        376.4841003417969,
+        2264.490966796875,
+        2086.931640625,
+        2443.239501953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/005_plain_text_0.87.png",
+    "text": "This sentence without the punctuation could have been interpreted\nin two different ways. The appropriate use of a comma specifies how\nthe sentence has to be understood."
+}

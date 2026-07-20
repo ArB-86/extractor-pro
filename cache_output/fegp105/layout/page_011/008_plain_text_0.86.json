@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.855414092540741,
+    "bbox": [
+        364.29736328125,
+        1701.90087890625,
+        1584.71875,
+        1774.1270751953125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_011/008_plain_text_0.86.png",
+    "text": "Clearly\nGuna\na is right, as\ns 7is a common\nfactor."
+}

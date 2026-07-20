@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7911897301673889,
+    "bbox": [
+        299.1896667480469,
+        500.0694580078125,
+        2088.37841796875,
+        949.0519409179688
+    ],
+    "image_path": "cache_output/fegp108/layout/page_029/002_plain_text_0.79.png",
+    "text": "1.\nConstruct a bigger house in which all the sides are of length 7 cm.\n2\u3002\nArtwork', using ideas involved in the \u2018House\u2019 construction.\n3\u3002\nIs there a 4-sided figure in which all the sides are equal in length\nbut is not a square? If such a figure exists, can you construct it?\nHints"
+}

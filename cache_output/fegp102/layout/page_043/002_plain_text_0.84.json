@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.8383905291557312,
+    "bbox": [
+        294.5408630371094,
+        2280.6474609375,
+        2187.66845703125,
+        2404.88134765625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_043/002_plain_text_0.84.png",
+    "text": "Q.4. Draw a rough\nfigure and write labels appropriately to illustrate each of the\nfollowing:"
+}

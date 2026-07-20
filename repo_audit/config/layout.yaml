@@ -1,0 +1,10 @@
+confidence_threshold: 0.50
+
+valid_labels:
+  - title
+  - plain text
+  - isolate_formula
+  - table
+  - table_caption
+
+image_size: 1024

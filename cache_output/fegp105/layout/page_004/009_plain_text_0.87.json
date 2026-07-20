@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8663730621337891,
+    "bbox": [
+        416.2587585449219,
+        625.4022827148438,
+        2210.1181640625,
+        762.574951171875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_004/009_plain_text_0.87.png",
+    "text": "The factors of 36 are: 1, 2, 3, 4, 6, 9, 12, 18 and 36. These jump sizes\nWillland on 36."
+}

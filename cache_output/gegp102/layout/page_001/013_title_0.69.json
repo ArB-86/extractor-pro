@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.6930219531059265,
+    "bbox": [
+        381.0613098144531,
+        2504.437255859375,
+        1102.4871826171875,
+        2576.03857421875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_001/013_title_0.69.png",
+    "text": "Comparing\nExpressions"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9819772243499756,
+    "bbox": [
+        420.44970703125,
+        1785.8101806640625,
+        2084.960205078125,
+        2886.629638671875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_006/001_plain_text_0.98.png",
+    "text": "Building on the idea of exploring patterns in mathematics, the\nS       n sn n s\nChapter 2,\u2018Lines and Angles', introduces the building blocks of\ngeometry\u2014points,linesegments,rays,lines, angles,andhowtomeasure\nangles. Chapter 3, Number Play', is an exploratory adventure through\nsome instructive but fun games and puzzles in mathematics\u2014some of\nwhich are still unsolved! Chapter 4, Data Handling', is an introduction\nto the art of collecting and presenting data, including both its analytic\nand aesthetic aspects. Chapter 5, Prime Time', is a playful adventure\nthrough prime numbers-the building blocks of the universe of whole\nnumbers\u2014and factorization. Chapter 6, \u2018Perimeter and Area', is a\nrevision of these fundamental notions, with a variety of challenging\npuzzles to keep children on their toes and enhance understanding.\nChapter 7, \u201cFractions', will be many students' first encounter with this\nimportant concept; the chapter aims to build intuition about fractions\ngradually, starting with fractional units like 1/10 as the foundation,\nand gradually building up to working with general fractions, including"
+}

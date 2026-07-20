@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9817942380905151,
+    "bbox": [
+        291.9310302734375,
+        394.2644348144531,
+        2087.485595703125,
+        765.9296264648438
+    ],
+    "image_path": "cache_output/fegp106/layout/page_007/000_plain_text_0.98.png",
+    "text": "This\nfigure\nhas\nlines of two\ndifferent\nunit lengths. Measure\nthe\nlengths of a red line and a blue line; are t\nthey s\nsame? We will call t\nthe\nred lines \u2014straight lines and the blue \ne lines\u2014 diagonal lines. So, the\nperimeter of this\ntriangle is 6 straight\nt units + 3 diagonal\nunits. We\ncan write this in a short form as: 6s + 3d units."
+}

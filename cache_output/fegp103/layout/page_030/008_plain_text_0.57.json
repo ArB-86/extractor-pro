@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.5679551362991333,
+    "bbox": [
+        373.8557434082031,
+        626.6790161132812,
+        2188.40673828125,
+        870.8181762695312
+    ],
+    "image_path": "cache_output/fegp103/layout/page_030/008_plain_text_0.57.png",
+    "text": "Q. Make some\nCollatz\nlike\nthose\nabove, starting\nsequences\nwith\nyour\nfavourite\nmore\nwhole\nnumbers.\n. Do you\nalways\nreach\n1?\nDo\nbelieve\nthe\nconjecture\nof\nCollatz\nthat all\nsuch\nwill\neventually\nyou\nsequences\nreach 1? Why\nwhy\nor\nnot?"
+}

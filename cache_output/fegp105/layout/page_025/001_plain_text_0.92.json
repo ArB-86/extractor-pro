@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9199114441871643,
+    "bbox": [
+        296.4329528808594,
+        1373.6357421875,
+        2187.1201171875,
+        1559.92041015625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_025/001_plain_text_0.92.png",
+    "text": "Q.6. Anshu and his friends play the \u201cidli-vada' g\ngame with two numbers, which are both\nsmaller than 10. The first time anybody says \u201cidlivada' is after the number 50. What\ncould the two numbers be which are assigned \u2018idli' and \u2018vada'?"
+}

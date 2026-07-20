@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8179001212120056,
+    "bbox": [
+        377.4312744140625,
+        1233.9718017578125,
+        2089.01416015625,
+        1299.1004638671875
+    ],
+    "image_path": "debug/full_book/layout/page_005/009_plain_text_0.82.png",
+    "text": "In the Land of Tens, there are special calculators with special buttons."
+}

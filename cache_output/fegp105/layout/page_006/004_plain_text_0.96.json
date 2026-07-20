@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9613763093948364,
+    "bbox": [
+        420.479248046875,
+        1131.6129150390625,
+        1378.9178466796875,
+        1346.257568359375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_006/004_plain_text_0.96.png",
+    "text": "Observe\nthe\nnumber\nof\nrows\nand\ncolumns ineach ofthe arrangements.\nHow\uff1a\nare they\nrelated\nto\n12?"
+}

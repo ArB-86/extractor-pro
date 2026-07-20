@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8282425403594971,
+    "bbox": [
+        533.8222045898438,
+        896.4560546875,
+        2059.8251953125,
+        1443.1990966796875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_012/008_plain_text_0.83.png",
+    "text": "5.\nTo get from one s\nshape to the next shape in the Koch\nSnowflake sequence, one r\nreplaces each line segment\u2018\u2014\nby a \u2018speed bump' \u2014. As one does this more and more\ntimes, the changes become tinier and tinier with very very\nsmall line segments. How many total line segments are\nthere in each shape of the Koch Snowflake? What is the\ni.e., 3 times Powers of4; this sequence is not shown in Table 1.)"
+}

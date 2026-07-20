@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6799446940422058,
+    "bbox": [
+        366.3803405761719,
+        2718.490234375,
+        2085.231689453125,
+        2861.474365234375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_002/004_plain_text_0.68.png",
+    "text": "4\u3002\nPari wants to respond to the questions\ngiven below. Put a tick\nfor the questions where she needs to carry out data collection and"
+}

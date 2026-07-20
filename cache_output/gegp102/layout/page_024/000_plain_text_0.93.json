@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9297043681144714,
+    "bbox": [
+        308.9760437011719,
+        811.3344116210938,
+        2188.63818359375,
+        1013.1002807617188
+    ],
+    "image_path": "cache_output/gegp102/layout/page_024/000_plain_text_0.93.png",
+    "text": "Can you explain why subtracting\n a number is the same as adding\ngits\ninverse, using the Token Model of integers that we saw in the Class\n66\ntextbook of mathematics?"
+}

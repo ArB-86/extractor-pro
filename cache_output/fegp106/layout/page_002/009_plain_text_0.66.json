@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6571443676948547,
+    "bbox": [
+        1532.9462890625,
+        443.19580078125,
+        2089.1416015625,
+        690.4775390625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_002/009_plain_text_0.66.png",
+    "text": "Opposite sides of a\nrectangle\nare always\nequal. So, AB\n3=\nCD\nand\nAD\n= BC"
+}

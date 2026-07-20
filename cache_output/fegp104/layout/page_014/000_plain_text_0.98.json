@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9837655425071716,
+    "bbox": [
+        292.73724365234375,
+        1846.1298828125,
+        2085.650146484375,
+        2521.287353515625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_014/000_plain_text_0.98.png",
+    "text": "We can see that the maximum traffic at the crossing is shown\nby the longest bar, i.e., for the time interval 7-8 a.m. The bar graph\nshows that 12o0 vehicles passed through the crossing at that time.\nThe second longest bar is for 8-9 a.m. During that time, 1oo0 vehicles\npassed through the crossing. Similarly, the minimum traffic is shown\nby the smallest bar, i.e., the bar for the time interval 6-7 a.m. During\nthat time, only about 150 vehicles passed through the crossing. The\nsecond smallest bar is that for the time interval 11 a.m.-12 noon,\nwhen about 6o0 vehicles passed through the crossing."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9841113090515137,
+    "bbox": [
+        421.6174621582031,
+        359.0795593261719,
+        2084.325927734375,
+        1008.2496948242188
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_007/001_plain_text_0.98.png",
+    "text": "their comparison, addition, and subtraction. Chapter 8, *Playing with\nConstructions', is a hands-on experience of drawing shapes, including\nusing a compass and a ruler, to enhance students' geometric intuition\nand comprehension. Chapter 9, \u2018Symmetry', is an artistic and hands-\n     o    n\nMathematics and beyond. Finally, Chapter 10, The Other Side of Zero',\naims for students to gain intuition for negative numbers by visiting\nBela's Building of Fun, and gradually working up to understanding\nthe laws of addition and subtraction of all integers as laid down by\nBrahmagupta."
+}

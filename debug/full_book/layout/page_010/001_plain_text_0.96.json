@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.964336633682251,
+    "bbox": [
+        376.689208984375,
+        2425.65673828125,
+        2089.004638671875,
+        2665.29052734375
+    ],
+    "image_path": "debug/full_book/layout/page_010/001_plain_text_0.96.png",
+    "text": "There are situations where itis better to round down\n(rounding down\nis when\nthe approximated\nnumber is less\nthan\nthe actual\nnumber). For\nexample, if the cost of a\nitem\nis ?470, the shopkeeper\nan\nmay say t\nthat the\ninstead of saying\ncost is\naround\n?450\nit is\naround\n?500."
+}

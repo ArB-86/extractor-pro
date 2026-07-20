@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.9437867403030396,
+    "bbox": [
+        380.65728759765625,
+        607.6704711914062,
+        1251.2276611328125,
+        686.8948974609375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_008/006_title_0.94.png",
+    "text": "1.3\nOf Crores \nand Crores!"
+}

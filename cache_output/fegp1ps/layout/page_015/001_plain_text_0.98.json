@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9833452701568604,
+    "bbox": [
+        420.24896240234375,
+        904.7644653320312,
+        2084.318115234375,
+        1630.9093017578125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/001_plain_text_0.98.png",
+    "text": "Classrooms, where students just listen and write down whatever\nis being told to them or written on the board, are deficient in the\nconditions required for learning mathematics. Instead, classrooms\nneed to be places where students are engaged in playing with\nmathematicalc\nconcepts, finding and discussing patterns, and\ndeveloping creative strategies together to solve problems. Students\nsolutions with each other. In fact, these are the very conditions that\nhave led to the development of the entire field of mathematics so far,\nn   r  ss     ps\nand understanding without these conditions."
+}

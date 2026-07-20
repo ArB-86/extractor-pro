@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.544593870639801,
+    "bbox": [
+        296.9004821777344,
+        2610.152587890625,
+        1907.302490234375,
+        2771.4814453125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_032/010_plain_text_0.54.png",
+    "text": "Ans.\nThe largest 4-digit number divisible by 4 and also a palindrome: 9999\nThe smallest 4-digit number divisible by 4 and also a palindrome: 1001."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.576423704624176,
+    "bbox": [
+        550.8800048828125,
+        929.5182495117188,
+        1667.01513671875,
+        1237.42822265625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_016/003_plain_text_0.58.png",
+    "text": "is t\nnumber of kirtanas composed by\nthe\nPurandaradasa\naccording to legends.\nPurandaradasa\nA was a composer and singer in t\nthe\n15th\ncentury. F\n His kirtanas spanned social reform, bhakti\nand\n spirituality. He systematised methods for teaching\nCarnatic\nmusic which is f\nfollowed to t\nthe\npresent c\nday."
+}

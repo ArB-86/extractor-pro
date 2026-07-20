@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9295376539230347,
+    "bbox": [
+        365.3392333984375,
+        2613.38818359375,
+        1225.4759521484375,
+        2683.240478515625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_015/008_plain_text_0.93.png",
+    "text": "Therefore, 168 is divisible by 12."
+}

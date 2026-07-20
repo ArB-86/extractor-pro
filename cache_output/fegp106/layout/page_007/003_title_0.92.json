@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.9208368062973022,
+    "bbox": [
+        293.94842529296875,
+        1510.1927490234375,
+        1233.023681640625,
+        1582.281494140625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_007/003_title_0.92.png",
+    "text": "Perimeter c\nof a regular\npolygon"
+}

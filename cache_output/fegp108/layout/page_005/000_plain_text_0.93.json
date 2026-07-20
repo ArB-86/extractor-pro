@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9348927140235901,
+    "bbox": [
+        391.36346435546875,
+        391.6559753417969,
+        2081.11474609375,
+        536.0799560546875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_005/000_plain_text_0.93.png",
+    "text": "compass in different locations to see \nWhich\npoint works\nfor\ngetting the curve. Use your estimate where to keep the tip."
+}

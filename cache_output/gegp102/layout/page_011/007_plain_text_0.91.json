@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9146216511726379,
+    "bbox": [
+        378.609619140625,
+        1421.6968994140625,
+        2088.03662109375,
+        1542.031494140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_011/007_plain_text_0.91.png",
+    "text": "Find the values of the following\n1.\nexpressions by writing the terms\nin each case."
+}

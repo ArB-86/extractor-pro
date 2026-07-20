@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9378883838653564,
+    "bbox": [
+        436.152099609375,
+        1246.059326171875,
+        1484.9588623046875,
+        1310.67578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_017/004_plain_text_0.94.png",
+    "text": "Writing this equality the other way,\n\uff0cwe\nget"
+}

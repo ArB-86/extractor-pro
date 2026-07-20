@@ -1,88 +1,66 @@
+from __future__ import annotations
+
+import json
+from dataclasses import asdict
+from pathlib import Path
+from typing import Any, List, Optional
 
 from src.dataset.registry import QuestionRegistry
-from src.dataset.manifest import DatasetManifest
-from src.dataset.statistics import DatasetStatistics
-
-from src.storage.jsonl_store import JSONLStore
-from src.storage.parquet_store import ParquetStore
-from src.search.index import SearchIndex
 from src.extractor.result import ExtractionResult
-
-try:
-    from src.storage.sqlite_store import SQLiteStore
-    SQLITE_AVAILABLE = True
-except Exception:
-    SQLITE_AVAILABLE = False
 
 
 class MasterDataset:
+    """Central registry for all extracted questions across a document."""
 
-    def __init__(self):
-
+    def __init__(self) -> None:
         self.registry = QuestionRegistry()
 
-        self.manifest = DatasetManifest()
-
-        self.statistics = DatasetStatistics()
-
-        self.jsonl = JSONLStore()
-
-        self.parquet = ParquetStore()
-
-        self.index = SearchIndex()
-
-        if SQLITE_AVAILABLE:
-            self.sqlite = SQLiteStore()
-
-    def add(self, questions):
-
+    def add(self, questions: List[Any]) -> None:
+        """Add a list of Question objects to the dataset."""
         self.registry.extend(questions)
 
-    def questions(self):
-
+    def all(self) -> List[Any]:
+        """Return all questions as a list."""
         return self.registry.all()
 
-    def __len__(self):
-
+    def __len__(self) -> int:
         return len(self.registry)
 
-    def export(self, output_dir):
-
+    def export(
+        self,
+        output_dir: Path,
+        gold_expected: Optional[Path] = None,
+    ) -> ExtractionResult:
+        """Export the dataset to a JSONL file and return an ExtractionResult."""
         questions = self.registry.all()
 
-        self.jsonl.write(
-            questions,
-            f"{output_dir}/master_dataset.jsonl",
-        )
+        # ---- Export to JSONL ----
+        output_dir = Path(output_dir)
+        output_dir.mkdir(parents=True, exist_ok=True)
+        out_file = output_dir / "master_dataset.jsonl"
 
-        self.parquet.write(
-            questions,
-            f"{output_dir}/master_dataset.parquet",
-        )
+        with out_file.open("w", encoding="utf-8") as f:
+            for q in questions:
+                f.write(json.dumps(asdict(q), ensure_ascii=False) + "\n")
 
-        if SQLITE_AVAILABLE:
+        # ---- Build manifest and statistics ----
+        manifest = {
+            "total": len(questions),
+            "output_file": str(out_file),
+        }
 
-            self.sqlite.write(
-                questions,
-                f"{output_dir}/master_dataset.sqlite",
-            )
+        statistics = {
+            "total_questions": len(questions),
+            "unique_chapters": len({q.chapter for q in questions if q.chapter}),
+            "unique_exercises": len({q.exercise for q in questions if q.exercise}),
+        }
 
+        # ---- Return ExtractionResult ----
         return ExtractionResult(
-
             questions=questions,
-
-            manifest=self.manifest.build(
-                questions,
-            ),
-
-            statistics=self.statistics.build(
-                questions,
-            ),
-
-            search_index=self.index.build(
-                questions,
-            ),
-
+            manifest=manifest,
+            statistics=statistics,
+            search_index={},  # placeholder
             output_directory=str(output_dir),
-
+            evaluation=None,
         )

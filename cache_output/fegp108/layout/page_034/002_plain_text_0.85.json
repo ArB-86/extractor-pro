@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8519833087921143,
+    "bbox": [
+        294.29852294921875,
+        2030.8280029296875,
+        1635.681396484375,
+        2090.943115234375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_034/002_plain_text_0.85.png",
+    "text": "Ans. The farthest distance between X and Y is equal to AC or BD."
+}

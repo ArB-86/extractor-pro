@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5736672878265381,
+    "bbox": [
+        334.75299072265625,
+        2366.076171875,
+        1106.3587646484375,
+        2466.478759765625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/016_plain_text_0.57.png",
+    "text": "Printed\n80\nGSM\non\n paper with NCERT\nwatermark"
+}

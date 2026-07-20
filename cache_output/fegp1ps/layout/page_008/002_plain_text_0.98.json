@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9808560013771057,
+    "bbox": [
+        421.469970703125,
+        622.453125,
+        2082.302490234375,
+        1069.426513671875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_008/002_plain_text_0.98.png",
+    "text": "The concepts and problems are related to daily life situations. An\nattempt has been made to use contexts and materials with which the\nstudents are familiar. Learning material sheets have been given at the\nback of the book that may k\n be photocopied and used. At many places,\nexercises or activities are\ngroup e\nefforts and\ndiscussions. The textbook intends to address the learning needs of a\ndiverse group of students in the classroom."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9460632801055908,
+    "bbox": [
+        406.32244873046875,
+        503.328369140625,
+        2085.41552734375,
+        643.0255737304688
+    ],
+    "image_path": "cache_output/fegp108/layout/page_019/000_plain_text_0.95.png",
+    "text": "1.\nConstruct a rectangle in which one of the diagonals divides\nthe opposite angles into 60\u00b0\nand 30\u00b0."
+}

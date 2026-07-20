@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9675663709640503,
+    "bbox": [
+        419.6244201660156,
+        1087.42041015625,
+        2208.119384765625,
+        1378.381591796875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_012/000_plain_text_0.97.png",
+    "text": "Change\nthe\npositions\nX JO\nand\nY\nto\ncheck\nif\nthere\nare\nother\npositions\nwhere\nthey\ntheir\nfarthest. You\nare\nat\nnearest\nor\ncould\nmultiple\nconstruct\ncopies\nof\nthe\nrectangle\nand\ntry\nout\nvarious\npositions\nof X\nand Y."
+}

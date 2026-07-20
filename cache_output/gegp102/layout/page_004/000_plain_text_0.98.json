@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9836470484733582,
+    "bbox": [
+        377.22381591796875,
+        1392.5230712890625,
+        2087.680419921875,
+        1691.34033203125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/000_plain_text_0.98.png",
+    "text": "When evaluating\nan expression having\ng brackets, we need to first find\nthe\nvalues\nof\nthe\ninside the\nbrackets\nbefore\nperforming\nexpressions\nother\noperations. So, in\nthe a\nabove\nexpression, we\nfirst\nfind t\nthe\nevalue\nof 5 \u00d7 4, and then\ndo the addition. Thus, this\nexpression\ndescribes\nthe\nnumber\nof\nmarbles:"
+}

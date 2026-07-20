@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.9370108842849731,
+    "bbox": [
+        301.26446533203125,
+        2129.314453125,
+        2187.06640625,
+        2313.594970703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_036/001_plain_text_0.94.png",
+    "text": "Q.2. Magan Bhai sells kites at Jamnagar. Six shopkeepers from nearby villages come to\npurchase kites from him. The number of kites he sold to these six shopkeepers are\ngivenbelow"
+}

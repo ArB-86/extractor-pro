@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.6764892339706421,
+    "bbox": [
+        402.8417663574219,
+        1207.869384765625,
+        1135.9642333984375,
+        2253.4951171875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_030/008_plain_text_0.68.png",
+    "text": "30 = 2 x 3 \u00d7 5\n45 =3 \u00d73 \u00d7 5\nb. Yes\n57 =19 x 3\n85 =17 x 5\nc. No\n121 = 11 x 11\n1331 = 11 x 11 x 11\nc. Yes\n343 = 7 \u00d7 7 \u00d7 7\n216 =2\u00d72\u00d72\u00d73\u00d73\u00d73."
+}

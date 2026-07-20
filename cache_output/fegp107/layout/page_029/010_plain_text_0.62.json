@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.6166498064994812,
+    "bbox": [
+        294.638671875,
+        646.6586303710938,
+        1505.446533203125,
+        715.7783203125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_029/010_plain_text_0.62.png",
+    "text": "The smallest common multiple of 6\nand 3 is 6."
+}

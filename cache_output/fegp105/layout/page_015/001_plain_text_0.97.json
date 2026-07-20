@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9730586409568787,
+    "bbox": [
+        290.81903076171875,
+        1371.2440185546875,
+        2084.73828125,
+        1591.630859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_015/001_plain_text_0.97.png",
+    "text": "The prime factors of 242\nare 2 and 11. The prime factors of 195\n3, 5, and 13. There are no common prime factors. Therefore, 242\nare\nand 195 are co-prime."
+}

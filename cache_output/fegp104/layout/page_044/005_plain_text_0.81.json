@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.8114291429519653,
+    "bbox": [
+        299.7537841796875,
+        1465.4156494140625,
+        2184.124755859375,
+        1650.1668701171875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_044/005_plain_text_0.81.png",
+    "text": "Ans.\nTo present the data of the heights of the tallest persons in each class in a school, vertical\nbar graph is useful as heights of persons can be compared by heights of bars easily.\n(Although both bar graphs can be used.) (Think of more reasons!)"
+}

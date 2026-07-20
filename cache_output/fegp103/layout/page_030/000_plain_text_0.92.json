@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9169079065322876,
+    "bbox": [
+        468.7196044921875,
+        300.4013977050781,
+        2187.69384765625,
+        422.8842468261719
+    ],
+    "image_path": "cache_output/fegp103/layout/page_030/000_plain_text_0.92.png",
+    "text": "Even if the greatest 2 digit numbers is subtracted from the smallest 5 digit number, 4\ndigit number will be obtained."
+}

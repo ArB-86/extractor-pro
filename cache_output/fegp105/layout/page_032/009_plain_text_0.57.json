@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5714560747146606,
+    "bbox": [
+        446.6080017089844,
+        1619.86279296875,
+        1637.774658203125,
+        1679.6256103515625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_032/009_plain_text_0.57.png",
+    "text": "Yes. Some examples are: 8576,7648,5024. Try\nsomemore."
+}

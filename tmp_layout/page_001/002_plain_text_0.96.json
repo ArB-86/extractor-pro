@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9602645635604858,
+    "bbox": [
+        418.9256591796875,
+        1299.2569580078125,
+        2082.76220703125,
+        1444.02099609375
+    ],
+    "image_path": "tmp_layout/page_001/002_plain_text_0.96.png",
+    "text": "the explanations as to why those patterns exist."
+}

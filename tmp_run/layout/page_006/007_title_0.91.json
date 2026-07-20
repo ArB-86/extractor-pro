@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9149194955825806,
+    "bbox": [
+        422.5872802734375,
+        2308.93896484375,
+        1089.91943359375,
+        2379.726806640625
+    ],
+    "image_path": "tmp_run/layout/page_006/007_title_0.91.png",
+    "text": "A picture can explain it"
+}

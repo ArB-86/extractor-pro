@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9498925805091858,
+    "bbox": [
+        293.3258361816406,
+        2529.81689453125,
+        2087.253173828125,
+        2739.9619140625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_009/000_plain_text_0.95.png",
+    "text": "Example: Four square flower beds each of side 4 m are in four corners\non a piece ofland 12 m long and 10 m wide. Find the area of the remaining\npart of the land."
+}

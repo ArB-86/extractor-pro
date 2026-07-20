@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.778451681137085,
+    "bbox": [
+        399.4947509765625,
+        1776.399169921875,
+        603.4656982421875,
+        1837.305908203125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_026/003_plain_text_0.78.png",
+    "text": "Ans:\nNo"
+}

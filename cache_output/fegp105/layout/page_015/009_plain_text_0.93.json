@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9283031821250916,
+    "bbox": [
+        292.8637390136719,
+        2711.3134765625,
+        2082.591552734375,
+        2785.44873046875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_015/009_plain_text_0.93.png",
+    "text": "Example: Is 75 divisible by 21? Find the prime factorisations of both:"
+}

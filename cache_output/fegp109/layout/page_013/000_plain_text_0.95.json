@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9496855139732361,
+    "bbox": [
+        381.9128112792969,
+        1124.4105224609375,
+        2094.403564453125,
+        1339.7220458984375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_013/000_plain_text_0.95.png",
+    "text": "12. Copy\nthe following\ndrawing\npaper. Complete\non s\nsquared\neach\none\nthat the resulting\nof them\nfigure\nhas\nthe\n two\nblue\nlines\n as\nlines\nSO\nof\nsymmetry."
+}

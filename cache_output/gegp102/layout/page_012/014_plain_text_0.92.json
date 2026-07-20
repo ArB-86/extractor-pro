@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9175565242767334,
+    "bbox": [
+        518.2877807617188,
+        2448.204345703125,
+        2088.205078125,
+        2570.373779296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_012/014_plain_text_0.92.png",
+    "text": "(b)\nSo, to find the change, we need to subtract the cost of toor\ndal from 85."
+}

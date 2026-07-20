@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9293466210365295,
+    "bbox": [
+        433.7332458496094,
+        990.7595825195312,
+        1876.4652099609375,
+        1055.6898193359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_011/002_plain_text_0.93.png",
+    "text": "Notice that this arrangement can also be described using"
+}

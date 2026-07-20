@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8900656700134277,
+    "bbox": [
+        295.3452453613281,
+        905.5018310546875,
+        1305.7552490234375,
+        1146.673583984375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_025/002_plain_text_0.89.png",
+    "text": "Ans.\na. Common factors of 20\nand 28 = 1, 2, 4.\nb. Common factors of 35 and 50 = 1, 5.\nc. Common factors of 4, 8 and 12 = 1, 2, 4.\nd. Common\nfactors of 5, 15 and 25 = 1, 5"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.5949005484580994,
+    "bbox": [
+        376.444580078125,
+        643.7689208984375,
+        2088.3720703125,
+        767.2045288085938
+    ],
+    "image_path": "debug/full_book/layout/page_020/009_plain_text_0.59.png",
+    "text": "3\u3002\nWrite a 9-digit number where exchanging any two digits results in\na bigger number. How many such numbers exist?"
+}

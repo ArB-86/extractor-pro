@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9552850127220154,
+    "bbox": [
+        295.8798828125,
+        1142.470947265625,
+        1320.2086181640625,
+        1209.0162353515625
+    ],
+    "image_path": "tmp_layout/page_007/001_plain_text_0.96.png",
+    "text": "This\npicture now makes i\nit\nt evident that"
+}

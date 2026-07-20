@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9193967580795288,
+    "bbox": [
+        479.2486877441406,
+        1018.9779052734375,
+        2153.420654296875,
+        1161.520751953125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_028/005_plain_text_0.92.png",
+    "text": "Identify the angle bisectors in your handmade protractor. Try to make\ndifferent angles using the concept of angle bisector through paper folding."
+}

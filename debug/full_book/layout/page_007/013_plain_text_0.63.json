@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6316620111465454,
+    "bbox": [
+        455.7209777832031,
+        741.3719482421875,
+        1461.595458984375,
+        923.1665649414062
+    ],
+    "image_path": "debug/full_book/layout/page_007/013_plain_text_0.63.png",
+    "text": "(b)\n997\nbe\nmade\nusing\n25\nclicks.\ncan\nCan\nmake\n997\nWith\ndifferent\nyou\na\nnumber\nr of clicks?"
+}

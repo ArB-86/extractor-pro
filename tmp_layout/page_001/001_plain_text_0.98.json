@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.978264331817627,
+    "bbox": [
+        420.8092956542969,
+        1454.59521484375,
+        2083.690673828125,
+        1831.648681640625
+    ],
+    "image_path": "tmp_layout/page_001/001_plain_text_0.98.png",
+    "text": "Such\npatterns\nindeed\nexist\nall\naround\nus \u2014in\nnature,\nin\nhomes\nand\nschools, and\nin the\nour\nmotion\nn of\nthe\nsun, moon,\nand s\nstars. They\noccur in e\neverything\nthat\n we\ndo a\nand s\nsee, from\nshopping and cooking, to throwing a ball a\nand playing games, to\nunderstanding\nweather\nusing\n technology.\npatterns and 1"
+}

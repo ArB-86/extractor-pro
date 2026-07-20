@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9077311754226685,
+    "bbox": [
+        418.4193420410156,
+        2486.43701171875,
+        1104.0513916015625,
+        2554.01806640625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_015/007_plain_text_0.91.png",
+    "text": "Example: Add\n1+5\nand -8."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5385164618492126,
+    "bbox": [
+        530.7742919921875,
+        695.41455078125,
+        1322.707763671875,
+        765.2357788085938
+    ],
+    "image_path": "cache_output/fegp108/layout/page_022/010_plain_text_0.54.png",
+    "text": "draw a rough diagram.\nLet us"
+}

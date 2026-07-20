@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.939943790435791,
+    "bbox": [
+        291.66766357421875,
+        393.8037109375,
+        2090.196044921875,
+        542.2824096679688
+    ],
+    "image_path": "cache_output/fegp103/layout/page_009/003_plain_text_0.94.png",
+    "text": "Follow these steps and experience the magic for yourselves! Pick\n4-digit number having at least two different digits, say 6382.\nany4"
+}

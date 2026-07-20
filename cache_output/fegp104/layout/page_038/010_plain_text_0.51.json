@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.508769690990448,
+    "bbox": [
+        296.7221374511719,
+        1757.00048828125,
+        1493.4654541015625,
+        1817.063720703125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_038/010_plain_text_0.51.png",
+    "text": "So, cost of education = less than one-fourth of cost of food."
+}

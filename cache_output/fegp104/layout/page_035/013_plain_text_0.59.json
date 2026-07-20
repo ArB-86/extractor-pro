@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.5905713438987732,
+    "bbox": [
+        412.4039306640625,
+        2209.4658203125,
+        1451.260009765625,
+        2269.958984375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_035/013_plain_text_0.59.png",
+    "text": "The smallest shoe size\ne in the class\nis"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.933107852935791,
+    "bbox": [
+        421.8543395996094,
+        1370.4752197265625,
+        1112.572021484375,
+        1442.1873779296875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_006/006_title_0.93.png",
+    "text": "Digit sums\nof numbers"
+}

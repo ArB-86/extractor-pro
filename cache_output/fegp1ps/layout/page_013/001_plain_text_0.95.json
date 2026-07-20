@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9504254460334778,
+    "bbox": [
+        421.96136474609375,
+        2570.667724609375,
+        2083.343505859375,
+        2763.990234375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_013/001_plain_text_0.95.png",
+    "text": "The\nCouncil\nacknowledges\nthe\nacademic\nand\nadministrative\nsupport of\nSunita\nFarkya,l\nProfessor\nand\nHead,\nDESM,\nNCERT\nNew Delhi."
+}

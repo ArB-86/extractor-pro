@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8302351832389832,
+    "bbox": [
+        534.9365234375,
+        395.16748046875,
+        2213.772705078125,
+        610.8068237304688
+    ],
+    "image_path": "cache_output/fegp109/layout/page_008/002_plain_text_0.83.png",
+    "text": "1.\nIn\n of \nthe\nfollowing\nfigures, a\neach\nhole\npunched\nin a\nwas\nfolded\nunfolded. Identify\nsquare sheet of\npaper\nand\nthen\nthe\npaper\nwas\nthe line along\nwhich\nthe\nfolded.\npaper\nwas"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.6041361093521118,
+    "bbox": [
+        326.15679931640625,
+        2681.2255859375,
+        1965.1932373046875,
+        2815.72265625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_031/010_plain_text_0.60.png",
+    "text": "Ans: Population of Pune in 2011 is 31,15,431."
+}

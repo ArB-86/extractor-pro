@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9421961903572083,
+    "bbox": [
+        415.4187927246094,
+        394.7869873046875,
+        2212.564208984375,
+        543.55615234375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_014/003_plain_text_0.94.png",
+    "text": "Take a cardboard and make an angle-shaped slit as shown below\nby tracing and cutting out the shape of one of the rotating\narms."
+}

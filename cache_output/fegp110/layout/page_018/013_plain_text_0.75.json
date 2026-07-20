@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.752792477607727,
+    "bbox": [
+        402.8658142089844,
+        646.8446044921875,
+        1381.8804931640625,
+        710.1238403320312
+    ],
+    "image_path": "cache_output/fegp110/layout/page_018/013_plain_text_0.75.png",
+    "text": "Evaluate the following\n2.\nusing\ntokens."
+}

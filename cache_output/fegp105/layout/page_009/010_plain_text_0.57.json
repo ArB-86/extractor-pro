@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.5699136853218079,
+    "bbox": [
+        380.2294921875,
+        921.1829833984375,
+        2083.539306640625,
+        1062.7398681640625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_009/010_plain_text_0.57.png",
+    "text": "10.\nWhich of the following\nnumbers is the product of exactly\nthree\ndistinct prime numbers: 45, 60, 91, 105, 330?"
+}

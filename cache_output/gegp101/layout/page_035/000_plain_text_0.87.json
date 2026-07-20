@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8681722283363342,
+    "bbox": [
+        367.8733825683594,
+        1897.9957275390625,
+        2187.074462890625,
+        2096.31982421875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_035/000_plain_text_0.87.png",
+    "text": "4. Strike 0ut 10 digits from the number 12345123451234512345 s0 that\nthe remaining\ng number is as large as possible.\nAns:5534512345"
+}

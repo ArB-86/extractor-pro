@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8978193402290344,
+    "bbox": [
+        493.2914733886719,
+        2865.317138671875,
+        1753.940185546875,
+        2937.135009765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_001/007_plain_text_0.90.png",
+    "text": "That is what we will investigate in this chapter!"
+}

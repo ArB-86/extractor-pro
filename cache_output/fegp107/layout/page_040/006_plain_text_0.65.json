@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.6490682363510132,
+    "bbox": [
+        293.52593994140625,
+        296.8437805175781,
+        2186.5693359375,
+        424.1133117675781
+    ],
+    "image_path": "cache_output/fegp107/layout/page_040/006_plain_text_0.65.png",
+    "text": "Q3. Now, a unit is divided into 8 equal parts. Write the appropriate fractions in your\nnotebook."
+}

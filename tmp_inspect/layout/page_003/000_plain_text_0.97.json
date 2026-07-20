@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9654608964920044,
+    "bbox": [
+        291.729736328125,
+        2205.375244140625,
+        2086.455322265625,
+        2425.940185546875
+    ],
+    "image_path": "tmp_inspect/layout/page_003/000_plain_text_0.97.png",
+    "text": "Many number sequences can be visualised using pictures. Visualising\nmathematical objects through pictures or c\ndiagrams can be a very\nfruitful way to understand mathematical patterns and concepts."
+}

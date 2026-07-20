@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7962151765823364,
+    "bbox": [
+        727.6286010742188,
+        1580.1246337890625,
+        1853.572998046875,
+        1715.9278564453125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_020/005_plain_text_0.80.png",
+    "text": "LIBERTY of thought, expression,\nbelief.\nfaith and\nworship;"
+}

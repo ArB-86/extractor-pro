@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9505035281181335,
+    "bbox": [
+        420.06768798828125,
+        540.470947265625,
+        2208.732666015625,
+        682.7393798828125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_006/002_plain_text_0.95.png",
+    "text": "We start writing\n: numbers from 1, 2, 3 ... and so on. There are nine\n1-digit numbers."
+}

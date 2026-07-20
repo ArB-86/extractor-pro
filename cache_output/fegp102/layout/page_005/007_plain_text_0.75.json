@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7466619610786438,
+    "bbox": [
+        493.68817138671875,
+        628.9876098632812,
+        1555.1500244140625,
+        816.2843017578125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_005/007_plain_text_0.75.png",
+    "text": "name it as\nOB ? Why?\na.\nCan\nyou\nalso\nCan we write OA as AO ? Why or why not?\nb."
+}

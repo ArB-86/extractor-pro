@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.5228914022445679,
+    "bbox": [
+        857.6697998046875,
+        302.7857360839844,
+        1626.1676025390625,
+        365.15936279296875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_023/010_title_0.52.png",
+    "text": "CHAPTER 5\nSOLUTIONS"
+}

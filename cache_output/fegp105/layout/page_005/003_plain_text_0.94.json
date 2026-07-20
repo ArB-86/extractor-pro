@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9435861110687256,
+    "bbox": [
+        403.1773376464844,
+        1272.3704833984375,
+        2083.739501953125,
+        1403.53759765625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_005/003_plain_text_0.94.png",
+    "text": "5.\nFind any three numbers that are multiples of 25 but not multiples\nof50."
+}

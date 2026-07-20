@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8891564607620239,
+    "bbox": [
+        376.2406311035156,
+        1647.5009765625,
+        2087.53125,
+        1710.6025390625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/004_plain_text_0.89.png",
+    "text": "Meaning: 4 notes of 100, 1 note of z20, 1 note of 10 and 2 notes of 1"
+}

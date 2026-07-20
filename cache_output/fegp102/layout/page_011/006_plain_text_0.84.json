@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8376768231391907,
+    "bbox": [
+        401.88348388671875,
+        1781.317626953125,
+        1826.832275390625,
+        1848.7034912109375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_011/006_plain_text_0.84.png",
+    "text": "3.\nWhich angle is\ngreater: ZXOY or ZAOB?\nGive reasons."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9711042046546936,
+    "bbox": [
+        290.2744140625,
+        674.9962768554688,
+        1381.4599609375,
+        1104.8245849609375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_027/000_plain_text_0.97.png",
+    "text": "In t\nthis\nthe\ntotal\nnumber\nof\ncase,t\nshaded parts is 10, and each shaded part\nrepresents the fractional\nunit\n1, so, the.\n10 shaded\nparts together represent the\n10\nfraction\nas seen here.\n7"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8920795917510986,
+    "bbox": [
+        297.56353759765625,
+        1598.50048828125,
+        2187.13818359375,
+        1722.6173095703125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_029/001_plain_text_0.89.png",
+    "text": "Q.7. Draw a rectangle of size 12 units x 8 units. Draw another rectangle inside it, without\ntouching the outer rectangle that occupies exactly half the area."
+}

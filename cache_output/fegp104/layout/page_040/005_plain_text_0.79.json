@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.7879993915557861,
+    "bbox": [
+        526.1461791992188,
+        2757.96435546875,
+        2187.727294921875,
+        3006.3369140625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_040/005_plain_text_0.79.png",
+    "text": "(i)\nPrepare a table\nWith\nn 2 columns.\n First for\nmeans\nof\ntransport a\nand\nsecond\nfor\nits \nfrequency.\n(ii)\nList the\nof\ntransport as\nthey pass\nvarious\nthe\nmeans\nacross\ne road.\n111\nFrequency\nshould be\nusing\npresented\ntally\nmarks."
+}

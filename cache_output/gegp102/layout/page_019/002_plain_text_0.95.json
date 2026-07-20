@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9522629380226135,
+    "bbox": [
+        512.99267578125,
+        1309.8507080078125,
+        1221.472412109375,
+        1610.3173828125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_019/002_plain_text_0.95.png",
+    "text": "(a)\n\u00d7(\n+\n)= 14\n(b)\n\u00d7(_\n+\n)= 14\n(c)\n\u00d7(_\n+\n) = 14\n(d)\n\u00d7 (\n+\n) = 14"
+}

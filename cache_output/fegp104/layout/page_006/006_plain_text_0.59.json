@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5898051261901855,
+    "bbox": [
+        496.6922912597656,
+        393.03021240234375,
+        2083.866943359375,
+        727.8571166992188
+    ],
+    "image_path": "cache_output/fegp104/layout/page_006/006_plain_text_0.59.png",
+    "text": "d.\nWrite the process\nyou followed to complete this task.\nDiscuss with\nfriends the processes t\nthey followed.\ne.\nyour\nf.\nIf\nyou\ndo \nthis\ntask\n With\nanother\nitem,\nnews\nwhat\nprocess\nwould\nyou f\nfollow?"
+}

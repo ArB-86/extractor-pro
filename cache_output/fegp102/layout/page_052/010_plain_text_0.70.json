@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.6999480128288269,
+    "bbox": [
+        296.3932189941406,
+        2140.20166015625,
+        996.4797973632812,
+        2202.33154296875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_052/010_plain_text_0.70.png",
+    "text": "Ans.\nZBET = 1\n100\u00b0, SET = 10\u00b0"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.865366518497467,
+    "bbox": [
+        376.7861328125,
+        1607.399169921875,
+        1249.9229736328125,
+        1671.8980712890625
+    ],
+    "image_path": "debug/full_book/layout/page_009/005_plain_text_0.87.png",
+    "text": "3.\nCompare and\nWrite\n\u2018<\uff0c\u2018V\nor\n\u2018=\u201d"
+}

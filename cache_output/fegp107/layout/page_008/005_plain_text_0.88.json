@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8795657753944397,
+    "bbox": [
+        523.2362060546875,
+        962.3502807617188,
+        1854.084228515625,
+        1027.1187744140625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_008/005_plain_text_0.88.png",
+    "text": "5.1\nMatch each fractional unit with the correct picture:"
+}

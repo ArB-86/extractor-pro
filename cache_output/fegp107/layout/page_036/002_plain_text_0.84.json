@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.8443477153778076,
+    "bbox": [
+        450.58056640625,
+        779.4888305664062,
+        2208.712158203125,
+        920.3203735351562
+    ],
+    "image_path": "cache_output/fegp107/layout/page_036/002_plain_text_0.84.png",
+    "text": "Fractional Units: When one\ne whole basic unit is divided into equal\nparts, then each part is called a fractional unit."
+}

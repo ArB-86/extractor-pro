@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9540073871612549,
+    "bbox": [
+        292.9825439453125,
+        495.2112731933594,
+        1283.8946533203125,
+        640.4876098632812
+    ],
+    "image_path": "cache_output/fegp106/layout/page_013/004_plain_text_0.95.png",
+    "text": "Why\n generally\nis\nmeasured\narea\nusing\nsquares?"
+}

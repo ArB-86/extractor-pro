@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.934756338596344,
+    "bbox": [
+        293.7659606933594,
+        900.207763671875,
+        2082.71240234375,
+        1045.5218505859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_019/004_plain_text_0.93.png",
+    "text": "Change the last two digits of 8560 so that the resulting number is\na multiple of 8."
+}

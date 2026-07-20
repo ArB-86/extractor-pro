@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8406446576118469,
+    "bbox": [
+        586.1671142578125,
+        2823.14208984375,
+        2210.822509765625,
+        2963.71142578125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_010/013_plain_text_0.84.png",
+    "text": "the\ndifference\nbetween\nthe\nlargest\na.\nand\nsmallest\nnumbers\ngreater than 5085."
+}

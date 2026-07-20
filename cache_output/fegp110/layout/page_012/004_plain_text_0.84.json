@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8434494733810425,
+    "bbox": [
+        421.0738525390625,
+        2675.09326171875,
+        2084.57275390625,
+        2813.609130859375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_012/004_plain_text_0.84.png",
+    "text": "1. Mark 3 positive numbers and 3 negative numbers on the number\nline above."
+}

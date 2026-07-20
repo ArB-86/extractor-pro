@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9421053528785706,
+    "bbox": [
+        418.3020935058594,
+        2156.8447265625,
+        2211.700927734375,
+        2301.436767578125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_006/003_plain_text_0.94.png",
+    "text": "What shapes are t\nthese? Yes, these are our \nfamiliar squares and\nrectangles. But what makes them squares and rectangles?"
+}

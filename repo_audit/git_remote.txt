@@ -1,0 +1,12 @@
+$ git remote -v
+
+RETURN CODE: 0
+
+STDOUT
+================================================================================
+origin	git@github.com:ArB-86/extractor-pro.git (fetch)
+origin	git@github.com:ArB-86/extractor-pro.git (push)
+
+
+STDERR
+================================================================================

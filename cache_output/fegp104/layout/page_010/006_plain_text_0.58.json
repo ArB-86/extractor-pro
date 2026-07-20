@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5815767049789429,
+    "bbox": [
+        298.6851501464844,
+        1413.398681640625,
+        2080.1640625,
+        1710.9189453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/006_plain_text_0.58.png",
+    "text": "pictograph,\nthe\nbe\nhorizontlly\nIn\na\ncategories\ncan\narranged\nor\nvertically.\nFor\neach\ncategory,\nsimple\npictures\nand\nsymbols\nare\nthen\ndrawn\nin\nthe\ndesignated\ncolumns\naccording\n to t\nthe\nor\nrows\nfrequency of that category."
+}

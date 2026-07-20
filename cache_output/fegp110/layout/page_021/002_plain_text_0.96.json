@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9595608115196228,
+    "bbox": [
+        418.88165283203125,
+        1023.3070068359375,
+        2213.032958984375,
+        1238.0682373046875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_021/002_plain_text_0.96.png",
+    "text": "When we measure\n temperature, we use\nCelsius as\nthe unit of\n(\u00b0C). The thermometers below are showing\nmeasure\n 40\u00b0C and 15\u00b0C\ntemperatures."
+}

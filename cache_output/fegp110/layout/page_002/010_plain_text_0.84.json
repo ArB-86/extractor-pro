@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8424293994903564,
+    "bbox": [
+        286.8363037109375,
+        1212.390380859375,
+        2081.56005859375,
+        1420.7376708984375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_002/010_plain_text_0.84.png",
+    "text": "Observe\nthat\nof the f\nfloors\nin the\nsome\n'Building of Fun' are below the ground. What are the shops that you\nfind on these floors? What is there on the g\nground floor?"
+}

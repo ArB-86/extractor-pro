@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7185860276222229,
+    "bbox": [
+        403.9232482910156,
+        1551.1842041015625,
+        1875.5443115234375,
+        1682.3350830078125
+    ],
+    "image_path": "cache_output/fegp101/layout/page_003/006_plain_text_0.72.png",
+    "text": "1.\nCan you recognise the pattern in each of the sequences in\nTable 1?"
+}

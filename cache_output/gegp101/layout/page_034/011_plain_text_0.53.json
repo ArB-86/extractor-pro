@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.5345824956893921,
+    "bbox": [
+        444.48907470703125,
+        2766.000244140625,
+        1656.9703369140625,
+        2831.9501953125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_034/011_plain_text_0.53.png",
+    "text": "Ans:\nNo. Because, Coins counted\nper\nday = 86,400"
+}

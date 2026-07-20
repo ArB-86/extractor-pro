@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9175328016281128,
+    "bbox": [
+        405.62640380859375,
+        493.5594787597656,
+        2086.17529296875,
+        633.8690185546875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_024/005_plain_text_0.92.png",
+    "text": "1.\nTry afresh, choose different numbers this time. What sum did you\nget? Was it different from the first time? Try a few more times!"
+}

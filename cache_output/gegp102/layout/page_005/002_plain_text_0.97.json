@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9697791337966919,
+    "bbox": [
+        376.7423400878906,
+        518.207763671875,
+        2087.684326171875,
+        691.9744873046875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/002_plain_text_0.97.png",
+    "text": "When there are\nexpressions having\nmultiple\ne operations, and the\norder of operations is not specified by the brackets, we use the notion\nof terms to determine the order."
+}

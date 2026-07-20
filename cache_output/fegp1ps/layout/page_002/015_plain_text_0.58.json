@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5773880481719971,
+    "bbox": [
+        337.8808288574219,
+        519.9502563476562,
+        897.7453002929688,
+        569.079833984375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/015_plain_text_0.58.png",
+    "text": "August 2024 Shravna\na1946"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.750049889087677,
+    "bbox": [
+        491.5722351074219,
+        1379.9132080078125,
+        2083.228271484375,
+        1616.1463623046875
+    ],
+    "image_path": "tmp_run/layout/page_005/004_plain_text_0.75.png",
+    "text": "This shows\n be represented differently,\nthat \nthe same\ne number\ncan\nand\nplay\ndifferent\nroles,\ndepending\nthe\ncontext.\nTry\non\nrepresenting\nother\nnumbers\npictorially\nin (\ndifferent\nsome\nways!"
+}

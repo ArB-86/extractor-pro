@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "title",
+    "confidence": 0.7377883195877075,
+    "bbox": [
+        296.6391906738281,
+        428.70159912109375,
+        593.59130859375,
+        494.06463623046875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_035/004_title_0.74.png",
+    "text": "P:\nage\nNo.\n19"
+}

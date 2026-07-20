@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5851094722747803,
+    "bbox": [
+        443.8537292480469,
+        1706.5570068359375,
+        1165.124267578125,
+        2013.0482177734375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_032/010_plain_text_0.59.png",
+    "text": "1000\n(b)\n72 \u00d7 125\n[Hint: 125\n8\n1000\n= 72\n\u00d7\n8\n72\n1000 = 9 \u00d7 1000\n\u4e8c\n8"
+}

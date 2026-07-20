@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9043437838554382,
+    "bbox": [
+        492.65850830078125,
+        1748.1728515625,
+        1043.009521484375,
+        1812.7144775390625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_016/005_plain_text_0.90.png",
+    "text": "How can it be\ndone?"
+}

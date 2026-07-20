@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5825028419494629,
+    "bbox": [
+        296.7897033691406,
+        1729.826171875,
+        2081.993408203125,
+        1956.2667236328125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_010/005_plain_text_0.58.png",
+    "text": "A\nscale\nkey\nor\n(for\nexample,\n:1\nstudent\n: 5\nstudents)\nor\nis\nadded\nto show\nwhat\neach\npicture represents. Each\nsymbol\nor\npicture can\nmultiple\nsymbol\nor\nrepresent\none\neunit\nt or\nunits."
+}

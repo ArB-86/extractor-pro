@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9657105207443237,
+    "bbox": [
+        1225.6295166015625,
+        1795.2861328125,
+        2087.62548828125,
+        2233.201171875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_023/002_plain_text_0.97.png",
+    "text": "Notice\nthat\nthe\nvertex\nof\nthis\nangle coincides with the centre of\nthe protractor. S\nSo the number of\nunits of 1 degree angle between KA\nand AL gives the measure of ZKAL.\nBy counting, we get\u2014"
+}

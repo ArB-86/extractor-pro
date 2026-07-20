@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9609706997871399,
+    "bbox": [
+        374.41424560546875,
+        2797.78759765625,
+        2091.454833984375,
+        2924.576904296875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_017/000_plain_text_0.96.png",
+    "text": "Let us 1\nunderstand\nwhat happens\ns when we\nchange\nthe\n numbers\noccurring in a product."
+}

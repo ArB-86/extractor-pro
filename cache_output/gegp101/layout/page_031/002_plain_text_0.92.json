@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.923854410648346,
+    "bbox": [
+        368.17364501953125,
+        1749.3929443359375,
+        2187.709228515625,
+        1885.6492919921875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_031/002_plain_text_0.92.png",
+    "text": "From\nthe information\ngiven\nin the table\nthe following\nanswer\nquestions by approximation: (Refer table on P. 12-13"
+}

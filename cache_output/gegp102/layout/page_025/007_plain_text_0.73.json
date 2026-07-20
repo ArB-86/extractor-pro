@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7299561500549316,
+    "bbox": [
+        495.63031005859375,
+        1223.9556884765625,
+        1500.21240234375,
+        1289.820068359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_025/007_plain_text_0.73.png",
+    "text": "Consider the expression: - 6 +\n(- 7)\n\uff09+\n(- 13)"
+}

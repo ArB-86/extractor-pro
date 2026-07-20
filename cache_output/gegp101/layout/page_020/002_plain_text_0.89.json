@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8917999267578125,
+    "bbox": [
+        376.890380859375,
+        2329.031982421875,
+        1271.3126220703125,
+        2390.811767578125
+    ],
+    "image_path": "cache_output/gegp101/layout/page_020/002_plain_text_0.89.png",
+    "text": "8.\nHow many\nlakhs\nmake a billion?"
+}

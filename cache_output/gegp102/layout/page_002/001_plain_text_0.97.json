@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9721961617469788,
+    "bbox": [
+        378.294921875,
+        1753.130859375,
+        1594.899658203125,
+        2050.390869140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/001_plain_text_0.97.png",
+    "text": "This\nsituation\nbe\nrepresented\nas\nshown\nin\ncan\nthe\npicture on\nthe\n right. To begin\nwith, Raja had 1\nmore marble than\nJoy. But\nJoy got 3\nmore marbles\nthan\nRaja\ntoday.\nWe\nthat\nJoy\nhas\n(two)\ncan\nsee\nmarbles\nthan\nRaja\nnow."
+}

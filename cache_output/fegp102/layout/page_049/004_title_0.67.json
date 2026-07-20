@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "title",
+    "confidence": 0.6744940876960754,
+    "bbox": [
+        295.92694091796875,
+        1452.735595703125,
+        1749.50146484375,
+        1516.5228271484375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_049/004_title_0.67.png",
+    "text": "Q. Name the different angles in the figure and write their measures."
+}

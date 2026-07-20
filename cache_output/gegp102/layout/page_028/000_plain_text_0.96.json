@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9593087434768677,
+    "bbox": [
+        442.75384521484375,
+        2153.7099609375,
+        2187.47900390625,
+        2560.52783203125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_028/000_plain_text_0.96.png",
+    "text": "(a) Queen Alia\ngave 100\ngold coins to Princess\nElsa and 100\ngold coins\nto Princess Anna last year. Princess \nElsa used the coins to start a\nbusiness and doubled her coins. Princess Anna bought jewellery\nand has only l\nhalf of the coins left. Write an expression describing\nhow many\ngold coins Princess\nElsa and Princess Anna together\nhave."
+}

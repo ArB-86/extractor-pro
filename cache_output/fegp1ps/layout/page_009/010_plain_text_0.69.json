@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6923139691352844,
+    "bbox": [
+        421.2395935058594,
+        2021.4476318359375,
+        2086.250244140625,
+        2151.9755859375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/010_plain_text_0.69.png",
+    "text": "11.C\nChamu Krishna Shastri, Chairperson, Bhasha Samiti, Ministry of\nEducation"
+}

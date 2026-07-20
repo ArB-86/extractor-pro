@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9756390452384949,
+    "bbox": [
+        418.5837097167969,
+        734.5255126953125,
+        2084.943115234375,
+        1100.238525390625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_018/001_plain_text_0.98.png",
+    "text": "This is especially required when\nI you see a new\nquestion or\nwhen a question arises from your own sense of wonder, or when\nyou come across a new beautiful p\npattern. When you encounter\nthese, pause\n your reading, and\nuse\ncreativity to work out\nyour\nthe\ne question or understand\nand\nappreciate the pattern."
+}

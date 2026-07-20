@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9235085844993591,
+    "bbox": [
+        395.9744567871094,
+        2518.95654296875,
+        2083.697021484375,
+        2663.504150390625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_013/002_plain_text_0.92.png",
+    "text": "What about constructing\na rectangle\nthat can\n1 be divided into\ntwo identical squares? Can you try it?"
+}

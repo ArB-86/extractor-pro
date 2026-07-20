@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9296668171882629,
+    "bbox": [
+        295.64886474609375,
+        641.918212890625,
+        2147.216796875,
+        770.9469604492188
+    ],
+    "image_path": "tmp_layout/page_015/000_plain_text_0.93.png",
+    "text": "Q.1. Can you find a similar pictorial explanation for why adding counting numbers up\nand down, i.e., 1, 1 + 2 + 1, 1 + 2 + 3 + 2 + 1, ...,\ngives square numbers?"
+}

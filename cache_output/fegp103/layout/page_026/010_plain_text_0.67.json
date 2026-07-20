@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.6682323813438416,
+    "bbox": [
+        296.1811218261719,
+        1409.633544921875,
+        1061.50048828125,
+        1531.30859375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_026/010_plain_text_0.67.png",
+    "text": "Try\nmore\nYes,\nit will :\nalways\n give a palindrome."
+}

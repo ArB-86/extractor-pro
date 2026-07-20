@@ -1,0 +1,97 @@
+from __future__ import annotations
+
+from src.document.document import Document
+
+from src.question.v2.context import ContextManager
+from src.question.v2.numbering import NumberingDetector
+from src.question.v2.boundary import BoundaryDetector
+from src.question.v2.assembler import QuestionAssembler
+from src.question.v2.classifier import QuestionClassifier
+from src.question.v2.validator import QuestionValidator
+from src.question.v2.converter import CandidateConverter
+
+
+class QuestionExtractorV2:
+
+    def __init__(self):
+
+        self.context = ContextManager()
+
+        self.numbering = NumberingDetector()
+
+        self.boundary = BoundaryDetector()
+
+        self.assembler = QuestionAssembler()
+
+        self.classifier = QuestionClassifier()
+
+        self.validator = QuestionValidator()
+        self.converter = CandidateConverter()
+
+    def extract(self, document: Document):
+
+        state = self.context.state
+
+        for region in document.regions:
+
+            if not region.text:
+                continue
+
+            text = region.text.strip()
+
+            state = self.context.update(region)
+
+            state = self.numbering.detect(
+                text,
+                state,
+            )
+
+            if state.inside_summary:
+                continue
+
+            if (
+                state.inside_example
+                or state.inside_activity
+            ):
+                continue
+
+            if self.boundary.is_new_question(
+                text,
+                state,
+            ):
+
+                self.assembler.consume(
+                    text,
+                    state,
+                )
+
+                continue
+
+            if self.boundary.is_continuation(
+                text,
+            ):
+
+                self.assembler.consume(
+                    text,
+                    state,
+                )
+
+        questions = self.assembler.finalize()
+
+        print(f"[QuestionExtractor] assembled {len(questions)} candidates")
+
+        questions = self.classifier.classify(
+            questions,
+        )
+
+        questions = self.validator.validate(
+            questions,
+        )
+
+        questions = self.converter.convert(
+            questions,
+        )
+
+        print(f"[QuestionExtractor] converted {len(questions)} questions")
+
+        return questions

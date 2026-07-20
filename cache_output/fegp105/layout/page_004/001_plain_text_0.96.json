@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9566611051559448,
+    "bbox": [
+        425.3393859863281,
+        1183.660888671875,
+        2208.64501953125,
+        1328.2821044921875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_004/001_plain_text_0.96.png",
+    "text": "Whatj\njump\n         \njump sizes possible. Try to find them all."
+}

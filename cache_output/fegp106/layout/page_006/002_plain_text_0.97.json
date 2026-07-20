@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9678096175193787,
+    "bbox": [
+        417.9615478515625,
+        561.6756591796875,
+        2211.433837890625,
+        780.6201171875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_006/002_plain_text_0.97.png",
+    "text": "Deep\nDive: In races, usually\nthere is a common finish line for all\nthe runners. Here are two square running tracks with the inner track\nof 1o0 m each side and outer track of 150 m each side. The common"
+}

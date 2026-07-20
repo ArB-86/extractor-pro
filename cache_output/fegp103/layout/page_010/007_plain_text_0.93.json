@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9346862435340881,
+    "bbox": [
+        419.3005676269531,
+        697.1290893554688,
+        2196.685302734375,
+        842.6535034179688
+    ],
+    "image_path": "cache_output/fegp103/layout/page_010/007_plain_text_0.93.png",
+    "text": "Try and find out all possible times on a 12-hour clock of each of\nthese types."
+}

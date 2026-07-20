@@ -1,0 +1,244 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/raw_docs/hegp2dd/hegp205.pdf",
+  "sha256": "73a3818f47e42d5415cc4df82c21b4ade71ebaaea58238f329ce7d94ae451653",
+  "pages": 32,
+  "metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe InDesign 21.0 (Windows)",
+    "producer": "Adobe PDF Library 18.0",
+    "creationDate": "D:20251220164854+05'30'",
+    "modDate": "D:20251229164811+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 9
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 12
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 7
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 7
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 8
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 34,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 7
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 25,
+      "images": 7
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 41,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 6
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 28,
+      "images": 5
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 7
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 7,
+      "images": 4
+    },
+    {
+      "width": 595.6800537109375,
+      "height": 786.4800415039062,
+      "rotation": 0,
+      "text_blocks": 3,
+      "images": 5
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9701539874076843,
+    "bbox": [
+        292.76593017578125,
+        570.3109741210938,
+        2087.42333984375,
+        791.8225708007812
+    ],
+    "image_path": "cache_output/fegp109/layout/page_021/002_plain_text_0.97.png",
+    "text": "Is there a smallest angle of symmetry\nfor all figures? It turns out\nthat this is the case\ne for most figures, except for the most symmetric\nshapes like the circle, whose symmetries we now 0\ndiscuss."
+}

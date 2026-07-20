@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8298064470291138,
+    "bbox": [
+        450.3824157714844,
+        1902.285400390625,
+        2208.470703125,
+        2112.68896484375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_022/004_plain_text_0.83.png",
+    "text": "Every\nnumber\nthan 1\ncan\n be \nwrittenasa\nproduct of prime\ngreater\n84 = 2 \u00d7 2 \u00d7 3 \u00d7 7."
+}

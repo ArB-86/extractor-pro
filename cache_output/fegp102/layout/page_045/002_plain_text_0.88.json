@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.8803101778030396,
+    "bbox": [
+        294.8064270019531,
+        587.0045166015625,
+        2185.243896484375,
+        709.8377075195312
+    ],
+    "image_path": "cache_output/fegp102/layout/page_045/002_plain_text_0.88.png",
+    "text": "Q.1. Can you find the angles in the given pictures? Draw the rays forming any one of the\nangles and name the vertex of the angle."
+}

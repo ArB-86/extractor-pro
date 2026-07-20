@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.7676803469657898,
+    "bbox": [
+        373.38946533203125,
+        2318.082275390625,
+        2116.3837890625,
+        2515.326416015625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_033/003_plain_text_0.77.png",
+    "text": "Should we try all possible multiplications with 2-digit numbers to\ntell whether Roxie's claim is true? Or is there a better way to find\nout?"
+}

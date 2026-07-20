@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7363821864128113,
+    "bbox": [
+        407.7735595703125,
+        2009.58349609375,
+        2189.29296875,
+        2292.029052734375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_028/009_plain_text_0.74.png",
+    "text": "1. Sometimes\nthe\nfirst\ncommon\nmultiple\nwas\nthe\n same as\nthe\nproduct of the\ntwo\nnumbers.\n2. At other\ntimes\nthe\nfirst\ncommon1\nmultiple\nwas\nless\nthan\nthe\nproduct of the\ntwo\nnumbers."
+}

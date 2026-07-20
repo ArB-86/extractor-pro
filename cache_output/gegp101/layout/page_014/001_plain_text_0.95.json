@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9511594176292419,
+    "bbox": [
+        280.9031677246094,
+        649.91943359375,
+        1976.9788818359375,
+        836.7428588867188
+    ],
+    "image_path": "cache_output/gegp101/layout/page_014/001_plain_text_0.95.png",
+    "text": "Using the meaning of multiplication and division, can you explain\nwhy multiplying by 5 is the same as dividing by 2 and multiplying\nby 10?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.7426322102546692,
+    "bbox": [
+        292.707763671875,
+        1954.8780517578125,
+        2187.80126953125,
+        2078.37890625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_037/004_plain_text_0.74.png",
+    "text": "Q5. Arrange these fraction words in order of size from the smallest to the biggest in the\nemptyboxbelow:"
+}

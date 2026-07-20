@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9524213075637817,
+    "bbox": [
+        418.46331787109375,
+        1019.3793334960938,
+        2207.833984375,
+        1165.2608642578125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_016/005_plain_text_0.95.png",
+    "text": "A rotation of 180\u00b0 results in the figure above. Does this overlap\nWith the original figure."
+}

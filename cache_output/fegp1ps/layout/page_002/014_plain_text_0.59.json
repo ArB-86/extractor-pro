@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5906091928482056,
+    "bbox": [
+        1221.691650390625,
+        510.4732971191406,
+        2190.9052734375,
+        1030.7325439453125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/014_plain_text_0.59.png",
+    "text": " No part of this publication may be reproduced, stored in a\nretrieval system or transmitted, in any form or by any means,\nelectronic, mechanical, photocopying, recording or otherwise\nwithout the prior permission of the publisher.\n This book is sold subject to the condition that it shall not, by\nway of trade, be lent, re-sold, hired out or otherwise disposed\nof without the publisher's consent, in any form of binding or\ncover other than that in which it is published.\nThe correct price of this publication is the price printed on\nthis page, Any revised price indicated by a rubber stamp or\nby a sticker or by any other means is incorrect and should\nbeunacceptable."
+}

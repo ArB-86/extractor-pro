@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5702381730079651,
+    "bbox": [
+        293.9407653808594,
+        1679.7818603515625,
+        2154.37109375,
+        1920.35595703125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_037/013_plain_text_0.57.png",
+    "text": "1\n1\nQ4. The big\nfish\nweighs\nkg. The small\ne weighs\n\u4e00\nkg. Together they weigh\none\nkg.\n2\n4\n3-4\nAns."
+}

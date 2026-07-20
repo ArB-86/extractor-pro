@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5797388553619385,
+    "bbox": [
+        447.3985900878906,
+        2429.51953125,
+        1048.5482177734375,
+        2748.140380859375
+    ],
+    "image_path": "debug/full_book/layout/page_032/011_plain_text_0.58.png",
+    "text": "(a) 25 \u00d7 12\n\u4e8c\n100\n25 \u00d7 12\n\u00d7\n12\n\u4e8c\n4\nx12\n= 100\n4\n100 \u00d7 3"
+}

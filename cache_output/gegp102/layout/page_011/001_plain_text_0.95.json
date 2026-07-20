@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9480522274971008,
+    "bbox": [
+        293.81878662109375,
+        692.9052734375,
+        2094.01416015625,
+        819.0819091796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_011/001_plain_text_0.95.png",
+    "text": "What is the expression for the arrangement in the right making use of\nthe number of yellow and blue squares?"
+}

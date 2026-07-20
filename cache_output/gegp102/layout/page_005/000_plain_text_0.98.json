@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9815738797187805,
+    "bbox": [
+        376.6183776855469,
+        1188.9639892578125,
+        2091.087890625,
+        1487.405517578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_005/000_plain_text_0.98.png",
+    "text": "Now,\n, what\nthe\nterms\nin\n83 - 14?\nWe\nknow\nthat s\nsubtracting\nare\na\nnumber\nc is t\nthe\nas adding\n: the\ninverse\nof t\nthe\nnumber. Recall\nthat\nsame\nthe inverse of a given number has\nthe sign opposite to it. For\nexample,\nthe inverse of -14 is 14. Thus, subtracting\nthe inverse\ne of 14 is -14, and t\n14 from\n83 is the\ne same as adding -14 to 83. That is,"
+}

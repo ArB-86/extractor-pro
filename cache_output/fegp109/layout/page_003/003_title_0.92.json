@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9204126596450806,
+    "bbox": [
+        293.1217956542969,
+        402.1481628417969,
+        1071.212890625,
+        489.09954833984375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_003/003_title_0.92.png",
+    "text": "9.1 Line of Symmetry"
+}

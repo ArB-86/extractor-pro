@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9215210676193237,
+    "bbox": [
+        491.3956298828125,
+        2826.125,
+        1910.4085693359375,
+        2899.702392578125
+    ],
+    "image_path": "tmp_run/layout/page_006/005_plain_text_0.92.png",
+    "text": "Think about it for a moment before reading\nfurther!"
+}

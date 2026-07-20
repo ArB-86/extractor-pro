@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8644618391990662,
+    "bbox": [
+        367.85076904296875,
+        687.1133422851562,
+        806.7446899414062,
+        751.3114624023438
+    ],
+    "image_path": "cache_output/fegp110/layout/page_008/003_plain_text_0.86.png",
+    "text": "We\nknow\nthat-\ne"
+}

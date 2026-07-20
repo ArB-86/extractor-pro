@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9523614048957825,
+    "bbox": [
+        293.9093322753906,
+        2472.96337890625,
+        2083.7373046875,
+        2619.704345703125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_009/002_plain_text_0.95.png",
+    "text": "Youwill\nalways reach the magic :\n number \u20186174'! The number\n'6174' is now called the 'Kaprekar constant'."
+}

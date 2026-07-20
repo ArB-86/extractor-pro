@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6235771775245667,
+    "bbox": [
+        448.26763916015625,
+        463.19207763671875,
+        2090.19970703125,
+        727.6307983398438
+    ],
+    "image_path": "debug/full_book/layout/page_009/010_plain_text_0.62.png",
+    "text": "(a)\n9,87,65,01,234\n4\u2192\n9\narab 87\n65 lakhs 1 thousand\ncrore\nand\n234\n987\n65 lakh 1 thousand\n234\n(in t\nthe Indian system).\nor\ncrore\n(b)\n9,876,501,234 \u2192 9 billion\n876\nmillion\n501\nthousand\n234\n(in\nthe\nAmerican\nsystem)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9108010530471802,
+    "bbox": [
+        292.418701171875,
+        1453.7008056640625,
+        2084.883056640625,
+        1595.1614990234375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_015/002_plain_text_0.91.png",
+    "text": "With this idea, try\nconstructing\ng a rectangle that can be divided\ninto three identical squares."
+}

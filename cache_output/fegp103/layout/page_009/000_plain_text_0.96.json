@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9570801854133606,
+    "bbox": [
+        292.63079833984375,
+        2649.5732421875,
+        2085.672607421875,
+        2797.16259765625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_009/000_plain_text_0.96.png",
+    "text": "Carry\nout these\ne same steps with a few 3-digit\nnumbers. What\nnumber will start repeating?"
+}

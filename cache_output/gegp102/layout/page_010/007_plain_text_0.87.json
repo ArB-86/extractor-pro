@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8719592094421387,
+    "bbox": [
+        282.4983825683594,
+        280.8722839355469,
+        2092.27197265625,
+        589.206787109375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_010/007_plain_text_0.87.png",
+    "text": "?\nFor each ofthe cases\n below, write the expression and identify its terms:\nIf the teacher had called c\nout\u20184', Ruby\nwould\nwrite\nIf the teacher had called c\nout\u20187\u2019, Ruby\nwould\nwrite\nWrite expressions\nlike the above\nfor\nyour\nclass size."
+}

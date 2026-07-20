@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9708859324455261,
+    "bbox": [
+        375.8130798339844,
+        2527.188232421875,
+        2089.27294921875,
+        2707.975341796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/000_plain_text_0.97.png",
+    "text": "Let us consider the expression (-7) + 10 + (-11) again. What happens\nwhen we change the order and add -7 and -11 first, and then add this\nsum to 1o? Will we get the same sum as before?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9711284041404724,
+    "bbox": [
+        290.99578857421875,
+        2343.686279296875,
+        2083.693359375,
+        2635.82666015625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_003/000_plain_text_0.97.png",
+    "text": "Grumpy\nincreases\nthe level of the\ngame. Two\ntreasures\nkept\nare\ntwo different numbers. Jumpy\nhas to choose a jump\nsize and stick\non\nto it. Jumpy gets t!\nthe\ntreasures\nonly if he lands\n on\nboth the\nnumbers\nwith the chosen\njump\nsize. As before, Jumpy\nstarts at\n0."
+}

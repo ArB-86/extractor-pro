@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.7472874522209167,
+    "bbox": [
+        397.46173095703125,
+        2074.969482421875,
+        2183.61474609375,
+        2206.509521484375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_032/006_plain_text_0.75.png",
+    "text": "5. Add brackets at appropriate places in the expressions such that they\nlead to the values indicated."
+}

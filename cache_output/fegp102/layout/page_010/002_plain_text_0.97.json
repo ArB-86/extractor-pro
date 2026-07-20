@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9676253199577332,
+    "bbox": [
+        422.41876220703125,
+        2291.593505859375,
+        2214.8115234375,
+        2582.10986328125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_010/002_plain_text_0.97.png",
+    "text": "The\nthese\nangles\nconsidered\nto\nbe\nin\nsize\nis\nreason\nare\nequal\nbecause when\nn we visualise each of these angles as\nbeing\nformed\nout\nof\nrotation,\nthat\nthere\nis\nwe\nsee\nan\nequal\namount\nof\nrotation\ncan\nneeded to\nOB\nto OA\nand OY\nto OX.\nmove"
+}

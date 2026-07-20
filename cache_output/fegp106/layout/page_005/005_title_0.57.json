@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.5730835795402527,
+    "bbox": [
+        290.8219909667969,
+        397.00189208984375,
+        736.9072875976562,
+        464.18865966796875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_005/005_title_0.57.png",
+    "text": "Ma\nIatha\nchch\nchi!\nP\nacl"
+}

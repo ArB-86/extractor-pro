@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8453666567802429,
+    "bbox": [
+        442.04315185546875,
+        1980.0389404296875,
+        1499.771484375,
+        2042.443115234375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_028/003_plain_text_0.85.png",
+    "text": "Now at closed c\ncorner, cut along\nwith a slanting\nline."
+}

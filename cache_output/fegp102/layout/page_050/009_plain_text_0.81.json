@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.8121801018714905,
+    "bbox": [
+        294.41143798828125,
+        3046.67236328125,
+        1569.4140625,
+        3110.546142578125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_050/009_plain_text_0.81.png",
+    "text": "Q.7. Find the degree measures of ZPQR, ZPQS\nand PQT."
+}

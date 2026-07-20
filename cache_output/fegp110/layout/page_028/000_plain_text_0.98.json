@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9822866320610046,
+    "bbox": [
+        291.3408508300781,
+        393.5665283203125,
+        2088.56787109375,
+        1217.0733642578125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_028/000_plain_text_0.98.png",
+    "text": "  e    s  g\nEuropean mathematicians even in the 18th century. Lazare Carnot, a\nFrench mathematician in the 18th century, called negative numbers\n'absurd'. But over time, zero as well as negative numbers proved\nto be indispensable in global mathematics and science, and are\nnow considered to be critical numbers on an equal footing with\nand as important as positive numbers\u2014just as Brahmagupta had\nrecommended and explicitly described way back in the year 628 CE!\nThis abstraction of arithmetic rules on all numbers paved the way\nfor the modern development of algebra, which we will learn about\nin future classes."
+}

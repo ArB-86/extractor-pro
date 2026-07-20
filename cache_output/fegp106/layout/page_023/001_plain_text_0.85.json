@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8497004508972168,
+    "bbox": [
+        291.4897766113281,
+        2129.3154296875,
+        2188.64892578125,
+        2252.03466796875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_023/001_plain_text_0.85.png",
+    "text": "Q.4. What would be the cost of fencing a rectangular park whose length is 150 m and\nbreadth is 120 m, if the fence costs Rs.40 per metre?"
+}

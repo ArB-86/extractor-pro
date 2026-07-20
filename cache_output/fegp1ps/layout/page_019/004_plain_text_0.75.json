@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7499479055404663,
+    "bbox": [
+        422.1031494140625,
+        2262.733642578125,
+        705.6407470703125,
+        2400.92626953125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_019/004_plain_text_0.75.png",
+    "text": "Chapter 9\nSymmetry"
+}

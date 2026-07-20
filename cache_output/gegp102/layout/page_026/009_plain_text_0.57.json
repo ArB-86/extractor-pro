@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.5719797611236572,
+    "bbox": [
+        380.8013916015625,
+        1932.6531982421875,
+        1946.03759765625,
+        2130.64208984375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_026/009_plain_text_0.57.png",
+    "text": "Ans:\nThe\nfor the total\nt=7x\n5 = 166.\nexpression :\ncost\n23\n+\n5\n=\n161\n+\nThe terms in the expression\nn7x\n23\n+\n5 are 7\n1\u00d7\n23, 5."
+}

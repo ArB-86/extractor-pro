@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.571556806564331,
+    "bbox": [
+        512.540771484375,
+        2485.033203125,
+        2210.826416015625,
+        2917.09765625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_018/015_plain_text_0.57.png",
+    "text": "1. (\nOnly\nthe\n last\ndigits\nwhen\ndeciding\nttwo\nif a\nmatter\ngiven\nnumber is divisible by 4.\n2. If the number formed by the last two c\n digits is divisible by 4\n4\nthen the original number is divisible by 4.\n3.If the original\nnumber is\ndivisible\nby 4, then\nthe\nnumber\nformed by the last two c\ndigits is divisible by 4."
+}

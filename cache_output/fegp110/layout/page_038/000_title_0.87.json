@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "title",
+    "confidence": 0.8687291741371155,
+    "bbox": [
+        783.3390502929688,
+        275.57208251953125,
+        1873.237060546875,
+        421.2161865234375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_038/000_title_0.87.png",
+    "text": "E\nCTI\nW\nLL\nD"
+}

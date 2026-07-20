@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.670967161655426,
+    "bbox": [
+        445.6990966796875,
+        1942.7003173828125,
+        2089.09912109375,
+        2008.49853515625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_043/006_plain_text_0.67.png",
+    "text": " The total number of saplings planted during the whole week is"
+}

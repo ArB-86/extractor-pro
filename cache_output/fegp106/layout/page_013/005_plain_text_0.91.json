@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9121654033660889,
+    "bbox": [
+        293.9440612792969,
+        1481.384521484375,
+        1787.19677734375,
+        1545.5345458984375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_013/005_plain_text_0.91.png",
+    "text": "first one has 42 circles and the second one has 44 circles."
+}

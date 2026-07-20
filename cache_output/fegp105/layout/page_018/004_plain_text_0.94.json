@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.936227023601532,
+    "bbox": [
+        422.2341613769531,
+        737.802490234375,
+        2080.927978515625,
+        878.2362060546875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_018/004_plain_text_0.94.png",
+    "text": "Numbers that are divisible by 2 are those that end with \u201c0',\n2',\u20184, '6' or '8'. Do you agree?"
+}

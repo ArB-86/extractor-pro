@@ -1,36 +1,50 @@
 from __future__ import annotations
 
-import re
 from src.question.models import (
     QuestionCandidate,
     QuestionContext,
 )
+
+from src.question.v2.boundary import LineClass
+from src.question.v2.numbering import NumberSignal
 from src.question.v2.state import ParserState
 
 
 class QuestionAssembler:
 
-    OPTION_PATTERN = re.compile(
-        r"^\s*\([A-D]\)",
-        re.IGNORECASE,
-    )
-
-    ROMAN_PATTERN = re.compile(
-        r"^\s*\([ivxlcdm]+\)",
-        re.IGNORECASE,
-    )
-
-
     def __init__(self):
 
         self.current = None
-
         self.questions = []
+
+    def _flush(self):
+
+        if self.current:
+
+            self.current.text = self.current.text.strip()
+
+            if self.current.text:
+
+                print("=" * 80)
+                print("ASSEMBLER OUTPUT")
+                print("PAGE :", self.current.context.page)
+                print("NUM  :", self.current.number)
+                print(repr(self.current.text[:300]))
+                print("=" * 80)
+
+                self.questions.append(
+                    self.current
+                )
+
+        self.current = None
 
     def consume(
         self,
+        *,
         text: str,
         state: ParserState,
+        boundary: LineClass,
+        signal: NumberSignal,
     ):
 
         text = text.strip()
@@ -38,123 +52,109 @@ class QuestionAssembler:
         if not text:
             return
 
-        # FIX: Flush current question if chapter or exercise changed
-        if (
-            self.current
-            and (
-                self.current.context.chapter != state.chapter
-                or self.current.context.exercise != state.exercise
-            )
-        ):
-            self.questions.append(self.current)
-            self.current = None
+        # Header closes any open question
+        if boundary == LineClass.HEADER:
+            if self.current is not None:
+                self._flush()
+            return
 
-        if state.question_number:
+        if boundary == LineClass.DROP:
+            return
 
-            if (
-                self.current
-                and self.current.number != state.question_number
-            ):
+        if boundary == LineClass.QUESTION_START:
 
-                self.questions.append(
-                    self.current
-                )
+            if self.current is not None:
+                self._flush()
 
-                self.current = None
+            state.question_open = True
+            state.question_number = signal.value
 
-            if self.current is None:
+            self.current = QuestionCandidate(
 
-                cleaned = re.sub(
-                    r"^\s*\d+[.)]\s+",
-                    "",
-                    text,
-                )
+                number=signal.value,
 
-                self.current = QuestionCandidate(
-                    number=state.question_number,
-                    text=cleaned,
-                    context=QuestionContext(
-                        chapter=state.chapter,
-                        exercise=state.exercise,
-                        page=state.page,
+                text=text,
+
+                context=QuestionContext(
+
+                    chapter=state.chapter,
+
+                    exercise=state.exercise,
+
+                    section=state.section,
+
+                    topic=getattr(state, "topic", None),
+
+                    subtopic=getattr(state, "subtopic", None),
+
+                    page=state.page,
+
+                    source_type=state.metadata.get(
+                        "source_type",
+                        "textbook",
                     ),
-                )
 
-            else:
+                ),
 
-                # FIX: Avoid duplicate text
-                if text not in self.current.text:
-                    self.current.text += "\n" + text
-
-        elif self.current:
-
-            if (
-                self.OPTION_PATTERN.match(text)
-                or self.ROMAN_PATTERN.match(text)
-                or re.match(
-                    r"^\s*(\([a-z]\)|[a-z][.)])",
-                    text,
-                    re.I,
-                )
-            ):
-
-                text = re.sub(
-                    r"\s+([.,;:!?])",
-                    r"\1",
-                    text,
-                )
-
-                text = re.sub(
-                    r"\s+([.,;:!?])",
-                    r"\1",
-                    text,
-                )
-
-                self.current.text += "\n" + text
-
-                self.current.metadata.setdefault(
-                    "option_count",
-                    0,
-                )
-
-                self.current.metadata["option_count"] += 1
-
-            elif self.ROMAN_PATTERN.match(text):
-
-                self.current.text += "\n" + text
-
-            elif (
-                "=" in text
-                or "×" in text
-                or "+" in text
-                or "-" in text
-                or "/" in text
-                or len(text.split()) < 4
-                or len(text) < 20
-            ):
-
-                self.current.text += " " + text
-
-            else:
-
-                self.current.text += "\n" + text
-
-        # FIX: Remove OCR tags from current question text
-        if self.current and self.current.text:
-            self.current.text = re.sub(
-                r"OCR\([^)]*\)",
-                "",
-                self.current.text,
             )
 
-    def finalize(self):
+            return
 
-        if self.current:
+        if self.current is None:
+            return
 
-            self.questions.append(
-                self.current
+        if boundary == LineClass.OPTION:
+
+            self.current.metadata.setdefault(
+                "option_count",
+                0,
             )
 
-            self.current = None
+            self.current.metadata["option_count"] += 1
+
+            self.current.text += "\n" + text
+
+            return
+
+        if boundary == LineClass.SUBQUESTION:
+
+            self.current.text += "\n" + text
+
+            return
+
+        if boundary == LineClass.QUESTION_BODY:
+
+            # ---- Guard: flush on specific headings ----
+            HEADINGS = (
+                "note to the teacher",
+                "getting a feel",
+                "reading and writing",
+                "creative",
+                "systematic",
+                "think and explore",
+            )
+
+            lower = text.lower()
+            if any(lower.startswith(h) for h in HEADINGS):
+                self._flush()
+                return
+
+            # Avoid duplicated OCR fragments
+            if text not in self.current.text:
+                self.current.text += "\n" + text
+
+            return
+
+    def finalize(
+        self,
+        state: ParserState | None = None,
+    ):
+
+        self._flush()
+
+        if state is not None:
+
+            state.question_open = False
+            state.question_number = None
 
         return self.questions

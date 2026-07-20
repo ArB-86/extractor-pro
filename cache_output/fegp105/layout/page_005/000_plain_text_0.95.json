@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9529924392700195,
+    "bbox": [
+        402.9854431152344,
+        761.6473388671875,
+        2084.959716796875,
+        1043.99755859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_005/000_plain_text_0.95.png",
+    "text": "3.\nA1\nnumber\nfor which the\n of all its factors is equal to twice\nthe\nsum\nnumber is\ncalled a perfect\nnumber. The\nnumber\n28 is a perfect\nnumber. Its factors are\n1, 2, 4, 7, 14 and 28. Their\nn is 56 which\nsum\nis twice\n28. Find a perfect number\nbetween\nand 10."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.6168266534805298,
+    "bbox": [
+        437.96380615234375,
+        1516.751220703125,
+        2210.375244140625,
+        1729.8948974609375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_022/003_plain_text_0.62.png",
+    "text": "Areas of regions can\nexactly) by\n be estimated\n(or\n even\ndetermined\nbreaking\nsuch regions\ninto\nunit squares, or \nup\ninto\nmore\ngeneral-\nshaped rectangles and triangles whose areas can be calculated."
+}

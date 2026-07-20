@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9142585396766663,
+    "bbox": [
+        299.10003662109375,
+        1423.4088134765625,
+        1558.747314453125,
+        1675.3919677734375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_024/001_plain_text_0.91.png",
+    "text": "Ans.\nPerimeter of the i\ninner t\ntrack = 180\nm\nTotal distance\nToshi has covered in 7\nrounds = 1260\nm\nToshi\nran\nlonger\ndistance"
+}

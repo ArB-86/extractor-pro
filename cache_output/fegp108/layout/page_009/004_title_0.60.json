@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.6043659448623657,
+    "bbox": [
+        401.7435302734375,
+        2673.4208984375,
+        633.1524047851562,
+        2731.253662109375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_009/004_title_0.60.png",
+    "text": "Iethod\nMe\n2"
+}

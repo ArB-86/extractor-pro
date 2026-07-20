@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.60594642162323,
+    "bbox": [
+        293.7241516113281,
+        1951.324951171875,
+        2185.83447265625,
+        2138.8525390625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_031/010_plain_text_0.61.png",
+    "text": "Q.3. We are the group of 5-digit numbers between 35,000 and 75,000 such that all of our\ndigits are odd. Who is the largest number in our group? Who is the smallest number\nin our group? Who among us is the closest to 50,0o0?"
+}

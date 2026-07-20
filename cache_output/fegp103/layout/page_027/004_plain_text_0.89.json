@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8900891542434692,
+    "bbox": [
+        296.4480285644531,
+        799.2320556640625,
+        1540.308349609375,
+        857.6162719726562
+    ],
+    "image_path": "cache_output/fegp103/layout/page_027/004_plain_text_0.89.png",
+    "text": "Ans.\n20/04/2004.\n20/06/2006,\nTry\nfor yourself!"
+}

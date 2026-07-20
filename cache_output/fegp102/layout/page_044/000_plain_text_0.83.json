@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.8331834673881531,
+    "bbox": [
+        364.66729736328125,
+        1912.1263427734375,
+        1450.8604736328125,
+        2352.98828125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_044/000_plain_text_0.83.png",
+    "text": "a)\nD, E, O, B and C\nb)\nDE or DO or DB or EO or EB or OB\n\u54c1,\u526f,\u54c1\u54c1\n(Try for other rays)\nC)\nDE, DO, DB, EO, EB (OB; OC\nd)\n are also possible)"
+}

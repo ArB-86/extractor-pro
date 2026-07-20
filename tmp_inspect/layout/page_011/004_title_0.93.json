@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9315926432609558,
+    "bbox": [
+        297.53759765625,
+        1002.0186157226562,
+        1549.012939453125,
+        1087.87255859375
+    ],
+    "image_path": "tmp_inspect/layout/page_011/004_title_0.93.png",
+    "text": "1.61\nRelation\nto Number\nSequences"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9745420813560486,
+    "bbox": [
+        421.2828063964844,
+        2635.978271484375,
+        2083.807861328125,
+        2899.469970703125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/003_plain_text_0.97.png",
+    "text": "It\nshould\nbe\nnoted\nthat\nthis\npositive\nimpact\nWill\nnot\nhappen\novernight. That takes t\ntime and depends on various\nfactors such\nas\ns the\nnumber of opportunities you\ngive for problem solving, your\npatience,\nand\n the\ne encouragement\ngive to the students.\nyou"
+}

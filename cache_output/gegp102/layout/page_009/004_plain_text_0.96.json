@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9575276970863342,
+    "bbox": [
+        285.9322509765625,
+        1319.1588134765625,
+        2090.16064453125,
+        1503.6806640625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/004_plain_text_0.96.png",
+    "text": "If the total\nnumber of friends\ns up to 7 and the tip\ngoes\nremains\nthe\nsame, how much will they l\n have to pay? Write an expression for this\nsituation and identify its terms."
+}

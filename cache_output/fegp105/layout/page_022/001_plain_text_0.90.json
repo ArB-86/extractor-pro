@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8959993720054626,
+    "bbox": [
+        434.4557800292969,
+        1450.1885986328125,
+        2208.777587890625,
+        1590.2705078125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_022/001_plain_text_0.90.png",
+    "text": "Prime numbers are numbers like 2, 3, 5, 7, 11, ... t\nthat have only\ntWo\nfactors, namely 1 and themselves."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8472992181777954,
+    "bbox": [
+        391.28961181640625,
+        983.28759765625,
+        1451.205810546875,
+        1051.75048828125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_011/009_plain_text_0.85.png",
+    "text": "Now,\nlet us\nclassify these\nin two\ngroups:"
+}

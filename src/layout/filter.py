@@ -1,21 +1,22 @@
 VALID_LABELS = {
     "title",
     "plain text",
-    "isolate_formula",
+    "isolate formula",
     "table",
-    "table_caption",
+    "table caption",
 }
 
 
 class LayoutFilter:
 
     def filter(self, boxes):
-
         filtered = []
 
         for box in boxes:
+            # Normalize label: replace underscores with spaces, strip, lower
+            label = box.label.replace("_", " ").strip().lower()
 
-            if box.label not in VALID_LABELS:
+            if label not in VALID_LABELS:
                 continue
 
             if box.confidence < 0.50:

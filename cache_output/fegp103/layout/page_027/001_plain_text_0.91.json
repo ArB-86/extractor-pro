@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.906271755695343,
+    "bbox": [
+        298.1841125488281,
+        1239.60009765625,
+        2187.495849609375,
+        1418.86181640625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_027/001_plain_text_0.91.png",
+    "text": "Ans.\nYeS,\nThe calendar repeats itself after 6 years if only one leap year is included in these 6 years.\nIf 2 leap years are included, then it will repeat after 5 years."
+}

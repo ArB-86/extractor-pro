@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.8262529373168945,
+    "bbox": [
+        437.27337646484375,
+        2660.8623046875,
+        1123.7913818359375,
+        2819.207275390625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_037/003_plain_text_0.83.png",
+    "text": "Numbers\nOrder of rotational\nsymmetry = 4"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7434108853340149,
+    "bbox": [
+        311.0487365722656,
+        2619.11962890625,
+        1557.161376953125,
+        2685.32080078125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_025/007_plain_text_0.74.png",
+    "text": "A figure may\nhave multiple\ne angles of symmetry."
+}

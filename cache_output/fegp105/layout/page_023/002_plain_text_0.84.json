@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8448425531387329,
+    "bbox": [
+        297.61663818359375,
+        913.6215209960938,
+        1534.0008544921875,
+        974.421630859375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_023/002_plain_text_0.84.png",
+    "text": "Q.1. At what number is \u201cidli-vada\u2019 said for the 10th time?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8083048462867737,
+    "bbox": [
+        617.7498168945312,
+        646.091796875,
+        2211.647216796875,
+        1010.8914794921875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_002/005_plain_text_0.81.png",
+    "text": "How many\ntimes would the children say\nidli\u2019\uff08\n(including\na.\nthe\ntimes t\nthey s\nsay\n\"idli-vada')?\nb.\nHow many\ntimes would the children say\n'vada\u2019 (including\ngthe\ntimes they say \u2018\n\"idli-vada')?\nHow many\ntimes would the children say\n\"idli-vada'?\nC."
+}

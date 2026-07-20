@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8755654692649841,
+    "bbox": [
+        295.66851806640625,
+        802.9642333984375,
+        2173.064453125,
+        994.8197021484375
+    ],
+    "image_path": "tmp_inspect/layout/page_016/001_plain_text_0.88.png",
+    "text": "Q.6. What happens when you start to add up powers of 2 starting with 1, i.e., take 1, 1 +\n2, 1 + 2 + 4, 1 + 2 + 4 + 8, ...? Now add 1 to each of these numbers - what\nnumbers do you get? Why does this happen?"
+}

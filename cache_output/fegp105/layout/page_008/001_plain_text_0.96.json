@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.963111400604248,
+    "bbox": [
+        459.1656799316406,
+        1454.5849609375,
+        2173.923583984375,
+        1669.997802734375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_008/001_plain_text_0.96.png",
+    "text": "are the building\nblocks of all\nnumbers. Starting\nPrime\nnumbers\nwhole\nfrom\nthe\ntime\nof\nthe\nGreek\ncivilisation\n(more\nthan\n2000\nyears\nago)\nto\nthis c\nday,\nmathematicians\nstruggling\nare still\nto\nuncover\ntheir\nsecrets!"
+}

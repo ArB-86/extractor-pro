@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "title",
+    "confidence": 0.7725399732589722,
+    "bbox": [
+        446.98187255859375,
+        1246.463134765625,
+        566.0869750976562,
+        1300.9398193359375
+    ],
+    "image_path": "debug/full_book/layout/page_038/005_title_0.77.png",
+    "text": "Ans:"
+}

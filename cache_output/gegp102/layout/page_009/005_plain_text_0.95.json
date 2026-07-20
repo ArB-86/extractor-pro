@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9522234797477722,
+    "bbox": [
+        377.7426452636719,
+        912.4113159179688,
+        2087.3212890625,
+        1038.1319580078125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/005_plain_text_0.95.png",
+    "text": "Can the total a\namount with tip be written as 4 \u00d7 23 + 5? Evaluating it,\nWeget"
+}

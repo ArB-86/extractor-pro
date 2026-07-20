@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8548188209533691,
+    "bbox": [
+        533.3685302734375,
+        612.2865600585938,
+        2056.98095703125,
+        883.6102905273438
+    ],
+    "image_path": "tmp_layout/page_012/005_plain_text_0.85.png",
+    "text": "4.\nHow\nlittle\ntriangles\nthere\nin\neach\nshape\nof\nthe\nmany\nare\nof\nStacked\nTriangles?\nsequence\nWhich\nnumber\nsequence\ndoes this g\ngive? Can you explain why? (Hint: In each shape in\nthe sequence,\n, how many\ntriangles are\nthere\nin\nn each\nrow?)"
+}

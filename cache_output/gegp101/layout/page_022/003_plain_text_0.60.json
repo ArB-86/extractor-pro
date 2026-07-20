@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5995216965675354,
+    "bbox": [
+        438.01348876953125,
+        1003.5728759765625,
+        2032.88525390625,
+        1125.2728271484375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_022/003_plain_text_0.60.png",
+    "text": "We generally round up or round down large numbers. Many times it\nis enough just to know roughly how big\ng or small something is."
+}

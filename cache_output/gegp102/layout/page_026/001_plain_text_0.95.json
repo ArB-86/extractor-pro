@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9457216858863831,
+    "bbox": [
+        382.1933288574219,
+        1398.119873046875,
+        2190.126953125,
+        1602.3443603515625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_026/001_plain_text_0.95.png",
+    "text": "Ans: No, she can add fourth number, 9055 to the sum she got (11749) to get\nthe correct sum of the list of\ngiven numbers. T\nThat is11749+ 9055\n20804 (Using Associative Property)"
+}

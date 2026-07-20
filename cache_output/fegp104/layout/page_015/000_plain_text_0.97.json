@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9676498770713806,
+    "bbox": [
+        417.02667236328125,
+        2596.5205078125,
+        2214.4599609375,
+        2822.137939453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_015/000_plain_text_0.97.png",
+    "text": "This\nbar\ngraph shows\nthe population\nof India\nin\neach decade over\na\nperiod of 50 j\nyears. The numbers are expressed in\ncrores. If\nyou were\ntake 1\nunit length to\ndrawing\nto\nrepresent\nthe bars\none\nperson,\nWill"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8648101091384888,
+    "bbox": [
+        290.9720153808594,
+        763.1360473632812,
+        2014.8414306640625,
+        834.4854736328125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_003/007_plain_text_0.86.png",
+    "text": "Hint: Keep the point of the compass f\nfixed moving only the pencil."
+}

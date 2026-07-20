@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9588339328765869,
+    "bbox": [
+        419.1463928222656,
+        828.2472534179688,
+        2084.587158203125,
+        1043.2857666015625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_008/001_plain_text_0.96.png",
+    "text": "reversing\nadding\nrepeatedly, s\nstarting\nWill\nand\nnumbers\nWith\n2-digit\nnumber, a\nalways\ngive a\npalindrome?\nExplore\nand f\nfind\na\nout.\n?"
+}

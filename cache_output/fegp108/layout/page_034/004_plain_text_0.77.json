@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.7748605012893677,
+    "bbox": [
+        294.6753234863281,
+        1527.6904296875,
+        1490.216796875,
+        1835.8485107421875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_034/004_plain_text_0.77.png",
+    "text": "Q. In each of these cases, observe\ni. how\nthe length XY\ncompares to that of AB\nand\nii. the shape of the 4-sided figure ABYX.\nAns.\ni.\nXY = AB\nii.\nAB YX is a rectangle"
+}

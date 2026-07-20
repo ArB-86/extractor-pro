@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8768535256385803,
+    "bbox": [
+        456.8135070800781,
+        542.5460205078125,
+        2093.334716796875,
+        723.722900390625
+    ],
+    "image_path": "cache_output/gegp101/layout/page_007/009_plain_text_0.88.png",
+    "text": "(a)\nYou have to make exactly 30 button presses. What is the largest\n3-digit\nnumber\n: you can make? What is the smallest 3-digit\nnumber you can make?"
+}

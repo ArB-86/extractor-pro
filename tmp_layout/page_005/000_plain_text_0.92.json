@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9200558066368103,
+    "bbox": [
+        495.7731628417969,
+        2394.397705078125,
+        2082.918212890625,
+        2537.933837890625
+    ],
+    "image_path": "tmp_layout/page_005/000_plain_text_0.92.png",
+    "text": "That's right, they\n are called hexagonal numbers! Draw these in\nyour notebook. What is the next number in the sequence?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5513015985488892,
+    "bbox": [
+        1235.5068359375,
+        1965.0101318359375,
+        2090.974365234375,
+        2145.06494140625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_003/012_plain_text_0.55.png",
+    "text": "Meaning:\nShalini\nhas\nthe\ntoys\nand\nshe\nt with t\nthem\nsat\nnext to\nher\nfriend."
+}

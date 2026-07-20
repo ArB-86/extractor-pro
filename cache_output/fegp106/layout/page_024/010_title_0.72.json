@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "title",
+    "confidence": 0.7232564687728882,
+    "bbox": [
+        294.8183288574219,
+        297.3924865722656,
+        2187.8388671875,
+        426.80914306640625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_024/010_title_0.72.png",
+    "text": "Q.6. A farmer has a rectangular field having length 230 m and breadth 160 m. He wants\nto fence it with 3 rounds of rope as shown. What is the total length of rope needed?"
+}

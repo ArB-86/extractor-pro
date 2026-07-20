@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "title",
+    "confidence": 0.8397653102874756,
+    "bbox": [
+        292.70989990234375,
+        2045.8651123046875,
+        1832.8594970703125,
+        2110.248291015625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_049/006_title_0.84.png",
+    "text": "Q1. Carry out the following subtractions using\nBrahmagupta's method:"
+}

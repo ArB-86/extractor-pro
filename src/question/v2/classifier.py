@@ -17,23 +17,16 @@ class QuestionClassifier:
 
         option_pattern = re.compile(
             r"\([a-d]\)|^[a-d][.)]",
-            re.IGNORECASE | re.MULTILINE,
+            re.I | re.M,
         )
 
         for q in questions:
 
             text = q.text.lower()
 
-            option_count = len(
-                option_pattern.findall(text)
-            )
-
             option_count = max(
-                option_count,
-                q.metadata.get(
-                    "option_count",
-                    0,
-                ),
+                len(option_pattern.findall(text)),
+                q.metadata.get("option_count", 0),
             )
 
             if (
@@ -42,52 +35,34 @@ class QuestionClassifier:
             ):
                 q.qtype = QuestionType.MCQ
 
-                if option_count >= 4:
-
-                    q.confidence = min(
-                        1.0,
-                        q.confidence + 0.05,
-                    )
-
-            elif "fill in the blank" in text or "____" in text:
-                q.qtype = QuestionType.FILL
+            elif (
+                "fill in the blank" in text
+                or "____" in text
+            ):
+                q.qtype = QuestionType.FILL_IN_BLANK
 
             elif "true or false" in text:
                 q.qtype = QuestionType.TRUE_FALSE
 
-            elif "assertion" in text and "reason" in text:
+            elif (
+                "assertion" in text
+                and "reason" in text
+            ):
                 q.qtype = QuestionType.ASSERTION_REASON
 
             elif "case study" in text:
                 q.qtype = QuestionType.CASE_STUDY
 
-            elif "construct" in text:
-                q.qtype = QuestionType.CONSTRUCTION
-
-            elif "prove" in text:
-                q.qtype = QuestionType.PROOF
-
-            elif "activity" in text:
-                q.qtype = QuestionType.ACTIVITY
-
-            elif option_count >= 4:
-
-                q.qtype = QuestionType.MCQ
-
             elif len(text.split()) > 70:
-                q.qtype = QuestionType.LONG
+                q.qtype = QuestionType.LONG_ANSWER
 
             else:
-                q.qtype = QuestionType.SHORT
-
-        for q in questions:
+                q.qtype = QuestionType.SHORT_ANSWER
 
             if q.confidence < 0.45:
-
                 q.metadata["review"] = True
 
             elif q.confidence > 0.90:
-
                 q.metadata["trusted"] = True
 
         return questions

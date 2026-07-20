@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8293917775154114,
+    "bbox": [
+        402.42669677734375,
+        2260.8837890625,
+        2073.39208984375,
+        2396.227294921875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_005/007_plain_text_0.83.png",
+    "text": "1.\nWhat radius should be taken in the compass to get this half circle?\nWhat should be the length of Ax?"
+}

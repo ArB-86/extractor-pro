@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.6937288641929626,
+    "bbox": [
+        336.3331604003906,
+        2799.080078125,
+        1978.99658203125,
+        2859.20751953125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_025/012_plain_text_0.69.png",
+    "text": ".10. Find the smallest number that is a multiple of all the number from 1 to 1"
+}

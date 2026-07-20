@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.855368971824646,
+    "bbox": [
+        388.74212646484375,
+        993.2996826171875,
+        2188.213134765625,
+        1113.7733154296875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_026/004_plain_text_0.86.png",
+    "text": "Q.\n. Will reversing and adding numbers repeatedly, starting with a 2-digit number,\nalways give a palindrome? Explore and find out.*"
+}

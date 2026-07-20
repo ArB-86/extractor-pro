@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.5327630043029785,
+    "bbox": [
+        293.3890380859375,
+        1646.348876953125,
+        1923.4720458984375,
+        1705.31689453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_038/009_plain_text_0.53.png",
+    "text": "Ans.\nYes. Cost of education = Rs. 800 and cost of food = Rs 3400 =4 x Rs 850"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9333181977272034,
+    "bbox": [
+        294.9811706542969,
+        530.6343994140625,
+        1108.806640625,
+        598.6746215820312
+    ],
+    "image_path": "cache_output/fegp107/layout/page_011/006_title_0.93.png",
+    "text": "Fractions\ngreater than o\none"
+}

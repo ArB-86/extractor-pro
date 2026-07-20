@@ -1,0 +1,17 @@
+provider: vllm
+
+model: Qwen/Qwen3-32B-Instruct
+
+tensor_parallel: 2
+
+max_tokens: 4096
+
+temperature: 0.2
+
+top_p: 0.9
+
+gpu_memory_utilization: 0.92
+
+dtype: bfloat16
+
+batch_size: 32

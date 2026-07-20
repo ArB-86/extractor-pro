@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9199205040931702,
+    "bbox": [
+        293.8940124511719,
+        2116.7294921875,
+        1362.45556640625,
+        2186.98193359375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_015/004_plain_text_0.92.png",
+    "text": "What are\nthe other angles of s\nsymmetry?"
+}

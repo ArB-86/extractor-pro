@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9704141020774841,
+    "bbox": [
+        292.4375305175781,
+        2231.5458984375,
+        1272.4991455078125,
+        2598.108154296875
+    ],
+    "image_path": "cache_output/fegp108/layout/page_007/001_plain_text_0.97.png",
+    "text": "Here\niS\npiece\nof\na\nsquare\npaper\nhaving\ng all\nits s\nsides\nin\nlength\nequal\nand\nall\nangles\nto\n90\u00b0. It\nis\nequal\nrotated\nas shown\nin t\nthe f\nfigure. Is it\nstill a\na square?"
+}

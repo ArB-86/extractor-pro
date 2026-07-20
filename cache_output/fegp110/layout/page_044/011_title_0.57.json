@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "title",
+    "confidence": 0.5691055059432983,
+    "bbox": [
+        293.9631652832031,
+        2165.769287109375,
+        2186.23779296875,
+        2289.04052734375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_044/011_title_0.57.png",
+    "text": "Q.1. You start from Floor + 2 and\nI press - 3 in the lift. Where will you reach? Write an\nexpression for this movement."
+}

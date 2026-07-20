@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8931127786636353,
+    "bbox": [
+        378.31365966796875,
+        1214.904052734375,
+        1952.041748046875,
+        1281.2611083984375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_009/004_plain_text_0.89.png",
+    "text": "2.\nWrite the following\nnumbers in Indian place value notation:"
+}

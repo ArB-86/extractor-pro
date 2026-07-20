@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5280269384384155,
+    "bbox": [
+        511.0380554199219,
+        285.29864501953125,
+        2082.72216796875,
+        492.3426208496094
+    ],
+    "image_path": "cache_output/gegp101/layout/page_012/004_plain_text_0.53.png",
+    "text": "(c)\nWill\nthe\ndifference\nbe\nthan\n9,63,128\nor\nless\nthan\ngreater\n9,63,128? Why d\ndo you t\nthink so?\n(d)\nExact value of 14,63,128 - 4,90,020\n\u4e8c"
+}

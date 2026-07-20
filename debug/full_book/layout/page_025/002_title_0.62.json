@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "title",
+    "confidence": 0.6185554265975952,
+    "bbox": [
+        294.51385498046875,
+        1728.695556640625,
+        850.1480102539062,
+        1794.4490966796875
+    ],
+    "image_path": "debug/full_book/layout/page_025/002_title_0.62.png",
+    "text": "Thoughtful thousand"
+}

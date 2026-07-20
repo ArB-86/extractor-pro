@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7837717533111572,
+    "bbox": [
+        357.3119812011719,
+        2553.8076171875,
+        1312.519775390625,
+        2617.046142578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/009_plain_text_0.78.png",
+    "text": "Think\n and discuss why she wrote this."
+}

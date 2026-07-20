@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9662122130393982,
+    "bbox": [
+        377.7640380859375,
+        286.6846618652344,
+        2088.90869140625,
+        466.9278869628906
+    ],
+    "image_path": "cache_output/gegp101/layout/page_019/000_plain_text_0.97.png",
+    "text": "The population of Mumbai is more t\nthan 1 crore 24 lakhs\ns(wesaw\nthis in an earlier table). So, the entire population of Mumbai cannot fit\nin 1 lakh buses."
+}

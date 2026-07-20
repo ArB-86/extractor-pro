@@ -1,0 +1,13 @@
+{
+    "page": 47,
+    "label": "plain_text",
+    "confidence": 0.7300592660903931,
+    "bbox": [
+        294.92266845703125,
+        744.7399291992188,
+        1559.3404541015625,
+        807.1321411132812
+    ],
+    "image_path": "cache_output/fegp110/layout/page_047/009_plain_text_0.73.png",
+    "text": "Ans.\na. P =-7\nb. Q = - 4\nc. R = +3\nd. S = -10"
+}

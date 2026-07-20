@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9159262180328369,
+    "bbox": [
+        289.2875061035156,
+        2014.9024658203125,
+        2087.895751953125,
+        2136.4638671875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_019/006_plain_text_0.92.png",
+    "text": "Make\n necessary\nreasonable\npue suondwnsse\nanswer\nthe\nquestions\nbelow:"
+}

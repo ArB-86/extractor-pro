@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9627419114112854,
+    "bbox": [
+        420.77984619140625,
+        798.0098876953125,
+        2208.6884765625,
+        1012.0138549804688
+    ],
+    "image_path": "cache_output/fegp110/layout/page_021/001_plain_text_0.96.png",
+    "text": "What has been t\nthe\ne maximum temperature\nduring\nthe\n summer\nand the minimum temperature\nduring\ng the winter last year in your\narea? Find out."
+}

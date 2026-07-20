@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8193667531013489,
+    "bbox": [
+        297.6376647949219,
+        458.4270935058594,
+        1285.162353515625,
+        616.510498046875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/002_plain_text_0.82.png",
+    "text": "Ans.\nNo, t\nthey\nare not co-prime.\nNo, C\nnot dividing\none of them\n1S\nthe other."
+}

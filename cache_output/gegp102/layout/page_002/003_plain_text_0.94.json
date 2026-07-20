@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9378756284713745,
+    "bbox": [
+        379.4974365234375,
+        620.151611328125,
+        2092.56591796875,
+        745.0401000976562
+    ],
+    "image_path": "cache_output/gegp102/layout/page_002/003_plain_text_0.94.png",
+    "text": "1.\nFill in the blanks to make the expressions equal on both sides of\nthe = sign:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.5791563391685486,
+    "bbox": [
+        289.2494201660156,
+        707.8980102539062,
+        2090.779296875,
+        1027.9576416015625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_016/008_plain_text_0.58.png",
+    "text": "On t\nthe basis of this\n bar\ngraph, what may\nbe a f\nfew\nquestions\nyou\nask\nyour\nfriends?\nmay a\nHow\nmuch\ndid\nthe\npopulation\nof\nIndia\nincrease\n50\nover\nyears?\nHow much did the\npopulation\nincrease\nin each decade?"
+}

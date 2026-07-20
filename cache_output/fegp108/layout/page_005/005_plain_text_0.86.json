@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8608350157737732,
+    "bbox": [
+        397.5470275878906,
+        1480.8843994140625,
+        2077.489990234375,
+        1618.13525390625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_005/005_plain_text_0.86.png",
+    "text": "Let us take AB to be the central line such that the length of AB\niS\n8 cm. We write this as AB = 8 cm."
+}

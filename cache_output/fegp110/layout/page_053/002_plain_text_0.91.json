@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.9064489006996155,
+    "bbox": [
+        408.92657470703125,
+        881.2357177734375,
+        723.7810668945312,
+        1518.4368896484375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_053/002_plain_text_0.91.png",
+    "text": "A. (+1500) m\nB. (-500) m\nC. (+300) m\nD. (-1200) m\nE. (+1200)\nm\nF. (-200) m\nG. (+100) m"
+}

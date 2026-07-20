@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9649547338485718,
+    "bbox": [
+        418.9668884277344,
+        392.7662048339844,
+        2212.91015625,
+        610.69384765625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_002/003_plain_text_0.96.png",
+    "text": "Now, arm\nyourself with a ruler and a compass. Let us explore if\n draw these figures with these tools and\nwecanc\nget familiar with a\ncompass."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.7307045459747314,
+    "bbox": [
+        472.09649658203125,
+        2525.39990234375,
+        2206.373046875,
+        2668.916748046875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_042/006_plain_text_0.73.png",
+    "text": "The sizes of angles can be measured in degrees. One full rotation or\nturn is considered as 360 degrees and denoted as 360\u00b0."
+}

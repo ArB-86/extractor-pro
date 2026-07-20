@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.9207631349563599,
+    "bbox": [
+        294.4708251953125,
+        2389.798583984375,
+        2186.85693359375,
+        2512.9912109375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_048/003_plain_text_0.92.png",
+    "text": "Ans. In acute angles the opening of the edges is lesser than the obtuse angle which have larger\nopenings."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9422314167022705,
+    "bbox": [
+        290.3918762207031,
+        2647.394287109375,
+        2086.678955078125,
+        2795.93115234375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_013/002_plain_text_0.94.png",
+    "text": "Passing through a slit: Collect a number ofrotating\narms with different\nangles; do not rotate any of the rotating\narms during this activity."
+}

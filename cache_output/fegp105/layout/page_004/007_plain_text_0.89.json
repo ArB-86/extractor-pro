@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8909104466438293,
+    "bbox": [
+        421.4693908691406,
+        1370.73095703125,
+        1703.04345703125,
+        1439.4339599609375
+    ],
+    "image_path": "cache_output/fegp105/layout/page_004/007_plain_text_0.89.png",
+    "text": "Look at the table below. What do you notice?"
+}

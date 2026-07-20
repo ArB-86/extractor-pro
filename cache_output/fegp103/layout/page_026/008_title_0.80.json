@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "title",
+    "confidence": 0.8026455044746399,
+    "bbox": [
+        382.2756652832031,
+        1609.351318359375,
+        640.6490478515625,
+        1665.2047119140625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_026/008_title_0.80.png",
+    "text": "time\nD\nuzzle\ne"
+}

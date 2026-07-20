@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.8797941207885742,
+    "bbox": [
+        395.8921813964844,
+        1999.8402099609375,
+        812.714599609375,
+        2061.963134765625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_007/006_title_0.88.png",
+    "text": "Puncl\nching\nGame"
+}

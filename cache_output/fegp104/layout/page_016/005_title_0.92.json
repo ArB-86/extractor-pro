@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9219922423362732,
+    "bbox": [
+        295.074462890625,
+        1127.7777099609375,
+        1191.6407470703125,
+        1214.828857421875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_016/005_title_0.92.png",
+    "text": "4.4 Drawing\na Bar\nGraph"
+}

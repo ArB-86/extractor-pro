@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9526255130767822,
+    "bbox": [
+        374.57635498046875,
+        2181.153076171875,
+        2089.86279296875,
+        2306.064208984375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_007/002_plain_text_0.95.png",
+    "text": "Thus, grouping the terms of an expression in either of the following\ngives the same value.\nways8"
+}

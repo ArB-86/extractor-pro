@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9492117166519165,
+    "bbox": [
+        528.2546997070312,
+        1401.28271484375,
+        2208.982666015625,
+        1542.2811279296875
+    ],
+    "image_path": "cache_output/fegp102/layout/page_028/001_plain_text_0.95.png",
+    "text": "1.\nFind t\nthe \ndegree\nmeasures of the f\nfollowing\nangles\nusing\nyour\nprotractor."
+}

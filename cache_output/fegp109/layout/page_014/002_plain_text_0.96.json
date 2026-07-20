@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9577347636222839,
+    "bbox": [
+        420.85662841796875,
+        2267.137939453125,
+        2213.0126953125,
+        2480.903076171875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_014/002_plain_text_0.96.png",
+    "text": "When talking\n of rotational\nthere is a\nsymmetry,\nalways a fixed\npoint about which the object is rotated. This fixed point is called the\ncentre of rotation."
+}

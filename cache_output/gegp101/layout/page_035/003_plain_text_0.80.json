@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8030428886413574,
+    "bbox": [
+        368.675048828125,
+        2170.90283203125,
+        2190.45751953125,
+        2437.896240234375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_035/003_plain_text_0.80.png",
+    "text": "6.\nSuppose\n1 write\ndown\nall\nthe\nnumbers\n1, 2, 3, 4, ...,\n9, 10, 11,\nyou\nand\nSO\nThe tenth\ndigit\nwrite is \u201c1'\nthe eleventh\ndigit is \u00b00', as\non.1\nyou\nand\npart\nof the\n10. (This\nbe solved in different ways. One\n number\nquestion\ncan\nof the\nway\nis"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.5668416619300842,
+    "bbox": [
+        318.5316467285156,
+        2728.423828125,
+        2070.883544921875,
+        3102.995849609375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_034/007_plain_text_0.57.png",
+    "text": "Ins.\nLengths of sides of a rectangle that cannot be divided into two identical squares:\nLength = 4 cm and Breadth = 2.5cm (Try for more!)\nLength of sides of a rectangle that cannot be divided into three identical squares:\nLength = 7cm and Breadth = 2cm\n(Try for other possibilities.)"
+}

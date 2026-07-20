@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5685650110244751,
+    "bbox": [
+        400.2818603515625,
+        1819.3958740234375,
+        2082.750244140625,
+        2025.302734375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_004/013_plain_text_0.57.png",
+    "text": "3.\nStarting\nfrom different f\nfloors,\nfind the\ne movements required to\nreach Floor -5. For example, if I start at Floor +2, I must press -7\nto reach Floor -5. The expression is (+ 2) + (-7) = -5."
+}

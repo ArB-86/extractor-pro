@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5617383718490601,
+    "bbox": [
+        464.7272644042969,
+        987.886474609375,
+        1700.850341796875,
+        1053.6383056640625
+    ],
+    "image_path": "cache_output/fegp109/layout/page_013/001_plain_text_0.56.png",
+    "text": "Hint: For\n(c)\nand (f), see if rotating\nthe book helps!"
+}

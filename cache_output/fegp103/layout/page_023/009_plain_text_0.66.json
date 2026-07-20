@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.655887246131897,
+    "bbox": [
+        1697.132568359375,
+        542.1640625,
+        2194.80517578125,
+        658.0650024414062
+    ],
+    "image_path": "cache_output/fegp103/layout/page_023/009_plain_text_0.66.png",
+    "text": "Second\nlargest\nnumber\n8\nis\n not a supercell."
+}

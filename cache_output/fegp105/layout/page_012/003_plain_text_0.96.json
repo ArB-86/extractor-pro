@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9607704877853394,
+    "bbox": [
+        421.37884521484375,
+        1378.56689453125,
+        2209.7919921875,
+        1520.1131591796875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_012/003_plain_text_0.96.png",
+    "text": "The number 1 does not have any 1\nprime\nfactorisation. It is not\ndivisible by any prime number."
+}

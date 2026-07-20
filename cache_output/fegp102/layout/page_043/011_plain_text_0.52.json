@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.5152187943458557,
+    "bbox": [
+        412.1951599121094,
+        2725.98388671875,
+        876.2948608398438,
+        2784.56689453125
+    ],
+    "image_path": "cache_output/fegp102/layout/page_043/011_plain_text_0.52.png",
+    "text": "d\noint\nlies\nD\nP\nD\non\nAB."
+}

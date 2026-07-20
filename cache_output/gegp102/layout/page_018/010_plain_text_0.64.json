@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.6401023864746094,
+    "bbox": [
+        545.6589965820312,
+        1586.9190673828125,
+        2075.057373046875,
+        1655.90087890625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_018/010_plain_text_0.64.png",
+    "text": "quicker than the multiplication procedure you use\niS\ngenerally?"
+}

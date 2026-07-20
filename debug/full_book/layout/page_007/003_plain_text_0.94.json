@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9406104683876038,
+    "bbox": [
+        378.40411376953125,
+        940.7244262695312,
+        1460.483642578125,
+        1059.69091796875
+    ],
+    "image_path": "debug/full_book/layout/page_007/003_plain_text_0.94.png",
+    "text": "like\nthese\nand challenge\nCreate\nquestions\nclassmates.\nyour"
+}

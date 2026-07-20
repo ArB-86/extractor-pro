@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.918861448764801,
+    "bbox": [
+        296.0015563964844,
+        1042.282958984375,
+        1400.80078125,
+        1130.9163818359375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_022/003_title_0.92.png",
+    "text": "10.4 Explorations with Integers"
+}

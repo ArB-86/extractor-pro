@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "plain_text",
+    "confidence": 0.6125825643539429,
+    "bbox": [
+        292.6310119628906,
+        867.4708251953125,
+        1865.0374755859375,
+        1029.485107421875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_049/012_plain_text_0.61.png",
+    "text": "Q4. What are (i) - 5 + 0 (ii) 7 + (- 7) (iii) - 10 + 20 (iv) 10 - 20 (v) 7 - (- 7)\n(vi) - 8 - (-10)?"
+}

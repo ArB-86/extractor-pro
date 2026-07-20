@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9306986927986145,
+    "bbox": [
+        380.60980224609375,
+        288.89239501953125,
+        1572.3544921875,
+        363.2543029785156
+    ],
+    "image_path": "debug/full_book/layout/page_016/001_title_0.93.png",
+    "text": "Fascinating\nFacts about\nt Large Numbers"
+}

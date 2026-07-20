@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9538779854774475,
+    "bbox": [
+        417.1781005859375,
+        1481.986083984375,
+        2212.54443359375,
+        1778.451416015625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_002/000_plain_text_0.95.png",
+    "text": "A child\n\u20181' if there\niS\nonly\ntaller\nchild s\nstanding\nsays\nthem.\none\nnext to\nAC\nchild\ns\u20182\u2032 if both\nthe children\nstanding\nsays\nto t\nthem\nnext\ntaller.\nare\nA child says *O', if neither of the children standing.\ng next to them are taller.\nThat is\n6 each\nthe\ne number of taller neighbours\nthey\nhave.\nperson says"
+}

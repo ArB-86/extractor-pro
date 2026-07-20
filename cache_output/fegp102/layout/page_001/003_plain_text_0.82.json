@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8182962536811829,
+    "bbox": [
+        289.5868225097656,
+        2553.567138671875,
+        1636.6177978515625,
+        2850.988037109375
+    ],
+    "image_path": "cache_output/fegp102/layout/page_001/003_plain_text_0.82.png",
+    "text": "If\nyou\nmark\nthree\npoints\non a\npiece\nof\npaper,\nbe\n to (\ndistinguish\nrequired\nthese\nmay\nthree\nyou\npoints. For this\npurpose, each of the three \npoints\nbe denoted by a single\nmay\ncapital letter\n such\nas"
+}

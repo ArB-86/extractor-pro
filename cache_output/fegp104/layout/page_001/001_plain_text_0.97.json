@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9742183089256287,
+    "bbox": [
+        418.1622619628906,
+        1052.5997314453125,
+        2211.631591796875,
+        1350.8060302734375
+    ],
+    "image_path": "cache_output/fegp104/layout/page_001/001_plain_text_0.97.png",
+    "text": "If\nask\nclassmates\nabout\ntheir\nfavourite\ncolours, you\nyou\nyour\nWill\nget a list of colours. This\nlist is\nexample of data. Similarly, if\nan\nyou\nthe\nWeight of\neach\nstudent\nin\nclass, you\nyour\nwould\nmeasure\nget\na\ncollection of measures of weight\u2014again data."
+}

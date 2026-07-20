@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9637633562088013,
+    "bbox": [
+        416.08514404296875,
+        2565.774658203125,
+        2211.793212890625,
+        2857.2978515625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_001/003_plain_text_0.96.png",
+    "text": "However, this is actually only a number\n'ray', in\nthe language\nwe\nlearned\nearlier\nin\ngeometry; this\nray\nstarts at\n0\nand\ngoes\nforever\nto\nthe right. Do there exist numbers to the left of O, so t\nthat t\nthis\nnumber\nbe\ncompleted\nl toat\ntrue\nnumber\nline?\nray\ncan"
+}

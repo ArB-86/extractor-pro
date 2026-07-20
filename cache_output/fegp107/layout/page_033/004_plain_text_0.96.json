@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9617137908935547,
+    "bbox": [
+        294.1485595703125,
+        396.5657958984375,
+        2082.36962890625,
+        593.4668579101562
+    ],
+    "image_path": "cache_output/fegp107/layout/page_033/004_plain_text_0.96.png",
+    "text": "fractions\nlater\nintroduced\nby\nthe\nwas\nMoroccan\nmathematician\nAl-Hassar\n(in the 12th century). Over\nthe next f\nfew centuries\nthe\nnotation then spread to Europe and around the world."
+}

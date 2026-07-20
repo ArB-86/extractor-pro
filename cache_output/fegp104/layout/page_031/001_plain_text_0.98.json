@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9805852770805359,
+    "bbox": [
+        419.7513122558594,
+        1898.6995849609375,
+        2209.927978515625,
+        2340.72265625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_031/001_plain_text_0.98.png",
+    "text": "Taking this idea further, and to make the picture even more visually\nstimulating\ng and suggestive, we can further change the shapes of the\nmountains to make them look\nlike mountains, and add\nK even more\nother details, while attempting to preserve the heights. For example,\nwe can create an imaginary 1\nmountain range t\nthat contains all these\nmountains."
+}

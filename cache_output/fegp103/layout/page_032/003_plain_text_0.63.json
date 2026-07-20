@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.6345464587211609,
+    "bbox": [
+        296.674560546875,
+        427.7556457519531,
+        889.0999145507812,
+        484.0510559082031
+    ],
+    "image_path": "cache_output/fegp103/layout/page_032/003_plain_text_0.63.png",
+    "text": "Ans.\nNumber\nChosen: 250"
+}

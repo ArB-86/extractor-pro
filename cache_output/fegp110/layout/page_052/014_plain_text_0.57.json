@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.5662950873374939,
+    "bbox": [
+        294.2578430175781,
+        492.3974609375,
+        1120.6971435546875,
+        611.730224609375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_052/014_plain_text_0.57.png",
+    "text": "Q. Your 1\nbank balance is\nnew\nAns.\n100 +60\n 160"
+}

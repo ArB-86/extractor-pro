@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.870658814907074,
+    "bbox": [
+        434.9541320800781,
+        1118.7625732421875,
+        821.1022338867188,
+        1181.1192626953125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_018/005_plain_text_0.87.png",
+    "text": "Find\nthis\nalue.\nval"
+}

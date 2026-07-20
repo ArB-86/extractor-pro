@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9187940359115601,
+    "bbox": [
+        289.237060546875,
+        535.1482543945312,
+        2083.31689453125,
+        680.2159423828125
+    ],
+    "image_path": "cache_output/fegp107/layout/page_009/005_plain_text_0.92.png",
+    "text": "We have marked lengths equal to 1, 2, 3, ... units on the number line.\nNow, let us try to mark lengths equal to fractions on the number line."
+}

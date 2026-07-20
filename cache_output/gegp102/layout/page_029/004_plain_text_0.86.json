@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8564911484718323,
+    "bbox": [
+        416.18414306640625,
+        1327.99169921875,
+        1869.007568359375,
+        1560.3421630859375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_029/004_plain_text_0.86.png",
+    "text": "(a)\ndescribing\n100\nExpression\nthe situation\n2\u00d71\n\u4e8c\n100\n+\n2\n100\nTerms: 2 x 1\n100,\nValue: 250\ngold coins.\n2"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.6548640131950378,
+    "bbox": [
+        396.063720703125,
+        425.6980895996094,
+        2185.012451171875,
+        551.5359497070312
+    ],
+    "image_path": "cache_output/fegp104/layout/page_043/008_plain_text_0.65.png",
+    "text": "Draw a bar graph to illustrate the above data taking the scale of 1 unit length = 5\nstudents. Which activity is preferred by most students other than playing?"
+}

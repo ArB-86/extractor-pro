@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9476695656776428,
+    "bbox": [
+        293.4466247558594,
+        1682.9429931640625,
+        2084.802978515625,
+        1827.4324951171875
+    ],
+    "image_path": "cache_output/fegp101/layout/page_007/002_plain_text_0.95.png",
+    "text": "Now by imagining a similar picture, or by drawing it partially,\nas\nneeded, can you say what is the sum of the first 1o0 odd numbers?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9009533524513245,
+    "bbox": [
+        504.61181640625,
+        396.2556457519531,
+        1769.470947265625,
+        462.5421142578125
+    ],
+    "image_path": "cache_output/fegp109/layout/page_012/002_plain_text_0.90.png",
+    "text": "8.\nFind the lines of s\nsymmetry\nfor the kolam below."
+}

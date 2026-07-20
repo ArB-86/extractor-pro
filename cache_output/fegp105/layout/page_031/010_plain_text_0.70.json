@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.697996199131012,
+    "bbox": [
+        409.8369140625,
+        1419.605224609375,
+        2190.92919921875,
+        1801.0955810546875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_031/010_plain_text_0.70.png",
+    "text": "1. Only the last two digits matter when deciding if a given number is divisible by 4.\n2. If the number formed by the last two digits is divisible by 4, then the original\nnumber is divisible by 4.\n3. If the original number is divisible by 4, then the number formed by the last two\ndigits is divisible by 4."
+}

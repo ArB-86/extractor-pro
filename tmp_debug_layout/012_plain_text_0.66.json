@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6565117835998535,
+    "bbox": [
+        549.7068481445312,
+        1515.8385009765625,
+        1942.54443359375,
+        1582.84423828125
+    ],
+    "image_path": "tmp_debug_layout/012_plain_text_0.66.png",
+    "text": "(A) LXII\n(B) XCI\n(C) LC\n(D)\nXLIV"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "title",
+    "confidence": 0.936356782913208,
+    "bbox": [
+        294.9842224121094,
+        1293.9312744140625,
+        1581.9705810546875,
+        1381.818359375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_017/005_title_0.94.png",
+    "text": "and Winning\n3.12\n2 Games\nStrategies"
+}

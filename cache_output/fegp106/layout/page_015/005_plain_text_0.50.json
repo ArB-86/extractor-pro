@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5007181167602539,
+    "bbox": [
+        294.7336120605469,
+        2502.319580078125,
+        2071.927978515625,
+        2658.65966796875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_015/005_plain_text_0.50.png",
+    "text": "Here, the area of triangle AEF = half of the area of rectangle AFED.\nSimilarly, the area of triangle BEF = half of the area of rectangle BFEC."
+}

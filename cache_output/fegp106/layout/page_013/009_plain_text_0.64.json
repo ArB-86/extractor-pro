@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6436398029327393,
+    "bbox": [
+        288.6164855957031,
+        2743.79150390625,
+        1487.8026123046875,
+        2891.73046875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_013/009_plain_text_0.64.png",
+    "text": "Which rectangle has\nthe\na.\ngreatest perimeter?\nb.\nWhich rectangle has the least perimeter?"
+}

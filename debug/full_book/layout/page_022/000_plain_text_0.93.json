@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9262311458587646,
+    "bbox": [
+        438.9423522949219,
+        440.8697509765625,
+        2034.5504150390625,
+        623.279541015625
+    ],
+    "image_path": "debug/full_book/layout/page_022/000_plain_text_0.93.png",
+    "text": "Wecameacross\nslarge\n: numbers -lakhs, crores and \narabs; millions\nand billions. We learnt how to read and write these numbers in the\nIndian and American/International naming systems."
+}

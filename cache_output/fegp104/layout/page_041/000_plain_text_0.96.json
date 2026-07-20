@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.9554747939109802,
+    "bbox": [
+        296.4304504394531,
+        1018.51025390625,
+        2189.3974609375,
+        1819.0897216796875
+    ],
+    "image_path": "cache_output/fegp104/layout/page_041/000_plain_text_0.96.png",
+    "text": "Ans.  a. This table is giving the information about different number of wickets taken by\nJaspreet Bumrah in different number of matches.\nb. The title of this table may be: Wickets Taken by Jaspreet Bumrah in Last 30\nMatches.(think of more!)\nc. In this table, attention seeking point is that in 1 match 7 wickets were taken by\nJaspreet Bumrah only.(think of more!)\nd. In 3 matches Bumrah has taken 4 wickets.\ne. No, Mayank can't get the total number of wickets taken in this way. For example, 3\nwickets per match were taken in 8 matches, which means total 24 wickets were taken.\nf. To know the total number of wickets, prepare a next column of total wickets .It will\nhave products of corresponding numbers of the two given columns. Then the sum of\nthe numbers in the 3rd column, will be the total number of wickets. Total number of\nwickets=90"
+}

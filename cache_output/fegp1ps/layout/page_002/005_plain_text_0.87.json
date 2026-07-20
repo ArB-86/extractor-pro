@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8699908256530762,
+    "bbox": [
+        334.6007385253906,
+        1144.4298095703125,
+        1106.3502197265625,
+        1250.1072998046875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/005_plain_text_0.87.png",
+    "text": "National Council of Educational\n?\nResearch and Training,\n2024"
+}

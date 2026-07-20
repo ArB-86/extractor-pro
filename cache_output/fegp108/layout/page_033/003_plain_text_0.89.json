@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8873717188835144,
+    "bbox": [
+        291.9389343261719,
+        1131.23779296875,
+        2140.428955078125,
+        1257.3468017578125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_033/003_plain_text_0.89.png",
+    "text": "Q.2. Draw a rectangle of sides 2 cm and 10 cm. After drawing, check if it satisfies both\nthe rectangle properties."
+}

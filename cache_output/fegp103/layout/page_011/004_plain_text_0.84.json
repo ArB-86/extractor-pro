@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8405453562736511,
+    "bbox": [
+        453.75518798828125,
+        393.6845703125,
+        2086.20751953125,
+        688.8343505859375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_011/004_plain_text_0.84.png",
+    "text": "b.\nthe\ndifference\nbetween\nthe\ne largest\nand\nsmallest\nnumbers\nless\nthan\n5085.\nthe sum of the largest and\nsmallest numbers\nC.\ngreater\nthan\n9779.\nd.\nthe\ne sum of the largest and\nsmallest numbers\nless t\nthan\n9779."
+}

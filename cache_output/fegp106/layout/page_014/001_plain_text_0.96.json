@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9572158455848694,
+    "bbox": [
+        528.7877807617188,
+        2515.257568359375,
+        2104.246826171875,
+        2792.69287109375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_014/001_plain_text_0.96.png",
+    "text": "Help s\n students in articulating their inferences and in defining\nthe\nrelationships t\nthey\nhave\nobserved in their\nWords, gradually\nown\nleading\n to a common\nstatement\nfor\n whole classroom. Recall 1\nthe\ndefinition of a diagonal:\nin the classroom."
+}

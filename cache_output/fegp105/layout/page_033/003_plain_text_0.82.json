@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8190301060676575,
+    "bbox": [
+        295.0004577636719,
+        967.713623046875,
+        2186.99658203125,
+        1089.8321533203125
+    ],
+    "image_path": "cache_output/fegp105/layout/page_033/003_plain_text_0.82.png",
+    "text": "Q.4. Find the remainders obtained when each of the following numbers are divided by i)\n10, ii) 5, ii) 2."
+}

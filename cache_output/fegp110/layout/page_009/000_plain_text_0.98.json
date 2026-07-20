@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9808722734451294,
+    "bbox": [
+        418.7590026855469,
+        494.96881103515625,
+        1476.688232421875,
+        1016.2702026367188
+    ],
+    "image_path": "cache_output/fegp110/layout/page_009/000_plain_text_0.98.png",
+    "text": "The picture shows a mine, a place where\nminerals are extracted by digging into the\nrock. The truck is at the ground level, but\nthe minerals are present both above and\nbelow the\nground level. There is a fast\nmoving lift which moves up and down in\na mineshaft carrying people and ore."
+}

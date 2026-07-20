@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9659963250160217,
+    "bbox": [
+        288.56536865234375,
+        2214.69580078125,
+        2085.44873046875,
+        2436.805419921875
+    ],
+    "image_path": "tmp_layout/page_009/001_plain_text_0.97.png",
+    "text": "Shape sequences are one\nimportant type of shape\nthat\ne pattern\nmathematicians study. Table 3 shows a few key shape\neseguences\nthat are studied in Mathematics."
+}

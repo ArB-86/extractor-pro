@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9700990915298462,
+    "bbox": [
+        420.1501770019531,
+        488.3648681640625,
+        2210.730224609375,
+        782.0813598632812
+    ],
+    "image_path": "cache_output/fegp110/layout/page_019/001_plain_text_0.97.png",
+    "text": "You can\nthink of 'credits'\nas positive numbers and \u2018debits'\nas negative\nnumbers. The total of all\nyour\ncredits\n(positive\ne numbers)\nand debits\n(negative\nnumbers)\nis\ntotal bank\naccount\nbalance. This\nyour\ncan\nbe\npositive or negative!"
+}

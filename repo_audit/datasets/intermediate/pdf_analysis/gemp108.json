@@ -1,0 +1,195 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/7th_maths/gemp108.pdf",
+  "sha256": "425e39fffee0715a81b20c950ac835210fa2ec072beb58b1c9ad1cc940565dd2",
+  "pages": 25,
+  "metadata": {
+    "format": "PDF 1.4",
+    "title": "Rational Numbers.pmd",
+    "author": "dtpcell07",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180412152835Z",
+    "modDate": "D:20180416113139+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 37,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 29,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 32,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 31,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 34,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 42,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 27,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 8,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 10,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    }
+  ]
+}

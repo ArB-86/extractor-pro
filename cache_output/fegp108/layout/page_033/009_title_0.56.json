@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "title",
+    "confidence": 0.5579326748847961,
+    "bbox": [
+        369.91705322265625,
+        435.4610595703125,
+        595.1983642578125,
+        488.7731018066406
+    ],
+    "image_path": "cache_output/fegp108/layout/page_033/009_title_0.56.png",
+    "text": "Construct"
+}

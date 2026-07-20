@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8969237804412842,
+    "bbox": [
+        419.538818359375,
+        724.8557739257812,
+        2210.541015625,
+        866.4851684570312
+    ],
+    "image_path": "cache_output/fegp104/layout/page_019/002_plain_text_0.90.png",
+    "text": "Finally, calculate\nthe heights of the bars\nfor various\ns items as\nshown below\n\u4e00"
+}

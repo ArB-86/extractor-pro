@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9556069374084473,
+    "bbox": [
+        400.84454345703125,
+        1451.1658935546875,
+        2084.959716796875,
+        1647.03564453125
+    ],
+    "image_path": "tmp_inspect/layout/page_009/002_plain_text_0.96.png",
+    "text": "9.\nFind\nl your own\npatterns or relations in and a\namong\nthe sequences\nin Table 1. Can you explain why they l\nhappen with a picture or\notherwise?"
+}

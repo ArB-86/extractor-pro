@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9604832530021667,
+    "bbox": [
+        529.1151123046875,
+        393.9313659667969,
+        2213.9658203125,
+        601.3222045898438
+    ],
+    "image_path": "cache_output/fegp102/layout/page_004/001_plain_text_0.96.png",
+    "text": "2.\nName\nthe line segments in Fig. 2.4. Which of the five marked\npoints are on exactly\ny one of the line segments? Which are on two\nof the line segments?"
+}

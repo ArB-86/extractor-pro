@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.7933048009872437,
+    "bbox": [
+        432.3883056640625,
+        709.9093627929688,
+        1053.180419921875,
+        796.3424682617188
+    ],
+    "image_path": "cache_output/fegp102/layout/page_002/008_title_0.79.png",
+    "text": "2\n2\nL\nS\negment\ne"
+}

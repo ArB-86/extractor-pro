@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.7617409825325012,
+    "bbox": [
+        428.5378112792969,
+        2895.26953125,
+        1858.8052978515625,
+        3081.76708984375
+    ],
+    "image_path": "cache_output/fegp103/layout/page_030/006_plain_text_0.76.png",
+    "text": "How\nmany students\nare there in\nyour\nschool?\nHow\nhours\ndoes a person\nsleep\nin\nhis\nlifetime on\nmany\nan\naverage?\n(More such\nquestions\nbe made)\ncan"
+}

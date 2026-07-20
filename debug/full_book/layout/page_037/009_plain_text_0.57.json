@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5677205324172974,
+    "bbox": [
+        444.3681945800781,
+        2008.0521240234375,
+        2101.58203125,
+        2139.35888671875
+    ],
+    "image_path": "debug/full_book/layout/page_037/009_plain_text_0.57.png",
+    "text": "(e)20,90,800:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8927682638168335,
+    "bbox": [
+        395.7063903808594,
+        491.2896423339844,
+        2187.2412109375,
+        623.1548461914062
+    ],
+    "image_path": "cache_output/gegp102/layout/page_031/002_plain_text_0.89.png",
+    "text": "1. Fill in the blanks with numbers, and boxes with operation signs such\nthat the expressions on both sides are equal."
+}

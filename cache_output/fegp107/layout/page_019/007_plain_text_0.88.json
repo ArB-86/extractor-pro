@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8795657753944397,
+    "bbox": [
+        292.7599182128906,
+        2522.876953125,
+        831.5955810546875,
+        2586.5693359375
+    ],
+    "image_path": "cache_output/fegp107/layout/page_019/007_plain_text_0.88.png",
+    "text": "Mukta: You will \nsee!"
+}

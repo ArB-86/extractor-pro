@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9511623382568359,
+    "bbox": [
+        423.93731689453125,
+        769.7205810546875,
+        2080.831298828125,
+        898.4276123046875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/006_plain_text_0.95.png",
+    "text": "This task calls for providing a fertile environment that allows for\nthe flowering of mathematical thinking in the minds of students."
+}

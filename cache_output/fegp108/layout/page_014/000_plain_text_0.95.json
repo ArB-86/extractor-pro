@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9472419619560242,
+    "bbox": [
+        521.0667724609375,
+        389.1598205566406,
+        2212.70947265625,
+        535.4093017578125
+    ],
+    "image_path": "cache_output/fegp108/layout/page_014/000_plain_text_0.95.png",
+    "text": "One\nis to visualise\ne the f\nfinal figure\nby\ndrawing\nway\n a rough\ndiagram of it."
+}

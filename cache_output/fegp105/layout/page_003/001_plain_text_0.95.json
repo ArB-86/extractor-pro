@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9527909755706787,
+    "bbox": [
+        291.0873107910156,
+        2793.541748046875,
+        2084.598876953125,
+        2935.720947265625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_003/001_plain_text_0.95.png",
+    "text": "Will Jumpy land on both the treasures? Starting\nfrom O, he jumps\nto 7 \u2192 14 \u2192 21 \u2192 28 \u2192 35 \u2192 42 ... We see that he landed on 14 but"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8980782628059387,
+    "bbox": [
+        295.3559265136719,
+        397.04913330078125,
+        1318.0311279296875,
+        456.45770263671875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_021/000_plain_text_0.90.png",
+    "text": "Ans.\nNo; the tallest child at the end c\ncannot say1."
+}

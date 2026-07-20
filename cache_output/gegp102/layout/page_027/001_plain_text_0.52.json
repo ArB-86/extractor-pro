@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.5240005850791931,
+    "bbox": [
+        401.67974853515625,
+        1979.4781494140625,
+        2086.434326171875,
+        2757.323974609375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_027/001_plain_text_0.52.png",
+    "text": "(a) 28 - 7 + 8\nTerms: 28, - 7, and 8\nValue: 29\n(b) 39 - 2 \u00d7 6 + 11\nTerms: 39, - 2 \u00d7 6 and 11\nValue: 38\n(c) 40 - 10 + 10 + 10 = 40 + (-10) + 10 + 10\nTerms: 40, - 10, 10 and 10\nValue: 50\n(d) 48 - 10 \u00d7 2 + 16 \u00f7 2 = 48 + (- 10 \u00d7 2) + (16 \u00f7 2)\nTerms: 48, - 10 \u00d7 2, 16 \u00f7 2\nValue: 36\n(e) 6 \u00d7 3 -4 \u00d7 8 \u00d7 5 =(6 \u00d7 3) + (- 4 \u00d7 8 \u00d7 5)\nTerms: 6 x 3, 4 \u00d7 8 \u00d7 5\nValue: - 142"
+}

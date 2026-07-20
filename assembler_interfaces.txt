@@ -1,0 +1,560 @@
+==============================
+FILE: src/question/models.py
+==============================
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from enum import Enum
+
+
+class QuestionType(str, Enum):
+
+    UNKNOWN = "unknown"
+    MCQ = "mcq"
+    SHORT = "short"
+    LONG = "long"
+    FILL = "fill"
+    TRUE_FALSE = "true_false"
+    ASSERTION_REASON = "assertion_reason"
+    CASE_STUDY = "case_study"
+    PROOF = "proof"
+    CONSTRUCTION = "construction"
+    HOTS = "hots"
+    ACTIVITY = "activity"
+
+
+@dataclass(slots=True)
+class QuestionContext:
+
+    chapter: str | None = None
+
+    exercise: str | None = None
+
+    topic: str | None = None
+
+    subtopic: str | None = None
+
+    page: int | None = None
+
+
+@dataclass(slots=True)
+class QuestionCandidate:
+
+    number: str
+
+    text: str
+
+    qtype: QuestionType = QuestionType.UNKNOWN
+
+    context: QuestionContext = field(
+        default_factory=QuestionContext
+    )
+
+    confidence: float = 1.0
+
+    metadata: dict = field(
+        default_factory=dict
+    )
+
+==============================
+FILE: src/question/v2/state.py
+==============================
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+
+
+@dataclass(slots=True)
+class ParserState:
+
+    chapter: str | None = None
+
+    chapter_number: int | None = None
+
+    exercise: str | None = None
+
+    section: str | None = None
+
+    page: int = 0
+
+    region_index: int = 0
+
+    question_number: str | None = None
+
+    subquestion: str | None = None
+
+    inside_example: bool = False
+
+    inside_activity: bool = False
+
+    inside_miscellaneous: bool = False
+
+    inside_figure_it_out: bool = False
+
+    inside_summary: bool = False
+
+    inside_solution: bool = False
+
+    inside_answer: bool = False
+
+    metadata: dict = field(default_factory=dict)
+
+    def reset_question(self):
+
+        self.question_number = None
+
+        self.subquestion = None
+
+        self.inside_solution = False
+
+        self.inside_answer = False
+
+    def next_region(self):
+
+        self.region_index += 1
+
+==============================
+FILE: src/question/v2/context.py
+==============================
+from __future__ import annotations
+
+import re
+
+from src.question.v2.state import ParserState
+from src.question.rules import RuleEngine
+
+
+class ContextManager:
+
+    def __init__(self):
+
+        self.rules = RuleEngine()
+
+        self.state = ParserState()
+
+    def update(self, region):
+
+        if region.page != self.state.page:
+
+            self.state.page = region.page
+
+            self.state.region_index = 0
+
+        else:
+
+            self.state.page = region.page
+
+        text = " ".join(
+            (region.text or "").split()
+        )
+
+        result = self.rules.analyze(text)
+
+        block = result.block_type
+
+        if (
+            region.label == "plain_text"
+            and text.lower().startswith("section ")
+        ):
+            self.state.section = text
+            return self.state
+
+        if (
+            region.label == "title"
+            and text.lower().startswith("figure it out")
+        ):
+            self.state.inside_figure_it_out = True
+            return self.state
+
+        if (
+            region.label == "title"
+            and text.lower().startswith("summary")
+        ):
+            self.state.inside_summary = True
+            return self.state
+
+        # Updated chapter/section logic
+        if block == "chapter":
+
+            self.state.chapter = " ".join(text.split())
+            self.state.reset_question()
+
+        elif (
+            region.label == "title"
+            and re.match(r"^\d+\.\d+\s+[A-Za-z]", text)
+        ):
+
+            # FIX: This is a section, NOT a chapter
+            self.state.section = text
+            self.state.reset_question()
+
+        elif block == "exercise":
+
+            exercise = region.text.strip()
+
+            if exercise != self.state.exercise:
+
+                self.state.exercise = " ".join(
+                    exercise.split()
+                )
+
+                self.state.reset_question()
+
+        self.state.inside_example = (
+            block == "example"
+        )
+
+        self.state.inside_activity = (
+            block == "activity"
+        )
+
+        self.state.inside_miscellaneous = (
+            block == "misc"
+        )
+
+        self.state.inside_figure_it_out = (
+            block == "figure_it_out"
+        )
+
+        self.state.inside_summary = (
+            block == "summary"
+        )
+
+        self.state.metadata["last_block"] = block
+
+        self.state.next_region()
+
+        return self.state
+
+==============================
+FILE: src/question/v2/numbering.py
+==============================
+import re
+from src.question.v2.state import ParserState
+
+
+class NumberingDetector:
+
+    # FIX: Require [.)] after digits
+    QUESTION = re.compile(
+        r"""
+        ^
+        \s*
+        (?:
+            Question\s+
+          | Q\.?\s*
+        )?
+        (\d+)
+        [.)]
+        \s+
+        """,
+        re.I | re.X,
+    )
+
+    SUBQUESTION = re.compile(
+        r"^\s*(\([a-z]\)|\([ivxlcdm]+\)|[a-z][.)]|[ivxlcdm]+[.)])",
+        re.IGNORECASE,
+    )
+
+    OPTION = re.compile(
+        r"^\s*\([A-D]\)",
+        re.IGNORECASE,
+    )
+
+    def detect(
+        self,
+        text: str,
+        state: ParserState,
+    ) -> ParserState:
+
+        # FIX: Skip section titles like "1.4 Relations..."
+        if re.match(r"^\d+\.\d+\s+[A-Za-z]", text):
+            return state
+
+        # Ignore option lines (they are not new questions or subquestions)
+        if re.match(r"^\s*\([A-D]\)", text, re.I):
+            return state
+
+        # Try to match a main question number
+        m = self.QUESTION.match(text)
+        if m:
+            state.question_number = m.group(1).strip()
+            state.subquestion = None
+            return state
+
+        # Try to match a subquestion (a), (i), 1., etc.
+        m = self.SUBQUESTION.match(text)
+        if m:
+            state.subquestion = m.group(1)
+            return state
+
+        # Detect if this is an option (A), (B), etc.
+        if self.OPTION.match(text):
+            state.metadata["option"] = True
+
+        return state
+
+==============================
+FILE: src/question/v2/extractor.py
+==============================
+from __future__ import annotations
+
+from src.document.document import Document
+
+from src.question.v2.context import ContextManager
+from src.question.v2.numbering import NumberingDetector
+from src.question.v2.boundary import BoundaryDetector
+from src.question.v2.assembler import QuestionAssembler
+from src.question.v2.classifier import QuestionClassifier
+from src.question.v2.validator import QuestionValidator
+from src.question.v2.converter import CandidateConverter
+
+
+class QuestionExtractorV2:
+
+    def __init__(self):
+
+        self.context = ContextManager()
+
+        self.numbering = NumberingDetector()
+
+        self.boundary = BoundaryDetector()
+
+        self.assembler = QuestionAssembler()
+
+        self.classifier = QuestionClassifier()
+
+        self.validator = QuestionValidator()
+        self.converter = CandidateConverter()
+
+    def extract(self, document: Document):
+
+        state = self.context.state
+
+        for region in document.regions:
+
+            if not region.text:
+                continue
+
+            text = region.text.strip()
+
+            state = self.context.update(region)
+
+            state = self.numbering.detect(
+                text,
+                state,
+            )
+
+            if state.inside_summary:
+                continue
+
+            if (
+                state.inside_example
+                or state.inside_activity
+            ):
+                continue
+
+            if self.boundary.is_new_question(
+                text,
+                state,
+            ):
+
+                self.assembler.consume(
+                    text,
+                    state,
+                )
+
+                continue
+
+            if self.boundary.is_continuation(
+                text,
+            ):
+
+                self.assembler.consume(
+                    text,
+                    state,
+                )
+
+        questions = self.assembler.finalize()
+
+        print(f"[QuestionExtractor] assembled {len(questions)} candidates")
+
+        questions = self.classifier.classify(
+            questions,
+        )
+
+        questions = self.validator.validate(
+            questions,
+        )
+
+        questions = self.converter.convert(
+            questions,
+        )
+
+        print(f"[QuestionExtractor] converted {len(questions)} questions")
+
+        return questions
+
+==============================
+FILE: src/question/v2/assembler.py
+==============================
+from __future__ import annotations
+
+import re
+from src.question.models import (
+    QuestionCandidate,
+    QuestionContext,
+)
+from src.question.v2.state import ParserState
+
+
+class QuestionAssembler:
+
+    OPTION_PATTERN = re.compile(
+        r"^\s*\([A-D]\)",
+        re.IGNORECASE,
+    )
+
+    ROMAN_PATTERN = re.compile(
+        r"^\s*\([ivxlcdm]+\)",
+        re.IGNORECASE,
+    )
+
+
+    def __init__(self):
+
+        self.current = None
+
+        self.questions = []
+
+    def consume(
+        self,
+        text: str,
+        state: ParserState,
+    ):
+
+        text = text.strip()
+
+        if not text:
+            return
+
+        # FIX: Flush current question if chapter or exercise changed
+        if (
+            self.current
+            and (
+                self.current.context.chapter != state.chapter
+                or self.current.context.exercise != state.exercise
+            )
+        ):
+            self.questions.append(self.current)
+            self.current = None
+
+        if state.question_number:
+
+            if (
+                self.current
+                and self.current.number != state.question_number
+            ):
+
+                self.questions.append(
+                    self.current
+                )
+
+                self.current = None
+
+            if self.current is None:
+
+                cleaned = re.sub(
+                    r"^\s*\d+[.)]\s+",
+                    "",
+                    text,
+                )
+
+                self.current = QuestionCandidate(
+                    number=state.question_number,
+                    text=cleaned,
+                    context=QuestionContext(
+                        chapter=state.chapter,
+                        exercise=state.exercise,
+                        page=state.page,
+                    ),
+                )
+
+            else:
+
+                # FIX: Avoid duplicate text
+                if text not in self.current.text:
+                    self.current.text += "\n" + text
+
+        elif self.current:
+
+            if (
+                self.OPTION_PATTERN.match(text)
+                or self.ROMAN_PATTERN.match(text)
+                or re.match(
+                    r"^\s*(\([a-z]\)|[a-z][.)])",
+                    text,
+                    re.I,
+                )
+            ):
+
+                text = re.sub(
+                    r"\s+([.,;:!?])",
+                    r"\1",
+                    text,
+                )
+
+                text = re.sub(
+                    r"\s+([.,;:!?])",
+                    r"\1",
+                    text,
+                )
+
+                self.current.text += "\n" + text
+
+                self.current.metadata.setdefault(
+                    "option_count",
+                    0,
+                )
+
+                self.current.metadata["option_count"] += 1
+
+            elif self.ROMAN_PATTERN.match(text):
+
+                self.current.text += "\n" + text
+
+            elif (
+                "=" in text
+                or "×" in text
+                or "+" in text
+                or "-" in text
+                or "/" in text
+                or len(text.split()) < 4
+                or len(text) < 20
+            ):
+
+                self.current.text += " " + text
+
+            else:
+
+                self.current.text += "\n" + text
+
+        # FIX: Remove OCR tags from current question text
+        if self.current and self.current.text:
+            self.current.text = re.sub(
+                r"OCR\([^)]*\)",
+                "",
+                self.current.text,
+            )
+
+    def finalize(self):
+
+        if self.current:
+
+            self.questions.append(
+                self.current
+            )
+
+            self.current = None
+
+        return self.questions

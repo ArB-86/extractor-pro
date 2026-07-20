@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8955254554748535,
+    "bbox": [
+        280.5894470214844,
+        1139.945556640625,
+        1922.057861328125,
+        1207.2254638671875
+    ],
+    "image_path": "cache_output/gegp101/layout/page_011/005_plain_text_0.90.png",
+    "text": "Similarly, write the five nearest neighbours for these numbers:"
+}

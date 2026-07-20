@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9242156147956848,
+    "bbox": [
+        420.48309326171875,
+        1838.32177734375,
+        1295.8568115234375,
+        1906.99951171875
+    ],
+    "image_path": "tmp_run/layout/page_006/004_plain_text_0.92.png",
+    "text": "This is a really l\nbeautiful\npattern!"
+}

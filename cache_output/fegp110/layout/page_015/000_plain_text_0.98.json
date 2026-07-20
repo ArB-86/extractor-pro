@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9838905930519104,
+    "bbox": [
+        417.7470703125,
+        626.752197265625,
+        2209.708740234375,
+        1073.014404296875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_015/000_plain_text_0.98.png",
+    "text": "In Bela's Building\ng of Fun, the lift attendant is bored. To entertain\nhimself, he keeps a box containing\nlotsof p\npositive\n(green)\nand\na positive token from the box and\nputs it in his\ns pocket. Similarly,\neach time he presses the \u2018-' button, he takes a negative token and\nputs it in his pocket."
+}

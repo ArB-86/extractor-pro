@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7459456324577332,
+    "bbox": [
+        342.7673034667969,
+        2499.40576171875,
+        2084.06396484375,
+        2638.391845703125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_028/007_plain_text_0.75.png",
+    "text": "Addition can also be interpreted as the combination of movements or\nincreases/decreases: Movement 1 + Movement 2 = Total Movement."
+}

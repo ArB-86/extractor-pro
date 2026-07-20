@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6408507227897644,
+    "bbox": [
+        660.1932373046875,
+        2753.05810546875,
+        2203.19482421875,
+        2823.337646484375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_002/005_plain_text_0.64.png",
+    "text": "the symmetries thatyou see in these beautiful structures?\naret"
+}

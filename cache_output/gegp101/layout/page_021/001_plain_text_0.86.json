@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8628719449043274,
+    "bbox": [
+        379.4234619140625,
+        1001.6798095703125,
+        2092.051513671875,
+        1122.4329833984375
+    ],
+    "image_path": "cache_output/gegp101/layout/page_021/001_plain_text_0.86.png",
+    "text": "11. Find out how many\n coins should be stacked to match the height of\nthe Statue of Unity. Assume each coin is 1 mm thick."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9682350158691406,
+    "bbox": [
+        291.99188232421875,
+        2508.7265625,
+        1405.6580810546875,
+        2728.109375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_017/000_plain_text_0.97.png",
+    "text": "Consider a rectangle PQRS. Join PR and QS.\nThese\nlines\ncalled\nthe\ndiagonals\ntwo\nare\nof the rectangle."
+}

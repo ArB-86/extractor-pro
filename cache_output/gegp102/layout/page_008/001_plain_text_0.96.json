@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9630679488182068,
+    "bbox": [
+        378.5047302246094,
+        846.221435546875,
+        2088.89208984375,
+        1081.3155517578125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/001_plain_text_0.96.png",
+    "text": "Now\nlet\nconsider\nhaving\nmultiplication\nand division\nus\nexpressions\nalso,\nwithout\nthe\norder\nof\noperations\nspecified 1\nby\nthe\nbrackets. The\nvalues\nfound\nby\nfirst\nevaluating\nof\nsuch\nexpressions\nare\nthe\nterms.\nOnce all the terms\nare evaluated, t\nthey\nare added."
+}

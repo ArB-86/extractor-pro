@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5916039943695068,
+    "bbox": [
+        484.3222351074219,
+        1433.2113037109375,
+        923.7540893554688,
+        1487.176513671875
+    ],
+    "image_path": "cache_output/fegp109/layout/page_037/010_plain_text_0.59.png",
+    "text": "(i) 3 Angles of Symmetry"
+}

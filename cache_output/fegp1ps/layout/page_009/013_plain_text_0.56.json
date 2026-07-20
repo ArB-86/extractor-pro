@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.5574692487716675,
+    "bbox": [
+        444.9803466796875,
+        1771.263671875,
+        1775.3846435546875,
+        1838.7496337890625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/013_plain_text_0.56.png",
+    "text": "9.\nMichel Danino, Visiting\n Professor, HT-Gandhinagar"
+}

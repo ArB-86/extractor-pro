@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.964633047580719,
+    "bbox": [
+        376.9353942871094,
+        2617.5224609375,
+        2087.14404296875,
+        2736.86962890625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/004_plain_text_0.96.png",
+    "text": "What happens to the value of an expression if we increase or decrease\nthe value of one of its terms?"
+}

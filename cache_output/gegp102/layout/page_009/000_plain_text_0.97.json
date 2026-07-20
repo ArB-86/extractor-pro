@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9662644267082214,
+    "bbox": [
+        311.4439697265625,
+        1535.37646484375,
+        2090.866455078125,
+        1782.2366943359375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/000_plain_text_0.97.png",
+    "text": "\uff1f\nExample 8: Children\nin a class\nplaying\n \u201cFire in\nthe\nmountain, run,\nare\nrun,\nrun!\".\nWhenever\nthe\nteacher\ncalls\nout\nnumber,\nstudents\na\nare\nto\narrange themselves\nin\ngroups of that number. Whoever\nsupposed\niS\nnot\npart of the\nannounced\ngroup\nsize, is\nout."
+}

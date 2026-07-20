@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "title",
+    "confidence": 0.873133659362793,
+    "bbox": [
+        291.0963439941406,
+        671.629638671875,
+        2084.1240234375,
+        814.2797241210938
+    ],
+    "image_path": "cache_output/fegp107/layout/page_031/002_title_0.87.png",
+    "text": "Subtraction of fractions with different f\nfractional\nunits\nor\ndenominators"
+}

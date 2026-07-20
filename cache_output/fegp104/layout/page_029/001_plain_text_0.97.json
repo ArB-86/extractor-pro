@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9668739438056946,
+    "bbox": [
+        418.71728515625,
+        1823.8203125,
+        2209.955810546875,
+        2042.2589111328125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_029/001_plain_text_0.97.png",
+    "text": "Below is a column\ngraph for our table of tallest mountains. From\nthis column\ngraph, it becomes easier to compare and visualise the\nheights of the mountains."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.5813804268836975,
+    "bbox": [
+        294.5852966308594,
+        1203.918701171875,
+        702.21630859375,
+        1268.0118408203125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_027/000_plain_text_0.58.png",
+    "text": "P\nage\nNo.\n34\n35"
+}

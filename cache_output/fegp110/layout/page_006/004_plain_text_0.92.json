@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9215236902236938,
+    "bbox": [
+        287.25445556640625,
+        396.059814453125,
+        1856.1998291015625,
+        528.1709594726562
+    ],
+    "image_path": "cache_output/fegp110/layout/page_006/004_plain_text_0.92.png",
+    "text": "Floor +3 is lower\nthan Floor +4. So, We write +3 < +4. We\nalso write +4 > +3."
+}

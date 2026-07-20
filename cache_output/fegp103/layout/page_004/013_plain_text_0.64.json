@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.641038179397583,
+    "bbox": [
+        502.3898010253906,
+        808.283203125,
+        2069.6044921875,
+        951.1104125976562
+    ],
+    "image_path": "cache_output/fegp103/layout/page_004/013_plain_text_0.64.png",
+    "text": "8\u3002\nFill a table such that the cell having the second largest number\nis not a supercell."
+}

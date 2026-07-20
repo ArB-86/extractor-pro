@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9510246515274048,
+    "bbox": [
+        376.24395751953125,
+        2785.681396484375,
+        2092.29736328125,
+        2971.614990234375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_014/000_plain_text_0.95.png",
+    "text": "4.\nIn each of the\nbelow,identify\ne sets of\nexpressions\nthose\nthat\nhave the same value. Do not evaluate them, but rather use\nyour\nunderstanding of terms."
+}

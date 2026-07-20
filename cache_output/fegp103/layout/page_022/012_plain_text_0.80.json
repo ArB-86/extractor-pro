@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.80278480052948,
+    "bbox": [
+        297.4004211425781,
+        2854.443603515625,
+        2110.44140625,
+        2914.541259765625
+    ],
+    "image_path": "cache_output/fegp103/layout/page_022/012_plain_text_0.80.png",
+    "text": "Q8. Fill a table such that the cell having the second largest number is not a supercell."
+}

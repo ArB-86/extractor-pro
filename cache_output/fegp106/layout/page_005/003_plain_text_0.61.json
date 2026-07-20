@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6089434623718262,
+    "bbox": [
+        482.7657775878906,
+        834.6624145507812,
+        1893.4793701171875,
+        1282.8017578125
+    ],
+    "image_path": "cache_output/fegp106/layout/page_005/003_plain_text_0.61.png",
+    "text": "Akshi a\nand'\nToshi start running\nalong\nthe\ne rectangular\ntracks\nshown\nin\nthe\nfigure. Akshi\nalong\nthe\n as\nruns\nouter track and completes 5 rounds. Toshi runs\nalong\nthe\ninner\ntrack\n and\ncompletes\n7\nrounds. Now, t\nthey\nwondering\nwho\nran more. Find\nl out who\nthe\nare\nran\nlonger\ndistance."
+}

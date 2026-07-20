@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.962275505065918,
+    "bbox": [
+        578.5366821289062,
+        2234.865234375,
+        2035.348876953125,
+        2390.63525390625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_013/006_plain_text_0.96.png",
+    "text": "Rather than simply\nI remembering rules for when to change the sign and\nwhen not to, you can\nfigure it out for yourself by t\nthinking about the\nmeanings of the expressions."
+}

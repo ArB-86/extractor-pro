@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.936253011226654,
+    "bbox": [
+        295.188232421875,
+        1139.1986083984375,
+        1451.997802734375,
+        1224.518310546875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_007/006_title_0.94.png",
+    "text": "3.5 Pretty\nPalindromic Patterns"
+}

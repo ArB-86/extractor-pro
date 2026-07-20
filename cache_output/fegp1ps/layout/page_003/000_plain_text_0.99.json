@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9855688214302063,
+    "bbox": [
+        420.66986083984375,
+        562.42236328125,
+        2086.144775390625,
+        1494.1397705078125
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_003/000_plain_text_0.99.png",
+    "text": "The National Education Policy (NEP) 2020 envisages a system of\neducation in the country that is rooted in Indian ethos and its\ncivilisational accomplishments in all domains of human endeavour\nand knowledge, while at the same time preparing the students to\nconstructively engage with the prospects and challenges of the\ntwenty-first century. The basis for this aspirational vision has been well\nlaid out by the National Curriculum Framework for School Education\n(NCFSE) 2023 across curricular areas at all stages. Nurturing the\nstudents' inherent abilities touching upon all the five planes of human\nexistence, the panchakoshas, in the Foundational and the Preparatory\nStages has paved the way for the progression of their learning further\nat the Middle Stage. The Middle Stage acts as a bridge between the\n        \nGrade 6 to 8."
+}

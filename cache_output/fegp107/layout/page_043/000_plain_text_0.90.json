@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.8959318399429321,
+    "bbox": [
+        294.6763610839844,
+        850.6650390625,
+        2190.202392578125,
+        1037.928466796875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_043/000_plain_text_0.90.png",
+    "text": "Q1. Three rotis are shared equally by four children. Show the division in the picture and\nwrite a fraction for how much each child gets. Also, write the corresponding division\nfacts, addition facts, and, multiplication facts."
+}

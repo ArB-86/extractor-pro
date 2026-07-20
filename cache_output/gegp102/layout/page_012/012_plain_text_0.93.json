@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9288526177406311,
+    "bbox": [
+        444.2444763183594,
+        1346.89306640625,
+        1926.9639892578125,
+        1409.0943603515625
+    ],
+    "image_path": "cache_output/gegp102/layout/page_012/012_plain_text_0.93.png",
+    "text": "What we did here was 200 - 40 - 3. Notice, that we did not do"
+}

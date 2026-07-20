@@ -1,0 +1,356 @@
+{
+  "file": "/home/jiitcah.05/nlp_research_module/datasets/exemplar_raw/7th_maths/gemp109.pdf",
+  "sha256": "2406523cb5a469e0192819e3bb8f52618dd01302e1ecd3c9da0fb3635a813064",
+  "pages": 48,
+  "metadata": {
+    "format": "PDF 1.3",
+    "title": "Perimeter and Area.pmd",
+    "author": "dtpcell07",
+    "subject": "",
+    "keywords": "",
+    "creator": "PageMaker 7.0",
+    "producer": "GPL Ghostscript 8.15",
+    "creationDate": "D:20180412153302Z",
+    "modDate": "D:20180416112944+05'30'",
+    "trapped": "",
+    "encryption": null
+  },
+  "page_info": [
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 24,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 30,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 12,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 19,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 22,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 3
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 21,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 15,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 0
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 0
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 0
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 26,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 8
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 9,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 7,
+      "images": 6
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 13,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 11,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 16,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 20,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 18,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 17,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 14,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 5,
+      "images": 2
+    },
+    {
+      "width": 630.0,
+      "height": 820.7999877929688,
+      "rotation": 0,
+      "text_blocks": 5,
+      "images": 2
+    }
+  ]
+}

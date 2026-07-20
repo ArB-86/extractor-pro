@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.6491833329200745,
+    "bbox": [
+        294.56341552734375,
+        1104.5535888671875,
+        1706.3634033203125,
+        1166.328857421875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_023/008_plain_text_0.65.png",
+    "text": "Q.2. If the game is played for the numbers from 1 till 90, find out:"
+}

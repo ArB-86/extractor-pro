@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9335708022117615,
+    "bbox": [
+        289.1643981933594,
+        2161.09228515625,
+        2087.92236328125,
+        2378.439697265625
+    ],
+    "image_path": "cache_output/fegp106/layout/page_019/000_plain_text_0.93.png",
+    "text": "What are\nthe dimensions of all the different rooms\nin Sharan's\nhouse? Compare the areas and\nperimeters of Sharan's house and\nCharan's house."
+}

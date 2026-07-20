@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9726244807243347,
+    "bbox": [
+        419.575927734375,
+        2130.305908203125,
+        1085.3284912109375,
+        2567.447998046875
+    ],
+    "image_path": "cache_output/fegp105/layout/page_012/001_plain_text_0.97.png",
+    "text": "Here,\nfour\nyou\nsee\ndifferent\nways\nto\nget\nprime factorisation of 36.\nObserve\nthat in all\nfour\ncases, we\nget two 2s and\ntwo 3s."
+}

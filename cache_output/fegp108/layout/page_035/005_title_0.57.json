@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "title",
+    "confidence": 0.5693954229354858,
+    "bbox": [
+        296.9388732910156,
+        365.6883544921875,
+        817.6395263671875,
+        421.81396484375
+    ],
+    "image_path": "cache_output/fegp108/layout/page_035/005_title_0.57.png",
+    "text": "Q.4. Square with a Hole"
+}

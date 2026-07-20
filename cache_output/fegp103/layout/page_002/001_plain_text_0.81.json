@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8068819642066956,
+    "bbox": [
+        530.8086547851562,
+        1917.520751953125,
+        2090.8720703125,
+        2834.50048828125
+    ],
+    "image_path": "cache_output/fegp103/layout/page_002/001_plain_text_0.81.png",
+    "text": "1. Can the children rearrange themselves so that the children\nstanding at the ends say '2'?\n2. Can we arrange the children in a line so that all would say\nonly Os?\n3. Can two children standing next to each other say the same\nnumber?\n4. There are 5 children in a group, all of different heights. Can\nthey stand such that four of them say \u20181' and the last one says\nO'? Why or why not?\n5. For this group of5 children, is the sequence 1, 1, 1, 1, 1 possible?\n6. Is the sequence 0, 1, 2, 1, 0 possible? Why or why not?\n  o    n o m g\nmaximum number of children say '2'?"
+}

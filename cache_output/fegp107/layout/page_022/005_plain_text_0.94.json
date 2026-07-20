@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9409294128417969,
+    "bbox": [
+        416.5598449707031,
+        396.2768859863281,
+        2210.721923828125,
+        536.6055297851562
+    ],
+    "image_path": "cache_output/fegp107/layout/page_022/005_plain_text_0.94.png",
+    "text": "Find equivalent fractions for the given pairs of fractions such that the\nfractional units are the same."
+}

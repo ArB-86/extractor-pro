@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.831896960735321,
+    "bbox": [
+        490.951904296875,
+        773.547119140625,
+        1367.2384033203125,
+        839.786865234375
+    ],
+    "image_path": "cache_output/fegp110/layout/page_017/011_plain_text_0.83.png",
+    "text": "We conclude that\nt (+5)-(+6)\n=-1."
+}

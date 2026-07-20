@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8477501273155212,
+    "bbox": [
+        532.1812744140625,
+        1867.0552978515625,
+        1839.3533935546875,
+        2006.95849609375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_008/001_plain_text_0.85.png",
+    "text": "3.\nHere are some\nquestions on\npaper cutting.\nConsider a vertical fold. We represent it this way:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7266262173652649,
+    "bbox": [
+        524.3027954101562,
+        1585.5340576171875,
+        2208.943359375,
+        1655.822509765625
+    ],
+    "image_path": "cache_output/fegp108/layout/page_028/005_plain_text_0.73.png",
+    "text": "Can we use the fact that A is of distance 5 cm from both B and c?"
+}

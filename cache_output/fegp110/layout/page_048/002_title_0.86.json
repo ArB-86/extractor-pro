@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "title",
+    "confidence": 0.8556830286979675,
+    "bbox": [
+        293.7492370605469,
+        1356.0570068359375,
+        2188.285400390625,
+        1483.1688232421875
+    ],
+    "image_path": "cache_output/fegp110/layout/page_048/002_title_0.86.png",
+    "text": "Q. In the other exercises that you did above, did you notice that subtracting a negative\nnumber was the same as adding the corresponding positive number?"
+}

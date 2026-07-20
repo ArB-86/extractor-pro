@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9334117770195007,
+    "bbox": [
+        292.047119140625,
+        469.7978515625,
+        2086.4462890625,
+        680.5439453125
+    ],
+    "image_path": "cache_output/fegp110/layout/page_008/000_plain_text_0.93.png",
+    "text": "Recall the connection between addition and subtraction. For 3 + ?= 5,\nfind the missing\nnumber using\nsubtraction: 5-3=2. That is,\nwecan\nsubtraction is the same as finding the missing\n number to be added."
+}

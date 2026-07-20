@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.8593717813491821,
+    "bbox": [
+        418.4165954589844,
+        396.4276123046875,
+        2209.759765625,
+        539.649169921875
+    ],
+    "image_path": "cache_output/fegp107/layout/page_030/002_title_0.86.png",
+    "text": "Subtraction of fractions with the\nfractional\nsame\nunit\nor\ndenominator"
+}

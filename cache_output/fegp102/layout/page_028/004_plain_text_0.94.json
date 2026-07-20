@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.940184473991394,
+    "bbox": [
+        518.074462890625,
+        476.0492858886719,
+        2210.693603515625,
+        618.2890625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_028/004_plain_text_0.94.png",
+    "text": "In Fig. 2.19, We have AOB = ZBOC = ZCOD = ZDOE = ZEOF = ZFOG =\nZGOH=ZHOI=\nWhy?"
+}

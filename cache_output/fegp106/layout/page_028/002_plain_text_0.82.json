@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8194593787193298,
+    "bbox": [
+        441.6558532714844,
+        1739.5328369140625,
+        705.1370239257812,
+        1982.19677734375
+    ],
+    "image_path": "cache_output/fegp106/layout/page_028/002_plain_text_0.82.png",
+    "text": "30 sq cm.\na. 3\nb. 9 sq cm.\n16 sq cm.\nC.\nd. 5 cm."
+}

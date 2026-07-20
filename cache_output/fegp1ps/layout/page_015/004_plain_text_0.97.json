@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9739863872528076,
+    "bbox": [
+        421.1094055175781,
+        500.07220458984375,
+        2084.106201171875,
+        764.6575927734375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_015/004_plain_text_0.97.png",
+    "text": "We hope\nthat this\n: book, Ganita Prakash,\n,Will\nserve as a strong\nsupport\nand\nguide to\nin\nachieving\nthe\nexciting\ntask\nthat\nyou\nhave\nbefore\nyou\nthat\nof\npassing\nthe\njoy\nI of\nlearning\nthe\nbeautiful\nsubject\non\nof\nyou: t\nmathematics to the\nenext\ngeneration."
+}

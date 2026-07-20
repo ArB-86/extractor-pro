@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7215325236320496,
+    "bbox": [
+        505.633056640625,
+        2139.2646484375,
+        2049.13134765625,
+        2208.04931640625
+    ],
+    "image_path": "cache_output/fegp107/layout/page_002/007_plain_text_0.72.png",
+    "text": "also sometimes refer to fractional units as \u2018unit fractions"
+}

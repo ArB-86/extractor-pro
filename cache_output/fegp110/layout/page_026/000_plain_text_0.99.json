@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9850432872772217,
+    "bbox": [
+        293.4686279296875,
+        1073.215576171875,
+        2086.483642578125,
+        1665.4088134765625
+    ],
+    "image_path": "cache_output/fegp110/layout/page_026/000_plain_text_0.99.png",
+    "text": "The first generaltreatmentofpositive numbers, negative numbers,\nand zero\u2014all on an equal footing as equally-valid numbers on\nwhich one can perform the basic operations of addition, subtraction,\n       \nhis Brahma-sphuta-siddhanta in the year 628 CE. Brahmagupta gave\nclear and explicit rules for operations on all numbers\u2014positive,\nnegative, and zero\u2014that essentially formed the modern way of\nunderstanding these numbers that we still use today!"
+}

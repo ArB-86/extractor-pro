@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9809515476226807,
+    "bbox": [
+        420.5539855957031,
+        1212.42236328125,
+        2082.85791015625,
+        1853.180419921875
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_005/002_plain_text_0.98.png",
+    "text": "Mathematics at the Middle Stage is a major challenge and has\nto perform the dual role of being both close to the experience and\nenvironment of the child and being abstract. It must perform the dual\nrole of developing intuition while also maintaining and emphasising\nrigour. It must perform the dual role of enhancing critical and logical\nthinking while also developing artistry and creativity and a sense of\nelegance and aesthetics. Finally, Mathematics must perform the dual\nrole of providing students plenty of opportunities for exploration and\ndiscovery of concepts on their own while also teaching best-known\nmethods in the global repertoire of mathematics."
+}

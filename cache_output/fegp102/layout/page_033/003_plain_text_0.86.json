@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8605380058288574,
+    "bbox": [
+        483.4747619628906,
+        1395.1551513671875,
+        2088.234375,
+        1611.881103515625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_033/003_plain_text_0.86.png",
+    "text": "Is it\npossible\nto\nexpress\nthe\namount\nby\nwhich\na\ndoor\niS\nopened\nusing\n angle? What will be the vertex of the angle and\nwhat will\neue\nbe the arms\nof the\nangle?"
+}

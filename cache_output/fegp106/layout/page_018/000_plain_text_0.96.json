@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9618908762931824,
+    "bbox": [
+        420.620361328125,
+        396.0692138671875,
+        2213.861328125,
+        618.3280029296875
+    ],
+    "image_path": "cache_output/fegp106/layout/page_018/000_plain_text_0.96.png",
+    "text": "Experiment placing t\nthis new square at different places and think\nwhat the change in perimeter will be. Can you\nplace the square so\nthat the perimeter: a) increases; b) decreases; c) stays the same?"
+}

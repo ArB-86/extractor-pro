@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9434544444084167,
+    "bbox": [
+        651.945068359375,
+        2799.875,
+        1814.495849609375,
+        2979.6708984375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_008/005_plain_text_0.94.png",
+    "text": "Manasa will look exactly the same in both cases.\nImagine a c\ndifferent situation: Manasa's\nmother\nsays\n\"Wear\nsocks\nand\nshoes!'\nNow\nyour\nthe"
+}

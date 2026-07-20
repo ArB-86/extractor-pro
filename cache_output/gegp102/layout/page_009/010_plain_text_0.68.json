@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6833188533782959,
+    "bbox": [
+        375.4710693359375,
+        2160.2490234375,
+        968.1515502929688,
+        2518.395263671875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_009/010_plain_text_0.68.png",
+    "text": "The teacher called\nout\u20185'.0nce\nchildren settled,\nRuby\nwrote\n6\u00d75+3\n(understood as 3 more"
+}

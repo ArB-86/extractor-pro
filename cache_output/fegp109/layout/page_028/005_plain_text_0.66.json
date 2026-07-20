@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6607183218002319,
+    "bbox": [
+        296.2550354003906,
+        1319.2667236328125,
+        1503.611328125,
+        1382.5531005859375
+    ],
+    "image_path": "cache_output/fegp109/layout/page_028/005_plain_text_0.66.png",
+    "text": "Ans.\na. At first fold the paper horizontally \nthen vertically."
+}

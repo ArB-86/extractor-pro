@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6417566537857056,
+    "bbox": [
+        1239.6453857421875,
+        1175.369140625,
+        2082.1513671875,
+        1874.042724609375
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_002/010_plain_text_0.64.png",
+    "text": "NCERT Campus\nSri Aurobindo Marg\nNewDelhi 110 016\nPhone:011-26562708\n108,100FeetRoad\nHosdakere Halli Extension\nBanashankari Ill Stage\nBengaluru560085\nPhone:080-26725740\nNavjivan Trust Building\nP.O. Navjivan\nAhmedabad380014\nPhone:079-27541446\nCWC Campus\nOpp. Dhankal Bus Stop\nPanihati\nKolkata 700 114\nPhone:033-25530454\nCWC Complex\nMaligaon\nGuwahati 781 021\nPhone : 0361-2674869"
+}

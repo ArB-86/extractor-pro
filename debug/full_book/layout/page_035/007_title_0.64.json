@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "title",
+    "confidence": 0.640656054019928,
+    "bbox": [
+        298.2591857910156,
+        303.64422607421875,
+        694.7131958007812,
+        370.434814453125
+    ],
+    "image_path": "debug/full_book/layout/page_035/007_title_0.64.png",
+    "text": "Figure\nit\n\uff1f\nout"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8770006895065308,
+    "bbox": [
+        531.632080078125,
+        503.81695556640625,
+        1208.3109130859375,
+        568.6664428710938
+    ],
+    "image_path": "cache_output/fegp106/layout/page_004/001_plain_text_0.88.png",
+    "text": "Find the missing\n1.\nterms:"
+}

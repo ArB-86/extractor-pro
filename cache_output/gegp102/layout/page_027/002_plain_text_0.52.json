@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.5211100578308105,
+    "bbox": [
+        413.274169921875,
+        625.2916870117188,
+        1456.1925048828125,
+        759.1260986328125
+    ],
+    "image_path": "cache_output/gegp102/layout/page_027/002_plain_text_0.52.png",
+    "text": "Way 2: 432\n8\n50\n+1\n\u00d7\n\u00d7\n10\n+4\u00d7\n5\n2\n\u00d71\n+\nTerms: 8\n8x\n50,\n1\n10,4\n\u00d7\u2018\n4\u00d7 \n5,\nand 2"
+}

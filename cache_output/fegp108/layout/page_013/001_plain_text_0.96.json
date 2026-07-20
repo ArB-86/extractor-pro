@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.956824004650116,
+    "bbox": [
+        291.3766174316406,
+        388.98626708984375,
+        2087.334716796875,
+        612.5154418945312
+    ],
+    "image_path": "cache_output/fegp108/layout/page_013/001_plain_text_0.96.png",
+    "text": "Have\n you checked what happens to the length XY when X and Y\nplaced at the same\ndistance away\nfrom A and B, respectively?\nare\nFor example, as in the cases like these:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9567575454711914,
+    "bbox": [
+        417.73822021484375,
+        391.13848876953125,
+        2209.05810546875,
+        536.2965087890625
+    ],
+    "image_path": "cache_output/fegp102/layout/page_012/004_plain_text_0.96.png",
+    "text": "before, one could\nl trace\nthese angles, superimpose\nthem and then\ncheck. But can we\ne do it without superimposition?"
+}

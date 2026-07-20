@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.5043761134147644,
+    "bbox": [
+        294.5068054199219,
+        2493.2841796875,
+        2190.90625,
+        2684.594482421875
+    ],
+    "image_path": "cache_output/fegp103/layout/page_028/008_plain_text_0.50.png",
+    "text": "Q.1.\nWrite an example for each of the below scenarios whenever possible.\nCould you find examples for all the cases? If not, think and discuss what could be\nthe reason. Make other such questions and challenge your classmates."
+}

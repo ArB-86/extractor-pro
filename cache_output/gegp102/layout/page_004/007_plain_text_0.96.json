@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9609423875808716,
+    "bbox": [
+        377.6252746582031,
+        2641.99755859375,
+        2089.363037109375,
+        2765.97216796875
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/007_plain_text_0.96.png",
+    "text": "Evaluating the expression within the brackets first, we get 1o0 minus\n71, which is 29. So, Irfan will\nget back ?29."
+}

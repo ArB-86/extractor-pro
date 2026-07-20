@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.658311128616333,
+    "bbox": [
+        298.2286071777344,
+        3004.07568359375,
+        658.9456787109375,
+        3119.4189453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_041/006_plain_text_0.66.png",
+    "text": "Ans.\nClass\n8.\na.\nb. 6\n6."
+}

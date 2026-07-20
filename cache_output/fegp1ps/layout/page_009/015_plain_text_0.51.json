@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.5120866298675537,
+    "bbox": [
+        420.8017883300781,
+        2430.72900390625,
+        1701.3765869140625,
+        2498.158447265625
+    ],
+    "image_path": "cache_output/fegp1ps/layout/page_009/015_plain_text_0.51.png",
+    "text": "14.\nGajanan\n1 Londhe, Head, F\nProgramme\nOffice, NSTC"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "title",
+    "confidence": 0.8740670680999756,
+    "bbox": [
+        926.705078125,
+        2122.533935546875,
+        1447.529052734375,
+        2207.419189453125
+    ],
+    "image_path": "cache_output/fegp104/layout/page_032/003_title_0.87.png",
+    "text": "MM\nU\nN\nR\nY"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8399747014045715,
+    "bbox": [
+        351.57708740234375,
+        997.4136962890625,
+        1894.4735107421875,
+        1065.2427978515625
+    ],
+    "image_path": "cache_output/fegp105/layout/page_007/009_plain_text_0.84.png",
+    "text": "1: Cross out 1 because it is neither prime nor composite\nep"
+}

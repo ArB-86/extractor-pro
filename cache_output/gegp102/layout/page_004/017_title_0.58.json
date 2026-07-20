@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.5779128074645996,
+    "bbox": [
+        378.69952392578125,
+        1011.0990600585938,
+        1104.5653076171875,
+        1080.2943115234375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_004/017_title_0.58.png",
+    "text": "Brackets in Expressions"
+}

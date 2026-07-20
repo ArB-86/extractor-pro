@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9048070311546326,
+    "bbox": [
+        419.74560546875,
+        624.2410278320312,
+        1440.0303955078125,
+        761.7185668945312
+    ],
+    "image_path": "cache_output/fegp110/layout/page_017/007_plain_text_0.90.png",
+    "text": "Now,\ntake\nout\n6\npositives!\nwe\ncan\nSee what is left:"
+}

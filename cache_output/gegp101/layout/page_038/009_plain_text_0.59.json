@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.5872376561164856,
+    "bbox": [
+        446.5833435058594,
+        646.4235229492188,
+        2044.097900390625,
+        779.1355590820312
+    ],
+    "image_path": "cache_output/gegp101/layout/page_038/009_plain_text_0.59.png",
+    "text": " a   s t  a   m n \nalbatross to complete a 12,0oo km trip to cross an ocean."
+}

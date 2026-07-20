@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.5805974006652832,
+    "bbox": [
+        290.2394104003906,
+        1094.2666015625,
+        2132.93017578125,
+        1433.8099365234375
+    ],
+    "image_path": "cache_output/gegp102/layout/page_023/012_plain_text_0.58.png",
+    "text": "Ans: Let us c\nchoose\nthe\ne number 24.\nThe arithmetic expressions for the number can be as follows:\n=+ 0=0-=\u00f78=9\u00d7=+ \nnumber."
+}

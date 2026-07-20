@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.5763773322105408,
+    "bbox": [
+        411.1274108886719,
+        421.4066467285156,
+        2189.6171875,
+        983.22265625
+    ],
+    "image_path": "cache_output/fegp104/layout/page_041/007_plain_text_0.58.png",
+    "text": "a. What information is this table giving?\nb. What may be the title of this table?\nc. What caught your attention in this table?\nd. In how many matches has Bumrah taken 4 wickets?\ne. Mayank says \"If we want to know the total number of wickets he has taken in his\nlast 30 matches, we have to add the numbers 0, 1, 2, 3 ..., up to 7.\" Can Mayank\nget the total number of wickets taken in this way? Why?\nf. How would you correctly figure out the total number of wickets taken by Bumrah\nin his last 30 matches, using this table?"
+}
