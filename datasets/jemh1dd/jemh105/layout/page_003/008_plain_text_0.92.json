@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9154670834541321,
+    "bbox": [
+        193.17559814453125,
+        968.05078125,
+        941.1931762695312,
+        1020.2776489257812
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/008_plain_text_0.92.png",
+    "text": "Consider the following\nlists of numbers :"
+}

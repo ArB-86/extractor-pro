@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9504430890083313,
+    "bbox": [
+        236.52459716796875,
+        895.2634887695312,
+        1222.337646484375,
+        958.9722290039062
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_012/003_title_0.95.png",
+    "text": "3.4.2 The\nDensity\nof Rational\nNumbers"
+}

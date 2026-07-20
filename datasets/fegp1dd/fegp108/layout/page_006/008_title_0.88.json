@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.8835628032684326,
+    "bbox": [
+        420.5243835449219,
+        393.8508605957031,
+        663.0614013671875,
+        460.8232421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_006/008_title_0.88.png",
+    "text": "3\nEyes"
+}

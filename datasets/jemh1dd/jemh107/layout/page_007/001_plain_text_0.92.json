@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9222325682640076,
+    "bbox": [
+        246.1009521484375,
+        2466.578369140625,
+        1753.939208984375,
+        2568.08837890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_007/001_plain_text_0.92.png",
+    "text": "8. Find the values of y for which the distance between the points P(2, - 3) and Q(10, y) is\n10 units."
+}

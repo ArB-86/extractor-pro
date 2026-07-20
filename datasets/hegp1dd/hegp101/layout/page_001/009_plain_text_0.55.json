@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.5457679033279419,
+    "bbox": [
+        457.29107666015625,
+        1934.89892578125,
+        1216.75341796875,
+        1996.070068359375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_001/009_plain_text_0.55.png",
+    "text": "Person 1 0\nopens every\nlocker."
+}

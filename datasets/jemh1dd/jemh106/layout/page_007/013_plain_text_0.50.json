@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5019240379333496,
+    "bbox": [
+        190.34957885742188,
+        2185.595458984375,
+        1756.720703125,
+        2501.2958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/013_plain_text_0.50.png",
+    "text": "AE\nAE\n3\nEC. What about\n? Observe that\n1Sa\nalso equal to\nThus, you can see that\nEC\nEC\n2\nAD\nAE\nin \u25b3 ABC, DE\nl BC and\n. Is it a coincidence? No, it is due to the following\nDB\nEC\ntheorem\n(known as the Basic Proportionality\nTheorem):"
+}

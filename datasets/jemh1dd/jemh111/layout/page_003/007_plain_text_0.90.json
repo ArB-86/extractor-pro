@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.898576021194458,
+    "bbox": [
+        193.6181182861328,
+        1270.7008056640625,
+        1126.8907470703125,
+        1326.2069091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_003/007_plain_text_0.90.png",
+    "text": "Solution\n1 : Given sector is\nSOAPB\n(see Fig. 11.5)."
+}

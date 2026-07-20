@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.882404088973999,
+    "bbox": [
+        382.3428039550781,
+        530.032470703125,
+        2094.864013671875,
+        759.8526000976562
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/003_plain_text_0.88.png",
+    "text": "Ans. If\np&q\nare successive\nperfect square numbers, t\nthen\nthere will be\n(q-p-1)\nnumbers\nbetween\nthem.\nYes."
+}

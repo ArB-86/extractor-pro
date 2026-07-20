@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8499780297279358,
+    "bbox": [
+        313.814453125,
+        1191.3935546875,
+        1636.2723388671875,
+        1519.306640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/009_plain_text_0.85.png",
+    "text": "3x +2y=5 ;\n2x-3y=7\n(i) 2x -3y = 8 ;\n4x -6y = 9\n3\n5\n(ii)\ny = 7 ; 9x-10y= 14\n(iv) 5x -3y =11 ; - 10x+ 6y = -22\n\u4e00\n-x+:\n2\n3\n4\n-x + 2y = 8 ; 2x+ 3y= 12\n3"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9776504039764404,
+    "bbox": [
+        586.2620849609375,
+        1476.1427001953125,
+        2044.5194091796875,
+        2039.9703369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_001/000_plain_text_0.98.png",
+    "text": "One of the children starts by s\nsaying '1'. The second\nplayer says 2', and so on. But when it is the turn of 3, 6,\n9, ... (multiples of 3), the player should say \u201cidli instead\nof the number. When itis the turn of 5, 10, ... (multiples\nof 5), the player should say 'vada' instead ofthe number.\nWhen a number is both a multiple of 3 and a multiple\nof 5, the player should say \u201cidli-vada'! If a player makes\nany mistake, they are out."
+}

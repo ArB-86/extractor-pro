@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9703091382980347,
+    "bbox": [
+        418.7047119140625,
+        396.2077331542969,
+        2210.72314453125,
+        607.667236328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_007/001_plain_text_0.97.png",
+    "text": "You may also be familiar with another meaning of subtraction which\niS\n6 related to comparison or making\nquantities equal. For example,\nconsider this situation: I have 10 with me and my sister has ?6."
+}

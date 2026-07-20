@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9715223908424377,
+    "bbox": [
+        193.54541015625,
+        935.4151000976562,
+        1752.9063720703125,
+        1098.1715087890625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/001_plain_text_0.97.png",
+    "text": "For example, for the set of all integers, the universal set can be the set of rational\nnumbers or, for that matter, the set R of real numbers. For another example, in human\npopulation studies, the universal set consists of all the people in the world."
+}

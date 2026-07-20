@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.7406281232833862,
+    "bbox": [
+        339.0126953125,
+        2654.9560546875,
+        1666.6444091796875,
+        2836.253173828125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_001/006_plain_text_0.74.png",
+    "text": "Before\nthe\nbegins,\nKhoisnam\nprocess\nrealises\nthat\nhe\nalready\nknows\nwhich lockers\nwill be\nopen\nat the e\nend.\nHow\ndid he i\nfigure out the\nanswer?"
+}

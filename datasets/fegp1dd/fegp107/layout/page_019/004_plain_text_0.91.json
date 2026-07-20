@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9122779965400696,
+    "bbox": [
+        290.4830017089844,
+        1852.1121826171875,
+        2084.046875,
+        1994.5732421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_019/004_plain_text_0.91.png",
+    "text": "Shabnam: T\nThe children of which\nWill\nget more\nchikki this\ngroup\ntime?"
+}

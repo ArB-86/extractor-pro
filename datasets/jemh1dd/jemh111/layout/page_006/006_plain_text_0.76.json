@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7624712586402893,
+    "bbox": [
+        225.2930145263672,
+        1092.3768310546875,
+        1120.30419921875,
+        1310.9053955078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/006_plain_text_0.76.png",
+    "text": "10.\nAn umbrella has 8 ribs which\nare equally spaced\n(see Fig. 11.10). Assuming\numbrella to be a flat\ncircle of radius 45 cm, find the area between\nthe\ntwo consecutive ribs of the umbrella."
+}

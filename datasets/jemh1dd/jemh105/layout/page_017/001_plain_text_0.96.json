@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9613209962844849,
+    "bbox": [
+        191.96592712402344,
+        1306.4124755859375,
+        1752.8564453125,
+        1424.1083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_017/001_plain_text_0.96.png",
+    "text": "Remark : The nth term of an AP is the difference of the sum to first n terms and the\nsum to first (n - 1)\nterms of it, i.e., a, = S, - S\nn-1"
+}

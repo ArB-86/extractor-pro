@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8014047741889954,
+    "bbox": [
+        378.7890625,
+        1071.269775390625,
+        2090.53564453125,
+        1190.2366943359375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/006_plain_text_0.80.png",
+    "text": "from any point, the thickness\nafter 10 folds\n increases\nby\n1024 t\ntimes\n(= 2 multiplied by itself 10 times), as shown in the table below."
+}

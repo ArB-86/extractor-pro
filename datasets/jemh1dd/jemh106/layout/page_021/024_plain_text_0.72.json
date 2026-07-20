@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7154157161712646,
+    "bbox": [
+        1305.1285400390625,
+        794.2584228515625,
+        1750.851806640625,
+        845.2431640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/024_plain_text_0.72.png",
+    "text": "(AA similarity criterion)"
+}

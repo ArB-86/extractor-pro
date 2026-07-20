@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9845761060714722,
+    "bbox": [
+        199.45462036132812,
+        1096.544921875,
+        1757.8587646484375,
+        1587.564697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh1a1/layout/page_001/000_plain_text_0.98.png",
+    "text": "The ability to reason and think clearly is extremely useful in our daily life. For example,\nsuppose a politician tells you, \u2018If you are interested in a clean government, then you\nshould vote for me.' What he actually wants you to believe is that if you do not vote for\nhim, then you may not get a clean government. Similarly, if an advertisement tells you,\nyou do not wear XYZ shoes, then you are not intelligent enough. You can yourself\nobserve that both the above statements may mislead the general public. So, if we\nunderstand the process of reasoning correctly, we do not fall into such traps\nunknowingly."
+}

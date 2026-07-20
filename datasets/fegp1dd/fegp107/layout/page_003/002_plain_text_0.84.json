@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8401671648025513,
+    "bbox": [
+        875.64990234375,
+        2304.48779296875,
+        1486.53662109375,
+        2365.894287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_003/002_plain_text_0.84.png",
+    "text": "Write\nanswer here.\n your"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9771386384963989,
+    "bbox": [
+        194.27467346191406,
+        2319.545654296875,
+        1755.288330078125,
+        2540.61376953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_001/000_plain_text_0.98.png",
+    "text": "For\nanother\nexample of e\nequally\nlikely\noutcomes, suppose\nwe\nthrow a die\nonce. For us, a die will always mean a fair die. What are t\nthe possible outcomes?\nThey are\ne 1, 2, 3, 4, 5, 6. Each number has the same possibility of showing up. So\nthe equally likely outcomes of throwing\ng a die\neare\n1, 2, 3, 4, 5\nand 6."
+}

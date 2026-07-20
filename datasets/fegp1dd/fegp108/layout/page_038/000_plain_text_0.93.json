@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.9303244352340698,
+    "bbox": [
+        294.7096252441406,
+        296.9074401855469,
+        2098.03466796875,
+        424.4817199707031
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_038/000_plain_text_0.93.png",
+    "text": "Q.2. Try to recreate \u00b0A Person', *Wavy Wave\u2019 and \u201cEyes\u2019 from the section Artwork,\nusing ideas involved in the \u2018House\u2019 construction."
+}

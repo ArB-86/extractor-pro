@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8363606929779053,
+    "bbox": [
+        306.98370361328125,
+        587.9905395507812,
+        1559.5225830078125,
+        638.9817504882812
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/008_plain_text_0.84.png",
+    "text": "The die is thrown once. What is the probability of getting\n(i) A?\n(ii) D?"
+}

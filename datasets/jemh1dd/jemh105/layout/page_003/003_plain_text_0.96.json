@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9576600790023804,
+    "bbox": [
+        193.9711151123047,
+        2270.94677734375,
+        1752.8580322265625,
+        2434.135498046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/003_plain_text_0.96.png",
+    "text": "So, an arithmetic progression is a list of numbers in which each term\nis\nobtained by adding a fixed number to the preceding\ng term except the first\nterm."
+}

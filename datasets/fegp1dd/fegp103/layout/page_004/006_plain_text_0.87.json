@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8690873980522156,
+    "bbox": [
+        421.0715026855469,
+        1385.8236083984375,
+        1673.560302734375,
+        1454.40771484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_004/006_plain_text_0.87.png",
+    "text": "Let's do the supercells activity with\nmore rows."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5255194306373596,
+    "bbox": [
+        292.2733459472656,
+        1504.6168212890625,
+        1471.2777099609375,
+        1559.5355224609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/017_plain_text_0.53.png",
+    "text": "the frequency\n(f\uff09 of the class succeeding the modal class =\n6"
+}

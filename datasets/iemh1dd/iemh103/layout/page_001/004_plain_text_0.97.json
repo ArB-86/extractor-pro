@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9716334342956543,
+    "bbox": [
+        240.79769897460938,
+        907.4619750976562,
+        1797.5167236328125,
+        1126.58447265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/004_plain_text_0.97.png",
+    "text": "Long\nbefore\ne humanity built cities, formulated laws, or studied the stars,\nthere existed a fundamental, practical:\nnecessity: the need to keep count.\nMathematics\ns did\nnot begin in a classroom\nwith equations \non a board; it\nbegan\nin the dirt, on\nthe bark of t\ntrees, and\non\nbones."
+}

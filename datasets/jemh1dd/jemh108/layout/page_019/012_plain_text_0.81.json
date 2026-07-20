@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8058228492736816,
+    "bbox": [
+        325.8281555175781,
+        1122.8763427734375,
+        1121.7301025390625,
+        1172.40625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/012_plain_text_0.81.png",
+    "text": "(i)\n(1 + tan\n\u03b8 + sec\n= (0 S0 - 0 10 + 1) (0"
+}

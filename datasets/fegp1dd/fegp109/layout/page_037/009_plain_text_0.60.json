@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5953472256660461,
+    "bbox": [
+        1179.054443359375,
+        1433.11474609375,
+        1606.0994873046875,
+        1488.0953369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_037/009_plain_text_0.60.png",
+    "text": "(ii)\nAngles \nof\nSymmetry"
+}

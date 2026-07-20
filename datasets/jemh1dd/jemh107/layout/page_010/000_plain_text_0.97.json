@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9675612449645996,
+    "bbox": [
+        193.28482055664062,
+        395.27679443359375,
+        1749.4154052734375,
+        506.6365966796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_010/000_plain_text_0.97.png",
+    "text": "Example 6 : Find the coordinates of the point which divides the line segment joining\nthe points (4, - 3) and (8, 5) in the ratio 3 : 1 internally."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9051734209060669,
+    "bbox": [
+        244.86708068847656,
+        1603.640380859375,
+        781.8211669921875,
+        1653.750244140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_020/002_plain_text_0.91.png",
+    "text": "2.\nFind the sums\ngiven\nbelow :"
+}

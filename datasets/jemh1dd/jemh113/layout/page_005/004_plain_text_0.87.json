@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8651689291000366,
+    "bbox": [
+        292.53021240234375,
+        1459.20361328125,
+        1177.4144287109375,
+        1512.0267333984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_005/004_plain_text_0.87.png",
+    "text": "Now, let us\nfind the relation\nbetween\np\nand\nx"
+}

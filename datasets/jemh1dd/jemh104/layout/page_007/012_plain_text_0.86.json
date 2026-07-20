@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8590482473373413,
+    "bbox": [
+        245.65228271484375,
+        1636.854248046875,
+        1479.3583984375,
+        1685.5277099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_007/012_plain_text_0.86.png",
+    "text": "4\u3002\nFind two consecutive positive integers, sum of whose squares is 365."
+}

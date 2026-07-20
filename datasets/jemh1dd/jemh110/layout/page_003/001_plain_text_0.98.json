@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9807266592979431,
+    "bbox": [
+        195.68971252441406,
+        1680.3057861328125,
+        1155.1566162109375,
+        2285.502685546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_003/001_plain_text_0.98.png",
+    "text": "Now look around you. Have you seen a bicycle\nor a cart moving? Look at its wheels. All the spokes\nof a wheel are along its radii. Now note the position\nof the wheel with respect to its movement on the\nground. Do you see any tangent anywhere?\n(See Fig. 10.4). In fact, the wheel moves along a line\nwhich is a tangent to the circle representing the wheel.\nAlso, notice that in all positions, the radius through\nthe point of contact with the ground appears to be at\nright angles to the tangent (see Fig. 10.4). We shall\nnow prove this property of the tangent."
+}

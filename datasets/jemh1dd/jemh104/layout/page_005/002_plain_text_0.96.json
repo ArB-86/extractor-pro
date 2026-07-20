@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9642693400382996,
+    "bbox": [
+        193.2753143310547,
+        1547.9737548828125,
+        1753.1436767578125,
+        1712.1568603515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/002_plain_text_0.96.png",
+    "text": "You have learnt in Class IX, how to factorise quadratic polynomials by splitting\ntheir middle terms. We shall use this knowledge for finding the roots of a quadratic\nequation. Let us see how."
+}

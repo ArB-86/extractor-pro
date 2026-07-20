@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.926085889339447,
+    "bbox": [
+        193.44789123535156,
+        996.1551513671875,
+        1754.0257568359375,
+        1106.925048828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_018/004_plain_text_0.93.png",
+    "text": "Suppose, we have to find the median of the following data, which\ngivesthe\nmarks, out of 50, obtained by 100 students in a test :"
+}

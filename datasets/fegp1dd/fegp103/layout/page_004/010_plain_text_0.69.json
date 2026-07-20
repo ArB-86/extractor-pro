@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6903853416442871,
+    "bbox": [
+        506.8784484863281,
+        562.2256469726562,
+        2069.069580078125,
+        782.2301025390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_004/010_plain_text_0.69.png",
+    "text": "Will the cell having\nthe largest :\nin a table always\n7.\nnumber\nbe a\nthe cell having\nsupercell? Can\nthe smallest number\nin a table\nbe a supercell? Why\nwhy\nor \nnot?"
+}

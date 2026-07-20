@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5976278185844421,
+    "bbox": [
+        380.9804992675781,
+        708.9085083007812,
+        2085.174560546875,
+        847.6349487304688
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_011/006_plain_text_0.60.png",
+    "text": "2\u3002\nWhat is the sum of the smallest and largest 5-digit palindrome?\nWhat is their difference?"
+}

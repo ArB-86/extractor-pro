@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9443286061286926,
+    "bbox": [
+        404.12030029296875,
+        1168.069580078125,
+        1939.2266845703125,
+        1617.7286376953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_019/003_plain_text_0.94.png",
+    "text": "1.\nOnly\nthe last three\ndigits\nwhen\ndeciding\nif a\nmatter\ngiven number is divisible by 8.\n2.\nIf the number formed by the last three digits is divisible\nby 8, then the original number is divisible by 8.\n3.\nIf the original number is divisible by 8, then the number\nformed by the last three digits is divisible by 8."
+}

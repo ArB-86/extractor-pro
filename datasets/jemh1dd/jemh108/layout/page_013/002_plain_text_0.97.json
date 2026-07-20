@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9658936858177185,
+    "bbox": [
+        193.81381225585938,
+        1814.9639892578125,
+        1152.7572021484375,
+        1978.8563232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_013/002_plain_text_0.97.png",
+    "text": "Example\n6\nIn\n\u25b3 ABC,\nright-angled\nat \nB\nAB\n=\n5\nZ ACB\n30\u00b0\n(see\nFig.\n8.19).\ncm\nand\n=\nDetermine the lengths of the sides\nBC\nand AC."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8976737856864929,
+    "bbox": [
+        192.10105895996094,
+        399.454833984375,
+        837.842529296875,
+        450.13836669921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_020/006_plain_text_0.90.png",
+    "text": "From\nthe table above, we see that:"
+}

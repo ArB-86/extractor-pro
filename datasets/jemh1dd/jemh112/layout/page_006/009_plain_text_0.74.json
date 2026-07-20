@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7447155117988586,
+    "bbox": [
+        245.7090606689453,
+        1837.1888427734375,
+        1751.8985595703125,
+        1947.2327880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/009_plain_text_0.74.png",
+    "text": "3. A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of same radius.\nThe total height of the toy is 15.5 cm. Find the total surface area of the toy."
+}

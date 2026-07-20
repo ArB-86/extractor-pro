@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9661480188369751,
+    "bbox": [
+        523.7261962890625,
+        2655.368896484375,
+        2210.21240234375,
+        2866.2890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_026/002_plain_text_0.97.png",
+    "text": "The point A can\nbe located by\nfinding\nthe\ne correct\npoint\nuo\nthe\ncircle that is of distance 5 cm\nfrom\nthe point C. Again, this can\nbe\ndone\n using\na ruler. But can\ncompass\nfor\nthis?\nwe\neuseac"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9652174115180969,
+    "bbox": [
+        192.1101531982422,
+        1902.0838623046875,
+        1084.11572265625,
+        2176.21435546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_007/000_plain_text_0.97.png",
+    "text": "Solution\nn : In Fig. 9.9, PC denotes\nthe\nmulti-\nstoryed building\nand AB\ndenotes\nthe 8 m tall\nbuilding. We are interested to determine the height\nof the multi-storeyed building, i.e., PC and the\ndistance\nebetween\nthe two buildings, i.e., AC."
+}

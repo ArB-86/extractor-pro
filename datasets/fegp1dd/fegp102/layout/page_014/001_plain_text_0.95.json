@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9513779878616333,
+    "bbox": [
+        419.3049011230469,
+        1456.8818359375,
+        2209.324462890625,
+        1598.579345703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_014/001_plain_text_0.95.png",
+    "text": "Now, shuffle and mix up all t\nthe rotating\narms. Can you identify\nwhich of the rotating\narms will 1\npass through the slit?"
+}

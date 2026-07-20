@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9063283205032349,
+    "bbox": [
+        290.9557189941406,
+        686.975341796875,
+        2083.822021484375,
+        830.078369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_009/007_plain_text_0.91.png",
+    "text": "What is the length of the blue line? Write the fraction that g\ngives\nthe length of the blue line in the box."
+}

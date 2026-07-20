@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7928493022918701,
+    "bbox": [
+        192.2539825439453,
+        2212.176025390625,
+        1423.873291015625,
+        2319.17236328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/019_plain_text_0.79.png",
+    "text": "\u4e00\nTherefore, discriminant b\u00b2 - 4ac = (- 2)\u00b2 - 4 x 3 \u00d7\n=4-4=0.\n3"
+}

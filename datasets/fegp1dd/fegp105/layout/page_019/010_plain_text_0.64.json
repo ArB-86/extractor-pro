@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.6355209946632385,
+    "bbox": [
+        389.58270263671875,
+        2237.206787109375,
+        2082.8388671875,
+        2418.478271484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_019/010_plain_text_0.64.png",
+    "text": "1.\n2024 is a leap year (as February l\nhas 29 days). Leap years 0ccur in\nthe years\nthat are multiples of 4, except for those\nthat are\n years\nevenly divisible by 100 but not 400."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9675899147987366,
+    "bbox": [
+        235.21949768066406,
+        979.6521606445312,
+        1796.6610107421875,
+        1189.5169677734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_012/002_plain_text_0.97.png",
+    "text": "One of the\n rational\nnumbers\nis that they\nmost\nmagical\nproperties of:\nare\ndense. Between any two\nintegers, say 1\nand 2, there is a rational\nnumber\n3\n5-4\n. Between\nand\nthere is\nanother r\nrational\nnumber\n2\n2"
+}

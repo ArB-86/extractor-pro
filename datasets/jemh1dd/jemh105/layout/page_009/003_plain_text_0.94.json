@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9411036372184753,
+    "bbox": [
+        192.72186279296875,
+        1615.807861328125,
+        1753.0802001953125,
+        1735.1060791015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_009/003_plain_text_0.94.png",
+    "text": "This example would have given you some idea about how to write the 15th term,\nor the 25th term, and more generally, the nth term of the AP."
+}

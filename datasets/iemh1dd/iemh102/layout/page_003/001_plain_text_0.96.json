@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.96396404504776,
+    "bbox": [
+        236.2279510498047,
+        308.2831115722656,
+        1797.3692626953125,
+        472.013671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_003/001_plain_text_0.96.png",
+    "text": "Notet\nthat the algebraic\nc expressions in Example 1 and Example\ne2\ninvolve two variables, whereas the algebraic expression in Example 3\ninvolves only one variable."
+}

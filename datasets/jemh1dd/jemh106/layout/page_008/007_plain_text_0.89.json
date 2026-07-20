@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8852971792221069,
+    "bbox": [
+        191.41659545898438,
+        1235.5784912109375,
+        1422.434814453125,
+        1291.4482421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_008/007_plain_text_0.89.png",
+    "text": "Recall from\nn Class IX, that area of \u25b3 ADE is denoted as ar(ADE)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "title",
+    "confidence": 0.776104211807251,
+    "bbox": [
+        382.35284423828125,
+        769.0958862304688,
+        681.3457641601562,
+        832.6128540039062
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/008_title_0.78.png",
+    "text": "P\nPage\nNo.\n13\n3"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.928457498550415,
+    "bbox": [
+        293.16082763671875,
+        2647.943115234375,
+        2089.775146484375,
+        2769.18310546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_001/002_plain_text_0.93.png",
+    "text": "?\nSay you can fold a sheet of paper as many times as you wish. What would\nits thickness be after 30 folds? Make a guess."
+}

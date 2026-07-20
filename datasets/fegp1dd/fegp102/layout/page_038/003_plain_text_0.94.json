@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.9356297254562378,
+    "bbox": [
+        530.32080078125,
+        394.911376953125,
+        2211.57861328125,
+        533.3140258789062
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_038/003_plain_text_0.94.png",
+    "text": "2.\nUse a protractor to draw angles having\nthe following\ndegree\nmeasures:"
+}

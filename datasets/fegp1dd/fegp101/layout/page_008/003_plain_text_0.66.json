@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6571033000946045,
+    "bbox": [
+        530.0504150390625,
+        1699.648193359375,
+        2211.207763671875,
+        1901.023681640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_008/003_plain_text_0.66.png",
+    "text": "3.\nWhich sequence\ndo\n) you\nget when\nyou start to add the All\n1's\nsu  au ppe nok uam iag nok op auanbas teum idn\nsequencei\nsequenceupa\nand down?"
+}

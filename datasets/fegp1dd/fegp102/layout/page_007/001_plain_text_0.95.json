@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9504756331443787,
+    "bbox": [
+        404.3875427246094,
+        2183.84912109375,
+        2083.823974609375,
+        2327.7373046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_007/001_plain_text_0.95.png",
+    "text": "1.\nCan\nfind the angles in the\ngiven\npictures?\nDraw\nthe\nyou\n rays\nforming any one of the angles and name the vertex of the angle."
+}

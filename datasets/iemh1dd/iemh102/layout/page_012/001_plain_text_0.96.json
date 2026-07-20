@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9556007385253906,
+    "bbox": [
+        239.0987091064453,
+        421.34515380859375,
+        1795.52978515625,
+        583.205322265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/001_plain_text_0.96.png",
+    "text": "Thus, y = 20x + 150 represents the linear relationship between \n1y,\nthebill\namount in Rupees, and x, the number of GB of the internet\ndata used."
+}

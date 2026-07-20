@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.60622239112854,
+    "bbox": [
+        193.68394470214844,
+        1600.1385498046875,
+        613.819091796875,
+        1654.1861572265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_006/018_plain_text_0.61.png",
+    "text": "which\ngives\nPR.\nD\n\u4e09"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9198663234710693,
+    "bbox": [
+        295.779541015625,
+        2947.135498046875,
+        2187.891357421875,
+        3066.219482421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_035/001_plain_text_0.92.png",
+    "text": "Ans.\nOrdered data is helpful because in this form, frequency of any data is easy to count and\nthe given information can be used easily."
+}

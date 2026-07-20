@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7496529221534729,
+    "bbox": [
+        415.069580078125,
+        807.861328125,
+        1910.1337890625,
+        878.4828491210938
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_024/014_plain_text_0.75.png",
+    "text": "63 is a common multiple of 9 and 21. We can t\nthen write:"
+}

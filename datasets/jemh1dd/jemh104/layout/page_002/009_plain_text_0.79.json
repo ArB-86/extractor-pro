@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7903255820274353,
+    "bbox": [
+        196.18617248535156,
+        2219.229736328125,
+        1066.736328125,
+        2270.63134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/009_plain_text_0.79.png",
+    "text": "(i)\nLet the\n number of marbles John had be x."
+}

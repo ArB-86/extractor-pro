@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9706664085388184,
+    "bbox": [
+        194.4173583984375,
+        396.22125244140625,
+        1753.41943359375,
+        554.0888671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_002/003_plain_text_0.97.png",
+    "text": "the angle formed by the line of sight with the horizontal when the point being viewed is\nabove the horizontal level, i.e., the case when we raise our head to look at the object\nsee Fig. 9.2)."
+}

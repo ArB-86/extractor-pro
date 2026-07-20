@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.920156717300415,
+    "bbox": [
+        194.0238494873047,
+        690.6995239257812,
+        1172.4752197265625,
+        745.3076782226562
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/006_plain_text_0.92.png",
+    "text": "So, the interest at the end of 30\nyears will be ? 2400."
+}

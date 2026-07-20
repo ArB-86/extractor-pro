@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7094666957855225,
+    "bbox": [
+        193.06011962890625,
+        1134.5858154296875,
+        398.3346252441406,
+        1191.1220703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_008/010_plain_text_0.71.png",
+    "text": "This\ngives"
+}

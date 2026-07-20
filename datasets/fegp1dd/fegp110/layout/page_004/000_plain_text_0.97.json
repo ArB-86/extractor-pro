@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9718619585037231,
+    "bbox": [
+        291.8269348144531,
+        2305.402099609375,
+        2084.570068359375,
+        2598.714599609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_004/000_plain_text_0.97.png",
+    "text": "Gurmit\nin\nthe\nToy\nStore\nand\nwanted\nto\ndown\ntwo\nfloors.\nwas\ngo\nBut\nby\nmistake\nhe\nthe\nc+\uff0c\u00b2\nbutton\ntwo\ntimes. He\nrealised l\nhis\npressed\nmistake\nand\nquickly\nthe\ne\u2018l\nbutton\nthree\npressed\ntimes. How\nmany\nfloors\nbelow or\nabove the\nToy\nStore\neWill\nGurmit\nreach?"
+}

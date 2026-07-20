@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8192242980003357,
+    "bbox": [
+        818.0689086914062,
+        536.8096923828125,
+        1752.6282958984375,
+        703.326416015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/019_plain_text_0.82.png",
+    "text": "ZB\nZD\n(Each is of 90\u00b0 \nbecause lamp-post\n\u4e8c\nthe\nstanding\nas\nwell\nas\ngirl\nare\nvertical\n1 to the ground)"
+}

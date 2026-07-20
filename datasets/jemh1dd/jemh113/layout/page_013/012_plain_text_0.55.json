@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.552749752998352,
+    "bbox": [
+        374.18231201171875,
+        1915.8653564453125,
+        1707.5875244140625,
+        1971.0133056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/012_plain_text_0.55.png",
+    "text": "4 : The wickets taken by a bowler in 10 cricket matches are as follows:"
+}

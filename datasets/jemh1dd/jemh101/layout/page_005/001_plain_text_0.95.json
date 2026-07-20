@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9480149745941162,
+    "bbox": [
+        191.42726135253906,
+        1465.499267578125,
+        1752.3812255859375,
+        1584.702392578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/001_plain_text_0.95.png",
+    "text": "Remark : Notice, 6 x 72 x 120 \u2260 HCF (6, 72, 120) x LCM (6, 72, 120). So, the\nproduct of three numbers is not equal to the product of their HCF and LCM."
+}

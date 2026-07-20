@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9510689377784729,
+    "bbox": [
+        418.18524169921875,
+        2479.7197265625,
+        2210.41455078125,
+        2696.24072265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/007_plain_text_0.95.png",
+    "text": "Numbers that have only two factors are called prime numbers or\nprimes. Here are the first few primes \u20142, 3, 5, 7, 11, 13, 17, 19. Notice\nthat the factors of a prime number are 1 and the number itself."
+}

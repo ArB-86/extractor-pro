@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9185070991516113,
+    "bbox": [
+        190.51393127441406,
+        881.7628784179688,
+        965.5299682617188,
+        935.3405151367188
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_016/011_plain_text_0.92.png",
+    "text": "On adding\n(1)\nand (2), term-wise. we\nget"
+}

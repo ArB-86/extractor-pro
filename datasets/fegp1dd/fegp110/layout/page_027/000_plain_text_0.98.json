@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.979945719242096,
+    "bbox": [
+        419.4068298339844,
+        2062.40771484375,
+        2209.31591796875,
+        2506.139892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_027/000_plain_text_0.98.png",
+    "text": "Brahmagupta\nthe\nfirst to(\ndescribe\nwas\nO\nas a j\nnumber\nuo\nequal f\nfooting\nWith\npositive r\nnumbers as well\nas with r\nue\nnegative\nnumbers, and the first to give explicit rules for performing arithmetic\noperations on all such numbers, positive, negative, and zero\u2014forming\nwhat is now called a ring. It would change\nthe way\nthe world does\ne1\nmathematics."
+}

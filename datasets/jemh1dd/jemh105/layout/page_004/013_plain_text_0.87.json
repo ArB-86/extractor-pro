@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8748102784156799,
+    "bbox": [
+        295.2151184082031,
+        1460.7518310546875,
+        614.1806030273438,
+        1510.2508544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/013_plain_text_0.87.png",
+    "text": "Y\nthat\nou\ncan\nsee"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8034573197364807,
+    "bbox": [
+        220.1376953125,
+        2364.33349609375,
+        1732.0379638671875,
+        2565.154541015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_008/005_plain_text_0.80.png",
+    "text": "(i)\nThe\nnumber of\nzeroes\niS\nas\nthe\ngraph i\nintersects the x-axis\n at one\npoint only.\n(ii)\nThe\nnumber of\nzeroes\nis 2\nas\nthe\ngraph\nintersects\nthe x-axis at two\npoints.\n(ii)\nThe\nnumber of\nzeroes\nis 3. (Why?)"
+}

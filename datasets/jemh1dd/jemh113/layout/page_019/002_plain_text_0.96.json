@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9567942023277283,
+    "bbox": [
+        190.55325317382812,
+        396.0810241699219,
+        1754.849609375,
+        717.2125854492188
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_019/002_plain_text_0.96.png",
+    "text": "Here n = 100, which is even. The median will be the average of the\nn\nth and the\n2\nn\n+1lt\nIth observations, i.e., the 50th and 51st observations. To find these\n2\nobservations,we\neproceed asfollows:"
+}

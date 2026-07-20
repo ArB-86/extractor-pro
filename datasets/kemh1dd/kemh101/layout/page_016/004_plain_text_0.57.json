@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.5743957161903381,
+    "bbox": [
+        284.658447265625,
+        504.69830322265625,
+        1616.617919921875,
+        560.0066528320312
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_016/004_plain_text_0.57.png",
+    "text": "can be seen easily from the following\nVenn diagrams\n[Figs 1.7 (i) to (v)]"
+}

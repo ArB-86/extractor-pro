@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.5546830296516418,
+    "bbox": [
+        297.109375,
+        2315.9228515625,
+        1841.1251220703125,
+        2374.53662109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/017_plain_text_0.55.png",
+    "text": "Ans.\nPairs of prime numbers less than 20 whose sum is a multiple of 5\nare"
+}

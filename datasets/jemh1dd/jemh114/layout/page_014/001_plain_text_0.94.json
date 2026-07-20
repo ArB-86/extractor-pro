@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9392114877700806,
+    "bbox": [
+        226.2667236328125,
+        2434.11181640625,
+        1754.7164306640625,
+        2584.851806640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/001_plain_text_0.94.png",
+    "text": "18. A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random\nfrom the box, find the probability that it bears\n(i) a two-digit number\n(ii) a perfect\nsquare number\n(i1i)\na number divisible by 5."
+}

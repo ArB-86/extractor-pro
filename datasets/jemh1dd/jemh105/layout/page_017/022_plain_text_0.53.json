@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.5267581343650818,
+    "bbox": [
+        187.19163513183594,
+        1528.618896484375,
+        1528.966552734375,
+        1581.461669921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_017/022_plain_text_0.53.png",
+    "text": "Example 11 : Find the sum of the first 22 terms of the AP : 8, 3, -2, ."
+}

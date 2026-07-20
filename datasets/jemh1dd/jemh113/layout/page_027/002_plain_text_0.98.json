@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.98131263256073,
+    "bbox": [
+        193.97366333007812,
+        1321.4178466796875,
+        1754.825927734375,
+        1641.699951171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_027/002_plain_text_0.98.png",
+    "text": "In problems where individual observations are not important, and we wish to find\nout a\n\u2018typical\u2019c\nobservation, the median is\nmore\nappropriate, e.g., finding the typical\nproductivity\nrate of workers, average\nin a country, etc. These are\nwage\nsituations\nwhere extreme values may be there. So, rather than the mean, we take the median as\n better measure\ne of central tendency.\na"
+}

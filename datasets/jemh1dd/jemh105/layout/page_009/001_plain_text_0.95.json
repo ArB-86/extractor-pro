@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9522481560707092,
+    "bbox": [
+        190.79193115234375,
+        1759.944091796875,
+        1752.833251953125,
+        1877.766845703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_009/001_plain_text_0.95.png",
+    "text": "Let a, a2,\n... be an AP whose first term\na, is a and the common\ndifference is d."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8518277406692505,
+    "bbox": [
+        225.53660583496094,
+        1125.6878662109375,
+        1751.9891357421875,
+        1239.3905029296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/016_plain_text_0.85.png",
+    "text": "(d)\nThe cash prizes\ns ( in  \uff09 given by a school to the toppers of Classes I to XII\nare\nrespectively, 200, 250, 300, 350, . . .,\n,750."
+}

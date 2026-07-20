@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5386099815368652,
+    "bbox": [
+        228.86642456054688,
+        1808.5286865234375,
+        567.6340942382812,
+        1942.7462158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/013_plain_text_0.54.png",
+    "text": "(i)\nbe\nan\nace,\n(ii)\nnot\nbe\nan\nace."
+}

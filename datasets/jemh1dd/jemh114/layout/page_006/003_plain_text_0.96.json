@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9637246131896973,
+    "bbox": [
+        191.49095153808594,
+        1048.621826171875,
+        1753.444091796875,
+        1220.3743896484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/003_plain_text_0.96.png",
+    "text": "Note : From the definition of the probability P(E), we see that the numerator (number\nof outcomes favourable to the event E) is always less than or equal to the denominator\n(the number of all possible outcomes). Therefore,"
+}

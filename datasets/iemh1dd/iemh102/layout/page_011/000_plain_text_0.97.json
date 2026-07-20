@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9723882675170898,
+    "bbox": [
+        236.84169006347656,
+        1664.98681640625,
+        1795.38427734375,
+        1938.9609375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/000_plain_text_0.97.png",
+    "text": "Example\n11: A telecom\ncompany\ncharges a f\nfixed\nmonthly\nfee\nand\nadditional\ncost\nGB of the\ninternet\ndata\nused. A student observes\nan\nper\nthat when she\nused 10 GB, her\nr bill\nwas\n350.When she\ne used 20 GB, her\nbill\n550. If the monthly bill y depends on t\nwas\nthe amount of data used,\n(in\nGB), according\nX\ng to the relation\nb, find the values of a and b.\ny=c\n+ XD"
+}

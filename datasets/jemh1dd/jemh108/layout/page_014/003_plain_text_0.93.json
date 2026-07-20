@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9275490641593933,
+    "bbox": [
+        193.33688354492188,
+        395.84259033203125,
+        1054.2578125,
+        449.9572448730469
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/003_plain_text_0.93.png",
+    "text": "To find the length of the side AC,\nwe consider"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.9109728932380676,
+    "bbox": [
+        194.4239044189453,
+        1780.8883056640625,
+        941.5797119140625,
+        1836.1595458984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_010/005_title_0.91.png",
+    "text": "Trigonometric\nRatios\nof 30\u00b0\nand\n60\u00b0"
+}

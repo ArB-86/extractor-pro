@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5709170699119568,
+    "bbox": [
+        191.65182495117188,
+        1077.236328125,
+        1542.95703125,
+        1134.131591796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/017_plain_text_0.57.png",
+    "text": "Solution : Let P(x, y) be equidistant from the points A(7, 1) and B(3, 5)."
+}

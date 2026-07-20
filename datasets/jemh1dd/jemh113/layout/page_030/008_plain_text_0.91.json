@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9057725667953491,
+    "bbox": [
+        326.1375732421875,
+        2361.6640625,
+        1127.317138671875,
+        2590.718017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_030/008_plain_text_0.91.png",
+    "text": "\u2211f;xi\n1\nthe direct method : x =\n'p'f\n(ii)\nthe assumed mean method : x = a +\nf"
+}

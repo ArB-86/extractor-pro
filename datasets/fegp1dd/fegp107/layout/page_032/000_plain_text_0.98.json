@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9789092540740967,
+    "bbox": [
+        419.0246276855469,
+        2130.470458984375,
+        2211.173828125,
+        2767.234619140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_032/000_plain_text_0.98.png",
+    "text": "The way we write fractions today, globally, originated in India. In\nancient Indian mathematical texts, such as the Bakshali manuscript\n(from around the year 3oo CE), when they wanted to write\n1\nthey\n2'\nWrote it as\n12\nwhich is indeed very similar to the way we write it\ntoday! This method of writing and working with fractions continued\nto be used in India for the next several centuries, including by\n(499 CE), Brahmagupta\n(628 CE), Sridharacharya\nAryabhata\n(c. 750 CE), and Mahaviracharya (c. 850 CE), among others. The line\nsegment between the numerator and denominator in \n1\nand in other"
+}

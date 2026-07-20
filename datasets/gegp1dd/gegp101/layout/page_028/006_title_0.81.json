@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "title",
+    "confidence": 0.8099797368049622,
+    "bbox": [
+        297.3918151855469,
+        1579.2264404296875,
+        695.3218994140625,
+        1646.0120849609375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_028/006_title_0.81.png",
+    "text": "Figure\nit\n\uff1f\nout"
+}

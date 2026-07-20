@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9804561138153076,
+    "bbox": [
+        193.9021453857422,
+        1920.70458984375,
+        1754.1494140625,
+        2196.6337890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_017/000_plain_text_0.98.png",
+    "text": "Remark : You may recall that either of the two conditions namely, (i) corresponding\nangles are equal and\n(ii)\ncorresponding sides are in the same ratio is not sufficient for\ntwo polygons to be similar. However, on the basis of Theorems\n6.3a\n and 6.4, you can\nnow say that in case of similarity of the two triangles, it is not necessary to check both\nthe conditions as one condition implies the other."
+}

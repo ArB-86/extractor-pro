@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.6224734783172607,
+    "bbox": [
+        293.1489562988281,
+        297.3536071777344,
+        2170.91845703125,
+        454.3758850097656
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_036/000_plain_text_0.62.png",
+    "text": "Q.3. Construct a rectangle one of whose sides is 4 cm and the diagonal is of length 8 cm.\nAns."
+}

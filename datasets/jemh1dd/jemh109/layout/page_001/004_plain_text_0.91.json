@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9063243269920349,
+    "bbox": [
+        254.69552612304688,
+        1353.9969482421875,
+        1732.26953125,
+        1409.8079833984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_001/004_plain_text_0.91.png",
+    "text": "Let us consider Fig. 8.1 of prvious chapter, which is redrawn below in Fig. 9.1."
+}

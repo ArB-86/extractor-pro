@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.9351992011070251,
+    "bbox": [
+        296.041748046875,
+        2475.728271484375,
+        2185.110595703125,
+        2595.10205078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_053/001_plain_text_0.94.png",
+    "text": "               s\nspokes is 75\u00b0."
+}

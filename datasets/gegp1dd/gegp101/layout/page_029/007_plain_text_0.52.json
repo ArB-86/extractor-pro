@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.516210675239563,
+    "bbox": [
+        366.9425048828125,
+        908.3692016601562,
+        1874.360107421875,
+        976.3370361328125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_029/007_plain_text_0.52.png",
+    "text": "Howmanyz\n zeros does a hundred thousand have? 5 zeros"
+}

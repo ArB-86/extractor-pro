@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9226936101913452,
+    "bbox": [
+        193.49002075195312,
+        1906.0509033203125,
+        1752.5987548828125,
+        2016.1396484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/005_plain_text_0.92.png",
+    "text": "Thus, in the set V of vowels in the English alphabet, a \u2208 V but b  V. In the set\nP of prime factors of 30, 3 e P but 15  P."
+}

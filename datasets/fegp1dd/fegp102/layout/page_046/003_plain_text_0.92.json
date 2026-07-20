@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "plain_text",
+    "confidence": 0.9246047735214233,
+    "bbox": [
+        442.7464904785156,
+        1503.08642578125,
+        2188.0703125,
+        1624.2080078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_046/003_plain_text_0.92.png",
+    "text": "Using A, B, C & D\n we can name the following angles ZBAC, ZCAD, ZBAD, LADB,\nZBDC, ZADC, ZDCA, ZACB, ZDCB, ZCBD, ZDBA & ZCBA"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9146257638931274,
+    "bbox": [
+        377.2821350097656,
+        1799.5526123046875,
+        1721.931884765625,
+        1864.7696533203125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/003_plain_text_0.91.png",
+    "text": "2.\nWhich one among\n64\", 1082, 2922, 36\u00b2 has last digit 4?"
+}

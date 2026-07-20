@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.608230471611023,
+    "bbox": [
+        246.02366638183594,
+        1794.026123046875,
+        1754.621826171875,
+        1892.443115234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_008/021_plain_text_0.61.png",
+    "text": "1. From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from\nthe centre is 25 cm. The radius of the circle is\nT"
+}

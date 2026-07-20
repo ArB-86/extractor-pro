@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6440879702568054,
+    "bbox": [
+        245.91409301757812,
+        1833.7767333984375,
+        1753.6817626953125,
+        1937.564208984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/013_plain_text_0.64.png",
+    "text": "3. If we can factorise ax\u00b2 + bx + c, a \u2260 O, into a product of two linear factors, then the roots\nof the quadratic equation ax\u00b2 + bx + c = O can be found by equating each factor to zero."
+}

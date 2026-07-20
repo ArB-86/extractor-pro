@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8432338237762451,
+    "bbox": [
+        284.6519775390625,
+        1860.7406005859375,
+        1754.126953125,
+        1918.4097900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/013_plain_text_0.84.png",
+    "text": "Before proceeding further, let us try to find the answers to the following questions:"
+}

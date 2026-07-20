@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.919974684715271,
+    "bbox": [
+        289.6070556640625,
+        1445.1331787109375,
+        2081.72802734375,
+        1586.847900390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/006_plain_text_0.92.png",
+    "text": "A lift is used to go up and down\nibetweent\nthe floors. It has two\nbuttons: '+' to go up and '-' to go down. Can you spot the lift?"
+}

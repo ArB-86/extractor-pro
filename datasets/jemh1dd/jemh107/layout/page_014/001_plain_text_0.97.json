@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9667696356773376,
+    "bbox": [
+        272.3910827636719,
+        1334.0435791015625,
+        1666.9119873046875,
+        1503.6060791015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_014/001_plain_text_0.97.png",
+    "text": "Section 7.3 discusses the Section Formula for the coordinates\n(x, y) of a\nt Pwhich\ndivides\ninternally\nthe line segment joining\npoint\nthe points\nA(x, y1)\nand B(x2, y2) i\nin theratior\nm, : m2 as follows :"
+}

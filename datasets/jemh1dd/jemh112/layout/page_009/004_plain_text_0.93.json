@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9292623996734619,
+    "bbox": [
+        246.55909729003906,
+        2262.416259765625,
+        1753.8524169921875,
+        2549.706787109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/004_plain_text_0.93.png",
+    "text": "2\u3002\nRachel, an engineering student, was asked to make a model shaped like a cylinder with\ntwo cones attached at its two ends by using a thin aluminium sheet. The diameter of the\nmodel is 3 cm and its length is 12 cm. If each cone has a height of 2 cm, find the volume\nof air contained in the model that Rachel made. (Assume the outer and inner dimensions\nof the model to be nearly the same.)"
+}

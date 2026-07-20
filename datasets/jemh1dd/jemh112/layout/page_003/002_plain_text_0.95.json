@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.950711190700531,
+    "bbox": [
+        193.7339630126953,
+        2088.884521484375,
+        1751.8604736328125,
+        2198.021240234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_003/002_plain_text_0.95.png",
+    "text": "Solution : This top is exactly like the object we have discussed in Fig. 12.5. So, we\ncan conveniently use the result we have arrived at there. That is :"
+}

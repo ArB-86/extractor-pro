@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9487329125404358,
+    "bbox": [
+        264.2071838378906,
+        1062.169189453125,
+        1767.64794921875,
+        1172.7060546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/005_plain_text_0.95.png",
+    "text": "Find the perimeter of squares with sides 1 cm, 1.5 cm, 2 cm, 2.5\ncmand\n3 cm. What will happen to the perimeters if the sides increase by 0.5 cm?"
+}

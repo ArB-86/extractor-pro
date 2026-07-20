@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9532342553138733,
+    "bbox": [
+        249.93975830078125,
+        2166.41455078125,
+        1749.6160888671875,
+        2267.60595703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/004_plain_text_0.95.png",
+    "text": "3. The following distribution shows the daily pocket allowance of children of a locality\nThe mean pocket allowance is Rs 18. Find the missing frequency f."
+}

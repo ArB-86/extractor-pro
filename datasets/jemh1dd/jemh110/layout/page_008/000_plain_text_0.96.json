@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9595527648925781,
+    "bbox": [
+        245.26051330566406,
+        2044.1124267578125,
+        1094.92041015625,
+        2193.937255859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_008/000_plain_text_0.96.png",
+    "text": "2.\nIn Fig. 10.11,if TP\nand TQ\nare the two tangents\nto a circle with centre O s\nso that  POQ = 110\u00b0\nthen\nZ PTQ is equal to"
+}

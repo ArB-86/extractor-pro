@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9439065456390381,
+    "bbox": [
+        380.0796813964844,
+        1003.1956787109375,
+        2089.554931640625,
+        1122.188720703125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_018/002_plain_text_0.94.png",
+    "text": "Can you arrange them in more than one way? If not, can you explain\nWhy?"
+}

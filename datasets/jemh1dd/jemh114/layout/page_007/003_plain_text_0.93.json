@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.932661771774292,
+    "bbox": [
+        192.1042022705078,
+        1532.48046875,
+        1754.41845703125,
+        1645.4827880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/003_plain_text_0.93.png",
+    "text": "Example 6 : Savita and Hamida are friends. What is the probability that both will\nhave\n(i)\ndifferent birthdays?\n (ii)\nthe same birthday? (ignoring a leap year)."
+}

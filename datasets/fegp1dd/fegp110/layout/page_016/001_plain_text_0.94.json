@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9432042837142944,
+    "bbox": [
+        401.6234436035156,
+        959.9265747070312,
+        2089.15234375,
+        1171.18408203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_016/001_plain_text_0.94.png",
+    "text": "2.\nCancel\nthe zero\nthe following\nin\nsets of tokens. On I\npairs\ntwo\nwhat\nfloor\nis the lift attendant\nin\ncase? What is the\ne corresponding\neach\naddition statement\nin\nn each\nI case?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9511439204216003,
+    "bbox": [
+        194.01918029785156,
+        968.0938110351562,
+        1752.6060791015625,
+        1075.4434814453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/004_plain_text_0.95.png",
+    "text": "If in Step 2, we obtain a true statement involving\ng no variable, then the original\npair of equations has infinitely many solutions."
+}

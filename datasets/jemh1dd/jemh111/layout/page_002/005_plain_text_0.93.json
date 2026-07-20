@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9273721575737,
+    "bbox": [
+        192.77418518066406,
+        1123.5343017578125,
+        1755.8846435546875,
+        1227.629150390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/005_plain_text_0.93.png",
+    "text": "When degree measure of the angle at the centre is 360, a\narea of the\nsector =\u03c0r2"
+}

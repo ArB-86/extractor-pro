@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9592558741569519,
+    "bbox": [
+        195.770751953125,
+        397.3980407714844,
+        1751.5421142578125,
+        504.4220886230469
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_016/004_plain_text_0.96.png",
+    "text": "of the students. In the first situation, the mean is required and in the second situation.\nthe mode is required."
+}

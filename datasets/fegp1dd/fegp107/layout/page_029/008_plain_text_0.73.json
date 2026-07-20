@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7286012768745422,
+    "bbox": [
+        290.6521911621094,
+        550.0596313476562,
+        1227.0654296875,
+        633.2272338867188
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_029/008_plain_text_0.73.png",
+    "text": "Example: Find the sum of\n1-6\n1-3\nand"
+}

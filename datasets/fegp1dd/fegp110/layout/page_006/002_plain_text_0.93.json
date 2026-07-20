@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9317821264266968,
+    "bbox": [
+        529.7298583984375,
+        1301.37353515625,
+        1845.4403076171875,
+        1542.9005126953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_006/002_plain_text_0.93.png",
+    "text": "Notice\nthat\nall\nnegative\nnumber\nfloors\nbelow\nare\nFloor\n0. So, all\nnegative\nnumbers\nare\nless\nthan\n0. All\nthe\npositive\nnumber\nfloors\nabove\nFloor\n0. So, all\nare\npositive\nnumbers\n are\nthan\ngreater\n0."
+}

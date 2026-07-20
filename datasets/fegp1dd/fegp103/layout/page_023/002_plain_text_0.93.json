@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9263876676559448,
+    "bbox": [
+        296.5188903808594,
+        1296.1622314453125,
+        2188.140869140625,
+        1470.53466796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_023/002_plain_text_0.93.png",
+    "text": "Q. Complete Table 2 with 5-digit numbers whose digits are \u20181', \u201c0', \u201c6', \u20183', and \u20189' in\nsome order. Only a coloured cell should\nI have a number\ngreater  than  all  its\nneighbours."
+}

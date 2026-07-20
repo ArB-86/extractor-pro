@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9122254252433777,
+    "bbox": [
+        303.8674621582031,
+        2694.88330078125,
+        2087.27978515625,
+        2911.90087890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_025/002_plain_text_0.91.png",
+    "text": "figures may\nhave a line of symmetry\nSome\nbut no angle of symmetry,\nwhile others may have angles of symmetry but no lines of symmetry. Some\nfigures may have both lines of symmetry as well as angles of symmetry."
+}

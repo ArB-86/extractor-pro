@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9819666147232056,
+    "bbox": [
+        416.1900329589844,
+        394.4267272949219,
+        2216.53369140625,
+        854.6066284179688
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_002/000_plain_text_0.98.png",
+    "text": "For example, the understanding of patterns in the motion of stars,\nplanets, and their satellites led humankind to develop the theory of\ngravitation, allowing us to launch our own satellites and send rockets\nto the Moon and to Mars; similarly, understanding patterns in genomes\nhas helped in diagnosing and curing\ng diseases-among\ng thousands of\nother suche\nexamples."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9618822932243347,
+    "bbox": [
+        187.6747589111328,
+        2412.352783203125,
+        1755.0440673828125,
+        2553.944091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_003/001_plain_text_0.96.png",
+    "text": "Using\nthe Pythagoras\nTheorem to the right triangle PTQ,\nwe\nget\nPQ = \u221a11\u00b2 + 72 \n= \u221a170\nunits."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9815877676010132,
+    "bbox": [
+        239.9280242919922,
+        1130.662841796875,
+        1796.091064453125,
+        1511.83251953125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/001_plain_text_0.98.png",
+    "text": "Imagine you are living thousands of years ago in a small\nagricultural\nsettlement along\nthe banks of the Saraswati\nriver. You have a herd\nofc\ncattle. Every r\nmorning, they go out into the dense\nforests to graze,\nand\nevery\nevening, they \nreturn. How\ndo\nthat a calf has\nyou ensure\nnot wandered off? Without words for numbers, and without written\nsymbols, early humans solved this through a concept called one-to-one\ncorrespondence."
+}

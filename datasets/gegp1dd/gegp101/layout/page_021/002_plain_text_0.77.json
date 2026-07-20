@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7661256790161133,
+    "bbox": [
+        380.2906494140625,
+        1138.3702392578125,
+        2090.560791015625,
+        1442.80908203125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_021/002_plain_text_0.77.png",
+    "text": "12.\uff08\nGrey-headed\nalbatrosses\nhave\nroughly\n7-feet\nWide\nwingspan.\na\nThey\nknown\nto\nmigrate\noceans. Albatrosses\nare\nacross\nseveral\ncan\nabout\nkm\nin\nday.\nOne of the longest s\n900-1000\nsingle\ntrips\ncover\nrecorded\nis\nabout\n12,000\nkm.\nHow\ndays\nwould\nsuch\ntrip\nmany\ntake to cross\nthe E\nPacific Ocean\napproximately?"
+}

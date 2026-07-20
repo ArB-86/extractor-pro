@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9620184898376465,
+    "bbox": [
+        191.4241943359375,
+        1531.31884765625,
+        1754.7098388671875,
+        1697.1358642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/001_plain_text_0.96.png",
+    "text": "Example 9 : A sum of  1000 is invested at 8% simple interest per year. Calculate the\ninterest at the end of each year. Do these interests form an AP? If so, find the interest\nat the end of 30 years making use of this fact."
+}

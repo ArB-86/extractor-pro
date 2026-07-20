@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.6060747504234314,
+    "bbox": [
+        379.8970642089844,
+        973.3015747070312,
+        1092.206298828125,
+        1049.861572265625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_001/008_title_0.61.png",
+    "text": "1.1 A Lakh Varieties!"
+}

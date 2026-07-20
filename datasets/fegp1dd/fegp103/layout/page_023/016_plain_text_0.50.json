@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.5011546015739441,
+    "bbox": [
+        294.6561584472656,
+        450.6040954589844,
+        971.553466796875,
+        659.8761596679688
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_023/016_plain_text_0.50.png",
+    "text": "Ans.\nOne of the\nways is-\nSecond\nsmallest number\na super cell"
+}

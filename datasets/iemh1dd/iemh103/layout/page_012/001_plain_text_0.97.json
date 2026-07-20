@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9721392393112183,
+    "bbox": [
+        234.4514923095703,
+        1913.9095458984375,
+        1797.21533203125,
+        2085.864990234375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_012/001_plain_text_0.97.png",
+    "text": "This\nthat\nthere\ninfinitely\nmeans\nare\nmany\nrational\nnumbers\nbetween any t\ntwo points. It feels as though\n1 the rational r\nnumbers must\ncompletely fill the number line, leaving no g\ngaps whatsoever. But do they?"
+}

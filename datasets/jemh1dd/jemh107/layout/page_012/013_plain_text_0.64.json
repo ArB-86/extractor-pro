@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6373995542526245,
+    "bbox": [
+        195.58932495117188,
+        1838.8841552734375,
+        1529.0777587890625,
+        1897.103759765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_012/013_plain_text_0.64.png",
+    "text": "Solution : We know that diagonals of a parallelogram bisect each other"
+}

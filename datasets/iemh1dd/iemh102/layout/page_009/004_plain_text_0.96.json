@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9594695568084717,
+    "bbox": [
+        237.6973876953125,
+        2387.80224609375,
+        1796.743896484375,
+        2554.703369140625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/004_plain_text_0.96.png",
+    "text": "Example 10: The height of water in a cylindrical tank is 3 m at the\nstart of summer. The height h m at the end of t months is given by the\nlinear function h(t) = 3 - 0.5t."
+}

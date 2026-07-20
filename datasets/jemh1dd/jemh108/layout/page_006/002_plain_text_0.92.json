@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9234248399734497,
+    "bbox": [
+        192.0353240966797,
+        1084.8519287109375,
+        1156.310546875,
+        1194.6912841796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/002_plain_text_0.92.png",
+    "text": "Therefore, if BC = 4k, then\nn AB = 3k, where\nkis\nsa\npositive number."
+}

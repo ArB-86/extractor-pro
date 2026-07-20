@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8154690861701965,
+    "bbox": [
+        305.77471923828125,
+        433.79254150390625,
+        1114.3729248046875,
+        534.0462646484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/004_plain_text_0.82.png",
+    "text": "the area of that part of the field in which the\nhorse can\ngraze."
+}

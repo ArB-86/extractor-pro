@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.940841019153595,
+    "bbox": [
+        192.95204162597656,
+        1768.4222412109375,
+        1753.8978271484375,
+        1958.89404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/002_plain_text_0.94.png",
+    "text": "Example 13 : Two dice, one blue and one\ngrey, are thrown at the same time. Write\ndown all the possible outcomes. What is the probability that the sum of the two numbers\nappearing on the top of the dice is"
+}

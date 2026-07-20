@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9632664918899536,
+    "bbox": [
+        191.0502166748047,
+        1072.65771484375,
+        1004.7307739257812,
+        1360.7015380859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_005/001_plain_text_0.96.png",
+    "text": "Solution : Denote radius of cone\ne by r, slant\nheight of cone by I, height of cone by h, radius\nof cylinder by r' and height of cylinder by h'.\nThen r =\n2.5 cm, h = 6 cm, r' = 1.5 c\ncm,\nh' = 26 - 6 = 20 cm and"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.9603776931762695,
+    "bbox": [
+        420.70166015625,
+        2697.683349609375,
+        2211.491943359375,
+        2914.95849609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_036/001_plain_text_0.96.png",
+    "text": "We now c\nchange t\nthe rules of the game a bit. Play this game with\nyour\nclassmates\nby a\nagain making\ntwo teams, Team 1 and Team\n2. Here\nare the instructions and rules:"
+}

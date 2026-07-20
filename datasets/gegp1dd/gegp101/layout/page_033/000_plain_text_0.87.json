@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8740808367729187,
+    "bbox": [
+        370.08203125,
+        1394.2266845703125,
+        2170.219482421875,
+        1663.7646484375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_033/000_plain_text_0.87.png",
+    "text": "\uff1f\nObserve\nthe\nnumber\nof\ndigits\nin\nthe\ntwo\nnumbers\nbeing\nmultiplied\nand\ntheir\nproduct\nt in\neach\ncase. Is there\nconnection\nbetween\nthe\nany\nnumbers\nbeing\nmultiplied\nand\nthe\nnumber\nof c\n digits in their\nproduct?"
+}

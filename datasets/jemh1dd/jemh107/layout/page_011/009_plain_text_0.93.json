@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9279091954231262,
+    "bbox": [
+        188.64541625976562,
+        2338.758544921875,
+        1673.0067138671875,
+        2394.84912109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/009_plain_text_0.93.png",
+    "text": "Now,Q\nalso divides AB internally in the ratio 2 : 1. So, the coordinates of Q\nare"
+}

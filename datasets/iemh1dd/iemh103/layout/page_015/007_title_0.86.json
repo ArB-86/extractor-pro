@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.8565573692321777,
+    "bbox": [
+        236.4879913330078,
+        1849.9599609375,
+        1061.6392822265625,
+        1916.2752685546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_015/007_title_0.86.png",
+    "text": "3.5.2\nConstruction\nof Length\nn"
+}

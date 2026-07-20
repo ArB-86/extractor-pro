@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9509445428848267,
+    "bbox": [
+        292.4112243652344,
+        1863.04248046875,
+        1547.96875,
+        1999.0738525390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/002_plain_text_0.95.png",
+    "text": "To\ndown\nfloors, you must\ngo \ntwo\npress\nthe\nbutton twice, which\nWe write as -\n-- 0r -2."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9287369847297668,
+    "bbox": [
+        378.2283935546875,
+        2657.76904296875,
+        2091.76318359375,
+        2841.069091796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_016/007_plain_text_0.93.png",
+    "text": "You are told that 1331 is a perfect cube. Can\n4\u3002\nlyou\nguess without\nfactorisation what its cube root is? Similarly, guess the cube roots of\n4913, 12167, and 32768."
+}

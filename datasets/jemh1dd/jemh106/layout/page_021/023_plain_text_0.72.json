@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7222060561180115,
+    "bbox": [
+        191.62295532226562,
+        1609.69970703125,
+        957.55126953125,
+        1660.972900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/023_plain_text_0.72.png",
+    "text": " PQR. If \u25b3 ABC ~ \u25b3 PQR, prove that :"
+}

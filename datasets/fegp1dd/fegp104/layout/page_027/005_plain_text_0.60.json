@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6048628687858582,
+    "bbox": [
+        505.0211181640625,
+        1620.109130859375,
+        2167.5517578125,
+        1752.2979736328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_027/005_plain_text_0.60.png",
+    "text": "The bars have uniform spaces between them to indicate that they\nare free standing and represent equal categories."
+}

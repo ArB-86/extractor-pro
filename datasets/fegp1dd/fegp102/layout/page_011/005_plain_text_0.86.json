@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8640744686126709,
+    "bbox": [
+        404.0962829589844,
+        1189.8712158203125,
+        1539.184326171875,
+        1329.4619140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_011/005_plain_text_0.86.png",
+    "text": "2.\nIn\neach\ncase,\ndetermine\nwhich\nangle\nis\nand why.\ngreater a"
+}

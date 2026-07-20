@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9067596197128296,
+    "bbox": [
+        375.57135009765625,
+        2551.514404296875,
+        2095.694091796875,
+        2682.07666015625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/002_plain_text_0.91.png",
+    "text": "Ans. Number of zeros at the end of the square is double the number of\nzeros at the end of a number. Yes. Yes."
+}

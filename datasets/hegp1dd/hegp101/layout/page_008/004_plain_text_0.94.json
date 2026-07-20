@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9443708062171936,
+    "bbox": [
+        461.71575927734375,
+        2853.19091796875,
+        2092.1259765625,
+        2979.44873046875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/004_plain_text_0.94.png",
+    "text": "   o s    n  a   \nwill be time-consuming."
+}

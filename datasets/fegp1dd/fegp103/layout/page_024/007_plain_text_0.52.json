@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5185681581497192,
+    "bbox": [
+        501.1361389160156,
+        2251.549560546875,
+        2143.7958984375,
+        2314.40478515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_024/007_plain_text_0.52.png",
+    "text": "ut how many numbers have two digits, three digits, four digits, and five digits"
+}

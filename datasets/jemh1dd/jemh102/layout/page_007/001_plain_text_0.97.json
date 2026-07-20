@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9685819149017334,
+    "bbox": [
+        193.7771759033203,
+        1045.001708984375,
+        854.1279296875,
+        1346.78662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_007/001_plain_text_0.97.png",
+    "text": "Let\nus\ntake\na\nfew\nmore\nexamples. C\nConsider\nthe\ncubic\npolynomials x? and x3 - x\u00b2. We draw\nthe\ngraphs of y = x\u00b2 and y = x3 - x2\nin Fig. 2.7 and Fig. 2.8 respectively."
+}

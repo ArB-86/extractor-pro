@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8932311534881592,
+    "bbox": [
+        193.5718231201172,
+        721.17333984375,
+        741.4156494140625,
+        774.662353515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_010/009_plain_text_0.89.png",
+    "text": "Now, Suppose BC\n=AB\n=\na."
+}

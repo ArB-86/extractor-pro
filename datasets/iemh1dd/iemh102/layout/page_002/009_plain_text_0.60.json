@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5983942151069641,
+    "bbox": [
+        282.24078369140625,
+        1744.2999267578125,
+        1603.440673828125,
+        1799.9549560546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/009_plain_text_0.60.png",
+    "text": "2. How is it different from the algebraic expression in Example 1?"
+}

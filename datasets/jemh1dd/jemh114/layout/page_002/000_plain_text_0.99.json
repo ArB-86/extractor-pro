@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9858723282814026,
+    "bbox": [
+        192.3987579345703,
+        466.28912353515625,
+        1753.3013916015625,
+        852.1840209960938
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_002/000_plain_text_0.99.png",
+    "text": "Suppose that a bag contains 4 red balls and 1 blue ball, and you draw a ball\nwithout looking into the bag. What are the outcomes? Are the outcomes \u2014 a red ball\nand a blue ball equally likely? Since there are 4 red balls and only one blue ball, you\nwould agree that you are more likely to get a red ball than a blue ball. So, the outcomes\n(a red ball or a blue ball)\nare not equally likely. However, the outcome of drawing a\nball of any colour from the bag is equally likely. So, all experiments do not necessarily\nhave equally likely outcomes."
+}

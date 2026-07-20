@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.928623378276825,
+    "bbox": [
+        190.59776306152344,
+        2065.064208984375,
+        1751.5228271484375,
+        2175.795166015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/008_plain_text_0.93.png",
+    "text": "LCM (6, 20) = 22 \u00d7 31 x 51 = Product of the greatest power of each prime factor.\ninvolved in the numbers."
+}

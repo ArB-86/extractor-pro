@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9178228378295898,
+    "bbox": [
+        192.8351593017578,
+        1067.0560302734375,
+        1753.572998046875,
+        1181.7904052734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/006_plain_text_0.92.png",
+    "text": "Solution : Refer to Table 13.3 of Example 1. Since the maximum number of students\n(i.e., 7) have got marks in the interval 40 - 55, the modal class is 40 - 55. Therefore,"
+}

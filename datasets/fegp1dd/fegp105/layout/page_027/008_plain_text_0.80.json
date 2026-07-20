@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.796422004699707,
+    "bbox": [
+        294.7842102050781,
+        552.7099609375,
+        1603.3863525390625,
+        617.2807006835938
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_027/008_plain_text_0.80.png",
+    "text": "Q.9 Identify whether each statement is true or false. Explain."
+}

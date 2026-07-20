@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9012624025344849,
+    "bbox": [
+        246.11080932617188,
+        2469.27734375,
+        1749.7166748046875,
+        2577.415283203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/014_plain_text_0.90.png",
+    "text": "7. There is a circular path around a sports field. Sonia takes 18 minutes to drive one round\nof the field, while Ravi takes 12 minutes for the same. Suppose they both start at the"
+}

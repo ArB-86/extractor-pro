@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.7822481989860535,
+    "bbox": [
+        316.99249267578125,
+        2445.66064453125,
+        2083.635009765625,
+        2582.58447265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_032/005_plain_text_0.78.png",
+    "text": "Data can be organised in a tabular form using tally\nmarks for easy\nanalysis and interpretation."
+}

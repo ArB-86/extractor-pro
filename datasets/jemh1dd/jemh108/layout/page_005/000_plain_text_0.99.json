@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9855035543441772,
+    "bbox": [
+        191.5145721435547,
+        1109.2535400390625,
+        1754.669921875,
+        1386.361572265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/000_plain_text_0.99.png",
+    "text": "Note : For\nthesakeofc\nconvenience,we may\nwrite sin\u00b2A, cos\u00b2A, etc., in\nplace of\ninverse A). sin-1 A has a different meaning, which will be discussed in higher classes.\nSimilar conventions hold for the other trigonometric ratios as well. Sometimes, the\nGreek letter\n\u03b8(\n(theta)\nis also used to denote an angle."
+}

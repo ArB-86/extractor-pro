@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8826541304588318,
+    "bbox": [
+        376.7279357910156,
+        746.9773559570312,
+        2019.5279541015625,
+        863.5550537109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/009_plain_text_0.88.png",
+    "text": "But, we are still not very close to the number whose square is 250.\nWe know that 15? = 225 and 16? = 256."
+}

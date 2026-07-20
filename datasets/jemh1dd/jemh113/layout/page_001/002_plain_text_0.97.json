@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9665611982345581,
+    "bbox": [
+        188.0072021484375,
+        2064.657958984375,
+        1752.1787109375,
+        2181.935302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_001/002_plain_text_0.97.png",
+    "text": "Now, the sum of the values of all the observations = fx, + fx2 + . . . + fxn,\nand\nthe number of observations = f + f, + . . . + fn."
+}

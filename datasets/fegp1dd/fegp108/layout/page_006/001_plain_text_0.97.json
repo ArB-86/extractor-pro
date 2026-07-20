@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9731855988502502,
+    "bbox": [
+        419.40093994140625,
+        2385.55712890625,
+        1507.798095703125,
+        2673.050537109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_006/001_plain_text_0.97.png",
+    "text": "The points A, B, C and D\nare the corners\nof the rectangle. Lines AB, BC, CD\nand DA\nits\nsides. Its\nangles\nA, ZB, C\nare\nare\nand ZD."
+}

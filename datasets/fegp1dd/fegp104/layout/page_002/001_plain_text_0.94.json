@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9380154013633728,
+    "bbox": [
+        291.57025146484375,
+        2025.868408203125,
+        2083.951416015625,
+        2172.2119140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_002/001_plain_text_0.94.png",
+    "text": "A few other children are\nlooking at the list and\nWondering,\n\"We\ncan't yet see the most popular game. How can we\nget it from this list?\""
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6505032777786255,
+    "bbox": [
+        316.051513671875,
+        882.3190307617188,
+        1752.3140869140625,
+        980.4092407226562
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/016_plain_text_0.65.png",
+    "text": "iv)\nThe sum of the probabilities of all the elementary events of an experiment is"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8682310581207275,
+    "bbox": [
+        226.5329132080078,
+        1254.6446533203125,
+        1752.8858642578125,
+        1368.110107421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/014_plain_text_0.87.png",
+    "text": "(e)\nThe total savings\n(in ?) after every month for 10 months when ? 50\naresaved\neach m0nth are 50, 100, 150, 200,250, 300, 350, 400, 450, 500."
+}

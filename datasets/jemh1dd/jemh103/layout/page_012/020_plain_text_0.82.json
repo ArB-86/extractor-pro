@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8226280212402344,
+    "bbox": [
+        284.2378234863281,
+        1211.562744140625,
+        1619.0089111328125,
+        1265.7366943359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/020_plain_text_0.82.png",
+    "text": "3 : Solve the equation in one variable\ne (x or y) so obtained to get its valu"
+}

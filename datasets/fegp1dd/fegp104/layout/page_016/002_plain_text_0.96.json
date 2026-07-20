@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9605113863945007,
+    "bbox": [
+        291.075927734375,
+        394.32220458984375,
+        2087.205078125,
+        689.5216674804688
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_016/002_plain_text_0.96.png",
+    "text": "be\ne difficult! Therefore, We\nchoose\nthe scale so\nthat 1\nunit represents\n10\nThe bar\nfor\nthis choice\ne is shown\nin t\nthe\nfigure. So\ncrores.l\ngraph\na\nbar\nof length 5\nunits\n50\nand of 8\nrepresents\ncrores\nunits\ns represents\n80\ncrores."
+}

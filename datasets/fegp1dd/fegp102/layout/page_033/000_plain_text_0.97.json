@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9653571248054504,
+    "bbox": [
+        407.56396484375,
+        2105.21533203125,
+        1220.2437744140625,
+        2777.164306640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_033/000_plain_text_0.97.png",
+    "text": "3.\nVidya is enjoying her time\non the swing. She notices\nthat the greater the angle\nWith which she starts the\nswinging,\nthe\ngreater\nis\nthe speed s\nshe achieves on\nher swing. But where is the\nangle? Are you able to see\nany angle?"
+}

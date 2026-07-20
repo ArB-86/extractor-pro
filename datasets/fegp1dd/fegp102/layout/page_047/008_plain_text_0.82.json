@@ -1,0 +1,13 @@
+{
+    "page": 47,
+    "label": "plain_text",
+    "confidence": 0.818516194820404,
+    "bbox": [
+        293.7521667480469,
+        1218.81689453125,
+        1489.343017578125,
+        1278.310546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_047/008_plain_text_0.82.png",
+    "text": "Q.2. In each case, d\n determine which angle is greater and why."
+}

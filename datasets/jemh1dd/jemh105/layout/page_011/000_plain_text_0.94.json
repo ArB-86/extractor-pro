@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.944876492023468,
+    "bbox": [
+        192.5543670654297,
+        2284.389404296875,
+        1755.1761474609375,
+        2401.669677734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/000_plain_text_0.94.png",
+    "text": "Example 8 : Find the 11th term from the last term (towards the first term) of the\nAP : 10, 7, 4, . . , - 62."
+}

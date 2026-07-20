@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9419289231300354,
+    "bbox": [
+        192.4199981689453,
+        1311.7828369140625,
+        1752.45556640625,
+        1418.3382568359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/004_plain_text_0.94.png",
+    "text": "The interval which contains the end points also is called closed interval and is\ndenoted by [ \u03b1, b ]. Thus"
+}

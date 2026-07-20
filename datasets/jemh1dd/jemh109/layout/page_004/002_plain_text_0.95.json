@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9525635242462158,
+    "bbox": [
+        190.2722930908203,
+        2254.908935546875,
+        1753.474853515625,
+        2372.416259765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_004/002_plain_text_0.95.png",
+    "text": "Therefore, she should place the foot of the ladder at a distance of 2.14 m from\nthepole."
+}

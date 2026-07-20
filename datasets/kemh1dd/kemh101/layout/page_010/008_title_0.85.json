@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.853949248790741,
+    "bbox": [
+        195.21839904785156,
+        2098.74462890625,
+        908.990966796875,
+        2149.061767578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/008_title_0.85.png",
+    "text": "1.6.1\nSubsets\nof\nset\nof\nreal\nnumbers"
+}

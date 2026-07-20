@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8170471787452698,
+    "bbox": [
+        403.6550598144531,
+        645.3734741210938,
+        2191.2998046875,
+        1155.5091552734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_027/006_plain_text_0.82.png",
+    "text": "a. There is no prime number whose units digit is 4.\nb. A product of primes can also be prime.\nc. Prime numbers do not have any factors.\nd. All even numbers are composite numbers.\ne. 2 is a prime and so is the next number, 3. For every other prime, the next number\niscomposite."
+}

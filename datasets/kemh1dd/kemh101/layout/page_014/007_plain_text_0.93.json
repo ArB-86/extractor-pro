@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9302753210067749,
+    "bbox": [
+        193.4998779296875,
+        819.5015869140625,
+        1484.0230712890625,
+        878.9494018554688
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/007_plain_text_0.93.png",
+    "text": "Example 12 Let A = { 2, 4, 6, 8} and B = { 6, 8, 10, 12}. Find A U B"
+}

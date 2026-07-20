@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.520486056804657,
+    "bbox": [
+        193.75706481933594,
+        1364.6241455078125,
+        903.3966064453125,
+        1422.7733154296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/010_plain_text_0.52.png",
+    "text": "So, we conclude that\n\u221a2\nis i\nirrational."
+}

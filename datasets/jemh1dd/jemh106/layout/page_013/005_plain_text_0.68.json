@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6763753294944763,
+    "bbox": [
+        247.0327911376953,
+        679.8200073242188,
+        1153.760009765625,
+        879.2810668945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/005_plain_text_0.68.png",
+    "text": "7.\nUsing\nTheorem\n6.1, prove that a line drawn \nthrough\nthe mid-point of one side of a triangle\nparallel to\nanother side bisects the third side. (Recall that you\nhave\nproved it in Class\nIX)."
+}

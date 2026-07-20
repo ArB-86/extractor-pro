@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9509556293487549,
+    "bbox": [
+        192.52650451660156,
+        1591.04541015625,
+        1752.32666015625,
+        1699.1585693359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/004_plain_text_0.95.png",
+    "text": "Example 2 : Graphically, find whether the following pair of equations has no solution,\nunique solution or infinitely many solutions:"
+}

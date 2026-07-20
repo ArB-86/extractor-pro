@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8880550265312195,
+    "bbox": [
+        289.3083801269531,
+        2190.28955078125,
+        1324.709716796875,
+        2249.2822265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/010_plain_text_0.89.png",
+    "text": "We are now ready to give a proof that\n\u221a2\nis i\nirrational."
+}

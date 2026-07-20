@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5359572768211365,
+    "bbox": [
+        378.204833984375,
+        410.22320556640625,
+        1533.6270751953125,
+        471.6402893066406
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/014_plain_text_0.54.png",
+    "text": "general, if y= x2\nthen x is the square root of y.\nIn"
+}

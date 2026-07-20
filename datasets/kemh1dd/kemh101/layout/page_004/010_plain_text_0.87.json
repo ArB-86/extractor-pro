@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8723783493041992,
+    "bbox": [
+        193.87283325195312,
+        741.6029663085938,
+        701.8014526367188,
+        793.0341796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/010_plain_text_0.87.png",
+    "text": "Alternatively, v\nwe can write"
+}

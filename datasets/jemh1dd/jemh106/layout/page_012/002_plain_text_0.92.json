@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.917667031288147,
+    "bbox": [
+        244.9588623046875,
+        933.5491943359375,
+        1317.3795166015625,
+        988.6614990234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_012/002_plain_text_0.92.png",
+    "text": "1.I\nIn Fig. 6.17, (i) and (ii), DE I| BC. Find EC in (i) and AD in (ii)."
+}

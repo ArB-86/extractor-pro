@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.9059669375419617,
+    "bbox": [
+        424.7320251464844,
+        396.8157958984375,
+        1494.7972412109375,
+        468.5674133300781
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_010/007_title_0.91.png",
+    "text": "Comparing\nangles\nby s\n superimposition"
+}

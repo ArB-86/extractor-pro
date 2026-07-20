@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9502171277999878,
+    "bbox": [
+        196.5657501220703,
+        737.3504638671875,
+        1753.0699462890625,
+        834.7788696289062
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_009/001_plain_text_0.95.png",
+    "text": "1\u3002\nThe graphs of y = p(x)\n are given in Fig. 2.10 below, for some polynomials p(x). Find the\nnumber of zeroes of p(x), in each case."
+}

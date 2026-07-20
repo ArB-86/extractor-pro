@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9528653025627136,
+    "bbox": [
+        192.18115234375,
+        974.8712158203125,
+        1753.507568359375,
+        1085.3280029296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/005_plain_text_0.95.png",
+    "text": "Since b2 - 4ac determines whether the quadratic equation ax\u00b2 + bx + c = O has\nreal roots or not, b2 - 4ac is called the discriminant of this quadratic equation."
+}

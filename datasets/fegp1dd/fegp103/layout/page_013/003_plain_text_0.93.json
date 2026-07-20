@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9278415441513062,
+    "bbox": [
+        455.2982482910156,
+        1050.5260009765625,
+        1891.7716064453125,
+        1499.53662109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_013/003_plain_text_0.93.png",
+    "text": "a. 5-digit number + 5-digit number:\ngives a 5-digit number\nb. 4-digit number + 2-digit number \ngives a 4-digit number\n4-digit number + 2-digit number g\nC. L\ngives a 6-digit number\nd. 5-digit number - 5-digit number g\ngives a 5-digit number\n5-digit number - 2-digit number \ne. 5\ngives a 3-digit number"
+}

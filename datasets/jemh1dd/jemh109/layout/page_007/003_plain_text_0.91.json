@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9123672246932983,
+    "bbox": [
+        193.5620574951172,
+        1507.4971923828125,
+        1047.921142578125,
+        1564.442138671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_007/003_plain_text_0.91.png",
+    "text": "Therefore, the height of the tower is\n20\u221a3\nm."
+}

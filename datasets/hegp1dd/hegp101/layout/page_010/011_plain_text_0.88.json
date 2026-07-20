@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8773943781852722,
+    "bbox": [
+        392.8820495605469,
+        2115.904541015625,
+        1896.4276123046875,
+        2181.04736328125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/011_plain_text_0.88.png",
+    "text": "1\u3002\nFind the length of the side of a square whose area is 441 m?."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9593985676765442,
+    "bbox": [
+        324.6113586425781,
+        951.8434448242188,
+        2056.421630859375,
+        1237.828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_004/000_plain_text_0.96.png",
+    "text": "To\norganise\nthe\ndata,\nWrite\nthe\nwe\ncan\nname\nof\neach\nsweet\nin\none\ncolumn\nand\nusing\ng tally signs, note the\nnumber of students who\nprefer\nthat\nThe\nnumbers\n6, 9, ...\nthe\nfrequencies\nsweet.\nof\nthe\nare\nsweet\npreferences\nfor jalebi, gulab jamun\nN ... respectively."
+}

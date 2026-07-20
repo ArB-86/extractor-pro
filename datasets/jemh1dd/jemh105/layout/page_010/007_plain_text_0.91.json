@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.907513439655304,
+    "bbox": [
+        190.7651824951172,
+        2481.414306640625,
+        974.10498046875,
+        2537.690673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/007_plain_text_0.91.png",
+    "text": "Hence, the required AP is 3, 4, 5, 6, 7, ."
+}

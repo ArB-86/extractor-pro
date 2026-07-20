@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9229869246482849,
+    "bbox": [
+        378.5809020996094,
+        1022.6655883789062,
+        1358.038818359375,
+        1094.298095703125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_003/004_title_0.92.png",
+    "text": "Getting\na Feel of Large Numbers"
+}

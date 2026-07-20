@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8970703482627869,
+    "bbox": [
+        237.14633178710938,
+        714.4071655273438,
+        1561.4998779296875,
+        773.6183471679688
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/010_plain_text_0.90.png",
+    "text": "We begin with some examples involving linear p\npolynomials."
+}

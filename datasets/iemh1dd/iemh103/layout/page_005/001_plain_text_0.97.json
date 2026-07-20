@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9691019058227539,
+    "bbox": [
+        237.9715576171875,
+        409.77752685546875,
+        1795.81494140625,
+        574.8330688476562
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/001_plain_text_0.97.png",
+    "text": "Brahmagupta did not stop at zero. He realised that if subtraction of a\nnumber from itself can result in zero (5 - 5 = 0), then what would happen\nif we subtracted a larger number from a smaller one (3 - 5 = )?"
+}

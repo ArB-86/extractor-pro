@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9581250548362732,
+    "bbox": [
+        292.154541015625,
+        2563.674072265625,
+        2085.030029296875,
+        2784.12841796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_001/000_plain_text_0.96.png",
+    "text": "In these\npictures, it a\nthat some\nparts of the\nfigure\nappears\nare\nrepeated and these repetitions seem to occur i\nin a definite pattern.\nCan\nwhat repeats in the beautiful\nrangoli figure? In the\nyou see"
+}

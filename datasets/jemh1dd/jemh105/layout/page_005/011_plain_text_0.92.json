@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9169101119041443,
+    "bbox": [
+        291.038330078125,
+        2074.169189453125,
+        1133.0096435546875,
+        2131.779296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/011_plain_text_0.92.png",
+    "text": "In\ngeneral, for an\nAPa, a2,...,\nwe\nhave\nn"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9573038816452026,
+    "bbox": [
+        190.7416534423828,
+        1560.56591796875,
+        1751.8883056640625,
+        1668.4761962890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_001/001_plain_text_0.96.png",
+    "text": "Canyoug\n guess how heights of mountains (say Mount Everest) or distances \nSOof\nsome long distant objects (say moon) have been found out? Do you think these have"
+}

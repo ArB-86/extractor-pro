@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "title",
+    "confidence": 0.7361207008361816,
+    "bbox": [
+        395.81951904296875,
+        1503.448486328125,
+        666.8097534179688,
+        1571.3394775390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_021/003_title_0.74.png",
+    "text": "Iethod\nMe\n2"
+}

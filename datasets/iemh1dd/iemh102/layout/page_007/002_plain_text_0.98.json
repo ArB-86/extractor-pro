@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9818475246429443,
+    "bbox": [
+        237.41165161132812,
+        1382.3828125,
+        1796.16796875,
+        1712.98779296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_007/002_plain_text_0.98.png",
+    "text": "The\npolynomial\n2n - 1 has\ndegree\n1. Hence, it is\n an example of a\nlinear\npolynomial. Also, the\ndifference\nbetween\nconsecutive\nterms\nin\nthe sequence\ne of the\n number\nc of\nsquares,\nthat is, 1, 3, 5, 7, 9... is t\nthe\nconstant value 2. Thus, with each stage, the number of squares increases\nby 2. The relationship between t\nthe number of the stage and the number\nof square\ntiles is a\nlinear relationship."
+}

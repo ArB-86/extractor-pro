@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9486513733863831,
+    "bbox": [
+        296.72833251953125,
+        1704.09521484375,
+        1144.860107421875,
+        2012.0345458984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_026/000_plain_text_0.95.png",
+    "text": "Q. 1\nam a 5-digit palindrome.\n18\nam\n an odd\nnumber.\nMy 't' digit is double of my\ny \u2018u' digit.\nMy \u201c\n\"h' digit is double of my\n\u201ct\u201d(\ndigit.\nWho\nam\nI?"
+}

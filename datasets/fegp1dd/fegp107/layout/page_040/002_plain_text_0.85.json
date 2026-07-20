@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.8469459414482117,
+    "bbox": [
+        293.47576904296875,
+        882.6844482421875,
+        1552.283935546875,
+        993.5548095703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_040/002_plain_text_0.85.png",
+    "text": "1\n3\n4-\nQ1. On a number line, draw\nlines of lengths\nand\n-5\n10'\n10"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9761819839477539,
+    "bbox": [
+        195.19674682617188,
+        1062.3543701171875,
+        1239.73876953125,
+        1720.8348388671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/000_plain_text_0.98.png",
+    "text": "Much of mathematics is about finding a pattern - a\nrecognisable link between quantities that change. In our\ndaily life, we come across many patterns that characterise\nrelations such as brother and sister, father and son, teacher\nand student. In mathematics also, we come across many\nrelations such as number m is less than number n, line Iis\nparallel to line m, set A is a subset of set B. In all these, we\nnotice that a relation involves pairs of objects in certain\norder. In this Chapter, we will learn how to link pairs of\nobjects from two sets and then introduce relations between\nthe two objects in the pair. Finally, we will learn about\nspecial relations which will qualify to be functions. The"
+}

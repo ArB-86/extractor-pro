@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.7785511016845703,
+    "bbox": [
+        290.8347473144531,
+        394.94805908203125,
+        1960.3170166015625,
+        466.32122802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_023/011_plain_text_0.78.png",
+    "text": "Expressing a fraction in lowest terms can also be done in steps."
+}

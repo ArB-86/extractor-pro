@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.951306164264679,
+    "bbox": [
+        511.52398681640625,
+        2160.211181640625,
+        1310.5302734375,
+        2700.534912109375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_005/001_plain_text_0.95.png",
+    "text": "(a)\nFive hundred?\n(b)\n780?\n(c)\n1000?\n(d)\n3700?\n(e)\n10,000?\n(f)\nOne lakh?\n(g)\n? 435 times"
+}

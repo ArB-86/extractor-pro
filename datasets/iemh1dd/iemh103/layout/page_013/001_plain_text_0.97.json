@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9740465879440308,
+    "bbox": [
+        236.32212829589844,
+        2348.982666015625,
+        1798.095703125,
+        2541.186767578125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/001_plain_text_0.97.png",
+    "text": "The first proof of the\nirrationality of\n\u221a2\nis due to a mathematician\nnamed\nHippasus\nwho\nwas\nmember\nof\nthe\nPythagorean\na\nschool\n(c. 400 BCE). To explain why\n\u221a2\n is irrational, he employed a brilliant"
+}

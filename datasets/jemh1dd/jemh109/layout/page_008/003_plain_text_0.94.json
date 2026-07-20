@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9438099265098572,
+    "bbox": [
+        191.6074981689453,
+        566.8722534179688,
+        680.6171264648438,
+        621.8225708007812
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_008/003_plain_text_0.94.png",
+    "text": "In right \u25b3 PAC,\nhave\nwe"
+}

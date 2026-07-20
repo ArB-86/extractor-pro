@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9764915108680725,
+    "bbox": [
+        193.70559692382812,
+        1186.1932373046875,
+        1135.87109375,
+        1567.125244140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/000_plain_text_0.98.png",
+    "text": "Most of the relationships\nbetween sets can\nbe\nrepresented by means of diagrams which are known\ns Venn diagrams. Venn diagrams are named after\nas\nthe English logician, John Venn (1834-1883). These\ndiagrams consist of rectangles and\nclosed curves\nusually\ncircles. The universal set is represented\nusually by a rectangle and its subsets\nby circles."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9202390909194946,
+    "bbox": [
+        418.9584045410156,
+        1567.4464111328125,
+        2036.09814453125,
+        1711.3905029296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_010/005_plain_text_0.92.png",
+    "text": "Finde\nexamples for each of the above. How is it related to the\nnumber pair being co-prime?"
+}

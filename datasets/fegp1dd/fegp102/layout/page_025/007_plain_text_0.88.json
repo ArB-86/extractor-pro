@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8794946670532227,
+    "bbox": [
+        371.5351867675781,
+        473.3685607910156,
+        1757.134033203125,
+        540.99365234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_025/007_plain_text_0.88.png",
+    "text": "Which set of markings did\nyou use \u2014inner or outer?"
+}

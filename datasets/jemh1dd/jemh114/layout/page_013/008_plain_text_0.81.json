@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8068966865539551,
+    "bbox": [
+        246.44358825683594,
+        2408.591552734375,
+        1753.927978515625,
+        2559.188232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/008_plain_text_0.81.png",
+    "text": "9. A box contains 5 red marbles, 8 white marbles and 4 green marbles. One marble is taken\nout of the box at random. What is the probability that the marble taken out will be\n(i) red ?\n(ii) white ?\n(iii) not green?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9423026442527771,
+    "bbox": [
+        376.5060729980469,
+        285.103271484375,
+        2089.241455078125,
+        531.13671875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/003_plain_text_0.94.png",
+    "text": "It might be hard to digest the fact that after\njust 46 folds, the t\nthickness\nis\nthan\n7,00,000\nkm. This is t\nthe\nof\nmultiplicative\nmore\npower\ngrowth,\nalso called\nexponential\ngrowth. Let\nusa\nanalyse t\nthe\ngrowth.\nWe have seen\nthat the thickness\ndoubles after\nevery\nfold."
+}

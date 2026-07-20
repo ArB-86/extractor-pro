@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9322359561920166,
+    "bbox": [
+        291.69573974609375,
+        814.7507934570312,
+        2188.466552734375,
+        936.5687866210938
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_028/000_plain_text_0.93.png",
+    "text": "Q5. Suppose you have to get each of these shapes with some folds and a single straight\ncut. How will you do it?"
+}

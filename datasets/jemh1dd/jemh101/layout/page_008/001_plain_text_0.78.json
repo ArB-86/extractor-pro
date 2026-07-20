@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7792755961418152,
+    "bbox": [
+        191.25721740722656,
+        560.74853515625,
+        1751.7181396484375,
+        696.3297729492188
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_008/001_plain_text_0.78.png",
+    "text": "This contradiction has arisen because of our incorrect assumption that\n\u221a3\nis rational.\nSo, we conclude that\n\u221a3\nis irrational."
+}

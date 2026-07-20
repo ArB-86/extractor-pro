@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6488644480705261,
+    "bbox": [
+        292.2743835449219,
+        1039.153076171875,
+        1037.0760498046875,
+        1095.023193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_008/004_plain_text_0.65.png",
+    "text": "We\nprove\nparticular\nhere.\nsome\ncases"
+}

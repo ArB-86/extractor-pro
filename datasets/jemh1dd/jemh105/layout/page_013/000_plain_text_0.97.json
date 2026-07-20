@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9713483452796936,
+    "bbox": [
+        193.31370544433594,
+        783.7196655273438,
+        1753.960693359375,
+        954.6053466796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/000_plain_text_0.97.png",
+    "text": "Example 10 : In a flower bed, there are\n23rose\nplants in the first row, 21 in the\nsecond, 19 in the third, and so on. There are 5 rose plants in the last row. How many\nrows are there in the flower bed?"
+}

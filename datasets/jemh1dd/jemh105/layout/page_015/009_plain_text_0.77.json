@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7659717202186584,
+    "bbox": [
+        224.69081115722656,
+        395.95428466796875,
+        1384.2431640625,
+        445.3384704589844
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/009_plain_text_0.77.png",
+    "text": "17.1\nFind the 20th term from the last term of the AP: 3, 8, 13, .. ., 253."
+}

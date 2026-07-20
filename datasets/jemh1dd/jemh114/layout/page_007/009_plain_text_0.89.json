@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8913137912750244,
+    "bbox": [
+        254.31602478027344,
+        1295.439697265625,
+        1303.246337890625,
+        1352.350341796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/009_plain_text_0.89.png",
+    "text": "The probability of Reshma's winning =\nP(R) = 1 - P(S)"
+}

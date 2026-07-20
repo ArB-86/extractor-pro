@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.909122109413147,
+    "bbox": [
+        294.65399169921875,
+        1834.5908203125,
+        2184.307861328125,
+        1956.6903076171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_037/001_plain_text_0.91.png",
+    "text": "Q2. Draw two figures other than a circle and a square that have both reflection symmetry\nand rotational symmetry."
+}

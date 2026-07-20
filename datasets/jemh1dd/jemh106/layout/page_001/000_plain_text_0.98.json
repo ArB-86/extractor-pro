@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9846070408821106,
+    "bbox": [
+        190.1217803955078,
+        1159.38037109375,
+        1750.16455078125,
+        1544.9837646484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_001/000_plain_text_0.98.png",
+    "text": "You are familiar with triangles and many of their properties from your earlier classes.\nIn Class IX, you have studied congruence of triangles in detail. Recall that two figures\nare said to be congruent, if they have the same shape and the same size. In this\nchapter, we shall study about those figures which have the same shape but not necessarily\nthe same size. Two figures having the same shape (and not necessarily the same size)\nare called similar figures. In particular, we shall discuss the similarity of triangles and\napply this knowledge in giving a simple proof of Pythagoras\ns Theorem learnt earlier."
+}

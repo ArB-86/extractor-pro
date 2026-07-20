@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9599685072898865,
+    "bbox": [
+        194.9973907470703,
+        1315.529052734375,
+        1091.7252197265625,
+        1422.94189453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/008_plain_text_0.96.png",
+    "text": "Therefore, t\nthe distance\nof B\nfrom\nA, i.e.,\nAB\n3 = OB -OA =6-4 = 2\nunits."
+}

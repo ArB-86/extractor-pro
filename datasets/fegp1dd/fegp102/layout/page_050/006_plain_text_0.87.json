@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.8711530566215515,
+    "bbox": [
+        296.0199890136719,
+        1713.7545166015625,
+        1233.9432373046875,
+        1877.8175048828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_050/006_plain_text_0.87.png",
+    "text": "Ans.\nZIHJ\n=42\u00b0\nZIHJ\n=116\u00b0\nNo, paper\nprotractor cannot\nwork here."
+}

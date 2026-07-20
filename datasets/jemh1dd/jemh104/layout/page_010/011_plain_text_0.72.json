@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.724848747253418,
+    "bbox": [
+        246.99261474609375,
+        1951.852783203125,
+        1753.9390869140625,
+        2154.393310546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/011_plain_text_0.72.png",
+    "text": "4.\nQuadratic formula: The\nroots of a quadratic equation\n1 ax2\n+\nbx + c =\n0\nare\ngiven\nby\n-b\u00b1\u221ab2=4ac\nprovided b2 - 4ac \u2265 0.\n2a"
+}

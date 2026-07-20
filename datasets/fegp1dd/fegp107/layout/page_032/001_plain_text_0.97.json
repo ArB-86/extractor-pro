@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9695979952812195,
+    "bbox": [
+        419.8172912597656,
+        1896.4888916015625,
+        2209.05908203125,
+        2118.563232421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_032/001_plain_text_0.97.png",
+    "text": "Do you know what a fraction was called in ancient India? It\ntwas\ncalled bhinna in Sanskrit,\nwhich means\n'broken'. It\nt was also called\nbhaga or ansha meaning 'part' or 'piece'."
+}

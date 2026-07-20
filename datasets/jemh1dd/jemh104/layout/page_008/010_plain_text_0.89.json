@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8871712684631348,
+    "bbox": [
+        192.4831085205078,
+        587.5465698242188,
+        1290.1282958984375,
+        694.3118896484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/010_plain_text_0.89.png",
+    "text": "So, the roots of the equation ax\u00b2 + bx + c = O are both\n2a"
+}

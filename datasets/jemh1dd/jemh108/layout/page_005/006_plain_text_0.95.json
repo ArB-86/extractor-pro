@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9543477296829224,
+    "bbox": [
+        193.27157592773438,
+        676.3140869140625,
+        1752.1075439453125,
+        784.7540283203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/006_plain_text_0.95.png",
+    "text": "This shows that the trigonometric ratios of angle A in \u25b3 PAM not differ from\nthose of angle A in \u25b3 CAB."
+}

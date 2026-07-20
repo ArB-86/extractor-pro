@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.6611273884773254,
+    "bbox": [
+        505.5152587890625,
+        1308.280029296875,
+        2049.174560546875,
+        1382.8101806640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_015/007_plain_text_0.66.png",
+    "text": "it to mark out the points B and C, and complete the rectangle"
+}

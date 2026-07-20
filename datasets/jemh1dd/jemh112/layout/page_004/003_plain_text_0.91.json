@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9087121486663818,
+    "bbox": [
+        189.3131866455078,
+        2003.9312744140625,
+        1754.125732421875,
+        2183.185302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_004/003_plain_text_0.91.png",
+    "text": "Solution : The total surface area of the cube = 6 x (edge)\u00b2 = 6 x 5 x 5 cm? = 150 cm2.\nNote that the part of the cube where the hemisphere is attached is not included in the\nsurface area."
+}

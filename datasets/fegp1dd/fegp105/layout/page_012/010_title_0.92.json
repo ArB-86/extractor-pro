@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9158132672309875,
+    "bbox": [
+        422.072509765625,
+        399.48822021484375,
+        1017.0137329101562,
+        467.3323669433594
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/010_title_0.92.png",
+    "text": "Prime factorisation"
+}

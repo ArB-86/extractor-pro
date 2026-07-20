@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.8586593270301819,
+    "bbox": [
+        195.6117401123047,
+        1486.93603515625,
+        1108.2021484375,
+        1543.787841796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_001/006_title_0.86.png",
+    "text": "14.1\nProbability\ny \u2014 A Theoretical Approach"
+}

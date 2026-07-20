@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9354680776596069,
+    "bbox": [
+        292.8218994140625,
+        395.4097595214844,
+        2085.808349609375,
+        541.1539916992188
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_014/003_plain_text_0.94.png",
+    "text": "length or height of each bar represents the given number. As we saw in\npictographs, we can use a scale or key when the frequencies are larger."
+}

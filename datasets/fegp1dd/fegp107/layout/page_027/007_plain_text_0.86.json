@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8597617745399475,
+    "bbox": [
+        294.1320495605469,
+        2323.007568359375,
+        2083.16796875,
+        2467.018798828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_027/007_plain_text_0.86.png",
+    "text": "Adding\nfractions\nWith\ndifferent\nfractional\nunits\nor\ndenominators"
+}

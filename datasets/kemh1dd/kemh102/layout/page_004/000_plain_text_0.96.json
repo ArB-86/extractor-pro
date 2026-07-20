@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.961725115776062,
+    "bbox": [
+        192.42662048339844,
+        763.4230346679688,
+        1754.5152587890625,
+        993.818359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_004/000_plain_text_0.96.png",
+    "text": "Solution\nThe\ne Cartesian\nproduct R \u00d7 F\nR\nthe set R x\nR={(x, y) : x, y \u2208 R}\nrepresents\nwhich\nrepresents\nthe coordinates of all the\n2points in\nOM11\ndimensional s\nspace a\nand\nthe\nproduct R x R x R\nthe set\nt R \u00d7 R \u00d7 R ={(x, y, z) : x, y, z \u2208\ncartesian\nrepresents\nR}\nwhich\nthe\ncoordinates\nof all t\nthe\nrepresents\npoints\nin\nthree-dimensional\nspace."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9533066749572754,
+    "bbox": [
+        193.11546325683594,
+        396.8846130371094,
+        1751.5458984375,
+        510.1514892578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/002_plain_text_0.95.png",
+    "text": "Solution The required numbers are 1, 2, 3, 4, 5, 6. So, the given set in the roster form\nis\n{1, 2, 3,4, 5, 6}."
+}

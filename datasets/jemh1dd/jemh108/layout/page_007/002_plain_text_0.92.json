@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9169323444366455,
+    "bbox": [
+        191.10177612304688,
+        1849.162841796875,
+        777.3994750976562,
+        1900.88720703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_007/002_plain_text_0.92.png",
+    "text": "Solution\nn : In \u25b3 ACB,\nhave\nwe"
+}

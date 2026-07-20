@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9870668053627014,
+    "bbox": [
+        191.32669067382812,
+        399.5376892089844,
+        1754.2845458984375,
+        767.9815673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_009/000_plain_text_0.99.png",
+    "text": "Now, looking at the pattern formed above, can you find her monthly salary for\nthe 6th year? The 15th year? And, assuming that she will still be working in the job.\nwhat about the monthly salary for the 25th year? You would calculate this by adding\n 500 each time to the salary of the previous year to give the answer. Can we make\nthis process shorter? Let us see. You may have already got some idea from the way\nwe have obtained the salaries above."
+}

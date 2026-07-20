@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9071753621101379,
+    "bbox": [
+        196.91024780273438,
+        1307.042724609375,
+        1751.803466796875,
+        1428.9151611328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/005_plain_text_0.91.png",
+    "text": "Now, we want to find the results for ( A U B\nand A' ^ B' in the followng\nexample."
+}

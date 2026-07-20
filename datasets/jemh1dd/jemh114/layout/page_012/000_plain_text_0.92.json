@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9169161319732666,
+    "bbox": [
+        216.85218811035156,
+        2129.47998046875,
+        1751.1143798828125,
+        2244.584228515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_012/000_plain_text_0.92.png",
+    "text": "11i\nAs you can see from Fig. 14.3, all the outcomes are favourable to the event\nG\nsum of two numbers \u2264 12'."
+}

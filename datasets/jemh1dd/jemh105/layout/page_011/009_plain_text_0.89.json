@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8887839913368225,
+    "bbox": [
+        193.06993103027344,
+        1422.6204833984375,
+        1350.9395751953125,
+        1478.450439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/009_plain_text_0.89.png",
+    "text": "Example 7 : How many\ntwo-digit numbers are c\ndivisible by 3?"
+}

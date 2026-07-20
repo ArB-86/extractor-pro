@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7009608745574951,
+    "bbox": [
+        228.2520294189453,
+        1334.3717041015625,
+        1118.906005859375,
+        1553.6009521484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/008_plain_text_0.70.png",
+    "text": "11.\nA car has two wipers which do not overlap. Each\nwiper\nhas a blade of length 25\ncm\nsweeping\nthrough\nan a\nangle of 115\u00b0. Find the\ntotal\narea\ncleaned at each sweep of the blades."
+}

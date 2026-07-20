@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5290228128433228,
+    "bbox": [
+        295.5658874511719,
+        2114.658447265625,
+        552.9649047851562,
+        2177.843994140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_037/012_plain_text_0.53.png",
+    "text": "Pa\nage\n86\nno."
+}

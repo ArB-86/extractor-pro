@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8912460803985596,
+    "bbox": [
+        469.1319274902344,
+        558.7105712890625,
+        1679.440185546875,
+        623.06103515625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_023/001_plain_text_0.89.png",
+    "text": "We can write digits as shown\nin the image below:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.7331093549728394,
+    "bbox": [
+        296.9562072753906,
+        1758.371826171875,
+        696.6962280273438,
+        1818.05859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_048/007_plain_text_0.73.png",
+    "text": "Ans.\nAcute\n angle"
+}

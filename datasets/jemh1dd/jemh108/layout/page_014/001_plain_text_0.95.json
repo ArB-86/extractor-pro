@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9515305757522583,
+    "bbox": [
+        190.50823974609375,
+        867.1443481445312,
+        1753.2794189453125,
+        976.8536987304688
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/001_plain_text_0.95.png",
+    "text": "Note that alternatively we could have used Pythagoras theorem to determine the third\nside in the example above,"
+}

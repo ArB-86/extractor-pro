@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.9504624605178833,
+    "bbox": [
+        291.27899169921875,
+        1134.5545654296875,
+        2086.4755859375,
+        1281.650634765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_039/002_plain_text_0.95.png",
+    "text": "Have we covered all the possible measures t\nthat an angle\n can take?\nHere is another type of angle."
+}

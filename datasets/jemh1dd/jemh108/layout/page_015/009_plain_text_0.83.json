@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8296638131141663,
+    "bbox": [
+        314.344482421875,
+        586.8980102539062,
+        1656.5997314453125,
+        985.8114624023438
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_015/009_plain_text_0.83.png",
+    "text": "sin 60\u00b0 c0s 30\u00b0 + sin 30\u00b0 c0s 60\u00b0\n11\n 2 tan\u00b2 45\u00b0+ c0s\u00b2 30\u00b0-sin2 60\u00b0\ncOS 45\u00b0\nsin 30\u00b0 + tan 45\u00b0 - c0sec 60\u00b0\n111\n1V\nsec 30\u00b0 + c0sec 30\u00b0\n 105 + 09 905 + 00 509\n5 cos\n60\u00b0 + 4 sec\u00b2 30\u00b0 - tan\n45\u00b0\nsin\n30\u00b0 + c0s2 30\u00b0"
+}

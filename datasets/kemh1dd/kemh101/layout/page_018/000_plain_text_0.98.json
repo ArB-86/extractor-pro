@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9763942360877991,
+    "bbox": [
+        190.6767578125,
+        1731.4605712890625,
+        1757.0511474609375,
+        2161.12646484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_018/000_plain_text_0.98.png",
+    "text": "Let U be the universal set which consists of all prime numbers and A be the subset of\nU which consists of all those prime numbers that are not divisors of 42. Thus,\nA = {x : x \u2208 U and x is not a divisor of 42 }. We see that 2 \u2208 U but 2  A, because\n2 is divisor of 42. Similarly,3 \u2208 U but 3  A, and 7 \u2208 U but 7  A. Now 2, 3 and 7 are\nthe only elements of U which do not belong to A. The set ofthese three prime numbers,\ni.e., the set {2, 3, 7} is called the Complement ofA with respect to U, and is denoted by\nA'.So we have\nA' = {2, 3, 7}. Thus, we see that"
+}

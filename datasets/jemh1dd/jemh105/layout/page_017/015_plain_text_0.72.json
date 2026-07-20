@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.7236515283584595,
+    "bbox": [
+        192.75498962402344,
+        1599.5341796875,
+        1088.3162841796875,
+        1653.5218505859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_017/015_plain_text_0.72.png",
+    "text": "Solution : Here, a = 8, d = 3 - 8 = -5,\nn = 22."
+}

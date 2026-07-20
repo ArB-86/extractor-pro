@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9111213088035583,
+    "bbox": [
+        245.92845153808594,
+        1894.037109375,
+        1036.8958740234375,
+        2118.338134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_023/001_plain_text_0.91.png",
+    "text": "2.\nIn Fig. 6.35,  ODC ~\u25b3OBA,  BOC = 125\u00b0\nand Z CDO = 70\u00b0.Find Z DOC, Z DCO\nand\nZOAB."
+}

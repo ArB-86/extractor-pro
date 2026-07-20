@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.795312225818634,
+    "bbox": [
+        468.3003845214844,
+        1045.31396484375,
+        2090.3857421875,
+        1413.016357421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_023/003_plain_text_0.80.png",
+    "text": "Does\nthe\nboundary\nof\nthe\nouter\npicture\nhave\nreflection\na.\nsymmetry? If so, draw t\nthe lines of symmetries. How many\nare\nthey?\nb. Does it have rotational\nsymmetry\naround its centre? If so, find\nthe angles of rotational\nsymmetry."
+}

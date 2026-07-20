@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9710228443145752,
+    "bbox": [
+        291.1558532714844,
+        395.82293701171875,
+        2085.15283203125,
+        692.6312255859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_015/001_plain_text_0.97.png",
+    "text": "For\nthe\nWindmill, t\nthe\nangles of :\nsymmetry\n90\u00b0\n(quarter\nturn),\nare\n180\u00b0\n(half\nturn),\n270\u00b0\n(three-quarter\nturn)\nand\n360\u00b0\n(full\nturn).\nObserve\nthat when a\nfigure is rotated by 360\u00b0, it comes\nback to its\nany\noriginal\nposition, s0 3\n360\u00b0 is always\n ue\nangle of s\nsymmetry."
+}

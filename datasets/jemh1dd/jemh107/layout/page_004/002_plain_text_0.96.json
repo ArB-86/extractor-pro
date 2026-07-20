@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9599720239639282,
+    "bbox": [
+        192.21377563476562,
+        1189.7750244140625,
+        1753.1136474609375,
+        1302.721923828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/002_plain_text_0.96.png",
+    "text": "Note that since distance is always non-negative, we take only the positive square\nroot. So, the distance between the points P(x, y,) a\nand Q(x2, y2) is"
+}

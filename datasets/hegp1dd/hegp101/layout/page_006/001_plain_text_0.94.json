@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9401081204414368,
+    "bbox": [
+        375.50775146484375,
+        1666.763916015625,
+        2090.448486328125,
+        1789.7503662109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/001_plain_text_0.94.png",
+    "text": "This means 25 = 1 + 3 + 5 + 7 + 9 and is thus a perfect square. Since we\nsubtracted the first five odd numbers, 25 = 5?."
+}

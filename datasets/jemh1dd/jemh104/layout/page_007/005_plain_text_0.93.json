@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9338415265083313,
+    "bbox": [
+        193.53843688964844,
+        991.0241088867188,
+        1379.7054443359375,
+        1045.59423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_007/005_plain_text_0.93.png",
+    "text": "Thus, the breadth of the hall is 12 m. Its length = 2x + 1 = 25\nm."
+}

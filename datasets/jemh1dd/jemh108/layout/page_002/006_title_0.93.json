@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9257665872573853,
+    "bbox": [
+        194.9242706298828,
+        1896.5191650390625,
+        730.993408203125,
+        1952.6883544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_002/006_title_0.93.png",
+    "text": "8.2\n Trigonometric Ratios"
+}

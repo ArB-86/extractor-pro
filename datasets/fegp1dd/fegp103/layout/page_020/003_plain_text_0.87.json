@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.870338499546051,
+    "bbox": [
+        297.863525390625,
+        2530.6962890625,
+        1675.73779296875,
+        2591.32275390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_020/003_plain_text_0.87.png",
+    "text": "Ans. Yes, they can, if they are standing\ng in ascending order of height."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8743040561676025,
+    "bbox": [
+        191.80828857421875,
+        2239.150146484375,
+        1378.35791015625,
+        2296.043701171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_017/005_plain_text_0.87.png",
+    "text": "Example 10 : Prove that sec A (1 - sin A)(sec A + tan A) = 1."
+}

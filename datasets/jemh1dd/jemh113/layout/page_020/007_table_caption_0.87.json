@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "table_caption",
+    "confidence": 0.8653600215911865,
+    "bbox": [
+        847.9747314453125,
+        1340.9886474609375,
+        1098.776611328125,
+        1398.5430908203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_020/007_table_caption_0.87.png",
+    "text": "OCR(datasets/jemh1dd/jemh113/layout/page_020/007_table_caption_0.87.png)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.961956262588501,
+    "bbox": [
+        459.4488830566406,
+        1904.3475341796875,
+        2171.682373046875,
+        2119.441162109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_008/002_plain_text_0.96.png",
+    "text": "fact: The largest\nFun\nprime number t\nthat anyone.\nehas\n'written\ndown\nis\nlarge\nthat\nit\nwould\ntake\n6500\nto\nWrite\nit! S\nSo\nthey\nSO\naround\npages\ncould\nonly\nwrite it on\na computer!"
+}

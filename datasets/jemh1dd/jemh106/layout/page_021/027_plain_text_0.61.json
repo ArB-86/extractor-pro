@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6088106036186218,
+    "bbox": [
+        217.2165985107422,
+        1922.8685302734375,
+        646.304931640625,
+        1975.78466796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/027_plain_text_0.61.png",
+    "text": "RNQ\n(ii)\n CMB\n2"
+}

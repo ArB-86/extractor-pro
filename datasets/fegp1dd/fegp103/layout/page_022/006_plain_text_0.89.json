@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8902481198310852,
+    "bbox": [
+        296.3874816894531,
+        2946.569091796875,
+        979.0048217773438,
+        3002.8857421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/006_plain_text_0.89.png",
+    "text": "Ans.\nOne of the ways could be-"
+}

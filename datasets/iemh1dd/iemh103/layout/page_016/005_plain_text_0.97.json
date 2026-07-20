@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9657378792762756,
+    "bbox": [
+        235.7291717529297,
+        2480.316650390625,
+        1796.271484375,
+        2591.7431640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_016/005_plain_text_0.97.png",
+    "text": "We know what it means to add 2, 1oo, or even a lakh terms. What\ndoes it mean to add an infinite number of terms? It means finding the"
+}

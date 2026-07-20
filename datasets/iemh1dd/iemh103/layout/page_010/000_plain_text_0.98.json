@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9830210208892822,
+    "bbox": [
+        237.16744995117188,
+        1134.146484375,
+        1797.1715087890625,
+        1471.0323486328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_010/000_plain_text_0.98.png",
+    "text": "Wea\nalready\nknow\nthat integers can\nn be\nrepresented\non a number\nline.\nTo do this, we\nfirst choose a\npoint and\nmark it as\n 0, called t\nthe origin.\nMoving\n one unit to the right\ngives the point representing\ng 1, two units to\nthe right\ngives 2, and so on. Similarly,\nmoving\nunit to the left of the\nonei\norigin\ngives -1, two units to the left\ngives -2, and so on. Each integer lies\nat an equal\ndistance\nfrom the next\nt one. This is r\n represented in Fig. 3.3."
+}

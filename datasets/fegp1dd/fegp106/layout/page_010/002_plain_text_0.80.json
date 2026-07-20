@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7976555228233337,
+    "bbox": [
+        429.0970153808594,
+        654.3455200195312,
+        1790.98583984375,
+        720.2279663085938
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_010/002_plain_text_0.80.png",
+    "text": "Area of the whole land = l x w = 12 m \u00d7 10 m = 120 sq\nUU"
+}

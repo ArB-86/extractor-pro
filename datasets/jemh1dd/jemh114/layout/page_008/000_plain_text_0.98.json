@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9801449775695801,
+    "bbox": [
+        191.4812774658203,
+        393.751953125,
+        1753.949951171875,
+        725.0661010742188
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_008/000_plain_text_0.98.png",
+    "text": "Example 7 : There are 40 students in Class X of a school of whom 25 are girls and 15\nare\nboys. The class teacher has to select one student as a class representative. She\nwrites the name of each student on a separate card, the cards being identical. Then\nshe puts cards in a bag and stirs them thoroughly. She then draws one card from the\nbag. What is the probability that the name written on the card is the name of (i) a girl?\n(iia\na boy?"
+}

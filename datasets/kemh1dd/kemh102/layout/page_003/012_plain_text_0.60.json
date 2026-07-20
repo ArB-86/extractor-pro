@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6008546352386475,
+    "bbox": [
+        293.6673278808594,
+        391.8499755859375,
+        1759.3753662109375,
+        799.9733276367188
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/012_plain_text_0.60.png",
+    "text": "1\nelements in A x B, i.e., if n(A)\nthen n(A x B) = pq.\n) = p and n(B) = q, t\nIfA and B are non-empty sets and either A or B is an infinite set, then so is\n111\nA x B.\n(iv)\nA \u00d7 A \u00d7 A = {(a, b, c) : a, b, c E A}. Here (a, b, c) is called an ordered\ntriplet."
+}

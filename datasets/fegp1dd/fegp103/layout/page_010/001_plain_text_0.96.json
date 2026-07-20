@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9633763432502747,
+    "bbox": [
+        421.56109619140625,
+        870.2476196289062,
+        1421.681884765625,
+        1087.0404052734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_010/001_plain_text_0.96.png",
+    "text": "his\nbirthday\nManish\nhas\nuo\n20/12/2012\nwhere the\ndigits\n\u20182\u2019\uff0c\u2018\n\u20180\n\u20181'\uff0c\nand\u20182'\nrepeat in\nthat order."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9559924602508545,
+    "bbox": [
+        193.64834594726562,
+        2368.830810546875,
+        1754.9447021484375,
+        2476.850830078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_003/005_plain_text_0.96.png",
+    "text": "So, the trigonometric ratios of an acute angle in a right triangle express the\nrelationship between the angle and the length of its sides."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8980509042739868,
+    "bbox": [
+        193.19097900390625,
+        396.697998046875,
+        771.1409912109375,
+        447.5260925292969
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/004_plain_text_0.90.png",
+    "text": "Now,\nBD:\n1.2\nmx 4 = 4.8\nm."
+}

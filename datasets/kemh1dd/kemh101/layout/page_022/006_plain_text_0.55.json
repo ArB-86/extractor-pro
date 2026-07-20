@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5527020692825317,
+    "bbox": [
+        198.63583374023438,
+        563.8711547851562,
+        1752.483642578125,
+        670.723388671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/006_plain_text_0.55.png",
+    "text": "10.\nFind sets A, B and C such that A  B, B  C and A C\nare non-empty\nsets and A  B\n3n C=\u03a6"
+}

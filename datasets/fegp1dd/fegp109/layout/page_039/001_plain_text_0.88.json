@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.880285382270813,
+    "bbox": [
+        289.7438659667969,
+        300.0533752441406,
+        1893.4808349609375,
+        361.9418640136719
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_039/001_plain_text_0.88.png",
+    "text": "d. A quadrilateral with reflection symmetry but not having rotational symmetry"
+}

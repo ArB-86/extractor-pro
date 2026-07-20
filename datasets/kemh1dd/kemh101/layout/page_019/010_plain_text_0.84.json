@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.838599681854248,
+    "bbox": [
+        318.31683349609375,
+        956.1683349609375,
+        1426.5860595703125,
+        1011.3380737304688
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/010_plain_text_0.84.png",
+    "text": "Again in Example 20 above, we have\nA' = {2,4, 6, 8, 10 }"
+}

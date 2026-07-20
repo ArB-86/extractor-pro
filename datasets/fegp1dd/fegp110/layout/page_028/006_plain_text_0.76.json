@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7562450766563416,
+    "bbox": [
+        338.4400634765625,
+        2349.28369140625,
+        2083.758056640625,
+        2484.46875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_028/006_plain_text_0.76.png",
+    "text": "Addition can be interpreted as Starting Position + Movement = Target\nPosition."
+}

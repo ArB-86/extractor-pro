@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7355537414550781,
+    "bbox": [
+        311.2762756347656,
+        1080.5074462890625,
+        1115.6324462890625,
+        1133.9013671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/004_plain_text_0.74.png",
+    "text": "What will be the total\ncost incurred?"
+}

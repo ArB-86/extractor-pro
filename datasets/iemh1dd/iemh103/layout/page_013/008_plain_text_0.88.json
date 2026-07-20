@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8767984509468079,
+    "bbox": [
+        268.1081237792969,
+        1890.2078857421875,
+        1156.0107421875,
+        1976.93603515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/008_plain_text_0.88.png",
+    "text": "p\nCan\n\u221a2\nbe written as a rational\nnumber\n-q"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9457434415817261,
+    "bbox": [
+        293.77874755859375,
+        1672.9219970703125,
+        2084.03466796875,
+        1815.9573974609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_026/002_plain_text_0.95.png",
+    "text": "Some of Brahmagupta's key rules for addition and subtraction of\npositive numbers, negative numbers and zero are\ngiven below:"
+}

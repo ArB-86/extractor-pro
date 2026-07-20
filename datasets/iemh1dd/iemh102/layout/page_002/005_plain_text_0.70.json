@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7023738622665405,
+    "bbox": [
+        279.0570373535156,
+        2384.81396484375,
+        1764.0863037109375,
+        2617.5263671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/005_plain_text_0.70.png",
+    "text": "1.\nCan\nidentify\nthe\nterms,\n, variables\nand\ncoefficients of this a\nalgebraic\nyou\nexpression?\n2. \uff08\nCan\nsimilarity\nyou\npoint\nout\nany\nor\ndifference\nbetween\nthea\nalgebraic\nobtained in Examples\nexpressions\nand 3?"
+}

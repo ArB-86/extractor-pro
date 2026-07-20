@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8994799852371216,
+    "bbox": [
+        377.7239990234375,
+        2188.93505859375,
+        1951.0360107421875,
+        2254.6396484375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/009_plain_text_0.90.png",
+    "text": "Hence all the following\ng numbers have an odd number of factors"
+}

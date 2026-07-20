@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7926726341247559,
+    "bbox": [
+        245.75067138671875,
+        1968.1356201171875,
+        1753.3238525390625,
+        2076.1328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/007_plain_text_0.79.png",
+    "text": "4. A cubical block of side 7 cm is surmounted by a hemisphere. What is the greatest\ndiameter the hemisphere can have? Find the surface area of the solid."
+}

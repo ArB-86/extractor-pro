@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9822114109992981,
+    "bbox": [
+        242.9783477783203,
+        977.6698608398438,
+        1709.9044189453125,
+        1530.361083984375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_023/001_plain_text_0.98.png",
+    "text": "The Russell's Paradox was not the only one which arose in set theory.\nMany paradoxes were produced later by several mathematicians and logicians.\nAs a consequence of all these paradoxes, the first axiomatisation of set theory\nwas published in 1908 by Ernst Zermelo. Another one was proposed by Abraham\nFraenkel in 1922. John Von Neumann in 1925 introduced explicitly the axiom of\nregularity. Later in 1937 Paul Bernays gave a set of more satisfactory\naxiomatisation. A modification of these axioms was done by Kurt Godel in his\nmonograph in 1940. This was known as Von Neumann-Bernays (VNB) or Godel-\nBernays\n(GB)settheory."
+}

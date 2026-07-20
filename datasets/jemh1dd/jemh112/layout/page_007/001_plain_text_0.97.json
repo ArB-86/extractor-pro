@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9659311771392822,
+    "bbox": [
+        247.51889038085938,
+        412.3970947265625,
+        1754.0792236328125,
+        686.95654296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_007/001_plain_text_0.97.png",
+    "text": "7. A tent is in the shape of a cylinder\nr surmounted by a conical top. If the height and\ndiameter of the cylindrical part are 2.1 m and 4 m respectively, and the slant height of the\ntop is 2.8 m, find the area of the canvas used for making the tent. Also, find the cost of\nthe canvas of the tent at the rate of 500 per m\u00b2. (Note that the base of the tent will not\nbe covered with canvas.)"
+}

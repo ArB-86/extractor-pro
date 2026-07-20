@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8922999501228333,
+    "bbox": [
+        294.537109375,
+        1503.3717041015625,
+        966.2774658203125,
+        1560.848876953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_023/004_plain_text_0.89.png",
+    "text": "Ans. Table 2\n2 (One of the ways)"
+}

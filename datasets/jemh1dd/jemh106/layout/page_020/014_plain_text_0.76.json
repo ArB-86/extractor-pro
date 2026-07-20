@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7618674635887146,
+    "bbox": [
+        194.40390014648438,
+        1621.9473876953125,
+        469.2640075683594,
+        1672.2489013671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/014_plain_text_0.76.png",
+    "text": "Iso\n1\nwe\nhave"
+}

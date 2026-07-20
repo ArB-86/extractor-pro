@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9364638328552246,
+    "bbox": [
+        191.9876708984375,
+        1977.376220703125,
+        1755.008544921875,
+        2143.403564453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/002_plain_text_0.94.png",
+    "text": "Example 16 : A manufacturer of TV sets produced 600 sets in the third year and 700\nsets in the seventh year. Assuming that the production increases uniformly by a fixed\nnumber every year, find :"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9543766379356384,
+    "bbox": [
+        193.66160583496094,
+        2318.6591796875,
+        1752.598388671875,
+        2435.656982421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_010/003_plain_text_0.95.png",
+    "text": "This tells us that, on an average, the number of wickets taken by these 45 bowlers\nin one-day cricket is 152.89."
+}

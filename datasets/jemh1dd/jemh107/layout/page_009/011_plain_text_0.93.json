@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9270188212394714,
+    "bbox": [
+        286.9806213378906,
+        1970.0391845703125,
+        1751.420654296875,
+        2024.695556640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/011_plain_text_0.93.png",
+    "text": "If the ratio in which P divides AB is k : 1, then the coordinates of the point P will be"
+}

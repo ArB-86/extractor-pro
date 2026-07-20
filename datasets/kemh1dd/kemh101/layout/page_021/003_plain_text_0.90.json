@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9002601504325867,
+    "bbox": [
+        194.45286560058594,
+        948.0692749023438,
+        1240.9344482421875,
+        1003.3509521484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/003_plain_text_0.90.png",
+    "text": "Example 25 Show that AU B = A  B\nimplies\nA=B"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9727257490158081,
+    "bbox": [
+        191.5215301513672,
+        1912.0906982421875,
+        976.6412963867188,
+        2209.4443359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/000_plain_text_0.97.png",
+    "text": "Example 7 : A\ngirl of height 90\ncm is\nwalking\nfrom\nthe\nbase\nof a\naway\nlamp-post at a speed of 1.2 m/s. If the lamp\nis 3.6 m above the\n ground, find the length\nof her shadow after 4 seconds."
+}

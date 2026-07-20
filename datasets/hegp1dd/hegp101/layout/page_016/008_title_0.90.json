@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "title",
+    "confidence": 0.9047820568084717,
+    "bbox": [
+        381.3464050292969,
+        727.2279052734375,
+        1034.940185546875,
+        789.3839721679688
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_016/008_title_0.90.png",
+    "text": "Aryabhata\na(499CE)\uff1a\nstates"
+}

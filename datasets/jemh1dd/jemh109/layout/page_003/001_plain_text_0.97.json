@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9729802012443542,
+    "bbox": [
+        191.78433227539062,
+        808.4989013671875,
+        1753.8736572265625,
+        1028.2947998046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/001_plain_text_0.97.png",
+    "text": "In \u25b3 ABC, the side BC is t\nthe opposite side\nin 1\n relation to the known\nZ A. Now,\n1\nwhich of the trigonometric ratios can\nwe use? Which\nn one of them\nhas\nthe two values\nthat\nwe\nhave and the one\n we need to determine? Our search\nnarrows\ndown\nto using\neither tan\nA or cot A, as\nthese ratios\ninvolve AB\nand BC."
+}

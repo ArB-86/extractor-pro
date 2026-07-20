@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.7162320017814636,
+    "bbox": [
+        296.3965759277344,
+        2033.6767578125,
+        1325.215576171875,
+        2095.65283203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/008_plain_text_0.72.png",
+    "text": "Ans.\nLength of the third side of triangle = 21\ncm"
+}

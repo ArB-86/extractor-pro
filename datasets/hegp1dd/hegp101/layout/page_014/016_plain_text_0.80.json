@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.801670253276825,
+    "bbox": [
+        374.8296813964844,
+        1821.807373046875,
+        1861.8828125,
+        1887.2894287109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/016_plain_text_0.80.png",
+    "text": "Similarly, \u00b027= 33\n= 103 =3. In general, n\u00b2\n =3 and 3V1000\n=n."
+}

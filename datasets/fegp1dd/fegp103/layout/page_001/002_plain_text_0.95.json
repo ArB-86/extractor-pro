@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9539408087730408,
+    "bbox": [
+        293.4534912109375,
+        1513.3519287109375,
+        1977.2083740234375,
+        1735.2891845703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_001/002_plain_text_0.95.png",
+    "text": "Think\nabout\nvarious\nsituations\nwhere\nuse\nnumbers.\nwe\nList five different situations in which\n numbers are used. See what\nclassmates\nhave\nlisted, share,\nand c\ndiscuss.\nyour"
+}

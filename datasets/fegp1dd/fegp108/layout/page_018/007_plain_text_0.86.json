@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8605844378471375,
+    "bbox": [
+        521.6011962890625,
+        2775.103759765625,
+        2014.4814453125,
+        2922.28369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_018/007_plain_text_0.86.png",
+    "text": "How can one be \ne if the laws t\nthat you have\n sure\nobserved\nwill always be true?"
+}

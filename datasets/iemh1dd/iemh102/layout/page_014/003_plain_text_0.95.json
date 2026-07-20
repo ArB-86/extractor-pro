@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9485259652137756,
+    "bbox": [
+        236.87539672851562,
+        2311.786865234375,
+        1797.525146484375,
+        2439.12109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_014/003_plain_text_0.95.png",
+    "text": "1\nExample 14: Draw the g\ngraphs of y\nx, y = x, y = 2x by selecting\n12\nsuitable points on these lines."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9387699365615845,
+    "bbox": [
+        195.37086486816406,
+        403.9890441894531,
+        1752.2083740234375,
+        527.0531616210938
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_027/005_plain_text_0.94.png",
+    "text": "Now, that you have studied about all the three measures of central tendency, let\ndiscuss which measure would be best suited for a particular requirement.\nUS"
+}

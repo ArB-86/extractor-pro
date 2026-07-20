@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9747002720832825,
+    "bbox": [
+        193.6979522705078,
+        2239.524169921875,
+        1758.35986328125,
+        2458.13232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_001/000_plain_text_0.97.png",
+    "text": "In\nthis\nfigure, the\nline AC drawn\nfrom\nthe eye of the student to the top of the\nr is called the\nline\n of sight. The student is looking\nminar\nthe top of the \natt\nminar. The\n2\nangle BAC, so formed by the line of sight with the horizontal, is called the angle of\nelevation of the top of the\nminar\nfrom\nthe eye of the student."
+}

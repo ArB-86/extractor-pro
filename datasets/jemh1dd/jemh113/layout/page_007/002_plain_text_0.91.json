@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9078580141067505,
+    "bbox": [
+        189.89602661132812,
+        1458.817626953125,
+        1591.4205322265625,
+        1517.4537353515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_007/002_plain_text_0.91.png",
+    "text": "Now, substituting the values of a, h, Zfu, and Zf, from Table 14.5,\nweget"
+}

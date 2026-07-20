@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9495422840118408,
+    "bbox": [
+        223.65611267089844,
+        2019.445556640625,
+        1095.880615234375,
+        2361.697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_009/002_plain_text_0.95.png",
+    "text": "12. Atriangle ABC is drawn to circumscribe a circle\nof radius 4 cm such that the segments BD and\nDC into which BC is divided by the point of\ncontact\nD\nare of 1engths 8 cm and 6 cm\nrespectively (see Fig. 10.14). Find the sides AB\nandAc."
+}

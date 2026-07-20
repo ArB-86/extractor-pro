@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7420716285705566,
+    "bbox": [
+        348.0198974609375,
+        1542.3599853515625,
+        1377.548828125,
+        1740.82958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_007/007_plain_text_0.74.png",
+    "text": "( a=10,\nd=10\n(i) a=-2,\n0=p\n1\n(ii)\na=4,\nd=-3\n(iv)\n\u03b1=-1,\n=p\n2\n(v)\n\u03b1=-1.25,\nd=-0.25"
+}

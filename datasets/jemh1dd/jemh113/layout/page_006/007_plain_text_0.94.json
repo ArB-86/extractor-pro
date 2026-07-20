@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9419215321540833,
+    "bbox": [
+        290.6099548339844,
+        394.8750305175781,
+        1516.7705078125,
+        454.34112548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/007_plain_text_0.94.png",
+    "text": "Substituting the values of a, \u2265fd, and Zf f\nfrom\n1 Table 13.4, we g\nget"
+}

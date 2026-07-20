@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.954021155834198,
+    "bbox": [
+        192.1558380126953,
+        1126.634033203125,
+        1753.3812255859375,
+        1235.186767578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/003_plain_text_0.95.png",
+    "text": "Note that getting a number not greater than 4 is same as getting a number less\nthan or equal to 4, and vice versa."
+}

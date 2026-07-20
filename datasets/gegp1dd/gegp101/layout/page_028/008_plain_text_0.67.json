@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6689245104789734,
+    "bbox": [
+        439.0693664550781,
+        1133.239013671875,
+        1406.5025634765625,
+        1513.01025390625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_028/008_plain_text_0.67.png",
+    "text": "(a) 5072 =(5 \u00d7 1000) + (7 \u00d7 10) + (2 \u00d7 1)\nNumber of clicks = 14\n(b) 8300 = (8 \u00d7 1000) + (3 \u00d7 100)\nNumber of clicks = 11"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9631062150001526,
+    "bbox": [
+        293.6422424316406,
+        569.7660522460938,
+        2083.531494140625,
+        719.9351196289062
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_005/002_plain_text_0.96.png",
+    "text": "Is there any\n other way to fold the square so that the two halves\noverlap? How many\n  a a s s  ss"
+}

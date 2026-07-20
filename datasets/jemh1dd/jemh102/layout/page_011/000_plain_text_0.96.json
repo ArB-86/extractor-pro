@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9606871604919434,
+    "bbox": [
+        191.16700744628906,
+        855.74658203125,
+        1753.87841796875,
+        966.1004638671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_011/000_plain_text_0.96.png",
+    "text": "Example 2 : Find the zeroes of the quadratic polynomial x\u00b2 + 7x + 10, and verify\nIthe\nrelationship between the zeroes and the coefficients."
+}

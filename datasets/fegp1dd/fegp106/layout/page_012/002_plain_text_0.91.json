@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9149056673049927,
+    "bbox": [
+        418.6966552734375,
+        1446.7275390625,
+        2212.2412109375,
+        1661.608154296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_012/002_plain_text_0.91.png",
+    "text": "Toestimate\nthe\ntrace\ntheshape\narea,we\nonto a 1\npiece\nof\n can\ntransparent paper and place the same on a piece of squared or graph\npaper and then follow the below conventions"
+}

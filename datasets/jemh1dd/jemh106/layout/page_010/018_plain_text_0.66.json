@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6613719463348389,
+    "bbox": [
+        192.73553466796875,
+        2029.4415283203125,
+        244.2848358154297,
+        2068.936279296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/018_plain_text_0.66.png",
+    "text": "Or.\n\uff0c"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.583618700504303,
+    "bbox": [
+        441.9217529296875,
+        2928.287109375,
+        2188.392333984375,
+        3049.324951171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_028/014_plain_text_0.58.png",
+    "text": "Whenever the number pair is co-prime the first common multiple is the product of the\ntwo numbers."
+}

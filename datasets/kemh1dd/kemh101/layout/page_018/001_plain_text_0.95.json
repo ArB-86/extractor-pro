@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9475613236427307,
+    "bbox": [
+        219.33590698242188,
+        395.8550720214844,
+        1752.740478515625,
+        505.05096435546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_018/001_plain_text_0.95.png",
+    "text": "7\u3002]\nIfA = {x : x is a natural number }, B = {x : x is an even natural number}\nu \u2018 qnu d e si x : x} = puaqnu gu ppo ue si x : x} = "
+}

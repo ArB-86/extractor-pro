@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9828965067863464,
+    "bbox": [
+        417.73980712890625,
+        1358.138916015625,
+        2209.964111328125,
+        1798.574462890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_001/000_plain_text_0.98.png",
+    "text": "Then we learned that there are even more numbers! For example.\nthere is the number 0 (zero), representing nothing, which comes before\n1. The number 0 has a very\nimportant history in India and now in the\nWorld. For example, around the world\nWe learn to write numbers in\nthe Indian number system using the digits 0 to 9, allowing us to write\nnumbers however large or however small\nusing just these 10 digits."
+}

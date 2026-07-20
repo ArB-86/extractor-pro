@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8587546944618225,
+    "bbox": [
+        194.7650909423828,
+        927.731201171875,
+        1703.885986328125,
+        986.5304565429688
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/003_plain_text_0.86.png",
+    "text": "SolutionS\n Since the ordered pairs are equal, the corresponding elements are equal."
+}

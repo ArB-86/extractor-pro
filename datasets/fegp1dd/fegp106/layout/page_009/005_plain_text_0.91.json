@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9107527732849121,
+    "bbox": [
+        293.1512451171875,
+        766.522216796875,
+        2083.04443359375,
+        914.4733276367188
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_009/005_plain_text_0.91.png",
+    "text": "In previous\ngrades,\n, We arrived at the formula for the area of a\nrectangle and a square using square\ngrid paper. Do you remember?"
+}

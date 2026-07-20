@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7707359194755554,
+    "bbox": [
+        377.0373840332031,
+        2843.6728515625,
+        1687.1243896484375,
+        2906.498046875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/008_plain_text_0.77.png",
+    "text": "The number of diamonds is 3 \u00d7 3 \u00d7 3 \u00d7 3 \u00d7 3 \u00d7 3 \u00d7 3 = 37."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.912839412689209,
+    "bbox": [
+        194.25869750976562,
+        1595.8265380859375,
+        1067.5892333984375,
+        1709.065673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_005/007_plain_text_0.91.png",
+    "text": "Case 2\nThere is\nonly\n\uff1a\none and\none tangent to a\ncircle passing through a point lying \non the circle."
+}

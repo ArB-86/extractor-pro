@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.977532684803009,
+    "bbox": [
+        192.59716796875,
+        1129.9176025390625,
+        1754.5885009765625,
+        1403.4351806640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/000_plain_text_0.98.png",
+    "text": "In\ngeneral, a real\nnumber\n\u03b1 is\ns called\na root of t\nthe\nquadratic\nequation\nax\u00b2 + bx + c = 0, a \u2260 0 if a \u03b1\u00b2 + b\u03b1 + c = 0. We also say \nthat x = a is a solution of\nthe quadratic e\nequation, or that \u03b1 satisfies\nthe\nquadratic equation. Note that the\nof t\nthe\nquadratic\npolynomial ax\u00b2 + bx + c and\nthe\nroots of the\nzeroes\nquadratic\n=  + xq + zx uonenba\n\uff1a0\nare\nthe\nsame."
+}

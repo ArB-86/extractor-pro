@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8699678778648376,
+    "bbox": [
+        378.23193359375,
+        395.88360595703125,
+        1858.424560546875,
+        462.7262878417969
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_023/002_plain_text_0.87.png",
+    "text": "7.\nThis is a picture of the new Parliament Building in Delhi."
+}

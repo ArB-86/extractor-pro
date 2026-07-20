@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.5957298278808594,
+    "bbox": [
+        683.379638671875,
+        708.123779296875,
+        1456.5128173828125,
+        949.0051879882812
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_001/005_title_0.60.png",
+    "text": "INTRODUCTION TO\nTRIGONOMETRY"
+}

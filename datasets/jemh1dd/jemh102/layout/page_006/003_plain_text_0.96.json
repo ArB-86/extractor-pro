@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9623884558677673,
+    "bbox": [
+        192.9170379638672,
+        2449.91064453125,
+        1752.7578125,
+        2558.736083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_006/003_plain_text_0.96.png",
+    "text": "Locating the points of the table on a graph paper and drawing the graph, we see\nthat the graph of y = x3 - 4x actually looks like the one g\ngiven in Fig. 2.6."
+}

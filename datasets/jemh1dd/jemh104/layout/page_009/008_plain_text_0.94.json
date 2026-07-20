@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9417979121208191,
+    "bbox": [
+        194.3185272216797,
+        1503.33935546875,
+        660.8187866210938,
+        1555.3851318359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/008_plain_text_0.94.png",
+    "text": "Therefore, x =\n5\nor\n12.\n1"
+}

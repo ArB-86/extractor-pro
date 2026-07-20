@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5439547300338745,
+    "bbox": [
+        189.6903076171875,
+        1140.131591796875,
+        1036.8812255859375,
+        1303.870361328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/019_plain_text_0.54.png",
+    "text": "Example\n\uff1a\nIn\n\u25b3 PQR,\nright-angled\nat\nQ (see Fig. 8.20), PQ = 3 c\ncm\nand PR\n = 6 cm.\nDetermine\nQPR\n1 Z PRQ.\nand"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9605032801628113,
+    "bbox": [
+        418.0974426269531,
+        2175.96728515625,
+        2209.142822265625,
+        2395.69677734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_006/003_plain_text_0.96.png",
+    "text": "Akshi says\nthat the\nperimeter of this triangle shape is 9\nunits.\nToshi says it can't be 9 units and the perimeter will be more than 9\nunits. What do you think?"
+}

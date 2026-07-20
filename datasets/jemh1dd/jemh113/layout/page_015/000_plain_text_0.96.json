@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9617863297462463,
+    "bbox": [
+        192.64830017089844,
+        876.5634765625,
+        1752.1287841796875,
+        1046.5089111328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/000_plain_text_0.96.png",
+    "text": "Example 6 : The marks distribution of 30 students in a mathematics examination are\ngiven in Table 13.3 of Example 1. Find the mode of this data. Also compare and\ninterpret the mode and the mean."
+}

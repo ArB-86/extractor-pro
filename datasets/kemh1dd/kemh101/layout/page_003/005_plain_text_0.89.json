@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8898097276687622,
+    "bbox": [
+        291.3755798339844,
+        2047.1015625,
+        1171.8367919921875,
+        2217.06640625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/005_plain_text_0.89.png",
+    "text": "A= {x : x is a natural\nnumber which divides 42}\nB=\nK:A\n in the English alphabet}\nis a vowel\nC= {z : z is an\nppo\nnatural\nnumber}"
+}

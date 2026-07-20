@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8208701014518738,
+    "bbox": [
+        446.5459289550781,
+        3002.060546875,
+        1114.5235595703125,
+        3056.43896484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_026/007_plain_text_0.82.png",
+    "text": "The number 4\n495\nstarts repeating."
+}

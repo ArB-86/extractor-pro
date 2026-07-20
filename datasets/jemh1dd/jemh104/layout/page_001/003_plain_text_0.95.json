@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9535502195358276,
+    "bbox": [
+        195.8437957763672,
+        1996.4178466796875,
+        1752.9049072265625,
+        2104.764404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_001/003_plain_text_0.95.png",
+    "text": "So, the breadth of the hall should satisfy the equation 2x2 + x - 300 = 0 which is a\nquadraticequation."
+}

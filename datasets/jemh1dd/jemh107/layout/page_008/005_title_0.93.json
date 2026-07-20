@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.929990291595459,
+    "bbox": [
+        196.0240478515625,
+        671.8575439453125,
+        626.0088500976562,
+        726.2551879882812
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_008/005_title_0.93.png",
+    "text": "Section\nF\normula\nla"
+}

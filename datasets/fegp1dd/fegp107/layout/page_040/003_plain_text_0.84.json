@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.8415382504463196,
+    "bbox": [
+        298.3068542480469,
+        1557.86572265625,
+        2190.11767578125,
+        1850.68505859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_040/003_plain_text_0.84.png",
+    "text": "Q4. What is the length of the blue line and black line shown\nbelow? The distance\nbetween\n0\nand 1 is 1 \nunit long, and it is divided into two equal\nparts. The length of each\npart\n1\n1\nis\n-2\nSo the\nblue\nline\nis\n-2\nunits long.\n. Write the :\nfraction\nn that\ngives\nthe length of the\nblack line in t\nthe\nbox."
+}

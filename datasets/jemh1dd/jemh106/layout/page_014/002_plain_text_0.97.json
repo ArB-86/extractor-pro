@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9725531935691833,
+    "bbox": [
+        193.298583984375,
+        1756.0804443359375,
+        1754.8150634765625,
+        1979.435302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_014/002_plain_text_0.97.png",
+    "text": "Activity 4 : Draw\ntwo\nline segments\nBC\nand EF of\ntwo different\nlengths, say 3\ncm\nand 5 cm respectively. Then, at the points B\nand C respectively, construct angles PBC\nand QCB of s\nsome r\n measures, say, 60\u00b0\nand 40\u00b0. Also, at the points\ns E and F, construct\nangles REF\nand SFE of 60\u00b0\nand 40\u00b0\nrespectively (see Fig. 6.23)."
+}

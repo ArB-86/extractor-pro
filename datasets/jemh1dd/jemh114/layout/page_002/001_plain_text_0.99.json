@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9857760071754456,
+    "bbox": [
+        192.5806884765625,
+        1267.739013671875,
+        1754.044189453125,
+        1722.810302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_002/001_plain_text_0.99.png",
+    "text": "The empirical interpretation of probability can be applied to every event associated\nwith an experiment which can be repeated a large number of times. The requirement\nof repeating an experiment has some limitations, as it may be very expensive or\nunfeasible in many situations. Of course, it worked well in coin tossing or die throwing\nexperiments. But how about repeating the experiment of launching a satellite in order\nto compute the empirical probability of its failure during launching, or the repetition of\nthe phenomenon of an earthquake to compute the empirical probability of a multi-\nstoreyed building getting destroyed in an earthquake?"
+}

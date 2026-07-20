@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6878595352172852,
+    "bbox": [
+        190.85494995117188,
+        436.41766357421875,
+        1158.3677978515625,
+        570.5814208984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_004/014_plain_text_0.69.png",
+    "text": "Example\n2\nFind\nthe\nof\nthe\n.\narea\nsegment AYB\nshown in\nFig. 11.6, if radius of the circle is 21\ncm and"
+}

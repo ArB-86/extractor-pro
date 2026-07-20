@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.899177610874176,
+    "bbox": [
+        189.04954528808594,
+        1683.439697265625,
+        1746.738037109375,
+        1897.0206298828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/013_plain_text_0.90.png",
+    "text": "In\ngeneral, if k is a zero of p(x) :\nb, then p(k) = ak +\n+ b = O, i.e.,\nk=\n+ xD =\nD\n-b\n- (Constant term)\nSo, the zero of the linear p\npolynomial\nax + b is\nCoefficient of\nD\nx"
+}

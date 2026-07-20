@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.957172691822052,
+    "bbox": [
+        192.94473266601562,
+        1925.0584716796875,
+        1753.2381591796875,
+        2039.6346435546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/003_plain_text_0.96.png",
+    "text": "On real number line, various types of intervals described above as subsets of R,\nare shown in the Fig 1.1."
+}

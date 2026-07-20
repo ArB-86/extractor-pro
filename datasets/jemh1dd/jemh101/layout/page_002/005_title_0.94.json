@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9374566674232483,
+    "bbox": [
+        199.29901123046875,
+        397.44610595703125,
+        1133.2950439453125,
+        450.3380126953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_002/005_title_0.94.png",
+    "text": "1.2\nThe Fundamental Theorem\nnofArithmetic"
+}

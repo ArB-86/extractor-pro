@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8890048265457153,
+    "bbox": [
+        377.7601623535156,
+        1898.440185546875,
+        1560.948486328125,
+        1959.2667236328125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/006_plain_text_0.89.png",
+    "text": "3.\nGiven 1252 = 15625, what is the value of\n1262?"
+}

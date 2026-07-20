@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.957000732421875,
+    "bbox": [
+        417.9803771972656,
+        1397.7601318359375,
+        2213.11376953125,
+        1615.685791015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_016/004_plain_text_0.96.png",
+    "text": "This\nfigure\nback to\nits\noriginal s\nshape\nonly\nafter\ncomes\none\ncomplete rotation through 360\u00b0. So, we say that this figure does not\nhave rotational symmetry."
+}

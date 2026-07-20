@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9531697630882263,
+    "bbox": [
+        192.11846923828125,
+        976.1018676757812,
+        1753.544677734375,
+        1084.693359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/003_plain_text_0.95.png",
+    "text": "So, we can say t\nthat the value of the mean obtained does not depend on the\nchoice of 'a'."
+}

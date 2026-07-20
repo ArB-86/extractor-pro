@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8248463273048401,
+    "bbox": [
+        395.89129638671875,
+        1321.8814697265625,
+        1637.00341796875,
+        1374.3546142578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/008_plain_text_0.82.png",
+    "text": "(A)\nsec A\n(B) S\nsin A\n(C)\ncosec A\n(D) cos A"
+}

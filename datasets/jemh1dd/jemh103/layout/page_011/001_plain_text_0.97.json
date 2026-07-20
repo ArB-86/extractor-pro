@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9690530896186829,
+    "bbox": [
+        192.2754364013672,
+        627.1044311523438,
+        1754.484375,
+        793.132080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/001_plain_text_0.97.png",
+    "text": "Now let us consider another method of eliminating (i.e., removing)\nonevariable.This\nis sometimes more convenient than the substitution method. Let us see how this method\nWorks."
+}

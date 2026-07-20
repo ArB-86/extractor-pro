@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.9344949722290039,
+    "bbox": [
+        381.1675720214844,
+        2600.2109375,
+        1112.0758056640625,
+        2678.099853515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_015/005_title_0.93.png",
+    "text": "1.3 A Pinch of History"
+}

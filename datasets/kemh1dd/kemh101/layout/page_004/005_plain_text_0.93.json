@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9307776093482971,
+    "bbox": [
+        296.2337646484375,
+        1514.995849609375,
+        1744.7947998046875,
+        1749.0087890625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/005_plain_text_0.93.png",
+    "text": "(i)\n{P, R, I, N, C,A, L}\n(a) { x : x is a positive\ninteger and is a divisor of 18}\n(i)\n{0}\n(b) {x : x is an integer and x\u00b2 - 9 = 0}\n(ii)\n{1,2,3,6,9,18}\n(c) {x : x is\ninteger and x + 1= 1}\nan\n(iv)\n{3,-3}\n(d) x: x is a letter of the\nword PRINCIPAL}"
+}

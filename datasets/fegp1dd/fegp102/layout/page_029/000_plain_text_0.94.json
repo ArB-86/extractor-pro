@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9434893131256104,
+    "bbox": [
+        401.2801513671875,
+        394.34661865234375,
+        2091.4794921875,
+        538.2998657226562
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_029/000_plain_text_0.94.png",
+    "text": "3.\nFind the degree measures\nfor the angles\ngiven below. Check if\nyour paper protractor can be used here!"
+}

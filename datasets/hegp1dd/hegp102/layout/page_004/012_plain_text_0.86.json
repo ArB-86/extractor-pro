@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8561180830001831,
+    "bbox": [
+        434.8647155761719,
+        529.9994506835938,
+        1918.42529296875,
+        591.8109130859375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/012_plain_text_0.86.png",
+    "text": "We write na to denote n multiplied by itself a times.\ngeneral,"
+}

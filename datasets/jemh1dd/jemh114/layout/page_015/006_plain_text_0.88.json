@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8781307935714722,
+    "bbox": [
+        299.68951416015625,
+        2375.1787109375,
+        1757.6273193359375,
+        2476.92724609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/006_plain_text_0.88.png",
+    "text": "[Hint : Throwing a die twice and throwing two dice simultaneously are treated as the\nsame experiment]"
+}

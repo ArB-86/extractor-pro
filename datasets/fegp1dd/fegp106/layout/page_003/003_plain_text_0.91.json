@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.912945032119751,
+    "bbox": [
+        393.5583801269531,
+        1611.3707275390625,
+        2085.251953125,
+        1744.9271240234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/003_plain_text_0.91.png",
+    "text": "Therefore, the length of the lace required will be the perimeter of the\nrectangular tablecloth."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9294531345367432,
+    "bbox": [
+        402.2181396484375,
+        2147.79052734375,
+        2087.472412109375,
+        2286.654052734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_029/002_plain_text_0.93.png",
+    "text": "5.\nMeasure and write the degree measures for each of the following\nangles:"
+}

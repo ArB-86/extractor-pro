@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.7346486449241638,
+    "bbox": [
+        1280.191162109375,
+        2369.03369140625,
+        1761.0567626953125,
+        2427.377197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_036/009_plain_text_0.73.png",
+    "text": "to represent 100 kites."
+}

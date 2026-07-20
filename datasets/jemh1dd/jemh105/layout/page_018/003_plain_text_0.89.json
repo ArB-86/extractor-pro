@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8855161666870117,
+    "bbox": [
+        193.15869140625,
+        1811.974853515625,
+        791.78564453125,
+        1864.6104736328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_018/003_plain_text_0.89.png",
+    "text": "Example 14 : Find t\nthe sum\nof"
+}

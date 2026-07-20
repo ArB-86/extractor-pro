@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9736788868904114,
+    "bbox": [
+        192.01348876953125,
+        1786.3927001953125,
+        1755.9371337890625,
+        2034.2391357421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_005/003_plain_text_0.97.png",
+    "text": "Example 4 : From a point P on the\nground the angle of elevation of the top of a 10\nm\ntall building is 30\u00b0. A flag is hoisted at the top of the building and the angle of elevation\nof t\nthe top of tl\nthe f\nflagstaff\nfrom\nP is\n45\u00b0. Find t\nthe\ne length of the flagstaff\nand\nthe\ndistance of the building\nfrom the point P. (You may take\n\u221a3\n= 1.732)"
+}

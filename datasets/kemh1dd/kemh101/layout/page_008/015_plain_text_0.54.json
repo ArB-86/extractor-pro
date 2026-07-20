@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5366485118865967,
+    "bbox": [
+        297.8143615722656,
+        1744.0147705078125,
+        1342.23828125,
+        1971.2554931640625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/015_plain_text_0.54.png",
+    "text": "(i)\nSet of odd natural\nnumbers\ndivisible by 2\n(ii)\nSet of even\nprime numbers\n(ii)\n{x:xis\nnumbers, x< 5 :\nand x > 7}\na natural\n(iv)\n{y:y\nis a point common to any\ntwo\nparallel lines}"
+}

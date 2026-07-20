@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.8702255487442017,
+    "bbox": [
+        417.5769958496094,
+        867.571044921875,
+        2208.25390625,
+        1010.2681884765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_022/007_title_0.87.png",
+    "text": "Expressing a f\nfraction in lowest terms\n(or in its simplest\nform)"
+}

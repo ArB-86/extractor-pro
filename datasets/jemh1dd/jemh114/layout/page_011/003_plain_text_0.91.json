@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9079336524009705,
+    "bbox": [
+        190.02818298339844,
+        1178.98193359375,
+        1752.6005859375,
+        1304.8236083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/003_plain_text_0.91.png",
+    "text": "Solution : One shirt is drawn at random from the carton of 1o0 shirts. Therefore\nthere are 100 equally likely outcomes."
+}

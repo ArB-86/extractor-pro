@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9026411771774292,
+    "bbox": [
+        191.49554443359375,
+        1435.760009765625,
+        953.7156982421875,
+        1489.5045166015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/006_plain_text_0.90.png",
+    "text": "List of r\nnumbers\nbecomes\n5,7,9, 11,."
+}

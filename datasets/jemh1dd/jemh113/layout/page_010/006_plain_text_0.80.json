@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7979648113250732,
+    "bbox": [
+        373.3293762207031,
+        2474.215087890625,
+        1707.998779296875,
+        2533.99951171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_010/006_plain_text_0.80.png",
+    "text": ", let us see how well\nI you can:\n1 apply t\nthe concepts discussed in this sectio"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9742393493652344,
+    "bbox": [
+        195.36865234375,
+        631.9619750976562,
+        1752.8572998046875,
+        851.5336303710938
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/000_plain_text_0.97.png",
+    "text": "In this chapter, we shall discuss one of these patterns\nin\n1 which\nsucceeding\nterms\ne obtained by adding a fixed\nnumber to the\ne preceding\ng terms. We shall also see\nare\nhow\nto find their nth\nn terms and the\nn of n consecutive terms, and\nuse\nthis knowledge i\n sum\nin\nsolving\ng some daily life p\nproblems."
+}

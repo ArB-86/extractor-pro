@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9246578812599182,
+    "bbox": [
+        291.05657958984375,
+        1302.0057373046875,
+        1349.9742431640625,
+        1361.039794921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_009/005_plain_text_0.92.png",
+    "text": "From the table above, we obtain\n\u2211f =35,\n\u2211fx=\n1390."
+}

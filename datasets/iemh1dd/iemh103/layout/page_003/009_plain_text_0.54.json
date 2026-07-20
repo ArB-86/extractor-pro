@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5360645055770874,
+    "bbox": [
+        257.2337951660156,
+        1115.4210205078125,
+        1795.7681884765625,
+        1338.3697509765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/009_plain_text_0.54.png",
+    "text": "*\n4.\nAncient\nIndians\nthe joints of their\nfingers\nsused\ns to count, a practice\nstill\ntoday. Each finger\nhas 3 joints, and \nseen\nthe thumb is\nused\nto\ncount them. How many can\nyou count on one\ne hand? How\ndoes t\nthis\nrelate to the ancient \nbase-12 counting systems?"
+}

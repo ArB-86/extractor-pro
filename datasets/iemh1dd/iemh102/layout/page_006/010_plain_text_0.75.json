@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7497018575668335,
+    "bbox": [
+        273.92156982421875,
+        1510.249267578125,
+        1798.7493896484375,
+        1683.4503173828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_006/010_plain_text_0.75.png",
+    "text": "6.\nA farmer cuts a 300 feet fence\n into two\npieces of different sizes.\nThe longer p\npiece is four times as long\ng as the shorter piece. How\nlong\nare the two pieces?"
+}

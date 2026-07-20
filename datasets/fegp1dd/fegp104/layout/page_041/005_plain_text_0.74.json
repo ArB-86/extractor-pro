@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.7367274761199951,
+    "bbox": [
+        411.8080139160156,
+        2657.553466796875,
+        1712.4398193359375,
+        2718.750732421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_041/005_plain_text_0.74.png",
+    "text": "Observe\nthis pictograph and\nanswer the following\ng questions:"
+}

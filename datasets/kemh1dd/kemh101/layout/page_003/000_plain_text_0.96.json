@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9647388458251953,
+    "bbox": [
+        190.07115173339844,
+        1347.396728515625,
+        1755.7479248046875,
+        1748.03662109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/000_plain_text_0.96.png",
+    "text": "It may be observed that we describe the element of the set by using a symbol x\n(any other symbol like the letters y, z, etc. could be used)\nwhich is followed by a colon\nelements of the set and then enclose the whole description within braces. The above\ndescription of the set V is read as \"the set of all x such that x is a vowel of the English\nalphabet'. In this description the braces stand for \"the set of all\", the colon stands for\nsuch that'. For example, the set"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8895471096038818,
+    "bbox": [
+        368.9888916015625,
+        2524.6298828125,
+        2187.41064453125,
+        2756.812255859375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_027/000_plain_text_0.89.png",
+    "text": "(a) You\nhave\nexactly\nto\nmake\n30\nbutton\npresses. What\nis\nthe\nlargest\n3-\ndigit\nnumber\nmake?\nWhat\nis\nthe\nsmallest\n3-digit\nyou\nnumber\ncan\nmake?\nyou\ncan"
+}

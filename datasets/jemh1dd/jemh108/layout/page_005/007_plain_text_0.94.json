@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9425147175788879,
+    "bbox": [
+        193.83436584472656,
+        2496.5751953125,
+        1476.3240966796875,
+        2550.6455078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/007_plain_text_0.94.png",
+    "text": "Similarly, you can obtain the other trigonometric ratios of the angle A."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.894980251789093,
+    "bbox": [
+        294.4430236816406,
+        2168.947265625,
+        2187.29541015625,
+        2355.598388671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_027/000_plain_text_0.89.png",
+    "text": "Q.12. Observe that 3 is a prime number, and 2 x 3 + 1 = 7 is also a prime. Are there other\nprimes for which doubling and adding 1 gives another prime? Find at least five such\nexamples."
+}

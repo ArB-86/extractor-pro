@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9456241130828857,
+    "bbox": [
+        376.310302734375,
+        680.6196899414062,
+        2089.624267578125,
+        806.9332885742188
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_011/001_plain_text_0.95.png",
+    "text": "9.\nHow many\ntiny squares are there in the following picture? Write the\nprime factorisation of the number of tiny squares."
+}

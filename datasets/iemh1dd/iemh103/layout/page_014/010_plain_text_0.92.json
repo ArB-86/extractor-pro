@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9244809746742249,
+    "bbox": [
+        310.14453125,
+        488.63525390625,
+        1237.899658203125,
+        548.7881469726562
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/010_plain_text_0.92.png",
+    "text": "Proof: We shall\nexplain the\n proof in steps."
+}

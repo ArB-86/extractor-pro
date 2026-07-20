@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9471728801727295,
+    "bbox": [
+        291.32025146484375,
+        1208.8583984375,
+        2091.034912109375,
+        1430.228759765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_021/002_plain_text_0.95.png",
+    "text": "The figure on the left shows\nthe\npuzzle. The figure on t\nthe right\nshows the solution of the puzzle. Think what the rules can be to\nMat\nTall\nsolve the puzzle."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7879119515419006,
+    "bbox": [
+        247.4604949951172,
+        1310.5533447265625,
+        1301.373046875,
+        1361.5240478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_006/003_plain_text_0.79.png",
+    "text": "1.\nFill in the blanks using the correct word\ngiven in brackets :"
+}

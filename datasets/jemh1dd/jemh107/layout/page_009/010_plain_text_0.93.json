@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9346132278442383,
+    "bbox": [
+        194.41224670410156,
+        1229.56494140625,
+        325.8824157714844,
+        1283.149658203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/010_plain_text_0.93.png",
+    "text": "Taking"
+}

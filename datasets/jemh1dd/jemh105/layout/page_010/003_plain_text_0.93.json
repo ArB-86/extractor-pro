@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9254961013793945,
+    "bbox": [
+        194.1246795654297,
+        1009.5086059570312,
+        1753.38330078125,
+        1118.7105712890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/003_plain_text_0.93.png",
+    "text": "Example 4 : Which term of the AP : 21, 18, 15, . . . is - 81?Also, is any term 0? Give\nreason for your answer."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9502967000007629,
+    "bbox": [
+        193.30010986328125,
+        2118.587890625,
+        1754.06884765625,
+        2229.88232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/002_plain_text_0.95.png",
+    "text": "So, the maximum number of students obtained 52 marks, while on an average a\nstudent obtained 62 marks."
+}

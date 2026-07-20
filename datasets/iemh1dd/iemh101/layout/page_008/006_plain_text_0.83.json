@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8333441615104675,
+    "bbox": [
+        362.1887512207031,
+        1572.5238037109375,
+        1798.7686767578125,
+        1998.3272705078125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_008/006_plain_text_0.83.png",
+    "text": "Reiaan's room c\ndoor leads from the dining room which has\nthe length 18 ft and width 15 ft. The length of the dining room\nextends from point P to point A. Sketch the dining room and\nmark the coordinates ofits corners.\n(ii)\nPlace a rectangular 5 ft \u00d7 3 ft dining table precisely in the\ncentre of the dining room. Write down the coordinates of the\nfeet of the table."
+}

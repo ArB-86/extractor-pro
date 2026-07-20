@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9524545073509216,
+    "bbox": [
+        193.22994995117188,
+        1448.5732421875,
+        1750.7955322265625,
+        1558.9024658203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/005_plain_text_0.95.png",
+    "text": "Now, we calculate u. in this way\n and continue as before (i.e., find f u.and\nthen Efu). Taking h = 15, let us form Table 13.5."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9709103107452393,
+    "bbox": [
+        193.5756378173828,
+        1393.86181640625,
+        1754.5672607421875,
+        1557.2034912109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/003_plain_text_0.97.png",
+    "text": "Example 1 : A tower stands vertically on the ground. From a point on the ground,\nwhich is 15 m away from the foot of the tower, the angle of elevation of the top of the\ntower is found to be 60\u00b0. Find the height of the tower."
+}

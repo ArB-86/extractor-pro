@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9727382659912109,
+    "bbox": [
+        418.08428955078125,
+        2127.87744140625,
+        2210.148681640625,
+        2400.91943359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_022/001_plain_text_0.97.png",
+    "text": "16\nNow,\nthere\nis\nfactor\nbetween\n4\nand\n5.\nno\nHence,\ncommon\n20\nin lowest\nS0,\n45\nis\nsimplest\n16\nexpressed\nterms\nis\ncalled\nthe s\nform\nof\n20\nsince\n4\nand 5 have no\nfactor\nother\nthan\n1.\ncommon"
+}

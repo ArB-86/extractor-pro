@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9745675921440125,
+    "bbox": [
+        193.37603759765625,
+        396.6110534667969,
+        1752.4815673828125,
+        561.656005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_003/000_plain_text_0.97.png",
+    "text": "Consider first a linear polynomial ax + b, a \u2260 O. You have studied in Class IX that the\ngraph of y = ax + b is a straight line. For example, the graph of y = 2x + 3 is a straight\nline passing through the points (- 2, -1) and (2, 7)."
+}

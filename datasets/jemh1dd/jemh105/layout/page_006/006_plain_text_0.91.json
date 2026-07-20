@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9079961776733398,
+    "bbox": [
+        192.47019958496094,
+        884.396240234375,
+        1058.449951171875,
+        997.1743774414062
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/006_plain_text_0.91.png",
+    "text": "3-5\n1-6\n3-6\nSolution\nHere,\n= D\nd\n\u4e09\n1.\n\uff1a\n\u4e00\n\u4e00\n2\n7\n2\n2"
+}

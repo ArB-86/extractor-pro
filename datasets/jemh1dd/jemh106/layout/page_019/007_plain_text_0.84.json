@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.842124879360199,
+    "bbox": [
+        286.8395690917969,
+        611.4120483398438,
+        1520.3397216796875,
+        666.1834106445312
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_019/007_plain_text_0.84.png",
+    "text": "We now take some examples to illustrate the use of these criteria."
+}

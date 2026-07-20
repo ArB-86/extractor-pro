@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9524494409561157,
+    "bbox": [
+        192.9614715576172,
+        1764.333251953125,
+        945.1456298828125,
+        2426.2939453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_007/002_plain_text_0.95.png",
+    "text": "Example 5 : Shanta runs an industry in\na shed which is in the shape of a cuboid\nsurmounted by a half cylinder (see Fig.\n12.12). If the base of the shed is of\ndimension 7 m x 15 m, and the height of\nthe cuboidal portion is 8 m, find the volume\nof air that the shed can hold. Further.\nsuppose the machinery in the shed\noccupies a total space of 300 m?, and\nthere are 20 workers, each of whom\noccupy about 0.08 m? space on an\naverage. Then, how much air is in the"
+}

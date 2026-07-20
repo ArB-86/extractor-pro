@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9543787240982056,
+    "bbox": [
+        191.20770263671875,
+        575.5104370117188,
+        1155.9010009765625,
+        835.611328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/002_plain_text_0.95.png",
+    "text": "This theorem can\n be proved by taking a line DE such\nAD\nAE\nthat\nand\nassuming\ng that DE is not parallel\nDB\nEC\nto BC\n(see\ne Fig. 6.12)."
+}

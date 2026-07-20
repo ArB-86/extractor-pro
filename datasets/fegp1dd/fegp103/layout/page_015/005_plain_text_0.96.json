@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9600855112075806,
+    "bbox": [
+        395.08087158203125,
+        2740.94873046875,
+        2086.1376953125,
+        2882.485595703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_015/005_plain_text_0.96.png",
+    "text": "We shall do some simple estimates. It is a fun exercise, and\nyoumay\nfind it amusing to know the various numbers around us. Remember,"
+}

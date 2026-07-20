@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9201539158821106,
+    "bbox": [
+        194.8582305908203,
+        1441.0672607421875,
+        1269.8594970703125,
+        1493.657958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/007_plain_text_0.92.png",
+    "text": "So, the 11th term, which is now\nthe required term, is -- 32."
+}

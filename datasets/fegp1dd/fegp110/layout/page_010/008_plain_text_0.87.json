@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8720405697822571,
+    "bbox": [
+        366.7937927246094,
+        2128.538330078125,
+        1460.7596435546875,
+        2196.9189453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_010/008_plain_text_0.87.png",
+    "text": "Notice that\nt (+ 2000)+(+ 200) is als0 +\n2200."
+}

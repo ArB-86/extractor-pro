@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6165415048599243,
+    "bbox": [
+        404.0793762207031,
+        482.94866943359375,
+        1961.439697265625,
+        613.8194580078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_011/008_plain_text_0.62.png",
+    "text": "1.\nCan\nthe pattern\nn in each of the sequences\nyou recognise\nin\nTable 3?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.967636227607727,
+    "bbox": [
+        244.15115356445312,
+        1539.5513916015625,
+        1708.1641845703125,
+        1719.7464599609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_023/002_plain_text_0.97.png",
+    "text": "Despite all t\nthese difficulties,\nCantor's set t\ntheory\ny is used in p\npresent day\nmathematics. In fact, these days most ofthe concepts and results in mathematics\nare expressed in the set theoretic language."
+}

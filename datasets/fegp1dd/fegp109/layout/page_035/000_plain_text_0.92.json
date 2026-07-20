@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9198724031448364,
+    "bbox": [
+        295.8548278808594,
+        1188.372314453125,
+        1395.2623291015625,
+        1445.2105712890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_035/000_plain_text_0.92.png",
+    "text": "Ans.\na. Angles of :\nf symmetry = 90\u00b0, 180\u00b0, 270\u00b0, 360\u00b0\nb. Angle of symmetry = 360\u00b0\nc. Angles of symmetry =\n=180\u00b0, 360\u00b0"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9209778308868408,
+    "bbox": [
+        296.9283142089844,
+        429.9530029296875,
+        2150.814453125,
+        546.7369384765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_035/001_plain_text_0.92.png",
+    "text": "Ans. The centre of the circle should be at the meeting point of two line segments connecting\noppositevertices."
+}

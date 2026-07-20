@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9385924339294434,
+    "bbox": [
+        192.45079040527344,
+        927.5982055664062,
+        1419.96826171875,
+        982.1883544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_017/003_plain_text_0.94.png",
+    "text": "So, the amount of money collected on her 21st birthday is  12600."
+}

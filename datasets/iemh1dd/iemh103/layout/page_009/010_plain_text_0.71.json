@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7075464129447937,
+    "bbox": [
+        301.08447265625,
+        556.0730590820312,
+        1337.836669921875,
+        611.3111572265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_009/010_plain_text_0.71.png",
+    "text": "2.\nVerify the distributive law f\nfor rational\nnumbers."
+}

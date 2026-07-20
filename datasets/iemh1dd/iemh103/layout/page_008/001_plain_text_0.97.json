@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9672628045082092,
+    "bbox": [
+        238.97116088867188,
+        573.4545288085938,
+        1797.8599853515625,
+        794.55810546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_008/001_plain_text_0.97.png",
+    "text": "As you will\nremember\nfrom\nGrades\n6\nand 7, Brahmagupta also g\ngave\nrules for a\naddition, subtraction, multiplication, and division of fractions.\nHe\nnoted\nthat\nthese\nrules\nalso\napply\nto\nboth\npositive\nand\nnegative\nfractions which\nn together\nconstitute the rational\nnumbers."
+}

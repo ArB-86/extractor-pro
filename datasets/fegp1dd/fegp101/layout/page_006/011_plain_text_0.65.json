@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6510299444198608,
+    "bbox": [
+        415.8624572753906,
+        1212.28271484375,
+        2159.853271484375,
+        1289.6527099609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_006/011_plain_text_0.65.png",
+    "text": "Example: What happens when we start adding up odd numbers?"
+}

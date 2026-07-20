@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5334851741790771,
+    "bbox": [
+        245.025146484375,
+        2189.802978515625,
+        1753.0047607421875,
+        2323.14599609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_013/010_plain_text_0.53.png",
+    "text": "8. If A and B are (- 2, - 2) and (2, - 4), respectively, find the coordinates of P such that\n3\nAB and P lies on the line segment AB.\nAP="
+}

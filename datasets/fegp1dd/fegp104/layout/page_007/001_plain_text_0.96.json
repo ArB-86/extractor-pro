@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9616069197654724,
+    "bbox": [
+        420.71484375,
+        735.8433837890625,
+        2211.109619140625,
+        957.18310546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_007/001_plain_text_0.96.png",
+    "text": "In the above pictograph, one unit or symbol (?) is used to represent\none student. There\nalso other pictographs where\n are\none\nunit\nor\nsymbol stands for many people or objects."
+}

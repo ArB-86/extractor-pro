@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9581255912780762,
+    "bbox": [
+        243.63601684570312,
+        1489.0091552734375,
+        1006.5184326171875,
+        1907.6270751953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_001/001_plain_text_0.96.png",
+    "text": "1. Suppose the students of a school are\nvisiting Qutub Minar. Now, if a student\nis looking at the top of the Minar, a right\ntriangle can be imagined to be made,\nas shown in Fig 8.1. Can the student\nfind out the height of the Minar, without\nactually\ny measuring it?"
+}

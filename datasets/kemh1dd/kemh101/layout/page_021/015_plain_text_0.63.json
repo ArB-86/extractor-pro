@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6257221102714539,
+    "bbox": [
+        221.80857849121094,
+        2358.52392578125,
+        963.9801635742188,
+        2406.997802734375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/015_plain_text_0.63.png",
+    "text": "7.\nUsing properties of sets, show\nthat"
+}

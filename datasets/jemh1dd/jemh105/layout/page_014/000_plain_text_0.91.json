@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9133672714233398,
+    "bbox": [
+        355.5530090332031,
+        590.2747802734375,
+        1074.5107421875,
+        684.8233642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/000_plain_text_0.91.png",
+    "text": "1\n(i)\n11th term of the AP: :\n3\n2\n\u4e00\n1S\n2"
+}

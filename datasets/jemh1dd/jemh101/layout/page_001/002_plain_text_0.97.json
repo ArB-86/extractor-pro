@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9707282185554504,
+    "bbox": [
+        191.7720947265625,
+        1149.548095703125,
+        1752.3233642578125,
+        1357.29931640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_001/002_plain_text_0.97.png",
+    "text": "In Class\nIX, you\nbegany\nr exploration ofthe\ne world ofreal\nnumbers and\nyour\nencountered\nirrational\nnumbers. We continue\ndiscussion\nreal\nnumbers\nin\nthis chapter.\nour\nr. We\non\nbegin\nwith\nvery\nimportant\nproperties of positive\nintegers\nin\nSections\n1.2,\nnamely the\nEuclid's division algorithm and the Fundamental Theorem ofArithmetic."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7072849273681641,
+    "bbox": [
+        191.4454345703125,
+        1682.1268310546875,
+        1726.3543701171875,
+        1740.4300537109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_005/005_plain_text_0.71.png",
+    "text": "So,\nthe area to be painted orange =\nCSA of the cone + base area of the cone"
+}

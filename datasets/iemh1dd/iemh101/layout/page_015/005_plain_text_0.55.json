@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5462581515312195,
+    "bbox": [
+        328.4479064941406,
+        1115.012451171875,
+        1795.165771484375,
+        1270.697509765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_015/005_plain_text_0.55.png",
+    "text": "By the Baudhayana-Pythagoras\nTheorem, the distance between\npoints\n(x, y1) a\nand (x2, y2) is\n\u221a(x2 -x1)\u00b2 +(y2 -y1)\u00b2."
+}

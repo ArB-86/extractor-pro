@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9429521560668945,
+    "bbox": [
+        373.5223388671875,
+        2328.96533203125,
+        2091.052001953125,
+        2453.814208984375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/001_plain_text_0.94.png",
+    "text": "From the diagram, the number of rooms is 34. This can be computed\nby repeatedly multiplying 3 by itself,"
+}

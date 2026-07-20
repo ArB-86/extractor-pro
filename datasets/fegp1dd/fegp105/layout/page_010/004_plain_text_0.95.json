@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9451699256896973,
+    "bbox": [
+        419.4798889160156,
+        645.3614501953125,
+        2209.697021484375,
+        793.1963500976562
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_010/004_plain_text_0.95.png",
+    "text": "Example: As 15 and 39 have\ne 3 as a common factor, they\nare not\nco-prime. But 4 and 9 are co-prime."
+}

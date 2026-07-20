@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8264524340629578,
+    "bbox": [
+        378.3956298828125,
+        1551.2327880859375,
+        1648.2725830078125,
+        1608.185302734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_011/006_plain_text_0.83.png",
+    "text": "C'D' = x-coordinate of A' - x-coordinate of D' = -3 - (-7) = 4."
+}

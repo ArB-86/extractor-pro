@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9153417944908142,
+    "bbox": [
+        372.9832763671875,
+        1663.0704345703125,
+        2090.15185546875,
+        1808.644287109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/009_plain_text_0.92.png",
+    "text": "More\n generally, if y = x', then x is the cube root of y. This is denoted by\nVy.So, /8 =/23 = 2.\nX\u4e09"
+}

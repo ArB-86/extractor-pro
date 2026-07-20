@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5187197327613831,
+    "bbox": [
+        384.94403076171875,
+        1583.2506103515625,
+        1139.995361328125,
+        1649.0341796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_022/007_plain_text_0.52.png",
+    "text": "Ans. (i) 673 - 66?is the greatest."
+}

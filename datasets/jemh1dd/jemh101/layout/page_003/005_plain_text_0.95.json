@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9531852602958679,
+    "bbox": [
+        253.6488037109375,
+        1472.3592529296875,
+        1225.4127197265625,
+        1746.2662353515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_003/005_plain_text_0.95.png",
+    "text": "Carl Friedrich Gauss is often referred to as the *Prince\nofMathematicians':\nand is considered one of the three\nmathematicians\nof all\ntime, a\nalong\ngreatestr\nWith\nArchimedes and Newton. He has made fundamental\ncontributions to both mathematics and\nscience."
+}

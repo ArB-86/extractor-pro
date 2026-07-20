@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9858885407447815,
+    "bbox": [
+        190.96571350097656,
+        1547.6571044921875,
+        1755.056640625,
+        1905.6700439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_009/000_plain_text_0.99.png",
+    "text": "This statement is true for all values of y. However, we do not get a specific\nvalue of y as a solution. Therefore, we cannot obtain a specific value of x. This\nsituation has arisen\nbecause\ne both the\ngiven equations are the same. Therefore,\nEquations\n(1) a\nand (2)\nhave infinitely\nmany solutions. We cannot find a unique\ncost of a pencil and an eraser,\nbecause there are many common solutions, to the\ngiven situation."
+}

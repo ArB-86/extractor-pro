@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9454434514045715,
+    "bbox": [
+        440.8833312988281,
+        1065.5146484375,
+        1685.83447265625,
+        1125.8936767578125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/002_plain_text_0.95.png",
+    "text": "We\n also write the prime factors :\n in pairs. That is,\necana"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5847710371017456,
+    "bbox": [
+        585.4560546875,
+        863.9786376953125,
+        1754.510986328125,
+        944.9869995117188
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_008/009_plain_text_0.58.png",
+    "text": "a.5 times\n1\nof a roti\nb.9 times\n1\nof a roti\n\u4e8c4\n=4"
+}

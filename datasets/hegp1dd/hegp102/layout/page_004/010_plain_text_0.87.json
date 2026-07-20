@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8743747472763062,
+    "bbox": [
+        441.78656005859375,
+        2796.27880859375,
+        2018.2518310546875,
+        2980.8759765625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/010_plain_text_0.87.png",
+    "text": "(i)\n6 x 6 x 6 x 6\n(ii)\nyxy\n(iii)\nbx bx bx b\n(iv)\n5\u00d75\u00d77\u00d77\u00d7 7\n(v)\n2\u00d72\u00d7a\u00d7 a\n(vi)\na\u00d7 axa\u00d7cxcxcxcx d"
+}

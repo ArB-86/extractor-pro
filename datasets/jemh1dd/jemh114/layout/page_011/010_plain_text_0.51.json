@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5052135586738586,
+    "bbox": [
+        191.58456420898438,
+        503.95458984375,
+        1402.5565185546875,
+        618.78515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/010_plain_text_0.51.png",
+    "text": "7.5\n75\n5\nTherefore, P (helicopter crashed in the lake)\n40.5\n405\n27"
+}

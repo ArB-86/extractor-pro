@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.9141467213630676,
+    "bbox": [
+        422.5630798339844,
+        2119.895751953125,
+        1704.974609375,
+        2207.701416015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_008/005_title_0.91.png",
+    "text": "3.6 The Magic Number \nof Kaprekar"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8668532967567444,
+    "bbox": [
+        341.2552795410156,
+        305.9344482421875,
+        1799.2825927734375,
+        550.4163818359375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/012_plain_text_0.87.png",
+    "text": "(ii)\nMake\ne a table of\nvalues\nfor\nr t varying\nfrom\n0 to\n10\nyears\nand\nshow\nhow\nthe population, P, increases every year.\n(iii)\nFind\nthat\nrelates\nP\nand\nI t, a\nan\nexpression\nand\nexplain\nwhy\nit\nrepresents\nlinear\ngrowth."
+}

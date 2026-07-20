@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9758026003837585,
+    "bbox": [
+        193.9615936279297,
+        1364.8087158203125,
+        1754.92333984375,
+        1582.65380859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_002/001_plain_text_0.98.png",
+    "text": "Thus, the angle of depression of a point on\nthe object being\n viewed is the angle\nformed by the line of sight with the horizontal when the point is below\nthehorizontal\nlevel, i.e.,\nthe\nwhen\nlower\nhead\nto\nlook\nat \nthe\npoint\nbeing\ncase\nwe\nour\nviewed\n(see\nFig. 9.3)."
+}

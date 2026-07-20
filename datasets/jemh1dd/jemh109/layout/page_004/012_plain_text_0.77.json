@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.769638180732727,
+    "bbox": [
+        193.77430725097656,
+        1422.676025390625,
+        566.0380859375,
+        1473.8514404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_004/012_plain_text_0.77.png",
+    "text": "It\nshould\n1\nbe\nSin\n609\nO"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9156169891357422,
+    "bbox": [
+        471.54638671875,
+        308.79351806640625,
+        1794.6285400390625,
+        539.650146484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/001_plain_text_0.92.png",
+    "text": "intersection\niS\nreferred\nto\nin\nthe\nfollowing\nmanner: If\nthe\nstreet\nrunning\nin\nthe N-S direction\nand 5th street\nsecond\nin\nthe E-W c\ndirection\nat\ncrossing, t\nthen\ncall\nthis\nmeet\nsome\nwe\nstreet intersection\n(2, 5). Using\nthis\nconvention, find:"
+}

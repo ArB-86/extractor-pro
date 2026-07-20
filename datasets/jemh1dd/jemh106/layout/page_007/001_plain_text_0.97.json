@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9675229787826538,
+    "bbox": [
+        194.2644805908203,
+        1612.4039306640625,
+        1155.21435546875,
+        1777.251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/001_plain_text_0.97.png",
+    "text": "Activity\n2\n\uff1a\nDraw\nany\nangle XAY\nand\non\nits\none\narm AX,\nmark points\n(say five points) P, Q, D, R\nand\nB\nsuch \n that AP\n=F\nPQ\n=\nQD\nDR\n\u4e09\nRB."
+}

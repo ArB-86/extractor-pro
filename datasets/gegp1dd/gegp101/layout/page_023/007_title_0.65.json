@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.6518767476081848,
+    "bbox": [
+        1087.449462890625,
+        304.6203918457031,
+        1379.1217041015625,
+        371.9773254394531
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_023/007_title_0.65.png",
+    "text": "PUZzl\nTIME!"
+}

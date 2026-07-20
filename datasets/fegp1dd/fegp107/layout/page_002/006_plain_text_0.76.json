@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7628470659255981,
+    "bbox": [
+        520.1065673828125,
+        2578.517333984375,
+        2022.197265625,
+        2711.746337890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_002/006_plain_text_0.76.png",
+    "text": "2.1\nA wholesale\ne merchant packed 1 kg of rice in four packets\nof equal weight. The weight of each packet is\nkg."
+}

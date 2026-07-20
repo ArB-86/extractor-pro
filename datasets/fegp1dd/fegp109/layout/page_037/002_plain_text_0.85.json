@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.8543832302093506,
+    "bbox": [
+        440.12091064453125,
+        1520.4171142578125,
+        1512.3013916015625,
+        1708.62646484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_037/002_plain_text_0.85.png",
+    "text": "(i)\n3 Angles of symmetry\n(ii)\n4\nangles of s\nsymmetry\n(iii)\n12\nangles of s\nsymmetry\n possible to obtain.\nare"
+}

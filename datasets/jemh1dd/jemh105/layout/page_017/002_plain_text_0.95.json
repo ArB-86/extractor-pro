@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9521538615226746,
+    "bbox": [
+        192.4590606689453,
+        2096.421142578125,
+        1752.6304931640625,
+        2206.801025390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_017/002_plain_text_0.95.png",
+    "text": "Example 12 : If the sum of the first 14 terms of an AP is 1050 and its first term is 10,\nfind the 2Oth term."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9384584426879883,
+    "bbox": [
+        294.9779052734375,
+        2121.267578125,
+        1438.7891845703125,
+        2470.5126953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/004_plain_text_0.94.png",
+    "text": "Odd natural numbers less than 10, i.e., 1, 3, 5, 7, 9\n1\n1i)\nThe rivers of India\n(ii)\nThe vowels in the English alphabet, namely, a, e, i, o, u\n(iv)\nVarious kinds of triangles\nPrime factors of 210, namely, 2,3,5 and 7\n(vi)\nThe solution of the equation: x\u00b2- 5x + 6 = 0, viz, 2 and 3."
+}

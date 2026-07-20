@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9534069299697876,
+    "bbox": [
+        192.04830932617188,
+        1082.25146484375,
+        1753.3182373046875,
+        1194.6019287109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/002_plain_text_0.95.png",
+    "text": "Solution : Let S and R denote the events that Sangeeta wins the match and Reshma\nwins the match, respectively."
+}

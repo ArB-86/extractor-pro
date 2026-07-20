@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8101320862770081,
+    "bbox": [
+        294.3179626464844,
+        837.2057495117188,
+        949.3844604492188,
+        923.8087158203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_031/003_plain_text_0.81.png",
+    "text": ": What is\n3-4"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9581774473190308,
+    "bbox": [
+        418.24493408203125,
+        1572.9002685546875,
+        2211.927490234375,
+        1787.0433349609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_026/003_plain_text_0.96.png",
+    "text": "Adding the two\ngiven fractions is the same as finding out the total\nnumber of shaded parts, each of which represent the same fractional\nunit"
+}

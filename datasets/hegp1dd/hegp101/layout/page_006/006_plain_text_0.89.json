@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8926247358322144,
+    "bbox": [
+        385.2239990234375,
+        2872.840576171875,
+        2088.382568359375,
+        2998.080810546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/006_plain_text_0.89.png",
+    "text": "This shows that 38 cannot be expressed as a sum of consecutive odd\nnumbers starting with 1."
+}

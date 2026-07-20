@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.938904881477356,
+    "bbox": [
+        292.6934509277344,
+        2460.8369140625,
+        2085.63623046875,
+        2682.864990234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_017/003_plain_text_0.94.png",
+    "text": "Rules for\n: Game #2: The first player says a number between 1 and\n10. Then the two players take turns adding a number between 1 and\n10 to the previous number said. The first player to reach 99 wins!"
+}

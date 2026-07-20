@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5661689043045044,
+    "bbox": [
+        214.75543212890625,
+        394.8584289550781,
+        1754.4483642578125,
+        501.64117431640625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/005_plain_text_0.57.png",
+    "text": "9.\nLet A and B be sets. If A  X = B  X = \u03a6 and A U X = B U X for some set\nX, show that A = B."
+}

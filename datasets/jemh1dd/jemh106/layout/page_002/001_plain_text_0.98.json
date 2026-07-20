@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9752539396286011,
+    "bbox": [
+        193.77728271484375,
+        951.5607299804688,
+        888.1952514648438,
+        1943.2021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_002/001_plain_text_0.98.png",
+    "text": "Now consider any two (or more)\ncircles [see Fig. 6.1 (i)]. Are they\ncongruent? Since all of them do not\nhave the same radius, they are not\ncongruent to each other. Note that\nsome are congruent and some are not,\nbut all of them have the same shape.\nSo they all are, what we call, similar.\nTwo similar figures have the same\nshape but not necessarily the same\nsize. Therefore, all circles are similar.\nWhat about two (or more) squares or\ntwo (or more) equilateral triangles\n[see Fig. 6.1 (ii) and (iii)]? As observed\nin the case of circles, here also all\nsquares are similar and all equilateral\ntriangles are similar."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8803432583808899,
+    "bbox": [
+        296.1600341796875,
+        449.98297119140625,
+        1540.7091064453125,
+        558.549072265625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/007_plain_text_0.88.png",
+    "text": "(i)\n{x: x \u2208 R, - 4 <x \u22646}\n(1i)\n{x : x \u2208 R, - 12 < x< -10}\nii)\n{x : x \u2208 R, 0 \u2264x < 7}\n(iv)\n{x : x \u2208 R, 3 \u2264x\u2264 4}"
+}

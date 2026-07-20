@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9554338455200195,
+    "bbox": [
+        238.49009704589844,
+        782.5963745117188,
+        1794.9200439453125,
+        894.3665771484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/004_plain_text_0.96.png",
+    "text": "Example 4: The\nperimeter of a square of side x is 4x, which is a\nlinear polynomial in the variable x."
+}

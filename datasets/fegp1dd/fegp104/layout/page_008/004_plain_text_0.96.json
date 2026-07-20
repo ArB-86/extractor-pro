@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9551303386688232,
+    "bbox": [
+        300.1571350097656,
+        1232.3421630859375,
+        2081.462158203125,
+        1380.649658203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_008/004_plain_text_0.96.png",
+    "text": "He created a pictograph to present this data and decided to show\n1 student as\nin the pictograph\u2014"
+}

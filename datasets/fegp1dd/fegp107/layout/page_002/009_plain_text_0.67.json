@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.665443480014801,
+    "bbox": [
+        515.540771484375,
+        2723.3828125,
+        2021.844970703125,
+        2924.818115234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_002/009_plain_text_0.67.png",
+    "text": "3.\nFour\nfriends\nordered\n 3\nglasses\nof\nsugarcane\njuice\nand\nshared it e\nequally\namong\nthemselves. Each\none\ndrank\nglass of sugarcane\njuice."
+}

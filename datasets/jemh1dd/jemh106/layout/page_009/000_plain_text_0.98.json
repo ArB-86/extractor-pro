@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.981905460357666,
+    "bbox": [
+        191.2140655517578,
+        2333.959228515625,
+        1756.98828125,
+        2561.593505859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_009/000_plain_text_0.98.png",
+    "text": "You can repeat this activity by drawing\ng any angle XAY of different measure and\ntaking\nnumber of equal\nparts on\nSAX\nand AY . Each time, you will\n any\narms\narrive at\nthe\nresult. Thus, we\nobtain\nthe f\nfollowing\nsame\ntheorem,\n,which is\nthe\nconverse of\nTheorem\n6.1:"
+}

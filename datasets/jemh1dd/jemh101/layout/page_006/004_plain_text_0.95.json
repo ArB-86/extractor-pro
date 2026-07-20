@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9463018178939819,
+    "bbox": [
+        193.00045776367188,
+        1328.4239501953125,
+        1754.676025390625,
+        1441.9566650390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/004_plain_text_0.95.png",
+    "text": "Before we prove that\n\u221a2\nis irrational, we need the following theorem, whose\nproof is based on the Fundamental Theorem of Arithmetic."
+}

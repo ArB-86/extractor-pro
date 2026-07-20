@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6529295444488525,
+    "bbox": [
+        302.9932861328125,
+        2305.61767578125,
+        667.2415161132812,
+        2560.58935546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/007_plain_text_0.65.png",
+    "text": "CD\nAC\n(i)\nGH\nFG\n(ii) \u25b3DCB\uff5e\u25b3HGE\n(ii)\n\u25b3DCA ~\u25b3HGF"
+}

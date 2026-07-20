@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.5487908124923706,
+    "bbox": [
+        295.1378479003906,
+        2086.919677734375,
+        1701.2784423828125,
+        2150.07421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_048/015_plain_text_0.55.png",
+    "text": "Q. Now, from 3, if you wish to go to - 2, how far must you travel?"
+}

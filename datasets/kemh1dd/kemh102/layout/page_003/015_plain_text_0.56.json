@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5579176545143127,
+    "bbox": [
+        190.3181610107422,
+        1346.8800048828125,
+        1755.5810546875,
+        1574.0711669921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/015_plain_text_0.56.png",
+    "text": "P x\nQ=\n{(a, r), (b, r), (c, r)\nand\nQ\nxP\n{(r, a), (r, b), (r, c)}\nSince, by the definition of equality of ordered pairs, the pair\n(a, r) i\nis not equal to the pair\n(r, a),\nwe conclude that P\nQ\uff1a\n+Q\nX\nP.\nHowever,\nthe\nnumber of elements\nin each set will be the\nsame."
+}

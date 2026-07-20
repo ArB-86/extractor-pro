@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5195966362953186,
+    "bbox": [
+        192.77835083007812,
+        643.9374389648438,
+        1128.4451904296875,
+        696.35595703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_007/011_plain_text_0.52.png",
+    "text": "So, the given\nlist of numbers\ndoes not form an AP."
+}

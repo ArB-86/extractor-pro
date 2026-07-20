@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.7667632699012756,
+    "bbox": [
+        291.2524108886719,
+        1486.9837646484375,
+        1923.33447265625,
+        1549.984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/013_plain_text_0.77.png",
+    "text": "Q5 Find out how many supercells are possible for different numbers of cells"
+}

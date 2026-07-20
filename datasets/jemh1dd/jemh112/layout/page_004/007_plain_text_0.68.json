@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6838318109512329,
+    "bbox": [
+        190.4900665283203,
+        1494.505615234375,
+        1008.8334350585938,
+        1960.2137451171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_004/007_plain_text_0.68.png",
+    "text": "Example 2 : The decorative block shown\nin Fig. 12.7 is made of two solids \u2014 a cube\nand a hemisphere. The base of the block is a\ncube with edge 5 cm, and the hemisphere\nfixed on the top has a diameter of 4.2 cm.\nFind the total surface area of the block.\n22\n(Take\u03c0="
+}

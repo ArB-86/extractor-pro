@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9524348378181458,
+    "bbox": [
+        379.0986328125,
+        395.7354431152344,
+        2090.427001953125,
+        614.861328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_007/000_plain_text_0.95.png",
+    "text": "Look\nat\nthe\npictures\nof\nspectacles,\nWallet\nand\nother\ncommon\nobjects. Identify\nmarking\nthe\nangles\nin\nthem\nby\nout their\ns\nand\nvertices."
+}

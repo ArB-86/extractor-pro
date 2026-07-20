@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7624367475509644,
+    "bbox": [
+        247.24810791015625,
+        2104.6767578125,
+        1752.4520263671875,
+        2251.391845703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/011_plain_text_0.76.png",
+    "text": "7.It is g\n given that in a group of 3 students, the probability of 2 students not having\nthe\nsame birthday is 0.992. What is the probability that the 2 students have the same\nbirthday?"
+}

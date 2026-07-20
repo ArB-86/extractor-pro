@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "title",
+    "confidence": 0.9176940321922302,
+    "bbox": [
+        366.07122802734375,
+        403.4781494140625,
+        1987.894775390625,
+        538.376953125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/001_title_0.92.png",
+    "text": "1\nA SQUARE AND A CUBE"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7999647259712219,
+    "bbox": [
+        496.487060546875,
+        1056.5450439453125,
+        1503.479248046875,
+        1122.7791748046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/010_plain_text_0.80.png",
+    "text": "Guna\nhas\nlisted\nout t\nthese\npossibilities."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9757517576217651,
+    "bbox": [
+        236.96871948242188,
+        1840.27490234375,
+        1794.31201171875,
+        2116.12060546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/000_plain_text_0.98.png",
+    "text": "Example 3: A wire of length 20\n cm is bent in different ways to form\nrectangles. For\nexample, we\nn have a rectangle\ne with length 7\ncan\ncm a\nand\nWidth 3 c\ncm. We\nalso\nhave\nof length 5.5\ncan\none\ncm\nand\nWidth\n1 4.5\ncm.\n(Think of a few more\ne ways of forming\nsuch\n rectangles.) Can\nyou write\nan expression\nfor the\narea of s\nsuch\nrectangles?"
+}

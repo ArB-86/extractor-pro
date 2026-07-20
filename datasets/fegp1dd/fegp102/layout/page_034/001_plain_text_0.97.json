@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9674944877624512,
+    "bbox": [
+        533.879150390625,
+        396.1273498535156,
+        1697.572265625,
+        835.0812377929688
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_034/001_plain_text_0.97.png",
+    "text": "4\u3002\nHere is a toy with slanting slabs attached to\nits sides; the greater the angles or slopes of\nthe slabs, the faster the balls roll. Can angles\nbe used to describe the slopes of the slabs?\nWhat are the arms of each angle? Which\narm is visible and which is not?"
+}

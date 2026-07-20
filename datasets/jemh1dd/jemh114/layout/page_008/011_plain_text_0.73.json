@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.730726957321167,
+    "bbox": [
+        229.6767578125,
+        813.1953735351562,
+        1759.194580078125,
+        1280.5447998046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_008/011_plain_text_0.73.png",
+    "text": "\u2460)\nThe number of all possible outcomes is 40\nThe number of outcomes favourable for a card with the name of a girl = 25 (Why?)\n25\n5\nTherefore, P (card with name of a girl) = P(Girl)\n\u4e00\n40\n8\nii)\nThe number of outcomes favourable for a card with the name of a boy = 15 (Why?)\n15\n3\nTherefore, P(card with name of a boy) = P(Boy)\n\u4e00\n40\n8"
+}

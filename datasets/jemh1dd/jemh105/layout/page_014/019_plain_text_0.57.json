@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5723261833190918,
+    "bbox": [
+        224.5036163330078,
+        2433.36279296875,
+        1754.2821044921875,
+        2484.466552734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/019_plain_text_0.57.png",
+    "text": "15. For what value of n, are the nth terms of two APs: 63, 65, 67, .. . and 3, 10, 17, .. . equal?"
+}

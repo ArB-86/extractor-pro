@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9511643052101135,
+    "bbox": [
+        265.05181884765625,
+        2081.190185546875,
+        1737.9871826171875,
+        2191.3095703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_015/002_plain_text_0.95.png",
+    "text": "We have seen how to obtain a line whose length is a rational number.\nHow do we obtain lines whose lengths are irrational?"
+}

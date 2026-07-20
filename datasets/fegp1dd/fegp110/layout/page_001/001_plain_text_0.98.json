@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9763039946556091,
+    "bbox": [
+        418.4383850097656,
+        2031.07861328125,
+        2208.416748046875,
+        2319.926025390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_001/001_plain_text_0.98.png",
+    "text": "But are\nthere still\nmore numbers? Well, O is\nan a\nadditional\nnumber\nthat we\ndidn't know\nabout\nearlier, a\nand it c\nbefore\nand is less\ncomes\n1\nthan\n1. Are\nthere\nperhaps\nmore numbers t\nthat come\nbefore\n0\nand\nare\nless\nthan\n0?"
+}

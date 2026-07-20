@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.961635410785675,
+    "bbox": [
+        236.0997314453125,
+        2052.091552734375,
+        1796.784423828125,
+        2216.97802734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/002_plain_text_0.96.png",
+    "text": "To find the linear relationship y = ax + b, we note that when x = 10,\ny = 350. Als0, when x = 20, y = 550. We substitute these in y = ax + b to\narrive at the following equations."
+}

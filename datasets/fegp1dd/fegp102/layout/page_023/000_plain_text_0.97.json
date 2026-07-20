@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9724000096321106,
+    "bbox": [
+        291.2811584472656,
+        873.5639038085938,
+        999.9313354492188,
+        1388.6904296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_023/000_plain_text_0.97.png",
+    "text": "Starting\nfrom\nthe\nmarking on the rightmost\npoint of t\nthe base, there\nis a long\nmark for every\n10\u00b0. From every such long\nmark, there is a medium\nsized mark after 5\u00b0."
+}

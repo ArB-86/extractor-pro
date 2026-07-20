@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8807476758956909,
+    "bbox": [
+        291.1272277832031,
+        1591.82763671875,
+        972.0699462890625,
+        1848.0438232421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_025/004_plain_text_0.88.png",
+    "text": "Ans.\n7,8\n8,9\n(Try f\nfor other\npossibility)"
+}

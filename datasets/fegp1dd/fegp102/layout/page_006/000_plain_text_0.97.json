@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9713266491889954,
+    "bbox": [
+        419.3331604003906,
+        807.3026733398438,
+        2208.928466796875,
+        1102.4652099609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_006/000_plain_text_0.97.png",
+    "text": "So, the\nangle in\nCase\n2 is\ngreater as i\nin t\nthis\nshe\nneeds to rotate\ncase\nthe cover r\n more. Similarly, the angle in Case 3 is \nlarger\ns even\nthan\nthat\nof\nf Case\n2, because\nthere\niS\n more rotation, and Cases\neven 1\n4, 5, a\nand 6\nare successively larger angles\ns With\n. more\nand\nmore rotation."
+}

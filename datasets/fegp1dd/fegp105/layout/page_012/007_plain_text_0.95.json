@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9524410367012024,
+    "bbox": [
+        420.9501037597656,
+        1528.7783203125,
+        2209.500732421875,
+        1669.429443359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/007_plain_text_0.95.png",
+    "text": "What is the prime factorisation of a prime number like 7? It is just\n7 (we cannot break it down any further)."
+}

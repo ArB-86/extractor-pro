@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9665156602859497,
+    "bbox": [
+        192.68592834472656,
+        2074.009521484375,
+        1129.555908203125,
+        2398.71533203125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/000_plain_text_0.97.png",
+    "text": "The complement of the\nuoiun\nof t\ntwo sets is\nthe intersection of their complements and the\ncomplement\nof the intersection of t\ntwo sets is the\nuoiun\nof their complements. These are called De\nMorgan's laws. These\nnamed\nafter\nthe\nare\nmathematician De Morgan."
+}

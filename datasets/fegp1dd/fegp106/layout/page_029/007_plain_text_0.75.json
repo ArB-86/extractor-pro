@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7455379962921143,
+    "bbox": [
+        411.6380310058594,
+        1851.5965576171875,
+        1180.5048828125,
+        1913.2923583984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_029/007_plain_text_0.75.png",
+    "text": "Area of inner rectangle = 48\nsq. units."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9174243211746216,
+    "bbox": [
+        421.1960144042969,
+        495.1022644042969,
+        2207.36962890625,
+        644.4976806640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_004/002_plain_text_0.92.png",
+    "text": "Does a square have only\none line of symmetry?\nTake a square piece of paper. By folding, find all its lines of symmetry."
+}

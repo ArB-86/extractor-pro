@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6122809648513794,
+    "bbox": [
+        293.9344787597656,
+        1006.0548095703125,
+        2087.437255859375,
+        1146.870849609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_011/011_plain_text_0.61.png",
+    "text": "Anshu and Guna: If they\nhave a common factor other than 1, then\ntheya\nare not co-prime. Let us check."
+}

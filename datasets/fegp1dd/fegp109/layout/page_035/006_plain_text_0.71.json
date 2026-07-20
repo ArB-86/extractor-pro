@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.7088263034820557,
+    "bbox": [
+        294.9136962890625,
+        1094.3133544921875,
+        1971.620849609375,
+        1158.5333251953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_035/006_plain_text_0.71.png",
+    "text": "Q1. Find the angles of symmetry for the given figures about the point marked."
+}

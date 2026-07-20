@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.977758526802063,
+    "bbox": [
+        238.9442596435547,
+        1423.761474609375,
+        1795.1905517578125,
+        1645.4169921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/000_plain_text_0.98.png",
+    "text": "Example 9: The\nt of a journey\ncost\nis\ngiven\nby\nthe\nlinear\nfunction\nC(d)\n100\n+\n60d,\nwhere\nC\nindicates\ntotal\ncost\nin\nand\nrupees\nthe\ndistance\ntravelled i\nin\nkm. Let\nus\nmake\na table of\nvalues\nfor\nvarying\nfrom\n0 to 10 km\nand show\nhow\nthe cost increases\nfor\nevery\nkm."
+}

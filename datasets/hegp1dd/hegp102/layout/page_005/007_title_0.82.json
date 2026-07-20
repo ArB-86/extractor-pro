@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.8209269046783447,
+    "bbox": [
+        380.42327880859375,
+        737.4561157226562,
+        1087.4835205078125,
+        804.1356811523438
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/007_title_0.82.png",
+    "text": "Thes\nStones that Shine"
+}

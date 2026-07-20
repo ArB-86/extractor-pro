@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.946510374546051,
+    "bbox": [
+        293.3733825683594,
+        2660.144775390625,
+        2086.1455078125,
+        2808.536376953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_027/001_plain_text_0.95.png",
+    "text": "To add\nfractions\nWith\ndifferent\nfractional\nunits, \nfirst\nconvert\nthe\nfractions\ninto\nequivalent\nfractions\nWith\nn the\ndenominator\nsame\nor"
+}

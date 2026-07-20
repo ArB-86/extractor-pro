@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8805928826332092,
+    "bbox": [
+        195.54531860351562,
+        2235.900634765625,
+        1630.0079345703125,
+        2291.44775390625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/006_plain_text_0.88.png",
+    "text": "Example 1 Write the solution set of the equation x2 + x - 2 = 0 in roster form."
+}

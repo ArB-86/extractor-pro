@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9578080177307129,
+    "bbox": [
+        194.10598754882812,
+        1189.3817138671875,
+        1753.179443359375,
+        1346.601806640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_001/002_plain_text_0.96.png",
+    "text": "In the previous chapter, you have studied about trigonometric ratios. In this chapter,\nyou will be studying about some ways in which trigonometry is used in the life around\nyou."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9735835194587708,
+    "bbox": [
+        194.93394470214844,
+        397.3694152832031,
+        1752.88330078125,
+        614.2554321289062
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/001_plain_text_0.97.png",
+    "text": "In the\nexamples above, we\nobserve some\npatterns. In\n1 some,we\nfind that the\nsucceeding\n obtained by adding a fixed\nnumber, in other\nby\nmultiplying\n terms\nare\nwith\na\nfixed\nnumber,\nin\nanother\nwe\nfind\nthat\nthey\nare\nsquares\nof\nconsecutive\nnumbers, and\nso on."
+}

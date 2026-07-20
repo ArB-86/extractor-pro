@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9611812233924866,
+    "bbox": [
+        238.6651611328125,
+        511.5804748535156,
+        1793.3978271484375,
+        681.2821044921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/002_plain_text_0.96.png",
+    "text": "In the example above, as the value of t increases\nby a fixed number\n(one month), the value of the height h decreases\nby a fixed number\n(0.5). Therefore, this example represents 1\nlinear decay."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8730082511901855,
+    "bbox": [
+        296.3685607910156,
+        1810.6412353515625,
+        2099.542236328125,
+        1996.2490234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_016/002_plain_text_0.87.png",
+    "text": "Q.8. What happens when you start to add up hexagonal numbers, i.e., take 1, 1 + 7,\n1 + 7 + 19, 1 + 7 + 19 + 37, .. ? Which sequence do you get? Can you explain it\nusing a picture of a cube?"
+}

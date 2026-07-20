@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9708995223045349,
+    "bbox": [
+        192.32859802246094,
+        2305.240234375,
+        1755.325439453125,
+        2581.630126953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/001_plain_text_0.97.png",
+    "text": "In earlier classes, we have learnt how to perform the operations of addition, subtraction,\nmultiplication and division on numbers. Each one of these operations was performed\nr of 1\nnumbers to get another\nnumber. For\nexample, when\nperform\nthe\non a pair\ne\nwe\noperation of addition on the pair of numbers 5 and 13, we get the number \nr 18.Again,\nperforming the operation of multiplication on the pair of numbers 5 and 13, we get 65."
+}

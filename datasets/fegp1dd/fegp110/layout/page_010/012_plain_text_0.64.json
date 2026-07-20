@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6414034366607666,
+    "bbox": [
+        454.3472900390625,
+        904.6414794921875,
+        1997.6156005859375,
+        974.031005859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_010/012_plain_text_0.64.png",
+    "text": " by thinking about the movement in the mineshaf\nyour answers"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.6684656143188477,
+    "bbox": [
+        291.29742431640625,
+        2400.94921875,
+        2192.59716796875,
+        2792.215087890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_043/007_plain_text_0.67.png",
+    "text": "Ans.\na.70\nb. 310\nc. Saturday, Wednesday\nThe variation in the number of saplings planted on different days may\nbebecause of\nrainy\nseason or different number of students present on different days. (Discuss \ns for\nother reasons.)"
+}

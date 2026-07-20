@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.723218560218811,
+    "bbox": [
+        325.563232421875,
+        834.6107177734375,
+        1659.9664306640625,
+        903.03076171875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/009_plain_text_0.72.png",
+    "text": "Doesevery\nnumber have an even number of factors?"
+}

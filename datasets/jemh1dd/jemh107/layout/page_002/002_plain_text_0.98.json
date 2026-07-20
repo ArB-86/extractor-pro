@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.980570375919342,
+    "bbox": [
+        192.53245544433594,
+        954.3556518554688,
+        1093.9417724609375,
+        1176.7020263671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/002_plain_text_0.98.png",
+    "text": "Now, suppose two points\nlie on\nthe x-axis.\nCan\nwe\nfind t\nthe distance\nbetween\nthem? For\ninstance, consider two points A(4, 0) a\nand B(6, 0)\nin Fig. 7.2. The points A and B lie on\nthe x-axis."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.8820675611495972,
+    "bbox": [
+        292.4609069824219,
+        2305.33544921875,
+        798.2810668945312,
+        2376.904296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_023/001_title_0.88.png",
+    "text": "Pla\nlaying\nwith\nTile\nes"
+}

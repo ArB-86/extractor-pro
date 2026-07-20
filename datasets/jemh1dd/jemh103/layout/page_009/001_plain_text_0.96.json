@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9630241990089417,
+    "bbox": [
+        190.81214904785156,
+        566.5770874023438,
+        1753.2327880859375,
+        682.2181396484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_009/001_plain_text_0.96.png",
+    "text": "Example 6 : In a shop the cost of 2 pencils and 3\nerasers is ?9 and the cost of 4\npencils and 6 erasers is 18. Find the cost of each pencil and each eraser."
+}

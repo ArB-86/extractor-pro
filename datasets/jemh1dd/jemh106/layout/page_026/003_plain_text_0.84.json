@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8427415490150452,
+    "bbox": [
+        246.39024353027344,
+        506.27728271484375,
+        1754.3416748046875,
+        654.7656860351562
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_026/003_plain_text_0.84.png",
+    "text": "9. If one angle of a triangle is equal to one angle of another triangle and the sides including\nthese angles are in the same ratio\n0 (proportional), then the triangles are similar\n(SAS similarity criterion)."
+}

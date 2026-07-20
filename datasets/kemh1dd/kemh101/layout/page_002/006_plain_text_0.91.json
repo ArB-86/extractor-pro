@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9084553718566895,
+    "bbox": [
+        293.7822570800781,
+        702.560302734375,
+        1133.6317138671875,
+        1048.62841796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/006_plain_text_0.91.png",
+    "text": "N : the set of all natural numbers\nZ\nZ: the set of all integers\nQ : the set of all rational numbers\nR : the set of real numbers\nZ+ : the set of positive integers\nQ+ : the set of positive rational numbers, and"
+}

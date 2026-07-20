@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9718642234802246,
+    "bbox": [
+        192.15719604492188,
+        2069.8486328125,
+        1003.8850708007812,
+        2232.26904296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_008/001_plain_text_0.97.png",
+    "text": "Now\nlet us\ne understanding\nuse the\nthat\nhave\ndeveloped\nthrough\nmay\nthis\nyou\nexample to obtain\nthe\ngeneral formula."
+}

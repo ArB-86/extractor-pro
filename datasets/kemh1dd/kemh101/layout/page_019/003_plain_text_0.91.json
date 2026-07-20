@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9101279377937317,
+    "bbox": [
+        193.32083129882812,
+        735.3495483398438,
+        1692.6011962890625,
+        794.0721435546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/003_plain_text_0.91.png",
+    "text": "Solution Since A is the set of all girls, A' is clearly the set of all boys in the class."
+}

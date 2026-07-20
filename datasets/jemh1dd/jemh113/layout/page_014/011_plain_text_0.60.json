@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5951111912727356,
+    "bbox": [
+        329.39947509765625,
+        1294.803466796875,
+        1663.1397705078125,
+        1348.9722900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_014/011_plain_text_0.60.png",
+    "text": "et us consider the following\nexamples to illustrate the use of this formula"
+}

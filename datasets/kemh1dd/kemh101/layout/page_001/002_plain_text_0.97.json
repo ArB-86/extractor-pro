@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9729021191596985,
+    "bbox": [
+        192.91160583496094,
+        1875.778564453125,
+        1761.3009033203125,
+        2105.190673828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/002_plain_text_0.97.png",
+    "text": "In\nn everyday\nlife,\nwe often s\nspeak of collections of objects of a particular 1\nr kind,\nsuch\nas,\npack of cards, a crowd ofpeople, a cricket team, etc. In\nmathematics also, we come\nap\nacross collections,\nfor\nr example, of natural\nnumbers, points, prime numbers, etc. More\nspecially,\n, we examine the following\ncollections:"
+}

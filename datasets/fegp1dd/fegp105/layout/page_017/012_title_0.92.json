@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "title",
+    "confidence": 0.9195340275764465,
+    "bbox": [
+        292.8974609375,
+        2669.49169921875,
+        774.54052734375,
+        2740.753662109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/012_title_0.92.png",
+    "text": "Dj\nDivisibility\nby\n2"
+}

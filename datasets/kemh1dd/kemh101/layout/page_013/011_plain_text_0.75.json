@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7527925372123718,
+    "bbox": [
+        197.24745178222656,
+        670.5516357421875,
+        1529.4072265625,
+        720.75341796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/011_plain_text_0.75.png",
+    "text": "7.\nWhat universal set(s)\nwould you propose for each of the following"
+}

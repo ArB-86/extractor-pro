@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.982580840587616,
+    "bbox": [
+        190.77392578125,
+        1453.5335693359375,
+        1751.0948486328125,
+        1868.2239990234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_001/001_plain_text_0.98.png",
+    "text": "Here is a play for you. Draw a set of a pair of perpendicular axes on a g\ngraph\npaper. Now plot the following points and join them as directed: Join the point A(4, 8) to\nB(3, 9) to C(3, 8) to D(1, 6) to E(1, 5) to F(3, 3) to G(6, 3) to H(8, 5) to I(8, 6)\n\uff09to\nJ(6, 8) to K(6, 9) to L(5, 8) to A. Then join the points P(3.5, 7), Q (3, 6) and R(4, 6) to\nform a triangle. Also join the points X(5.5, 7), Y(5, 6) a\nand Z(6, 6) to form a triangle.\nNow join S(4, 5), T(4.5, 4) and U(5, 5) to form a triangle. Lastly join S to the points\n(0, 5)\nand (0, 6)\nand join U to the points\n(9, 5)\nand (9, 6). What picture have you\nI got?"
+}

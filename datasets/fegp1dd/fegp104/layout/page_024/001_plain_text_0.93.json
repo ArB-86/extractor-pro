@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9300361275672913,
+    "bbox": [
+        496.3682556152344,
+        2366.8603515625,
+        2087.078369140625,
+        2876.87353515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_024/001_plain_text_0.93.png",
+    "text": "Which class has the least number of girl students?\na.\nb.\nWhat is the difference between the number of girls in Classes\n5 and 6?\nIf two more\ngirls were admitted in Class 2, how would the\ngraph change?\nd.\nHow many girls are there in Class 7?"
+}

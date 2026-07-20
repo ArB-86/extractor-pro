@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9805099964141846,
+    "bbox": [
+        189.84030151367188,
+        2107.08642578125,
+        1756.87841796875,
+        2436.591552734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/000_plain_text_0.98.png",
+    "text": "Solution : When the blue die shows\n\u201c1', the\ngrey\ndie could showa\nany\nOneofthe\nnumbers 1,2, 3, 4, 5, 6. The same is true when the blue die shows \u20182',\u20183',\u20184', \u20185\u2032 \nor\n'6'. The possible outcomes of the experiment are listed in the table below; the first\nnumber in each ordered pair is the number appearing on the blue die and the second\nnumber is that on the\ngrey c\ndie."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8915697932243347,
+    "bbox": [
+        217.82266235351562,
+        1037.432861328125,
+        782.1121826171875,
+        1379.5860595703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/011_plain_text_0.89.png",
+    "text": "(i) 1, 2, 3, 4,.\n(i) 100, 70, 40, 10,..\n(iii)-3\uff0c-2\uff0c-1\uff0c0\uff0c.\n(iv) 3, 3, 3, 3,..\n(v) -1.0, -1.5, -2.0, -2.5,"
+}

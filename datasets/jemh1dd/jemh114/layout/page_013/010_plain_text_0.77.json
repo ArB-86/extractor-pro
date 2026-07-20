@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7710886001586914,
+    "bbox": [
+        327.95928955078125,
+        648.3233032226562,
+        1751.80517578125,
+        747.1845092773438
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/010_plain_text_0.77.png",
+    "text": "(ii)\nThe probability of an event that cannot happen is\nSuch an event is\ncalled"
+}

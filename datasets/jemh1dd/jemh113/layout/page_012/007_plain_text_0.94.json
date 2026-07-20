@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9392731189727783,
+    "bbox": [
+        307.8624572753906,
+        1234.7769775390625,
+        1750.6307373046875,
+        1334.42578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_012/007_plain_text_0.94.png",
+    "text": "Find the mean number of mangoes kept in a packing box. Which method of finding\nthe mean did you choose?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.663462221622467,
+    "bbox": [
+        285.46710205078125,
+        1700.678955078125,
+        1797.5767822265625,
+        1874.37451171875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/011_plain_text_0.66.png",
+    "text": "*6\u3002\nAre the points M (-3, -4), A(0, 0) and G (6, 8) on the same straight\nline? Suggest a method to check this without plotting and joining\nthe points."
+}

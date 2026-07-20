@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8853996396064758,
+    "bbox": [
+        377.6748046875,
+        288.2596740722656,
+        1156.9307861328125,
+        346.96966552734375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/006_plain_text_0.89.png",
+    "text": "Consider the numbers 1, 8, 27,"
+}

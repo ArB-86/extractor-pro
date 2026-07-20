@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.5161086320877075,
+    "bbox": [
+        192.28392028808594,
+        1893.7396240234375,
+        1349.88916015625,
+        2064.70947265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_023/009_plain_text_0.52.png",
+    "text": "n\nSubstituting\n26.5, l = 60, cf = 22,f= 7, h = 1\nthe values\n-2\n10\nin the formula above, we\nget"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9418668150901794,
+    "bbox": [
+        449.3206787109375,
+        1950.170166015625,
+        2185.2744140625,
+        2150.608642578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_013/000_plain_text_0.94.png",
+    "text": "If the students have not noticed, please\npoint out the equally spaced\nhorizontal lines. Explain that this means that each pair of consecutive\nnumbers on the left has the same\ngap."
+}

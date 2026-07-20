@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8704513311386108,
+    "bbox": [
+        273.7177734375,
+        1626.9140625,
+        789.1027221679688,
+        1682.661376953125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_009/004_plain_text_0.87.png",
+    "text": "3.\nFind the\ndifference:"
+}

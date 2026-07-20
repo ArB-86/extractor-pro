@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6334020495414734,
+    "bbox": [
+        381.4696350097656,
+        1179.6251220703125,
+        2013.028564453125,
+        1361.5433349609375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_020/007_plain_text_0.63.png",
+    "text": "6.\nSuppose you write down all the numbers 1, 2, 3, 4,..., 9, 10, 11, .\nThe tenth digit\nt you write is \u20181' and the eleventh digit is \u20180', as\npart of the number 10."
+}

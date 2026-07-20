@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9746593236923218,
+    "bbox": [
+        239.54998779296875,
+        1317.864501953125,
+        1795.60009765625,
+        1537.5098876953125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/003_plain_text_0.97.png",
+    "text": "In\nthe Hindu\n Number\nSystem\nthat\ne today, the\nwe\nphysical\ntransition\nuse\nfrom\na\nblank\nto\nsymbol\ncan\nbe\nin\nthe\na\nBakhshali\nspace\nseen\nManuscript. Dated\nto\nthe\nearly\ncenturies\nCE,\nit\nfeatures\na\nbold\ndot\n(bindu)\nused\nto1\nrepresent\nzero."
+}

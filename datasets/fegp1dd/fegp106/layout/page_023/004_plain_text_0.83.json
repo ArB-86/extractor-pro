@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8253329396247864,
+    "bbox": [
+        294.3397216796875,
+        1875.9189453125,
+        2187.26953125,
+        1999.8173828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/004_plain_text_0.83.png",
+    "text": "Q.3. Find the length of the third side of a triangle having a perimeter of 55 cm and having\ntwo sides of length 20 cm and 14 cm, respectively?"
+}

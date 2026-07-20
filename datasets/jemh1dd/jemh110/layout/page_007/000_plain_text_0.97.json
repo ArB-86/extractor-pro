@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9745362401008606,
+    "bbox": [
+        190.7340850830078,
+        2184.7490234375,
+        1096.1829833984375,
+        2459.167724609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_007/000_plain_text_0.97.png",
+    "text": "Solution : Join\nOT. Let it intersect PQ\nat the\npoint R. Then \u25b3 TPQ is isosceles and TO is the\nbisector\nof\nPTQ. So, OT \u22a5 PQ\nangle\nand t\ntherefore, OT\nbisects\nPQ\nwhich\ngives\nPR = RQ\n= 4 cm."
+}

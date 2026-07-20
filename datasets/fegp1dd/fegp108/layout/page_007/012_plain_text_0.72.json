@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7211281061172485,
+    "bbox": [
+        367.76739501953125,
+        555.5377197265625,
+        1076.6796875,
+        621.7263793945312
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/012_plain_text_0.72.png",
+    "text": "R2)\nAll the\nangles are\n90\n00"
+}

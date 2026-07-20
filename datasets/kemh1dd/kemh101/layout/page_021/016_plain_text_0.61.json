@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6066973209381104,
+    "bbox": [
+        216.99143981933594,
+        2467.34130859375,
+        1226.3133544921875,
+        2518.81982421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/016_plain_text_0.61.png",
+    "text": "8.\nShowt\nthat A  B = A  C need not imply B = C."
+}

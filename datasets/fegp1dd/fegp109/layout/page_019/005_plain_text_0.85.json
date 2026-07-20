@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8476141691207886,
+    "bbox": [
+        364.7056579589844,
+        397.9327087402344,
+        1114.49169921875,
+        467.1443176269531
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_019/005_plain_text_0.85.png",
+    "text": "Let us\nexplore more figures."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.867975652217865,
+    "bbox": [
+        373.5247802734375,
+        2100.530517578125,
+        1707.783447265625,
+        2151.81103515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/010_plain_text_0.87.png",
+    "text": "d the mean daily wages of the workers of the factory by using an appropriate metho"
+}

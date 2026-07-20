@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9403603076934814,
+    "bbox": [
+        372.261474609375,
+        2767.06689453125,
+        2088.698486328125,
+        2892.42626953125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/002_plain_text_0.94.png",
+    "text": "500 = 2 \u00d7 2 x 5 \u00d7 5 x 5. We see that the factors cannot be split into three\nidenticalg\ngroups. Therefore, 5o0 is not a perfect cube."
+}

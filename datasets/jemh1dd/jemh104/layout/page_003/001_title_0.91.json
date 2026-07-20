@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9069665670394897,
+    "bbox": [
+        192.35841369628906,
+        2040.261474609375,
+        394.2707214355469,
+        2089.389404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_003/001_title_0.91.png",
+    "text": "2\nolution\n0\n+"
+}

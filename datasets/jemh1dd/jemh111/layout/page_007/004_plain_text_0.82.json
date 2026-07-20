@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8178130984306335,
+    "bbox": [
+        244.8513641357422,
+        757.3529663085938,
+        1743.888916015625,
+        856.4940185546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_007/004_plain_text_0.82.png",
+    "text": "2. Area of a sector of a circle with radius r and angle with degree measure \u03b8 is\nX\u03c0r2\n360"
+}

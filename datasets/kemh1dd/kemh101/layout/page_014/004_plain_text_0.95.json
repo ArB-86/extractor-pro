@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9486756920814514,
+    "bbox": [
+        192.14759826660156,
+        1978.7821044921875,
+        1117.593994140625,
+        2083.151611328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/004_plain_text_0.95.png",
+    "text": "The\ne union of two\nbe represented by\nsets can\nVenn\ndiagram as\nshown\nFig\nin\n1.4.\na"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.669880747795105,
+    "bbox": [
+        411.85516357421875,
+        796.4751586914062,
+        2215.250244140625,
+        1626.4119873046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_002/008_plain_text_0.67.png",
+    "text": "Beni:\nWhich fraction is greater\u2014\n1-5\nor\n9\nArvin:\n9 is bigger than 5. So I would guess that\nis greater\n9\n1. Am I right?\nthan -\nBeni:\nNo! That is a common mistake. Think of these fractions\nas shares.\nArvin:\nIf one roti is shared among 5 children, each one gets a\nshare of 1\nroti. If one roti is shared among 9 children,\n5\nroti?\nBeni:\nExactly! Now think again - which share is higher?\nArvin:\nBeni:\nYou got it!"
+}

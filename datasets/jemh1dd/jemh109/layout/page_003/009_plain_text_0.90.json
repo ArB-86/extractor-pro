@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.897315263748169,
+    "bbox": [
+        292.673583984375,
+        737.2716674804688,
+        1468.9783935546875,
+        793.1475219726562
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/009_plain_text_0.90.png",
+    "text": "To find BC,\nWewill\nuse trigonometric ratios of Z BAC or Z A."
+}

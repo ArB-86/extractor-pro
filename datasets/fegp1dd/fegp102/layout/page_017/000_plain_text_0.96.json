@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9616695642471313,
+    "bbox": [
+        290.0473937988281,
+        396.9291687011719,
+        2086.04833984375,
+        615.2498779296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_017/000_plain_text_0.96.png",
+    "text": "Justify\nwhy\nthe\ntwo\nangles\nequal. Is t\nthere\nare\naway\nto\nCan t\nthis superimposition be done\nsuperimpose and check?\nby\nfolding?"
+}

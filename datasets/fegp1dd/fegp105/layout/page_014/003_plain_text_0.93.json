@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9348434209823608,
+    "bbox": [
+        421.36724853515625,
+        697.2789306640625,
+        2213.3798828125,
+        841.8367919921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_014/003_plain_text_0.93.png",
+    "text": "Compare it with how many times it occurs in the factorisations of\n12 and 6 put together."
+}

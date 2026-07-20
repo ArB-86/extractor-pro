@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9431833624839783,
+    "bbox": [
+        193.18136596679688,
+        2107.06884765625,
+        1165.1107177734375,
+        2160.902099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/007_plain_text_0.94.png",
+    "text": "Step 2 : Subtracting\nEquation\n(4) f\nfrom\nEquation\n(3),"
+}

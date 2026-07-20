@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7110000848770142,
+    "bbox": [
+        1639.156494140625,
+        1235.6995849609375,
+        1922.351806640625,
+        1542.156494140625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/012_plain_text_0.71.png",
+    "text": "9:\n9\n3\n\u00d73\nFactors\nare\n1,3\nand 9."
+}

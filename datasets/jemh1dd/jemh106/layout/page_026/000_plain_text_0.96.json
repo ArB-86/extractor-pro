@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9582735896110535,
+    "bbox": [
+        272.92681884765625,
+        831.3675537109375,
+        1669.978271484375,
+        1050.8372802734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_026/000_plain_text_0.96.png",
+    "text": "If in\ntwo\nright\ntriangles, hypotenuse\nand\none\nside of\none\ntriangle\nare\nproportional\nto\nthe\nhypotenuse\nand\none\nside of\nthe\ne other\ntriangle,\nthen\nthe\ntwo\ntriangles\nare\nsimilar.\nThis\nmay\nbe\nreferred\nto\nas\nthe\nRHS Similarity\nCriterion."
+}

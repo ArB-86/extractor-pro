@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9105077385902405,
+    "bbox": [
+        193.2178497314453,
+        1236.0611572265625,
+        1222.3173828125,
+        1342.3892822265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/004_plain_text_0.91.png",
+    "text": "2\n1\nTherefore, the roots of 6x\u00b2 - x - 2 = 0\nand\nare\n3\n2"
+}

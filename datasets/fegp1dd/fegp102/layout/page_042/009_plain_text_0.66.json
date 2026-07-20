@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.6624683737754822,
+    "bbox": [
+        452.8966979980469,
+        2050.173828125,
+        2211.639892578125,
+        2351.957763671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_042/009_plain_text_0.66.png",
+    "text": "An angle\nn be visualised\n as two rays starting\nfrom a common starting\ncan\npoint. Two rays\nand\nOM\nform\nthe\nangle\n ZPOM\n (also called ZMOP);\nOP\nhere, O is called t\nthe\nvertex\n of the\nangle, a\nand\nthe\nrays\nOP\nand\nOM\nare\ncalled the\narms\n of the\nangle."
+}

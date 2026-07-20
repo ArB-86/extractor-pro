@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9587846398353577,
+    "bbox": [
+        191.64503479003906,
+        2395.790283203125,
+        1754.169921875,
+        2559.91015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_015/002_plain_text_0.96.png",
+    "text": "Remark : If two angles of a triangle are respectively equal to two angles of another\ntriangle, then by the angle sum property of a triangle their third angles will also be\nequal. Therefore, AAA similarity criterion can also be stated as follows:"
+}

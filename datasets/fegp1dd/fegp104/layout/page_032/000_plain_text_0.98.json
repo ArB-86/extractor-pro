@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9754204154014587,
+    "bbox": [
+        291.0391845703125,
+        1614.1495361328125,
+        2088.936279296875,
+        1981.360595703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_032/000_plain_text_0.98.png",
+    "text": "While\npreparing\nvisually-appealing\npresentations\nof\ndata,\nwe\nalso need to be\nthat the\ncareful\ne pictures we\ndraw\ndo not mislead\nus\nabout the facts. In\nn general, it is important to be careful when making\nreading\ninfographics, s0\nthat\ndo\nor\nwe\nnot\nmislead\nour\nintended\naudiences a\nand\nWe, ourselves, are not misled."
+}

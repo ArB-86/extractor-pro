@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6105526089668274,
+    "bbox": [
+        280.4837341308594,
+        1380.5172119140625,
+        1802.452880859375,
+        1774.713134765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_008/005_plain_text_0.61.png",
+    "text": "3.\nMultiplication\nand\ndivision\nof\ntwo\nrational\nnumbers:\na\nac\nWe\nthe\nrules\nuse\nprovided\nthat\nb\nd\nbd\nP\nad\n(b \u2260 0, d  0)\na\nC\na\nand\nthat\n(b \u2260 0,\nprovided\nb\nbc\nC\nd\u2260 O, c\u2260 0)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9743953943252563,
+    "bbox": [
+        194.44615173339844,
+        690.2875366210938,
+        850.0216064453125,
+        904.7259521484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/000_plain_text_0.97.png",
+    "text": "Let\nus\ndraw\nthe\ngraphs\nof\nEquations\n(1)\nand (2) by finding two\nsolutions\nfor\nr each of the equations.\nTheya\ngiven in\nTable 3.3.\nare"
+}

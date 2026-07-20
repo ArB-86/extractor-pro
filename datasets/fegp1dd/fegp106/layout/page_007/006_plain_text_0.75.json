@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.748839795589447,
+    "bbox": [
+        293.3966369628906,
+        2145.77490234375,
+        1481.1375732421875,
+        2286.24560546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_007/006_plain_text_0.75.png",
+    "text": "We\nknow\nthat f\nfor\nany\ntriangle its\nperimeter\nis\ns sum of all three s\nsides."
+}

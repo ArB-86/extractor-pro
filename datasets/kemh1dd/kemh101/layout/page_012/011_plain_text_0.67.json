@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6726613640785217,
+    "bbox": [
+        192.34185791015625,
+        1703.45849609375,
+        1398.8792724609375,
+        1753.334716796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/011_plain_text_0.67.png",
+    "text": "2.\nExamine whether the following statements are true or false:"
+}

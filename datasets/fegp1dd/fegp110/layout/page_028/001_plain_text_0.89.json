@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8850259780883789,
+    "bbox": [
+        307.4745178222656,
+        1522.501953125,
+        2085.0419921875,
+        1736.576904296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_028/001_plain_text_0.89.png",
+    "text": "There are numbers that are less than zero. They\nare written with a \u2018-\n       )     \nlie to the left of zero on the number line."
+}

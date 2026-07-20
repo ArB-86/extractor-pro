@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.936428427696228,
+    "bbox": [
+        194.30406188964844,
+        1731.07958984375,
+        1752.854248046875,
+        1899.9722900390625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/003_plain_text_0.94.png",
+    "text": "If a is an element of a set A,\nthat \u201c a belongs to A\" the Greek symbol E\nwesay\n(epsilon) is used to denote the phrase\n\"belongs to'. Thus, we write a e A. If *b' is not\nan element of a set A,\n, we write b  A and read\nI \"b does not belong to A\"."
+}

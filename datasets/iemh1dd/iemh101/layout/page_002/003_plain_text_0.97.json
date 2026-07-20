@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9686880707740784,
+    "bbox": [
+        239.82704162597656,
+        1410.7808837890625,
+        1795.6925048828125,
+        1681.611572265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_002/003_plain_text_0.97.png",
+    "text": "In (\nGrades 9\nand\n10, you\nWill\nhave\nchance\nto s\nstudy\nthis\namazing\nea\ncoordinate system v\nwhich has such a rich history\nin human\nthought and\nendeavour.\nYou\nWill\nbe \nable to locate\nobjects\nWith\npinpoint\naccuracy.\nYou will also see how using\n coordinates enables us to visualise algebraic\nequations as\ngeometric shapes, and\nvice\nversa."
+}

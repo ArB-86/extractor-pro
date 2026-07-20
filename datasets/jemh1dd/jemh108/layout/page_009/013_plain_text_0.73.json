@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7269952893257141,
+    "bbox": [
+        245.3572540283203,
+        1063.435791015625,
+        1733.920166015625,
+        1117.540771484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/013_plain_text_0.73.png",
+    "text": "6.If Z A and Z B\n3 are acute angles such that cos A = cos B, then show that Z A = Z B"
+}

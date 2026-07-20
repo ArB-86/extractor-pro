@@ -1,0 +1,13 @@
+{
+    "page": 54,
+    "label": "plain_text",
+    "confidence": 0.8635088205337524,
+    "bbox": [
+        296.590087890625,
+        2967.535400390625,
+        719.5492553710938,
+        3027.44482421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_054/008_plain_text_0.86.png",
+    "text": "Think\nof\nother\nways."
+}

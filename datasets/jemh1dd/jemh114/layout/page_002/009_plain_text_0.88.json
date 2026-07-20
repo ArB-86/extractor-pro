@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8785662651062012,
+    "bbox": [
+        291.61712646484375,
+        2422.453857421875,
+        1392.744873046875,
+        2478.64111328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_002/009_plain_text_0.88.png",
+    "text": "We will briefly refer to theoretical probability as probability."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8943796157836914,
+    "bbox": [
+        244.72056579589844,
+        1126.08642578125,
+        1159.419677734375,
+        1471.792724609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_010/005_plain_text_0.89.png",
+    "text": "5. A vessel is in the form of an inverted cone.\nIts\nheight is 8 cm and the radius of its top, which is\nopen, is 5 cm. It is filled with water up to the brim.\nWhen lead shots, each of which is a sphere of radius\n0.5 cm are dropped into the vessel, one-fourth of\nthe water flows out. Find the number of lead shots\ndropped in the vessel."
+}

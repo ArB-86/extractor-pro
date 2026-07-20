@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5971352458000183,
+    "bbox": [
+        412.18731689453125,
+        2073.12158203125,
+        1918.5999755859375,
+        2135.33203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_032/008_plain_text_0.60.png",
+    "text": "a. From the year you were born till now, which years were leap years?"
+}

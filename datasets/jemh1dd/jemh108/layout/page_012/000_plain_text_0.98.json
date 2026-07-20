@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9807613492012024,
+    "bbox": [
+        189.5282440185547,
+        1264.931884765625,
+        1756.092041015625,
+        1646.821044921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/000_plain_text_0.98.png",
+    "text": "Now, let us see what happens to the trigonometric ratios of Z A, when it is made\nlarger and larger in \u25b3ABC till it becomes 90\u00b0. As Z A gets larger and larger, Z C gets\nsmaller and smaller. Therefore, as in the case above, the length of the side AB\ngoeson\ndecreasing. The point A gets closer to point B. Finally when Z A is very close to 90\u00b0,\n C becomes very close to 0\u00b0 a\nand the side AC almost coincides with side BC\n(see Fig. 8.18)."
+}

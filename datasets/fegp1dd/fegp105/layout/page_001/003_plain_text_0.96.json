@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9565244913101196,
+    "bbox": [
+        587.7974853515625,
+        2397.535888671875,
+        2039.817138671875,
+        2533.26806640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_001/003_plain_text_0.96.png",
+    "text": "For\nwhich\nnumbers\nshould\nthe 1\nplayers\nsay\n'vada'?\nThese would be 5, 10, 15, 20, ...\nand so on."
+}

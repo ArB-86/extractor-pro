@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8953829407691956,
+    "bbox": [
+        244.9024200439453,
+        392.6103210449219,
+        1151.581787109375,
+        495.8179931640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/003_plain_text_0.90.png",
+    "text": "5.\nIn Fig. 6.20, DE\nI OQ\nand DF\nOR. Show\nthat\nEF\nllQR."
+}

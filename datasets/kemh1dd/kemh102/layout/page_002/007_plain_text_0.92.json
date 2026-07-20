@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9188017845153809,
+    "bbox": [
+        189.6233673095703,
+        1429.2001953125,
+        1752.5665283203125,
+        1601.545166015625
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/007_plain_text_0.92.png",
+    "text": "The available pairs are:(DL,01), (DL,02), (DL,03), (MP,01), (MP,02), (MP,03),\n(KA,01), (KA,02), (KA,03)\nand the product of set A and set B is given by\nA \u00d7 B = {(DL,01), (DL,02), (DL,03), (MP,01), (MP,02), (MP,03), (KA,01), (KA,02)"
+}

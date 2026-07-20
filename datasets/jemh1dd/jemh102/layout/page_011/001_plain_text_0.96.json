@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9597356915473938,
+    "bbox": [
+        189.6534423828125,
+        1127.179443359375,
+        1752.337158203125,
+        1237.388427734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_011/001_plain_text_0.96.png",
+    "text": "So, the value of x\u00b2 + 7x + 10 is zero when x + 2 = 0 or x + 5 = 0, i.e., when x = - 2 or\nx = -5. Therefore, the zeroes of x\u00b2 + 7x + 10 are - 2 and - 5. Now,"
+}

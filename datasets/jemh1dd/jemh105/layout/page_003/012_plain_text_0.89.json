@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8888062834739685,
+    "bbox": [
+        291.10174560546875,
+        1398.3026123046875,
+        1179.9295654296875,
+        1450.701416015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/012_plain_text_0.89.png",
+    "text": "Each of the\nnumbers\nin the list is called a term."
+}

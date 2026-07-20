@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9261764287948608,
+    "bbox": [
+        296.7463073730469,
+        2815.21728515625,
+        2087.60009765625,
+        2958.97607421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_007/000_plain_text_0.93.png",
+    "text": "We can describe how much the quantity is by collecting together the\nfractional units."
+}

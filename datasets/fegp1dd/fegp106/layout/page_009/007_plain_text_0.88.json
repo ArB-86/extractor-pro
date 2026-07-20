@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.881723940372467,
+    "bbox": [
+        295.0419616699219,
+        2354.427978515625,
+        2084.27880859375,
+        2495.492431640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_009/007_plain_text_0.88.png",
+    "text": "Therefore, the area of the floor that is not carpeted is: area of the floor\nminus the area of the floor laid with carpet = 20 sq m - 9 sq m = 11 sq m."
+}

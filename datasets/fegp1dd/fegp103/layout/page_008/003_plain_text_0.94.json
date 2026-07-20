@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9444710612297058,
+    "bbox": [
+        419.6686096191406,
+        548.665283203125,
+        2208.87548828125,
+        688.4998168945312
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_008/003_plain_text_0.94.png",
+    "text": "Are there numbers for which\nn you do not reach a palindrome\nat all?"
+}

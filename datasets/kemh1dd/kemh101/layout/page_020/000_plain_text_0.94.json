@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9410584568977356,
+    "bbox": [
+        290.87762451171875,
+        2090.10302734375,
+        1349.7161865234375,
+        2207.4453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/000_plain_text_0.94.png",
+    "text": "(i)\nAUA'\n(i)\n\u03a6'A=\n(ii)\nAA':\n(iv)\nU'A="
+}

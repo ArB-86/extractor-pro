@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9534669518470764,
+    "bbox": [
+        192.9146728515625,
+        1703.8577880859375,
+        1753.624267578125,
+        1862.7979736328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/004_plain_text_0.95.png",
+    "text": "In other words, A c B if whenever a \u2208 A, then a e B. It is often convenient to\nuse the symbol \u201c=>\u201d which means implies. Using this symbol, we can write the definiton\nof subset asfollows:"
+}

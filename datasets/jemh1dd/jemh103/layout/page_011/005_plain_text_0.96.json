@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9580546021461487,
+    "bbox": [
+        191.34231567382812,
+        2114.04345703125,
+        1754.5035400390625,
+        2225.67529296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/005_plain_text_0.96.png",
+    "text": "So, the solution of the equations is x = 2000, y = 4000. Therefore, the monthly incomes\nof the persons are ? 18,000 and  14,000, respectively."
+}

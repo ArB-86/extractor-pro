@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "plain_text",
+    "confidence": 0.521327555179596,
+    "bbox": [
+        290.2337646484375,
+        971.3399047851562,
+        2095.236572265625,
+        1228.553955078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_049/005_plain_text_0.52.png",
+    "text": "Ans.\na. LKAL = 30\u00b0\nYes, it is possible to count the number of units in 5s or\n10s.\nb. WAL = 50\u00b0\nC. LTAK = 120\u00b0"
+}

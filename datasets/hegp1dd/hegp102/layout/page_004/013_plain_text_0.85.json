@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8462425470352173,
+    "bbox": [
+        440.4190368652344,
+        1452.532470703125,
+        1547.16064453125,
+        1513.7308349609375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/013_plain_text_0.85.png",
+    "text": "Some more examples of exponential notation:"
+}

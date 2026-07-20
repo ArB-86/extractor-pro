@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9745829701423645,
+    "bbox": [
+        192.95068359375,
+        1923.1688232421875,
+        1752.1441650390625,
+        2088.2978515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_016/001_plain_text_0.97.png",
+    "text": "You can repeat this activity by drawing several such triangles (having their sides\nin the same ratio). Everytime you shall see that their corresponding angles are equal.\nIt is due to the following criterion of similarity of two triangles:"
+}

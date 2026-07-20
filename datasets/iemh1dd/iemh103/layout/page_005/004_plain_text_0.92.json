@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9192011952400208,
+    "bbox": [
+        242.32504272460938,
+        578.572265625,
+        1793.759765625,
+        684.0345458984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/004_plain_text_0.92.png",
+    "text": "To\nthis, Brahmagupta\ngrounded his mathematics in the\nanswer\nreality of commerce and life."
+}

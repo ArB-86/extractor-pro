@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.810582160949707,
+    "bbox": [
+        394.4769287109375,
+        1558.4810791015625,
+        1886.0853271484375,
+        1705.8258056640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_035/005_plain_text_0.81.png",
+    "text": "2. Can\nfind four\ndifferent f\nyou \nfractional\nunits that add\nup to 1?"
+}

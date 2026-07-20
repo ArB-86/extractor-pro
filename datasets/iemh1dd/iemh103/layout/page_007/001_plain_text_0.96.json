@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9623870253562927,
+    "bbox": [
+        238.0357666015625,
+        519.81103515625,
+        1797.0731201171875,
+        682.0103149414062
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_007/001_plain_text_0.96.png",
+    "text": "When we combine all integers and all fractions\n(both positive\n and\nget the set of Rational\ndenoted by\nnegative),\n.we\nNumbers,\nQ\n(for\nquotient)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5302231311798096,
+    "bbox": [
+        406.8793640136719,
+        517.76025390625,
+        1921.959716796875,
+        752.1533203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_005/007_plain_text_0.53.png",
+    "text": "Copythe pictorialrepresentations ofthe number sequences\n1.\nin \nTable 2 in\nnotebook,\nyour r\nand c\ndraw\nthe next\npicture\nfor\neach\nsequence!"
+}

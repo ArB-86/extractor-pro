@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9242867827415466,
+    "bbox": [
+        195.99697875976562,
+        1941.08349609375,
+        1341.0628662109375,
+        1994.1192626953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_010/008_plain_text_0.92.png",
+    "text": "You should verify that the ratio satisfies the y-coordinate also."
+}

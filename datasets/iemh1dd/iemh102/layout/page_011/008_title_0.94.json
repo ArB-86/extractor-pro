@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9374220967292786,
+    "bbox": [
+        239.13064575195312,
+        1114.5537109375,
+        965.9959716796875,
+        1177.8216552734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/008_title_0.94.png",
+    "text": "2.5\nLINEAR RELATIONSHIPS"
+}

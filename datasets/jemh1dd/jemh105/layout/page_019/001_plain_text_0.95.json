@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9488748908042908,
+    "bbox": [
+        190.9653778076172,
+        796.20263671875,
+        1753.65673828125,
+        906.6209106445312
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/001_plain_text_0.95.png",
+    "text": "Example 15 : Find the sum of first 24 terms of the list of numbers whose nth term is\ngivenby"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8262913227081299,
+    "bbox": [
+        191.89295959472656,
+        944.8563232421875,
+        903.6043090820312,
+        1059.727294921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/014_plain_text_0.83.png",
+    "text": "BC\n4\nNow,\nwe know that tan A =\nAB\n3"
+}

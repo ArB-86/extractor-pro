@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.731200635433197,
+    "bbox": [
+        433.78173828125,
+        1522.3232421875,
+        2209.047607421875,
+        1661.5213623046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_029/002_plain_text_0.73.png",
+    "text": "Integers can be compared: ... -3<-2<-1<0< +1 <+2< +3< .. Smaller\nnumbers are to the left of larger numbers on the number line."
+}

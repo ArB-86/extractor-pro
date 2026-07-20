@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9082189202308655,
+    "bbox": [
+        624.6327514648438,
+        1243.1151123046875,
+        1922.07373046875,
+        1311.3997802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_034/006_plain_text_0.91.png",
+    "text": "Hint: Observe\nthe horizontal line touching the insects."
+}

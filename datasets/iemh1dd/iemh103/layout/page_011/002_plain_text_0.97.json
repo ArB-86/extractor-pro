@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9682267308235168,
+    "bbox": [
+        237.1984405517578,
+        314.1725769042969,
+        1796.4736328125,
+        453.9925537109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_011/002_plain_text_0.97.png",
+    "text": "3\nFor e\nexample, to represent\ndivide the interval between\n0\nand\n4\n1 into four equal parts and move three parts to the right from 0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5784720182418823,
+    "bbox": [
+        244.68081665039062,
+        702.6790771484375,
+        1759.080810546875,
+        1255.009033203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_011/004_plain_text_0.58.png",
+    "text": "1.  (i) The line of sight is the line drawn from the eye of an observer to the point in the\nobject viewed by the observer.\n(i) The angle of elevation of an object viewed, is the angle formed by the line of sight\nwith the horizontal when it is above the horizontal level, i.e., the case when we raise\nour head to look at the object.\n(ii)The angle of depression of an object viewed, is the angle formed by the line of sight\nwith the horizontal when it is below the horizontal level, i.e., the case when we lower\nour head to look at the object.\n2. The height or length of an object or the distance between two distant objects can be\ndetermined with the help of trigonometric ratios."
+}

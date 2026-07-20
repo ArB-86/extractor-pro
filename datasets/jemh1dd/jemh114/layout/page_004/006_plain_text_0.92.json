@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9209760427474976,
+    "bbox": [
+        193.8924102783203,
+        594.7749633789062,
+        1293.3184814453125,
+        647.322021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/006_plain_text_0.92.png",
+    "text": "i\nThe number of outcomes\nfavourable to the event Y = 1."
+}

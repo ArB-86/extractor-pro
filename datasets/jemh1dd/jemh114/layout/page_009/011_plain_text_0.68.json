@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6790130734443665,
+    "bbox": [
+        194.54437255859375,
+        1030.72412109375,
+        734.8137817382812,
+        1136.391845703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/011_plain_text_0.68.png",
+    "text": "3\nTherefore,\nP(E)\n\u4e00\n\u4e8c\n4"
+}

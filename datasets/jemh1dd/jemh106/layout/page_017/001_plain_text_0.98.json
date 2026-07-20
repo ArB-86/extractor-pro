@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9775925278663635,
+    "bbox": [
+        192.58087158203125,
+        2214.15380859375,
+        1754.941650390625,
+        2435.74169921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_017/001_plain_text_0.98.png",
+    "text": "Let\ntus1\nrecall\nthe\nvarious\ncriteria\nfor\ncongruency of\ntwo\ntriangles\nlearnt\nin\nnowi\nClass\nIX. You may observe\nthat Sss\nsimilarity criterion can\n be compared with the SSS\n suggests us to look for a similarity criterion comparable to\ncongruency criterion.This\nSAS congruency criterion of t\n triangles. For\nthis, let us\nperform an a\nactivity."
+}

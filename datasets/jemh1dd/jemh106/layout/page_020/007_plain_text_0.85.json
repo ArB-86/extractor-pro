@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8512210249900818,
+    "bbox": [
+        191.29408264160156,
+        2430.553955078125,
+        975.4238891601562,
+        2547.15771484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/007_plain_text_0.85.png",
+    "text": "From the figure, you can see that DE is the\nshadow\nof the\ngirl. Let DE be x metres."
+}

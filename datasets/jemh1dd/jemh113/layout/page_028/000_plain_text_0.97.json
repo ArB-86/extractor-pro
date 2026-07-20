@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.971800684928894,
+    "bbox": [
+        247.09080505371094,
+        513.108642578125,
+        1755.15576171875,
+        660.5123901367188
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_028/000_plain_text_0.97.png",
+    "text": "1.\nThe following\nfrequency distribution\ngives the monthly\nconsumption of electricity of\n68 consumers of a locality. Find the median, mean and mode of the data and compare\nthem."
+}

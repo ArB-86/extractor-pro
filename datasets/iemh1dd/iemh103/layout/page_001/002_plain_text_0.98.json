@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9812259078025818,
+    "bbox": [
+        240.76483154296875,
+        1998.2203369140625,
+        1795.605712890625,
+        2272.752197265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/002_plain_text_0.98.png",
+    "text": "While the\ndecimal\nplace-value\nsystem\ntoday\nwe\nuse\nwas\nperfected\nin\nthe\nIndian\nsubcontinent, t\nthe\nearliest\nphysical\nevidence\nof\nhumanity\nrecording\nnumbers takes\ndeep\ninto t\nthe heart of Africa. The\nnatural\ns us\nfirst mathematicians\ndid\nnot use\npaper; they\nused tally\nmarks\ncarved\ninto bone."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "title",
+    "confidence": 0.5261749029159546,
+    "bbox": [
+        298.2547302246094,
+        2768.330322265625,
+        576.3191528320312,
+        2828.913818359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_024/014_title_0.53.png",
+    "text": "134\nD\nage\nP\nno."
+}

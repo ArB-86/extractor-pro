@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6357305645942688,
+    "bbox": [
+        532.163818359375,
+        1020.4901733398438,
+        1468.5478515625,
+        1235.161865234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_002/008_plain_text_0.64.png",
+    "text": "3.\nWhat\nif\nthe\nplayed\ngame\nwas\ntill\n900?\nHow\nwould\nyour\nanswers\nchange?"
+}

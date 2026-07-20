@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9351025819778442,
+    "bbox": [
+        291.8045654296875,
+        1454.283935546875,
+        2083.19921875,
+        1601.4561767578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_018/003_plain_text_0.94.png",
+    "text": "Then you make ?60 at your job the next day and you deposit it in\nyour account. This is shown in your bank passbook as a \u00e9credit'."
+}

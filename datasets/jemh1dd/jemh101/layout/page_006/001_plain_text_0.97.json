@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9687321186065674,
+    "bbox": [
+        192.29820251464844,
+        994.4042358398438,
+        1753.3013916015625,
+        1183.000244140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/001_plain_text_0.97.png",
+    "text": "Recall, a number \u00e9s\u2019 is called irrational if it cannot be written in the form\nb\nwherep and q\n1 are integers and q \u2260 O. Some examples of irrational numbers, with\nwhich you are already familiar, are :"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.7676636576652527,
+    "bbox": [
+        291.4591064453125,
+        297.8810729980469,
+        606.6253662109375,
+        742.5264282226562
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_026/002_plain_text_0.77.png",
+    "text": "Let's Explore!\nPage No. 141\nSection 6.3\nFigure it\nt Out\nPage No. 144"
+}

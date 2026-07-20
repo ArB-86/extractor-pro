@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5501567125320435,
+    "bbox": [
+        189.30299377441406,
+        948.825927734375,
+        1155.2618408203125,
+        1060.0517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/015_plain_text_0.55.png",
+    "text": "So,\nEF\nDC\n(Lines\nparallel to the\nsame\nlinea\nare\nparallel to each other)"
+}

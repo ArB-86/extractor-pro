@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9203265309333801,
+    "bbox": [
+        192.8280487060547,
+        937.2318115234375,
+        593.9126586914062,
+        988.617431640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/009_plain_text_0.92.png",
+    "text": "olution\nWe\nhave\n0"
+}

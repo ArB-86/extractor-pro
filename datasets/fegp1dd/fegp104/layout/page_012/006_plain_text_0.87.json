@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8720023036003113,
+    "bbox": [
+        300.64227294921875,
+        2359.269775390625,
+        1810.5623779296875,
+        2426.73046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_012/006_plain_text_0.87.png",
+    "text": "howc\ndata can be presented instead using a bar g\nSee\ngraph."
+}

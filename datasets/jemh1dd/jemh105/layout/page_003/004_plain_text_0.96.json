@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9557841420173645,
+    "bbox": [
+        195.70704650878906,
+        1469.7078857421875,
+        1753.956787109375,
+        1627.093994140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/004_plain_text_0.96.png",
+    "text": "Given a term, can you write the next term in each of the lists above? If so, how\nwill you write it? Perhaps by following a pattern or rule. Let us observe and write the\nrule."
+}

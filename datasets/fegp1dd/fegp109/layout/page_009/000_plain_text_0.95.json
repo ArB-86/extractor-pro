@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9520218372344971,
+    "bbox": [
+        405.238525390625,
+        948.4379272460938,
+        2086.15380859375,
+        1170.8538818359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_009/000_plain_text_0.95.png",
+    "text": "4.\nAfter\nthe\nfollowing\nof\ncuts, 1\nthe\nshape\neach\npredict\nof\nthe\nhole\ne when\nthe paper\n is opened. After\nhave\nmade your\nyou\nprediction,\nmake the cutouts\nverify your\nand\nanswer."
+}

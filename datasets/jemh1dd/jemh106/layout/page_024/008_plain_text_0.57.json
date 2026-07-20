@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5705880522727966,
+    "bbox": [
+        244.89927673339844,
+        1683.8277587890625,
+        1007.2017211914062,
+        1834.2760009765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/008_plain_text_0.57.png",
+    "text": "9.\nIn Fig. 6.39, ABC\nand AMP\nare two right\ntriangles,\nright\nangled\nat\nB\nand\nM\nrespectively. Prove that:"
+}

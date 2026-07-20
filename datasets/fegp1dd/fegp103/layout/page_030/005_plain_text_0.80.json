@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.7971553206443787,
+    "bbox": [
+        294.19189453125,
+        2238.587890625,
+        2185.407958984375,
+        2363.58642578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_030/005_plain_text_0.80.png",
+    "text": "Q. 5. Sheetal is in Grade 6 and says she has spent around 13,0o0 hours in school till date.\nDo you agree with her? Why or why not?"
+}

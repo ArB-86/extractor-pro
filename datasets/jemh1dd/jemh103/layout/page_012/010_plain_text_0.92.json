@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9196876287460327,
+    "bbox": [
+        194.58035278320312,
+        2313.764404296875,
+        1080.9351806640625,
+        2367.136474609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/010_plain_text_0.92.png",
+    "text": "Therefore, t\nthe pair of equations\nhas no solution."
+}

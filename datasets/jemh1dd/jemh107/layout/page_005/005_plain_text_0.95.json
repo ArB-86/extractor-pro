@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9460746049880981,
+    "bbox": [
+        193.09422302246094,
+        557.0940551757812,
+        1752.986083984375,
+        668.8909301757812
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_005/005_plain_text_0.95.png",
+    "text": "Example 2 : Show that the points (1, 7), (4, 2), (-1, -1) and (- 4, 4) are the vertices\nof asquare."
+}

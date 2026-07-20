@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9230612516403198,
+    "bbox": [
+        289.90277099609375,
+        1360.6361083984375,
+        1471.566650390625,
+        1414.8828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_009/004_plain_text_0.92.png",
+    "text": "In the same way,\n, her monthly salary for the 25th year would be"
+}

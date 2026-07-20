@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8217852711677551,
+    "bbox": [
+        194.18760681152344,
+        1464.101318359375,
+        959.74560546875,
+        1523.0780029296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/001_plain_text_0.82.png",
+    "text": "Example 5 : Prove\nthat\n\u221a3\nis\nirrational."
+}

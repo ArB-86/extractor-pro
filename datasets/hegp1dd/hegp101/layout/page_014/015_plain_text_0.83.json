@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8287227153778076,
+    "bbox": [
+        374.8919982910156,
+        2463.040283203125,
+        2052.952880859375,
+        2652.02978515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/015_plain_text_0.83.png",
+    "text": "Another way is to check if the factors can be grouped into triplet(s):\n3375 = (3 \u00d7 3 \u00d7 3) \u00d7 (5 \u00d7 5 \u00d7 5) = 33 \u00d7 53.\nThis means\n3/3375 =15."
+}

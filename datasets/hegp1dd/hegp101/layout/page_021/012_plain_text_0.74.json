@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7402764558792114,
+    "bbox": [
+        396.8236389160156,
+        2184.873291015625,
+        1926.3848876953125,
+        2249.306640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/012_plain_text_0.74.png",
+    "text": "Ans. (i) Cube root of 27000 = 30\n(ii) Cube root of 10648 = 22"
+}

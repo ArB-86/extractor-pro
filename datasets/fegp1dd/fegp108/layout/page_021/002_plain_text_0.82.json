@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8183919787406921,
+    "bbox": [
+        391.50152587890625,
+        2462.462158203125,
+        1810.691162109375,
+        2608.710205078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_021/002_plain_text_0.82.png",
+    "text": "Using\ng a compass, mark the point D\nsuch that AD = BC.\nJoin CD to get the required rectangle."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.912120521068573,
+    "bbox": [
+        376.8816833496094,
+        285.4072570800781,
+        1592.9281005859375,
+        351.1283264160156
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_013/008_plain_text_0.91.png",
+    "text": "squares. What are\nthe possible last digits of cubes?"
+}

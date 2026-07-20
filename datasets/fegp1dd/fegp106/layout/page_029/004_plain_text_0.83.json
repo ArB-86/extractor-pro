@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8323365449905396,
+    "bbox": [
+        295.94287109375,
+        2858.189453125,
+        707.8857421875,
+        2919.740478515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_029/004_plain_text_0.83.png",
+    "text": "Ans.\nOnly\ntrue.\n1S"
+}

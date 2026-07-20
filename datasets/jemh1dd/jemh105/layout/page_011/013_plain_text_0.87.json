@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8694755434989929,
+    "bbox": [
+        192.16162109375,
+        2190.92724609375,
+        1100.0013427734375,
+        2245.319580078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/013_plain_text_0.87.png",
+    "text": "So, there are 30 two-digit numbers divisible by 3."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9569624066352844,
+    "bbox": [
+        295.2714538574219,
+        2345.82421875,
+        2189.95654296875,
+        2530.89013671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_027/000_plain_text_0.96.png",
+    "text": "Q4. After each of the following cuts, predict the shape of the hole when the paper is\nopened. After you have made your prediction, make the cutouts and verify your\nanswer."
+}

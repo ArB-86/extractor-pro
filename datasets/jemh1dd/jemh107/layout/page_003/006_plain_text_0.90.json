@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8981793522834778,
+    "bbox": [
+        291.5202941894531,
+        2337.981201171875,
+        1150.63330078125,
+        2394.99951171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_003/006_plain_text_0.90.png",
+    "text": "Then\nPT = 11\nunits and QT = 7\nunits. (Why?)"
+}

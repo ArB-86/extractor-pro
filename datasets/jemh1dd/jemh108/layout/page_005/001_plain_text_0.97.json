@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9691939353942871,
+    "bbox": [
+        193.21482849121094,
+        928.4891967773438,
+        1753.7247314453125,
+        1092.2274169921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/001_plain_text_0.97.png",
+    "text": "From our(\n observations, it is now clear that the values of the trigonometric\nratios of an angle do not vary with the lengths of the sides of the triangle, if\nthe angle remains the same."
+}

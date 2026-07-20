@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9669688940048218,
+    "bbox": [
+        192.8098602294922,
+        848.7177734375,
+        1753.4854736328125,
+        959.2479858398438
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/002_plain_text_0.97.png",
+    "text": "If b2 - 4ac < 0, then there is no real number whose square is b2 - 4ac. Therefore,\nthere are no real roots for the given quadratic equation in this case."
+}

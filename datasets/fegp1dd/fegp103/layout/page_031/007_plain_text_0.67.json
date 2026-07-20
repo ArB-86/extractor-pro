@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.6744239926338196,
+    "bbox": [
+        295.6929931640625,
+        1537.6903076171875,
+        1214.6541748046875,
+        1591.9320068359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_031/007_plain_text_0.67.png",
+    "text": "Ans.\nSuppose\nthe birth\n1980, then,\nyear is"
+}

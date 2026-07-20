@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7394315600395203,
+    "bbox": [
+        496.5186767578125,
+        2210.457763671875,
+        2082.323974609375,
+        2640.52392578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_004/009_plain_text_0.74.png",
+    "text": "The largest shoe size in the class is\na.\nb.\nThe smallest shoe size in the class is\nThere are\nstudents who wear shoe size 5.\nC.\nd.\nThere are\n) wear shoe sizes larger\nstudents who\nthan 4."
+}

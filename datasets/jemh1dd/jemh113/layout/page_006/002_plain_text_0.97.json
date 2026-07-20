@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9677855372428894,
+    "bbox": [
+        192.5309295654297,
+        793.330078125,
+        1752.57470703125,
+        960.1806030273438
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/002_plain_text_0.97.png",
+    "text": "Activity 1 : From the Table 13.3 find the mean\nn by taking each of x. (i.e., 17.5, 32.5,\na n s u m no tarqo no op  ', s (uo os pu\ndetermined in\neach case is the same, i.e., 62. (Why ?)"
+}

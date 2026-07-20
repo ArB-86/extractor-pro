@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9093691110610962,
+    "bbox": [
+        192.19100952148438,
+        1022.8736572265625,
+        1755.0069580078125,
+        1368.861083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/006_plain_text_0.91.png",
+    "text": "A pair of linear equations which has no solution, is called an inconsistent pair of linear\nequations. A pair of linear equations in two variables, which has a solution, is called a\nconsistent pair of linear equations. A pair of linear equations which are equivalent has\ninfinitelyr\ndistinct common solutions. Such a pair is called a dependent pair of\nmany\nequationsis\nalways consistent."
+}

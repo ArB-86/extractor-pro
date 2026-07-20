@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5645939111709595,
+    "bbox": [
+        244.73194885253906,
+        2277.594482421875,
+        1755.5926513671875,
+        2511.70166015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_010/008_plain_text_0.56.png",
+    "text": "1.\nTo determine\ne the surface area of an object formed by\ncombining\nany\ntwo of the basic\nsolids, namely, cuboid, cone, cylinder, sphere and hemisphere.\n2.\nTo find the volume of objects formed by combining any two of a cuboid, cone, cylinder,\nsphere and hemisphere."
+}

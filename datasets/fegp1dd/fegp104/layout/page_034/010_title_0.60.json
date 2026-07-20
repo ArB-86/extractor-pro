@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "title",
+    "confidence": 0.6018962264060974,
+    "bbox": [
+        889.0619506835938,
+        409.39520263671875,
+        1593.3143310546875,
+        466.28179931640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_034/010_title_0.60.png",
+    "text": "Data\nHandling\nand Presentation"
+}

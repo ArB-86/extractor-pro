@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9828249216079712,
+    "bbox": [
+        243.16656494140625,
+        412.0115661621094,
+        1709.1058349609375,
+        968.5623168945312
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_023/000_plain_text_0.98.png",
+    "text": "Cantor's work was well received by another famous mathematician Richard\nDedekind (1831-1916). But Kronecker (1810-1893) castigated him for regarding\ninfinite set the same way as finite sets. Another German mathematician Gottlob\nFrege, at the turn of the century, presented the set theory as principles of logic.\nTill then the entire set theory was based on the assumption of the existence of the\nset of all sets. It was the famous Englih Philosopher Bertand Russell (1872-\n1970 \uff09 who showed in 1902 that the assumption of existence of a set of all sets\nleads to a contradiction. This led to the famous Russell's Paradox. Paul R.Halmos\nwrites about it in his book *Naive Set Theory' that \u201cnothing contains everything"
+}

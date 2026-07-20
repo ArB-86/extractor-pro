@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8364666104316711,
+    "bbox": [
+        294.33514404296875,
+        947.0001831054688,
+        1545.51708984375,
+        1010.38134765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_021/005_plain_text_0.84.png",
+    "text": "Q6. Is the sequence\n0, 1, 2, 1, 0 p\npossible? Why\nor why not?"
+}

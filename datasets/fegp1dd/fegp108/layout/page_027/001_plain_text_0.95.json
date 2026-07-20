@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9506016373634338,
+    "bbox": [
+        396.76947021484375,
+        563.7252807617188,
+        2085.010986328125,
+        701.6812133789062
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_027/001_plain_text_0.95.png",
+    "text": "Take a radius of 5 cm in the compass and with C as the centre,\ndraw a circle."
+}

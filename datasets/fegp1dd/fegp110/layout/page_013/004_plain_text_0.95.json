@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9498734474182129,
+    "bbox": [
+        420.867431640625,
+        1557.577880859375,
+        2210.431640625,
+        1700.514404296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_013/004_plain_text_0.95.png",
+    "text": "For\nthis\nunmarked\nnumber\nline\n(UNL)\nshows\nthe\nexample,\naddition problem: 85 +(-60) = ?"
+}

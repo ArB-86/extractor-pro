@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9479338526725769,
+    "bbox": [
+        403.718017578125,
+        2767.84619140625,
+        2085.18994140625,
+        2906.695068359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_022/002_plain_text_0.95.png",
+    "text": "1.\nDo\nthe\n calculations\nfor the\n second\ngrid\nabove\nand\nfind\nthe\nborder sum."
+}

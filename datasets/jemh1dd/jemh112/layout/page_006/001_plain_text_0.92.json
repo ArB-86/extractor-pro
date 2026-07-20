@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.922831654548645,
+    "bbox": [
+        246.2876434326172,
+        2281.190185546875,
+        1037.4666748046875,
+        2559.89990234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/001_plain_text_0.92.png",
+    "text": "6. A medicine\ncapsule is in the shape of a\ncylinder with two hemispheres stuck to each\nof its ends\ns (see Fig. 12.10). The length of\nthe entire capsule is 14 mm and the diameter\nof the capsule is 5 mm. Find its surface area."
+}

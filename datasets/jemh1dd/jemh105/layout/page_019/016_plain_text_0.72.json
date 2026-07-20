@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7184625267982483,
+    "bbox": [
+        194.3143310546875,
+        1649.76806640625,
+        1036.0638427734375,
+        1707.6500244140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/016_plain_text_0.72.png",
+    "text": "To find S\nwe\nhave n =\n24,\na = 5,\nd = 2.\n243"
+}

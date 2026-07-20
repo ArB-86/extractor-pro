@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8852729201316833,
+    "bbox": [
+        385.5503845214844,
+        397.2894592285156,
+        778.2249145507812,
+        457.6941833496094
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_005/008_plain_text_0.89.png",
+    "text": "Who\n2\nI?\nam"
+}

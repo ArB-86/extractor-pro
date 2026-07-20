@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.5891984701156616,
+    "bbox": [
+        295.850830078125,
+        2950.373046875,
+        1737.6168212890625,
+        3010.28662109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/016_plain_text_0.59.png",
+    "text": "Q.7. Find seven consecutive composite numbers between 1 and 100."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.6592257022857666,
+    "bbox": [
+        294.8340148925781,
+        1450.0467529296875,
+        2187.155517578125,
+        1572.550048828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_050/003_plain_text_0.66.png",
+    "text": "Q.1. Evaluate the following differences using tokens. Check that you get the same result\nas with other methods you now know:"
+}

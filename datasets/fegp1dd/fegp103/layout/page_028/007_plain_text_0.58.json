@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.5750176310539246,
+    "bbox": [
+        294.02044677734375,
+        2491.028076171875,
+        2192.03515625,
+        2737.212646484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_028/007_plain_text_0.58.png",
+    "text": "Q.1.\nWrite\nexample for\neach of the\nbelow scenarios\nan\nswhenever\npossible.\nCould\nyou\nfind\nexamples\ns for\n' all\nthe\nIf\nnot, t\nthink\nand\ndiscuss\n cases?\nwhat could\nbe\nthe\ne reason. Make other such\nI challenge your\nquestions\nand\nclassmates.\nAns."
+}

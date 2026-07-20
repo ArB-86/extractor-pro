@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8598363399505615,
+    "bbox": [
+        300.0711975097656,
+        1827.413818359375,
+        1687.6729736328125,
+        1893.8681640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/009_plain_text_0.86.png",
+    "text": "?\nUsing the pattern above, find 36\", given that 352 = 1225."
+}

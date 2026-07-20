@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9135906100273132,
+    "bbox": [
+        485.5310363769531,
+        2581.755615234375,
+        1993.5155029296875,
+        2653.7666015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_031/003_plain_text_0.91.png",
+    "text": "For example, Everest appears to be twice as tall as Elbrus."
+}

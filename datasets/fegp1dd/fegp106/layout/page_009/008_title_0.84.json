@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.8374618887901306,
+    "bbox": [
+        1010.3534545898438,
+        1148.4036865234375,
+        1434.7098388671875,
+        1212.3895263671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_009/008_title_0.84.png",
+    "text": "Note\nT\n1\neacl\nS"
+}

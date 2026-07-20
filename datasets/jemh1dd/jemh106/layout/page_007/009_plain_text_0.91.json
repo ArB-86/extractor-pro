@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9091094136238098,
+    "bbox": [
+        294.3355407714844,
+        672.1036987304688,
+        854.8054809570312,
+        725.701904296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/009_plain_text_0.91.png",
+    "text": "Two\ntriangles\nsimiliar,\nif\nare"
+}

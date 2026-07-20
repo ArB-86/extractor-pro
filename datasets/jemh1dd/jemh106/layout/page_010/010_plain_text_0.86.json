@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.859721839427948,
+    "bbox": [
+        1470.1226806640625,
+        1871.7587890625,
+        1751.432373046875,
+        1925.779052734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/010_plain_text_0.86.png",
+    "text": "(Theorem\n6"
+}

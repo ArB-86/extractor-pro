@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9329044818878174,
+    "bbox": [
+        417.4652404785156,
+        395.9908142089844,
+        2213.19677734375,
+        539.8477172851562
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_014/005_plain_text_0.93.png",
+    "text": "We can also write this as 2 x 2 \u00d7 2 x 3 x 3. Multiply and check that\nyou get 72 back!"
+}

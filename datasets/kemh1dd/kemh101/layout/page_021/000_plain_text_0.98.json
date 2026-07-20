@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9785428047180176,
+    "bbox": [
+        192.86676025390625,
+        654.5674438476562,
+        1756.07421875,
+        932.9869384765625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/000_plain_text_0.98.png",
+    "text": "Let A = { -1, 0, 1 }. The subset of A having no element is the empty\nSolution\nset \u03a6. The subsets of A having one element are\n{-1 },{0 },{1 }. The subsets of\nA having\ntwo elements are\n{-1, 0},{-1,1} ,{0, 1}. The subset of A having\nthree\nelements ofAis A itself. So, all the subsets ofA are \u03a6, {-1}, {0}, {1}, {-1, O}, {-1, 1},\n0, 1} a\nand {-1, 0, 1}."
+}

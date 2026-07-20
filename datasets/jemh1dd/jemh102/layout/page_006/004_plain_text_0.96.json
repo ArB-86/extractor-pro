@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.95782870054245,
+    "bbox": [
+        195.90069580078125,
+        397.90472412109375,
+        1751.2413330078125,
+        505.7247009277344
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_006/004_plain_text_0.96.png",
+    "text": "Case (ii) : Here, the graph is either completely above the x-axis or completely below\nthe x-axis. So, it does not cut the x-axis at any point (see Fig. 2.5)."
+}

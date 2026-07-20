@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9491184949874878,
+    "bbox": [
+        192.0520477294922,
+        1160.7236328125,
+        1128.921142578125,
+        1326.637939453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/001_plain_text_0.95.png",
+    "text": "Remark The\nA-E\nB,A\nsets\nB\nand B\n-A\nare\n mutually disjoint sets, i.e., the intersection of any of\nthese two sets is the null\nset as shown\nin\nFig\n1.9."
+}

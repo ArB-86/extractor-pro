@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9213334918022156,
+    "bbox": [
+        194.03684997558594,
+        1458.9375,
+        746.1590576171875,
+        1511.6356201171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/007_plain_text_0.92.png",
+    "text": "which is the required relation."
+}

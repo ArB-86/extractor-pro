@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.910032331943512,
+    "bbox": [
+        292.0805358886719,
+        1777.0845947265625,
+        1516.9786376953125,
+        1832.2479248046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/010_plain_text_0.91.png",
+    "text": "In (ii), each term is obtained by adding 1 to the term preceding it."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.82956463098526,
+    "bbox": [
+        310.5971984863281,
+        823.6871337890625,
+        1743.5135498046875,
+        1187.9329833984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_007/004_plain_text_0.83.png",
+    "text": "1. What is the x-coordinate of a point on the y-axis?\n2. Is there a similar\ngeneralisation for a point on the x-axis?\n3. Does\npoint\nQ (y, x)\ncoincide with 1\npoint P (x, y)? J\neverc\nJustify\nyour\nanswer.\n4. If x \u2260 y, then (x, y) \u2260 (y, x); and (x, y) = (y, x) if and only if x = y. Is this\nclaim true?"
+}

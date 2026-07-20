@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.860863447189331,
+    "bbox": [
+        316.11114501953125,
+        1519.2816162109375,
+        1754.5958251953125,
+        1898.588134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/010_plain_text_0.86.png",
+    "text": "the lines may\nintersect in a single point. In this case, the pair of equations\nhas a unique solution (consistent pair of equations).\n11\nthe lines may\nbe parallel. In this case, the equations have no solution\n(inconsistent pair of equations).\n111\nthe lines may be coincident. In this case, the equations have infinitely.\nymany\nsolutions\n[dependent (consistent) pair of equations]."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9379383325576782,
+    "bbox": [
+        438.4785461425781,
+        1220.0687255859375,
+        1571.0447998046875,
+        1281.699462890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/004_plain_text_0.94.png",
+    "text": "which shows\nthat 324 is a perfect square. Thus,"
+}

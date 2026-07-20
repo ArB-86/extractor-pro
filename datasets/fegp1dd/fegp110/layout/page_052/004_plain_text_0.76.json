@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.7585509419441223,
+    "bbox": [
+        295.89862060546875,
+        2619.249755859375,
+        1167.9661865234375,
+        2676.660888671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_052/004_plain_text_0.76.png",
+    "text": "Balance amount in the Bank Account =  1"
+}

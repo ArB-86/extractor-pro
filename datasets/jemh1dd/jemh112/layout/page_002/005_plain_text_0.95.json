@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9473351240158081,
+    "bbox": [
+        192.62045288085938,
+        1987.429443359375,
+        1753.1490478515625,
+        2097.2138671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_002/005_plain_text_0.95.png",
+    "text": "So, the total surface area of the new solid is the sum of the curved surface\nareas of each of the individual parts. This gives,"
+}

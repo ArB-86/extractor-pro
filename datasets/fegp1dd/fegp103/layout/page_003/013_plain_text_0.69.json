@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6871774792671204,
+    "bbox": [
+        457.1274719238281,
+        2770.5068359375,
+        1953.4559326171875,
+        2992.0263671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_003/013_plain_text_0.69.png",
+    "text": "Doy\nyoul\nnotice\nany pattern? What\nis\nthe\nmethod\nto 1\nfill\na\ngiven\ntable to\nget the maximum\nnumber\nof\nsupercells? Explore and\nshare\nstrategy.\nyour"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.968499481678009,
+    "bbox": [
+        292.4734802246094,
+        2223.64208984375,
+        1369.3671875,
+        2514.150634765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/001_plain_text_0.97.png",
+    "text": "All\nthe\ncircled\nnumbers\nare\nprime\nnumbers.\nAll\nthe\ncrossed\nout\nnumbers,\nother than\n1, are composite numbers. This\nmethod is called the Sieve of Eratosthenes."
+}

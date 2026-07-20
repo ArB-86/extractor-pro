@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5414832830429077,
+    "bbox": [
+        234.04092407226562,
+        1192.2156982421875,
+        1795.2620849609375,
+        1356.3883056640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_012/008_plain_text_0.54.png",
+    "text": "No matter how close two rational numbers are on the number\nline, you can always find another rational number between them by\ntaking\ng their average. For example, a rational number between 1 and"
+}

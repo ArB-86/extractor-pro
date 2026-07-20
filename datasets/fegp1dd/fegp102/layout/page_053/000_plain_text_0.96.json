@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.9615294337272644,
+    "bbox": [
+        297.2825012207031,
+        2727.76708984375,
+        2188.25537109375,
+        3036.002197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_053/000_plain_text_0.96.png",
+    "text": "Q.7.\nPuzzle: I\nam\n acute angle. If you\ndouble\nget an acute angle. If\nana\n my\nmeasure, you\ntriple\nmy\nmeasure, you\nwill\nget &\nan acute\nangle\nagain. If\nyou\nquadruple\n(four\nyou\ntimes)\nwill\nget an acute angle yet a\nagain! But if\nmultiply\nmy\nmeasure, you\nyou\nmy\nby 5, you\nwill\nget an obtuse angle\nmeasure. What are\nthe\npossibilities\nfor\nmeasure\nmy\nmeasure?"
+}

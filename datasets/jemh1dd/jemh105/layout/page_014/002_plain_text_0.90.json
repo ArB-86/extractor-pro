@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9035700559616089,
+    "bbox": [
+        409.6883239746094,
+        518.1148681640625,
+        1655.822021484375,
+        571.5489501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/002_plain_text_0.90.png",
+    "text": "(A) 97\n(B) 77\n(C) -77\n(D) -87"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9654903411865234,
+    "bbox": [
+        237.7396240234375,
+        1324.3955078125,
+        1798.2725830078125,
+        1539.7635498046875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/001_plain_text_0.97.png",
+    "text": "Let\nrevisit\nthe\ngrowing\nof\nsquare\ntiles\nin\nFig. 2.4. If\nus\n pattern\nX\nrepresents\nthe\nnumber\nof\nthe\nterm\nand\ny\nrepresents\nthe\nnumbers\nof\ntiles, then\nrelationship\nsquare t\nthe\nlinear\nbetween x a\n and y is\nexpressed\nas\n2x - 1.\ny="
+}

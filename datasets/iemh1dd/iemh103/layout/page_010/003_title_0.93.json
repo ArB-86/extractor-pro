@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.9267637729644775,
+    "bbox": [
+        235.61814880371094,
+        987.6806030273438,
+        1488.873779296875,
+        1112.5498046875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_010/003_title_0.93.png",
+    "text": "3.4.1 Representation\nn of Rational\nNumbers on\nthe\nNumber\nLine"
+}

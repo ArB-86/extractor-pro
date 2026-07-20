@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9621789455413818,
+    "bbox": [
+        290.88323974609375,
+        2679.90234375,
+        2086.0390625,
+        2828.202880859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_007/000_plain_text_0.96.png",
+    "text": "This seems to be giving yet another way of getting the square numbers-\nmop un pue dn sqnu bununo ar suppe a"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.960536777973175,
+    "bbox": [
+        239.9922332763672,
+        1302.8680419921875,
+        1794.60302734375,
+        1416.553955078125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/003_plain_text_0.96.png",
+    "text": "Linear\nexpressions help\nto model s\nsituations or\nphenomena\nwhere\nthere is growth or decline. Consider the following\nexamples:"
+}

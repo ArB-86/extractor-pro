@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9419988393783569,
+    "bbox": [
+        194.5841827392578,
+        586.6282348632812,
+        1752.9205322265625,
+        692.971923828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/003_plain_text_0.94.png",
+    "text": "Definition 1 A set which does not contain any element is called the empty set or the\nnull set or the void set."
+}

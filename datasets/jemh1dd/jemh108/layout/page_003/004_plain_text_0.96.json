@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9560656547546387,
+    "bbox": [
+        192.52362060546875,
+        2489.287353515625,
+        1754.5693359375,
+        2601.033935546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_003/004_plain_text_0.96.png",
+    "text": "Why don't you try to define the trigonometric ratios for angle C in the right\ntriangle? (See Fig. 8.5)"
+}

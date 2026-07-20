@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.958885133266449,
+    "bbox": [
+        193.17593383789062,
+        1897.62060546875,
+        1754.27197265625,
+        2059.2373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/000_plain_text_0.96.png",
+    "text": "You may note that if one of the sides and any other part (either an acute angle or any\nside) of a right triangle is known, the remaining sides and angles of the triangle can be\ndetermined."
+}

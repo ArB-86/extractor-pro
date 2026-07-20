@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9040350317955017,
+    "bbox": [
+        190.86582946777344,
+        1429.609619140625,
+        1461.973876953125,
+        1483.6041259765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/008_plain_text_0.90.png",
+    "text": "Now, we can write all the trigonometric ratios using\ntheir definitions."
+}

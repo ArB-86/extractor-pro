@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "title",
+    "confidence": 0.9103283286094666,
+    "bbox": [
+        293.0281982421875,
+        1852.615478515625,
+        776.0182495117188,
+        1922.76318359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/015_title_0.91.png",
+    "text": "Divisib\nibility\nDj\nby\n5"
+}

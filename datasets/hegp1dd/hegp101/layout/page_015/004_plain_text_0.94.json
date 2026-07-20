@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9374940991401672,
+    "bbox": [
+        309.70941162109375,
+        2219.951171875,
+        2089.978515625,
+        2347.011962890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_015/004_plain_text_0.94.png",
+    "text": "Compute successive differences over levels for perfect cubes until all the\ndifferences at a level are the same. What do you notice?"
+}

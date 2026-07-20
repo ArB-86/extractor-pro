@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.812004566192627,
+    "bbox": [
+        245.53968811035156,
+        1115.415283203125,
+        1570.9271240234375,
+        1166.290771484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/007_plain_text_0.81.png",
+    "text": "2\u3002\nWhich of the following experiments have equally likely outcomes? Explain."
+}

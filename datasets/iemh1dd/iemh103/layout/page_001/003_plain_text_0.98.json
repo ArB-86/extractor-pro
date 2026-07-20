@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9786726236343384,
+    "bbox": [
+        241.12005615234375,
+        1515.5177001953125,
+        1797.12841796875,
+        1844.608154296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/003_plain_text_0.98.png",
+    "text": "For\nevery\nthat left the\nsettlement, the\nherder r\ncOW\nmight\nplace\none\npebble in a clay pot. In the\nevening,\nfor\nevery\nCOW\nthat returned, c\none\npebble was removed. If the pot was empty at the end of the day, the herd\nwas safe. If pebbles\ns remained,c\nCOWS\nmissing. This simple\n act of\nWere\nmatching\nobject to another was\nthe birth of the Natural Numbers\none\n(N = {1, 2, 3, 4, ... })."
+}

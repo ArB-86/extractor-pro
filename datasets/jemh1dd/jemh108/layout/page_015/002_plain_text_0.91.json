@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9051657319068909,
+    "bbox": [
+        317.99725341796875,
+        2236.721435546875,
+        1144.7762451171875,
+        2555.8203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_015/002_plain_text_0.91.png",
+    "text": "sin (A+ B) = sin A + sin B.\n1\n(1i\nThe value of sin O increases as \u03b8 increases.\n(ii)\nThe value of cos \u03b8 increases as \u03b8 increases.\n(iv)\nsin \u03b8 = cos \u03b8 for all values of \u03b8.\ncot A is not defined for A = O\u00b0"
+}

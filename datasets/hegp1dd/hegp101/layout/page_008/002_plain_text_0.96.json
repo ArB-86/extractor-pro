@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9568073153495789,
+    "bbox": [
+        378.25054931640625,
+        1588.703125,
+        2088.675537109375,
+        1707.65673828125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/002_plain_text_0.96.png",
+    "text": "Wecan\nclearly say t\nthat 327 is not a perfect square. However, we\ncannot be sure that 576 is a perfect square."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9586131572723389,
+    "bbox": [
+        420.1330871582031,
+        393.5251159667969,
+        1626.2784423828125,
+        535.945556640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_008/001_plain_text_0.96.png",
+    "text": "Rotating\ndoes\nchange\nnot\nits\na\nsquare\nlengths and\nangles."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9808809757232666,
+    "bbox": [
+        291.1487731933594,
+        2267.76904296875,
+        2084.366943359375,
+        2640.087158203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_022/000_plain_text_0.98.png",
+    "text": "In each\ngrid, the\nnumbers\nin each of the\n(the top\ntwo\nrows\nrow\nand t\nthe bottom row)\nand t\nthe\nnumbers i\nin each of the two columns\n(the leftmost column and the rightmost column) a\nadd up to g\ngive the\nsame number. We shall call this sum as the border sum'. The border\nsum of the first\ngrid is \u201c0'."
+}

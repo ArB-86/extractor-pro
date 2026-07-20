@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9359645247459412,
+    "bbox": [
+        190.20960998535156,
+        850.1820678710938,
+        1755.1351318359375,
+        1069.5439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/002_plain_text_0.94.png",
+    "text": "Solution\n1 : Let BPC be the hemisphere and ABC be the cone standing\nthe base\ngon\nof the hemisphere\n(see\nFig. 12.14). The r\nradius\nBO of the hemisphere\n(as\nwell\nas\n1\nof the\ncone) =\n-2\nx 4 cm = 2\ncm."
+}

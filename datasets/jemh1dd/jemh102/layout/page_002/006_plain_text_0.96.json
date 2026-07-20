@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9619798064231873,
+    "bbox": [
+        195.00241088867188,
+        933.8490600585938,
+        1751.8468017578125,
+        1044.478271484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/006_plain_text_0.96.png",
+    "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by\nreplacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k)."
+}

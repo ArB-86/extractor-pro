@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8922998309135437,
+    "bbox": [
+        246.62806701660156,
+        951.6220092773438,
+        1749.8359375,
+        1053.408935546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/004_plain_text_0.89.png",
+    "text": "3. Is it possible to design a rectangular mango g\ngrove whose length is twice its breadth,\nand the area is 800 m?? If so, find its length and breadth."
+}

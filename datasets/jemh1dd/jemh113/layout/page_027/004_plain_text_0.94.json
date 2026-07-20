@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9406521320343018,
+    "bbox": [
+        191.29153442382812,
+        2212.1279296875,
+        1751.295654296875,
+        2330.978759765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_027/004_plain_text_0.94.png",
+    "text": "2. The median of grouped data with unequal class sizes can also be calculated. However,\nwe shall not discuss it here."
+}

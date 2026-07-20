@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9655846953392029,
+    "bbox": [
+        290.9079895019531,
+        1563.111572265625,
+        2085.647705078125,
+        2004.6990966796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_005/001_plain_text_0.97.png",
+    "text": "this angle? We can simply\nuse the vertex and say that it is the Angle B.\nTo be clearer, we\ne use a1\npoint on each of the\narms together with the\nvertex to name the angle. In this case, we name the angle as Angle DBE\nor Angle EBD. The word angle can be replaced by the symbol Z', i.e.,\nZDBE or ZEBD. Note that in specifying\ng the angle, the vertex is always\nWritten as the middle letter."
+}

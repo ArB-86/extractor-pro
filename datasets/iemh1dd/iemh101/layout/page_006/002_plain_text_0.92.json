@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9226894378662109,
+    "bbox": [
+        242.19033813476562,
+        707.00634765625,
+        1792.750244140625,
+        1095.018798828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_006/002_plain_text_0.92.png",
+    "text": "(i)\nPoints in\nQuadrant I have both x- and\ny-coordinates positive.\n(ii)\nPoints ji\nin\nQuadrant II have r\nnegative\nx-coordinate and\npositive\ny-coordinate.\n(iii)\nPoints in Quadrant IHI have both x- and\ny-coordinates negative.\n(iv)\nPoints in\nQuadrant IV have\npositive\ne x-coordinate\n and r\nnegative\ny-coordinate."
+}

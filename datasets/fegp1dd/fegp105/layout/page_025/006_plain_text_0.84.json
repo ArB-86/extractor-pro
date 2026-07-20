@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8441168069839478,
+    "bbox": [
+        294.64813232421875,
+        2543.6669921875,
+        2187.853515625,
+        2664.75927734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_025/006_plain_text_0.84.png",
+    "text": "Q.9. Find the smallest number that is a multiple of all the numbers from 1 to 10 except\nfor 7."
+}

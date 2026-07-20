@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9647902250289917,
+    "bbox": [
+        294.13677978515625,
+        1036.314697265625,
+        2091.632080078125,
+        1255.97216796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_019/000_plain_text_0.96.png",
+    "text": "Angles are\nclassified in three\ngroups as shown below. Right angles\nare shown in the second\ngroup. What could be the common feature\nof the other two\ngroups?"
+}

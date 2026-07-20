@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8016505241394043,
+    "bbox": [
+        244.32476806640625,
+        1607.4530029296875,
+        1751.4832763671875,
+        1704.32763671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_014/010_plain_text_0.80.png",
+    "text": "4. A quadratic polynomial can have at most 2 zeroes and a cubic polynomial can have\natmost 3zeroes."
+}

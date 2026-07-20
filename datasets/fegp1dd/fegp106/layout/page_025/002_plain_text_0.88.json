@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8774659633636475,
+    "bbox": [
+        295.703857421875,
+        2139.73388671875,
+        2186.701171875,
+        2260.625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_025/002_plain_text_0.88.png",
+    "text": "Q.4. By splitting the following figures into rectangles, find their areas\ns (all measures are\ngiven in meters):"
+}

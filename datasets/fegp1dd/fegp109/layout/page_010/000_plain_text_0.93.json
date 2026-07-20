@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9291566014289856,
+    "bbox": [
+        506.81048583984375,
+        395.6378479003906,
+        2214.80859375,
+        537.8671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_010/000_plain_text_0.93.png",
+    "text": "5\nSuppose you have to get each of these shapes with some folds and\na single straight cut. How will\nyou do it?"
+}

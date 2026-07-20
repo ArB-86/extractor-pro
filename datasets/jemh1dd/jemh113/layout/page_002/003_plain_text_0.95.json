@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9485050439834595,
+    "bbox": [
+        193.0439453125,
+        1429.1094970703125,
+        1752.701416015625,
+        1538.9053955078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_002/003_plain_text_0.95.png",
+    "text": "Solution: Recall that to find the mean marks, we require the product of each x with\nthe corresponding frequency f. So, let us put them in a column as shown in Table 13.1."
+}

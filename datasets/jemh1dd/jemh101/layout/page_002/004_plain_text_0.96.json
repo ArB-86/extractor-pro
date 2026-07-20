@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9631823897361755,
+    "bbox": [
+        194.60227966308594,
+        1434.390869140625,
+        673.2386474609375,
+        2310.910888671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_002/004_plain_text_0.96.png",
+    "text": "collection of numbers, all\nthe primes and all possible\nproducts of primes. The\nquestion is - can\nwe\nproduce all the composite\nnumbers this way? What\ndo you think? Do you\nthink that there may be a\ncomposite number which\nis not the product of\nof\npowers\nprimes?\nBefore we answer this,\nlet us factorise positive\nintegers, that is, do the\nopposite of what we have\ndone so far."
+}

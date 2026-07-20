@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8489254713058472,
+    "bbox": [
+        224.565185546875,
+        1576.1517333984375,
+        1119.5806884765625,
+        1850.74267578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/003_plain_text_0.85.png",
+    "text": "12.\nTo warn ships for underwater rocks, a lighthouse\nspreads a red coloured light\nt over a sector of\nangle 80\u00b0 to a distance of 16.5 km. Find the area\nof the\nwhich the ships\neseaover\nare\nwarned.\n(Use\u03c0=3.14)"
+}

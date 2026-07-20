@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9175969362258911,
+    "bbox": [
+        192.20018005371094,
+        559.0108642578125,
+        1480.6529541015625,
+        614.6604614257812
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/003_plain_text_0.92.png",
+    "text": "Example 4 : Find the roots of the quadratic equation 6x\u00b2 - x - 2 = 0."
+}

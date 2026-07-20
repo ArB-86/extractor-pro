@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9002463221549988,
+    "bbox": [
+        191.65982055664062,
+        422.3071594238281,
+        1747.4573974609375,
+        531.47216796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_025/004_plain_text_0.90.png",
+    "text": "51\nn\nNow\nn = 51.S0\n= 25.5 . This observation lies in the class 145 - 150. Then,\n2  2"
+}

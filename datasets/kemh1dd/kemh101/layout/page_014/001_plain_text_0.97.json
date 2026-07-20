@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9702688455581665,
+    "bbox": [
+        192.57322692871094,
+        395.92864990234375,
+        1753.317138671875,
+        560.8847045898438
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/001_plain_text_0.97.png",
+    "text": "Similarly, there are some operations which when performed on two sets g\ngiveriseto\nanother set. We will now define certain operations on sets and examine their properties.\nHenceforth, we will refer all our sets as subsets of some universal set."
+}

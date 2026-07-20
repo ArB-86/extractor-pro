@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.961463451385498,
+    "bbox": [
+        419.6181335449219,
+        1047.2288818359375,
+        2208.671875,
+        1254.9700927734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_007/004_plain_text_0.96.png",
+    "text": "For subtraction of positive and negative\ne numbers, we will\nuse\nthis meaning of subtraction as \u2018making equal' or ^finding the missing\nnumber to be added'."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8583976030349731,
+    "bbox": [
+        293.1491394042969,
+        1572.02685546875,
+        2187.0517578125,
+        1694.6597900390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_025/006_plain_text_0.86.png",
+    "text": "Q.2. What is the cost of tiling a rectangular plot of land 500 m long and 2o0 m wide at the\nrate of Rs.8 per hundred sq. m?"
+}

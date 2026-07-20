@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9148032665252686,
+    "bbox": [
+        197.6792755126953,
+        1848.3515625,
+        1753.871337890625,
+        1958.3240966796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/009_plain_text_0.91.png",
+    "text": "In (iv), all the terms in the list are 3 , i.e., each term is obtained by adding\n(or subtracting) O to the term preceding it."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8206906914710999,
+    "bbox": [
+        309.0262451171875,
+        2594.731689453125,
+        2082.47021484375,
+        2731.505859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_032/004_plain_text_0.82.png",
+    "text": "Frequencies are the counts of the occurrences of values, measures or\nobservations."
+}

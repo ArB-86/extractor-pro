@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8859449625015259,
+    "bbox": [
+        195.58863830566406,
+        2326.354736328125,
+        1514.6923828125,
+        2388.825927734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/006_plain_text_0.89.png",
+    "text": "So, this root is repeated twice, one for each repeated factor\n\u221a3x-\u221a2"
+}

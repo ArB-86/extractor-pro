@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9596679210662842,
+    "bbox": [
+        193.71255493164062,
+        2240.807373046875,
+        1751.3277587890625,
+        2350.005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_002/004_plain_text_0.96.png",
+    "text": "Now, you may identify the lines of sight, and the angles so formed in Fig. 8.3.\nAre they angles of elevation or angles of depression?"
+}

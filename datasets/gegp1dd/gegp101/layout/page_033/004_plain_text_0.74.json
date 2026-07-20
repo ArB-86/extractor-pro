@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.7375667691230774,
+    "bbox": [
+        436.5273742675781,
+        2524.740234375,
+        2154.88134765625,
+        2655.7822265625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_033/004_plain_text_0.74.png",
+    "text": "Ans:\nShe can just check the minimum and maximum number of digits\npossible."
+}

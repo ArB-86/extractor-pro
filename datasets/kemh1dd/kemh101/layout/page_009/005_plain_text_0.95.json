@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9527114629745483,
+    "bbox": [
+        194.48751831054688,
+        1936.3790283203125,
+        1754.0753173828125,
+        2043.410400390625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/005_plain_text_0.95.png",
+    "text": "We read the above statement as \u201cA is a subset of B if a is an element of A\nimplies that a is also an element of B'. If A is not a subset of B, we write A \u03b1 B."
+}

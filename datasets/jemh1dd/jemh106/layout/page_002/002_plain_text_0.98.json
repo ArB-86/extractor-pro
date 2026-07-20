@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9751222133636475,
+    "bbox": [
+        193.94741821289062,
+        2213.294189453125,
+        856.3363647460938,
+        2541.296630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_002/002_plain_text_0.98.png",
+    "text": "Can a circle and a square\nbe\nsimilar? Can a triangle and a square\nbe similar? These questions can be\nanswered by just looking at the\nfigures\n(see\nFig. 6.1). Evidently\nthese figures are not similar. (Why?)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.777463972568512,
+    "bbox": [
+        188.4950714111328,
+        1198.569091796875,
+        1118.2601318359375,
+        1559.273193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/012_plain_text_0.78.png",
+    "text": "Then\na = 23,\nd = 21 - 23 =- 2, \u03b1 = 5\nAs,\nan= a+ (n - 1) d\nWehave,\n5 = 23 + (n - 1)(- 2)\ni.e.,\n- 18 = (n - 1)(- 2)\ni.e.,\nn = 10"
+}

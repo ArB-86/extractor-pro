@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8298364877700806,
+    "bbox": [
+        298.25482177734375,
+        3122.55029296875,
+        904.5779418945312,
+        3180.973388671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_026/006_plain_text_0.83.png",
+    "text": "Try:\nfor other 3\n 3-digit numbers."
+}

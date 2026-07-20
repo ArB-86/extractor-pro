@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.962432861328125,
+    "bbox": [
+        191.96795654296875,
+        2405.050537109375,
+        1753.704345703125,
+        2568.284423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/000_plain_text_0.96.png",
+    "text": "Example 10 : The sum of a two-digit number and the number obtained by reversing\nthe digits is 66. If the digits of the number differ by 2, find the number. How many such\nnumbers are there?"
+}

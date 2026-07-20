@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "plain_text",
+    "confidence": 0.9108150005340576,
+    "bbox": [
+        294.3260192871094,
+        1257.030029296875,
+        980.2910766601562,
+        1315.7371826171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_046/001_plain_text_0.91.png",
+    "text": "Ans. Binnu\nis on\nthe lowest floor."
+}

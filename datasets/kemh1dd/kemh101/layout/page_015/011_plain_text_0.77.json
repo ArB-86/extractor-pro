@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.766816258430481,
+    "bbox": [
+        291.0997009277344,
+        393.37188720703125,
+        1035.9801025390625,
+        525.0153198242188
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/011_plain_text_0.77.png",
+    "text": "(iv)\nAUA\n=A\n(Idempotent law)\n(v)\nUUA\nU\n(Law (\nof U)"
+}

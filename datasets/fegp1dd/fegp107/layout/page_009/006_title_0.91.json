@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.9143105149269104,
+    "bbox": [
+        292.55950927734375,
+        400.72589111328125,
+        2072.621826171875,
+        490.6078186035156
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_009/006_title_0.91.png",
+    "text": "7.4 Marking\nFraction Lengths on t\nthe Number Line"
+}

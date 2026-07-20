@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9453223347663879,
+    "bbox": [
+        290.050537109375,
+        1146.2867431640625,
+        2086.3251953125,
+        1289.08251953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_025/002_plain_text_0.95.png",
+    "text": "We can arrive at the answer\n: by visualising it. Let us take a piece\nof chikki and divide it into two halves first like this."
+}

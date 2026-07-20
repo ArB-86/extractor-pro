@@ -1,0 +1,13 @@
+{
+    "page": 55,
+    "label": "title",
+    "confidence": 0.7918410301208496,
+    "bbox": [
+        293.1196594238281,
+        1172.9393310546875,
+        1802.0567626953125,
+        1236.1766357421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_055/009_title_0.79.png",
+    "text": "Q.1 Write all the integers between the g\n given pairs, in increasing order."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.9273964762687683,
+    "bbox": [
+        293.3944091796875,
+        1597.38134765625,
+        2185.8212890625,
+        1714.69580078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_048/002_plain_text_0.93.png",
+    "text": "Q.2. Make a few acute angles and a few obtuse angles. Draw t\nthem in different\norientations."
+}

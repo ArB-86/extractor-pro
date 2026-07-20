@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.972653329372406,
+    "bbox": [
+        191.58175659179688,
+        2071.0146484375,
+        1094.561767578125,
+        2343.52783203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_006/002_plain_text_0.97.png",
+    "text": "Solution : We\nare\ngiven two concentric circles\nC,\nand\nC,\nwith centre\n0\nand a chord AB of the\nlarger circle\nC\nwhich touches the smaller circle\nC2\nat the point P (see Fig. 10.8). We need to prove\nthat\nAP = BP."
+}

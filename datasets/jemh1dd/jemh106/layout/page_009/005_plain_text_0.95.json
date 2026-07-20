@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.94785076379776,
+    "bbox": [
+        192.51075744628906,
+        1603.295166015625,
+        1298.3905029296875,
+        1663.337158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_009/005_plain_text_0.95.png",
+    "text": "Similarly, by joining\nB,C, B;C3\nand B"
+}

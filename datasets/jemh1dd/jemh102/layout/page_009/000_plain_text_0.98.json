@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9771929383277893,
+    "bbox": [
+        192.94032287597656,
+        2040.7440185546875,
+        1755.0062255859375,
+        2413.13818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_009/000_plain_text_0.98.png",
+    "text": "Youhavealready\nseen that zero of a linear polynomial ax + b is\nWe will now try\nto answer the question raised in Section 2.1 regarding the relationship\nbetween zeroes\nand coefficients of a quadratic polynomial. For this, let us take a quadratic polynomial\np(x) = 2x\u00b2 - 8x + 6. In Class\nIX, you have\ne learnt how to factorise quadratic\nsay\npolynomials by splitting the middle term. So, here we need to split the middle term\n\u2018- 8x\u2019 as a sum of two terms, whose product is 6 x 2x\u00b2 = 12x\u00b2. So, we write"
+}

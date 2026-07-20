@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.983410656452179,
+    "bbox": [
+        193.250244140625,
+        757.8778686523438,
+        944.4707641601562,
+        1307.7252197265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/000_plain_text_0.98.png",
+    "text": "Activity 1 : Place a lighted bulb at a\npoint O on the ceiling and directly below\nit a table in your classroom. Let us cut a\npolygon, say a quadrilateral ABCD, from\nplane cardboard and place this\na\ncardboard parallel to the ground between\nthe lighted bulb and the table. Then a\nshadow of ABCD is cast on the table.\nMark the outline of this shadow as\nA'B'C'D' (see Fig.6.4)."
+}

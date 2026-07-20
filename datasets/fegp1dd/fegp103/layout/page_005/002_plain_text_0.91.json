@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.913341224193573,
+    "bbox": [
+        292.0431823730469,
+        619.538330078125,
+        2085.190185546875,
+        769.925048828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_005/002_plain_text_0.91.png",
+    "text": "filled the table above, put commas \nOnce\nyou have\nappropriately\nafter the thousands digit."
+}

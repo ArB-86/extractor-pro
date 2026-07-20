@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.953403115272522,
+    "bbox": [
+        419.1022033691406,
+        2256.5224609375,
+        2209.7421875,
+        2472.67822265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/005_plain_text_0.95.png",
+    "text": "We saw\nthat the number 12\ncan\nbe\narranged in a rectangle\nin\nmore than one way as 12 has more\nthan two factors. The number 7\ncan be arranged in only\nI one way, as it has only two factors -- 1 and 7."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9416298866271973,
+    "bbox": [
+        192.79830932617188,
+        1590.8458251953125,
+        1753.052734375,
+        1697.3284912109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/006_plain_text_0.94.png",
+    "text": "Definition 4 A set A is said to be a subset of a set B if every element of A is also an\nelement of B."
+}

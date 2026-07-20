@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9333797693252563,
+    "bbox": [
+        333.8693542480469,
+        541.7333374023438,
+        2087.45068359375,
+        664.1556396484375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_015/005_plain_text_0.93.png",
+    "text": "Roxie says that the product of two 2-digit numbers can only be a 3- or\na 4-digit number. Is she correct?"
+}

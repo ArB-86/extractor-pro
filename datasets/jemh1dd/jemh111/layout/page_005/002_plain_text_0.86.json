@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.858852207660675,
+    "bbox": [
+        191.53622436523438,
+        1112.2789306640625,
+        827.0196533203125,
+        1208.7288818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_005/002_plain_text_0.86.png",
+    "text": "22\nUnless stated (\notherwise, U\nuse\u03c0=\n7"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7498498558998108,
+    "bbox": [
+        188.75192260742188,
+        1231.6749267578125,
+        1754.1915283203125,
+        1412.128662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/011_plain_text_0.75.png",
+    "text": "So, when the degree measure of the angle at the centre is 1, area of the\n2\nTr\nsector\n360"
+}

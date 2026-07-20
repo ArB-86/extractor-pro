@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8397639393806458,
+    "bbox": [
+        193.11732482910156,
+        1321.747802734375,
+        1033.173583984375,
+        1375.54833984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/011_plain_text_0.84.png",
+    "text": "Solution\nn : Given\nPQ\n= 3 cm a\nand PR = 6 cm."
+}

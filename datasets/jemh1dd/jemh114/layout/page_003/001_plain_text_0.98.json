@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9763626456260681,
+    "bbox": [
+        227.2908935546875,
+        420.4215087890625,
+        1306.78466796875,
+        1139.2359619140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_003/001_plain_text_0.98.png",
+    "text": "Probability theory had its origin in the 16th century when\nan Italian physician and mathematician J.Cardan wrote the\nfirst book on the subject, The Book on Games of Chance.\nSince its inception, the study of probability has attracted\nthe attention of great mathematicians. James Bernoulli\n(1654 - 1705), A. de Moivre (1667 - 1754), and\nPierre Simon Laplace are among those who made significant\ncontributions to this field. Laplace's Theorie Analytique\ndes Probabilit\u00e9s, 1812, is considered to be the greatest\ncontribution by a single person to the theory of probability.\nIn recent years, probability has been used extensively in\nsociology etc."
+}

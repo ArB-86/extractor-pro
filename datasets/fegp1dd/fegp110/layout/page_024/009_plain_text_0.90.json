@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8966371417045593,
+    "bbox": [
+        403.3587951660156,
+        2699.8154296875,
+        1020.723388671875,
+        2763.270751953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_024/009_plain_text_0.90.png",
+    "text": "5.\nFind the\n years below."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9439542293548584,
+    "bbox": [
+        193.9534454345703,
+        1724.8812255859375,
+        1753.2545166015625,
+        1832.323974609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/001_plain_text_0.94.png",
+    "text": "concept of function is very\nimportant in mathematics since it captures the idea of a\nmathematically precise correspondence between one quantity with the other."
+}

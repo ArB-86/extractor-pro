@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7516160607337952,
+    "bbox": [
+        244.15773010253906,
+        1147.0438232421875,
+        1440.37109375,
+        1262.1781005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/012_plain_text_0.75.png",
+    "text": "7\n(1 + sin 6\n0)(1 - sin 0)\n7. If cot \u03b8=\nevaluate : (i)\n(ii) cot\u00b2 \u03b8\n\u4e00\n8\n(1 + cos\n0)(1 - cos \u03b8)"
+}

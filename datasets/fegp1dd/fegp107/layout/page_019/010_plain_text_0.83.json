@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8348500728607178,
+    "bbox": [
+        291.5760803222656,
+        945.9281616210938,
+        1745.0308837890625,
+        1035.631591796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_019/010_plain_text_0.83.png",
+    "text": "Mukta: So, we must compare\n1\nand\nWhich is more?\n12"
+}

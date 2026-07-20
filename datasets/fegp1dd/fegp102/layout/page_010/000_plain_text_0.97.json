@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9747280478477478,
+    "bbox": [
+        423.87860107421875,
+        473.8089599609375,
+        2215.317626953125,
+        691.96240234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_010/000_plain_text_0.97.png",
+    "text": "Any two angles can be compared by placing them one over the other,\ni.e., by\nsuperimposition. While superimposing, the vertices of the\nangles must overlap."
+}

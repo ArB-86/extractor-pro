@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9491856098175049,
+    "bbox": [
+        381.7169494628906,
+        1241.3934326171875,
+        2091.15234375,
+        1364.9227294921875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_018/001_plain_text_0.95.png",
+    "text": "Can you do the same with\nnumbers\nfrom 1 to 32 (again, without\nrepetition), but this time arranging all the numbers in a circle?"
+}

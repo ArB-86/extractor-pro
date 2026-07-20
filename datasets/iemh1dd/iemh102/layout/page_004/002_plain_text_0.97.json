@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9738932251930237,
+    "bbox": [
+        237.8484344482422,
+        1800.5308837890625,
+        1798.207763671875,
+        2027.4666748046875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/002_plain_text_0.97.png",
+    "text": "Hence, if\nm is\nthe\nnumber\nof\nmatches\nplayed,\nthe\ntotal\ncost\nWill\nbe\nR(200\n+\n50m). Observe\nthat\n200\n+\n50m\nis\nlinear\npolynomial\nin\nthe\na\nvariable\nm. The\ne amount\npaid increases\nby\nthe constant value of 50 for\nevery a\nadditional\nmatch\nplayed."
+}

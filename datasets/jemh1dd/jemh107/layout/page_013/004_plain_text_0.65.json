@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6523945331573486,
+    "bbox": [
+        227.76263427734375,
+        2447.2060546875,
+        1751.8135986328125,
+        2589.712890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_013/004_plain_text_0.65.png",
+    "text": "10. Find the area of a rhombus if its vertices are (3, 0), (4, 5), (- 1, 4) and (- 2, - 1) taken in\n1\nOrder. [Hint : Area of a rhombus\n(product of its diagonals)]\n2"
+}

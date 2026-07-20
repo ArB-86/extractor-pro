@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9624033570289612,
+    "bbox": [
+        416.60540771484375,
+        389.559814453125,
+        2215.070556640625,
+        614.8236083984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_008/001_plain_text_0.96.png",
+    "text": "objects\nfrom\nsurroundings\n?\nFind\nvarious\nthat\nhave\nyour\nregular\nshapes and find their\n perimeters. Also, generalise your understanding\nfor\nthe\ne perimeter\nof other :\nregular\npolygons."
+}

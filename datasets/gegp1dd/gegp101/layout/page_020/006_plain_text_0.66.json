@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6631604433059692,
+    "bbox": [
+        514.35302734375,
+        1377.360107421875,
+        2087.154541015625,
+        1716.4832763671875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_020/006_plain_text_0.66.png",
+    "text": "(a)\nWhat would the 1000th digit be? At which\nnumber would\nit\noccur?\n(b)\nWhat number would contain the millionth digit?\n(c)\nWhenwould\nyou have written the digit 5' for the 5000th\ntime?"
+}

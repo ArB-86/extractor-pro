@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7872568964958191,
+    "bbox": [
+        192.66232299804688,
+        983.3372192382812,
+        951.0161743164062,
+        1036.94189453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_004/005_plain_text_0.79.png",
+    "text": "This\ne surface area of the top\ngives\nthe\nas"
+}

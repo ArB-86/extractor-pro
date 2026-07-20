@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9092770218849182,
+    "bbox": [
+        416.7228698730469,
+        393.0458984375,
+        2213.718017578125,
+        558.1474609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_028/003_plain_text_0.91.png",
+    "text": "fractional\nl unit. In this case, the\n common\ndenominator can\n1 be made\n3 \u00d7 4 = 12, i.e., we can find equivalent fractions with fractional unit\n1"
+}

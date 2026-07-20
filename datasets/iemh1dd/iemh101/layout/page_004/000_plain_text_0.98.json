@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9789738059043884,
+    "bbox": [
+        237.5618438720703,
+        1442.216064453125,
+        1798.257568359375,
+        1717.8751220703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_004/000_plain_text_0.98.png",
+    "text": "Point B is on\nthe\nand 4.5\nunits to the right of O, its coordinates\n X-axis\n(4.5, 0). This fact is written as B = (4.5, 0). Point G is on t\nthe y-axis and\nare\n4.5\nunits\ndownward\nfrom\n0,\nits\ncoordinates\n(0, -4.5),\nare\nthat\nis,\nG=\n=(0, -4.5). Point\nH\nis a\nalso\nthe\nbut\n4\nunits\nabove\nO, i\non\ny-axis\nits\ncoordinates\n(0, 4), that is, H =\n(0, 4).\nare"
+}

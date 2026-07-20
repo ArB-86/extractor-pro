@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9642216563224792,
+    "bbox": [
+        276.1111755371094,
+        2328.975830078125,
+        1799.802001953125,
+        2563.23828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/005_plain_text_0.96.png",
+    "text": "1.\nA student has ?5o0 in her savings bank a\naccount. She gets ?150\nevery\nmonth as pocket money. How much\n money will she have at the end\nof\nevery\nmonth\nfrom\nthe\nsecond\nmonth\nonwards?\nFind\na\nlinear\nexpression to represent the amount she will have\nin the nth month."
+}

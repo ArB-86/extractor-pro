@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9399657845497131,
+    "bbox": [
+        244.8435516357422,
+        2165.05810546875,
+        1037.973388671875,
+        2526.011474609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_023/000_plain_text_0.94.png",
+    "text": "3. I\nDiagonals AC and BD of a trapezium ABCD\nwith AB\nDC intersect each other at the\npoint O. Using a similarity criterion for two\nOA\nOB\ntriangles, show that\nOC\nOD"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9240784645080566,
+    "bbox": [
+        290.212158203125,
+        1533.0657958984375,
+        1610.320068359375,
+        1590.2403564453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_022/005_plain_text_0.92.png",
+    "text": "Let us combine Tables 13.12 and 13.13 to get Table 13.15\ngiven below:"
+}

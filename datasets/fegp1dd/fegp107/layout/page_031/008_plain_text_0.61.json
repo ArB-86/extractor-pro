@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.6109686493873596,
+    "bbox": [
+        291.37188720703125,
+        2576.781982421875,
+        2087.14306640625,
+        2797.3408203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_031/008_plain_text_0.61.png",
+    "text": "2.\nCarry out the subtraction of fractions having the same fractional\nunits. This\n can\nbe done\nby\nsubtracting\nthe\nnumeratorsand\nkeeping the same denominator."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9235073328018188,
+    "bbox": [
+        420.7203369140625,
+        1538.7530517578125,
+        2207.17041015625,
+        1678.1966552734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_012/006_plain_text_0.92.png",
+    "text": "Here is one way of doing it. Suppose here are some of the positions\nof X and Y that you have considered:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8785190582275391,
+    "bbox": [
+        190.09579467773438,
+        521.0541381835938,
+        1598.68408203125,
+        595.1944580078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_007/007_plain_text_0.88.png",
+    "text": "Let us check our solution :\nAP=\n= \u221a(6 - 0)\u00b2 + (5 - 9)\u00b2 = \u221a36 + 16 = \u221a52"
+}

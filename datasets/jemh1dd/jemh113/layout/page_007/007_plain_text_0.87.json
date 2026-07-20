@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8675771951675415,
+    "bbox": [
+        193.8525390625,
+        1853.2147216796875,
+        1438.9490966796875,
+        1906.4359130859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_007/007_plain_text_0.87.png",
+    "text": "The method discussed above is called the Step-deviation method."
+}

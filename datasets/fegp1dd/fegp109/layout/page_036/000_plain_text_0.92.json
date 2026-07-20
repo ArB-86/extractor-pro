@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.918562114238739,
+    "bbox": [
+        298.1805725097656,
+        1954.10595703125,
+        2186.075927734375,
+        2078.064697265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_036/000_plain_text_0.92.png",
+    "text": "Ans. Yes, the angles of symmetry are always the multiples of the smallest angle. For example.\nthe second angle is twice the amount of rotation of the first rotation."
+}

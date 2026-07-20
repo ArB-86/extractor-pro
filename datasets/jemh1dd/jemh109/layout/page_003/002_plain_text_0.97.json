@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9724763035774231,
+    "bbox": [
+        193.05056762695312,
+        1923.603759765625,
+        1153.890380859375,
+        2086.04931640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/002_plain_text_0.97.png",
+    "text": "Tos\nsolve the\nproblem,\nwe choose the trigonometric\nratio\n60\u00b0\n(or\n60%),\ntan\ncot\nas\nthe\ne ratio\ninvolves\nAB\nand BC."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9005889892578125,
+    "bbox": [
+        190.24900817871094,
+        836.6800537109375,
+        1753.09326171875,
+        943.7752685546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/004_plain_text_0.90.png",
+    "text": "Let A and B be two sets. IfA c B and A \u2260 B , then A is called a proper subset\nof B and B is called superset of A. For example,"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9354825019836426,
+    "bbox": [
+        267.41998291015625,
+        2204.593994140625,
+        1345.0098876953125,
+        2263.1767578125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/006_plain_text_0.94.png",
+    "text": "If a player p\npaid 750, how many\nmatches did he play?"
+}

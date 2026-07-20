@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9526708722114563,
+    "bbox": [
+        193.63153076171875,
+        631.0685424804688,
+        1393.629150390625,
+        685.2686157226562
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/004_plain_text_0.95.png",
+    "text": "Therefore, the mean of the marks obtained by the students is 62."
+}

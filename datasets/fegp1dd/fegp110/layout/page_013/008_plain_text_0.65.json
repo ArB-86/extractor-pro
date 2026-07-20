@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6512712240219116,
+    "bbox": [
+        551.7654418945312,
+        470.1671447753906,
+        2211.208984375,
+        608.2459106445312
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_013/008_plain_text_0.65.png",
+    "text": "4. What are a. -5+0\nb. 7 + (-7)\nc. -10+20\nd. 10 -20\ne. 7-(-7)\nf. -8-(-10)?"
+}

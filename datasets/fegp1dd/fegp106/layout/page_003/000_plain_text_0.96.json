@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9593448042869568,
+    "bbox": [
+        290.87030029296875,
+        919.8103637695312,
+        1475.6884765625,
+        1130.83251953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/000_plain_text_0.96.png",
+    "text": "Example: Akshi\nwants\nto\nput\nlacea\nall\naround\na\nrectangular\ntablecloth\nthat\nt is 3\nlong\nand 2\nWide. Find t\nthe length of the lace required."
+}

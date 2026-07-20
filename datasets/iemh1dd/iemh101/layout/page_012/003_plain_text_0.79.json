@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7886558175086975,
+    "bbox": [
+        304.2184753417969,
+        466.872802734375,
+        1799.0679931640625,
+        581.4893798828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/003_plain_text_0.79.png",
+    "text": "1.\nWhat\nare\nthe\nX-coordinate\nand\ny-coordinate of the\npoint\nt of\nintersection of the two axes?"
+}

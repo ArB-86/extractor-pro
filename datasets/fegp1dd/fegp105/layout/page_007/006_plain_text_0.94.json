@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9351001977920532,
+    "bbox": [
+        295.84307861328125,
+        825.9951782226562,
+        2084.069580078125,
+        967.0388793945312
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/006_plain_text_0.94.png",
+    "text": "Here is an interesting\nWay to find\nprime numbers. Just follow the\ngiven below and see what happens.\nstepsg"
+}

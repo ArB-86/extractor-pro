@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9781816601753235,
+    "bbox": [
+        420.2049865722656,
+        1963.1976318359375,
+        1650.480224609375,
+        2407.361083984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_002/001_plain_text_0.98.png",
+    "text": "Imagine that the line segment from A to B (i.e.,\nAB) is extended beyond A in one d\ndirection and\nbeyond B in the other\ndirection without any\nend (see Fig. 2.2). This is a model for a line. Do\nthink you can\ndraw a complete picture of\nyout\na line? No. Why?"
+}

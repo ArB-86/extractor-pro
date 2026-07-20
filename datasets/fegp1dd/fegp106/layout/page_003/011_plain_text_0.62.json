@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6203280687332153,
+    "bbox": [
+        291.32476806640625,
+        481.6849060058594,
+        1555.8486328125,
+        781.1141967773438
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/011_plain_text_0.62.png",
+    "text": "Consider a triangle having\nthree\ngiven\nsides of\nlengths 4 cm, 5\ncm. Find its perimeter.\ncm\nand 7 c\nPerimeter\nr of the triangle = 4 cm\n+\n5\ncm\n+\n7\ncm\n16\n\u4e8c\ncm."
+}

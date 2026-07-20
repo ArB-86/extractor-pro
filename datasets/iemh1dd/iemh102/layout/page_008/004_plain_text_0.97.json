@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9682098627090454,
+    "bbox": [
+        238.81790161132812,
+        1333.3990478515625,
+        1794.727783203125,
+        1499.6322021484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/004_plain_text_0.97.png",
+    "text": "Observe\nthat\nthe\ntotal\nfare\nfor\ntravel\nof n\na\nkm\nWill\nbe\n25 + 15 \u00d7 (n - 2) = 15n - 5, when n \u2265 2. Here, the fare for a specific\ndistance covered is a function of the distance n km."
+}

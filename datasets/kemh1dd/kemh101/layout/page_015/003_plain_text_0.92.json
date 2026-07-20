@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9235786199569702,
+    "bbox": [
+        194.57484436035156,
+        855.8948974609375,
+        1747.49609375,
+        968.8500366210938
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/003_plain_text_0.92.png",
+    "text": "Solution We see that 6, 8 are the only elements which are common to both A and B\nHence A  B = { 6, 8 }."
+}

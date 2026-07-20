@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8869685530662537,
+    "bbox": [
+        246.96713256835938,
+        518.9672241210938,
+        1751.7667236328125,
+        626.6915893554688
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/017_plain_text_0.89.png",
+    "text": "2. You could also have used the substitution, or g\ngraphical method, to solve this\nproblem. Try doing so, and see which method is more convenient."
+}

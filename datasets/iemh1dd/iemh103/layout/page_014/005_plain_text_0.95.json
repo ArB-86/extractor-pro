@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9476456642150879,
+    "bbox": [
+        310.6328125,
+        1218.8836669921875,
+        1035.7064208984375,
+        1278.0408935546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/005_plain_text_0.95.png",
+    "text": "Step 3: Multiply both sides by q?:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9289267659187317,
+    "bbox": [
+        194.06988525390625,
+        1809.159423828125,
+        937.9642333984375,
+        1861.9288330078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/008_plain_text_0.93.png",
+    "text": "So, the g\ngiven e\nequation\nhas\nno real\nroots."
+}

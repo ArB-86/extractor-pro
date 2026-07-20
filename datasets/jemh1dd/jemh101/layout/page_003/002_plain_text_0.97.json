@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9744393229484558,
+    "bbox": [
+        195.16259765625,
+        852.1510620117188,
+        1754.1619873046875,
+        1018.4212646484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_003/002_plain_text_0.97.png",
+    "text": "Theorem\n11.1\n1 (Fundamental Theorem of Arithmetic) : Every composite\nnumber can be expressed\nd (factorised) as a product of primes, and this factorisation\nis\nunique, apart from the order in which the prime factors occur."
+}

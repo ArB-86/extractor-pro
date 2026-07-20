@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8866990804672241,
+    "bbox": [
+        193.56307983398438,
+        1552.17626953125,
+        1429.3076171875,
+        1605.4620361328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_006/005_plain_text_0.89.png",
+    "text": "So, the quadratic polynomial ax? + bx + c has no zero in this case."
+}

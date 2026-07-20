@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9716860055923462,
+    "bbox": [
+        194.43350219726562,
+        1207.28271484375,
+        1756.608154296875,
+        1426.3843994140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_002/002_plain_text_0.97.png",
+    "text": "Now, let us suppose your c\ncollection of primes\n includes all the possible primes.\nWhat is your\nabout\nthe size of this collection? Does\nit contain\nguess\n only a finite\nnumber of integers, or infinitely\n many? Infact, there are\ninfinitely\nmany primes. So,\nif\nwe\ncombine\nall\nthese\nprimes\nin\nall\npossible\nways,\nWill\nget\nan\ninfinite\nwe"
+}

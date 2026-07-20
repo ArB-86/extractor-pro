@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8319567441940308,
+    "bbox": [
+        191.87640380859375,
+        1232.2191162109375,
+        1681.3642578125,
+        1352.73095703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/010_plain_text_0.83.png",
+    "text": "If x - y = 2, then solving (1) a\n and (2) by elimination, we get x = 4 and y = 2.\nIn this case, we get the number 42."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8313338756561279,
+    "bbox": [
+        219.39297485351562,
+        2249.27197265625,
+        1750.2904052734375,
+        2303.050048828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/010_plain_text_0.83.png",
+    "text": "6\u3002\nIfA= {3,5,7,9, 11 }, B = {7,9, 11, 13}, C = {11, 13, 15}and D = {15, 17}; find"
+}

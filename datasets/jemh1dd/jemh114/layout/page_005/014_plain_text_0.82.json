@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8170568943023682,
+    "bbox": [
+        373.3733825683594,
+        1050.1314697265625,
+        1708.0458984375,
+        1106.900634765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/014_plain_text_0.82.png",
+    "text": "s the event\ngetting\ng a number >4' and F is the event\ngetting\n a number \u2264"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9625760912895203,
+    "bbox": [
+        288.9864501953125,
+        1763.583740234375,
+        2089.5322265625,
+        2058.9970703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_005/000_plain_text_0.96.png",
+    "text": "Each track is a rectangle. Akshi's track has \ns length 70\nm andbreadth\n40\nm. Running\ne complete round\non\nthis\none\ntrack\nwould c\ncover\n220\ni.e., 2\nm. This is the\ncovered by\n\u00d7\n(70\n\u5341\n40)\n220\ndistance\nAkshi in\n\u4e8c\none round."
+}

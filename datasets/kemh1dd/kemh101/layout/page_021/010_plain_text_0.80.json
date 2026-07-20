@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8041828274726868,
+    "bbox": [
+        217.45896911621094,
+        2055.44775390625,
+        1331.945068359375,
+        2108.1982421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/010_plain_text_0.80.png",
+    "text": "4.\nShow that the following\nfour conditions are equivalent :"
+}

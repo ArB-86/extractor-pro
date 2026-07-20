@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9487748742103577,
+    "bbox": [
+        520.8935546875,
+        1400.41943359375,
+        2210.963134765625,
+        1539.662353515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_020/000_plain_text_0.95.png",
+    "text": "We\nknow\nthe\nline\n on which D\nlies. Draw a\nline\nthrough A\nperpendicular to AB."
+}

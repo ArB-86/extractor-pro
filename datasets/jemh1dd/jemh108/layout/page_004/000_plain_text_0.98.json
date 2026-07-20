@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9806045293807983,
+    "bbox": [
+        194.48513793945312,
+        1782.8154296875,
+        1155.5474853515625,
+        2166.625732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_004/000_plain_text_0.98.png",
+    "text": "Now, if we take a point P on the hypotenuse\nAC or a point\nt Q on AC extended, of the right triangle\nABC and draw\n1PM\nperpendicular to AB and\n1 QN\nperpendicular to AB\n extended\n1 (see Fig. 8.6), how\nwill the trigonometric ratios of Z A in \u25b3 PAM differ\nfrom those of Z A in \u25b3 CAB or from those of Z A in\n\u25b3 QAN?"
+}

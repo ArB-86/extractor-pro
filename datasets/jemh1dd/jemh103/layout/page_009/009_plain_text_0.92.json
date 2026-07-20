@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9220701456069946,
+    "bbox": [
+        193.50497436523438,
+        397.41937255859375,
+        1386.920654296875,
+        452.5923156738281
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_009/009_plain_text_0.92.png",
+    "text": "So, Aftab and his daughter are 42 and 12\ns old, respectively.\nyears"
+}

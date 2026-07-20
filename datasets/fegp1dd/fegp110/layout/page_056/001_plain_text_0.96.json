@@ -1,0 +1,13 @@
+{
+    "page": 56,
+    "label": "plain_text",
+    "confidence": 0.9573985934257507,
+    "bbox": [
+        297.8355712890625,
+        2350.513671875,
+        1494.325439453125,
+        2534.35400390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_056/001_plain_text_0.96.png",
+    "text": "Ans.\na. positive\nb. can\nbe positive or 1\nnegative\nc. negative\nd. can\nbe positive or n\nnegative\ne. negative\nf. can\nbe positive or 1\nnegative"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9697204232215881,
+    "bbox": [
+        192.92758178710938,
+        2202.723388671875,
+        1754.9788818359375,
+        2316.33251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_009/003_plain_text_0.97.png",
+    "text": "From (1), (2), (3) and (4), it can be observed that if a line divides two sides of a\ntriangle in the same ratio, then the line is parallel to the third side."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.9323961734771729,
+    "bbox": [
+        646.1146850585938,
+        413.211669921875,
+        1727.927734375,
+        497.7905578613281
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_030/000_title_0.93.png",
+    "text": "Integers: Snakes\nand Ladders"
+}

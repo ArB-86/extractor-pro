@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8657048344612122,
+    "bbox": [
+        346.5791015625,
+        953.1806030273438,
+        1755.300048828125,
+        1405.7177734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_007/004_plain_text_0.87.png",
+    "text": "1\nThetaxifare aftereachkmwhenthefareis?15for thefirstkm and?8foreach\nadditional km.\n(i)The amount of air present in a cylinder when a vacuum pump removes\n\u2014\nof the\n4\nair remaining in the cylinder at a time.\n The cost of digging a well after every metre of digging, when it costs ? 150 for the\nfirst metre and rises by ? 50 for each subsequent metre.\n(iv) The amount of money in the account every year, when ? 10oo0 is deposited at\ncompound interest at 8 % per annum."
+}

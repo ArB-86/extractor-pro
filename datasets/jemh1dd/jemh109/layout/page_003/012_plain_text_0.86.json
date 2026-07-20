@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8595146536827087,
+    "bbox": [
+        291.5408630371094,
+        663.7113647460938,
+        1748.834716796875,
+        721.1947021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/012_plain_text_0.86.png",
+    "text": "In the figure, CD = CB + BD. Here, BD = AE, which is the height of the student."
+}

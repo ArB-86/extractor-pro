@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8984041810035706,
+    "bbox": [
+        358.4089660644531,
+        1451.009521484375,
+        2083.897705078125,
+        1522.8104248046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_010/006_plain_text_0.90.png",
+    "text": "We can use this imagination to add and subtract any integers we like."
+}

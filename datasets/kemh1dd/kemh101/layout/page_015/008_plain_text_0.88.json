@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8788420557975769,
+    "bbox": [
+        194.56405639648438,
+        2194.64501953125,
+        1126.05126953125,
+        2243.468994140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/008_plain_text_0.88.png",
+    "text": "Some\nProperties\nof\nOperation\nof\nIntersection"
+}

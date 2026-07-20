@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5014878511428833,
+    "bbox": [
+        502.88348388671875,
+        2226.40966796875,
+        1888.030029296875,
+        2521.048095703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_006/006_plain_text_0.50.png",
+    "text": "In a compass\ndivider, we\nturn\nthe\narms to form\n6 or\nangle. The\nvertex\nis\nthe\npoint\nwhere\nan\nthe\ntwo\njoined. Identify\nare\nthe\nss\nand\nvertex\nof\nthe\nangle."
+}

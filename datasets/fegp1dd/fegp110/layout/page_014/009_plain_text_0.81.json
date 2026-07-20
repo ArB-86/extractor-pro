@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8132445812225342,
+    "bbox": [
+        490.71533203125,
+        1146.033447265625,
+        1883.037841796875,
+        1218.905517578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_014/009_plain_text_0.81.png",
+    "text": "Target Floor =\nStarting\nFloor + 1\nMovement needed"
+}

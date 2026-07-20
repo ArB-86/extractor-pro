@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9317350387573242,
+    "bbox": [
+        194.8690185546875,
+        989.7484741210938,
+        542.3016357421875,
+        1045.108642578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/003_title_0.93.png",
+    "text": "Introc\noduction"
+}

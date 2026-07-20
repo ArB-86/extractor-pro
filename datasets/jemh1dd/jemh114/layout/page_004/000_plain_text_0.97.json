@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9737327098846436,
+    "bbox": [
+        191.91207885742188,
+        1661.47607421875,
+        1754.1365966796875,
+        1827.3466796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/000_plain_text_0.97.png",
+    "text": "Solution : (i) Here, let E be the event ^getting a number greater than 4'. The number\nof possible outcomes is six : 1, 2, 3, 4, 5 and 6, and the outcomes favourable to E are 5\nand 6. Therefore, the number of outcomes favourable to E is 2. So,"
+}

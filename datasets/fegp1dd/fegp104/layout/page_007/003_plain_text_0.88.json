@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8827722668647766,
+    "bbox": [
+        502.6405944824219,
+        2708.00830078125,
+        2213.516845703125,
+        2933.425537109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_007/003_plain_text_0.88.png",
+    "text": "2.\nThere\n2\ncomplete\npictures\n(2\n\u00d7\n10\n20)\nand\na\nhalf\nare\n\u4e8c\npicture\n(half of 10\n5). Therefore, t\n=\nthe\nnumber\nof children\nwho sleep\nat least 9 hours\nonly s\nis 20\n5= 2\nsometimes\n+\n25."
+}

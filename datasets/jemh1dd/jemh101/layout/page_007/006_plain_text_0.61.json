@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6129583716392517,
+    "bbox": [
+        193.21856689453125,
+        1651.61181640625,
+        1353.5908203125,
+        1746.899169921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/006_plain_text_0.61.png",
+    "text": "a\nThat is, we can\nfind integers a and b (\u2260 0) s\nsuch that\n\u221a3\nb"
+}

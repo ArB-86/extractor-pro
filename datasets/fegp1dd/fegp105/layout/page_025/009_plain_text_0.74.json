@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7441412806510925,
+    "bbox": [
+        295.6169738769531,
+        2036.338623046875,
+        1091.54443359375,
+        2099.83935546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_025/009_plain_text_0.74.png",
+    "text": "Ans.\nThe jump\nsizes are\n1,2, 7 or\n14"
+}

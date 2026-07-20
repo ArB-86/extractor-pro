@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9336321353912354,
+    "bbox": [
+        293.2973937988281,
+        1682.6368408203125,
+        2187.54833984375,
+        1806.1627197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_031/000_plain_text_0.93.png",
+    "text": "Q10. Draw the following. In each case, the figure should contain at least one curved\nboundary."
+}

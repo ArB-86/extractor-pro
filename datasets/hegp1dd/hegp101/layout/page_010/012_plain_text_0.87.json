@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8698126673698425,
+    "bbox": [
+        379.7757263183594,
+        870.161865234375,
+        2053.143798828125,
+        994.7638549804688
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/012_plain_text_0.87.png",
+    "text": "Therefore, 15 < \u221a250\n\uff09 < 16. Since 256 is much closer to 250 than 225.\n250\nis approximately 16. We also know it is less than 16."
+}

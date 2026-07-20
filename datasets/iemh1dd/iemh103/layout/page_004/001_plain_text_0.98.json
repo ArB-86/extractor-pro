@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9795149564743042,
+    "bbox": [
+        237.85337829589844,
+        751.4136962890625,
+        1794.749267578125,
+        1080.349609375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/001_plain_text_0.98.png",
+    "text": "Because\nIndian\nthinkers\nrevered\nthis\nstate\nof\n'emptiness',\nthey\npossessed the conceptualframework necessaryto welcome nothingness'\nas a concept\nt in\nphilosophy.\nThis\nconcept\nt of\nzeroness\nthen f\nfound\nits\ninto\nfields, such as a\narchitecture, l\nliterature, linguistics, and\nway\nmany\neventually\ne its\ninto mathematics in the\ne works of Aryabhata\nmade\nway\nand finally\nBrahmagupta."
+}

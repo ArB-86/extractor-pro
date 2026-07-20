@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8538533449172974,
+    "bbox": [
+        531.0805053710938,
+        938.22119140625,
+        1717.922119140625,
+        1003.3206176757812
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_008/002_plain_text_0.85.png",
+    "text": "3.\nExplain why\nIZAPB\ncannot be labelled\ndas\nS ZP."
+}

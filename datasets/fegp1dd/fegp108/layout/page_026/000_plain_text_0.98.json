@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.978295624256134,
+    "bbox": [
+        525.6161499023438,
+        481.37139892578125,
+        2211.493408203125,
+        761.0496826171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_026/000_plain_text_0.98.png",
+    "text": "We\nl to locate\nthe\npoint A t\nthat is of distance 5\nneed\ncm\nfrom\nthe points B\nand C. You r\nmight have realised that this\n can\nbe done\nusing a ruler. However, this leads to a lot of trial\nand\nerror. This\nconstruction\nbe further\nsimplified. How?\n1 can"
+}

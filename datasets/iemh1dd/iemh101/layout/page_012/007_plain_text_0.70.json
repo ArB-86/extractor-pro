@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7012717723846436,
+    "bbox": [
+        304.1997375488281,
+        1499.62109375,
+        1795.56884765625,
+        1675.539306640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/007_plain_text_0.70.png",
+    "text": "5.\nWhat would a system of coordinates be like if we did not have\n    s o  s  u \npoints on a 2-D plane?"
+}

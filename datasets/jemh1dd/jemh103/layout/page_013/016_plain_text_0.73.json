@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.732880175113678,
+    "bbox": [
+        325.0673828125,
+        2413.415283203125,
+        1753.6900634765625,
+        2510.1494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/016_plain_text_0.73.png",
+    "text": "(ii)\nFive years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as\nold as Sonu. How old are Nuri and Sonu?"
+}

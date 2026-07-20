@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5395255088806152,
+    "bbox": [
+        291.37249755859375,
+        664.4590454101562,
+        1756.3779296875,
+        798.0397338867188
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/016_plain_text_0.54.png",
+    "text": "(iv)\nA \u00d7 A \u00d7 A = {(a, b, c) : a, b, c E A}. Here (a, b, c) is called an ordered\ntriplet."
+}

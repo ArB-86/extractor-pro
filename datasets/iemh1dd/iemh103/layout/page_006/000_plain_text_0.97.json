@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.967552661895752,
+    "bbox": [
+        237.29278564453125,
+        2094.2158203125,
+        1796.66796875,
+        2316.493896484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_006/000_plain_text_0.97.png",
+    "text": "As society grew r\n more complex, measuring\nbecame\njust a\nas\nimportant\nas\ncounting. If a farmer\ndivides a f\nfield of wheat\namong\nhis\nthree\nchildren,\nhow r\n much does\neach\nget? If a recipe calls for\nr half a cup of ghee, how\ndo\nWe represent that mathematically?"
+}

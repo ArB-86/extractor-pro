@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9754593372344971,
+    "bbox": [
+        290.4234619140625,
+        1228.8341064453125,
+        1015.3392944335938,
+        1445.460693359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_012/000_plain_text_0.98.png",
+    "text": "Have\nyou\nseen\ngraphs\nlike\nthis\non\nTV\nor\nin\na\nnewspaper?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9811543822288513,
+    "bbox": [
+        193.9738311767578,
+        420.28814697265625,
+        1036.4815673828125,
+        1297.875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_003/000_plain_text_0.98.png",
+    "text": "Activity 2 : On a paper, draw a circle and a\nsecant PQ of the circle. Draw various lines\nparallel to the secant on both sides of it. You\nwill find that after some steps, the length of\nthe chord cut by the lines will gradually\ndecrease, i.e., the two points of intersection of\nthe line and the circle are coming closer and\ncloser [see Fig. 10.3(ii)]. In one case, it\nbecomes zero on one side of the secant and in\nanother case, it becomes zero on the other side\nof the secant. See the positions P'Q' and P\"Q\"\nof the secant in Fig. 10.3 (ii). These are the\ntangents to the circle parallel to the given secant\nPQ. This also helps you to see that there cannot\nbe more than two tangents parallel to a given\nsecant."
+}

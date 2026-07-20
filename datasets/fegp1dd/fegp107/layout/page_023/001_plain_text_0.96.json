@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9575417041778564,
+    "bbox": [
+        289.54541015625,
+        471.7522888183594,
+        2082.90087890625,
+        697.9967041015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_023/001_plain_text_0.96.png",
+    "text": "Suppose\n36\n to\nin\nlowest terms. First,\nwe\n want\nexpress\n,we\nnotice\n60\nthat\nboth\nthe\ndenominator\neven. So,\nand\ndivide\nnumerator\nare\nwe\nboth by\n36\n18\n2,a\nand s\nsee that\n60\n30"
+}

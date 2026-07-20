@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8650603890419006,
+    "bbox": [
+        194.00355529785156,
+        555.4848022460938,
+        554.74072265625,
+        607.1513671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_008/005_plain_text_0.87.png",
+    "text": "2\nSin\nCOS\n1\n\u4e09"
+}

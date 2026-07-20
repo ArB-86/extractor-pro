@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.982602596282959,
+    "bbox": [
+        239.26951599121094,
+        2049.7138671875,
+        1796.0145263671875,
+        2433.284912109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_002/001_plain_text_0.98.png",
+    "text": "Expressing quantities in terms of powers of 10\n0 was explicitly used in\nthe\ne Rigveda, thus setting\nthe stage\nfor the number\nsystem based\ndon\npowers of 10 to be developed in India in the ensuing years, and which\nuse around the\n World today. The development of the Indian\nwenow\nsystem in terms of place values and\nnumeral\npowers of 10 also helped\npave the\nway\nfor what is\n6 perhaps\nthe most important mathematical\nt\ninvention in human history: the\ne concept of zero."
+}

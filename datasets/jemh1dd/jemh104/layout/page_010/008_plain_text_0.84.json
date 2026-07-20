@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8378927111625671,
+    "bbox": [
+        245.45408630371094,
+        1244.1656494140625,
+        1752.80859375,
+        1345.6859130859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/008_plain_text_0.84.png",
+    "text": "5. Is it possible to design a rectangular park of perimeter 80 m and area 400 m?? If so, find\nits length and breadth."
+}

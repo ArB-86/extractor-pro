@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9608243703842163,
+    "bbox": [
+        290.57452392578125,
+        2143.0263671875,
+        2088.53564453125,
+        2365.076416015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_021/001_plain_text_0.96.png",
+    "text": "Fill the grid with prime numbers only so that the product of each row\nis the number to the right of the row and the product of each column\nis the number below the column."
+}

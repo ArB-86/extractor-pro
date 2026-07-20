@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9139173626899719,
+    "bbox": [
+        374.4677429199219,
+        1692.7518310546875,
+        2087.29150390625,
+        1868.1390380859375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/003_plain_text_0.91.png",
+    "text": "a x a x a x b x b can be expressed as a?b\u00b2 (read as a cubed b squared).\na x a x b \u00d7 b \u00d7 b x b can be expressed as a?b4 (read as a squared b raised\nto the power 4)."
+}

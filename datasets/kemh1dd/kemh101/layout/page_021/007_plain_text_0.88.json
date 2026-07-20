@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.881676435470581,
+    "bbox": [
+        194.35060119628906,
+        580.5249633789062,
+        1206.873046875,
+        637.2196044921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/007_plain_text_0.88.png",
+    "text": "Example 24 List all the subsets of the set\n{ -1, 0, 1 }."
+}

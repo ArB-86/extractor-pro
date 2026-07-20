@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8699361085891724,
+    "bbox": [
+        192.10955810546875,
+        2428.34228515625,
+        1264.9632568359375,
+        2561.581298828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/007_plain_text_0.87.png",
+    "text": "2\n2\nTherefore, the roots of 3x\u00b2 -2V6x+ 2 = 0\nare\nV3\nN3"
+}

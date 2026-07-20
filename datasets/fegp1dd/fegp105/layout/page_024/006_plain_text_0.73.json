@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7327245473861694,
+    "bbox": [
+        371.8476257324219,
+        1544.940185546875,
+        2160.6826171875,
+        1603.7877197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_024/006_plain_text_0.73.png",
+    "text": "Q.3. Which numbers are both shaded and circled? What are these numbers called?"
+}

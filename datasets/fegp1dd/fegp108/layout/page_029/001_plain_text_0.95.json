@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9523758888244629,
+    "bbox": [
+        292.9623107910156,
+        1071.941162109375,
+        2090.505859375,
+        1352.6019287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_029/001_plain_text_0.95.png",
+    "text": "Part\nof t\nthe\nconstruction\nis S\nshown\nearlier. Observe\nit\ncarefully. You\nWill\ntwo\nhorizontal\nlines\ndrawn\nlightly.\nsee\nIn\ngeometric\nconstructions,\none\noften constructs supporting\nfigures\nthat are not part of the\ncurves or\ngiven\nfigure\nbut help\nin constructing\nit."
+}

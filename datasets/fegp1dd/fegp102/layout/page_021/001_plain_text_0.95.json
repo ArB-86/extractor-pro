@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9540835618972778,
+    "bbox": [
+        292.6787109375,
+        395.23980712890625,
+        2087.14208984375,
+        538.707275390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_021/001_plain_text_0.95.png",
+    "text": "360 equal angles or parts. The angle\n measure of each of these unit\nparts is 1 degree, which is written as 1\u00b0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7003470659255981,
+    "bbox": [
+        496.3802795410156,
+        399.1779479980469,
+        1792.7908935546875,
+        467.4107971191406
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_009/001_plain_text_0.70.png",
+    "text": "Similarly, a horizontal fold is represented as follows:"
+}

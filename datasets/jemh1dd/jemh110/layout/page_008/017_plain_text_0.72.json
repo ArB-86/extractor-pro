@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7164300680160522,
+    "bbox": [
+        191.0071563720703,
+        791.4741821289062,
+        1587.8438720703125,
+        848.82275390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_008/017_plain_text_0.72.png",
+    "text": "Note : TP can also be found by using t\nthe Pythagoras\nTheorem, as follows:"
+}

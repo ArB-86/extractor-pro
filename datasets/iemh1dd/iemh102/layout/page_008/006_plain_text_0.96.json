@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9571045637130737,
+    "bbox": [
+        264.17706298828125,
+        575.6561889648438,
+        1767.21923828125,
+        685.4467163085938
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/006_plain_text_0.96.png",
+    "text": "What amount will be left on the 15th day? How many\ndays will it take for\nthe entire amount to be spent?"
+}

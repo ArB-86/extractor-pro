@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8741922378540039,
+    "bbox": [
+        245.51022338867188,
+        1476.128173828125,
+        1008.2094116210938,
+        1626.323974609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/001_plain_text_0.87.png",
+    "text": "8.\nE is a point on\nthe side AD\nproduced of a\nparallelogram ABCD\nand BE intersects CD\nat F. Show that \u25b3ABE ~ \u25b3 CFB."
+}

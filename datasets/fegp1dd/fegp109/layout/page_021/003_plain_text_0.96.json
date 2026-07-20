@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9564617872238159,
+    "bbox": [
+        289.51318359375,
+        2247.734130859375,
+        2085.757080078125,
+        2394.5615234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_021/003_plain_text_0.96.png",
+    "text": "Like wheels, we can find other objects around us having rotational\nsymmetry. Find them. Some of them are shown below:"
+}

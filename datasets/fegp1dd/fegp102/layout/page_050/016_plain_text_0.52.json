@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.5237083435058594,
+    "bbox": [
+        391.2550048828125,
+        2948.8896484375,
+        2033.580322265625,
+        3012.22021484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_050/016_plain_text_0.52.png",
+    "text": "ZBXE = 115\u00b0\nZCXE = 85\u00b0\nZAXB = 65\u00b0\nZBXC = 30"
+}

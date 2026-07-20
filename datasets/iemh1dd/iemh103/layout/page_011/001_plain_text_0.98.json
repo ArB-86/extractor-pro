@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9764770865440369,
+    "bbox": [
+        235.38314819335938,
+        2356.836669921875,
+        1797.6966552734375,
+        2581.983154296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_011/001_plain_text_0.98.png",
+    "text": "Thus, t\nthe\nabsolute\ne value of a positive\nnumber\nis\nthe\nnumber\nitself.\nThe absolute value of a negative number is its positive value. Therefore,\nthe absolute value of\nany\nrational\nnumber\nis always\nnon-negative, that\nis,\nX\n> 0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9209259152412415,
+    "bbox": [
+        278.15771484375,
+        307.2587890625,
+        1797.7081298828125,
+        423.5856628417969
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_008/003_plain_text_0.92.png",
+    "text": "1.\nPlace Reiaan's rectangular study table with three of its feet at the\npoints (8, 9), (11, 9) and (11, 7)."
+}

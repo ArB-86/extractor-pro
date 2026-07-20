@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9057287573814392,
+    "bbox": [
+        616.5164794921875,
+        395.3321838378906,
+        2025.18408203125,
+        462.343505859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_025/005_plain_text_0.91.png",
+    "text": "What will be the year 320 y\nC.\nyears after 680 BCE?"
+}

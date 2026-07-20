@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9564470648765564,
+    "bbox": [
+        524.4043579101562,
+        1807.259765625,
+        2212.287109375,
+        1947.8802490234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_028/000_plain_text_0.96.png",
+    "text": "Take 5\ncm radius in the\nfrom A, (\ncompassa\nand j\ndraw\nthe\narc\ntouching B and C as shown in the figure."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9827394485473633,
+    "bbox": [
+        238.923828125,
+        1885.1978759765625,
+        1796.6016845703125,
+        2550.322509765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_003/000_plain_text_0.98.png",
+    "text": "In the chapters on integers, rational numbers, and decimals in earlier\ngrades, you studied the number line which is one-dimensional. The\ntwo-dimensional coordinate system uses two lines at right angles\nto each other to mark points in two-dimensional space (short form:\n2-D space). For convenience, we consider one ofthe lines to be horizontal;\nit is called the x-axis. The other line is vertical; it is called the y-axis. The\npoint of intersection of the x-axis and y-axis is called the origin O; its\ncoordinates are (O, O). Coordinate axes (this is the plural of \u2018axis') help us\nfrom O are marked off in equal units, on both the axes. Distances to the\nright of O or upwards from O are considered positive, and distances to\nthe left of O or downwards from O are considered negative (Fig. 1.2)."
+}

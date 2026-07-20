@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9792369604110718,
+    "bbox": [
+        192.91262817382812,
+        658.731689453125,
+        1754.731201171875,
+        838.8436889648438
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_003/002_plain_text_0.98.png",
+    "text": "In most of our real life situations, data is usually so large that to make a meaningful\nstudy it needs to be condensed as grouped data. So, we need to convert given ungrouped\ndata into grouped data and devise some method to find its mean."
+}

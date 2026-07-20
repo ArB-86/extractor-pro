@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5338925719261169,
+    "bbox": [
+        288.6438293457031,
+        2112.098388671875,
+        1110.0697021484375,
+        2161.864501953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/014_plain_text_0.53.png",
+    "text": "The\nreader\nr will\nextensive\nof the\nsee\nan\nuse"
+}

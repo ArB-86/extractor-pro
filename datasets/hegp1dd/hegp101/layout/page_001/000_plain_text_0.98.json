@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9785711169242859,
+    "bbox": [
+        377.3378601074219,
+        1072.55712890625,
+        2090.840087890625,
+        1492.935302734375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_001/000_plain_text_0.98.png",
+    "text": "Queen\nRatnamanjuri had a will\nWritten that described her fortune of\nratnas\ns (precious stones) and also included a puzzle. Her son Khoisnam\nand their 99 relatives were invited to the reading of her will. She wanted\nto leave all of her ratnas to her son, but she knew that if she did so, all\ntheir relatives would p\npester Khoisnam forever. She hoped that she had\ntaught him everything he needed to know about solving puzzles. She left\nthe following note in her will"
+}

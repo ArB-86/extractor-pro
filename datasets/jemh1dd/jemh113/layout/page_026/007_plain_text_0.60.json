@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.6040380001068115,
+    "bbox": [
+        192.74708557128906,
+        1747.62451171875,
+        570.53369140625,
+        1801.7529296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_026/007_plain_text_0.60.png",
+    "text": "U\nsing\nthe\nformula\nla"
+}

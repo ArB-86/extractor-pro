@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9070441126823425,
+    "bbox": [
+        375.0871887207031,
+        1567.238037109375,
+        1331.7938232421875,
+        1632.03466796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/005_plain_text_0.91.png",
+    "text": "Do you remember triangular numbers?"
+}

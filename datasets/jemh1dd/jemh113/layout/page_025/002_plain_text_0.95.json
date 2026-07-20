@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9516262412071228,
+    "bbox": [
+        193.29534912109375,
+        1512.9012451171875,
+        1754.0919189453125,
+        1622.5540771484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_025/002_plain_text_0.95.png",
+    "text": "This means that the height of about 50% of the girls is less than this height, and\n50% are taller than this height."
+}

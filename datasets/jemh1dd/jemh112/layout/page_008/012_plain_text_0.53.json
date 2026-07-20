@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5270460247993469,
+    "bbox": [
+        197.2605743408203,
+        1152.719482421875,
+        1551.452880859375,
+        1214.84521484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_008/012_plain_text_0.53.png",
+    "text": "And the total space occupied by the workers = 20 x 0.08 m? = 1.6\nm"
+}

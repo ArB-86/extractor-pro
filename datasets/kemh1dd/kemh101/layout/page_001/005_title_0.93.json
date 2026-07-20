@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9275959134101868,
+    "bbox": [
+        195.55763244628906,
+        1060.8175048828125,
+        542.57763671875,
+        1117.9859619140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/005_title_0.93.png",
+    "text": "Introduction"
+}

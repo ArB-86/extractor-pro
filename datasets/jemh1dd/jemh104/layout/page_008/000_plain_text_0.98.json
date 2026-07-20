@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9772233963012695,
+    "bbox": [
+        192.94728088378906,
+        1899.4837646484375,
+        1756.14306640625,
+        2119.800537109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/000_plain_text_0.98.png",
+    "text": "Example 8 : A pole has to be\nerected at a point on\nthe boundary of a circular park of\ndiameter\n13\nmetres\nin\nsuch\na way\nthat\nthe\ndifferences\nof its\ndistances\nfrom\ntwo\ndiametrically opposite fixed g\ngates A and B on the boundary is 7 1\n metres. Is it possible to\ndo so? If\nyes, at what\nt distances\nfrom\nthe two\ngates should the\npole be erected?"
+}

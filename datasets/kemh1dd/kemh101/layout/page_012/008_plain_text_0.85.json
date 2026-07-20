@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.854878306388855,
+    "bbox": [
+        199.21798706054688,
+        2138.070068359375,
+        1752.5880126953125,
+        2191.29052734375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/008_plain_text_0.85.png",
+    "text": "3\u3002\nLet A= { 1, 2, { 3, 4 }, 5 }. Which ofthe following statements are incorrect and why?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9742094874382019,
+    "bbox": [
+        418.5837097167969,
+        2137.8017578125,
+        2210.56201171875,
+        2429.40185546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_025/001_plain_text_0.97.png",
+    "text": "Like\nfractions,\nintegers\n(including\nand\nthe\ngeneral\ngeneral\nzero\nnegative numbers)\nwere first conceived ofand usedin Asia, thousands\nof\nyears\nago, before\nthey eventually spread\nacross\nthe\ne world in more\nmodern\ntimes."
+}

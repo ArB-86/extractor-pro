@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9571622014045715,
+    "bbox": [
+        420.7117004394531,
+        396.90643310546875,
+        2208.19775390625,
+        616.4180297851562
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_002/002_plain_text_0.96.png",
+    "text": "rangoli, the red p\npetals come back onto themselves when the flower\nis rotated by 90\u00b0\n  o       g\nrangoli."
+}

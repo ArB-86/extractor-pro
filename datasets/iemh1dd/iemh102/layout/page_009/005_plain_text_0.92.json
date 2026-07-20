@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9193102717399597,
+    "bbox": [
+        263.550537109375,
+        2227.335693359375,
+        1771.780517578125,
+        2334.893798828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/005_plain_text_0.92.png",
+    "text": "What is the cost for travelling 15 km? For how many kilometres will the cost\nof the journey be?7o0?"
+}

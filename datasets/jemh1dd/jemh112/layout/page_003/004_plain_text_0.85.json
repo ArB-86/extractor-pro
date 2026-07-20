@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8477569818496704,
+    "bbox": [
+        190.85971069335938,
+        2298.333740234375,
+        1444.6798095703125,
+        2402.73193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_003/004_plain_text_0.85.png",
+    "text": "1\nNow, the curved surface area of the hemisphere\n(4\u03c0r\u00b2)=2\u03c0r\u00b2\n\u4e00\n\u4e00\n2"
+}

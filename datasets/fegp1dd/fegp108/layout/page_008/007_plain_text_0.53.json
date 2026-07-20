@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5280889272689819,
+    "bbox": [
+        532.1461181640625,
+        1004.3229370117188,
+        2209.716064453125,
+        1138.2806396484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_008/007_plain_text_0.53.png",
+    "text": "1.\nDraw\nthe\nrectangle a\n and four squares configuration\n(shown\nin\nFig. 8.3) on a dot paper."
+}

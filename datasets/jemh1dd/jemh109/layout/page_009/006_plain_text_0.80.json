@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7987492084503174,
+    "bbox": [
+        192.30091857910156,
+        763.6637573242188,
+        1132.3460693359375,
+        839.7185668945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_009/006_plain_text_0.80.png",
+    "text": "\u221a3\nTherefore, the\nwidth of the river is 3\n3+1\nm"
+}

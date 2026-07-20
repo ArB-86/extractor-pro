@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7523283958435059,
+    "bbox": [
+        271.792236328125,
+        1711.5052490234375,
+        1666.98388671875,
+        1935.1375732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/010_plain_text_0.75.png",
+    "text": "For\ncalculating\nmode\nand\nmedian\nfor\ngrouped\ndata,\nit:\nshould\nbe\nensured\nthat\nthe class\nintervals\nare\ne continuous\nbefore\napplying\nthe\nformulae. Same\ncondition\nalso\napply\nfor\nconstruction\nof\nan\nOgive.\nFurther, in\n1 case of ogives, the scale\nmay\nt be the\nsame on\nboth the\nnot\naxes."
+}

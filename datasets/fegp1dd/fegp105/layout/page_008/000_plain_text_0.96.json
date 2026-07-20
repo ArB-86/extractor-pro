@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9646537899971008,
+    "bbox": [
+        458.031494140625,
+        1678.5181884765625,
+        2172.4267578125,
+        1893.42626953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_008/000_plain_text_0.96.png",
+    "text": "Food for thought: is there a largest\nprime\ne number? Or does the\nlist of prime numbers\ns go on without an end? A mathematician named\nEuclid found the answer and so will\nyou in a later class!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9029843211174011,
+    "bbox": [
+        193.7552032470703,
+        1346.0545654296875,
+        1755.9835205078125,
+        1456.6868896484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/006_plain_text_0.90.png",
+    "text": "Now, let the right circular cylinder EFGH circumscribe the given solid. The radius of\nthe base of the right circular cylinder = HP = BO = 2 cm, and its height is"
+}

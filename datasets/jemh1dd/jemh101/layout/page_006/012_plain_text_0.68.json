@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6777883172035217,
+    "bbox": [
+        281.1583251953125,
+        1702.3453369140625,
+        1630.972412109375,
+        1762.528076171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/012_plain_text_0.68.png",
+    "text": "Where p,P2, . . ., P,\na = PP2\nare\nprimes, not necessarily distinct.\n..\u00b7Pn,\nn"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7079229950904846,
+    "bbox": [
+        193.95225524902344,
+        1289.1676025390625,
+        1138.49462890625,
+        1341.5145263671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/010_plain_text_0.71.png",
+    "text": "Solution\n By the definition of the cartesian\nproduct,"
+}

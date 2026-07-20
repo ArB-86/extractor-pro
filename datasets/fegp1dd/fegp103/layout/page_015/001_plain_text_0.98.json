@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9821738004684448,
+    "bbox": [
+        293.2590637207031,
+        1703.8753662109375,
+        2085.68408203125,
+        2147.408935546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_015/001_plain_text_0.98.png",
+    "text": "At times, we may 1\nnot know or need\nan exact count of things and\nan estimate is sufficient for the\ne purpose at hand. For example,\nyour school headmaster might know the exact number of students\nenrolled in\n1 your school, but\nyou may \nonly\nknow an estimated\nthousand?"
+}

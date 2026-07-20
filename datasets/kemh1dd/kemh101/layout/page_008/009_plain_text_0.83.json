@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8256791830062866,
+    "bbox": [
+        294.9264221191406,
+        2036.0841064453125,
+        1213.70263671875,
+        2319.382568359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/009_plain_text_0.83.png",
+    "text": "The set of months of a year\n(ii)\n{1,2,3,\n(ii)\n{1,2,3,...99, 100}\n(iv)\nThe set of positive integers\ngreater than\n1 100\nThe set of prime numbers less than 99"
+}

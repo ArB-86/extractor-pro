@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8772401213645935,
+    "bbox": [
+        529.3203735351562,
+        636.2582397460938,
+        2208.485595703125,
+        707.068115234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_020/006_plain_text_0.88.png",
+    "text": "4\u3002\nFind out the number of acute angles in each of the figures below."
+}

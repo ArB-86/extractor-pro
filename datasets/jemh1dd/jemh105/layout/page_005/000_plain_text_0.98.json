@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9827643036842346,
+    "bbox": [
+        190.2072296142578,
+        845.1596069335938,
+        1754.1837158203125,
+        1175.6710205078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/000_plain_text_0.98.png",
+    "text": "So, if you know what a and d are, you can list the AP. What about the other way\nround? That is, if you are\ngiven a list of numbers can you say t\nthat it is an AP and then\nfind a and d? Since a is the first term, it can easily be written. We know that in an AP,\nsucceeding term is obtained by adding d to the preceding term. So, d found by\nevery\nsubtracting any term from its succeeding term, i.e., the term which immediately follows\nit should be same for an AP."
+}

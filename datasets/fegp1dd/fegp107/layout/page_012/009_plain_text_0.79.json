@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7908598184585571,
+    "bbox": [
+        518.9706420898438,
+        483.76031494140625,
+        1544.1539306640625,
+        564.8262329101562
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_012/009_plain_text_0.79.png",
+    "text": "7?\n1. 1\nHow many whole\nunits are\nthere\nin\n2"
+}

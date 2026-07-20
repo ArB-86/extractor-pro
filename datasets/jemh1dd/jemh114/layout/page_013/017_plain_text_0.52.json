@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5163612365722656,
+    "bbox": [
+        304.5857238769531,
+        1661.3629150390625,
+        1331.6617431640625,
+        1753.26904296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/017_plain_text_0.52.png",
+    "text": "2-\n(A)\n(B) -1.5\n(C)\n15%\n(D) 0.7\n3"
+}

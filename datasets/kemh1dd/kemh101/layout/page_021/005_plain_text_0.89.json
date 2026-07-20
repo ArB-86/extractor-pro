@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8945900797843933,
+    "bbox": [
+        191.48077392578125,
+        394.385009765625,
+        1055.8458251953125,
+        446.9051208496094
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/005_plain_text_0.89.png",
+    "text": "Let Y be the set of letters\nin\nTRACT. Then"
+}

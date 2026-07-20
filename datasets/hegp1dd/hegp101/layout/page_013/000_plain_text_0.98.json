@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9822662472724915,
+    "bbox": [
+        378.18963623046875,
+        1307.2464599609375,
+        1651.5013427734375,
+        1911.492919921875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_013/000_plain_text_0.98.png",
+    "text": "Once when Srinivasa Ramanujan was working with\nG. H. Hardy at the University of Cambridge, Hardy had\n         s\nill. Hardy had ridden in a taxicab numbered 1729 and\nhe remarked that 1729 was \u2018rather a dull number,\nadding that he hoped that this was not a bad sign.\nRamanujan immediately replied, \u201cNo, Hardy, it is a\nvery interesting number. It is the smallest number\nthat can be expressed as the sum of two cubes in two\ndifferent ways\"."
+}

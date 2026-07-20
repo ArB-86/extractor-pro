@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.8837425708770752,
+    "bbox": [
+        239.88136291503906,
+        2076.169189453125,
+        1717.60498046875,
+        2141.240478515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_008/004_title_0.88.png",
+    "text": "1.4\nDISTANCE\nBETWEEN\nTWO\nPOINTS\nIN'\nTHE\n2-D\nPLANE"
+}

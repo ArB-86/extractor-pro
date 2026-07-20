@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9316015243530273,
+    "bbox": [
+        192.93063354492188,
+        529.8692626953125,
+        1360.3538818359375,
+        586.4581298828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/004_plain_text_0.93.png",
+    "text": "So, to find the interest at the end of 30\nyears, we shall find\n0p1"
+}

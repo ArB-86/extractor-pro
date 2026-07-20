@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7661526203155518,
+    "bbox": [
+        293.48870849609375,
+        1288.2939453125,
+        1062.4737548828125,
+        1342.0037841796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/011_plain_text_0.77.png",
+    "text": "V = {x : x is a vowel in English alphabet}"
+}

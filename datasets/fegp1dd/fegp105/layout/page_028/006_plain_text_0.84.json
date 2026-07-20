@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8367109298706055,
+    "bbox": [
+        307.9757385253906,
+        1852.801513671875,
+        2186.65380859375,
+        1977.0814208984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_028/006_plain_text_0.84.png",
+    "text": "Q. While playing the \u201cidli-vada\u2019 game with different number pairs, Anshu observed\nsomething interesting!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9211949706077576,
+    "bbox": [
+        295.488037109375,
+        1853.0242919921875,
+        903.3533935546875,
+        1906.0185546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_009/006_plain_text_0.92.png",
+    "text": "Using the step-deviation method,"
+}

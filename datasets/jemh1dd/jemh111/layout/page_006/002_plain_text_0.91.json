@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9140974283218384,
+    "bbox": [
+        224.93618774414062,
+        1873.961669921875,
+        1117.9935302734375,
+        2095.712158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/002_plain_text_0.91.png",
+    "text": "13.A\nround\ntable\ncover\nhas\nSiX\nequal\ndesigns\nas\nshown in Fig. 11.11. If the radius of the cover is\n28 cm, find the cost of making the designs at the\nrate of  0.35 p\nper cm\u00b2. (Use \u221a3 = 1.7)"
+}

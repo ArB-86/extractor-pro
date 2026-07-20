@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9564443230628967,
+    "bbox": [
+        290.4615783691406,
+        2437.76025390625,
+        1802.8348388671875,
+        2728.726806640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_013/003_plain_text_0.96.png",
+    "text": "On a squared\ngrid\npaper\n(1 S\nsquare\n=1\nsquare\nunit),\nmake\nrectangles as\nwhose\nlengths\nmany\nand\nWidths\nas\nyou\ncan\nare\na whole\nr of units such that the area of the rectangle is\nnumber\n24S\nsquare units."
+}

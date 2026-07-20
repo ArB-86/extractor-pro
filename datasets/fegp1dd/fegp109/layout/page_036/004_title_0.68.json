@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "title",
+    "confidence": 0.6817348003387451,
+    "bbox": [
+        379.7348327636719,
+        2213.788330078125,
+        682.5424194335938,
+        2271.45361328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_036/004_title_0.68.png",
+    "text": "True\nF\nTalse\nor"
+}

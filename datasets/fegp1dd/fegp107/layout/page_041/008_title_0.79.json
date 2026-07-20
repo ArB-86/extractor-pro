@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "title",
+    "confidence": 0.7892653346061707,
+    "bbox": [
+        293.412353515625,
+        882.7916870117188,
+        1831.091796875,
+        947.6676635742188
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_041/008_title_0.79.png",
+    "text": "Q2. Can all fractions :\n greater than 1 be written as such mixed numbers?"
+}

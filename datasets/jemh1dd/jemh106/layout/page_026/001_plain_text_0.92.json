@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9190104603767395,
+    "bbox": [
+        273.6087341308594,
+        1076.4765625,
+        1664.919677734375,
+        1186.86376953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_026/001_plain_text_0.92.png",
+    "text": "If\nthis criterion in Example 2, Chapter 8, the proof will become\nyouuset\nsimpler."
+}

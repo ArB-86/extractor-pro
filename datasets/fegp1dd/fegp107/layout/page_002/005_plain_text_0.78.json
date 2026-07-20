@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7770025134086609,
+    "bbox": [
+        720.0541381835938,
+        399.33319091796875,
+        2213.255859375,
+        601.2562866210938
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_002/005_plain_text_0.78.png",
+    "text": "e one roti,\neach child\ngets a smaller share. So,\n1-2\nroti is\nsame\nmore than\n1-4\n1-2\n1-4"
+}

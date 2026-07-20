@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7366634011268616,
+    "bbox": [
+        193.0645751953125,
+        862.908447265625,
+        492.326171875,
+        911.7843627929688
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_011/007_plain_text_0.74.png",
+    "text": "Now,\nwe\nhave\n2"
+}

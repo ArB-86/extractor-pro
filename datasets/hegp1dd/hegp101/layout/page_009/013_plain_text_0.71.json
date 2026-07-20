@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7064871788024902,
+    "bbox": [
+        481.08184814453125,
+        2065.671630859375,
+        2089.980224609375,
+        2767.129638671875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/013_plain_text_0.71.png",
+    "text": "(i)\n1936 is between 1600 (40\") and 2500 (50\"), s0 40 < \u221a1936 < 50.\n(ii)\nThe last digit of 1936 is 6. So, the last digit of the square root\nmust either be 4 or 6. It can be 44 or 46.\n(iii)\nIf we calculate 45?, we can compare it with 1936 to halve\nthe interval to search from 40-50 to either 40-45 or 45-50.\nWe can write 45\u00b2 as (40 + 5) (40 + 5) = 40\u00b2 + 2 x 40 \u00d7 5 + 52\n= 1600 + 400 + 25 = 2025.\n(iv)\n2025 > 1936. S0, 40 < \u221a1936 < 45\n(v)\nFrom the observation in point b we can guess and then verify\nthat \u221a1936 is 44."
+}

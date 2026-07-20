@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7512277960777283,
+    "bbox": [
+        618.8936767578125,
+        397.2875671386719,
+        1881.33154296875,
+        529.8274536132812
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_020/007_plain_text_0.75.png",
+    "text": "Sum of two even numbers\na.\ngives a multiple of 4.\nb.\nSum of two odd\nnumbers\ngives a multiple of 4."
+}

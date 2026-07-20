@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6672160625457764,
+    "bbox": [
+        297.2287292480469,
+        749.4719848632812,
+        1792.1815185546875,
+        873.9539794921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/008_plain_text_0.67.png",
+    "text": "Fortunes (Dhana): Positive numbers, representing wealth or assets.\nDebts"
+}

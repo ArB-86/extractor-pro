@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9475317001342773,
+    "bbox": [
+        190.0968017578125,
+        396.2113952636719,
+        1751.0736083984375,
+        507.3922424316406
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/000_plain_text_0.95.png",
+    "text": "a, is also called the general term of the AP. If there are m terms in the AP, then\nrepresents the last term which is sometimes also denoted by l.\na"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9722985625267029,
+    "bbox": [
+        418.8431701660156,
+        1558.343505859375,
+        2210.18359375,
+        1780.9935302734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_022/003_plain_text_0.97.png",
+    "text": "The circle has been divided into 1, 2, 3, 4, 5, 6, 8, 9 10 and 12 parts\nbelow. What are the degree measures of the resulting angles? Write\nthe degree measures down near the indicated angles."
+}

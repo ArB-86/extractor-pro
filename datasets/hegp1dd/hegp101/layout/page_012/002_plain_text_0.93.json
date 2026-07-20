@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9313359260559082,
+    "bbox": [
+        378.257568359375,
+        1235.1497802734375,
+        1683.343994140625,
+        1473.633056640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/002_plain_text_0.93.png",
+    "text": "Ithas\ns 64 unit cubes! Ifyou notice carefully, each layer\nof this cube has 4 \u00d7 4 unit cubes. Each square layer\nchas\n16\nunit cubes\ns (4 \u00d7 4), and there are 4 such layers, so the\nnumber of unit\nt cubes is 4 x 4 x 4 = 64.\ntotal"
+}

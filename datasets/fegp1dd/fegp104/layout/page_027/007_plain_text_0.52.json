@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.5207415819168091,
+    "bbox": [
+        498.1397399902344,
+        1979.268798828125,
+        2170.583740234375,
+        2399.856689453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_027/007_plain_text_0.52.png",
+    "text": "We must decide the scale\ne (for example, 1 unit length = 1 student\nor 1 unit length =  200) for a bar g\ngraph on the basis of the data\nincluding\ng the minimum and maximum frequencies, so that the\nresulting bar graph fits nicely and looks visually appealing on the\npaper or poster we are preparing. The markings of the unit lengths\nas per the scale must start from zero."
+}

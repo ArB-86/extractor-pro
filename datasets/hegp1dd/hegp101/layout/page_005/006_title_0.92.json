@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9177430272102356,
+    "bbox": [
+        376.0380554199219,
+        1921.72705078125,
+        1422.671630859375,
+        1992.933349609375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_005/006_title_0.92.png",
+    "text": "Perfect Squares\nand Odd Numbers"
+}

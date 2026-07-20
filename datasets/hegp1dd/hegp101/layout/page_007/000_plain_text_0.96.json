@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9635605812072754,
+    "bbox": [
+        376.0472106933594,
+        285.9690856933594,
+        2092.1240234375,
+        531.9285278320312
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/000_plain_text_0.96.png",
+    "text": "Thus, we\nthat\nnatural\nnumber\niS\nnot a\nperfect s\nif it\ncan\nsay\naj\nsquare\ncannot be expressed a\n as a sum ofsuccessive odd natural\nnumbers starting\nfrom\n1.We can\nthis\n result to find out whether a natural\nnumber is\nuse\na\nperfect square."
+}

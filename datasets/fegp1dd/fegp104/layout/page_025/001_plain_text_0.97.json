@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9662267565727234,
+    "bbox": [
+        625.713134765625,
+        2620.332275390625,
+        2215.37744140625,
+        2841.260986328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_025/001_plain_text_0.97.png",
+    "text": "Draw a\nbar\nillustrate the above\ndata\ntaking\na\ngraph\n to\nthe scale of\n1\nlength\nstudents.\n. Which\nactivity\nunit\n5\niS\npreferred\nby\n\u4e8c\nmost\nstudents\nother\nthan\nplaying?"
+}

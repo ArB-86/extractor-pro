@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9763998985290527,
+    "bbox": [
+        192.54417419433594,
+        1479.5767822265625,
+        1755.574951171875,
+        1651.7777099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_003/000_plain_text_0.98.png",
+    "text": "Solution : In the experiment of tossing a coin once, the number of possible outcomes\nis two -Head (H) a\nand Tail (T). Let E be the event\ngetting a head'. The number of\noutcomes favourable to E, (i.e., of getting a head) is 1. Therefore,"
+}

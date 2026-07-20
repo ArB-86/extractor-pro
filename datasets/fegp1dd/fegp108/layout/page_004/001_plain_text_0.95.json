@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9541027545928955,
+    "bbox": [
+        522.050537109375,
+        1872.8316650390625,
+        2203.202880859375,
+        2013.4144287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_004/001_plain_text_0.95.png",
+    "text": "You might have\nfigured out a way of drawing\ng the first part. For\ndrawing the second part, see this."
+}

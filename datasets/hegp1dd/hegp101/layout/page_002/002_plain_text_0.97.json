@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9681873917579651,
+    "bbox": [
+        376.96380615234375,
+        286.39288330078125,
+        2091.857421875,
+        528.4678955078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/002_plain_text_0.97.png",
+    "text": "If a locker is toggled an odd number oftimes, it will be open. Otherwise,\nit\nwill be closed. The\nnumber\ntimes a locker\nis toggled is the same\nof t\nas\nthe\nnumber\nof factors of the locker\nnumber. For\nexample, for\nlocker\n#6\uff0c\nPerson 1 opens it, Person 2\n2 closes it, Person 3 opens it and Person\n6 closes"
+}

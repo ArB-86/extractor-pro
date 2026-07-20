@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.5212186574935913,
+    "bbox": [
+        370.8418884277344,
+        2337.9716796875,
+        2183.770263671875,
+        2404.286376953125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_024/012_plain_text_0.52.png",
+    "text": "How tall is the Kunchikal waterfall compared to the building?\n?410m."
+}

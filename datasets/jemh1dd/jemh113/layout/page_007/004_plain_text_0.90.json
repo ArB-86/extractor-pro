@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8982263803482056,
+    "bbox": [
+        192.9460906982422,
+        1780.525390625,
+        1081.74560546875,
+        1833.6329345703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_007/004_plain_text_0.90.png",
+    "text": "So, the mean marks obtained by\nY a student is 62."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8865485787391663,
+    "bbox": [
+        247.24301147460938,
+        538.2384643554688,
+        1752.706298828125,
+        716.4334106445312
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_007/002_plain_text_0.89.png",
+    "text": "1. Length of an arc of a sector of a circle with radius r and angle with degree measure O is\nX 2\u03c0 r.\n360"
+}

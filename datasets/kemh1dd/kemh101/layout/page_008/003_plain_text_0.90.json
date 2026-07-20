@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9014308452606201,
+    "bbox": [
+        193.7952880859375,
+        1685.091552734375,
+        1236.9556884765625,
+        1737.1209716796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/003_plain_text_0.90.png",
+    "text": "1.\nWhich of the following\nare examples of the null s\nset"
+}

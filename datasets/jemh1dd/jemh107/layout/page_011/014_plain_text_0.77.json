@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7742565274238586,
+    "bbox": [
+        192.13002014160156,
+        1820.6265869140625,
+        947.0760498046875,
+        2003.450927734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/014_plain_text_0.77.png",
+    "text": "Solution\nn : Let P\nand Q be the\npoints of\ntrisection\nof AB\ni.e.,\nAP\nPQ\n\u4e8c\nQB\n(see l\nFig. 7.11)."
+}

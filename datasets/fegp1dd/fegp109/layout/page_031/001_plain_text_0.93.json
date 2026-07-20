@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9266862869262695,
+    "bbox": [
+        408.1145935058594,
+        1838.36572265625,
+        1411.9456787109375,
+        2096.023681640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_031/001_plain_text_0.93.png",
+    "text": "a. A f\nfigure\nwith\nexactly\nline of \nSymmetry\none\nb. A figure\newith\nexactly\ntwo\nlines\nof\nsymmetry\nc. A \nfigure\nwith\nexactly\nfour\nlines\nof\nsymmetry"
+}

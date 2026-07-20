@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9187003374099731,
+    "bbox": [
+        248.04412841796875,
+        2034.2791748046875,
+        1753.052001953125,
+        2136.193603515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_007/001_plain_text_0.92.png",
+    "text": "4.\nWhich of the following are APs ? If they form an AP, find the common difference d and\nWrite three more terms."
+}

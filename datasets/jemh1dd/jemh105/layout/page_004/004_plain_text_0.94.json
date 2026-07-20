@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9448477625846863,
+    "bbox": [
+        193.42547607421875,
+        1588.66943359375,
+        1753.060791015625,
+        1695.9620361328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/004_plain_text_0.94.png",
+    "text": "represents an arithmetic progression where a is the first term and d the common\ndifference. This is called the general form of an AP."
+}

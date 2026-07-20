@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9696406722068787,
+    "bbox": [
+        417.86590576171875,
+        1807.685302734375,
+        2209.129150390625,
+        2021.3753662109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_001/002_plain_text_0.97.png",
+    "text": "We t\nthen learned about\nt more\nnumbers\nthat exist between\nthe\n13 . These are called\nnumbers\n0,1,2,3,4, ... , such as\n1\n3\n,and\n-2\n2\n6\nfractions."
+}

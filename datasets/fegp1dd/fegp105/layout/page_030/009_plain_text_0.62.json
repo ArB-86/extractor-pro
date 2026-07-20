@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.6186900734901428,
+    "bbox": [
+        289.7923583984375,
+        2659.627197265625,
+        1129.706298828125,
+        3125.87646484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_030/009_plain_text_0.62.png",
+    "text": "3\u00d73\u00d75\u00d75\nAns.\na. No\n3\u00d73\u00d73\n2\u00d72\u00d72\u00d72\u00d72\u00d73\nb. Yes\n2\u00d72\u00d72\u00d73\n7\u00d77\u00d77\nNo\nC.\n17\n3\u00d73\u00d73\u00d73\u00d737\nd.\nNo\n3\u00d73\u00d711"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.5454018115997314,
+    "bbox": [
+        292.3614196777344,
+        2299.172607421875,
+        986.8583984375,
+        2365.10791015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_016/012_plain_text_0.55.png",
+    "text": "Example: Let us subtract:"
+}

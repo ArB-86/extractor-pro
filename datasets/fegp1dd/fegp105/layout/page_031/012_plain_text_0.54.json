@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.5445408225059509,
+    "bbox": [
+        294.6746826171875,
+        649.4200439453125,
+        1779.139892578125,
+        711.7737426757812
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_031/012_plain_text_0.54.png",
+    "text": "Q.4. Guna says, \u201cAny two prime numbers are co-prime\". Is he right?"
+}

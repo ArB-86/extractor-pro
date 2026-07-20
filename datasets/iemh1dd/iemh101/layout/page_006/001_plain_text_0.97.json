@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9718372821807861,
+    "bbox": [
+        241.53147888183594,
+        1118.148193359375,
+        1796.20068359375,
+        1452.345947265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_006/001_plain_text_0.97.png",
+    "text": "Can\nthe\nmeaning\nof\nthe\ncoordinates\nof\nsee\na point\nin\nyou\nnow\nthe\ncoordinates of a point\n2-D\nspace?\nIn\ngeneral,\nt P in\n2-D\nspace\nare\nrepresented by\n(x, y). Here, x represents t\nthe\nperpendicular c\ndistance of\nP from the y-axis, measured along \ng the x-axis, and y is the perpendicular\ndistance\nof P\nfrom\nthe\nX-axis, measured\nalong\nthe\ny-axis. x is\nthe\nx-coordinate and y is the\ny-coordinate of the point\n(x, y)."
+}

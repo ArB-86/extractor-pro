@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8762916922569275,
+    "bbox": [
+        280.0765686035156,
+        1926.2562255859375,
+        1798.668212890625,
+        2218.095947265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_013/005_plain_text_0.88.png",
+    "text": "14.\nA city\nhas\ntwo\nmain roads\ns which\ncross\neach other at the\ncentre\nof\nthe\ncity.\nThese\ntwo\nroads\nalong\nare\nthe\nNorth-South\n(N-S)\ndirection and East-West\n(E-W) direction. All t\nthe other streets of\nthe city r\n  e     a  n  \n10s\nstreets in each direction."
+}

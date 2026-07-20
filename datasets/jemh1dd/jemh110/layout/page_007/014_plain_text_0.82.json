@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8193950057029724,
+    "bbox": [
+        191.60885620117188,
+        2494.7783203125,
+        1139.2235107421875,
+        2570.597412109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_007/014_plain_text_0.82.png",
+    "text": "Also,\nOR =\nOP2\n- PR\n2\n\u221a52-42\n\u4e09\ncm = 3 cm."
+}

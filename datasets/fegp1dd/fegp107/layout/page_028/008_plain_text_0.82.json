@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8192639946937561,
+    "bbox": [
+        505.643310546875,
+        582.4296264648438,
+        2048.466552734375,
+        655.9274291992188
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_028/008_plain_text_0.82.png",
+    "text": "Let us write the equivalent fraction for each\ngiven fraction"
+}

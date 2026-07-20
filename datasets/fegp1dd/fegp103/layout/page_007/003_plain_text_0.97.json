@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9691288471221924,
+    "bbox": [
+        292.2523498535156,
+        490.943359375,
+        1296.2093505859375,
+        711.667236328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_007/003_plain_text_0.97.png",
+    "text": "writing\nAfter\nnumbers\nfrom\n1 to\n100,\nDinesh\nWondered how:\nmany\ntimes\nhe\nwould have\ne Written\nthe digit \u20187'!"
+}

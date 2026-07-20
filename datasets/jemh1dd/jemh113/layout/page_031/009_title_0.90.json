@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "title",
+    "confidence": 0.904902994632721,
+    "bbox": [
+        707.7064819335938,
+        1608.5211181640625,
+        1236.537109375,
+        1668.7894287109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/009_title_0.90.png",
+    "text": "A NOTE TO THE READER"
+}

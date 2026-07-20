@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9713728427886963,
+    "bbox": [
+        193.3736572265625,
+        704.5343627929688,
+        1753.7674560546875,
+        920.6158447265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_002/003_plain_text_0.97.png",
+    "text": "Take\ne any collection of prime\nnumbers, say 2,3,7, 11\nand 23. If\nwe multiply\nsome or all of these\nnumbers, allowing\nthem\nn to repeat as\ntimes as\n we wish,\nmany\nproduce a large collection\nn of positive\nintegers\n(In fact,\ninfinitely\nmany).\nwe\ncan\nLet us\nlist a few :"
+}

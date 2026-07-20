@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "title",
+    "confidence": 0.8753120303153992,
+    "bbox": [
+        420.1346740722656,
+        1201.0673828125,
+        914.960205078125,
+        1269.6883544921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_024/007_title_0.88.png",
+    "text": "L\nSummarise!\net's\nS"
+}

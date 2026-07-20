@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "title",
+    "confidence": 0.7229595184326172,
+    "bbox": [
+        295.6042785644531,
+        1357.1513671875,
+        560.8908081054688,
+        1417.736572265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_049/003_title_0.72.png",
+    "text": "P\nNo.\nage\n36"
+}

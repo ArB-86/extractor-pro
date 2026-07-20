@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6555652618408203,
+    "bbox": [
+        193.60333251953125,
+        1223.823974609375,
+        1115.77880859375,
+        1274.7486572265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_004/015_plain_text_0.66.png",
+    "text": "Here,l\nBC\nrepresents\nthe ladder. We\nneed to find"
+}

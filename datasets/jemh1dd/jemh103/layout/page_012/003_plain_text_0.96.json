@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9556447863578796,
+    "bbox": [
+        193.12937927246094,
+        843.0188598632812,
+        1751.9097900390625,
+        953.0997314453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/003_plain_text_0.96.png",
+    "text": "Step 2 : Then add or subtract one equation from the other so that one variable gets\neliminated. If you get an equation in one variable, go to Step 3."
+}

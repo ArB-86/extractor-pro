@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7372391819953918,
+    "bbox": [
+        463.7759704589844,
+        2037.934814453125,
+        2083.59326171875,
+        2168.212158203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_003/004_plain_text_0.74.png",
+    "text": "One and a half, three\nquarters, one and a quarter, half, 9\nquarter,\ntwo and a half."
+}

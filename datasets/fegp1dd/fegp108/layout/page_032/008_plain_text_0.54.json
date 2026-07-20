@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5376448631286621,
+    "bbox": [
+        296.332275390625,
+        429.27001953125,
+        1235.2481689453125,
+        486.1130065917969
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_032/008_plain_text_0.54.png",
+    "text": "Ans. PQSR is r\nnot a name\nfor the\ngiven square."
+}

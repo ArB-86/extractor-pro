@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.7050495743751526,
+    "bbox": [
+        402.08380126953125,
+        1014.25830078125,
+        2088.295166015625,
+        1174.1270751953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_027/003_plain_text_0.71.png",
+    "text": "#\nWhen folded, this is\n of the circle, or\nof 360\u00b0\n1\n of 90\u00b0=\nof 180\u00b0 0r\nor"
+}

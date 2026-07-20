@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8264895677566528,
+    "bbox": [
+        244.84266662597656,
+        394.6929931640625,
+        1594.208251953125,
+        447.4512023925781
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_030/010_plain_text_0.83.png",
+    "text": "5.T\n The following table gives the distribution of the life time of 400 neon lamps"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.932619035243988,
+    "bbox": [
+        236.26699829101562,
+        1859.12939453125,
+        1753.4609375,
+        1969.202392578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/004_plain_text_0.93.png",
+    "text": "If Hamida's birthday is different from Savita's, the number of favourable outcomes\nfor her birthday is 365 - 1 = 364"
+}

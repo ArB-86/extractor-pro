@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8783560991287231,
+    "bbox": [
+        438.82733154296875,
+        2623.172119140625,
+        1649.9522705078125,
+        2686.801513671875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_004/008_plain_text_0.88.png",
+    "text": "Write each of the numbers\ngiven\nbelow in words:"
+}

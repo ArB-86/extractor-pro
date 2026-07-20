@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9676162600517273,
+    "bbox": [
+        192.6866912841797,
+        414.2625732421875,
+        1006.9480590820312,
+        1054.485595703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_005/000_plain_text_0.97.png",
+    "text": "Example 3 : A wooden toy rocket is in the\nshape of a cone mounted on a cylinder, as\nshown in Fig. 12.8. The height of the entire\nrocket is 26 cm, while the height of the conical\npart is 6 cm. The base of the conical portion\nhas a diameter of 5 cm, while the base\ndiameter of the cylindrical portion is 3 cm. If\nthe conical portion is to be painted orange\nand the cylindrical portion yellow, find the\narea of the rocket painted with each of these\ncolours. (Take \u03c0 = 3.14)"
+}

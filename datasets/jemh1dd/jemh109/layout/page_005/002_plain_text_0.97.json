@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9743608832359314,
+    "bbox": [
+        192.6060028076172,
+        400.1611022949219,
+        1119.985107421875,
+        643.9047241210938
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_005/002_plain_text_0.97.png",
+    "text": "Example 3 : An observer\n1.5\nm tallis 28.5\nm away\nfrom a chimney. The angle of elevation of the top\nof t\nthe chimney\nfrom\nher\neyes is 45\u00b0. What is the\nheight of the chimney?"
+}

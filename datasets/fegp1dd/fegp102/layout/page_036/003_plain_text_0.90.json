@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.9014944434165955,
+    "bbox": [
+        498.25189208984375,
+        1406.935302734375,
+        2215.027099609375,
+        2531.992431640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_036/003_plain_text_0.90.png",
+    "text": "Team 1 secretly choose an angle measure, for example, 49\u00b0 and\nmakes an angle with that measure using a protractor without\nTeam 2 being able to see it.\nTeam 2 now gets to look at the angle. They have to quickly\ndiscuss and guess the number of degrees in the angle (without\nusing a protractor!).\nTeam 1 now demonstrates the true measure of the angle with\na protractor.\nTeam 2 scores the number of points that is the absolute\n        s\ns   s g    \n10 points (49\u00b0-39\u00b0).\nEach team gets five turns. The winner is the team with the\nlowest score!"
+}

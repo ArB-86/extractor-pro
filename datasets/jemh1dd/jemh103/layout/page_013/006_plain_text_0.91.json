@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9050236344337463,
+    "bbox": [
+        194.5970001220703,
+        1028.972900390625,
+        1201.718017578125,
+        1083.4967041015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/006_plain_text_0.91.png",
+    "text": "We are also given\nthat the digits differ by 2, therefore,"
+}

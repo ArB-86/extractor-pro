@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9269599318504333,
+    "bbox": [
+        191.82984924316406,
+        2317.667236328125,
+        1030.7603759765625,
+        2370.80322265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/007_plain_text_0.93.png",
+    "text": "Putting\nthis value of t in Equation\n(2),\nwe\nget"
+}

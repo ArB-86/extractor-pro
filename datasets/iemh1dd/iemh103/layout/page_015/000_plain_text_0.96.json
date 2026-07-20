@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9614669680595398,
+    "bbox": [
+        236.77662658691406,
+        305.9251403808594,
+        1798.878173828125,
+        436.16241455078125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_015/000_plain_text_0.96.png",
+    "text": "Because our logical steps are flawless, our initial assumption must be\nWrong. Therefore, \u221a2\ncannot be expressed as a fraction. It is irrational."
+}

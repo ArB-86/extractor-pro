@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9592854976654053,
+    "bbox": [
+        420.0904846191406,
+        771.9041748046875,
+        2210.148193359375,
+        918.299560546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_012/001_plain_text_0.96.png",
+    "text": "Here, using the numbers in the boxes, we are allowed to use both addition\nand subtraction to get the required number. An example is shown."
+}

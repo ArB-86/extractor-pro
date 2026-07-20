@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9797134399414062,
+    "bbox": [
+        192.13230895996094,
+        397.0693359375,
+        1114.3916015625,
+        996.652099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_004/000_plain_text_0.98.png",
+    "text": "Example 2 : An electrician has to repair an\nelectric fault on a pole of height 5 m. She needs\nto reach a point 1.3m below the top of the pole\nto undertake the repair work (see Fig. 9.5). What\nshould be the length of the ladder that she should\nuse which, when inclined at an angle of 60\u00b0 to\nthe horizontal, would enable her to reach the\nrequired position? Also, how far from the foot\nof the pole should she place the foot of the\nladder? (You may take \u221a3 = 1.73)"
+}

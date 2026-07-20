@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7230275869369507,
+    "bbox": [
+        245.74838256835938,
+        419.263427734375,
+        1062.7803955078125,
+        594.2640991210938
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/006_plain_text_0.72.png",
+    "text": "QR\nQT\n4.\nIn Fig. 6.36,\nand 1 = Z 2.Show\nQS\nPR\nthat \u25b3 PQS ~\u25b3 TQR."
+}

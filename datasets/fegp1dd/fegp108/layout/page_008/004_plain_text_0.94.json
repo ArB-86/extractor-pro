@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9360925555229187,
+    "bbox": [
+        419.55975341796875,
+        696.0892944335938,
+        1625.7994384765625,
+        837.04736328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_008/004_plain_text_0.94.png",
+    "text": "By the same reasoning, a rotated rectangle\nis still\na rectangle."
+}

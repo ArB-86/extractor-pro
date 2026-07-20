@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6101173162460327,
+    "bbox": [
+        545.675537109375,
+        1716.142333984375,
+        2075.2431640625,
+        1779.2451171875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/017_plain_text_0.61.png",
+    "text": "hether1156 and 2800 are perfect squares usingprime factorisation"
+}

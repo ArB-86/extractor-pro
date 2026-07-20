@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7923548817634583,
+    "bbox": [
+        193.1479034423828,
+        539.37451171875,
+        1652.25634765625,
+        725.4138793945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_010/002_plain_text_0.79.png",
+    "text": "1.\nThe\nmeaning\ng of a tangent to a circle.\n2.\nThe\ne tangent to a circle is\nperpendicular to the\nradius\nthrough the\npoint of contact.\n3.\nThe lengths of the\ne two tangents\nfrom\nan external\npoint to a circle\naree\nequal."
+}

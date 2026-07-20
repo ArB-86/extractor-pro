@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8351221084594727,
+    "bbox": [
+        340.1714782714844,
+        2164.74658203125,
+        1582.251220703125,
+        2220.10791015625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_018/012_plain_text_0.84.png",
+    "text": "A'\n{x : x e U and x  A}. This leads to the following\ndefinition."
+}

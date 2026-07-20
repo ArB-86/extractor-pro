@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8391513824462891,
+    "bbox": [
+        528.0367431640625,
+        979.346923828125,
+        2213.44580078125,
+        1797.7955322265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_014/011_plain_text_0.84.png",
+    "text": "1. Find the prime factorisations of the following numbers: 64, 104,\n105,243, 320, 141, 1728, 729, 1024, 1331,1000.\n2\u3002\nThe prime factorisation of a number has one 2, two 3s, and one\n11. What is the number?\n3. Find three prime numbers, allless than 30, whose productis 1955.\nFind the prime factorisation ofthese numbers without multiplying\n4\u3002\nfirst\na. 56 x 25 b. 108 x 75 c. 1000 x 81\n5. What is the smallest number whose prime factorisation has:\na. three different prime numbers?\nb. four different prime numbers?"
+}

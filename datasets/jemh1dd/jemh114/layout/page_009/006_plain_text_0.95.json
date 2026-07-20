@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9534292221069336,
+    "bbox": [
+        192.9826202392578,
+        822.0866088867188,
+        1753.541015625,
+        933.4105224609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/006_plain_text_0.95.png",
+    "text": "The outcomes favourable to the event\nt E,\u2018at least one head' are\n(H, H), (H, T)\nand\n(T, H). (Why?)"
+}

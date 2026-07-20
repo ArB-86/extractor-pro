@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8081650733947754,
+    "bbox": [
+        193.2686767578125,
+        1186.08154296875,
+        1092.0587158203125,
+        1240.7225341796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/014_plain_text_0.81.png",
+    "text": "2. In Example 1,\n, we note that : P(E) + P(F) = 1"
+}

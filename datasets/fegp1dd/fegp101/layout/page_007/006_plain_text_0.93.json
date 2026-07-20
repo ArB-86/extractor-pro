@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9331427216529846,
+    "bbox": [
+        291.5914611816406,
+        1521.4881591796875,
+        2082.833740234375,
+        1662.1875
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_007/006_plain_text_0.93.png",
+    "text": "first 1o odd numbers?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.972599446773529,
+    "bbox": [
+        192.98312377929688,
+        2366.589599609375,
+        1753.21435546875,
+        2531.582763671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_002/002_plain_text_0.97.png",
+    "text": "Let us refer to Fig. 9.1 again. If you want to find the height CD of the minar\nwithout actually measuring it, what information do you need? You would need to know\nthefollowing:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6723259687423706,
+    "bbox": [
+        189.6536102294922,
+        1731.9359130859375,
+        1624.7215576171875,
+        1785.5819091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/013_plain_text_0.67.png",
+    "text": "So, the given list of numbers forms an AP with the common difference d = 6."
+}

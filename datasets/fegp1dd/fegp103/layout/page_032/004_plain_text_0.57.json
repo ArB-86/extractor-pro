@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5717839598655701,
+    "bbox": [
+        297.7004699707031,
+        2184.56884765625,
+        2184.66064453125,
+        2304.369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_032/004_plain_text_0.57.png",
+    "text": "Q.10 Starting with 0, players alternate adding numbers between 1 and 3. The first person\nto reach 22 wins. What is the winning strategy now?"
+}

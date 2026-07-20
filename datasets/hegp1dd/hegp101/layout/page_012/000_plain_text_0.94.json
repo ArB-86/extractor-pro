@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9437355995178223,
+    "bbox": [
+        286.9623107910156,
+        1096.21435546875,
+        1820.427734375,
+        1220.8258056640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/000_plain_text_0.94.png",
+    "text": "?\nCan you estimate the number of unit cubes in a cube with an\nedge length of 4 units?"
+}

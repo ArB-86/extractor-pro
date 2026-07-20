@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8873703479766846,
+    "bbox": [
+        291.5238342285156,
+        947.8402099609375,
+        1221.3148193359375,
+        1000.1355590820312
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/006_plain_text_0.89.png",
+    "text": "A = {1, 2,3} i\nis a proper subset of B = {1, 2, 3, 4}."
+}

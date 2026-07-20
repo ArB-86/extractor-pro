@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5933184623718262,
+    "bbox": [
+        191.2716522216797,
+        1392.654052734375,
+        798.8421020507812,
+        1446.861572265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/017_plain_text_0.59.png",
+    "text": "So,\nP(E) +\n+ P(not E)\n\u4e8c\n1"
+}

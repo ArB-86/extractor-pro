@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.925117552280426,
+    "bbox": [
+        234.84812927246094,
+        2253.379638671875,
+        1315.1431884765625,
+        2311.6630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_003/009_plain_text_0.93.png",
+    "text": "(i)\nyellow ball?\n(ii)\nred ball?\n(ii)\nblue ball?"
+}

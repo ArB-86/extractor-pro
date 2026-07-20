@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9582326412200928,
+    "bbox": [
+        247.38638305664062,
+        1794.45556640625,
+        1752.297119140625,
+        1893.70361328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/002_plain_text_0.96.png",
+    "text": "1. Fill in the blanks in the following table, given that a is the first term, d the common\ndifference and a the nth term of the AP:"
+}

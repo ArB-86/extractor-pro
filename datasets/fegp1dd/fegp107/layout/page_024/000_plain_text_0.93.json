@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9332914352416992,
+    "bbox": [
+        418.4745178222656,
+        1403.44482421875,
+        2210.174072265625,
+        1622.8858642578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_024/000_plain_text_0.93.png",
+    "text": "Step 1: Change\nthe\ngiven\nfractions to equivalent fractions so\nthat\nthey all\nare expressed with the same denominator or same\nfractional unit."
+}

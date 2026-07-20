@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9653258323669434,
+    "bbox": [
+        237.87109375,
+        1553.9656982421875,
+        1795.69775390625,
+        1665.033203125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_009/000_plain_text_0.97.png",
+    "text": "       e    \ndo we find the lengths of its sides AD, DM and MA?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.9017135500907898,
+    "bbox": [
+        871.1092529296875,
+        752.7894897460938,
+        1077.082275390625,
+        808.6693115234375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/002_title_0.90.png",
+    "text": "Summary"
+}

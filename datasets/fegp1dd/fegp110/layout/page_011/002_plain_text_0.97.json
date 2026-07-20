@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9721571803092957,
+    "bbox": [
+        418.306396484375,
+        2312.06787109375,
+        2209.947265625,
+        2529.1455078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_011/002_plain_text_0.97.png",
+    "text": "Smaller numbers\n now to the left of bigger\ns are j\nnumbers and\nbigger numbers are to the right of smaller numbers. So, 2 < 5;\n-3 < 2; and -5< -3."
+}

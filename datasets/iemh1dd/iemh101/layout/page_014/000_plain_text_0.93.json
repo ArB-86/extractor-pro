@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9337359070777893,
+    "bbox": [
+        281.6513977050781,
+        1224.7286376953125,
+        1796.7369384765625,
+        1398.78564453125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/000_plain_text_0.93.png",
+    "text": "16.1\n  (-)   -7-)  (-)  1 7)  od  1\ncoordinate plane. Is ABCD a square? Can you explain why? What\nis the area of this square?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9302296042442322,
+    "bbox": [
+        192.94210815429688,
+        2333.032958984375,
+        1321.79443359375,
+        2386.800048828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/005_plain_text_0.93.png",
+    "text": "Here, we note that an interval contains infinitely\nmany points."
+}

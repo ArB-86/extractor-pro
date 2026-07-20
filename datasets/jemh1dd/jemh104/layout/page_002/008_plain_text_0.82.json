@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8167932629585266,
+    "bbox": [
+        292.0171813964844,
+        2289.4970703125,
+        1362.7152099609375,
+        2343.973388671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/008_plain_text_0.82.png",
+    "text": "Then the number of marbles Jivanti had = 45 - x\n(Why?)."
+}

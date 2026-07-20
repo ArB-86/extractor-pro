@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9082568883895874,
+    "bbox": [
+        321.8819274902344,
+        396.2324523925781,
+        1404.05224609375,
+        450.4994812011719
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/008_plain_text_0.91.png",
+    "text": "ii\nthe angle of elevation, Z BAC, of the top of the minar"
+}

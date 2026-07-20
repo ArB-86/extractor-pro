@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.528519332408905,
+    "bbox": [
+        195.4444122314453,
+        2053.13818359375,
+        1510.1336669921875,
+        2107.84814453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/012_plain_text_0.53.png",
+    "text": "where b, c and s represent a particular bag, coat and shirt, respectively."
+}

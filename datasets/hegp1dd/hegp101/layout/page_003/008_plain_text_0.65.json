@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6457334756851196,
+    "bbox": [
+        410.1450500488281,
+        642.7260131835938,
+        1115.6065673828125,
+        703.81884765625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_003/008_plain_text_0.65.png",
+    "text": "Which are these five lockers?"
+}

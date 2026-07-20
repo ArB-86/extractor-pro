@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9349445700645447,
+    "bbox": [
+        404.0135192871094,
+        420.1796875,
+        2046.2125244140625,
+        604.8031616210938
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_003/002_plain_text_0.93.png",
+    "text": "Khoisnam immediately collects word clues from these 10 lockers and\nreads, \u201cThe passcode\ne consists of the first five locker numbers that\nWere touched exactly twice."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9574300646781921,
+    "bbox": [
+        194.66317749023438,
+        1628.1383056640625,
+        1750.8504638671875,
+        1740.705810546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/003_plain_text_0.96.png",
+    "text": "Plot the points and draw the lines passing through them to represent the equations.\nas shown in Fig. 3.2."
+}

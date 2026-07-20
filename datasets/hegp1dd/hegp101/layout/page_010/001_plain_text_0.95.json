@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9546958804130554,
+    "bbox": [
+        376.5047302246094,
+        286.8097839355469,
+        2089.717529296875,
+        530.489501953125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/001_plain_text_0.95.png",
+    "text": "with 5. Then\nBijou\n81, and Aribam\n9. The\nresponds\nsays\nanswers\ngame\ntill\nAribam\n250. Bijou\niS\nable to\nuo\nsays\nnot\nbecause\ngoes\nanswer\n250\nis\na perfect\nsquare. Aribam\nasks\nBijou\nif he\nnot\nat\nleast\ncan\nprovide a\nnumber\nthat is close to the square root of 250."
+}

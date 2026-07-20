@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5187346935272217,
+    "bbox": [
+        248.70188903808594,
+        721.0665283203125,
+        1709.7254638671875,
+        773.04638671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/015_plain_text_0.52.png",
+    "text": "?\nThe set of right triangles.\n11\nThe set of isosceles triangles."
+}

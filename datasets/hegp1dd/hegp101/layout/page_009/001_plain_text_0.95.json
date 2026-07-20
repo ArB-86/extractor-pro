@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9486373066902161,
+    "bbox": [
+        376.48272705078125,
+        1793.3699951171875,
+        2091.502197265625,
+        1972.9051513671875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/001_plain_text_0.95.png",
+    "text": "We can estimate the square root of larger perfect squares by looking\nat the closest perfect squares we are familiar with and then narrowing\ndown the interval to search."
+}

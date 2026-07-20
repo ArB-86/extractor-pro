@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9603519439697266,
+    "bbox": [
+        191.92396545410156,
+        1088.365234375,
+        1159.1607666015625,
+        1255.681884765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_003/001_plain_text_0.96.png",
+    "text": "Example 1 : Find\nthe\nof the sector\nearea(\nof a circle\nwith radius 4 cm and of angle 30\u00b0. Also, find the area\nof the corresponding\n(Use\u03c0= 3\n3.14).\nmajor\nsector"
+}

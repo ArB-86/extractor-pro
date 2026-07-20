@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8432555198669434,
+    "bbox": [
+        373.6202087402344,
+        2548.368896484375,
+        1707.820556640625,
+        2604.0634765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_002/005_plain_text_0.84.png",
+    "text": "the distance DE at which the student is standing from the foot ofthe mir"
+}

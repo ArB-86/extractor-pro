@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7298251986503601,
+    "bbox": [
+        330.3450927734375,
+        1381.0045166015625,
+        745.02783203125,
+        1500.7152099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/009_plain_text_0.73.png",
+    "text": "(i)\nShe will buy it ?\n(ii)\nShe will\nnot buy it ?"
+}

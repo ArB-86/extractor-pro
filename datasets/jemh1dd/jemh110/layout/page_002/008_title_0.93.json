@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9334604740142822,
+    "bbox": [
+        196.293212890625,
+        935.2593383789062,
+        711.121337890625,
+        990.4701538085938
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_002/008_title_0.93.png",
+    "text": "10.2\nTangent to a C\nCircle"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9600542187690735,
+    "bbox": [
+        190.51852416992188,
+        859.755615234375,
+        1094.2666015625,
+        977.1546630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_003/002_plain_text_0.96.png",
+    "text": "How will\nwe find the distance between two\npoints in two different quadrants?"
+}

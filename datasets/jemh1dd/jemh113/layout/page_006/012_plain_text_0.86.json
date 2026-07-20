@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8580604791641235,
+    "bbox": [
+        192.9042205810547,
+        2405.71826171875,
+        265.73321533203125,
+        2451.78173828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/012_plain_text_0.86.png",
+    "text": "Let"
+}

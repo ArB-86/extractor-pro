@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9847428798675537,
+    "bbox": [
+        194.32411193847656,
+        1224.2413330078125,
+        1755.84814453125,
+        1564.712158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_001/000_plain_text_0.98.png",
+    "text": "Akhila went to a fair in her village. She wanted to enjoy rides on the Giant Wheel\nand play Hoopla (a game in which you throw a ring on the items kept in a stall, and if\nthe ring\nobject completely, you\n get it). The number of times she played\ncovers any\nHoopla is half the number of rides she had on the Giant\nt Wheel. If each ride costs\n 3, and a game of Hoopla costs  4, how would you find out the number of rides she\nhad and how many\ntimes she played Hoopla, provided she spent ? 20."
+}

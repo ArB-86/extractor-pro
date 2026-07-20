@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9584477543830872,
+    "bbox": [
+        293.43896484375,
+        831.4524536132812,
+        2085.0048828125,
+        973.6680908203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_011/003_plain_text_0.96.png",
+    "text": "Write\ndown all the fractions you marked on the number line\nearlier."
+}

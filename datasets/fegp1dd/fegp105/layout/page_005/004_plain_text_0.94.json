@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.943427562713623,
+    "bbox": [
+        491.6005554199219,
+        469.70513916015625,
+        2081.834228515625,
+        753.6310424804688
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_005/004_plain_text_0.94.png",
+    "text": "I\nam a number\nless\nthan\n40.0ne\ne of my\nfactors is 7.\na.\nThe sum\nof my c\ndigits is 8.\nb.\nless\n100. Tw0 of my\nI\nam a number\nthan\nfactors a\nare\n3\nand 5.\nOne of r\nmy\ndigits is 1 more\nthan\nthe other."
+}

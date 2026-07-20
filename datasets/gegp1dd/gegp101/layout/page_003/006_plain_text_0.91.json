@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.911443829536438,
+    "bbox": [
+        379.01031494140625,
+        1128.2271728515625,
+        1700.8658447265625,
+        1190.837646484375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_003/006_plain_text_0.91.png",
+    "text": "You may\nhave come across\ninteresting facts like these:"
+}

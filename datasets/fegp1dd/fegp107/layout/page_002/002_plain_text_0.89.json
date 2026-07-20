@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8889529705047607,
+    "bbox": [
+        520.8229370117188,
+        2348.03662109375,
+        1312.593994140625,
+        2410.661376953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_002/002_plain_text_0.89.png",
+    "text": "Fill in the blanks with fractions."
+}

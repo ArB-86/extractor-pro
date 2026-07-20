@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9748874306678772,
+    "bbox": [
+        587.6599731445312,
+        2539.853271484375,
+        2041.5828857421875,
+        2888.9287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_001/001_plain_text_0.97.png",
+    "text": "Which\nis\nthe\nfirst\nnumber\nfor\nwhich\nthe\nplayers\nshould\nsay, idli-vada'? It is 15, which is a multiple of 3,\nand a\nalso a multiple of 5. Find c\nout other such\nnumbers\nthat are r\nmultiples of both 3 and 5. These\nnumbers a\nare\ncalled"
+}

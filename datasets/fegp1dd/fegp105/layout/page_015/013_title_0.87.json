@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.8714703321456909,
+    "bbox": [
+        291.4392395019531,
+        1634.793701171875,
+        2081.18994140625,
+        1780.388671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_015/013_title_0.87.png",
+    "text": "Using prime factorisation to check if one number is divisible\nby\nanother"
+}

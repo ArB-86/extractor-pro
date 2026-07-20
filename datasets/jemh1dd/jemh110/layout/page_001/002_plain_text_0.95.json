@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9481034874916077,
+    "bbox": [
+        189.19239807128906,
+        1448.752685546875,
+        1752.369384765625,
+        1555.7843017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_001/002_plain_text_0.95.png",
+    "text": "So, let us consider a circle and a line PQ. There can be three possibilities given\nin Fig. 10.1 below:"
+}

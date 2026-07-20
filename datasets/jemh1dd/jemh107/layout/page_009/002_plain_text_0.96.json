@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9612119197845459,
+    "bbox": [
+        190.48020935058594,
+        1488.2379150390625,
+        1750.0279541015625,
+        1602.495361328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/002_plain_text_0.96.png",
+    "text": "So, the coordinates of the point P(x, y) which divides the line segment joining\nthe\npoints A(x, y,) and B(x2, y2), internally, in the ratio m, : m, are"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9809897541999817,
+    "bbox": [
+        195.0936279296875,
+        1528.80126953125,
+        1754.1234130859375,
+        1859.281494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_002/001_plain_text_0.98.png",
+    "text": "In this chapter, we will\nstudy\nsome ratios of the sides of a right triangle\newith\nrespect to its acute angles, called trigonometric ratios of the angle. We will restrict\ndiscussion to acute angles only. However,\nourc\nthese ratios can be extended to other\nangles also. We will also define the trigonometric ratios for angles of measure\ne 0\u00b0 and\n90\u00b0. We will c\ncalculate trigonometric ratios for some specific angles and establish\nsome identities involving\nthese ratios, called trigonometric identities."
+}

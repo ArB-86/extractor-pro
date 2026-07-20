@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9843350052833557,
+    "bbox": [
+        239.32861328125,
+        1665.3358154296875,
+        1796.228759765625,
+        2268.1259765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_001/000_plain_text_0.98.png",
+    "text": "Putting coordinates on the Earth's surface later became important\nfor navigation. Ujjayini was described in the ancient world\u2014at least\nas early as the 4th century BcE in the early Siddhantas\u2014as the point\nmarking the central longitude meridian from which all other locations\n        \nbuilding on earlier works including that of Hipparchus, later described\nthe latitudes and longitudes of thousands of locations, including \u201cOzine'\n(Ujjayini). Aryabhata (c. 499 CE) replaced the Greek ^chords' with \u00e9sines',\nmaking it much easier to calculate the coordinates of a star or a city.\nHe mapped the sky using Celestial Coordinates, measuring coordinate\ndistances from the ecliptic (the path of the sun)."
+}

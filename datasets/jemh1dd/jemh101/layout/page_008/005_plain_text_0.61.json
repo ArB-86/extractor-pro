@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6118837594985962,
+    "bbox": [
+        190.8778076171875,
+        1984.0955810546875,
+        969.6864013671875,
+        2044.8251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_008/005_plain_text_0.61.png",
+    "text": "So, we conclude that\nt 5-\u221a3\nis irrational."
+}

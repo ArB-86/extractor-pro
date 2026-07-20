@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.8677402138710022,
+    "bbox": [
+        295.4557189941406,
+        2434.186279296875,
+        2011.6734619140625,
+        2498.1318359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_037/003_plain_text_0.87.png",
+    "text": "Q2. In which class were the maximum number of students absent?"
+}

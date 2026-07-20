@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9814868569374084,
+    "bbox": [
+        193.3182830810547,
+        1937.688232421875,
+        1155.3087158203125,
+        2322.35791015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_001/000_plain_text_0.98.png",
+    "text": "Now, look at Fig. 11.2 in which AB is a chord\nof the circle with centre O. So, shaded region APB is\na segment of the circle. You can also note that\nunshaded region AQB is another segment of the circle\nformed by the chord AB. For obvious reasons, APB\nis called the minor segment and AQB is called the\nmajors\nsegment."
+}

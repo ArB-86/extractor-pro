@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.7604280710220337,
+    "bbox": [
+        444.265625,
+        944.517822265625,
+        2205.054931640625,
+        1096.5740966796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_036/006_plain_text_0.76.png",
+    "text": "Reading\ng Fractions: In a fraction such as\n5/6\n5 is called the numerator\nand 6 is called the denominator."
+}

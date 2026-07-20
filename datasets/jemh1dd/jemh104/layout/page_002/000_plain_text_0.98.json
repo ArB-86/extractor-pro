@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9817888140678406,
+    "bbox": [
+        194.3190155029297,
+        395.1434020996094,
+        1754.0008544921875,
+        726.4115600585938
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/000_plain_text_0.98.png",
+    "text": "Sridharacharya\n(C.E. 1025) c\nderived a formula, now known as the quadratic formula,\n(as quoted by Bhaskara IH) for solving a quadratic equation by the method of completing\nthe\nArab mathematician Al-Khwarizmi\n(about\nC.E. 800)\nsquare. An\nalso studied\nquadratic equations of different t\ntypes. Abraham\nn bar\nHiyya\nHa-Nasi, in his book\nLiber embadorum\npublished in E\nEurope in C.E. 1145\ngave complete solutions of\ndifferent quadratic equations."
+}

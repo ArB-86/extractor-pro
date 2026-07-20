@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9503945708274841,
+    "bbox": [
+        272.4490661621094,
+        1689.57470703125,
+        1794.3643798828125,
+        1858.5069580078125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_006/003_plain_text_0.95.png",
+    "text": "4.\nExplain, using\nexample of debt, why subtracting\n a real-world\nnumber is the\ne same as adding\na negative\n a positive\ne number\n(e.g., 10 - (-5) = 15)."
+}

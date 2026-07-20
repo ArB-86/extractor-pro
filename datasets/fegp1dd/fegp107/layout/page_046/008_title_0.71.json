@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "title",
+    "confidence": 0.7072312235832214,
+    "bbox": [
+        295.5932312011719,
+        1730.42724609375,
+        1640.5074462890625,
+        1794.4742431640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_046/008_title_0.71.png",
+    "text": "Q1. Compare t\nthe following\nfractions and\njustify your answers:"
+}

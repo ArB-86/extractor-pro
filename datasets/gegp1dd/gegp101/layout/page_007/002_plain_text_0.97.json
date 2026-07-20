@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9655534625053406,
+    "bbox": [
+        377.9481506347656,
+        1800.7705078125,
+        1313.52880859375,
+        1974.0450439453125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_007/002_plain_text_0.97.png",
+    "text": "Here\niS\nway\nto\nget the\nnumber\none\n5072.\nThis\nmethod\n23\nbutton\nuses\nclicks\ns in\ntotal."
+}

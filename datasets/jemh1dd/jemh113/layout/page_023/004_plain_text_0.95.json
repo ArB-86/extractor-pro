@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9463132619857788,
+    "bbox": [
+        190.95892333984375,
+        1123.343994140625,
+        1754.187744140625,
+        1234.6605224609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_023/004_plain_text_0.95.png",
+    "text": "After finding the median class, we use the following formula for calculating the\nmedian."
+}

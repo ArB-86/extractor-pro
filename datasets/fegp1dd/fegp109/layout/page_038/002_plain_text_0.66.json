@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.658929705619812,
+    "bbox": [
+        374.43096923828125,
+        392.46221923828125,
+        2177.750244140625,
+        748.41015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_038/002_plain_text_0.66.png",
+    "text": "a. A triangle with at least two lines of symmetry and at least two angles of symmetry.\nb. A triangle with only\n one line of symmetry\nbut not having\ng rotational s\nsymmetry.\nc. A quadrilateral with rotational symmetry\nbut no reflection symmetry.\nd. A quadrilateral with reflection symmetry b\nbut not having rotational\nsymmetry."
+}

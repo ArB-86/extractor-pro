@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9096192717552185,
+    "bbox": [
+        291.72247314453125,
+        622.8953247070312,
+        680.16015625,
+        694.838623046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_003/007_title_0.91.png",
+    "text": "T\nJump"
+}

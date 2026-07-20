@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6660439968109131,
+    "bbox": [
+        192.89309692382812,
+        2021.196533203125,
+        1348.57275390625,
+        2075.44384765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/008_plain_text_0.67.png",
+    "text": "Now, 2x\u00b2 - 5x + 3 = 0 can\nn be rewritten as\n(2x - 3)(x - 1) = 0."
+}

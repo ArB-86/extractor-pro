@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8145797848701477,
+    "bbox": [
+        412.2731628417969,
+        659.1509399414062,
+        1040.74169921875,
+        721.4307861328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_028/007_plain_text_0.81.png",
+    "text": "Check if these pairs are safe:"
+}

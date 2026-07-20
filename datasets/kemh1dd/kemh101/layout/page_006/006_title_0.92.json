@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9179050922393799,
+    "bbox": [
+        196.5470733642578,
+        1330.4906005859375,
+        761.8301391601562,
+        1385.548583984375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/006_title_0.92.png",
+    "text": "1.4\nFinite and Infinite Sets"
+}

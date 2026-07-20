@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.928230345249176,
+    "bbox": [
+        195.87454223632812,
+        946.6979370117188,
+        1517.353759765625,
+        1003.2303466796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/005_title_0.93.png",
+    "text": "3.2\nGraphical Method of Solution of a Pair of Linear I\nEquations"
+}

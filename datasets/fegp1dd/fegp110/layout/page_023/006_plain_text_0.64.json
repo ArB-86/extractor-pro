@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.6383059620857239,
+    "bbox": [
+        510.7947998046875,
+        1176.1109619140625,
+        2205.526123046875,
+        1313.462646484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_023/006_plain_text_0.64.png",
+    "text": "4\u3002\nWhich other grids can be filled in multiple ways? What could be\nthe reason?"
+}

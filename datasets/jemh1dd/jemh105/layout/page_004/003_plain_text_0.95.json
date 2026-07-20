@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9471179842948914,
+    "bbox": [
+        191.9827423095703,
+        396.69378662109375,
+        1751.2603759765625,
+        511.0585632324219
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/003_plain_text_0.95.png",
+    "text": ". . ., nth term by\na, and the common difference by d. Then the AP becomes\na,a2,a3,\nn\nn\nn"
+}

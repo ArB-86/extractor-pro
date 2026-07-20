@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9204453229904175,
+    "bbox": [
+        244.73194885253906,
+        1003.5584106445312,
+        1263.852783203125,
+        1053.780517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_007/002_plain_text_0.92.png",
+    "text": "1.\nFind the distance\nbetweent\nthe following pairs of points :"
+}

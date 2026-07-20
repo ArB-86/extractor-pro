@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8845474123954773,
+    "bbox": [
+        224.3503875732422,
+        1349.705322265625,
+        1752.7198486328125,
+        1447.928955078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_025/002_plain_text_0.88.png",
+    "text": "15. A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the same time\na tower casts a shadow 28 m long. Find the height of the tower."
+}

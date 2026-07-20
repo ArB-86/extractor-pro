@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.5574225783348083,
+    "bbox": [
+        241.7608642578125,
+        1498.688232421875,
+        1574.2655029296875,
+        1552.68212890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/014_plain_text_0.56.png",
+    "text": "2. If p is a prime and p divides a2, then p divides a, where a is a positive intege"
+}

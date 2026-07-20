@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9042928814888,
+    "bbox": [
+        392.1126708984375,
+        1717.3302001953125,
+        1685.6085205078125,
+        1785.41015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_020/005_plain_text_0.90.png",
+    "text": "Help her prepare a bar\ngraph representing this data."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9093645811080933,
+    "bbox": [
+        290.6585693359375,
+        2325.127197265625,
+        2086.12548828125,
+        2470.121826171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_015/004_plain_text_0.91.png",
+    "text": "observe\nthe\n arms of the angle f\nformed. They\ny lie in a straight line.\nSuch an angle is called a straight angle."
+}

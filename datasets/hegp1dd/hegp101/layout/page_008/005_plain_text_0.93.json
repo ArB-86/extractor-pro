@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9328954219818115,
+    "bbox": [
+        374.7242431640625,
+        585.6353759765625,
+        2091.778076171875,
+        703.9600219726562
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/005_plain_text_0.93.png",
+    "text": "We know that 8 \u00d7 8 is 64. So, 8 is the square root of 64. What about\n- 8 x - 8 ? That is 64 too!"
+}

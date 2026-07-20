@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8800241947174072,
+    "bbox": [
+        460.6463317871094,
+        1730.327392578125,
+        1887.3857421875,
+        2097.7685546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_035/004_plain_text_0.88.png",
+    "text": "It turns\nthat\nthis\nproblem\nhas\nSiX\nsolutions! Can\nout\nfind at least one of them? Can\nfind them all?\nyouf\nyou i\nYou\ntry\nusing\nsimilar\nreasoning\nas in t\nthe\ncan\ncases\nof t\ntwo\nand t\nthree\nfractional\nunits\u2014or\nfind\nyour\nown\nmethod!"
+}

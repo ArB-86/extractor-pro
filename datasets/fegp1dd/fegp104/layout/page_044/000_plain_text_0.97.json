@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.9650059938430786,
+    "bbox": [
+        297.6580505371094,
+        297.68609619140625,
+        2188.588623046875,
+        732.7374877929688
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_044/000_plain_text_0.97.png",
+    "text": "Q.11. The number of t\ntigers in India went down drastically\nbetween1900a\nand1970.\nProject Tiger was launched in 1973 to track and protect tigers in India. Starting\nin 2006, the exact number of tigers in India was tracked. Shagufta and Divya\nlooked up information about the number of tigers in India between 2006 and 2022\nin 4-year intervals. They prepared a frequency table for this data and a bar graph\nto present this data, but there are a few mistakes in the graph. Can you find those\nmistakes and fix them?"
+}

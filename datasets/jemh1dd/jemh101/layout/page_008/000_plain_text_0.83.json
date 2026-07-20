@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8265842795372009,
+    "bbox": [
+        291.6495666503906,
+        717.7337646484375,
+        896.5758666992188,
+        773.08642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_008/000_plain_text_0.83.png",
+    "text": "In\nClass\nIX,\nwe mentioned that :"
+}

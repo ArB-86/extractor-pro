@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9272481203079224,
+    "bbox": [
+        266.6852722167969,
+        1680.40625,
+        1077.9029541015625,
+        1734.8021240234375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/008_plain_text_0.93.png",
+    "text": "For\nhow many\nkm\nWill t\nthe fare\nbe ?130?"
+}

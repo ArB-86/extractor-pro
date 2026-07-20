@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8231200575828552,
+    "bbox": [
+        338.13909912109375,
+        400.1617126464844,
+        2138.691162109375,
+        585.6605834960938
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_034/003_plain_text_0.82.png",
+    "text": " Q. Have you checked what happens to the length XY when X and Y are placed at\nthe same distance away from A and B, respectively? For example, as in the cases\nlike these:"
+}

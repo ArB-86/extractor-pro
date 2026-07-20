@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9724062085151672,
+    "bbox": [
+        192.26898193359375,
+        2349.283203125,
+        1749.27685546875,
+        2515.115478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_001/003_plain_text_0.97.png",
+    "text": "In this chapter, you will learn how to find the distance between the two points\nwhose coordinates areg\n given. You will also study how to find the coordinates of the\npoint which divides a line segment joining two given points in a given ratio."
+}

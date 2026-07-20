@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7709344029426575,
+    "bbox": [
+        307.29931640625,
+        1996.0257568359375,
+        1758.802734375,
+        2498.506591796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_007/012_plain_text_0.77.png",
+    "text": "the step-deviation method will be convenient to apply if all the d' s have a\ncommon factor.\nThe mean obtained by all the three methods is the same.\nThe assumed mean method and step-deviation method are just simplified\nforms of the direct method.\nThe formula x = a + hu still holds if a and h are not as given above, but are\nD - x\nany non-zero numbers such that u. =\nh"
+}

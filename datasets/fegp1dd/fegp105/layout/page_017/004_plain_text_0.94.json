@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9412683248519897,
+    "bbox": [
+        293.9344787597656,
+        1932.593017578125,
+        2083.98095703125,
+        2068.732421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/004_plain_text_0.94.png",
+    "text": "The number 5 is another number whose\ndivisibility\ncan easily\nbe\nchecked. How do we do it?"
+}

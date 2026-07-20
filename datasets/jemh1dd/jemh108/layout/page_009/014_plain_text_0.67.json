@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6661444902420044,
+    "bbox": [
+        240.98997497558594,
+        1421.51708984375,
+        1453.8260498046875,
+        1519.515869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/014_plain_text_0.67.png",
+    "text": "9.\n In triangle ABC, right-angled at B, if tan A =\nfind the value of:\n\u221a3"
+}

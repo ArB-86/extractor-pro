@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9100648164749146,
+    "bbox": [
+        289.32281494140625,
+        523.1629028320312,
+        890.7654418945312,
+        576.5807495117188
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/006_plain_text_0.91.png",
+    "text": "Let us consider some examples."
+}

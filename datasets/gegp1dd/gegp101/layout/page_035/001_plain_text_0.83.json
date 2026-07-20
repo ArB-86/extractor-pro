@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8258291482925415,
+    "bbox": [
+        369.9801940917969,
+        531.7470703125,
+        2190.346923828125,
+        805.5198974609375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_035/001_plain_text_0.83.png",
+    "text": "1.\nUsing\nall\ndigits\nfrom\n0 - 9\nexactly\n(the f\nfirst\ndigit\ncannot\nbe\n0)\nonce\nto\ncreate a 1\n10-digit\nnumber, write the\n(a)Largest multiple of 5\nAns: largest multiple of 5 = 9\n9876543210"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.944205105304718,
+    "bbox": [
+        191.68240356445312,
+        1277.46826171875,
+        1754.3228759765625,
+        1384.802978515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/001_plain_text_0.94.png",
+    "text": "But n should be a positive integer (Why?). So, 301 is not a term of the given list of\nnumbers."
+}

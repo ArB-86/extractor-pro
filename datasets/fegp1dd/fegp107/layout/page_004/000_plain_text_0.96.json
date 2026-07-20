@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9566600918769836,
+    "bbox": [
+        413.2102966308594,
+        1682.4437255859375,
+        2216.5078125,
+        1944.70556640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_004/000_plain_text_0.96.png",
+    "text": "that the bigger\nWe\nhas\n3\npieces\n1-4\nchikki in it. So,\ne can s\nsee\npiece\nSof\n,we\nthe bigger\npiece using\nthe fractional\nunit\nWe see\n=4\nthat\ncani\nmeasure\nthe bigger\n3-4\npiece\nis\nchikki."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.854210615158081,
+    "bbox": [
+        292.548828125,
+        957.0856323242188,
+        1311.01123046875,
+        1009.3121948242188
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/007_plain_text_0.85.png",
+    "text": "Some of the obvious relations among\nthese subsets are:"
+}

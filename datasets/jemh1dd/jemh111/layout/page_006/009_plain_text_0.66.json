@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6638444662094116,
+    "bbox": [
+        225.03421020507812,
+        2111.770263671875,
+        1002.1358032226562,
+        2161.680419921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/009_plain_text_0.66.png",
+    "text": "Tick the correct answer in the following :\n14."
+}

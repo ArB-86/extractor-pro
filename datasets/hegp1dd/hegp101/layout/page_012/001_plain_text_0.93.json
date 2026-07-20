@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.932698667049408,
+    "bbox": [
+        377.3380432128906,
+        469.68243408203125,
+        2090.6875,
+        588.3223266601562
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/001_plain_text_0.93.png",
+    "text": "Each of them is obtained by r\nmultiplying\n a number by itself three\ntimes. We note that"
+}

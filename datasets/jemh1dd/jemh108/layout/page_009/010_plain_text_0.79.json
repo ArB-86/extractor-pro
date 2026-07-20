@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7907614707946777,
+    "bbox": [
+        245.89065551757812,
+        760.1431274414062,
+        1015.23291015625,
+        854.1475830078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/010_plain_text_0.79.png",
+    "text": "3\n3.\nIf sin A =\ncalculate cos\ns A and\nI tan A.\n4"
+}

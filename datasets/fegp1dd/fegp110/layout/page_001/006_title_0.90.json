@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.8986602425575256,
+    "bbox": [
+        420.0440368652344,
+        1130.8004150390625,
+        1139.03271484375,
+        1197.28369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_001/006_title_0.90.png",
+    "text": "More\nand More Numbers!"
+}

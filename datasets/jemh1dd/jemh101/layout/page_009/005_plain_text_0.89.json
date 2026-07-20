@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8853887915611267,
+    "bbox": [
+        244.01585388183594,
+        892.346435546875,
+        976.6903686523438,
+        942.5796508789062
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/005_plain_text_0.89.png",
+    "text": "3.\nProve that the following\nare irrationals :"
+}

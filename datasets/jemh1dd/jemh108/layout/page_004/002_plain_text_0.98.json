@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9773717522621155,
+    "bbox": [
+        193.2443084716797,
+        1435.0736083984375,
+        1160.71142578125,
+        1764.6572265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_004/002_plain_text_0.98.png",
+    "text": "Remark : Note that the symbol sin A is used as an\nabbreviation for \u2018the sine of the angle A'. sin A is not\nthe product of \u2018sin\u2019 a\nand A.\u2018sin\nseparated from A\nhas no meaning. Similarly, cos Ais not the product of\ncos\u2019 and A. Similar interpretations follow for other\ntrigonometric ratios also."
+}

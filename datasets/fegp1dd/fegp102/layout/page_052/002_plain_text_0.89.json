@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.8868567943572998,
+    "bbox": [
+        296.367919921875,
+        1282.544677734375,
+        2184.527587890625,
+        1409.7550048828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_052/002_plain_text_0.89.png",
+    "text": "Q.2.\nUse a protractor to find the measure of each angle. Then classify each angle\nas\nacute, obtuse, right or reflex."
+}

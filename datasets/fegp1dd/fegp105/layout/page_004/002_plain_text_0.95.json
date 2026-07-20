@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9527145624160767,
+    "bbox": [
+        419.8524475097656,
+        923.8982543945312,
+        2209.915283203125,
+        1141.3167724609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_004/002_plain_text_0.95.png",
+    "text": "The jump sizes using which both the treasures can be reached are\nthe common factors of the two numbers where the treasures are\nplaced."
+}

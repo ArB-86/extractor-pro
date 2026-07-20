@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.6537578701972961,
+    "bbox": [
+        293.4935302734375,
+        1800.765380859375,
+        2185.81494140625,
+        1865.7276611328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_048/012_plain_text_0.65.png",
+    "text": "Q. Now, from 9, if you wish to go to 3, how much must you travel along the number line?"
+}

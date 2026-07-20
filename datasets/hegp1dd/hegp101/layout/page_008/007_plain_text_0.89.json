@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8911102414131165,
+    "bbox": [
+        375.9426574707031,
+        767.6138916015625,
+        1356.0108642578125,
+        825.943603515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/007_plain_text_0.89.png",
+    "text": "So, the square roots of 64 :\nare +\n8\nand - 8."
+}

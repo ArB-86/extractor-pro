@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6958934664726257,
+    "bbox": [
+        417.6050720214844,
+        1678.9517822265625,
+        2208.447021484375,
+        2121.9267578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_012/004_plain_text_0.70.png",
+    "text": "1.\nThe area of one full small\neof thesquared or g\nsquare\ngraph\n1 paper\nis taken as 1 sq unit.\n2.\nIgnore\n portions of the area t\nthat are less than half a square.\n3.\nIf more than half of a square is in a region, just count it as 1 sq unit.\nIf exactly l\n1\n4.\nhalf the square is counted, take its area as\nsq unit."
+}

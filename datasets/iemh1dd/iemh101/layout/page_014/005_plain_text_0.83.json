@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8285773396492004,
+    "bbox": [
+        474.12579345703125,
+        553.1870727539062,
+        1796.913818359375,
+        682.0673217773438
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/005_plain_text_0.83.png",
+    "text": "(a)\nhow many street intersections can be referred to as\nS (4, 3).\n(b)\nhow many street intersections can be referred to as (3, 4)."
+}

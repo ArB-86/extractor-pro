@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9784399271011353,
+    "bbox": [
+        190.2996368408203,
+        665.087646484375,
+        1121.57470703125,
+        972.3615112304688
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_005/000_plain_text_0.98.png",
+    "text": "Solution\nn : Here, AB\n is\nthe chimney, CD\nthe\nobserver and\nd  ADE the angle of elevation\n(see\nFig. 9.6). In this case, ADE is a triangle, right-angled\nat E and we are required to find the height of the\nchimney."
+}

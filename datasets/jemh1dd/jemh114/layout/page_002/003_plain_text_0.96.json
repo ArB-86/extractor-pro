@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9611251354217529,
+    "bbox": [
+        195.18264770507812,
+        2041.4296875,
+        1752.462890625,
+        2153.869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_002/003_plain_text_0.96.png",
+    "text": "The theoretical probability (also called classical probability) of an event\nE,\nwritten as P(E), is defined as"
+}

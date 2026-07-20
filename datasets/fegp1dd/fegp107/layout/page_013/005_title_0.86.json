@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.8577824234962463,
+    "bbox": [
+        293.42095947265625,
+        2310.47119140625,
+        1892.327880859375,
+        2384.459228515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_013/005_title_0.86.png",
+    "text": "Using a fraction wall to find equal fractional lengths!"
+}

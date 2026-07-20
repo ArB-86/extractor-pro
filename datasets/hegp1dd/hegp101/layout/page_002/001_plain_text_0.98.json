@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9760085344314575,
+    "bbox": [
+        380.3313293457031,
+        772.2073364257812,
+        1552.7628173828125,
+        1069.46142578125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/001_plain_text_0.98.png",
+    "text": "Note\nthat\neach\nfactor\nof\na\nnumber\nhas\na\npartner\nfactor'\nSO\nthat\nthe\nproduct\nt of\nthe\npair\nof\nfactors\nyields\nthe\ngiven\nnumber. Here, 1\nand\n6 form a pair of p\npartner\nfactors of 6, and 2 and 3\nform\nanother\npair."
+}

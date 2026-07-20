@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.974215030670166,
+    "bbox": [
+        291.8086853027344,
+        2193.7783203125,
+        2082.535400390625,
+        2413.790283203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_028/002_plain_text_0.97.png",
+    "text": "How much taller is Mount Everest than Mount Koscuiszko? Are\nMount Denali and Mount Kilimanjaro very\ndifferent in height? This\nis not so easy to quickly discern\nfrom a large table of numbers."
+}

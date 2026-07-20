@@ -1,0 +1,13 @@
+{
+    "page": 54,
+    "label": "plain_text",
+    "confidence": 0.9072591662406921,
+    "bbox": [
+        295.8980407714844,
+        1565.1488037109375,
+        1804.3140869140625,
+        1626.132080078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_054/005_plain_text_0.91.png",
+    "text": "Q.1 Do the calculations for the second\ngrid above and find the border sum."
+}

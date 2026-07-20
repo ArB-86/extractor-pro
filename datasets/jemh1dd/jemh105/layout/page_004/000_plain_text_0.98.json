@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9797271490097046,
+    "bbox": [
+        192.876953125,
+        1714.3544921875,
+        1754.6129150390625,
+        1988.794921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/000_plain_text_0.98.png",
+    "text": "Note that in examples\ns (a) to (e) a\nabove, there are only a finite\nnumber of terms.\nSuch an AP is called a finite AP. Also note that each of these Arithmetic Progressions\n(APs) has a last term. The APs in examples\ns (i) to (v) i\nin this section, are not finite APs\nand so they\nare called infinite Arithmetic Progressions. Such APs do not have a\nlast term."
+}

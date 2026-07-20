@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9342942833900452,
+    "bbox": [
+        277.3747253417969,
+        2370.153076171875,
+        1794.52587890625,
+        2487.93212890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/004_plain_text_0.93.png",
+    "text": "3.\nThe initial\npopulation of a village is 750. Every year 50\npeople\nmove from a nearby city to the village."
+}

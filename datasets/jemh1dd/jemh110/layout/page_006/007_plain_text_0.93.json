@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.926858127117157,
+    "bbox": [
+        199.49063110351562,
+        1456.142333984375,
+        1684.0948486328125,
+        1512.3472900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_006/007_plain_text_0.93.png",
+    "text": "1. The theorem can also be proved by using t\nthe Pythagoras\nTheorem as follows:"
+}

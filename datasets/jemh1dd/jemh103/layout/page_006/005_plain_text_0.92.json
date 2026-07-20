@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9195679426193237,
+    "bbox": [
+        245.55294799804688,
+        528.8553466796875,
+        1755.03662109375,
+        703.22021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/005_plain_text_0.92.png",
+    "text": "Ip\nb\nC1\n2. On comparing the ratios\nfind out whether the lines representing\nand\nthe\na2\nb\nC2\nfollowing pairs of linear equations intersect at a point, are parallel or coincident:"
+}

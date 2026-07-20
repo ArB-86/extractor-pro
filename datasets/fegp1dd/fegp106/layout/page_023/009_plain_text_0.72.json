@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.71537846326828,
+    "bbox": [
+        293.9079284667969,
+        893.342529296875,
+        911.8380737304688,
+        954.593017578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/009_plain_text_0.72.png",
+    "text": "Q.1. Find the missing\nterms:"
+}

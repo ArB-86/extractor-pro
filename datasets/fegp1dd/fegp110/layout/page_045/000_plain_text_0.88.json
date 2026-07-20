@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.8803180456161499,
+    "bbox": [
+        295.0142517089844,
+        2172.187744140625,
+        859.3892822265625,
+        2711.13720703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_045/000_plain_text_0.88.png",
+    "text": "Ans.\nInverse of +4 = -4\nInverse of -4 = +4\nInverse of -3 = +3\nInverse of O = 0\nInverse of +2 = (-2)\nInverse of -1 = +1"
+}

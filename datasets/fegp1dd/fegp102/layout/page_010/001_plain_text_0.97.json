@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9703589081764221,
+    "bbox": [
+        422.16265869140625,
+        2591.618408203125,
+        2218.6728515625,
+        2884.359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_010/001_plain_text_0.97.png",
+    "text": "From\nthe\npoint\nof\nview\nof\nsuperimposition,\nwhen\ntwo\nangles\nsuperimposed,\nand\nthe\nvertex\nand\nthe\nare\ncommon\ntwo\nrays\ns of\nboth\nangles\nlie\ntop\nof\neach other, then\nthe\nsizes\nof the\non\nangles\nare\nequal."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.6924594044685364,
+    "bbox": [
+        863.674560546875,
+        1576.7867431640625,
+        1082.8548583984375,
+        1629.005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_002/007_title_0.69.png",
+    "text": "T&\nta\nb\n3\ne"
+}

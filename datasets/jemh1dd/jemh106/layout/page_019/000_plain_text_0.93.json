@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9252640604972839,
+    "bbox": [
+        194.15728759765625,
+        1704.7650146484375,
+        1135.1241455078125,
+        1759.8807373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_019/000_plain_text_0.93.png",
+    "text": "Example 5 : Observe\nFig. 6.30\nand t\nthen\n find Z P."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.5857239961624146,
+    "bbox": [
+        295.28314208984375,
+        499.0060119628906,
+        965.0196533203125,
+        560.1835327148438
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_048/014_plain_text_0.59.png",
+    "text": "Q. Complete these expressions."
+}

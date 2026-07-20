@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9234122037887573,
+    "bbox": [
+        194.63088989257812,
+        400.4029235839844,
+        1082.3233642578125,
+        454.551025390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_003/004_plain_text_0.92.png",
+    "text": "Therefore, QT = 2\nunits and PT = RS = 2 \nunits."
+}

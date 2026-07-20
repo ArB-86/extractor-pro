@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9319429993629456,
+    "bbox": [
+        196.60023498535156,
+        1236.723388671875,
+        802.7454833984375,
+        1293.8958740234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/006_title_0.93.png",
+    "text": "13.3\nMode of Grouped Data"
+}

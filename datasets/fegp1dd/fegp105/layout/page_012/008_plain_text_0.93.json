@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9328378438949585,
+    "bbox": [
+        418.8976745605469,
+        1981.4566650390625,
+        1084.7608642578125,
+        2120.368896484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/008_plain_text_0.93.png",
+    "text": "3\nappears\ntwo\ntimes\nin\nboth\nand 7\nappears\nonce."
+}

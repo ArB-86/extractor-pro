@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8976725339889526,
+    "bbox": [
+        241.50079345703125,
+        2071.74365234375,
+        1754.716796875,
+        2238.08154296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/007_plain_text_0.90.png",
+    "text": "1. A solid is in the shape of a cone standing on a hemisphere with both their radi being\nequal to 1 cm and the height of the cone is equal to its radius. Find the volume of the solid\nin terms of \u03c0."
+}

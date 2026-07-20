@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9643083214759827,
+    "bbox": [
+        187.0142822265625,
+        2442.071044921875,
+        1753.067626953125,
+        2551.16162109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/001_plain_text_0.96.png",
+    "text": "In general, it can be proved that if \u03b1, \u03b2, Y are the zeroes of the cubic polynomial\nax3 + bx\u00b2 + cx + d, then"
+}

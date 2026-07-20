@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8974477052688599,
+    "bbox": [
+        330.4953308105469,
+        2183.665283203125,
+        1539.156494140625,
+        2238.10302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/015_plain_text_0.90.png",
+    "text": "12, 15 and 21\n(ii)\n17,23 and 29\n(ii) 8\n8, 9 and 25"
+}

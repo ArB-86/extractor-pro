@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.965523898601532,
+    "bbox": [
+        189.7079620361328,
+        1461.4608154296875,
+        1752.796142578125,
+        1631.668701171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/000_plain_text_0.97.png",
+    "text": "You can check that p(x) = 0 for x = 4, - 2,\nSince p(x) can have atmost three\n2\nzeroes, these are the zeores of 2x3 - 5x\u00b2 - 14x + 8. Now,"
+}

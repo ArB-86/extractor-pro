@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8189774751663208,
+    "bbox": [
+        296.40911865234375,
+        300.9683837890625,
+        1193.8751220703125,
+        930.3042602539062
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_033/004_plain_text_0.82.png",
+    "text": "Ans.  a. Sometimes true\nExample 2+6 = 8, a multiple of 4.\nbut 2+4 = 6, not a multiple of 4.\nb. Sometimes true\nExample 1+3 = 4, a multiple of 4.\nbut 1+5 = 6, not a multiple of 4.\nNote: Think of more such examples."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.945343017578125,
+    "bbox": [
+        479.9276428222656,
+        788.22021484375,
+        2155.486572265625,
+        999.42333984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_028/002_plain_text_0.95.png",
+    "text": "At\neach\nstep,\nfolded\nin\nhalves. T\nThis\nprocess\nof\ngetting\nhalf\nof\nwe\na\ngiven a\n angle is called bisecting the angle. The line that bisects a given\nangle is called the angle bisector\nof the angle."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9436896443367004,
+    "bbox": [
+        294.29559326171875,
+        1134.8447265625,
+        1487.8138427734375,
+        1222.9764404296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_011/001_title_0.94.png",
+    "text": "8.4 An\nExploration\nin\nRectangles"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.517581582069397,
+    "bbox": [
+        419.3443603515625,
+        1363.5445556640625,
+        2212.77685546875,
+        1580.12841796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_030/008_plain_text_0.52.png",
+    "text": "We need to identify only\nonemore\npoint to make this a 4-sided\n        o       \nHow can such a point be found?"
+}

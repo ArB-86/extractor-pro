@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9812433123588562,
+    "bbox": [
+        192.7670440673828,
+        603.4963989257812,
+        1755.901123046875,
+        931.727294921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/000_plain_text_0.98.png",
+    "text": "Usually,\nin a particular context, we have to deal v\nwith the elements and subsets of a\nbasic set which is relevant to that particular context. For example, while studying the\nsystem of numbers, we are interested in the set of natural numbers and its subsets such\nas the set of all\n1 prime numbers, the set of all even numbers, and so forth. This basic set\nis called the \u201cUniversal Set\". The universal set is usually denoted by U, and all its\nsubsets\nby the letters A, B, C, etc."
+}

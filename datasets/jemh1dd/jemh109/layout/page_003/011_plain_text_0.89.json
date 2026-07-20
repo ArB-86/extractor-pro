@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8948185443878174,
+    "bbox": [
+        193.7638702392578,
+        1209.8138427734375,
+        1257.4327392578125,
+        1264.6112060546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/011_plain_text_0.89.png",
+    "text": "By adding AE to BC, you will\nget the height of the minar."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9507655501365662,
+    "bbox": [
+        291.9913330078125,
+        395.1218566894531,
+        2084.30322265625,
+        540.4765014648438
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_015/004_plain_text_0.95.png",
+    "text": "Therefore, we can say t\nthat if there are no common prime factors,\nthen the two numbers are co-prime."
+}

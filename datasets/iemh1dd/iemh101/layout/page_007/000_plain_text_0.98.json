@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9816380739212036,
+    "bbox": [
+        237.15757751464844,
+        306.5065002441406,
+        1797.2127685546875,
+        640.45263671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_007/000_plain_text_0.98.png",
+    "text": "For\nFig. 1.4, point\nS (3, -5) is\nexample, in\nin\nQuadrant\nIV, the\nX-coordinate\nis\n$3\nunits\n6 and\nthe\ny-coordinate\ne is -5\nunits. What a\nabout\npoint\nQ (-5, 3)? It is in the second\nquadrant, with\nX-coordinate -5\nand\ny-coordinate 3. Copy\nFig. 1.4 and r\nmark S and Q in\ndiagram. Mark\n1 your\nany 1\npoint P in\n1 Quadrant I and a\nany 1\npoint R in\nQuadrant II, and -\n Write\ndown t\ntheir coordinates."
+}

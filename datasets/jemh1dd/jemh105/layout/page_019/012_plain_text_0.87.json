@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8704572916030884,
+    "bbox": [
+        193.48663330078125,
+        2304.054931640625,
+        1749.642822265625,
+        2414.700927734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/012_plain_text_0.87.png",
+    "text": "Solution : (i)\nSince the production increases uniformly by a fixed number every year,\nthe number of TV sets manufactured in 1st, 2nd, 3rd, . . ., years will form an AP."
+}

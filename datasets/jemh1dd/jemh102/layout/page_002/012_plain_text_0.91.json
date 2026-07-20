@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9081810712814331,
+    "bbox": [
+        292.3908996582031,
+        1060.333251953125,
+        1405.3031005859375,
+        1114.3056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/012_plain_text_0.91.png",
+    "text": "What is the value of p(x) =\n= x\u00b2 -3x - 4 at x = -1? We have :"
+}

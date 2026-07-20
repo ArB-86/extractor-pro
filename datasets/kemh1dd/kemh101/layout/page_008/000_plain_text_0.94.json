@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9436562657356262,
+    "bbox": [
+        208.08128356933594,
+        403.6476745605469,
+        1735.6500244140625,
+        511.22686767578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/000_plain_text_0.94.png",
+    "text": "element of A is in B and vice-versa.'\nThat is why\n generally do not repeat any\nweg\nelement in describing a set."
+}

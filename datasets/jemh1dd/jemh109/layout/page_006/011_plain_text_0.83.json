@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.825455904006958,
+    "bbox": [
+        191.99603271484375,
+        1037.567138671875,
+        1335.8553466796875,
+        1102.9093017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_006/011_plain_text_0.83.png",
+    "text": "i.e., the distance of the building\nfrom P is 10\u221a3\nm = 17.32\nm"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9025588035583496,
+    "bbox": [
+        293.37921142578125,
+        2500.943115234375,
+        938.3325805664062,
+        2555.10205078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_008/005_plain_text_0.90.png",
+    "text": "These numbers are\nin AP.\n2. (Why?)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9518038630485535,
+    "bbox": [
+        193.5758056640625,
+        1487.7164306640625,
+        1154.23828125,
+        1596.9639892578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/004_plain_text_0.95.png",
+    "text": "To\nunderstand\nthe\nBasic\nProportionality\nTheorem,\n, let us perform the following activity:"
+}

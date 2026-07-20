@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9542375802993774,
+    "bbox": [
+        275.1664123535156,
+        1007.0200805664062,
+        1796.283447265625,
+        1174.407958984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_006/001_plain_text_0.95.png",
+    "text": "1\u3002\nThe temperature in the high-altitude desert of Ladakh is recorded\nas 4 \u00b0C at noon. By midnight, it drops by 15 \u00b0C. What is the midnight\ntemperature?"
+}

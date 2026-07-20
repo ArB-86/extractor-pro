@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9467470645904541,
+    "bbox": [
+        192.1050567626953,
+        1481.6129150390625,
+        1754.0941162109375,
+        1589.8486328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/007_plain_text_0.95.png",
+    "text": "Example 7: Find the discriminant of the quadratic equation 2x\u00b2 - 4x + 3 = 0, and\nhence find the nature of its roots."
+}

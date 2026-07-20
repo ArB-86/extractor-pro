@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9763175249099731,
+    "bbox": [
+        237.89186096191406,
+        1540.8392333984375,
+        1796.0054931640625,
+        1813.126220703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/002_plain_text_0.98.png",
+    "text": "However,\ncas\nsymbol is\njust\nmark\non\nuntil\nit\nhas\na\na\npage\nrules.\nThe\ntransformation\nof\ninto\nfully\nzero\na\noperational\nnumber\nin\nthe\nwork\n.of\nBrahmagupta. In\nhis\nseminal\nWork,\nthe\noccurred\nBrahmasphutasiddhanta\n(628\nCE), he\nexplicitly\ndefined\nzero\nas\nthe\nresult of subtracting\ng a number\nfrom\nitself\n=D -D)\n0)."
+}

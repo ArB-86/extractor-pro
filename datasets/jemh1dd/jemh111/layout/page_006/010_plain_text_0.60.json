@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5957863330841064,
+    "bbox": [
+        304.8615417480469,
+        951.7362060546875,
+        1073.958251953125,
+        1073.693603515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/010_plain_text_0.60.png",
+    "text": "(i)\nthe total length of the silver wire required.\n(ii)\nthe area of each sector\nr of the brooch."
+}

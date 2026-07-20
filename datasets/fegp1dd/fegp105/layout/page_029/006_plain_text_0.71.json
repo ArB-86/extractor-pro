@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.7141435146331787,
+    "bbox": [
+        292.8468017578125,
+        595.8008422851562,
+        2189.52392578125,
+        719.514892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_029/006_plain_text_0.71.png",
+    "text": "Q.1. Find the prime factorisations of the following numbers: 64, 104, 105, 243, 320, 141,\n1728,729,1024,1331,1000."
+}

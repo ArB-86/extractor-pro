@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9414347410202026,
+    "bbox": [
+        194.73672485351562,
+        544.8328247070312,
+        1754.494384765625,
+        653.6680908203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/005_plain_text_0.94.png",
+    "text": "You may recall that triangle is also a polygon. So, we can state the same conditions\nfor the similarity of two triangles. That is:"
+}

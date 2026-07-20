@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8906105160713196,
+    "bbox": [
+        193.50157165527344,
+        1495.769287109375,
+        1249.3836669921875,
+        1548.6307373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/007_plain_text_0.89.png",
+    "text": "Solution : The list of two-digit numbers divisible by 3 is :"
+}

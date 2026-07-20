@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9495503306388855,
+    "bbox": [
+        191.16038513183594,
+        1157.1072998046875,
+        1754.43017578125,
+        1273.587646484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_005/004_plain_text_0.95.png",
+    "text": "To determine AE, we choose a trigonometric ratio, which involves both AE and\nDE. Let us choose the tangent of the angle of elevation."
+}

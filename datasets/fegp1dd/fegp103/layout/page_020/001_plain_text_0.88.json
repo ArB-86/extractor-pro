@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8832542896270752,
+    "bbox": [
+        297.4100646972656,
+        2372.165283203125,
+        2184.493896484375,
+        2496.40087890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_020/001_plain_text_0.88.png",
+    "text": "Q4. There are 5 children in a group, all of different heights. Can they stand such that four\nof them say *1' and the last one says \u201co'? Why or why not?"
+}

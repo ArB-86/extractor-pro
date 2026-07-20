@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9392812252044678,
+    "bbox": [
+        274.7790832519531,
+        1975.80029296875,
+        1670.4208984375,
+        2139.84423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/000_plain_text_0.94.png",
+    "text": "HCF (p, q, r) x LCM (p, q, r) \u2260 p x q x r, where p, q, r are positive integers\n(see Example 8). However, the following results hold good for three numbers\np, q and r :"
+}

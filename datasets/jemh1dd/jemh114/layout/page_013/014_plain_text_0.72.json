@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.724453866481781,
+    "bbox": [
+        319.4371032714844,
+        764.8482666015625,
+        1752.0001220703125,
+        862.2097778320312
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/014_plain_text_0.72.png",
+    "text": "(ii)\nThe probability of an event that is certain to happen is\n. Such an event\nis called"
+}

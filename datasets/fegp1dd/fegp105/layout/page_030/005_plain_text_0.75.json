@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.7457747459411621,
+    "bbox": [
+        296.5423278808594,
+        297.9433898925781,
+        900.9556884765625,
+        458.5386657714844
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_030/005_plain_text_0.75.png",
+    "text": "Ans. a.\n2\u00d73\u00d75=30\nb.2\u00d73\u00d75\u00d77=2\n210"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8323931097984314,
+    "bbox": [
+        506.7333068847656,
+        2521.997802734375,
+        2011.2491455078125,
+        2661.3046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_006/010_plain_text_0.83.png",
+    "text": "Find out the digit\n2.\n sums of all the\nnumbers\nfrom 40 to 70.\nShare\n your observations with the class."
+}

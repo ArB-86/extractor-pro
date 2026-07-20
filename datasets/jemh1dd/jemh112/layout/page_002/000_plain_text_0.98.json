@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9822558164596558,
+    "bbox": [
+        194.1585693359375,
+        397.3327331542969,
+        1154.4320068359375,
+        779.656982421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_002/000_plain_text_0.98.png",
+    "text": "Again, you may\nhaveseenan\nobject like the\nOne in Fig. 12.3. Can you name it? A test tube, right!\nYou would have used one in your science laboratory.\nThis tube is also a combination of a cylinder and a\nhemisphere. Similarly, while travelling, you may have\nseen some big and beautiful buildings or monuments\nmade up of a combination of solids mentioned above."
+}

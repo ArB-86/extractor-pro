@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9812059998512268,
+    "bbox": [
+        192.91143798828125,
+        1406.098388671875,
+        1754.9420166015625,
+        1695.0223388671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_004/000_plain_text_0.98.png",
+    "text": "We observe that Tables 13.1 and 13.3\nare using the same data and employing the\nformula for the calculation of the mean\nbut the results obtained a\nsame\nare different.\nCan you think why t\nthis is so, and which one is more accurate? The difference in the\ntwo values is because of the mid-point assumption in Table 13.3, 59.3 being the exact\nmean, while 62\nan a\napproximate mean."
+}

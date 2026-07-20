@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9807226061820984,
+    "bbox": [
+        418.3961486816406,
+        2085.088623046875,
+        2212.4033203125,
+        2570.8447265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_034/000_plain_text_0.98.png",
+    "text": "Here is a systematic\nway to find the solution. We know\nthat\n1-3\n1 +  = 1. To get the\ne fractional units to be different, we will have\n+\n1's, and decrease at least one of the\nto increase at least one of the\nother\n1-3\n   n dn n i n   \n1-2\nmust be one of\nthe fractional units."
+}

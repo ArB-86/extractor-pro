@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6520184278488159,
+    "bbox": [
+        249.25872802734375,
+        921.876220703125,
+        1474.019287109375,
+        1215.3570556640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_020/007_plain_text_0.65.png",
+    "text": "1.]\nIn a right triangle ABC, right-angled at B,\nside opposite to angle A\nside adjacent to angle A\nsinA=\nCOSA=\nhypotenuse\nhypotenuse\nside opposite to angle A\ntan A=\nside adjacent to angle A"
+}

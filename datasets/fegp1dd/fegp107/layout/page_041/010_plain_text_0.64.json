@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.6376006603240967,
+    "bbox": [
+        289.842041015625,
+        2741.565673828125,
+        1692.0452880859375,
+        3200.23974609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_041/010_plain_text_0.64.png",
+    "text": "Ans.\na. 31\n4\n1\n=3+\n\u4e00\n4\n1\n=1+1+1+\n4\n1\n1\n1\n1\n1\n1\n1\n+\u00f7+\u00f7\n\u5341\n+\n\u4e00\n4\n4\n4\n4\n4\n4\n4\n4\n4\n\uff14\n4"
+}

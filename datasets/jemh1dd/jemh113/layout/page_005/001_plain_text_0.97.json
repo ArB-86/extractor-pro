@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9692264199256897,
+    "bbox": [
+        194.96011352539062,
+        396.5276184082031,
+        1751.90234375,
+        505.69842529296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_005/001_plain_text_0.97.png",
+    "text": "The third step is to find the product of d, with the corresponding f, and take the sum\nof all the f.d's. The calculations are shown in Table 13.4."
+}

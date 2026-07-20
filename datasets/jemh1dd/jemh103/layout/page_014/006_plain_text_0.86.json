@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8596521019935608,
+    "bbox": [
+        329.747802734375,
+        1817.3458251953125,
+        763.07666015625,
+        1929.3092041015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_014/006_plain_text_0.86.png",
+    "text": "(i\nSubstitution\nMethod\n(ii)\nElimination\nMethod"
+}

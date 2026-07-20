@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8713303208351135,
+    "bbox": [
+        194.3598175048828,
+        1802.05810546875,
+        359.01519775390625,
+        1849.5919189453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/012_plain_text_0.87.png",
+    "text": "we\nhave"
+}

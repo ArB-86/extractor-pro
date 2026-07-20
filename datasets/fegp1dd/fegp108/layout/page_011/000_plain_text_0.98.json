@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9770102500915527,
+    "bbox": [
+        292.4391174316406,
+        1347.404541015625,
+        2088.134521484375,
+        1717.9327392578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_011/000_plain_text_0.98.png",
+    "text": "Imagine\ne Xtobea\nthat\nbe\nanywhere\nalong\npoint\ncan\nmoved\nthe side AD. Similarly,\nimagine\ne Y to be a point\nthat\ncan\nbe\nmoved\nanywhere\nalong\nthe\nside\nBC.\nNote\nthat\nX\nalso\nbe\ncan\nplaced\nthe\nt A or\nD. Similarly,\nalso be\nend\npoint\nLY\ncan\nplaced\non\nthe\non\nend\npoint B or C."
+}

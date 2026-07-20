@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9059607982635498,
+    "bbox": [
+        365.29681396484375,
+        1118.2701416015625,
+        1285.3076171875,
+        1189.04833984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/009_plain_text_0.91.png",
+    "text": "But this\n ordinary\nbuilding!\nwas\nno"
+}

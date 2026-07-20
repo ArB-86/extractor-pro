@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8824962973594666,
+    "bbox": [
+        289.43951416015625,
+        1688.8505859375,
+        1538.518798828125,
+        1745.2740478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_003/005_plain_text_0.88.png",
+    "text": "which is the required representation of the problem mathematically."
+}

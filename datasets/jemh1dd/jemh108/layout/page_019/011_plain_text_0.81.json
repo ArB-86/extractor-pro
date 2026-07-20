@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8127289414405823,
+    "bbox": [
+        294.7398986816406,
+        2491.421142578125,
+        1368.7353515625,
+        2543.822265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/011_plain_text_0.81.png",
+    "text": "(Viii)\n(sin A + cosec A)\u00b2+ (cos A + sec A)\u00b2 = 7 + tan\u00b2 A + cot\u00b2 A"
+}

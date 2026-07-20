@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9742857217788696,
+    "bbox": [
+        377.6466979980469,
+        2499.403076171875,
+        1606.7703857421875,
+        2739.218994140625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_011/000_plain_text_0.97.png",
+    "text": "You\nknow\nthe\nword\ncube\nfrom\ngeometry. A\ncube\nis a solid figure all\nl of whose all\nsides\nmeet at\nright\nare equal. How many cubes of side 1 cm\nangles and\nmake a cube of side 2 cm?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.96617591381073,
+    "bbox": [
+        193.20175170898438,
+        831.427734375,
+        1754.4012451171875,
+        999.3276977539062
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/002_plain_text_0.97.png",
+    "text": "Example 8 : The ratio of incomes\noftwo\npersons is 9 : 7 and the ratio of their\nexpenditures is 4 : 3. If each of them manages to save ? 2000\n0 per month, find their\nmonthly incomes."
+}

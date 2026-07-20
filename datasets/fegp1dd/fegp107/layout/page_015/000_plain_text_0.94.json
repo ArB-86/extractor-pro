@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9353489875793457,
+    "bbox": [
+        289.5534362792969,
+        393.3973083496094,
+        2090.302978515625,
+        546.0575561523438
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_015/000_plain_text_0.94.png",
+    "text": "We can extend this idea to make a fraction wall\nl up to the fractional\n1. (This fraction wall is given at the end of the book.)\nunit"
+}

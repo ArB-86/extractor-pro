@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6764549016952515,
+    "bbox": [
+        420.0915222167969,
+        390.9538879394531,
+        2067.528076171875,
+        609.9926147460938
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_012/010_plain_text_0.68.png",
+    "text": " At which positions will the points Xa\n and Ybe at their closest?\n?\nthink they\nWhen\ndo\nwill be the f\nfarthest?\nWhat\ndoes\nyou\nyour\nintuition\nsay? Discuss\nWith\nyour\nclassmates."
+}

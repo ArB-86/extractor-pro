@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.6259686946868896,
+    "bbox": [
+        402.763671875,
+        981.9526977539062,
+        1945.7850341796875,
+        1051.907470703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_029/004_plain_text_0.63.png",
+    "text": "Eyes\ns (from 8.1 Artwork and Construct above\n(page no.215)"
+}

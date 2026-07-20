@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5282668471336365,
+    "bbox": [
+        518.2322387695312,
+        2543.262451171875,
+        2104.752685546875,
+        2630.359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_012/014_plain_text_0.53.png",
+    "text": "=4\uff09\uff1a\n3. Write the following fractions as mixed fractions (e.g.,\n912"
+}

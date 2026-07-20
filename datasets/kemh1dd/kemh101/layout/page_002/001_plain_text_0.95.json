@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9494245052337646,
+    "bbox": [
+        193.8644256591797,
+        2236.267578125,
+        1755.05859375,
+        2468.6005859375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/001_plain_text_0.95.png",
+    "text": "(i)\nIn roster form, all the elements of a set are\nlisted, the elements are\nbeing separated\nby commas and\nare enclosed within braces\n{ }. For example, the set of all\neven\npositive\nintegers\nless than\n 7 is described in roster\nform as\n{2, 4, 6}. Some more\nexamples of representing\ng a set in roster\nform are\ngiven\nbelow :"
+}

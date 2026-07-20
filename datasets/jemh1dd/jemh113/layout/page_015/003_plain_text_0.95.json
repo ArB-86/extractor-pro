@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.947038471698761,
+    "bbox": [
+        192.3909454345703,
+        2325.27734375,
+        1752.2464599609375,
+        2435.367431640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/003_plain_text_0.95.png",
+    "text": "1. In Example 6, the mode is less than the mean. But for some other problems it may\nbe equal or more than the mean also."
+}

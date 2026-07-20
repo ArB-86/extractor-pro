@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9595838189125061,
+    "bbox": [
+        373.3656921386719,
+        1404.138671875,
+        2081.686279296875,
+        1586.07080078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/001_plain_text_0.96.png",
+    "text": "We know that perfect squares end in 1, 4, 9, 6, 5, or an even\nnumber of zeros. But, it is not certain that a number that satisfies this\ncondition is a square."
+}

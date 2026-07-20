@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9817606806755066,
+    "bbox": [
+        241.16859436035156,
+        2275.443603515625,
+        1795.570068359375,
+        2660.10693359375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/000_plain_text_0.98.png",
+    "text": "The\nLebombo\nBone\ndiscovered\nin\nthe\nLebombo\nMountains\nbetween\nSouth\nAfrica\nand\nSwaziland,\ndates\nback\napproximately\n35,000\nyears. It is a bone\ne featuring\n29\ndistinct, deliberately-carved\nuniformly-sized notches. Anthropologists and mathematicians believe\nthis was not just random scratching, but a tool used as a lunar\nphase\ncounter or a menstrual calendar, indicating\nthat early\nhumans\nswere\ntracking\ng time through natural numbers."
+}

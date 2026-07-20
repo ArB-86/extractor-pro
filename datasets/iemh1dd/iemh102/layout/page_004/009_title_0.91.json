@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9053444266319275,
+    "bbox": [
+        274.4979248046875,
+        2096.218994140625,
+        808.5521850585938,
+        2163.738525390625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/009_title_0.91.png",
+    "text": "Think\nand\nRe\nRefle\ne\nect"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9365066885948181,
+    "bbox": [
+        246.71249389648438,
+        1019.2461547851562,
+        1155.5916748046875,
+        1270.3323974609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_009/000_plain_text_0.94.png",
+    "text": "1.\n. A circus artist is climbing a 20 m long rope, which is\ntightly stretched and tied from the top of a vertical\npole to the\nground. Find the height of the pole, if\nthe angle made by the rope with the g\nground level is\n30\u00b0 (see Fig. 9.11)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8845067620277405,
+    "bbox": [
+        360.6515197753906,
+        2603.099609375,
+        2188.423828125,
+        2787.452392578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_031/001_plain_text_0.88.png",
+    "text": "Q. Find numbers between\n1 120 and 140 that are divisible by 8. Also find numbers\nbetween 1120 and 1140, and 3120 and 3140, that are divisible by 8. What do you\nobserve?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7560825943946838,
+    "bbox": [
+        286.1192626953125,
+        1072.5618896484375,
+        1139.4368896484375,
+        1125.641357421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_004/008_plain_text_0.76.png",
+    "text": "So, the given equation is a quadratic equation."
+}

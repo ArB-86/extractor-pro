@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7951456308364868,
+    "bbox": [
+        191.37289428710938,
+        1813.4136962890625,
+        1385.1546630859375,
+        1861.2279052734375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/008_plain_text_0.80.png",
+    "text": "5.\nDraw appropriate Venn diagram\nfor each of the following"
+}

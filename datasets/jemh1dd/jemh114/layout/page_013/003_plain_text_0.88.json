@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8843634128570557,
+    "bbox": [
+        245.12350463867188,
+        1786.2679443359375,
+        1111.6304931640625,
+        1836.5260009765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/003_plain_text_0.88.png",
+    "text": "5.\nIf P(E) = 0.05, what is the probability of 'not E'?"
+}

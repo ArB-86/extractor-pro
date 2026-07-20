@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9036871790885925,
+    "bbox": [
+        193.03001403808594,
+        741.4521484375,
+        1615.21435546875,
+        798.6015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_008/006_plain_text_0.90.png",
+    "text": "Solution : There are 40 students, and only one name card has to be chosen."
+}

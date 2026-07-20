@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9139686226844788,
+    "bbox": [
+        189.75035095214844,
+        619.9058227539062,
+        1154.6751708984375,
+        797.0980224609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/004_plain_text_0.91.png",
+    "text": "4-3\nExample 1\nGiven\ntan\nA\n\u4e8c\nfind\nthe\nother\ntrigonometric ratios of the angle A."
+}

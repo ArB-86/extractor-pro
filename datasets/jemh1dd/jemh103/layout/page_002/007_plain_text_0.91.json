@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9084170460700989,
+    "bbox": [
+        294.1980895996094,
+        1911.895751953125,
+        1171.326171875,
+        1964.701416015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/007_plain_text_0.91.png",
+    "text": "Consider the following\nthree\npairs of equations."
+}

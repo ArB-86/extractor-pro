@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9735287427902222,
+    "bbox": [
+        191.65284729003906,
+        1714.7274169921875,
+        1755.955078125,
+        1886.4827880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_004/004_plain_text_0.97.png",
+    "text": "Sometimes when the numerical values of x. and f, are large, finding the product\nof x. and f becomes tedious and time consuming. So, for such situations, let us think of\na method of reducing these calculations."
+}

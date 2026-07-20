@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9035711288452148,
+    "bbox": [
+        295.4767761230469,
+        1109.3580322265625,
+        2187.087646484375,
+        1230.8897705078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_027/002_plain_text_0.90.png",
+    "text": "Will any year's calendar repeat again after some years? Will all dates and days in a\nQ.\nyear match exactly with that of another year?"
+}

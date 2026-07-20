@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6851468682289124,
+    "bbox": [
+        315.53509521484375,
+        1887.978271484375,
+        1622.17041015625,
+        2070.9052734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/018_plain_text_0.69.png",
+    "text": "(i)\nx+y=5\nand\n2x -3y = 4\n(i) 3x + 4y = 10\nand\n2x-2y=2\n2y\nx\n3x -5y-4=0\n9x = 2y + 7\n= -1 and\nx--\n=3\n(ii)\nand\n(iv)\n\u4e00\n+\n2\n3\n3"
+}

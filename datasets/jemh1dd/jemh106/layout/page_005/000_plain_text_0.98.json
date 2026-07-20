@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9773262143135071,
+    "bbox": [
+        191.4365997314453,
+        2332.51953125,
+        1756.652587890625,
+        2562.93408203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_005/000_plain_text_0.98.png",
+    "text": "So, the two quadrilaterals \n are not similar. Similarly, you may n\nnote that in the two\nquadrilaterals\n(a square\nand a rhombus) of Fig. 6.7, corresponding\nsides\nare\nin\nthe\nratio, but\ntheir\ncorresponding\nangles\nnot\nequal. Again, t\nare\nthe\ntwo\npolygons\nsame\n(quadrilaterals)\nare not similar."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8380407691001892,
+    "bbox": [
+        224.87547302246094,
+        900.2825927734375,
+        1184.18798828125,
+        1148.427001953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/011_plain_text_0.84.png",
+    "text": "12.A\ngame\neofchance\nconsistsofs\nspinning\nana\narrow\nwhich comes to rest pointing at one of the numbers\n1, 2,3, 4, 5, 6, 7, 8 (see Fig. 14.5 ), and these are equally\nlikely c\n outcomes. What is the probability that it will\npoint at"
+}

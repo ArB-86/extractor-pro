@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9233170747756958,
+    "bbox": [
+        193.24574279785156,
+        1770.6414794921875,
+        1752.6082763671875,
+        1884.4674072265625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/002_plain_text_0.92.png",
+    "text": "Example 11 Let A, B and C be three sets. If A \u2208 B and B c C, is it true that\nA c C?. If not, give an example."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9825762510299683,
+    "bbox": [
+        236.5147247314453,
+        475.8280029296875,
+        1796.6356201171875,
+        1244.610595703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_003/000_plain_text_0.98.png",
+    "text": "  + z \u20181 - 7 + z + s \u2018 - z\u20181 + zx \u2018x 9 9 9u1991dx\nalgebraic expressions that involve only one variable: x, y or z.\nIn this chapter, we will restrict our discussion to algebraic\nexpressions involving only one variable. You may have noticed that\nin an algebraic expression, the powers of a variable also appear. For\n  x      t  t  x   \nwhereas in the expression 5y? + y2 - 8, the highest power of the variable\n    -  +  +        \n '-               1 \u2018 \nalgebraic expressions involving one variable and its powers are\ncalled one-variable polynomials, univariate polynomials, or when\nthe context is clear, simply\ny polynomials. ('univariate\u2019 means \u2018having\none variable'). The highest power of the variable in a polynomial is\ncalled its degree. For example:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8083726167678833,
+    "bbox": [
+        296.1609191894531,
+        2311.390869140625,
+        2187.594482421875,
+        2434.739013671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_033/005_plain_text_0.81.png",
+    "text": "Q.6. Which of the following\n numbers are divisible by all of 2, 4, 5, 8 and 10: 572, 2352.\n5600, 6000,77622160."
+}

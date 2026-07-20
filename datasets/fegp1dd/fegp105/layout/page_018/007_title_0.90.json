@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "title",
+    "confidence": 0.9039775729179382,
+    "bbox": [
+        420.7643127441406,
+        998.45654296875,
+        900.8937377929688,
+        1069.4420166015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_018/007_title_0.90.png",
+    "text": "Divisib\nibility\nDi\nby\n4"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9539722204208374,
+    "bbox": [
+        190.55308532714844,
+        1524.8922119140625,
+        1756.0321044921875,
+        1687.0902099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_005/003_plain_text_0.95.png",
+    "text": "Youmay\n1 note that in the two quadrilaterals (a square and a rectangle) of\nFig. 6.6, corresponding angles are equal, but their corresponding sides are not in the\nsame ratio."
+}

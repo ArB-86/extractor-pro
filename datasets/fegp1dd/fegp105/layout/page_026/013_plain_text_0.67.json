@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.6695022583007812,
+    "bbox": [
+        445.896728515625,
+        1049.8707275390625,
+        2088.477783203125,
+        1112.873779296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/013_plain_text_0.67.png",
+    "text": "e see that 2 is a prime and also an even number. Is there any other even prim"
+}

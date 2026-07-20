@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8963054418563843,
+    "bbox": [
+        300.3925476074219,
+        842.4252319335938,
+        1322.4766845703125,
+        1003.9605102539062
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_024/000_plain_text_0.90.png",
+    "text": "Ans.\ndn\nsize of 3\nor 5\nwill take us to 1\n15 & 30.\nOther\npossible jump\nsizes are\n 1, 15."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6253687739372253,
+    "bbox": [
+        454.1288757324219,
+        2739.849853515625,
+        1997.318359375,
+        2807.581787109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_003/009_plain_text_0.63.png",
+    "text": "o, has the use of instruments made the construction easier?"
+}

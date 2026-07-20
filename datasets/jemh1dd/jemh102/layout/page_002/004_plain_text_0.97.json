@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.967260479927063,
+    "bbox": [
+        193.19139099121094,
+        2105.66748046875,
+        1753.1304931640625,
+        2224.471923828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/004_plain_text_0.97.png",
+    "text": "In this chapter, we will try to answer these questions. We will also study\nI the\ndivision algorithm for polynomials."
+}

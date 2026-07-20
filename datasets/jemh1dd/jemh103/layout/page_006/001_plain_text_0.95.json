@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9516423344612122,
+    "bbox": [
+        248.76524353027344,
+        2317.98291015625,
+        1754.4281005859375,
+        2469.200439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/001_plain_text_0.95.png",
+    "text": "7. Draw the graphs of the equations x - y + 1 = 0 and 3x + 2y - 12 = 0. Determine the\ncoordinates of the vertices of the triangle formed by these lines and the x-axis, and\nshade the triangular region."
+}

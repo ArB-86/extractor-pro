@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9776468873023987,
+    "bbox": [
+        191.9013671875,
+        1907.1153564453125,
+        1754.1422119140625,
+        2080.674072265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_004/003_plain_text_0.98.png",
+    "text": "We can do nothing with the f's, but we can change each x to a smaller number\nso that our calculations become easy. How do we do this? What about subtracting\nfixed number from each of these x's? Let us try this method."
+}

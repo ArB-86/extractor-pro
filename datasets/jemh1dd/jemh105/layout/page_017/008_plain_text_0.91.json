@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9130986332893372,
+    "bbox": [
+        192.947021484375,
+        2007.4281005859375,
+        1147.1295166015625,
+        2060.435791015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_017/008_plain_text_0.91.png",
+    "text": "So, the sum of the first 22 t\nterms of the AP is - 979."
+}

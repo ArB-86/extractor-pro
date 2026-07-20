@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9574766159057617,
+    "bbox": [
+        193.1373748779297,
+        1110.5640869140625,
+        1756.3037109375,
+        1275.6842041015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_015/004_plain_text_0.96.png",
+    "text": "Theorem\n6.3 : If in two triangles, corresponding angles\nS are equal, then their\ncorresponding sides are in the same ratio (or proportion)\nand hence the two\ntriangles are similar."
+}

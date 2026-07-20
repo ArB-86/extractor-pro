@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8900200128555298,
+    "bbox": [
+        307.03570556640625,
+        1537.0098876953125,
+        2049.4384765625,
+        1599.18603515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_053/005_plain_text_0.89.png",
+    "text": "Q.5. Draw the letter *Y' such that the three angles formed are 150\u00b0, 60\u00b0 and 150\u00b0."
+}

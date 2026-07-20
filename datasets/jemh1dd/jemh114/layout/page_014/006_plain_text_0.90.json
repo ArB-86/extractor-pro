@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.896548330783844,
+    "bbox": [
+        301.6683654785156,
+        1585.5584716796875,
+        1733.0955810546875,
+        1693.0516357421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/006_plain_text_0.90.png",
+    "text": "a king of red colour\n11\na face card\n11i\na red face card\n(iv)\nthe jack of hearts\nV\na spade\n(vi) t\nthe queen of diamonds"
+}

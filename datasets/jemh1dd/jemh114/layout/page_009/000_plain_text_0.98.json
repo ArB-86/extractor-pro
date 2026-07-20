@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9822430610656738,
+    "bbox": [
+        194.14064025878906,
+        1573.84765625,
+        1753.49267578125,
+        1958.531005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/000_plain_text_0.98.png",
+    "text": "Therearemany e\nexperiments in which the outcome is any number between two\ngiven numbers, or in which the outcome is every point within a circle or rectangle, etc.\nCan you now count the number of all possible outcomes? As you know, this is not\npossible since there are infinitely\ny many numbers between two g\ngiven numbers, or there\nare infinitely many points within a circle. So, the definition of (theoretical) probability\nwhich you have learnt so far cannot be applied in the present form. What is the way\nout?Toa\nanswer this, let us consider the following example :"
+}

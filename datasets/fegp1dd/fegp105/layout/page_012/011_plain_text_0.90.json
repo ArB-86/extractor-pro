@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8979679942131042,
+    "bbox": [
+        491.8240661621094,
+        1680.0875244140625,
+        1353.4232177734375,
+        1746.18505859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/011_plain_text_0.90.png",
+    "text": "Let us see a few more examples."
+}

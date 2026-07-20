@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9466018676757812,
+    "bbox": [
+        194.14047241210938,
+        1829.1324462890625,
+        1753.5400390625,
+        1935.56787109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/001_plain_text_0.95.png",
+    "text": "It can be shown that the above result is true in g\ngeneral. If A and B\nareany\ntwo\nsubsets of the universal set U, then"
+}

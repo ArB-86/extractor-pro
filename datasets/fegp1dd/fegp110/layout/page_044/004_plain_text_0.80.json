@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7957073450088501,
+    "bbox": [
+        296.7099304199219,
+        2324.186767578125,
+        994.4046630859375,
+        2386.450439453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_044/004_plain_text_0.80.png",
+    "text": "(+2) + (-3) = -1; Toy store.\nAns."
+}

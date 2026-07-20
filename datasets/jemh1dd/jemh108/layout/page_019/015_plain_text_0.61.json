@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.6075099110603333,
+    "bbox": [
+        310.0687561035156,
+        1762.074951171875,
+        1744.34814453125,
+        2539.759033203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/015_plain_text_0.61.png",
+    "text": "1 - cos \u03b8\nCOS A\n1 + sin A\n(i)\n= 2 sec A\n1\n1 + sin A\ncOS A\ntan \u03b8\ncot \u03b8\n= 1 + sec \u03b8 cosec \u03b8\n(ii)\n+\n1- cot \u03b8\n'1- tan \u03b8\n[Hint : Write the expression in terms of sin O and cos 0]\nsin\u00b2 A\n1 + sec A\n(iv)\n[Hint : Simplify LHS and RHS separately]\nsec A\n1 - cos A\ncos A - sin A + 1\ncosec A + cot A, using the identity cosec\u00b2 A= 1 + cot A\ncos A + sin A - 1\n1 + sin A\nsin \u03b8 - 2 sin3 \u03b8\n= sec A + tan A\n(vi)\n(vii)\n= tan \u03b8\n1 - sin A\n2 cos3 \u03b8 - cos \u03b8\nViii)\n(sin A + cosec A)\u00b2+ (cos A + sec A)\u00b2 = 7 + tan\u00b2 A + cot\u00b2 A"
+}

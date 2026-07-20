@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9781092405319214,
+    "bbox": [
+        194.67030334472656,
+        398.2099914550781,
+        1754.4666748046875,
+        627.1342163085938
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_002/000_plain_text_0.98.png",
+    "text": "been\ndirectly\nWith\nthe help of\na measuring\ntape? In fact, all\nmeasured\nthese\nheights\nand distances\nhave\nbeen\nfound out using\nthe idea of indirect measurements, which is\nbased on i\nthe\nprinciple of s\n similarity of figures\n(see\nExample 7, Q.15 of Exercise\n6.3\nand also Chapters\n8\nand 9 of this\nbook)."
+}

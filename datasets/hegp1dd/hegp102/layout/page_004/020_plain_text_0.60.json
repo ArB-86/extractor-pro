@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5974766612052917,
+    "bbox": [
+        359.2817077636719,
+        2520.2822265625,
+        857.4649658203125,
+        2590.060546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/020_plain_text_0.60.png",
+    "text": "Is\n2)4\n6?\n Verify.\n16\n\u4e8c"
+}

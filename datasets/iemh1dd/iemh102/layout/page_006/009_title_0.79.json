@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.7854813933372498,
+    "bbox": [
+        237.28562927246094,
+        1872.7664794921875,
+        1112.127197265625,
+        1934.158935546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_006/009_title_0.79.png",
+    "text": "2.3 EXPLORING LINEAR P\nPATTERNS"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8472603559494019,
+    "bbox": [
+        195.35659790039062,
+        1476.4578857421875,
+        632.5999145507812,
+        1530.371337890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_007/013_plain_text_0.85.png",
+    "text": "Also,\nby\nTheorem\n10.1"
+}

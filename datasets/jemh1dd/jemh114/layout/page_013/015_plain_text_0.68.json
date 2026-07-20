@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6816279292106628,
+    "bbox": [
+        321.0315246582031,
+        999.8217163085938,
+        1753.1807861328125,
+        1096.119140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/015_plain_text_0.68.png",
+    "text": "V\nThe probability of an event is greater than or equal to\nand less than or\nequalto"
+}

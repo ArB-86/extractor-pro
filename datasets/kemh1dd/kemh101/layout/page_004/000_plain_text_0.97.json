@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9696042537689209,
+    "bbox": [
+        190.18429565429688,
+        1765.388916015625,
+        1755.882080078125,
+        1995.7685546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/000_plain_text_0.97.png",
+    "text": "Solution\nSince in\n(d), there are 9 letters in\nthe\ne word PRINCIPAL and two\noletters\nSP\nand I\n\uff0cSO\n(i)\nmatches\n(d). Similarly,\nrepeated,\n, (ii)\nmatches\n(c)\nas x + 1 = 1 \nimplies\nare\nx= 0.Als0, 1,2 ,3,6, 9, 18\nare all divisors of 18 and so (ii)\nmatches\n(a). Finally, x\u00b2 - 9 = 0\nimplies x = 3, -3\nand so\n (iv)\nmatches\n(b)."
+}

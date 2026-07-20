@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8026416897773743,
+    "bbox": [
+        530.2530517578125,
+        546.1416015625,
+        2208.635009765625,
+        670.1279296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_020/006_plain_text_0.80.png",
+    "text": "Find the\nwhen each of the following\n4\u3002\nremainders\nobtained\nnumbers are divided by (a) 10, (b) 5, (c) 2."
+}

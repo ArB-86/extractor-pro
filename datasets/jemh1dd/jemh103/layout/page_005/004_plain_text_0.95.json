@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9541324973106384,
+    "bbox": [
+        337.6906433105469,
+        2348.11376953125,
+        1753.603759765625,
+        2498.78857421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/004_plain_text_0.95.png",
+    "text": "1\n10 students of Class X took part in a Mathematics quiz. If the number of girls is 4\nmore than the number of boys, find the number of boys and girls who took part in\nthequiz."
+}

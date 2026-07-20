@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.7030230760574341,
+    "bbox": [
+        425.1270751953125,
+        1516.61669921875,
+        1626.0948486328125,
+        1862.478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_023/008_plain_text_0.70.png",
+    "text": "1=\nlower limit of median class.\nnumber of observations,\nn=\ncf =\ncumulative frequency of class preceding the median class,\nf=\nfrequency of median class,\nh = class size\nassuming\n class size to be equal)."
+}

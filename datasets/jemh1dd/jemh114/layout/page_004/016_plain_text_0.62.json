@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6220014691352844,
+    "bbox": [
+        192.87185668945312,
+        808.7935791015625,
+        1096.4697265625,
+        918.9874267578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/016_plain_text_0.62.png",
+    "text": "1\n1\nSimilarly,\n(i)\nP(R) =\nand\n(iii)\nP(B)\n\u4e8c\n3\n3"
+}

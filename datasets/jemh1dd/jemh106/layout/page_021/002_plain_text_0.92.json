@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.916452944278717,
+    "bbox": [
+        193.47975158691406,
+        466.4983215332031,
+        800.0956420898438,
+        519.6343994140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/002_plain_text_0.92.png",
+    "text": "Note that in \u25b3 ABE and \u25b3 CDE."
+}

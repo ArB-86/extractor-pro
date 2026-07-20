@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8846986293792725,
+    "bbox": [
+        200.7308807373047,
+        782.759033203125,
+        1756.8382568359375,
+        890.6054077148438
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/004_plain_text_0.88.png",
+    "text": "Solution\nn Since O \u2208 A and O does not belong to any of the sets B, C, D and E, it\nfollows that, A \u2260 B, A \u2260 C, A \u2260 D, A \u2260 E."
+}

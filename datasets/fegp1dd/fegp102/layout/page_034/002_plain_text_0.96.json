@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9638960361480713,
+    "bbox": [
+        532.850830078125,
+        859.1279907226562,
+        1696.836669921875,
+        1221.8553466796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_034/002_plain_text_0.96.png",
+    "text": "5.\nObserve\nthe\nimages\nbelow\nwhere\nthere\niS\nan insect and its rotated\nd version. Can angles\nbe used to describe the amount of rotation?\nHow? What will be the arms of the angle and\nthe vertex?"
+}

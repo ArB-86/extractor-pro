@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9339673519134521,
+    "bbox": [
+        290.89288330078125,
+        1197.40087890625,
+        986.7938842773438,
+        1250.5318603515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/008_plain_text_0.93.png",
+    "text": "For example, for the list of \nnumbers :"
+}

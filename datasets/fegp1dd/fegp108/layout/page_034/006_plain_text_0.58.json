@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.5763957500457764,
+    "bbox": [
+        301.2370910644531,
+        1905.4534912109375,
+        2170.426025390625,
+        2021.9534912109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_034/006_plain_text_0.58.png",
+    "text": "Q. How does the farthest distance between X and Y compare with the length of AC?\nBD?"
+}

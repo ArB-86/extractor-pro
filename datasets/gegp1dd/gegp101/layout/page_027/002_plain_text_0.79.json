@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.793042004108429,
+    "bbox": [
+        371.3462219238281,
+        2425.286376953125,
+        1536.65869140625,
+        2493.69287109375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_027/002_plain_text_0.79.png",
+    "text": "Creative\nChitti has some\nquestions\nfor you\n\u4e00"
+}

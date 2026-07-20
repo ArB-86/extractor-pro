@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9562076330184937,
+    "bbox": [
+        376.95281982421875,
+        828.454833984375,
+        1486.167724609375,
+        947.5636596679688
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/001_plain_text_0.96.png",
+    "text": "Notice\nthe\nchange\nin\nthickness\nafter\ntwo\nfolds. By how much does it increase?"
+}

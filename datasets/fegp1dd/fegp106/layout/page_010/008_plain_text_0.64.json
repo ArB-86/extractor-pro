@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6397504806518555,
+    "bbox": [
+        526.2550048828125,
+        1313.917236328125,
+        2212.64013671875,
+        1997.4158935546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_010/008_plain_text_0.64.png",
+    "text": "1. The area of a rectangular garden 25 m long is 300 sq m. What is\nthe width of the garden?\n2. What is the cost of tiling a rectangular plot ofland 5o0 m long and\n200 m wide at the rate of?8 per hundred sq m?\n3. A rectangular coconut grove is 1o0 m long and 50 m wide. If each\ncoconut tree requires 25 sq m, what is the maximum number of\ntrees that can be planted in this grove?\n4. By splitting the following figures into rectangles, find their areas\n(all measures are given in metres)."
+}

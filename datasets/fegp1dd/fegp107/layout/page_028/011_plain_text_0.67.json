@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6650126576423645,
+    "bbox": [
+        424.59368896484375,
+        1685.401123046875,
+        2211.77880859375,
+        1982.91552734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_028/011_plain_text_0.67.png",
+    "text": "1.\nFind\nequivalent\nfractions\nthat\nthe\nfractional\nSO\nunit\nis\ncommon\nfor all\nfractions.\nThis\nbe done\nby\nfinding\ncan\n a common 1\nmultiple\nof the denominators\n(e.g., the\ne product of the denominators, or \nthe\nsmallest common multiple of the denominators)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.8640823364257812,
+    "bbox": [
+        195.89845275878906,
+        1950.9217529296875,
+        1575.932373046875,
+        2007.385498046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_009/005_title_0.86.png",
+    "text": "2.3\nRelationship between Zeroes and Coefficients of a Polynomial"
+}

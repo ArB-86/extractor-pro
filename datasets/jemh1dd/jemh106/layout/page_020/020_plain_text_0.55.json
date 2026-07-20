@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.54585200548172,
+    "bbox": [
+        960.204345703125,
+        1821.0244140625,
+        1749.89453125,
+        1875.519775390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/020_plain_text_0.55.png",
+    "text": "(Corresponding angles of similar triangles)"
+}

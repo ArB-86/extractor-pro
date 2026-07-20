@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9611372351646423,
+    "bbox": [
+        192.85690307617188,
+        400.59912109375,
+        1156.15771484375,
+        518.0927734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_006/002_plain_text_0.96.png",
+    "text": "Since, we\nknow\nthe height of the\ne building\nAB,\nwe\nwill first consider the right \u25b3 PAB."
+}

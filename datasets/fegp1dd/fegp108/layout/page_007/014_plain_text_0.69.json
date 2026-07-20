@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6860830187797546,
+    "bbox": [
+        374.99627685546875,
+        2766.827392578125,
+        1315.384033203125,
+        2926.76708984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/014_plain_text_0.69.png",
+    "text": "Are\nall the :\nsides still\nequal? Yes.\nall the\n90\u00b0? Yes.\nAre\nangles still :"
+}

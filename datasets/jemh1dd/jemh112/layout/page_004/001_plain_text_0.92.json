@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9162852764129639,
+    "bbox": [
+        194.0995330810547,
+        395.034423828125,
+        1753.3873291015625,
+        453.0410461425781
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_004/001_plain_text_0.92.png",
+    "text": "Also, the height of the cone = height of the top - height (radius) of the hemispherical part"
+}

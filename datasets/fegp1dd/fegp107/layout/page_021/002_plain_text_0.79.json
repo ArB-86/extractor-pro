@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7889977097511292,
+    "bbox": [
+        292.2196960449219,
+        828.6585083007812,
+        1922.3577880859375,
+        900.7103881835938
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_021/002_plain_text_0.79.png",
+    "text": "Mukta: Okay, so let us start making equivalent fractions then:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.902801513671875,
+    "bbox": [
+        194.46084594726562,
+        600.6864624023438,
+        1752.9739990234375,
+        713.2693481445312
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/006_plain_text_0.90.png",
+    "text": "Example 21 Let U be universal set of all the students of Class XI of a coeducational\nschool and A be the set of all girls in Class XI. Find A'."
+}

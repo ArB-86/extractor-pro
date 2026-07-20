@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7413511276245117,
+    "bbox": [
+        190.37811279296875,
+        1144.023681640625,
+        1597.8758544921875,
+        1205.33740234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_013/005_plain_text_0.74.png",
+    "text": "Solution : Comparing the given polynomial with ax3 + bx\u00b2 + cx + d, we get"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9830805659294128,
+    "bbox": [
+        191.37136840820312,
+        963.2421875,
+        1755.7730712890625,
+        1309.197509765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_018/000_plain_text_0.98.png",
+    "text": "AB\nAC\n2\nHere, you may c\nobserve that\n(each equal\n1 to\nand Z A (included\nDE\nDF\n3\nbetween the sides AB and AC) = Z D (\n(included between the sides DE and DF). That\nis, one angle of a triangle is equal to one angle of another triangle and sides including\nthese angles are in the same ratio\n0 (i.e., proportion). Now let us measure\nZB, Z C,\nZ E and Z F."
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Question Search</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        input { width: 300px; padding: 8px; }
+        button { padding: 8px 16px; }
+        .result { border-bottom: 1px solid #ddd; padding: 10px 0; }
+        .answer { color: #555; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Question Search</h1>
+    <input id="query" placeholder="Search..." />
+    <button onclick="search()">Search</button>
+    <div id="results"></div>
+    <script>
+        async function search() {
+            const q = document.getElementById("query").value;
+            if (!q) return;
+            const res = await fetch(`http://localhost:8000/search?q=${encodeURIComponent(q)}`);
+            const data = await res.json();
+            const div = document.getElementById("results");
+            div.innerHTML = data.map(r => `
+                <div class="result">
+                    <strong>${r.question_text}</strong>
+                    <div>Chapter: ${r.chapter || 'N/A'} | Q${r.question_number || ''} | Page ${r.source_page || 'N/A'}</div>
+                    ${r.answer ? `<div class="answer">Answer: ${r.answer}</div>` : ''}
+                </div>
+            `).join('');
+        }
+    </script>
+</body>
+</html>

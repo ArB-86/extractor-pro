@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9759517908096313,
+    "bbox": [
+        191.31173706054688,
+        1077.083984375,
+        1754.4140625,
+        1724.5594482421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_014/001_plain_text_0.98.png",
+    "text": "Now a natural question arises : For checking the similarity of two triangles, say\nABC and DEF, should we always look for all the equality relations of their corresponding\nangles (Z A = Z D, Z B = Z E, Z C = Z F) and all the equality relations of the ratios\nAB_BC_CA\nof their corresponding sides\n? Let us examine. You may recall that\nDEEFFD\nin Class IX, you have obtained some criteria for congruency of two triangles involving\nonly three pairs of corresponding parts (or elements) of the two triangles. Here also,\nrelationship between less number of pairs of corresponding parts of the two triangles,\ninstead of all the six pairs of corresponding parts. For this, let us perform the following\nactivity:"
+}

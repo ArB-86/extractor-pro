@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9203675389289856,
+    "bbox": [
+        316.3465881347656,
+        420.12359619140625,
+        1247.5843505859375,
+        545.0977172851562
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/005_plain_text_0.92.png",
+    "text": "!n'f\n(ii)\nthe step deviation\nmethod :\nx\n+D\nxh"
+}

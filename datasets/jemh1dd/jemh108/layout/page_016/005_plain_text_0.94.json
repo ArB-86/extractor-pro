@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9366839528083801,
+    "bbox": [
+        291.10955810546875,
+        945.057373046875,
+        1296.007568359375,
+        1001.0797119140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_016/005_plain_text_0.94.png",
+    "text": "In \u25b3 ABC, right-angled at B\n(see Fig. 8.21), we have:"
+}

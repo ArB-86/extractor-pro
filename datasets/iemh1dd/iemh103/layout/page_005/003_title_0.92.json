@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9193769693374634,
+    "bbox": [
+        237.9346923828125,
+        1675.427490234375,
+        1053.9732666015625,
+        1736.202392578125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/003_title_0.92.png",
+    "text": "3.3.1 The Arithmetic of Integers"
+}

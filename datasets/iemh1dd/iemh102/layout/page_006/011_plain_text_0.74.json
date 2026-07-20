@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7445135116577148,
+    "bbox": [
+        272.9173889160156,
+        1324.738525390625,
+        1796.8232421875,
+        1496.00244140625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_006/011_plain_text_0.74.png",
+    "text": "5.\nRuby\nhas 3\ntimes\nmany\ntwo-rupee\ncoins\nshe\nhas\nfive\nas\nas\nrupee-coins. If she has a total ?88, how many coins does she have\nof each type?"
+}

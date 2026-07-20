@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9193193316459656,
+    "bbox": [
+        309.11090087890625,
+        1642.9620361328125,
+        2086.376708984375,
+        1855.4576416015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_025/001_plain_text_0.92.png",
+    "text": "When a figure is made up of parts that repeat in a definite pattern,\nthat the figure has symmetry. We say t\nwesay\nthat such a figure is\nsymmetrical."
+}

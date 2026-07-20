@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.857643723487854,
+    "bbox": [
+        291.5488586425781,
+        2048.6826171875,
+        2082.63525390625,
+        2189.560302734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/008_plain_text_0.86.png",
+    "text": "Step 5: Continue this process till all the numbers in the list are either\ncircled or crossed out."
+}

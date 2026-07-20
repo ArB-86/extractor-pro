@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8804237842559814,
+    "bbox": [
+        273.9898376464844,
+        1426.979736328125,
+        1456.578125,
+        1487.722412109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_006/007_plain_text_0.88.png",
+    "text": "3.\nCalculate the following\nusing\nBrahmagupta's laws:"
+}

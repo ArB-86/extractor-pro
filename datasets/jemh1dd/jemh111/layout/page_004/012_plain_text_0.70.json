@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6984826922416687,
+    "bbox": [
+        195.91445922851562,
+        1110.694091796875,
+        1524.9556884765625,
+        1227.196533203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_004/012_plain_text_0.70.png",
+    "text": "120\n22\nNow,\narea of the sector OAYB\nX\nx21x 21cm\u00b2 = 462 cm\u00b2\n360\n7"
+}

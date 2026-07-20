@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5286951065063477,
+    "bbox": [
+        269.4537658691406,
+        2211.701171875,
+        1224.693359375,
+        2265.65576171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_003/013_plain_text_0.53.png",
+    "text": "Therefore, (x - 2)\u00b2 + 1 = 2x - 3 can\nbe rewritten as"
+}

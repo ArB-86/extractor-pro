@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9636704921722412,
+    "bbox": [
+        192.67208862304688,
+        395.60430908203125,
+        1156.1397705078125,
+        558.8525390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/001_plain_text_0.96.png",
+    "text": "Theorem\n6.2\n2:Ifal\nline\ndivides\nsides of a\nany:\ntwo\ntriangle\nin\nthe\nratio,1\nthen\nthe\nline\nsame\nis\nparallel\nto\nthe\nthird\nside."
+}

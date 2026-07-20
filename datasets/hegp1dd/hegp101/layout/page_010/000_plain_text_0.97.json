@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9652602672576904,
+    "bbox": [
+        375.1270751953125,
+        1076.013427734375,
+        2093.089111328125,
+        1311.6878662109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/000_plain_text_0.97.png",
+    "text": "Akhil has a square\npiece of cloth of\narea\n125\ncm\". He\nwants to know\nif he\nout\na square\nhandkerchief of side 15\ncan\ncut\ncm.If\nnot, he\nwants\nto know\nthe\nsize\nhandkerchief that\ncan\nbe cut\nout\nfrom\nthis\nmaximum\npiece of cloth\nWith\ninteger\nside length.\nan"
+}

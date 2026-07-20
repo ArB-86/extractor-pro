@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.818272590637207,
+    "bbox": [
+        238.0386505126953,
+        1464.439453125,
+        1797.5845947265625,
+        1697.7802734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/009_plain_text_0.82.png",
+    "text": "Consider a square where each side is\nexactly\n1\nunit long. By the Baudhayana-Pythagoras\nTheorem, the length of the\ndiagonal d is\nby 12 + 1\n 12 = d\u2019, so d\u00b2 = 2. Therefore, the length of the\ngiven\ndiagonal is\n\u221a2."
+}

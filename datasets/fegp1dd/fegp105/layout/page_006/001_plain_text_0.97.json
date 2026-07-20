@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9664549827575684,
+    "bbox": [
+        419.64471435546875,
+        1580.974853515625,
+        1380.3267822265625,
+        1870.0234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/001_plain_text_0.97.png",
+    "text": "Anshu\ncould\nmake\nonly\none\narrangement: 7 x 1 or 1 x 7. There \ne are\nno\nother\nrectangular\narrangements\npossible."
+}

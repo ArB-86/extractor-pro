@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9465115070343018,
+    "bbox": [
+        378.294921875,
+        1498.448974609375,
+        2087.70166015625,
+        1676.74462890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_001/001_plain_text_0.95.png",
+    "text": "\"I have created a puzzle. If all 1o0 of you answer it at the same time, you\n   o r   o       \nproblem, you will\nget to keep the entire inheritance to yourself. Good luck."
+}

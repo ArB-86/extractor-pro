@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9792259931564331,
+    "bbox": [
+        193.53521728515625,
+        747.2521362304688,
+        1006.3035278320312,
+        1406.3409423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_008/000_plain_text_0.98.png",
+    "text": "Let us recall the situation in Section 7.2.\nSuppose a telephone company wants to\nposition a relay tower at P between A and B\nis such a way that the distance of the tower\nfrom B is twice its distance from A. If P lies\non AB, it will divide AB in the ratio 1 : 2\n(see Fig. 7.9). If we take A as the origin O,\nand 1 km as one unit on both the axis, the\ncoordinates of B will be (36, 15). In order to\nknow the position of the tower, we must know\nthe coordinates of P. How do we find these\ncoordinates?"
+}

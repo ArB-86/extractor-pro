@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9001896381378174,
+    "bbox": [
+        435.0320739746094,
+        639.523193359375,
+        1661.5970458984375,
+        704.677978515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_005/007_plain_text_0.90.png",
+    "text": "Consider the following\nnumbers and their squares."
+}

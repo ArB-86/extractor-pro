@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9469591379165649,
+    "bbox": [
+        193.16590881347656,
+        652.2635498046875,
+        1752.56689453125,
+        802.3502807617188
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_002/004_plain_text_0.95.png",
+    "text": "Efxi\nwhich, more briefly, is written as x =\nif it is understood that i varies from\nEf\n1 to n."
+}

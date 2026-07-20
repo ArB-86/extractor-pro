@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9318305850028992,
+    "bbox": [
+        418.9617004394531,
+        872.5975952148438,
+        806.9778442382812,
+        939.4993896484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_005/006_title_0.93.png",
+    "text": "1\nB\na\nack\nZE\nero"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.963604748249054,
+    "bbox": [
+        190.38320922851562,
+        1160.6231689453125,
+        1749.8089599609375,
+        1323.516845703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_001/000_plain_text_0.96.png",
+    "text": "You must have observed that in nature, many t\nthings follow a certain pattern, such as\nthe petals of a sunflower, the holes of a honeycomb, the grains on a maize cob, the\nspirals on a pineapple and on a pine cone, etc."
+}

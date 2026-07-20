@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9587148427963257,
+    "bbox": [
+        380.4373779296875,
+        1838.0770263671875,
+        2084.7783203125,
+        2017.8243408203125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_004/001_plain_text_0.96.png",
+    "text": "Study the squares in the table above. What are the digits in the\nunits places of these numbers? All these numbers end with 0, 1, 4, 5, 6 or\n9. None of them end with 2, 3, 7 or 8."
+}

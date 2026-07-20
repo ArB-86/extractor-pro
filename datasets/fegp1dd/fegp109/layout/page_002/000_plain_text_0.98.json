@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9833629131317139,
+    "bbox": [
+        420.7319030761719,
+        773.94580078125,
+        1485.79052734375,
+        1515.3546142578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_002/000_plain_text_0.98.png",
+    "text": "Now, can you say what figure repeats\nalong each side of the hexagon? What\nis the shape of the figure that is stuck to\neach side? Do you recognise it? How do\nthese shapes move as you move along the\nboundary of the hexagon? What about\nthe other pictures\u2014what is it about\nthose structures that appeals to you and\nwhat are the patterns in those structures\nthat repeat?"
+}

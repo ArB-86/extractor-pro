@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9824537038803101,
+    "bbox": [
+        240.9601593017578,
+        2184.6494140625,
+        1796.323974609375,
+        2463.6689453125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_001/001_plain_text_0.98.png",
+    "text": "Example 2: A rectangular\ngarden of length l metres\nand\nWidth\nM\nfence is to be laid along\nmetres\nhas to be f\nfenced\nand decorated. A wire\nthe\nlength\ncosting\n?100\nmetre\nand\na1\nwooden\nfence\ne is to be built\nper\nalong\nthe\ne width\ncosting\n?80\nper metre. Special\nseeds\ns have\ne to be\nsown\nthroughout the\ngarden which will\ncost ?50\nper square metre."
+}

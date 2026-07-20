@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9657084345817566,
+    "bbox": [
+        194.36367797851562,
+        1625.71728515625,
+        1755.105224609375,
+        1788.0286865234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_006/002_plain_text_0.97.png",
+    "text": "So, you can see\ngeometrically that a quadratic polynomial can have either two\ndistinct zeroes or two equal zeroes\n(i.e., one zero), or no zero. This also means that a\npolynomial of degree 2 has atmost two zeroes."
+}

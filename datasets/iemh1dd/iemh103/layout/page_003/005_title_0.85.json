@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.854418158531189,
+    "bbox": [
+        239.4786376953125,
+        1404.56201171875,
+        1577.2564697265625,
+        1543.07666015625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/005_title_0.85.png",
+    "text": "3.2\nTHE\nREVOLUTION OF\nSHUNYA: WHEN\nNOTHING\nBECAME\nSOMETHING"
+}

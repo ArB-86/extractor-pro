@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.977099597454071,
+    "bbox": [
+        191.71688842773438,
+        416.6396179199219,
+        1186.2662353515625,
+        692.8220825195312
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/000_plain_text_0.98.png",
+    "text": "Let us now\nfind the distance\nbetween\nany\ntwo\nP(x,, y1)\nand\nQ(x2, y2). Draw\npoints\nPR\nand\nQS\nperpendicular to the x-axis. A perpendicular from the\nP\non\nQS\niS\ndrawn\nnto\nmeet it at t\nthe\npoint\npoint\nT (see\nFig. 7.5)."
+}

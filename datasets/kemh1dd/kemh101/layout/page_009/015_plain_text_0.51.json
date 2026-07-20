@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.5104701519012451,
+    "bbox": [
+        299.3018493652344,
+        458.107421875,
+        1299.215576171875,
+        511.412109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/015_plain_text_0.51.png",
+    "text": "The set of circles passing\nV\nthrough the origin\n(0,0)"
+}

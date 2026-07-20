@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9577438235282898,
+    "bbox": [
+        195.38563537597656,
+        2444.843994140625,
+        1752.4925537109375,
+        2559.6328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_004/003_plain_text_0.96.png",
+    "text": "From our observation earlier about the shape of the graph of y = ax\u00b2 + bx + c, the\nfollowing three cases can happen:"
+}

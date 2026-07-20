@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.954755961894989,
+    "bbox": [
+        235.91836547851562,
+        685.8051147460938,
+        1796.1839599609375,
+        832.7695922851562
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_007/002_plain_text_0.95.png",
+    "text": "A rational number is defined as any number that can be expressed\nP\nin the form\nwhere p and q are integers and q \u2260 0."
+}

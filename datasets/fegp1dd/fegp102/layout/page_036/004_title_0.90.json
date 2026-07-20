@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "title",
+    "confidence": 0.8973127603530884,
+    "bbox": [
+        422.18585205078125,
+        2601.350341796875,
+        1088.2392578125,
+        2672.017578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_036/004_title_0.90.png",
+    "text": " Let's Play a G\nGame #2"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9497063755989075,
+    "bbox": [
+        188.61874389648438,
+        2409.751708984375,
+        1754.08349609375,
+        2534.683837890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_009/002_plain_text_0.95.png",
+    "text": "So, the nth term a..\nof the AP with first term a and common difference d is\ngiven by a, = a + (n - 1) d."
+}

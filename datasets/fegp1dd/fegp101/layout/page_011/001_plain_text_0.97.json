@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.974349319934845,
+    "bbox": [
+        291.2829284667969,
+        1813.3048095703125,
+        2084.289306640625,
+        2103.144775390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_011/001_plain_text_0.97.png",
+    "text": "The\nword\n'regular'\nrefers\nto\nthe\nfact\nthat\nthese\nshapes\nhave\nequal-length sides\n and also equal\n\u2018angles' (i.e., t\nthe sides look the\nsame\nand\nthe\nalso\nl0ok\nthe\nsame). We\nWill\ndiscuss\nangles\nin\ncorners\nmore\ndepth in the\ne next\nchapter."
+}

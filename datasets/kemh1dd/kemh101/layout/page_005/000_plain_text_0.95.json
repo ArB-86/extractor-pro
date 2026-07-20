@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9452570676803589,
+    "bbox": [
+        294.7721862792969,
+        812.4412231445312,
+        1747.4517822265625,
+        1177.4071044921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/000_plain_text_0.95.png",
+    "text": "A = {x : x is an integer and -3 \u2264 x < 7}\n11\nB = {x : x is a natural number less than\n6\nC = {x : x is a two-digit natural number such that the sum of its digits is\n8\n(iv)\nD = {x : x is a prime number which is divisor of 60}\nE = The set of all letters in the word TRIGONOMETRY\nV1\nF = The set of all letters in the word BETTER"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9207451343536377,
+    "bbox": [
+        294.4721984863281,
+        396.7059631347656,
+        1505.755615234375,
+        450.8549499511719
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_002/007_plain_text_0.92.png",
+    "text": "Are the outcomes of every experiment equally likely? Let us see."
+}

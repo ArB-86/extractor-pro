@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.6462573409080505,
+    "bbox": [
+        193.2346649169922,
+        2382.268798828125,
+        1365.4639892578125,
+        2482.3603515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/017_plain_text_0.65.png",
+    "text": "1\nAlso, since cos\n(A + B) =\ntherefore, A + B = 60\u00b0\n(Why?)\n2"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8973134160041809,
+    "bbox": [
+        190.35926818847656,
+        919.0515747070312,
+        1655.1693115234375,
+        1044.171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/005_plain_text_0.90.png",
+    "text": "The roots of 6x\u00b2 - x - 2 = 0 are the values of x for which (3x - 2)(2x + 1) = 0\nTherefore, 3x - 2 = 0 or 2x + 1 = 0,"
+}

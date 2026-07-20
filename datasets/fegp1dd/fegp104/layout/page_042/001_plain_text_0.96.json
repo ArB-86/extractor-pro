@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.9578613638877869,
+    "bbox": [
+        296.2035827636719,
+        536.02197265625,
+        2186.957275390625,
+        845.0929565429688
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_042/001_plain_text_0.96.png",
+    "text": "Q.8.\nMudhol\nHounds\n(a 1\ntype\nof\nbreed\nof\nIndian\ndogs)\nare\nlargely\nfound\nin\nNorth\nKarnataka's Bagalkote and Vijaypura \ndistricts. The\ngovernment took an :\ninitiative\nbreed by 1\nto\nprotect this\nproviding\nsupport to those who adopted these\ndogs. Due to\nthis i\ninitiative, the\nnumber of these\nsoop\nnumber of Mudhol dogs\nincreased. The\nin\nsix villages of Karnataka \nI are as\nfollows"
+}

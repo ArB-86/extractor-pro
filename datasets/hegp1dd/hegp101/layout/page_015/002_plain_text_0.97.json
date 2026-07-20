@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9715107679367065,
+    "bbox": [
+        377.3236389160156,
+        2710.57568359375,
+        1563.393798828125,
+        2957.24609375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_015/002_plain_text_0.97.png",
+    "text": "The first known\nlist of perfect squares and\nperfect\ncubes\ncompiled\nby\nthe\nBabylonians\nfar\nwas\nas\nback as 1700 BCE. These lists, found on clay tablets,\nused\nto c\nquickly\nfind\nsquare roots\nand\ncube\nWere"
+}

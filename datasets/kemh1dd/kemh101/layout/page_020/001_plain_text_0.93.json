@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9304826259613037,
+    "bbox": [
+        191.20506286621094,
+        2349.604248046875,
+        1707.0970458984375,
+        2460.746337890625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/001_plain_text_0.93.png",
+    "text": "Example 23 Show that the set of letters needed to spell\n1\"CATARACT\nand the\nset of letters needed to spell \u201c TRACT\"\nare equal."
+}

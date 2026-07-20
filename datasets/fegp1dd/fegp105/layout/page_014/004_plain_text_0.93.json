@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9331719875335693,
+    "bbox": [
+        418.1151123046875,
+        2002.355712890625,
+        2211.630615234375,
+        2226.613037109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_014/004_plain_text_0.93.png",
+    "text": "Using prime factorisation to check if two numbers are co-prime\ncheck if they\nLet\nus\nagain\ntake\nthe\nnumbers\n56\nand\n63.H0W\ncan\nwe\nare co-prime? We can\nn use the\nprime factorisation c\nofboth\nnumbers"
+}

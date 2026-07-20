@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9272016882896423,
+    "bbox": [
+        349.5731201171875,
+        2006.7744140625,
+        1799.507568359375,
+        2339.393310546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/005_plain_text_0.93.png",
+    "text": "(i)\nFind the value of the phone after 3 years.\n(ii)\nMake a table of values for t varying\nfrom 0 to 8\nyears and\nshow how the value of the phone, v, depreciates with time.\n(iii)\nFind\n an expression that relates v and t, and explain why it\nrepresents linear decay."
+}

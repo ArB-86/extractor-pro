@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9718583226203918,
+    "bbox": [
+        237.9255828857422,
+        306.4204406738281,
+        1797.17333984375,
+        433.732421875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_016/003_plain_text_0.97.png",
+    "text": "Step\np 2: On this perpendicular\nline\n We mark the point B such that\nAB = 1 unit and join the origin to B. Clearly, OB = \u221a2\nunits."
+}

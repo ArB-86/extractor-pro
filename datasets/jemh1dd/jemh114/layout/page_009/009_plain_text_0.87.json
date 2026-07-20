@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8736131191253662,
+    "bbox": [
+        192.7921905517578,
+        1250.0950927734375,
+        967.0382690429688,
+        1303.4459228515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/009_plain_text_0.87.png",
+    "text": "Note : You can\nalso find P(E)\nas\nfollows:"
+}

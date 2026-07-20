@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9644643664360046,
+    "bbox": [
+        238.0027313232422,
+        2314.115966796875,
+        1796.400390625,
+        2478.14453125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/000_plain_text_0.96.png",
+    "text": "As we have seen in many\nexamples in this chapter, a linear pattern or\nrelationship\ncan be\nexpressed in the form of an equation y = ax +\nNow we shall learn to plot such an equation as a straight line."
+}

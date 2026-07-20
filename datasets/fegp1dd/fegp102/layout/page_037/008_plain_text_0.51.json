@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.511607825756073,
+    "bbox": [
+        378.8048400878906,
+        734.4714965820312,
+        2082.564453125,
+        877.724853515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_037/008_plain_text_0.51.png",
+    "text": "A player from Team 1 measures ti\nthe angle with a protractor\nfor all to see."
+}

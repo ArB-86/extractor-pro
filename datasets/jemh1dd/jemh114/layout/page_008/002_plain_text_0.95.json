@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9546751379966736,
+    "bbox": [
+        188.81460571289062,
+        1748.85986328125,
+        1754.6224365234375,
+        1857.6282958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_008/002_plain_text_0.95.png",
+    "text": "Solution : Saying that a marble is drawn at random is a short way of saying that all the\nmarbles are equally likely to be drawn. Therefore, the"
+}

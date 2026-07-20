@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.5488219857215881,
+    "bbox": [
+        381.9504089355469,
+        1864.88232421875,
+        1608.31787109375,
+        1929.6859130859375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/014_plain_text_0.55.png",
+    "text": "(i) 382\n(ii) 342\n(iii) 462\n(iv) 562\n(v) 742\n(vi) 822."
+}

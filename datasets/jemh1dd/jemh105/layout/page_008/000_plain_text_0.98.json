@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9786404967308044,
+    "bbox": [
+        191.1712646484375,
+        809.4002685546875,
+        1752.1500244140625,
+        1029.088134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_008/000_plain_text_0.98.png",
+    "text": "Let us consider the situation again, given\nin\nSection\n5.1\n in which Reena applied for a\njob\nand\ngot selected. She has\nbeen\noffered t\nthe job\nwith\na starting\nmonthly\nsalary of\n 8000, with\nincrement of  500. What would be her monthly salary\nan annual\nfor the\nfifth\nyear?"
+}

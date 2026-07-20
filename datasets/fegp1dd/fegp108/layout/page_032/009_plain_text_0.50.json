@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5009260177612305,
+    "bbox": [
+        293.8927917480469,
+        300.65606689453125,
+        1220.8739013671875,
+        486.3072814941406
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_032/009_plain_text_0.50.png",
+    "text": "3. RSPQ\n4. QRSP\nAns. PQSR\niS\nnot a name\n for the\ngiven square"
+}

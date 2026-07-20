@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8145521879196167,
+    "bbox": [
+        245.57205200195312,
+        994.4810180664062,
+        1006.9166259765625,
+        1144.668701171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/002_plain_text_0.81.png",
+    "text": "7.\n In Fig. 6.38, altitudes AD\nand CE of \u25b3 ABC\nintersect each\nn other at t\nthe\nP. Show\npoint F\nthat:"
+}

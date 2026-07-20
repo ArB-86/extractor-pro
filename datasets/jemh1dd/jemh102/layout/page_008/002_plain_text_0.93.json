@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9329696297645569,
+    "bbox": [
+        194.8624267578125,
+        814.124267578125,
+        1751.1893310546875,
+        976.5772705078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_008/002_plain_text_0.93.png",
+    "text": "Remark : In\ngeneral,\ngiven a polynomial\nl p(x) of degree n, the graph of y = p(x)\nintersects the x-axis at atmost n points. Therefore, a polynomial p(x) of degree n has\nat most n zeroes."
+}

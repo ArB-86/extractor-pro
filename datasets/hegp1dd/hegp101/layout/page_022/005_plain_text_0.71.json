@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.7139333486557007,
+    "bbox": [
+        384.2981262207031,
+        295.8531494140625,
+        505.277587890625,
+        347.9842834472656
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_022/005_plain_text_0.71.png",
+    "text": "suH\nIs."
+}

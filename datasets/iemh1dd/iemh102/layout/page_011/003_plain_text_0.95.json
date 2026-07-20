@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9531258344650269,
+    "bbox": [
+        239.05751037597656,
+        1542.3367919921875,
+        1795.6046142578125,
+        1653.5479736328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/003_plain_text_0.95.png",
+    "text": "Sometimes, we may\nbe required to find the\nlinear relationship\nbetween two quantities."
+}

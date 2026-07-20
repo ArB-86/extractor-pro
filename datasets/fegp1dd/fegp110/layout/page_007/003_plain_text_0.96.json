@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9617530107498169,
+    "bbox": [
+        419.73931884765625,
+        885.4111938476562,
+        2207.3837890625,
+        1022.3841552734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_007/003_plain_text_0.96.png",
+    "text": "Here, we see the connection between finding the missing number\nto be added' and subtraction."
+}

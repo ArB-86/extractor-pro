@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7179310917854309,
+    "bbox": [
+        244.3555145263672,
+        1378.58544921875,
+        1751.532470703125,
+        1480.6265869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_005/006_plain_text_0.72.png",
+    "text": "3. The length of the minute hand of a clock is 14 cm. Find the area swept by the minute\nhand in 5 minutes."
+}

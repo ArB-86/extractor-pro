@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8887107372283936,
+    "bbox": [
+        290.2854919433594,
+        1985.3380126953125,
+        1754.59765625,
+        2039.204833984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_010/007_plain_text_0.89.png",
+    "text": "Comparing the coefficients of x?, x and constant terms on both the sides, we get"
+}

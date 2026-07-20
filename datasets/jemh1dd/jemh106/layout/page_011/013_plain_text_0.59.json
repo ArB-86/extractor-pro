@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5907574892044067,
+    "bbox": [
+        294.7408447265625,
+        1145.49853515625,
+        795.1558837890625,
+        1204.601806640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/013_plain_text_0.59.png",
+    "text": "EG II\nDC\n(As]\nEF\nDC)"
+}

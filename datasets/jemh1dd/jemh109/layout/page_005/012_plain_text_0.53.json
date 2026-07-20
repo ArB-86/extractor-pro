@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5319880843162537,
+    "bbox": [
+        191.8466796875,
+        993.9634399414062,
+        1080.1142578125,
+        1129.9761962890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_005/012_plain_text_0.53.png",
+    "text": "We have\nAB\nAE +BE\nE=AE + 1.5\nand\nDE\nCB\n28.5\nm"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.898186445236206,
+    "bbox": [
+        245.97084045410156,
+        1492.2078857421875,
+        1753.2431640625,
+        1642.5654296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_010/004_plain_text_0.90.png",
+    "text": "6. A solid iron pole consists of a cylinder of height 220 cm and base diameter 24 cm, which\nis surmounted by another cylinder of height 60 cm and radius 8 cm. Find the mass of the\npole, given that 1 cm? of iron has approximately 8g mass.\n.\n(Use\u03c0=3.14)"
+}

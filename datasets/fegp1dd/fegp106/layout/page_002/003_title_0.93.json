@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9255987405776978,
+    "bbox": [
+        421.5003356933594,
+        1234.4622802734375,
+        1087.78076171875,
+        1303.6270751953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_002/003_title_0.93.png",
+    "text": "Perimeter\n: of a square"
+}

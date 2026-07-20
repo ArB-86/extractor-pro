@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9002809524536133,
+    "bbox": [
+        227.37803649902344,
+        1818.946533203125,
+        1751.7001953125,
+        1935.6785888671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_012/001_plain_text_0.90.png",
+    "text": "1i\n As you can see from Fig. 14.3, there is no outcome favourable to the event F,\n'the sum of two numbers is 13'."
+}

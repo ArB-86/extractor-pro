@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.880061149597168,
+    "bbox": [
+        191.4413604736328,
+        1370.1864013671875,
+        1070.0260009765625,
+        1419.0479736328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/007_plain_text_0.88.png",
+    "text": "List all the elements of the following sets :\n5."
+}

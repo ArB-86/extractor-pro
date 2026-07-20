@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9537466168403625,
+    "bbox": [
+        193.54302978515625,
+        632.0881958007812,
+        1751.7032470703125,
+        743.1571655273438
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/006_plain_text_0.95.png",
+    "text": "In order to understand similarity of figures more clearly, let us perform the following\nactivity:"
+}

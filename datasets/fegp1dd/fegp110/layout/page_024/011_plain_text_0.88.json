@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8780280351638794,
+    "bbox": [
+        404.7554931640625,
+        2340.91162109375,
+        789.2048950195312,
+        2400.140380859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_024/011_plain_text_0.88.png",
+    "text": "these:\n.\u533a"
+}

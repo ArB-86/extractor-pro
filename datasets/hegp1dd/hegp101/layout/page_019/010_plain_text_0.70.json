@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.6979802846908569,
+    "bbox": [
+        299.716796875,
+        1784.6396484375,
+        1991.70556640625,
+        1854.1357421875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/010_plain_text_0.70.png",
+    "text": "Which of the following numbers have the digit 6 in the units place?"
+}

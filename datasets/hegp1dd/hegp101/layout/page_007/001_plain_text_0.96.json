@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9615612030029297,
+    "bbox": [
+        289.4776306152344,
+        720.2493286132812,
+        2089.613037109375,
+        966.5007934570312
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/001_plain_text_0.96.png",
+    "text": "?\nHow\nmany s\nnumbers\nthere\nbetween\n1\nand\n100? How\nsquare\nare\nmany\nbetween\n101\nand\n200?\n Using\nthe table of\nsquares\nfilled\nearlier,\nare\nyou\nthe values\nbelow, tabulating\nenter\nthe\nnumber\nof s\nsquares\nin\neach block\nof 100. What is t\nthe largest square\nless\nthan\n1000?"
+}

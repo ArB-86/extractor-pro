@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7881161570549011,
+    "bbox": [
+        245.1735382080078,
+        511.446044921875,
+        1153.33447265625,
+        664.1046752929688
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/004_plain_text_0.79.png",
+    "text": "6.\n In Fig. 6.21, A, B\nand C\nare points on\nOP, OQ\nand\nOR\nrespectively\nsuch that AB\nI PQ\nand AC Il\nPR.\nShow that BC Il QR."
+}

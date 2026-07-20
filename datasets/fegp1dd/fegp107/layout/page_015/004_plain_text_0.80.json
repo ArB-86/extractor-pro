@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7952409386634827,
+    "bbox": [
+        397.0663757324219,
+        1741.7073974609375,
+        1534.107421875,
+        1830.64990234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_015/004_plain_text_0.80.png",
+    "text": "3\n4\n5\n1. Are\nequivalent fractions? Why?\n6\u20328\u2032\n10"
+}

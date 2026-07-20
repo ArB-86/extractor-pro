@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9745386242866516,
+    "bbox": [
+        290.2496643066406,
+        990.170654296875,
+        2089.714599609375,
+        1285.3546142578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_005/000_plain_text_0.97.png",
+    "text": "We\nquite\nfamiliar\nare\nWith\nnumber\nlines\nLet's see\nif\nnow.\nwe\n can\nplace\nnumbers\nin\ntheir\nappropriate\npositions\non\nthe\nnumber\nsome\nline. Here are\nthe\nnumbers: 2180, 2754, 1500, 3600, 9950, 9590, 1050,\n3050,5030,5300\nand 8\n8400."
+}

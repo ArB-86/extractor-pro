@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9845640659332275,
+    "bbox": [
+        194.80162048339844,
+        396.6471862792969,
+        1753.7542724609375,
+        670.37158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_014/000_plain_text_0.98.png",
+    "text": "Here, you\nthat A corresponds\ns to D, B\ns toE\nand\n1C\ncan\nsee\ncorresponds\ncorresponds to F. Symbolically, we write the similarity of these two triangles as\n\u25b3ABC~\u25b3DEF'\nand read it as\ntriangle ABC is similar to triangle DEF'. The\nsymbol\u2018~\u2032s\nstands for \u2018is similar to'. Recall that you have used the symbol \u2018=\u2032 for\nis congruent to' in Class\ns IX."
+}

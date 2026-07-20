@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9643561244010925,
+    "bbox": [
+        418.71295166015625,
+        1882.1273193359375,
+        2211.19873046875,
+        2099.44482421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_010/000_plain_text_0.96.png",
+    "text": "You might have noticed that last\nyear's calendar was\ndifferent\nfrom this year's. Also, next year's calendar will also be different from\nthe previous years."
+}

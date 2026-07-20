@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.7911185622215271,
+    "bbox": [
+        396.5939025878906,
+        1001.4827270507812,
+        1134.588134765625,
+        1066.97021484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_017/009_plain_text_0.79.png",
+    "text": "5.\nSquare with more Holes"
+}

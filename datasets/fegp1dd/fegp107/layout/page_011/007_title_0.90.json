@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.8954131007194519,
+    "bbox": [
+        294.3856201171875,
+        402.1855163574219,
+        1017.657470703125,
+        483.8405456542969
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_011/007_title_0.90.png",
+    "text": "7.5 Mixed Fractions"
+}

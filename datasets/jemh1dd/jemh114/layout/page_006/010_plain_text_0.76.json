@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7627423405647278,
+    "bbox": [
+        329.0452880859375,
+        2480.601806640625,
+        1663.6180419921875,
+        2536.015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/010_plain_text_0.76.png",
+    "text": "he number of outcomes favourable to the event F = 52 - 4 = 48\n(Why?"
+}

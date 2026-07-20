@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.679663896560669,
+    "bbox": [
+        294.4966735839844,
+        1592.711181640625,
+        1596.2532958984375,
+        1687.4228515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_013/010_plain_text_0.68.png",
+    "text": "1)=\nTherefore, (4 x\n15\n4"
+}

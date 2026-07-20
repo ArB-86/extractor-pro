@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9513310790061951,
+    "bbox": [
+        377.1276550292969,
+        2408.263427734375,
+        2091.075927734375,
+        2591.004638671875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_020/000_plain_text_0.95.png",
+    "text": "9.\nYou are g\ngiven two sets of number cards numbered from 1 - 9. Place\na number card in each box below to get the (a) largest possible sum\n(b)\n smallest possible difference of the two resulting\n numbers."
+}

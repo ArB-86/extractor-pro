@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9403648972511292,
+    "bbox": [
+        194.10247802734375,
+        1111.1998291015625,
+        761.533447265625,
+        1166.3770751953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_001/003_title_0.94.png",
+    "text": "9.1\nHeights and Distances"
+}

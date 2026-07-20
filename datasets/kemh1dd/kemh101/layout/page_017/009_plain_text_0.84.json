@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8419597148895264,
+    "bbox": [
+        192.25759887695312,
+        395.5325622558594,
+        974.736328125,
+        505.688232421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/009_plain_text_0.84.png",
+    "text": "Example\n19 Let V\na,\ne,\n0,\nu\nand\nB\nk,\nu}.\nFind V\ni,\nB\nand B\na,\nV\n\u4e00"
+}

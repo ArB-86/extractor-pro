@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7685771584510803,
+    "bbox": [
+        192.1860809326172,
+        2066.6162109375,
+        1174.624755859375,
+        2118.7421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_009/018_plain_text_0.77.png",
+    "text": "Solution\nThe\n pair of linear equations\n\uff1a\nformed\nwere:"
+}

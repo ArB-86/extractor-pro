@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8780410289764404,
+    "bbox": [
+        334.4651184082031,
+        971.597412109375,
+        1275.8394775390625,
+        1077.5364990234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/007_plain_text_0.88.png",
+    "text": "1\n(i\n(i) 7\u221a5\n(i) 6 + \u221a2"
+}

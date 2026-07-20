@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9225952625274658,
+    "bbox": [
+        290.0615234375,
+        1638.4256591796875,
+        2084.326171875,
+        1779.152099609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_015/001_plain_text_0.92.png",
+    "text": "Give\nthe lengths of the sides of a rectangle\nthat\ncannot\nbe\ndivided into"
+}

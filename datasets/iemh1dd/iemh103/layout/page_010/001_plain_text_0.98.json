@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9826281666755676,
+    "bbox": [
+        233.7110595703125,
+        1729.71533203125,
+        1799.41162109375,
+        2005.5828857421875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_010/001_plain_text_0.98.png",
+    "text": "Rational numbers can a\n also be represented on the number line. Unlike\n1\nintegers, t\nthey r\nlie between\ntwo\nintegers. For\nlies\nmay\ns exactly\n3-\nhalfway\nbetween\n0\nand\n1,a\nand\nlies\nbetween\n -1\nand\n[0\nas\nshown\nin\n-4\nFig. 3.4."
+}

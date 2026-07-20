@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9347259402275085,
+    "bbox": [
+        193.8147430419922,
+        1074.29248046875,
+        539.5548095703125,
+        1129.0289306640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_001/002_title_0.93.png",
+    "text": "Introduction\n6"
+}

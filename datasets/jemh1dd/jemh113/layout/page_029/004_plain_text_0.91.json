@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9077369570732117,
+    "bbox": [
+        305.402587890625,
+        2334.575927734375,
+        931.5328369140625,
+        2383.057861328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_029/004_plain_text_0.91.png",
+    "text": "Find the median\nlength of the leaves."
+}

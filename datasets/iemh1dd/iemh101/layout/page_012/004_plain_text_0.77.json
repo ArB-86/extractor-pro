@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7688857913017273,
+    "bbox": [
+        375.0700378417969,
+        1417.8990478515625,
+        1611.40625,
+        1474.3267822265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/004_plain_text_0.77.png",
+    "text": "(Comment: Answers may\ndiffer from p\nperson to person.)"
+}

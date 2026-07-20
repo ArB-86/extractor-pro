@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8494609594345093,
+    "bbox": [
+        246.08303833007812,
+        510.36322021484375,
+        708.0632934570312,
+        559.0802612304688
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_015/005_plain_text_0.85.png",
+    "text": "Evaluate the following\n1."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5486066937446594,
+    "bbox": [
+        193.35922241210938,
+        467.5267333984375,
+        593.6089477539062,
+        517.880126953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/027_plain_text_0.55.png",
+    "text": "Solution\nWe have\n\uff1a"
+}

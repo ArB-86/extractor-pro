@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9406108260154724,
+    "bbox": [
+        417.6264953613281,
+        2739.34716796875,
+        2213.66259765625,
+        2890.384521484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_004/000_plain_text_0.94.png",
+    "text": "Again fold the square\ninto half (for a third time now), but this\ntime along a diagonal, as shown in the figure. Again, open it."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.936863362789154,
+    "bbox": [
+        287.29095458984375,
+        1564.4144287109375,
+        2086.707763671875,
+        1708.0472412109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_011/005_plain_text_0.94.png",
+    "text": "Did\nyou notice something\ncommon between t\nthe fractions that\nare\ngreater than 1?"
+}

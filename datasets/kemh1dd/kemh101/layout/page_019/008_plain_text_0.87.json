@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8749759793281555,
+    "bbox": [
+        194.86337280273438,
+        2514.338134765625,
+        1298.342041015625,
+        2566.98388671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/008_plain_text_0.87.png",
+    "text": "The shaded portion represents the complement of the set A."
+}

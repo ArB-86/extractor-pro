@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "title",
+    "confidence": 0.8757085204124451,
+    "bbox": [
+        295.1883850097656,
+        1189.580810546875,
+        594.9229125976562,
+        1253.531982421875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_034/002_title_0.88.png",
+    "text": "P:\nage\nNo.\n19\n\u53e3"
+}

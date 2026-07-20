@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9624575972557068,
+    "bbox": [
+        191.3716278076172,
+        599.0450439453125,
+        1156.889404296875,
+        767.0556030273438
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_008/001_plain_text_0.96.png",
+    "text": "Proof : We are given a triangle ABC\nCin\nwhich a line\nparallel to side BC intersects other two sides AB\nand\nAC\nat D\nand E\nrespectively (see Fig. 6.10)."
+}

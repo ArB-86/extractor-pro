@@ -1,0 +1,13 @@
+{
+    "page": 56,
+    "label": "plain_text",
+    "confidence": 0.8734308481216431,
+    "bbox": [
+        296.7628173828125,
+        1846.014404296875,
+        1424.6173095703125,
+        1907.0528564453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_056/005_plain_text_0.87.png",
+    "text": "Ans. One of the ways is (-2) + (-9) - (+18) - (+1) = -30"
+}

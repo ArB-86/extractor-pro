@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9308902025222778,
+    "bbox": [
+        189.5825958251953,
+        1520.9403076171875,
+        1746.453125,
+        1714.9375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/003_plain_text_0.93.png",
+    "text": "Example 1 : If a line intersects sides AB and AC of a ^ ABC at D and E respectively\nAD\nAE\nand is parallel to BC, prove that\n(see Fig. 6.13).\nAB\nAC"
+}

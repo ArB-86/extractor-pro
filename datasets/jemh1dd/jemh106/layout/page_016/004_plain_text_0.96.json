@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9619004726409912,
+    "bbox": [
+        193.4558868408203,
+        398.01019287109375,
+        1752.1402587890625,
+        505.1313781738281
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_016/004_plain_text_0.96.png",
+    "text": "Ift\ntwo angles of one triangle\n are respectively equal to two angles of another\ntriangle, then the two triangles are similar"
+}

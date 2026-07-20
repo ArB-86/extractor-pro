@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8876028656959534,
+    "bbox": [
+        230.61488342285156,
+        946.3683471679688,
+        944.552001953125,
+        1492.6190185546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_010/006_plain_text_0.89.png",
+    "text": "11. A TV tower stands vertically on a bank\nof a canal. From a point on the other\nbank directly opposite the tower, the\nangle of elevation of the top of the\ntower is 60\u00b0. From another point 20 m\naway from this point on the line joing\nthis point to the foot of the tower, the\nangle of elevation of the top of the\ntower is 30\u00b0 (see Fig. 9.12). Find the\nheight of the tower and the width of\nthe canal."
+}

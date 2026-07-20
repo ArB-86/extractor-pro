@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.6220124959945679,
+    "bbox": [
+        500.8271484375,
+        1296.2613525390625,
+        2143.27978515625,
+        1358.423095703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/017_plain_text_0.62.png",
+    "text": "f the 9 numbers, how many supercells are there in the table above?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8968104720115662,
+    "bbox": [
+        403.67840576171875,
+        2254.67919921875,
+        1847.6104736328125,
+        2396.625244140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_006/009_plain_text_0.90.png",
+    "text": "4.\nMark the\nfollowing\nfloors\nof the building\nshown\nuo\nthe right."
+}

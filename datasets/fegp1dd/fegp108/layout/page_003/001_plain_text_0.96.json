@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.960446298122406,
+    "bbox": [
+        290.4531555175781,
+        391.41766357421875,
+        2081.60302734375,
+        610.2611083984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_003/001_plain_text_0.96.png",
+    "text": "You will have to open up\nthe compass against a ruler (see Fig. 8.2)\nsuch that the distance between the tip of the compass and the pencil\nis 4 cm."
+}

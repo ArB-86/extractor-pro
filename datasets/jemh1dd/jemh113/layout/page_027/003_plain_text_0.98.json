@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9754144549369812,
+    "bbox": [
+        194.99034118652344,
+        1670.5628662109375,
+        1753.386474609375,
+        1922.9931640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_027/003_plain_text_0.98.png",
+    "text": "In situations which require establishing\nthe most frequent value or most p\npopular\nitem, the mode is the best choice, e.g., to find the most popular T.V. programme\nbeing\nwatched,the\nconsumer\nitem\nin\ndemand, t\nthe colour\nr of the\nvehicle\nused\nby\ngreatest\nmost of the\npeople, etc."
+}

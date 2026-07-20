@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.735558271408081,
+    "bbox": [
+        377.6145935058594,
+        2366.45068359375,
+        1370.0364990234375,
+        2426.021240234375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_001/007_plain_text_0.74.png",
+    "text": "This\ns continues\ns until all 100\nget their turn."
+}

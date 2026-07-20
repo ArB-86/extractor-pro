@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9588813781738281,
+    "bbox": [
+        246.8625030517578,
+        1811.149658203125,
+        1753.2442626953125,
+        2010.9368896484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_007/001_plain_text_0.96.png",
+    "text": "6.\nA cottage industry produces a certain\nI number of pottery articles in a day. It was \nsobserved\non a particular day that the cost of production of each article\ne (in rupees)\nwas 3 1\nmore\nthan\ntwice the number of articles produced on that day. If the total cost of production on \nthat\nday\n 90, find the\nnumber of a\narticles\nwas\ns produced\nand the cost of each\narticle."
+}

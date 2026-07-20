@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9062002897262573,
+    "bbox": [
+        512.5252685546875,
+        1435.001708984375,
+        1254.1650390625,
+        1816.304931640625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_014/004_plain_text_0.91.png",
+    "text": "(a)\n25 \u00d7 12 =\n(b)\n25 \u00d7 240 =\n(c)\n250 \u00d7 120 =\n(d)\n2500 \u00d7 12 =\n(e)\n= 120000000"
+}

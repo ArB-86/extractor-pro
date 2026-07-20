@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9369892477989197,
+    "bbox": [
+        416.4325866699219,
+        1696.28173828125,
+        1449.5201416015625,
+        1828.92724609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_002/001_plain_text_0.94.png",
+    "text": ": Let us now play the\n\"idli-vada'\ngame\nWith different j\nofr\nnumbers:\npairs"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8746300935745239,
+    "bbox": [
+        216.68197631835938,
+        1504.6268310546875,
+        1758.1251220703125,
+        1613.167724609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_004/003_plain_text_0.87.png",
+    "text": "2 \u3002]\nIf the set A has 3 elements and the set B = {3, 4, 5}, then find the number of\nelements in (AxB)."
+}

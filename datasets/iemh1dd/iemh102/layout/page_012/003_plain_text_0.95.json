@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9464672207832336,
+    "bbox": [
+        236.11778259277344,
+        2480.480712890625,
+        1795.336669921875,
+        2588.556640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/003_plain_text_0.95.png",
+    "text": "To plot a linear equation, we need to identify a\nanyt\ntwo points on the\nline. For example, to ploty = 2x + 1, we may identify two points as follows:"
+}

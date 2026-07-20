@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5443317294120789,
+    "bbox": [
+        193.23809814453125,
+        2175.428466796875,
+        1008.4600830078125,
+        2229.193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/008_plain_text_0.54.png",
+    "text": "So, we can\nwrite a = 3c for some\ninteger c."
+}

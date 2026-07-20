@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9665006399154663,
+    "bbox": [
+        191.3920135498047,
+        1976.0072021484375,
+        1157.1580810546875,
+        2368.122802734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/002_plain_text_0.97.png",
+    "text": "Now, a natural\nquestion arises : Can we f\nfind\nthe length of the arc APB\ncorresponding to this\nsector? Yes. Again, by applying the Unitary\nMethod and taking the whole length of the circle\n(of angle 360\u00b0) a\nas 2\u03c0r, we can obtain the required\nA\nlength of the arc APB\nX\n<2\u03c0r.\nas\n360"
+}

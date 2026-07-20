@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.803278923034668,
+    "bbox": [
+        298.5900573730469,
+        658.75,
+        1259.1861572265625,
+        816.5211791992188
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/007_plain_text_0.80.png",
+    "text": "Ans.\nPrime numbers\nfrom\n21 to 30: 2\n(23,29)\nComposite numbers\nfrom\n21 t\nto 30: 8"
+}

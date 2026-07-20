@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9363225102424622,
+    "bbox": [
+        376.7222900390625,
+        1727.0345458984375,
+        2087.417236328125,
+        1906.928955078125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_003/002_plain_text_0.94.png",
+    "text": "Look at the picture on the right. Somu is 1 metre tall. If each floor\nis about four times his height, what is the approximate height of the\nbuilding?"
+}

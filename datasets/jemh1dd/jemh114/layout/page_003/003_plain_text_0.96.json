@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.964805543422699,
+    "bbox": [
+        197.3677215576172,
+        1196.49267578125,
+        1752.0810546875,
+        1305.2049560546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_003/003_plain_text_0.96.png",
+    "text": "Let us find the probability for some of the events associated with experiments\nwhere the equally likely assumption holds."
+}

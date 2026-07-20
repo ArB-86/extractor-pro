@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8460661768913269,
+    "bbox": [
+        328.8547058105469,
+        1576.6578369140625,
+        1663.946533203125,
+        1634.3134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/012_plain_text_0.85.png",
+    "text": "articular, the distance of a point P(x, y) f\nfrom the origin O(0, 0) is given\nby"
+}

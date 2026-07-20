@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.7571792602539062,
+    "bbox": [
+        244.69168090820312,
+        629.3876342773438,
+        1068.1011962890625,
+        780.8642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/004_plain_text_0.76.png",
+    "text": "5.\nS\nand T\nare\npoints\nsides\nPR\nand\nQR\non\nof\n\u25b3 PQR\nsuch\nthat\nZP\n RTS. Show\nthat\n\u25b3RPQ ~\u25b3RTS."
+}

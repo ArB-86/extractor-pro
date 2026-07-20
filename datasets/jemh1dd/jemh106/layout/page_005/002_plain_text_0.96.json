@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9593643546104431,
+    "bbox": [
+        192.8497772216797,
+        1342.3941650390625,
+        1754.1097412109375,
+        1506.3824462890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_005/002_plain_text_0.96.png",
+    "text": "Remark : You can verify that if one polygon is similar to another polygon and this\nsecond polygon is similar to a third polygon, then the first polygon is similar to the third\npolygon."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9249013066291809,
+    "bbox": [
+        418.2337341308594,
+        718.4234619140625,
+        2187.306884765625,
+        791.9766235351562
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_016/006_plain_text_0.92.png",
+    "text": "Example: Is 42 divisible by 12? Find the prime factorisations of both:"
+}

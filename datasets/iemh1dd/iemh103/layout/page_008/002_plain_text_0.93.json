@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9317376017570496,
+    "bbox": [
+        275.7677001953125,
+        1788.93408203125,
+        1799.3878173828125,
+        2111.74755859375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_008/002_plain_text_0.93.png",
+    "text": "4.\nWith\nthe\narithmetic\nlaws\ndefined\nas\nabove,\naddition\nand\na\nC\na\nmultiplication\nboth\ncommutative\n(i.e.,\nare\nand\n+\n+\nb\n.pp\nb\na\nC\nC\na\n and they follow the law of distributivity: if p, q and r\n\u00d7\u4e00\n\u00d7\u4e00\nbddb\nare rational numbers, then p (q + r) = pq\n\u5341\npr."
+}

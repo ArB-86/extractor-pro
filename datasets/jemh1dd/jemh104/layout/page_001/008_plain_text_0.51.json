@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.5124074220657349,
+    "bbox": [
+        539.7804565429688,
+        1778.36279296875,
+        1423.391357421875,
+        1833.81005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_001/008_plain_text_0.51.png",
+    "text": "area of the hall =\n(2x + 1\n1). x m\u00b2 = (2x\u00b2 + x)\nm2"
+}

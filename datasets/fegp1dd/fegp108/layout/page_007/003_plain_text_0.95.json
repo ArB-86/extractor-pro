@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9474949836730957,
+    "bbox": [
+        291.4006652832031,
+        2607.2421875,
+        1310.4049072265625,
+        2749.888427734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/003_plain_text_0.95.png",
+    "text": "Let\ncheck if \nthe\nrotated\nus\npaper\nstill\nsatisfies the\nproperties\na square.\nof a"
+}

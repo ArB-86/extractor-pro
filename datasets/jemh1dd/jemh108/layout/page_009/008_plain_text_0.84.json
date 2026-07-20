@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8394816517829895,
+    "bbox": [
+        315.4924621582031,
+        1868.4912109375,
+        1401.1514892578125,
+        2278.860107421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/008_plain_text_0.84.png",
+    "text": "The value of tan A is always less than 1.\n12\n11\nsecA=\nfor some value of angle A.\n5\n1i\ncos A is the abbreviation used for the cosecant of angle A\n(iv)\ncot A is the product of cot and A.\n4\nsin \u03b8=\nfor some angle 0.\n3"
+}

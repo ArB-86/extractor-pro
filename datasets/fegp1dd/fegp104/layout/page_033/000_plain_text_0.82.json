@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.8156883716583252,
+    "bbox": [
+        442.0983581542969,
+        396.4141540527344,
+        2212.345947265625,
+        610.8517456054688
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_033/000_plain_text_0.82.png",
+    "text": "of objects. Each picture represents a frequency which can be 1 or more\nthan 1 \u2014 this is called the scale and it must be specified."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.678378164768219,
+    "bbox": [
+        374.11822509765625,
+        2404.32421875,
+        1529.2696533203125,
+        2519.318115234375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/010_plain_text_0.68.png",
+    "text": "Upon\nfolding\ng it thrice, its thickness\nbecame\n0.001\n2\u00d72\u00d7\n2\uff0c\n0.001\n23 = 0\ncm x\n or\ncm x\n0.008\ncm."
+}

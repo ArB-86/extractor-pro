@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9484130144119263,
+    "bbox": [
+        189.45689392089844,
+        952.2859497070312,
+        1750.009521484375,
+        1059.486328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/004_plain_text_0.95.png",
+    "text": "So, it would be possible to place the pole if this equation has real roots. To see if this\nis so or not, let us consider its discriminant. The discriminant is"
+}

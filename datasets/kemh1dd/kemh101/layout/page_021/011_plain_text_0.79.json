@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7852271795272827,
+    "bbox": [
+        373.3604736328125,
+        508.56890869140625,
+        1708.3328857421875,
+        561.7662963867188
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/011_plain_text_0.79.png",
+    "text": "element in X is in Y and every e\nelement in Y is in X. It follows that X =\nry"
+}

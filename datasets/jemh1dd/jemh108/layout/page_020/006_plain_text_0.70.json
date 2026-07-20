@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7039202451705933,
+    "bbox": [
+        245.6259002685547,
+        1601.8553466796875,
+        963.7405395507812,
+        1768.958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_020/006_plain_text_0.70.png",
+    "text": "6.\nsin\u00b2 A+ cos\u00b2 A= 1,\nsec\u00b2 A-tan\u00b2 A= 1\nfor\n0\u00b0\u2264A<90\u00b0\ncosec\u00b2 A= 1 + cot\u00b2 A \nfor\n0\u00b0<A\u226490\u00b0."
+}

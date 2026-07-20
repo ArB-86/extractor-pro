@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9359984397888184,
+    "bbox": [
+        191.85006713867188,
+        2447.66455078125,
+        1482.5584716796875,
+        2556.577880859375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/002_plain_text_0.94.png",
+    "text": "Let us recall f\nfrom our earlier classes\nthat an ordered pair of elements\ntaken from any t\ntwo sets P and Q is a pair of elements written in small"
+}

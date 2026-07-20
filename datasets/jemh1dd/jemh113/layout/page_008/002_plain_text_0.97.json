@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9715869426727295,
+    "bbox": [
+        192.5054473876953,
+        400.0482177734375,
+        1757.0625,
+        640.7432861328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_008/002_plain_text_0.97.png",
+    "text": "Example 2 : The table below\ngives\nthe\npercentage (\ndistribution of female\ne teachers\nin\nthe\nprimary\nschools of\nrural\nareas\nof\nvarious\nstates\nand\nunion\nterritories\n(U.T.) of\nIndia. Find the mean\npercentage of female teachers\n by all the three methods discussed\nin this section."
+}

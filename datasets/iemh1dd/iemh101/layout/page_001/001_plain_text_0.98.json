@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9836705923080444,
+    "bbox": [
+        240.05369567871094,
+        1006.7453002929688,
+        1795.9190673828125,
+        1663.676513671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_001/001_plain_text_0.98.png",
+    "text": "The idea of \u2018grid-based thinking\u2019 and the geometry required to\ndefine the locations of points in space\u2014indeed has deep roots in\nBharat. The first systematic use of grids occurred thousands of years\nago \u2014 on a massive urban scale\u2014in the Sindhu-Sarasvati Civilisation,\nwhere city streets were constructed with striking precision in\nNorth-South and East-West directions at uniform distances of about\n10 metres apart. This was a coordinate system in practice: a merchant\ncould find a shop or a warehouse by counting North-South and\nEast-West units of distance from the city centre. Baudhayana (c. 800\nC.E.), as we have seen, later used East-West and North-South lines for his\ndeep geometric constructions, developing the Baudhayana-Pythagoras\nTheorem and thus laying the foundation of coordinate geometry."
+}

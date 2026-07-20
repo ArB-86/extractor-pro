@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6600032448768616,
+    "bbox": [
+        228.9225311279297,
+        1801.7967529296875,
+        1401.5616455078125,
+        1853.99267578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/015_plain_text_0.66.png",
+    "text": "11.\nState whether the following\ng are true or false. Justify your answer."
+}

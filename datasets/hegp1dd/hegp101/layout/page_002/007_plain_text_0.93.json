@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9340131282806396,
+    "bbox": [
+        375.4820556640625,
+        1639.9644775390625,
+        2087.622314453125,
+        1763.5634765625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/007_plain_text_0.93.png",
+    "text": "We see in some cases, like 2 x 2, that the numbers in the pair are the\nsame."
+}

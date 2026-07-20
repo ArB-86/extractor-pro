@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.6059362292289734,
+    "bbox": [
+        224.73251342773438,
+        2365.906982421875,
+        1137.7340087890625,
+        2416.9208984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/016_plain_text_0.61.png",
+    "text": "14.\nHow many r\n multiples of 4 lie between\n10 and 250?"
+}

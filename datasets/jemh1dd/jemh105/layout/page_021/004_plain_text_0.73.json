@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7252004742622375,
+    "bbox": [
+        227.64015197753906,
+        2008.877197265625,
+        1753.1712646484375,
+        2272.9345703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_021/004_plain_text_0.73.png",
+    "text": "17.\nIn a school, students thought of planting\ntrees in and\naround the school to reduce air\npollution. It\nt was decided that the number of trees, that each section of each class will\nplant, will be the same as the class, in which they are studying, e.g., a section of C\nClass I\nwill plant 1 tree, a section of Class HI will plant 2 trees and so on till Class XII. There are\nthree sections of each class. How many\ntrees will be planted by the students?"
+}

@@ -46,30 +46,13 @@ class ProductionPipeline:
 
         document = DocumentBuilder.build(all_regions)
 
-        # ---- DEBUG: Dump all regions ----
-        print("\n" + "=" * 120)
-        print("DOCUMENT REGIONS")
-        print("=" * 120)
-
-        for i, r in enumerate(document.regions):
-            print(
-                f"[{i:03d}]",
-                f"page={r.page}",
-                f"label={r.label}",
-                f"chars={len(r.text) if r.text else 0}",
-                f"y=({r.y1:.1f},{r.y2:.1f})",
-            )
-            if r.text:
-                print(r.text[:300].replace("\n", "\\n"))
-            print("-" * 120)
-
-        # ------------------------------------
-
         qs = self.questions.run(document)
 
         dataset.add(qs)
 
-        result = dataset.export(output_dir)
+        result = dataset.export(
+            output_dir=output_dir,
+        )
 
         return self.evaluation.run(
             result,

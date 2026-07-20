@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.878084659576416,
+    "bbox": [
+        191.3064727783203,
+        977.1746826171875,
+        1754.007080078125,
+        1665.87548828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/008_plain_text_0.88.png",
+    "text": "(i)\n{x : x \u2208 N and (x - 1) (x -2) = 0}\n(i)\n{x : x \u2208 N and x\u00b2 = 4}\n{x : x \u2208 N and 2x -1 = 0}\n(iv)\n{x : x \u2208 N and x is prime}\n(v)\n{x : x \u2208 N and x is odd}\nSolution\n(i)\nGiven set = {1, 2}. Hence, it is finite.\n(i)\nGiven set = {2}. Hence, it is finite.\n(ii)\nGiven set = \u03a6. Hence, it is finite.\n(iv)\nThe given set is the set of all prime numbers and since set of prime\nnumbers is infinite. Hence the given set is infinite\n(v)\nSince there are infinite number of odd numbers, hence, the given set is\ninfinite."
+}

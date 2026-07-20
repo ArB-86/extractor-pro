@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9729117751121521,
+    "bbox": [
+        454.3311767578125,
+        1872.53369140625,
+        2179.22119140625,
+        2244.1640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_034/000_plain_text_0.97.png",
+    "text": "It is important that students see\nthe application of each mathematical\nconcept in their daily l\nlives. Teacher can organise some activities where\nstudents can appreciate the\npractical a\napplications of angles in real-life\nsituations, e.g., clocks, doors, swings, concepts of uphill and downhill,\nlocation of the sun, the\ngiving of directions, etc."
+}

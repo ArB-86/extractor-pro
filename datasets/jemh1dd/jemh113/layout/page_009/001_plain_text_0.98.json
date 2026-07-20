@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9825650453567505,
+    "bbox": [
+        193.23216247558594,
+        2224.07421875,
+        1754.3721923828125,
+        2559.189697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_009/001_plain_text_0.98.png",
+    "text": "Remark : The result obtained by all the three methods is the same. So the choice of\nmethod to be used depends on the numerical values of x, and f. If x, and f a\nare\nsufficiently\nsmall, then the direct method is an appropriate choice. If x, and f, a\nare\nnumerically 1\nlarge numbers, then we can\ngo for the assumed r\nmean method c\nor\nstep-deviation method. If the class sizes are unequal, and x. are large numerically, we\ncan still a\n apply the step-deviation method by taking h to be a suitable divisor of all the d' s."
+}

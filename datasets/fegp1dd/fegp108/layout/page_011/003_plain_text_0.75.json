@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7514690160751343,
+    "bbox": [
+        404.7508850097656,
+        503.17047119140625,
+        2087.3017578125,
+        641.5270385742188
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_011/003_plain_text_0.75.png",
+    "text": "1.\nDraw a rectangle\nwith sides of length 4 cm and 6 cm. After\ndrawing, check if it satisfies both the rectangle properties."
+}

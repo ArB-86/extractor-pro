@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8896535038948059,
+    "bbox": [
+        367.4932556152344,
+        302.6665954589844,
+        2187.5478515625,
+        452.66058349609375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_029/002_plain_text_0.89.png",
+    "text": "2.D0\nany\nconnection\nbetween\neach\nnumber\nand\nthe\nyou\nsee\ncorresponding smallest number of button clicks?"
+}

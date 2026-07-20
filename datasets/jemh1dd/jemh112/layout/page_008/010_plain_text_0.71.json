@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7125416398048401,
+    "bbox": [
+        195.76560974121094,
+        1225.5908203125,
+        1530.1103515625,
+        1278.33984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_008/010_plain_text_0.71.png",
+    "text": "Therefore, the volume of the air, when there are machinery and workers"
+}

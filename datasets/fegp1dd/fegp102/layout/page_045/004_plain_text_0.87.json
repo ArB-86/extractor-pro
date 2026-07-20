@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.8658198118209839,
+    "bbox": [
+        296.6518859863281,
+        718.6848754882812,
+        2172.779052734375,
+        869.1900634765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_045/004_plain_text_0.87.png",
+    "text": "Ans. Yes, one of the angles is ZBDC. It's vertex is D. One ray is DC and the other rays DB.\nTry for other pictures."
+}

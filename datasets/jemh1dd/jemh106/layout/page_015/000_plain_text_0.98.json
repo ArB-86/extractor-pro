@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9841262102127075,
+    "bbox": [
+        191.4182586669922,
+        394.9510192871094,
+        1755.2451171875,
+        1076.0438232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_015/000_plain_text_0.98.png",
+    "text": "Let rays BP and CQ intersect each other at A and rays ER and FS intersect each\nother at D.In the two triangles ABC and DEF, you can see that\n B = Z E, Z C = Z F and Z A = Z D. That is, corresponding angles of these two\n     n    o    \nAB\nCA\n ? On measuring AB, DE, CA and FD, you\nand\nEF5\nDE\nFD\nAB\nCA\nwill find that \n and\nare also equal to 0.6 (or nearly equal to 0.6, if there is some\nDE\nFD\nABBCCA\nerror in the measurement). Thus,\n-. You can repeat this activity by\nDEEFFD\nconstructing several pairs of triangles having their corresponding angles equal. Every\ntime, you will find that their corresponding sides are in the same ratio (or proportion).\nThis activity leads us to the following criterion for similarity of two triangles."
+}

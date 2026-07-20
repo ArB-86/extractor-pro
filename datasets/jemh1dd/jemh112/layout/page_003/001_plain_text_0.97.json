@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9660802483558655,
+    "bbox": [
+        190.80517578125,
+        396.1961364746094,
+        1753.2791748046875,
+        611.7689819335938
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_003/001_plain_text_0.97.png",
+    "text": "First, we would take a cone and a hemisphere and bring\ntheir flat faces together.\nHere, of course, we\nwould take the base radius of the\ncone\nequal to the radius of the\nhemisphere, for the toy is to have a smooth\nsurface. So, the steps\n would be as s\nshown\nin Fig. 12.5."
+}

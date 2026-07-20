@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9344581365585327,
+    "bbox": [
+        518.4729614257812,
+        1452.54345703125,
+        2210.5869140625,
+        1581.6644287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_012/001_plain_text_0.93.png",
+    "text": "the number of whole units in each of the following\n1. Figure out t\nfractions:"
+}

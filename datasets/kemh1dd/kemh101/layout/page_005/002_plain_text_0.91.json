@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9146081805229187,
+    "bbox": [
+        295.0611267089844,
+        1428.2578125,
+        1518.5875244140625,
+        1831.7889404296875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/002_plain_text_0.91.png",
+    "text": "A = {x : x is an odd natural number}\n9\n11\nB = {x : x is an integer,\n<x\n2\nC = {x : x is an integer, x\u00b2\u2264 4}\n1i\n(iv)\nD = {x : x is a letter in the word \"LOYAL\"}\nE = {x : x is a month of a year not having 31 days}\nF = {x : x is a consonant in the English alphabet which\nV1\nprece"
+}

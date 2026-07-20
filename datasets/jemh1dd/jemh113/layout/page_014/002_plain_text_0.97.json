@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9689844846725464,
+    "bbox": [
+        195.34861755371094,
+        396.6371765136719,
+        1752.8797607421875,
+        504.56494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_014/002_plain_text_0.97.png",
+    "text": "Clearly, 2 is the number of wickets taken by the bowler in the maximum number\n(i.e., 3) of matches. So, the mode of this data is 2."
+}

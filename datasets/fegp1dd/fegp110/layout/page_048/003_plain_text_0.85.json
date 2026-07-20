@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.8497557044029236,
+    "bbox": [
+        295.4585876464844,
+        2183.901123046875,
+        1774.766357421875,
+        2245.809326171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_048/003_plain_text_0.85.png",
+    "text": "Ans.\nOne must travel 5 steps backward or move\n (-5) from 3 to go to -2."
+}

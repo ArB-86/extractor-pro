@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5774670243263245,
+    "bbox": [
+        468.1072082519531,
+        1476.0845947265625,
+        1658.119873046875,
+        1604.470703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_008/014_plain_text_0.58.png",
+    "text": "\u53f8\u65b9\n1\n1\n2 sin A cos A = 2\n=1,\nwhich is the required value."
+}

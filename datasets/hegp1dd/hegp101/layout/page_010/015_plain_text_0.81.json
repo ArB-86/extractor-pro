@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8060716390609741,
+    "bbox": [
+        393.3539733886719,
+        1011.4137573242188,
+        1882.376708984375,
+        1071.8583984375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/015_plain_text_0.81.png",
+    "text": "Here is another problem that requires estimating square roots."
+}

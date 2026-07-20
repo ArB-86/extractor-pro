@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9572200179100037,
+    "bbox": [
+        351.8409423828125,
+        1493.1917724609375,
+        2092.18017578125,
+        1738.281494140625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_005/000_plain_text_0.96.png",
+    "text": "What\ndo\nyou notice about t\nthe\nnumber\nzeros at the\nend of a number\nof\nand\nthe\nnumber\nof\nthe\nend\nof\nits\nWill\nthis\nalways\nzeros\nat\nsquare?\nhappen?\nCan\nthat\nsquares\nonly\nhave\nsay\nue\nnumber\nwe\ncan\neven\nof\nzeros at the\ne end?"
+}

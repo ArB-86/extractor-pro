@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8937711715698242,
+    "bbox": [
+        242.53514099121094,
+        840.4523315429688,
+        1748.91845703125,
+        940.4269409179688
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_007/003_plain_text_0.89.png",
+    "text": "1. In which of the following situations, does the list of numbers involved make an arithmetic\nprogression, and why?"
+}

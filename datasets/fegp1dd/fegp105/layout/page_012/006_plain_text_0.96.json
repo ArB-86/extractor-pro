@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9561420679092407,
+    "bbox": [
+        418.8088073730469,
+        2729.103515625,
+        2211.337646484375,
+        2872.952392578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/006_plain_text_0.96.png",
+    "text": "For any number, it is a remarkable fact that there is only one prime\nfactorisation, except that the prime factors may\n in different\ncome"
+}

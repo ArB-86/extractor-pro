@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9236257076263428,
+    "bbox": [
+        194.94036865234375,
+        1507.81787109375,
+        416.06756591796875,
+        1556.821533203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/010_title_0.92.png",
+    "text": "emark\nks\n1"
+}

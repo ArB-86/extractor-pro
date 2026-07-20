@@ -1,0 +1,13 @@
+{
+    "page": 51,
+    "label": "plain_text",
+    "confidence": 0.911453902721405,
+    "bbox": [
+        296.5199279785156,
+        2028.7061767578125,
+        2184.794921875,
+        2216.965087890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_051/001_plain_text_0.91.png",
+    "text": "Q.3. Vidya is enjoying her time on the swing. She notices that the greater the angle with\nwhich she starts the swinging, the greater is the speed she achieves on her swing.\nBut where is the angle? Are you able to see any angle?"
+}

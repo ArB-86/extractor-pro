@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9493602514266968,
+    "bbox": [
+        290.5036315917969,
+        1112.52490234375,
+        2089.75634765625,
+        1341.6370849609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_009/000_plain_text_0.95.png",
+    "text": "The\ndistance\nbetween\n0\nand 1 is\n long. It is\nunit\ndivided i\none\ninto\ntwo equal\nparts. So, the length of each\n1-2\npart is\nunit. So, this blue line\nis\n12\nunit long."
+}

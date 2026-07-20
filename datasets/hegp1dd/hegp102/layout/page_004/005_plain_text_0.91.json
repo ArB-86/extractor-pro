@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9088811874389648,
+    "bbox": [
+        380.3306579589844,
+        2718.806884765625,
+        1490.2041015625,
+        2781.787841796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/005_plain_text_0.91.png",
+    "text": "1.\nExpress\nthe following\n in exponential form:"
+}

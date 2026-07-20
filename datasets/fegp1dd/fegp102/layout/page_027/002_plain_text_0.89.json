@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.88642418384552,
+    "bbox": [
+        290.1520690917969,
+        395.8166198730469,
+        1770.616455078125,
+        468.66302490234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_027/002_plain_text_0.89.png",
+    "text": "4\u3002\nFold the sheet again as shown in Figs. 2.16 and 2.17:"
+}

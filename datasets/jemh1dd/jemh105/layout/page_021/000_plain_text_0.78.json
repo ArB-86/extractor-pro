@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7813507914543152,
+    "bbox": [
+        228.5093994140625,
+        1566.4605712890625,
+        1753.9927978515625,
+        1814.7940673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_021/000_plain_text_0.78.png",
+    "text": "15. A contract on construction job\nspecifies a p\npenalty f\nfor delay of completion\nn beyond\na\ncertain date as follows:  200 for the first day,  250 for the second day, ? 300 for the third\nday, etc., the penalty for each succeeding day being ? 50 more than for the preceding day.\nHow much money t\nthe contractor has to pay as penalty, if he has delayed the work by 30\ndays?"
+}

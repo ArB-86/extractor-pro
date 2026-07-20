@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9714605212211609,
+    "bbox": [
+        373.4917907714844,
+        673.3280029296875,
+        2089.94189453125,
+        878.0965576171875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_013/003_plain_text_0.97.png",
+    "text": "(\u544a), (13.08)\u00b2, and\nJust as we can take squares of fractions/decimals\n\u4e00\n(), (13.08)3, and\n(- 6)\u00b2 \u2014 we also can compute cubes of such numbers\n(- 6)3."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8856715559959412,
+    "bbox": [
+        431.89312744140625,
+        2205.965087890625,
+        1276.349365234375,
+        2268.370849609375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/008_plain_text_0.89.png",
+    "text": "In exponential form, t\nthis\nwould be"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "plain_text",
+    "confidence": 0.7237250804901123,
+    "bbox": [
+        409.4844665527344,
+        683.1654052734375,
+        631.4157104492188,
+        935.4224243164062
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_049/002_plain_text_0.72.png",
+    "text": "a. Z KAL\nb.ZWAL\nc. ZTAK"
+}

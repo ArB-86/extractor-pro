@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.967860758304596,
+    "bbox": [
+        193.1557159423828,
+        1260.36767578125,
+        1754.225341796875,
+        1490.578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/003_plain_text_0.97.png",
+    "text": "In fact, any equation of the form p(x) = O, where p(x) i\nis a polynomial of degree\n2, is a quadratic equation. But when we write the terms of p(x) in descending order of\ntheir degrees, then we\nget the standard form of the equation. That is, ax\u00b2 + bx + c =\n0\na \u2260 O is called the standard f\nform\nof a quadratic e\nequation."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9292945265769958,
+    "bbox": [
+        193.4084014892578,
+        395.493896484375,
+        1233.63916015625,
+        450.6812744140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/006_plain_text_0.93.png",
+    "text": "Solution : The\ne prime factorisation of 96 and 404\ngives"
+}

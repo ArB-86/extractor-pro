@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8548237681388855,
+    "bbox": [
+        297.2986145019531,
+        2141.49560546875,
+        2124.758544921875,
+        2267.8681640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_015/004_plain_text_0.85.png",
+    "text": "Q.3. Which sequence do you get when you start to add the All 1's sequence up? What\nsequence do you get when you add the All 1's sequence up and down?"
+}

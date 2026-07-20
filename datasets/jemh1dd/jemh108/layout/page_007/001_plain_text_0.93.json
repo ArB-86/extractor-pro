@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9290673732757568,
+    "bbox": [
+        192.216552734375,
+        704.7213745117188,
+        799.5706176757812,
+        758.7682495117188
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_007/001_plain_text_0.93.png",
+    "text": "Now, using\nPythagoras tl\ntheorem,"
+}

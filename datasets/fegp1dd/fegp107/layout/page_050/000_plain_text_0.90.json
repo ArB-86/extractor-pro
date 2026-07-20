@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.8996713757514954,
+    "bbox": [
+        408.6988220214844,
+        389.9468078613281,
+        1820.1859130859375,
+        506.8541259765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_050/000_plain_text_0.90.png",
+    "text": "13\n10\n18\n23\n29\n45\nfrom\nb.\nfrom\nfrom\na.\nc.\n\u4e00\n4\n3\n5\n3\n7\n7"
+}

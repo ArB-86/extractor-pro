@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9448045492172241,
+    "bbox": [
+        419.0859069824219,
+        1658.6431884765625,
+        2209.74658203125,
+        1799.4124755859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_020/001_plain_text_0.94.png",
+    "text": "There aref\n four numbers in this box. Which number looks special to\nyou? Why do you say so?"
+}

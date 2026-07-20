@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9065160155296326,
+    "bbox": [
+        228.4706573486328,
+        729.2501831054688,
+        1755.6409912109375,
+        928.3018188476562
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_010/005_plain_text_0.91.png",
+    "text": "10.\nTwo poles of e\n equal heights are standing opposite each other on\neither\nside of the road,\nwhich is 80\nm\nwide. From a point between\nthem on\nthe road, the angles of elevation of\nthe top of the poles\n60\u00b0\nand 30\u00b0, respectively. Find the height of the poles and the\nare\ndistances of the\npoint f\nfrom\nthe\npoles."
+}

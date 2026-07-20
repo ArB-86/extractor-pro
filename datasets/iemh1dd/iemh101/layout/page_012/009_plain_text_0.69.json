@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6918348073959351,
+    "bbox": [
+        464.4103698730469,
+        1204.4124755859375,
+        1533.5274658203125,
+        1265.14208984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/009_plain_text_0.69.png",
+    "text": "Now\nplot the points and\nverify your\npredictions."
+}

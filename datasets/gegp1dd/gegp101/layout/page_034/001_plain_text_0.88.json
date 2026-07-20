@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8772932887077332,
+    "bbox": [
+        370.38250732421875,
+        1688.4774169921875,
+        2187.287841796875,
+        1819.2845458984375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_034/001_plain_text_0.88.png",
+    "text": "Make necessary\nI answer the questions\n reasonable\ne assumptions and\nbelow:"
+}

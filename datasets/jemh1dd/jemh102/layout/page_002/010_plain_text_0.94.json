@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9381735920906067,
+    "bbox": [
+        192.8050079345703,
+        626.5443725585938,
+        1033.229248046875,
+        679.90283203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/010_plain_text_0.94.png",
+    "text": "where, a, b, c, d :\nare real\nnumbers a\nand a \u2260\n0."
+}

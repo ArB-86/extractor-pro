@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9076638221740723,
+    "bbox": [
+        292.8310241699219,
+        2065.227294921875,
+        1039.4208984375,
+        2133.99755859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_001/005_title_0.91.png",
+    "text": "Perimeter\nof a rectangle"
+}

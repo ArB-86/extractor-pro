@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9305317401885986,
+    "bbox": [
+        420.531982421875,
+        654.4414672851562,
+        2208.61083984375,
+        797.471923828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_006/003_plain_text_0.93.png",
+    "text": "Just as we talk about the size of a line based on its length, we also\ntalk about the size of an angle based on its amount of rotation."
+}

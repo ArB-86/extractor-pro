@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9263196587562561,
+    "bbox": [
+        390.85321044921875,
+        1741.278076171875,
+        2085.04931640625,
+        1890.7867431640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_018/004_plain_text_0.93.png",
+    "text": "The next\nday you\nelectric bill of z30\nusing\n1 pay your\n your bank\naccount. This is shown in your bank passbook as a 'debit'."
+}

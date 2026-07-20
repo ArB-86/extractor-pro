@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9677016735076904,
+    "bbox": [
+        190.8935089111328,
+        1666.9722900390625,
+        1752.364501953125,
+        1884.8541259765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_004/000_plain_text_0.97.png",
+    "text": "In\n(iv) a\nabove, the\ngiven e\n equation appears to be a cubic equation\n(an equation of\ndegree 3)\n and not a quadratic equation. But it turns out to be a quadratic equation. As\n1 we need to simplify the\nbefore deciding\nyou can see, often\ne given equation\nwhether it\nis quadratic\nC or not."
+}

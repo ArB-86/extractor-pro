@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8923057913780212,
+    "bbox": [
+        240.18104553222656,
+        1216.429443359375,
+        1375.9521484375,
+        1273.5367431640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/008_plain_text_0.89.png",
+    "text": "The probability of Sangeeta's winning = F\nP(S) = 0.62\ngiven)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9187671542167664,
+    "bbox": [
+        195.73001098632812,
+        1153.696533203125,
+        640.1517944335938,
+        1204.2943115234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/008_title_0.92.png",
+    "text": "Alternative\n Solution"
+}

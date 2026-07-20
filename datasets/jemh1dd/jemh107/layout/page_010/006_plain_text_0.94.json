@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9438841342926025,
+    "bbox": [
+        193.59500122070312,
+        771.71142578125,
+        896.8037719726562,
+        828.35107421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_010/006_plain_text_0.94.png",
+    "text": "Therefore, (7, 3) is the required\npoint."
+}

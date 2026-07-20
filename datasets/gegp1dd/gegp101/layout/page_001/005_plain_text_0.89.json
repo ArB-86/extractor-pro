@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8887463212013245,
+    "bbox": [
+        1045.87353515625,
+        2706.456787109375,
+        1702.139404296875,
+        2767.769287109375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_001/005_plain_text_0.89.png",
+    "text": "What do\nyou think?\nGuess."
+}

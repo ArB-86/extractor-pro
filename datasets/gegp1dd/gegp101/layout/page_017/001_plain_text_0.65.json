@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.6524410247802734,
+    "bbox": [
+        642.2924194335938,
+        2455.068603515625,
+        1690.3905029296875,
+        2730.375244140625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_017/001_plain_text_0.65.png",
+    "text": "is the distance\n(in kms) of the longest single-train journey\nin the world. The\ntrain\nruns\nin\nRussia\nbetween\nMoscow\nand\nd Vladivostok. The duration of this\n6 journey\nis about 7\ndays. The longest train route in India is from Dibrugarh\nin Assam to Kanyakumari in\nTamil Nadu; it covers 4219\nkms in about 76 hours."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7433201670646667,
+    "bbox": [
+        243.9415283203125,
+        2398.246826171875,
+        1714.484130859375,
+        2452.680419921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/022_plain_text_0.74.png",
+    "text": "6\u30021\nExplain why 7 \u00d7 11 x 13 + 13 and 7 x6 x 5 x 4 x 3 x 2 x 1 + 5 are c0mposite numbers."
+}

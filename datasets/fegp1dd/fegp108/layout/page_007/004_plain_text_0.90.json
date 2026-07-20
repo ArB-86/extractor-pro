@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9048706889152527,
+    "bbox": [
+        296.2449035644531,
+        630.3785400390625,
+        2084.84765625,
+        770.2698974609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/004_plain_text_0.90.png",
+    "text": "As in the case of rectangles, the corners and sides are defined for\na square in the same manner."
+}

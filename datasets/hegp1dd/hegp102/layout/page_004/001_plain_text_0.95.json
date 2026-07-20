@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9510830044746399,
+    "bbox": [
+        289.1047668457031,
+        1116.7471923828125,
+        2092.781982421875,
+        1296.8936767578125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/001_plain_text_0.95.png",
+    "text": "?\nWhich expression\n1 describes the thickness of a sheet of paper after\nit is folded 10\ntimes? The\ninitial\nthickness\ns is represented\nby\nthe\nletter-number v."
+}

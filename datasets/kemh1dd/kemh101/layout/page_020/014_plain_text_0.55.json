@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.5489693880081177,
+    "bbox": [
+        291.9974670410156,
+        1371.1500244140625,
+        1741.38916015625,
+        1698.4061279296875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/014_plain_text_0.55.png",
+    "text": "{x : x is an even natural\nnumber}\n11\n x : x is an odd natural number\n111\n{x : x is a positive multiple of 3}\n1V\nx :x is a prime number\nand 5}\n{x : x is a natural number divisible by 3 a\nVi\n x : x is a perfect square\nVi1\n{x : x is a perfect cube}\n(vili\n{x:x+5=8}\n1x\n{x: 2x+ 5= 9}\nx:x\u22657}\nX1\n{x :x \u2208 N and 2x + 1 > 10 }\nX"
+}

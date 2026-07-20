@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.7975634932518005,
+    "bbox": [
+        396.4673156738281,
+        1611.9310302734375,
+        1198.1451416015625,
+        1683.471435546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_007/011_title_0.80.png",
+    "text": "All\npalindromes\nusing\n1, 2, 3"
+}

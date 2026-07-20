@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.6483404040336609,
+    "bbox": [
+        434.3596496582031,
+        291.02789306640625,
+        1189.0965576171875,
+        1221.63818359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_042/002_plain_text_0.65.png",
+    "text": "=(4 \u00d7)+(4 \u00d7)+(4\u00d7)\n1\n\u5341\uff1a\n4\n4\n13\n=\n4\n23\nb.\n3\n85\nc.\n9\n6\n25\ne.\n11\n39\nf.\n10"
+}

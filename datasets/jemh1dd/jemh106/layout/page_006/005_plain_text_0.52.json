@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5230734348297119,
+    "bbox": [
+        315.26348876953125,
+        1578.6781005859375,
+        1759.346435546875,
+        1724.3839111328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_006/005_plain_text_0.52.png",
+    "text": "(iv)\nTwo polygons of the same number of sides are similar, if (a) their corresponding\nangles are\nand\n(b)\ntheir corresponding sides are\n..(equal,\nproportional)"
+}

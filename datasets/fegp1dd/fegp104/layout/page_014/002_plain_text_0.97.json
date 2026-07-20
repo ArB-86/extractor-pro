@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9708008766174316,
+    "bbox": [
+        296.3957214355469,
+        2528.33740234375,
+        2086.39208984375,
+        2746.970947265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_014/002_plain_text_0.97.png",
+    "text": "The total number of cars\n6 passing\nthrough the crossing\nduring t\nthe\ntwo-hour interval 8.00-10.00 a.m. as shown by the bar graph is about\n1000 + 800 = 1800 vehicles."
+}

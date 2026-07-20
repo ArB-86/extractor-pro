@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9384641051292419,
+    "bbox": [
+        192.88697814941406,
+        2383.974853515625,
+        1225.88623046875,
+        2436.5771484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_009/005_plain_text_0.94.png",
+    "text": "Now, we substitute this value of x in Equation\nn (2) to get"
+}

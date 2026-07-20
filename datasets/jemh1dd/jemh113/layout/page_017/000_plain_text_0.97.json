@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9726486206054688,
+    "bbox": [
+        246.8937530517578,
+        401.05487060546875,
+        1753.2174072265625,
+        550.6329956054688
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_017/000_plain_text_0.97.png",
+    "text": "Thefollowing\ndistribution\ngives the state-wise teacher-student ratio in higher\nsecondary schools of India. Find the mode and mean of this data. Interpret the two\nmeasures."
+}

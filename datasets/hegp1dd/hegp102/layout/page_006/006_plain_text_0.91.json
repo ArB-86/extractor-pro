@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9122228622436523,
+    "bbox": [
+        377.1893615722656,
+        1423.8040771484375,
+        1299.1302490234375,
+        1483.9698486328125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_006/006_plain_text_0.91.png",
+    "text": "be evaluated in these two ways,\n46\ncan"
+}

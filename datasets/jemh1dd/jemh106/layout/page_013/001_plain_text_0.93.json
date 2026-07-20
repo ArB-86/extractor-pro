@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9279773235321045,
+    "bbox": [
+        224.48849487304688,
+        1368.232421875,
+        1755.08837890625,
+        1547.1822509765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/001_plain_text_0.93.png",
+    "text": "10. The diagonals of a quadrilateral ABCD intersect each other at the point\n0\nsuchthat\nAO\nCO\nShow that ABCD is a trapezium.\nBO\nDO"
+}

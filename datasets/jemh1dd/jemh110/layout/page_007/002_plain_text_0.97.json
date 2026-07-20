@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9722860455513,
+    "bbox": [
+        191.4124755859375,
+        774.7135009765625,
+        1097.2060546875,
+        996.0552368164062
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_007/002_plain_text_0.97.png",
+    "text": "Solution\n: We\nare\ngiven a circle\nWith\ncentre\nO,\nan external\npoint T\nand two tangents\nTP\nand TQ\nto the circle, where\nP, Q\nare the points of contact\n(see\ne Fig. 10.9). We\nneed to p\nprove\nthat"
+}

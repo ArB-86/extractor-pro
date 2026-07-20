@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9751830101013184,
+    "bbox": [
+        192.85504150390625,
+        527.67529296875,
+        1753.611572265625,
+        805.05908203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/002_plain_text_0.98.png",
+    "text": "Solution\nn : We\nwrite\ne H for\nhead'\nand T for\n'tail'.When\ntwo coins\nare\ntossed\nsimultaneously, the possible outcomes are\n(H, H), (H, T), (T, H), (T, T), which are all\nequally likely. Here\n(H, H)\nhead up on the first coin\n(say on ? 1) a\nand head up\nmeans\non the second coin ( 2). Similarly (H, T)\nmeans head up on the first coin and tail up on\nthe second coin and so on."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8618732690811157,
+    "bbox": [
+        243.85879516601562,
+        1878.25634765625,
+        1322.15380859375,
+        1928.031982421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_006/002_plain_text_0.86.png",
+    "text": "3\u3002\nState whether the following quadrilaterals are similar or not:"
+}

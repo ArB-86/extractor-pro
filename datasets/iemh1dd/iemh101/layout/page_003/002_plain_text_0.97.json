@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9687679409980774,
+    "bbox": [
+        238.72219848632812,
+        1560.462158203125,
+        1798.52587890625,
+        1726.352294921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_003/002_plain_text_0.97.png",
+    "text": "Let us examine Fig. 1.1 to understand the layout of the room. Notice\nthat this only shows the map of the floor. Do you see why the position of\nthe windows cannot be marked on this map?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9764528870582581,
+    "bbox": [
+        240.38253784179688,
+        1773.5159912109375,
+        1795.23291015625,
+        2046.651611328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_002/003_plain_text_0.98.png",
+    "text": "During\nVedic\ntimes,\nIndian\nphilosophers\nfascinated\nby\nwere\nand\ndeeply pondered large\nnumbers. In the\nVedas, which\ngo back thousands\nof\nyears, names\ngiven\nto all\npowers\nof 10\nwere\nup\nto1\n1012\n(which\nwas\ncalled\nparardha). In t\nthe\nLalitavistara\nin\nthe\n4th\ncentury\nBCE,\nBuddha\ndescribes\nto 1053,\n, which is called t\ntallakshana.\nnames\n up"
+}

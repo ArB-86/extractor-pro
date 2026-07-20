@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9569651484489441,
+    "bbox": [
+        193.59449768066406,
+        1110.4273681640625,
+        1751.0716552734375,
+        1226.7618408203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_008/003_plain_text_0.96.png",
+    "text": "Solution : Let us find the class marks, x, of each class, and put them in a column\n(see Table 13.6):"
+}

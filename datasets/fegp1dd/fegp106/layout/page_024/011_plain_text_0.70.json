@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.698675274848938,
+    "bbox": [
+        296.9479675292969,
+        1908.409423828125,
+        1336.6029052734375,
+        2259.627197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_024/011_plain_text_0.70.png",
+    "text": "Ans.\nFrom point A to flag: 100 + 100 + 100 + 50\n= 350 m\nFrom point B to flag: 125 + 150 + 75\n= 350 m"
+}

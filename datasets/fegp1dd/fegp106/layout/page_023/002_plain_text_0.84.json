@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8422579765319824,
+    "bbox": [
+        294.7245788574219,
+        1275.644287109375,
+        991.2977294921875,
+        1526.689453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/002_plain_text_0.84.png",
+    "text": "Ans.\n(a) length = 5 cm\n(b) length of a side = 5 cm\n(c) l\nbreadth = 3cm"
+}

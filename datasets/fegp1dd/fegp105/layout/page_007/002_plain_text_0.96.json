@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9630922079086304,
+    "bbox": [
+        292.6323547363281,
+        1674.2083740234375,
+        1077.825439453125,
+        2037.0634765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/002_plain_text_0.96.png",
+    "text": "Step\n4: The\nnext\nuncrossed\nnumber is 5. Circle 5 and then\nthe multiples of 5\ncross out all t\nafter\nthat, i.e., 10, 15, 20, and\nso on."
+}

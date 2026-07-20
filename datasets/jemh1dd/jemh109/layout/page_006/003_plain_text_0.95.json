@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9494649171829224,
+    "bbox": [
+        190.52200317382812,
+        2453.58984375,
+        1754.2281494140625,
+        2563.48974609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_006/003_plain_text_0.95.png",
+    "text": "Now, let AB be h m and BC be x m. According to the question, DB is 40 m longer\nthan BC."
+}

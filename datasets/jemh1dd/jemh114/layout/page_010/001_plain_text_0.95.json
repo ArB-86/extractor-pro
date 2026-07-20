@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9452459812164307,
+    "bbox": [
+        191.0985565185547,
+        1158.09033203125,
+        1756.1556396484375,
+        1268.9957275390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_010/001_plain_text_0.95.png",
+    "text": "Can we now extend the idea of Example 10 for finding the probability as the ratio of\nthe favourable area to the total area?"
+}

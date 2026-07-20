@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9183952212333679,
+    "bbox": [
+        244.46337890625,
+        2227.711181640625,
+        1752.71533203125,
+        2324.947998046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/005_plain_text_0.92.png",
+    "text": "4\u30021\nDraw a circle and two lines parallel to a given line such that one is a tangent and the\nother, a secant to the circle."
+}

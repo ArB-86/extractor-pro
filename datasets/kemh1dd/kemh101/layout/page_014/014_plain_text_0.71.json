@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7133193016052246,
+    "bbox": [
+        193.34359741210938,
+        893.1895141601562,
+        1101.6790771484375,
+        947.2224731445312
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/014_plain_text_0.71.png",
+    "text": "Solution\nWe have\nAUB\n={ 2,4, 6,8, 10, 12}"
+}

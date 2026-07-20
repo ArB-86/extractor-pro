@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.6891941428184509,
+    "bbox": [
+        212.60365295410156,
+        1148.517578125,
+        1730.0115966796875,
+        1272.4415283203125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/012_plain_text_0.69.png",
+    "text": "It is clear from the definition ofthe complement that for any subset ofthe universal\nset U,wehave\n(A')'=A"
+}

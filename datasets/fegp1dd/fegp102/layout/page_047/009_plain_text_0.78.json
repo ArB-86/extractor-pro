@@ -1,0 +1,13 @@
+{
+    "page": 47,
+    "label": "plain_text",
+    "confidence": 0.7817814350128174,
+    "bbox": [
+        297.1235046386719,
+        3082.362548828125,
+        752.972900390625,
+        3184.272216796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_047/009_plain_text_0.78.png",
+    "text": "1\u2014\nAns.\na full turn.\nof :\n4"
+}

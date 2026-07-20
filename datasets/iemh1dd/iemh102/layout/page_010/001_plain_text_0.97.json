@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9735652208328247,
+    "bbox": [
+        237.20303344726562,
+        931.9891357421875,
+        1796.17919921875,
+        1155.2447509765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/001_plain_text_0.97.png",
+    "text": "Linear\ngrowth describes a linear\npattern where a quantity increases\nby a\nintervals. Similarly,\nconstant\namount\nover\n, linear\ndecay\ndescribes\nequal\nlinear\nwhere a\nquantity\ndecreases\nby a constant\na\npattern \namount\nover\nintervals.\nequal"
+}

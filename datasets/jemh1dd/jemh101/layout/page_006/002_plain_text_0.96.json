@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9644594788551331,
+    "bbox": [
+        303.97015380859375,
+        398.7166748046875,
+        1752.27978515625,
+        503.6035461425781
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/002_plain_text_0.96.png",
+    "text": "same point and at the same time, and go in the same direction. After how many minutes\nwill they meet again at the starting point?"
+}

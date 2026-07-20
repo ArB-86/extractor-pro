@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8885480761528015,
+    "bbox": [
+        290.48553466796875,
+        2811.964599609375,
+        2047.7193603515625,
+        2884.777099609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_007/004_plain_text_0.89.png",
+    "text": "What is a similarity between a square and an equilateral triangle?"
+}

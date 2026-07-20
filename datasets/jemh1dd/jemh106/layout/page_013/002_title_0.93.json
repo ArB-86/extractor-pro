@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9256362318992615,
+    "bbox": [
+        194.56668090820312,
+        1613.436279296875,
+        1001.912841796875,
+        1668.5125732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/002_title_0.93.png",
+    "text": "6.4\nCriteria for Similarity of Triangles"
+}

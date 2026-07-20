@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6528930068016052,
+    "bbox": [
+        281.2777099609375,
+        875.1693725585938,
+        915.7725830078125,
+        934.8993530273438
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/012_plain_text_0.65.png",
+    "text": "AB\nDC\nand EF\nAB\n(Given)"
+}

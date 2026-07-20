@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.589863657951355,
+    "bbox": [
+        215.64013671875,
+        1605.192626953125,
+        1753.9825439453125,
+        1770.461669921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_018/016_plain_text_0.59.png",
+    "text": "2. Two answers are possible because the sum of the terms from 5th to 13th will be\nzero. This is because a is positive and d is negative, so that some terms will\nibe\npositive and some others negative, and will cancel out each other."
+}

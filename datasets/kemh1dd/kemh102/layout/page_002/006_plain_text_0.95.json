@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9514960646629333,
+    "bbox": [
+        192.7796173095703,
+        524.5029907226562,
+        1752.72314453125,
+        634.5006103515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/006_plain_text_0.95.png",
+    "text": "Definitioni\nGiven two non-empty sets P and Q. The cartesian product P x Q is the\nset of all ordered pairs of elements from P and Q, i.e.,"
+}

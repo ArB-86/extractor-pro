@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8584336042404175,
+    "bbox": [
+        226.6632080078125,
+        1347.480224609375,
+        1726.8316650390625,
+        1744.3216552734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/005_plain_text_0.86.png",
+    "text": "\u2460\nThe number of outcomes favourable (i.e., acceptable) to Jimmy = 88 (Why?)\n88\nTherefore, P (shirt is acceptable to Jimmy)\n0.88\n100\n(ii)\nThe number of outcomes favourable to Sujatha = 88 + 8 = 96\n(Why?)\n96\nSo, P (shirt is acceptable to Sujatha)\n=0.96\n100"
+}

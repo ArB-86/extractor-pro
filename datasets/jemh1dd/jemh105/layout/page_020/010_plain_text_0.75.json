@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7512280941009521,
+    "bbox": [
+        246.66946411132812,
+        1369.295654296875,
+        897.3262329101562,
+        1418.461181640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_020/010_plain_text_0.75.png",
+    "text": "Find the sum of the following\n1.\nAPs:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9663712382316589,
+    "bbox": [
+        246.20628356933594,
+        2360.756591796875,
+        1753.48681640625,
+        2509.366455078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_022/000_plain_text_0.97.png",
+    "text": "1\u3002\n State which pairs of triangles in Fig. 6.34 are similar. Write the similarity criterion used by\nyou for answering the question and also write the pairs of similar triangles in the symbolic\nform :"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.883216381072998,
+    "bbox": [
+        295.494140625,
+        2856.63232421875,
+        1400.809814453125,
+        2917.435791015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_026/001_plain_text_0.88.png",
+    "text": "4. Yes, except for the smallest perimeter\n(12 sq. units)."
+}

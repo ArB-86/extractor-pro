@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9747264385223389,
+    "bbox": [
+        192.97080993652344,
+        1994.6854248046875,
+        1153.8892822265625,
+        2216.443359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_013/001_plain_text_0.97.png",
+    "text": "Solution : To find the length of the side BC,\nwe will\nchoose\nthe trigonometric ratio involving\nBC\nand the\ngiven side AB. Since BC is the side adjacent to angle\nC :\nandAB\nB is the side opposite to angle C, tl\ntherefore"
+}

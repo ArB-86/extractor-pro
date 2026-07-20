@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9635642170906067,
+    "bbox": [
+        193.51585388183594,
+        395.7782897949219,
+        1752.4364013671875,
+        506.41827392578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/002_plain_text_0.96.png",
+    "text": "Example 4 : Find a quadratic polynomial, the sum and product of whose zeroes are\n-3 and 2, respectively."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9693371653556824,
+    "bbox": [
+        192.40283203125,
+        1795.810791015625,
+        1005.387939453125,
+        2014.4981689453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_006/001_plain_text_0.97.png",
+    "text": "Example 5 : The shadow of a tower standing\non a level\nground is found to be 40 \nm longer\nwhen the Sun's altitude is 30\u00b0 than when it is\n60\u00b0. Find the height of the tower."
+}

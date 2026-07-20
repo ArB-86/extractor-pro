@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.7662366032600403,
+    "bbox": [
+        296.04718017578125,
+        299.26617431640625,
+        2187.350830078125,
+        425.3291320800781
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_033/002_plain_text_0.77.png",
+    "text": "Q12. Copy the following drawing on squared\nI paper. Complete each one of them so that\nthe resulting figure has the two blue lines as lines of symmetry."
+}

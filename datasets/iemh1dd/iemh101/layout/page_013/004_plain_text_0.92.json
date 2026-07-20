@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9198387861251831,
+    "bbox": [
+        262.2170104980469,
+        1727.996337890625,
+        1796.5701904296875,
+        1902.5494384765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_013/004_plain_text_0.92.png",
+    "text": "*13\u3002\nThe midpoints of the sides of triangle ABC are the points D, E, and\nF. Given that the coordinates of D, E, and F are\n(5, 1), (6, 5), and\n(0, 3), respectively, find the coordinates of A, B and C."
+}

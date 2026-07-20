@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.6048253178596497,
+    "bbox": [
+        293.21881103515625,
+        2655.857666015625,
+        2086.27001953125,
+        2870.464599609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_025/012_plain_text_0.60.png",
+    "text": "2.\nFold the circle to\nget two e\nequal halves and\ncut it through t\nthe\nthe semicircle."
+}

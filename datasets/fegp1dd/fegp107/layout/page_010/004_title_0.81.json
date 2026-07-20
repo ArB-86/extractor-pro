@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.8149509429931641,
+    "bbox": [
+        1142.9462890625,
+        2518.282470703125,
+        1568.5262451171875,
+        2580.84619140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_010/004_title_0.81.png",
+    "text": "ote\nT\nea\nS\nN"
+}

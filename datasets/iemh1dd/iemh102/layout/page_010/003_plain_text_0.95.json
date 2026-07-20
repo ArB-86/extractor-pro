@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9462849497795105,
+    "bbox": [
+        276.28912353515625,
+        1370.82177734375,
+        1796.755615234375,
+        1486.39208984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/003_plain_text_0.95.png",
+    "text": "1.\nSuppose a plant has height 1.75 feet and it grows by 0.5 feet each\nmonth."
+}

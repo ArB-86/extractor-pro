@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9766626358032227,
+    "bbox": [
+        192.2784881591797,
+        2200.741455078125,
+        1753.0081787109375,
+        2361.20166015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/000_plain_text_0.98.png",
+    "text": "Special\n1 Case : The mid-point of a line segment divides the line segment in the ratio\n1 : 1. Therefore, the coordinates of the mid-point P of the join of the points A(x, y,)\nand B(x, y,) is"
+}

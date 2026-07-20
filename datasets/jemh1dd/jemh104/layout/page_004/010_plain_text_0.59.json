@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5863701701164246,
+    "bbox": [
+        192.2181854248047,
+        394.40911865234375,
+        1368.930419921875,
+        720.4789428710938
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_004/010_plain_text_0.59.png",
+    "text": "(ii)\nSince x(x + 1) + 8 = x\u00b2 + x + 8 and (x + 2)(x - 2) = x\u00b2 - 4\nTherefore,\nx\u00b2 + x + 8 = x\u00b2 - 4\ni.e.,\nx + 12 = 0\nIt is not of the form ax\u00b2 + bx + c = 0.\nTherefore, the given equation is not a quadratic equation."
+}

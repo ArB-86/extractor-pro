@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6479936242103577,
+    "bbox": [
+        226.41555786132812,
+        1693.7332763671875,
+        586.3230590820312,
+        1828.8306884765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_007/012_plain_text_0.65.png",
+    "text": "(i)\n\u03b8\n+\nsin2\n\u03b8\nCOs2\n(ii)\n\u03b8\n\u4e00\nsin2\n0.\nCOs2"
+}

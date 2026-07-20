@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.926800012588501,
+    "bbox": [
+        370.9639892578125,
+        2202.6611328125,
+        2135.67041015625,
+        2403.27099609375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_030/001_plain_text_0.93.png",
+    "text": "Think and share situations where it is appropriate to (a)\nround up,\n(b) round down, (c) either rounding up or rounding down is okay\nand (d) when exact numbers are needed."
+}

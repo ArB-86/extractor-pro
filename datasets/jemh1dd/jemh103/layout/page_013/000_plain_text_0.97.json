@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9723996520042419,
+    "bbox": [
+        191.43643188476562,
+        577.5379028320312,
+        1753.6810302734375,
+        742.6795043945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/000_plain_text_0.97.png",
+    "text": "When the digits are reversed, x becomes the unit's digit and y becomes the ten's\ndigit. This number, in the expanded notation is 10y + x (for example, when 56 is\nreversed, we get 65 = 10(6) + 5)."
+}

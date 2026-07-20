@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9570938348770142,
+    "bbox": [
+        418.46942138671875,
+        1027.9456787109375,
+        2210.886962890625,
+        1252.2445068359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_006/000_plain_text_0.96.png",
+    "text": "Fold the strip into two equal parts and then open up the strip again.\nTaking the strip to be one unit in length, what are the lengths of the\ntwo new parts of the strip\ncreated by the crease?"
+}

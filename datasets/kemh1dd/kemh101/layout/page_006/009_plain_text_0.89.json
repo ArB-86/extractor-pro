@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8854568004608154,
+    "bbox": [
+        293.4128723144531,
+        812.6752319335938,
+        1147.0584716796875,
+        862.9453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/009_plain_text_0.89.png",
+    "text": "We\ngive\nbelow a f\nfew examples of\nempty\nsets."
+}

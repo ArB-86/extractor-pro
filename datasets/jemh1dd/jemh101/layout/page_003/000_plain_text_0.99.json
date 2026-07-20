@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9866873621940613,
+    "bbox": [
+        194.86549377441406,
+        395.586181640625,
+        1754.811767578125,
+        835.8763427734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_003/000_plain_text_0.99.png",
+    "text": "So we have factorised 32760 as 2 \u00d7 2 \u00d7 2 \u00d7 3 \u00d7 3 \u00d7 5 \u00d7 7 \u00d7 13 as a product of\nprimes, i.e., 32760 = 23 \u00d7 32 \u00d7 5 \u00d7 7 \u00d7 13 as a product of powers of primes. Let us try\nanother number, say, 123456789. This can be written as 32 \u00d7 3803 \u00d7 3607. Of course,\nyou have to check that 3803 and 3607 are primes! (Try it out for several other natural\nnumbers yourself.)  This leads us to a conjecture that every composite number can be\nwritten as the product of powers of primes. In fact, this statement is true, and is called\nthe Fundamental Theorem of Arithmetic because of its basic crucial importance\nto the study of integers. Let us now formally state this theorem."
+}

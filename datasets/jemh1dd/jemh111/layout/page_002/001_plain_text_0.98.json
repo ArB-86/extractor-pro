@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9783568978309631,
+    "bbox": [
+        192.73570251464844,
+        523.1171875,
+        1156.326171875,
+        685.4528198242188
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/001_plain_text_0.98.png",
+    "text": "Let OAPB\nbe a sector\nof a circle\nwith\ncentre\nO\nradius\n(see\nFig.\n11.3). I\nand\nLet the\ndegree\nr\nmeasure of Z AOB\nbe 0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.959481418132782,
+    "bbox": [
+        196.20358276367188,
+        2259.599365234375,
+        1753.3438720703125,
+        2368.72314453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/004_plain_text_0.96.png",
+    "text": "Verification : 18000 : 14000 = 9 : 7. Also, the ratio of their expenditures\n\u4e00\n18000 - 2000 : 14000 - 2000 = 16000 : 12000 = 4 : 3"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.9020077586174011,
+    "bbox": [
+        295.6614074707031,
+        682.5577392578125,
+        2191.2099609375,
+        933.3367309570312
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_050/003_plain_text_0.90.png",
+    "text": "Ans.\nEach of the angles =\n22.5\u00b0\nAs the straight angle of 180\u00b0 is divided into eight equal\nparts so each of the right angles\n1809\nwill be of measure\n22.5\u00b0\n8"
+}

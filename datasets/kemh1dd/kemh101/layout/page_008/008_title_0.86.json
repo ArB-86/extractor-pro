@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.8581768274307251,
+    "bbox": [
+        802.3633422851562,
+        1588.5078125,
+        1139.210693359375,
+        1653.8734130859375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/008_title_0.86.png",
+    "text": "EXE\nER\nRCISE"
+}

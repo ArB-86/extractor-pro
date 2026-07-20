@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9181215167045593,
+    "bbox": [
+        378.2677001953125,
+        504.8133850097656,
+        1688.828369140625,
+        567.6771850585938
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/003_plain_text_0.92.png",
+    "text": "Write the numerical value of each of the following:\n3."
+}

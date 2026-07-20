@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8409215807914734,
+    "bbox": [
+        376.4523620605469,
+        1538.7247314453125,
+        1678.5784912109375,
+        1654.8916015625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/008_plain_text_0.84.png",
+    "text": "In\ngeneral,\nfor\nany\nnumber\nwrite\nthe\nn, we\ncube\nnx n x n as n'."
+}

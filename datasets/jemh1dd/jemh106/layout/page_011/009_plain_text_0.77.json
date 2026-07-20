@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7732609510421753,
+    "bbox": [
+        188.11380004882812,
+        419.94964599609375,
+        1157.2073974609375,
+        725.627197265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/009_plain_text_0.77.png",
+    "text": "Example 2 : ABCD is a trapezium with AB\nDC.E\nand F are\npoints on non-parallel sides AD\nand BC\nrespectively\nthat\nEF is\nsuch\nparallel to AB\nAE\nBF\n(see Fig. 6.14). Show that\nED\nFC"
+}

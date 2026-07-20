@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8112787008285522,
+    "bbox": [
+        295.58740234375,
+        1882.4957275390625,
+        2182.564697265625,
+        1946.6317138671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_027/007_plain_text_0.81.png",
+    "text": "Ans.\n105 = 3 x 5 x 7 is the only number which is the product of three distinct prime numbers."
+}

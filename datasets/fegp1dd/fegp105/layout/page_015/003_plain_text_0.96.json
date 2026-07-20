@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9602567553520203,
+    "bbox": [
+        289.31011962890625,
+        871.3565063476562,
+        2083.33935546875,
+        1091.8858642578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_015/003_plain_text_0.96.png",
+    "text": "We see that there are no common p\n primes that divide both 40 and\n231.Indeed, the prime\ne factors of 40 \ne 2 and 5 while, the prime\nare\nfactors of 231 are 3, 7, and 11. Therefore, 40 and 231 are co-prime!"
+}

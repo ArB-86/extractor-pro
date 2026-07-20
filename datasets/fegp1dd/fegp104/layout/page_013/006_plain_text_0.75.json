@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7476246953010559,
+    "bbox": [
+        494.24517822265625,
+        397.21478271484375,
+        1733.626220703125,
+        469.9715576171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_013/006_plain_text_0.75.png",
+    "text": "He1\npresented the same\ndata using a bar\ngraph:"
+}

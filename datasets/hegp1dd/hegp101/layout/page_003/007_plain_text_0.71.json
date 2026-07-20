@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7114367485046387,
+    "bbox": [
+        340.6417541503906,
+        284.49755859375,
+        1440.6722412109375,
+        351.15869140625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_003/007_plain_text_0.71.png",
+    "text": "Write the locker numbers\nthat remain open."
+}

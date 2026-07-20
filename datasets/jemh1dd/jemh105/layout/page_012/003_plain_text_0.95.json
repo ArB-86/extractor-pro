@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.94687819480896,
+    "bbox": [
+        192.82667541503906,
+        1223.9404296875,
+        1745.0035400390625,
+        1349.5802001953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/003_plain_text_0.95.png",
+    "text": "If we write the given AP in the reverse order, then a = - 62 and d = 3 (Why?)\nSo, the question now becomes finding the 11th term with these a and d."
+}

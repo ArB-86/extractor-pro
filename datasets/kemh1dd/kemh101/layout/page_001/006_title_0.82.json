@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.8216748237609863,
+    "bbox": [
+        197.4627685546875,
+        1802.1090087890625,
+        936.3264770507812,
+        1858.1739501953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/006_title_0.82.png",
+    "text": "1.2\nSets\n and their Representations"
+}

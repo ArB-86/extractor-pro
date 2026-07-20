@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9752816557884216,
+    "bbox": [
+        192.85487365722656,
+        468.5765380859375,
+        1093.86572265625,
+        739.274658203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/000_plain_text_0.98.png",
+    "text": "The\npoint\nQ\nmust\nlie\noutside\nthe circle.\n(Why? Note that if Q\nlies inside the circle, XY\nwill\nbecome\na secant and\nnot a tangent to the\ncircle). Therefore, OQ is longer\nthan\nthe radius\nOP of the circle. That is,"
+}

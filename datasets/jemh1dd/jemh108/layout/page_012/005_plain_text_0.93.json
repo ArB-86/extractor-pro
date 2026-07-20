@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.928236722946167,
+    "bbox": [
+        290.6225280761719,
+        877.5991821289062,
+        723.009033203125,
+        933.757568359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/005_plain_text_0.93.png",
+    "text": "Us\nsing\n these,\nhave\nwe"
+}

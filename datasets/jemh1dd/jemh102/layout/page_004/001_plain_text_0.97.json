@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9669391512870789,
+    "bbox": [
+        194.3134002685547,
+        2253.626953125,
+        1753.185302734375,
+        2423.623291015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_004/001_plain_text_0.97.png",
+    "text": "This fact is true for any c\nquadratic polynomial, i.e., the zeroes of a quadratic\npolynomial ax\u00b2 + bx + c, a \u2260 O, are precisely the x-coordinates of the points where the\nparabola representing y = ax2 + bx + c intersects the x-axis."
+}

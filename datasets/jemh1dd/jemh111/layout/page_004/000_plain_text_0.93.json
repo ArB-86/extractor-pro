@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9310280084609985,
+    "bbox": [
+        190.8356475830078,
+        961.2850341796875,
+        897.8505859375,
+        1014.9732666015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_004/000_plain_text_0.93.png",
+    "text": "Solution\n1 : Area of the segment\nAYB"
+}

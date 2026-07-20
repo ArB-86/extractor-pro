@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9428482055664062,
+    "bbox": [
+        191.60614013671875,
+        2463.63330078125,
+        1750.8773193359375,
+        2573.224853515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_010/002_plain_text_0.94.png",
+    "text": "\u25b3 ABD is a right triangle, right-angled at D with Z BAD = 30\u00b0 and  ABD = 60\u00b0\n(see Fig. 8.15)."
+}

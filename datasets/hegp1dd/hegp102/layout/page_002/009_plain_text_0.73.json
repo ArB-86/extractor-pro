@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7292333841323853,
+    "bbox": [
+        374.841796875,
+        1058.2501220703125,
+        2049.55029296875,
+        1237.9713134765625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_002/009_plain_text_0.73.png",
+    "text": "(o gnba xodd,  o ,  a s a)\nAfter 10 folds, the thickness is just above 1 cm (1.024 cm).\nAfter 17 folds, the thickness is about 131 cm (a little more than 4 feet)."
+}

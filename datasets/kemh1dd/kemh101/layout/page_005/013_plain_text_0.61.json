@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6066492199897766,
+    "bbox": [
+        191.01922607421875,
+        2340.655029296875,
+        1758.69140625,
+        2510.213623046875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/013_plain_text_0.61.png",
+    "text": "A = { x : x is a student of Class XI\npresentlystudying\nin aschool?\nWe can go to the school and count the number of students presently studying\n1n\nClass XI in the school. Thus, the set A contains a finite number of elements."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9598853588104248,
+    "bbox": [
+        193.88719177246094,
+        1540.1947021484375,
+        1752.419677734375,
+        1650.1754150390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_008/001_plain_text_0.96.png",
+    "text": "Example 8 : A box contains 3 blue, 2 white, and 4 red marbles. If a marble is drawn\nat random from the box, what is the probability that it will be"
+}

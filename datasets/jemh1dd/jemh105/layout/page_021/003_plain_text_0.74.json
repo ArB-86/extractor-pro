@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7448834776878357,
+    "bbox": [
+        226.10755920410156,
+        1833.3428955078125,
+        1752.6607666015625,
+        1990.0343017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_021/003_plain_text_0.74.png",
+    "text": "16. A sum of  700 is to be used to give seven cash prizes to students of a school for their\noverall academic performance. If each prize is ? 20 less than its preceding prize, find the\nvalue of each of theprizes."
+}

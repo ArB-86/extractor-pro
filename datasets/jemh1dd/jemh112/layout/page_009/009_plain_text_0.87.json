@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8687527775764465,
+    "bbox": [
+        190.20909118652344,
+        1545.0089111328125,
+        1704.1805419921875,
+        1597.9326171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/009_plain_text_0.87.png",
+    "text": "So, the volume required = volume of the right circular cylinder - volume of the toy"
+}

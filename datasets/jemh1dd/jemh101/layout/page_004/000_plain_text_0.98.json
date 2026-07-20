@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9765987396240234,
+    "bbox": [
+        193.13023376464844,
+        1410.7105712890625,
+        1753.694091796875,
+        1633.8468017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/000_plain_text_0.98.png",
+    "text": "You\n1 have already\nlearnt\nhow to f\nfind the HCF\nand LCM of two\npositive\nintegers\nusing\nthe Fundamental\n1 Theorem\n of Arithmetic in\n earlier classes, without realising\ngit!\nThis\nmethod is also called the\n prime\nfactorisation method. Let us recall t\nthis\nmethod\nthrough\n an example."
+}

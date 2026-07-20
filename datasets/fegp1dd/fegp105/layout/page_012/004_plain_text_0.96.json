@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9607296586036682,
+    "bbox": [
+        418.8467102050781,
+        929.2427978515625,
+        2209.317626953125,
+        1146.652099609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/004_plain_text_0.96.png",
+    "text": "In conclusion, we have written 56 as a product of prime numbers.\nThis is called p\nprime factorisation of 56. The individual factors are"
+}

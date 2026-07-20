@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9275528192520142,
+    "bbox": [
+        377.9720764160156,
+        2246.083740234375,
+        1861.3106689453125,
+        2306.15869140625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_005/005_plain_text_0.93.png",
+    "text": "See if this pattern continues for the next few square numbers."
+}

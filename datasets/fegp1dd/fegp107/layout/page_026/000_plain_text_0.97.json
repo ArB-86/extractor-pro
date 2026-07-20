@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9689543843269348,
+    "bbox": [
+        419.0578308105469,
+        1821.1763916015625,
+        2211.636474609375,
+        2062.401123046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_026/000_plain_text_0.97.png",
+    "text": "In\nthis\nthe\nnumber\nof shaded\nis\n3. Since,\ncase,\ntotal\nparts\neach\nshaded\npart represents the fractional\nunit\nWe see that the 3 shaded\n3-5\nparts together 1\nrepresent t\nthe f\nfraction"
+}

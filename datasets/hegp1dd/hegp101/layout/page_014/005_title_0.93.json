@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.9287068843841553,
+    "bbox": [
+        379.0433044433594,
+        1403.35400390625,
+        722.6754150390625,
+        1468.956787109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/005_title_0.93.png",
+    "text": "ots\nCub\np\ne"
+}

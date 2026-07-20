@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9305675625801086,
+    "bbox": [
+        294.32647705078125,
+        2826.53173828125,
+        2082.988037109375,
+        2968.883056640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_006/003_plain_text_0.93.png",
+    "text": "We can express the answer using subtraction: 10 - 4 = 6 or \u201cTen\ntake away four is six."
+}

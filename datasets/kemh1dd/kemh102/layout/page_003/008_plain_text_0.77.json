@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7719747424125671,
+    "bbox": [
+        296.73388671875,
+        1657.7503662109375,
+        1361.467529296875,
+        1776.9144287109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/008_plain_text_0.77.png",
+    "text": "(i)\nAx\n(B  C)\n(A \u00d7 B) (A\u00d7C)\n1i\n(ii)\nAx\n(B U C)\n(A \u00d7 B)U (A \u00d7 C)\n1V"
+}

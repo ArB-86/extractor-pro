@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8589670062065125,
+    "bbox": [
+        248.27210998535156,
+        1552.972900390625,
+        1751.8726806640625,
+        1652.7122802734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/008_plain_text_0.86.png",
+    "text": "4.\nWhich of the following pairs of linear\nequations are consistent/inconsistent? If\nconsistent, obtain the solution graphically:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7915810942649841,
+    "bbox": [
+        503.3932189941406,
+        1221.1380615234375,
+        2069.021484375,
+        1359.2557373046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_004/009_plain_text_0.79.png",
+    "text": "10. Make\nother\nvariations\ns of \nthis\nand\nchallenge\npuzzle\nyour\nclassmates."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5848503112792969,
+    "bbox": [
+        291.0963439941406,
+        474.9134521484375,
+        2086.03759765625,
+        618.443359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_013/009_plain_text_0.58.png",
+    "text": "to compare the angles in Fig. 2.10 with each other."
+}

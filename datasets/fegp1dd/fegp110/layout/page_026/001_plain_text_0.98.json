@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9823516011238098,
+    "bbox": [
+        293.94842529296875,
+        395.1554870605469,
+        2086.462646484375,
+        1066.389892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_026/001_plain_text_0.98.png",
+    "text": "There was a strong culture of accountancy also in India in ancient\ntimes. The concept of credit and debit was written about extensively\nby Kautilya in his Arthashastra (c. 3o0 BCE), including the recognition\nthat an account balance couldbe negative. The explicit use ofnegative\nnumbers in the context of accounting is seen in a number of ancient\nIndian works, including in the Bakshali manuscript from around the\n    s       \nsymbol placed after the number (rather than before the number as\nWe do today)."
+}

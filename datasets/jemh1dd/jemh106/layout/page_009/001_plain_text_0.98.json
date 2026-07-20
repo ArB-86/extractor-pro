@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9778335094451904,
+    "bbox": [
+        191.20201110839844,
+        776.2823486328125,
+        1066.7479248046875,
+        1003.014892578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_009/001_plain_text_0.98.png",
+    "text": "Activity\n3:\nDraw\nan\nangle XAY\non\nyour\nnotebook\nand c\non\nray\nAX,\nmark\npoints\nB\nB\n1\n2'\nB\nB\nand B\nthat AB\nB,B\nB,B\nsuch\n=]\n=1\n3\n4\n2\n3\nB\nB\nB\nB.\n3\n4"
+}

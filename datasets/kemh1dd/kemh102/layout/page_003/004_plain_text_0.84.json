@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8420729041099548,
+    "bbox": [
+        193.01438903808594,
+        1149.829833984375,
+        1551.455078125,
+        1264.4586181640625
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/004_plain_text_0.84.png",
+    "text": "Example 2 If P = {a, b, c} and\nd Q = {r}, form the sets P \u00d7\nO\nand Q\nx P.\nAre these two products equal?"
+}

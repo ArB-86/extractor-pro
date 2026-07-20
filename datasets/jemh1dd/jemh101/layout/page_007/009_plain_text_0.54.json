@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5411588549613953,
+    "bbox": [
+        193.94444274902344,
+        1279.762451171875,
+        1748.0843505859375,
+        1338.536865234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/009_plain_text_0.54.png",
+    "text": "This contradiction has arisen because of our incorrect assumption that\n/2\nis rational"
+}

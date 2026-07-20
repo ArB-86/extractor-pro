@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.924553394317627,
+    "bbox": [
+        191.43609619140625,
+        2039.3433837890625,
+        1156.5511474609375,
+        2229.05517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/002_plain_text_0.92.png",
+    "text": "PS\nPT\nExample 3 : In Fig. 6.16,\nand\n1ZPST\n\u4e8c\nSQ\nTR\nZ PRQ. Prove\nthat j\nPQR\niS\nan\nisosceles\ntriangle."
+}

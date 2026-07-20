@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.7864922285079956,
+    "bbox": [
+        262.21258544921875,
+        842.5567626953125,
+        1452.7574462890625,
+        944.4977416992188
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_001/008_title_0.79.png",
+    "text": "ARITHMETIC PROGRESSIONS"
+}

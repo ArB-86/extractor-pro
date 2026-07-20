@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6659191846847534,
+    "bbox": [
+        289.72613525390625,
+        2277.4697265625,
+        1367.3692626953125,
+        2336.13720703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/010_plain_text_0.67.png",
+    "text": "So, we define :\nsin 90\u00b0\n=1\nand\ncOS\n90\u00b0\n= 0."
+}

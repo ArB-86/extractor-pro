@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.593742311000824,
+    "bbox": [
+        394.755615234375,
+        1893.5853271484375,
+        1438.7816162109375,
+        1975.3031005859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_015/007_plain_text_0.59.png",
+    "text": "2. Write two equivalent fractions\n2\nfor\n-6"
+}

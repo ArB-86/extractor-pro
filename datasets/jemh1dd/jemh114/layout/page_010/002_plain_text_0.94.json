@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.940030574798584,
+    "bbox": [
+        188.98941040039062,
+        717.1689453125,
+        1753.339111328125,
+        906.774658203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_010/002_plain_text_0.94.png",
+    "text": "Since all the outcomes are equally likely, we can argue that, of the total distance\n1\nof 2, the distance favourable to the event E is\n2"
+}

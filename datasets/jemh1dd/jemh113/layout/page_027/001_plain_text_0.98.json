@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9836224913597107,
+    "bbox": [
+        193.4570770263672,
+        552.7044677734375,
+        1755.647705078125,
+        942.7101440429688
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_027/001_plain_text_0.98.png",
+    "text": "The mean is the most frequently 1\nused measure of central tendency because it\ntakes into account all the observations, and lies between the extremes, i.e., the largest\nand the smallest observations of the entire data. It also enables us to compare two or\nmore distributions. For example, by comparing the average (mean) results of students\nof different schools of a particular examination, we can conclude which school has a\nbetter performance."
+}

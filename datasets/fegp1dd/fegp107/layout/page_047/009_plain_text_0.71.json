@@ -1,0 +1,13 @@
+{
+    "page": 47,
+    "label": "plain_text",
+    "confidence": 0.7129200100898743,
+    "bbox": [
+        296.3056335449219,
+        1041.51513671875,
+        873.347900390625,
+        1301.002197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_047/009_plain_text_0.71.png",
+    "text": "13\n25\n71\n17\nAns.\na.\nV\n>\n4\n16\n8\n32\nb. 12\n51\n3-\n7\nV\n>\n5\n4\n4\n12"
+}

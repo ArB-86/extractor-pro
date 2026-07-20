@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6031660437583923,
+    "bbox": [
+        273.2976379394531,
+        553.2105712890625,
+        1797.276611328125,
+        729.275390625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/009_plain_text_0.60.png",
+    "text": "3\u3002\nSuppose the length of a rectangle is 13 cm. Find the\neareaif the\nbreadth is (i) 12 cm, (i) 10 cm, (i) 8 cm. Find the linear pattern\nrepresenting the area of the rectangle."
+}

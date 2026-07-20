@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.9751883149147034,
+    "bbox": [
+        417.439697265625,
+        1742.6749267578125,
+        2211.9033203125,
+        2037.890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_038/000_plain_text_0.98.png",
+    "text": "We\nhave\nread\nabout\ndifferent\ntypes\nof\nangles\nin\nthis\nchapter. We\nhave seen\nthat a straight\nangle is\n180\u00b0\nand\na right\nangle is 90\u00b0. How\ncan other\ntypes of:\n angles \u2014- acute and obtuse \u2014 be described in terms\nof their\ndegree\nmeasures?"
+}

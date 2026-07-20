@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6334693431854248,
+    "bbox": [
+        396.8150329589844,
+        497.25537109375,
+        2090.32958984375,
+        2874.265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_021/001_plain_text_0.63.png",
+    "text": "1. Give the dimensions of a rectangle whose area is the sum of the\nareas of these two rectangles having measurements: 5 m \u00d7 10 m\nand 2 m x 7 m.\n bs  n n  o n n  1  g  \nFind the width of the garden.\n3. The floor of a room is 5 m long and 4 m wide. A square carpet\nwhose sides are 3 m in length is laid on the floor. Find the area\nthat is not carpeted.\n4. Four flower beds having sides 2 m long and 1 m wide are dug at\nthe four corners of a garden that is 15 m long and 12 m wide. How\nmuch area is now available for laying down a lawn?\n5.S\nShape A has an area of 18 square units and Shape B has an area\nof 20 square units. Shape A has a longer perimeter than Shape B.\nDraw two such shapes satisfying the given conditions.\n6. On a page in your book, draw a rectangular border that is 1 cm\nfrom the top and bottom and 1.5 cm from the left and right sides.\nWhat is the perimeter of the border?\n7. Draw a rectangle of size 12 units \u00d7 8 units. Draw another rectangle\ninside it, without touching the outer rectangle that occupies\nexactly half the area.\n   s        d   o\ninto two rectangles along the fold. Regardless of the size of the\nsquare, one of the following statements is always true. Which\nstatement is true here?\na. The area of each rectangle is larger than the area ofthe square.\nThe perimeter of the square is greater than the perimeters of\nboth the rectangles added together.\nThe perimeters of both the rectangles added together is\nC.\nalways 1l times the perimeter of the square.\nd. The area of the square is always three times as large as the\nareas of both rectangles added together."
+}

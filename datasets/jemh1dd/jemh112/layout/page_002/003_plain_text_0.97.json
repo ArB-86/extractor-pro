@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9654467105865479,
+    "bbox": [
+        191.2062530517578,
+        2385.392578125,
+        1753.8609619140625,
+        2549.212890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_002/003_plain_text_0.97.png",
+    "text": "Let us now consider another situation. Suppose we are making a toy by putting\ntogether a hemisphere and a cone. Let us see tl\nthe steps that we would be going\nthrough."
+}

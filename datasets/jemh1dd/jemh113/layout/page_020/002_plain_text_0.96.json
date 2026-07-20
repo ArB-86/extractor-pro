@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.962498664855957,
+    "bbox": [
+        194.6135711669922,
+        1036.4754638671875,
+        1752.712890625,
+        1149.319091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_020/002_plain_text_0.96.png",
+    "text": "Now, let us see how to obtain the median of grouped data, through the following\nsituation."
+}

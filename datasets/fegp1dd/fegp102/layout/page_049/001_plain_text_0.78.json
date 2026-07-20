@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "plain_text",
+    "confidence": 0.7836668491363525,
+    "bbox": [
+        295.9012451171875,
+        1548.229248046875,
+        750.670654296875,
+        2873.493408203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_049/001_plain_text_0.78.png",
+    "text": "Ans.\nPOQ = 35\u00b0\nPOR = 95\u00b0\nPOS = 125\u00b0\nPOT = 160\u00b0\nQOR = 60\u00b0\nQOS = 90\u00b0\nQOT = 125\u00b0\nQOU =145\u00b0\nROS = 30\u00b0\nROT = 65\u00b0\nROU = 85\u00b0\nSOT = 35\u00b0\nSOU =55\u00b0\nTOU = 20\u00b0"
+}

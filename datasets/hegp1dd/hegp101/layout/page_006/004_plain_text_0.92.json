@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9237751364707947,
+    "bbox": [
+        379.6153564453125,
+        825.9785766601562,
+        2086.841552734375,
+        952.984375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/004_plain_text_0.92.png",
+    "text": "numbers is n?. Alternatively,\nWe see that the sum of the first n odd r\nevery square is a sum of successive odd numbers starting from 1."
+}

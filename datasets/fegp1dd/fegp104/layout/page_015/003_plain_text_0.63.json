@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.6346845626831055,
+    "bbox": [
+        502.9817199707031,
+        505.087890625,
+        2212.783935546875,
+        1086.70654296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_015/003_plain_text_0.63.png",
+    "text": "1. How many total cars passed through the crossing between 6 a.m.\nand noon?\nWhy do you think so little traffic occurred during the hour of\n6-7 a.m., as compared to the other hours from 7 a.m.-noon?\n3\u3002\nWhy do you think the traffic was the heaviest between 7-8 a.m.?\n4\u3002\nWhy do you think the traffic was lesser and lesser each hour after\n8 a.m. all the way until noon?"
+}

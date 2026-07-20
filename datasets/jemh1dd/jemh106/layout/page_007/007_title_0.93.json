@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.9263225197792053,
+    "bbox": [
+        195.92123413085938,
+        396.6419677734375,
+        748.602294921875,
+        451.5949401855469
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/007_title_0.93.png",
+    "text": "6.3\nSimilarity of Triangles"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8721351027488708,
+    "bbox": [
+        193.2264862060547,
+        622.6405639648438,
+        871.5075073242188,
+        675.6505126953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/011_plain_text_0.87.png",
+    "text": "Solution\nWe\nmay\nwrite the set A\nas"
+}

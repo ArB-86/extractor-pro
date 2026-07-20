@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9675137400627136,
+    "bbox": [
+        289.010986328125,
+        2496.39013671875,
+        2084.283447265625,
+        2715.94140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_017/000_plain_text_0.97.png",
+    "text": "We see that only a full turn or a rotation of 360\u00b0 will bring the figure\nback into itself. So this figure does not have rotational symmetry\nas\n360 degrees is its only angle of symmetry."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8884525299072266,
+    "bbox": [
+        266.9728698730469,
+        609.920654296875,
+        1772.1219482421875,
+        779.0610961914062
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_006/006_plain_text_0.89.png",
+    "text": "(Hint:If\nsomeone\ntakes\naway\n(-)\nfour\nof\nyour\ndebts that\nare\neach\nWorth\n?3\n(that is, -3), you\neffectively\n?12\nricher!\nTherefore,\nare\n(-3) x (-4) = +12.)"
+}

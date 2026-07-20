@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6330121755599976,
+    "bbox": [
+        192.55860900878906,
+        1289.1893310546875,
+        596.2605590820312,
+        1345.2557373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_006/014_plain_text_0.63.png",
+    "text": "Now,\nright\nPAD\nin\n\u25b3"
+}

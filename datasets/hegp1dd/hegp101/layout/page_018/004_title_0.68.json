@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "title",
+    "confidence": 0.681754469871521,
+    "bbox": [
+        1032.4798583984375,
+        341.44232177734375,
+        1500.0609130859375,
+        420.14044189453125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_018/004_title_0.68.png",
+    "text": "Square\nP\nairs!"
+}

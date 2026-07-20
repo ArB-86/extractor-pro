@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.911645770072937,
+    "bbox": [
+        274.7944030761719,
+        2118.85009765625,
+        808.3143310546875,
+        2185.614013671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/006_title_0.91.png",
+    "text": "Think\nand\nRe\nlefle\nect\nK\ne"
+}

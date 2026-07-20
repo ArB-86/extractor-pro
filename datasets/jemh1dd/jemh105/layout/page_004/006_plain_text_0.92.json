@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9208319783210754,
+    "bbox": [
+        192.84170532226562,
+        598.6670532226562,
+        797.4153442382812,
+        650.0581665039062
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/006_plain_text_0.92.png",
+    "text": "Some more examples of AP\nare:"
+}

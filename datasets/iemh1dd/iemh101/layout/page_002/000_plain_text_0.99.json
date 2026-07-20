@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9850810170173645,
+    "bbox": [
+        239.2698516845703,
+        308.577392578125,
+        1796.13427734375,
+        970.17529296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_002/000_plain_text_0.99.png",
+    "text": "Brahmagupta's work was translated into Arabic (as the Sindhind)\nu   r    n  \nArin, serving as the zero-longitude reference for early Arabic maps\nwhich also then made use of negative numbers. The influential Arab\nscholar Al-Biruni (c. 1ooo CE) travelled to India, studied the Siddhantas,\nand used Indian trigonometric methods to calculate the coordinates of\nvarious cities across Asia. Al-Biruni also later perfected the \u2018astrolabe',\na handheld device that allowed sailors to find their coordinates by\nlooking at the stars. Omar Khayyam (c. 11oo CE), who had become an\nexpert in the Indian decimal system and algebraic formalism, was the\nfirst mathematician to solve algebraic problems using geometry by\ninterpreting them in terms of coordinates in the plane."
+}

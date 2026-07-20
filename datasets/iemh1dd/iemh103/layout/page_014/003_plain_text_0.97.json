@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9702860713005066,
+    "bbox": [
+        237.35205078125,
+        2064.6865234375,
+        1796.9736328125,
+        2234.43798828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/003_plain_text_0.97.png",
+    "text": "integer k'. This means\nq?is even, and therefore, q must also be an even\ninteger."
+}

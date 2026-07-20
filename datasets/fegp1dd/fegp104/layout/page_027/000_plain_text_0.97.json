@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.967805802822113,
+    "bbox": [
+        467.4355773925781,
+        2557.9453125,
+        2156.96435546875,
+        2823.72265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_027/000_plain_text_0.97.png",
+    "text": "The\nfocus\nof this chapter is to\nmain\nolearn\nhow t\nto\nhandle data to\nfind\nto s\nspecific\nquestions\ninquiries, to\nor\ntest\nhypotheses\nanswers\nor\nto\ntake specific decisions.\n. This should be kept in\nmind\nwhen\nproviding\ne opportunities to collect, organise and\npractice\nanalyse\ndata."
+}

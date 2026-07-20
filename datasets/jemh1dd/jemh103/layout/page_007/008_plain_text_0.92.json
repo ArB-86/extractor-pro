@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9157885909080505,
+    "bbox": [
+        192.36988830566406,
+        2152.26708984375,
+        1287.441650390625,
+        2208.718017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_007/008_plain_text_0.92.png",
+    "text": "Step 3 : Substituting\n this value of y in Equation\nn (3), we 8\nget"
+}

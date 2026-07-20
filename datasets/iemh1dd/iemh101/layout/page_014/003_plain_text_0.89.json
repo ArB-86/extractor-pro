@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8852681517601013,
+    "bbox": [
+        326.67449951171875,
+        1566.7203369140625,
+        1804.8001708984375,
+        2510.65869140625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/003_plain_text_0.89.png",
+    "text": " To locate the position of an object or a point in a plane, we require\ntwo perpendicular lines\u2014One of them is horizontal, and the\nother is vertical.\n The plane is called the cartesian plane, the coordinate plane or\nthe xy-plane and the lines are called the coordinate axes.\n The horizontal line is called the x-axis and the vertical line is\ncalled the y-axis.\n          \nquadrants.\nThe point of intersection of the axes is called the origin\n The distance of a point from the y-axis is its x-coordinate and\nthe distance of the point from the x-axis is its y-coordinate. If the\nx-coordinate of a point is x, and the y-coordinate is y, then (x, y)\nare called the coordinates of the point."
+}

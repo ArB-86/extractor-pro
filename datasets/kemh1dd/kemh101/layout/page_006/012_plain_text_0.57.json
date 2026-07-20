@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5734031200408936,
+    "bbox": [
+        298.26629638671875,
+        2207.34326171875,
+        1707.2728271484375,
+        2387.379638671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/012_plain_text_0.57.png",
+    "text": "(i)\nLet W be the set of the days of the\nWeek. Then\nW is finite.\n(i)\nLet S be the set of solutions of the equation x\u00b2 -16 = 0. Then\nS is finite.\ni1i\nLet G be the set of\npoints on a\nline. Then\nG is i\ninfinite."
+}

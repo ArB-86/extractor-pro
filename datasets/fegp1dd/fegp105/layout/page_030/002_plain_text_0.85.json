@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8524652719497681,
+    "bbox": [
+        294.2052917480469,
+        785.80322265625,
+        2188.80078125,
+        912.2058715820312
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_030/002_plain_text_0.85.png",
+    "text": "Q.1. Are the following pairs of numbers co-prime? (\nGuess first and then\n.use\nprime\nfactorisation to verify your answer."
+}

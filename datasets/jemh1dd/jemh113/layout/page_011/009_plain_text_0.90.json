@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.90241938829422,
+    "bbox": [
+        196.15499877929688,
+        1029.3831787109375,
+        1752.395751953125,
+        1194.958251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/009_plain_text_0.90.png",
+    "text": "After all the groups have collected the data and formed g\ngroupedfrequency\ndistribution tables, the groups should find the mean in each case by the method which\nthey find appropriate."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9561032652854919,
+    "bbox": [
+        191.84939575195312,
+        521.3950805664062,
+        1751.6573486328125,
+        630.2244262695312
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/005_plain_text_0.96.png",
+    "text": "Solution : Let the quadratic polynomial be ax? + bx + c, and its zeroes be \u03b1 and\nB.\nWehave"
+}

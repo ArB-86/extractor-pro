@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6163862347602844,
+    "bbox": [
+        193.19964599609375,
+        2198.67236328125,
+        261.10595703125,
+        2246.95849609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_007/013_plain_text_0.62.png",
+    "text": "So\n2"
+}

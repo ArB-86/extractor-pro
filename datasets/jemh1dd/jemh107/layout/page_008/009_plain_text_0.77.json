@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7737119197845459,
+    "bbox": [
+        192.98550415039062,
+        2251.4267578125,
+        1003.7716674804688,
+        2418.3427734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_008/009_plain_text_0.77.png",
+    "text": "Consider\npoints A(x, y)\nr any two p\nand\nB(x2,)\nand\nthat P\ny2)\n(x, y)\ndivides\nassume\nAB\ninternally\nin\nthe\nratio\nm22\nm\ni.e.,"
+}

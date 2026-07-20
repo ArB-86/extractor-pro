@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.8101987242698669,
+    "bbox": [
+        295.0180358886719,
+        2380.668212890625,
+        2184.832763671875,
+        2506.055908203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/005_plain_text_0.81.png",
+    "text": "Q.5. A piece of string is 36 cm long. What will be the length of each side, if it is used to\nform:"
+}

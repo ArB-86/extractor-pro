@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9301712512969971,
+    "bbox": [
+        321.4601135253906,
+        1295.7899169921875,
+        1754.384521484375,
+        1680.2752685546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_014/002_plain_text_0.93.png",
+    "text": "If the lines intersect at a point, then that point gives the unique solution of the two\nequations. In this case, the pair of equations is consistent.\nIf the lines coincide, then there are infinitely many solutions \u2014 each point on\n11\nthe line being a solution. In this case, the pair of equations is dependent\n(consistent).\nIf the lines are parallel, then the pair of equations has no solution. In this case, the\n111\npair of equations is inconsistent."
+}

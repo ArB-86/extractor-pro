@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8859133124351501,
+    "bbox": [
+        192.14828491210938,
+        1579.4891357421875,
+        938.2208251953125,
+        1631.02734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/011_plain_text_0.89.png",
+    "text": "So, there are\n10\nin\nthe flower\nrows\nbed."
+}

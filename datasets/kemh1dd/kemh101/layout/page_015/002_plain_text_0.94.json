@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9370601177215576,
+    "bbox": [
+        193.9683837890625,
+        1167.550537109375,
+        1749.596435546875,
+        1276.5677490234375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/002_plain_text_0.94.png",
+    "text": "Example 17 LetA= {1,2,3,4, 5,6, 7, 8,9, 10} and B = { 2,3,5, 7. FindA  B and\nhence show that A  B = B."
+}

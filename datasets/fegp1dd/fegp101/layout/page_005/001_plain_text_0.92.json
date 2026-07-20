@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.919468879699707,
+    "bbox": [
+        412.64642333984375,
+        2556.067626953125,
+        2084.894775390625,
+        2695.98583984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_005/001_plain_text_0.92.png",
+    "text": "5.\nCan\nthink of p\npictorial\nWays to visualise \n\uff1a the sequence\nyou\nof\nPowers of 2? Powers of 3?"
+}

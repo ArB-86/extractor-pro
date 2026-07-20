@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8556647896766663,
+    "bbox": [
+        194.6040496826172,
+        1822.7061767578125,
+        1751.377685546875,
+        1932.8387451171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/005_plain_text_0.86.png",
+    "text": "Solution : Let us first split the middle term -- 5x as -2x -3x [because \n(-2x) \u00d7 (-3x)\n6.x\u00b2 = (2x\u00b2) \u00d7 3]."
+}

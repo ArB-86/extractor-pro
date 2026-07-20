@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.7797656655311584,
+    "bbox": [
+        299.9153747558594,
+        1699.3001708984375,
+        1478.6878662109375,
+        1770.4156494140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_017/007_plain_text_0.78.png",
+    "text": "Using 9\nunit squares, solve the following."
+}

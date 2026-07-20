@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9577140808105469,
+    "bbox": [
+        249.55718994140625,
+        780.8749389648438,
+        1709.9107666015625,
+        1011.3749389648438
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/003_plain_text_0.96.png",
+    "text": "In\nthese\ndays\nof\nconflict\nbetween\nancient\nand\nmodern\nstudies;\nthere\nsurely\nbe\nsomething\nto\nbe\nsaid\nfor\nas\nstudy\nmust\nwhich\ndid\nnot\nbegin\nwith\nPythagoras\nwill\nnot\nend\nwith\nEinstein;\nand\nbut\nis\nthe oldest\nand\nthe\nyoungest.\nG.H. HARDY"
+}

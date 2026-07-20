@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6358611583709717,
+    "bbox": [
+        301.3846130371094,
+        2021.3023681640625,
+        1662.5325927734375,
+        2086.63818359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_009/011_plain_text_0.64.png",
+    "text": "Area of the floor = length \u00d7 width = 5 m \u00d7 4 m = 20 sq\nUu"
+}

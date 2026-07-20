@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9750730395317078,
+    "bbox": [
+        378.6872253417969,
+        658.743896484375,
+        1598.371826171875,
+        1076.425537109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/000_plain_text_0.98.png",
+    "text": "54 is the exponential form of 625. Here, 4 is the\nexponent/power, and 5 is the base. Exponents of\nthe form 5n a\nare called powers of 5: 51, 5\", 53, 54, etc.\n2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 = 210 = 1024.\nRemember the 1024 from earlier? There, it meant\nthat after every\n10 folds, the thickness increased\n1024 times."
+}

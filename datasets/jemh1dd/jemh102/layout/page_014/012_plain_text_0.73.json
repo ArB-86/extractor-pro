@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7343892455101013,
+    "bbox": [
+        243.86474609375,
+        1492.048583984375,
+        1752.1619873046875,
+        1591.4019775390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_014/012_plain_text_0.73.png",
+    "text": "3. The zeroes of a polynomial p(x)\n are precisely the x-coordinates of the points, where the\ngraph of y = p(x) intersects the x -axis."
+}

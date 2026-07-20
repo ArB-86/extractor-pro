@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7462020516395569,
+    "bbox": [
+        290.80224609375,
+        1151.2454833984375,
+        1178.474853515625,
+        1260.1854248046875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/009_plain_text_0.75.png",
+    "text": "(i) A = {a, b, c}\n(ii) B = {d, e, f. g}\n(ii) C = {a, c, e, g}\n(iv) D = {f g, h, a}"
+}

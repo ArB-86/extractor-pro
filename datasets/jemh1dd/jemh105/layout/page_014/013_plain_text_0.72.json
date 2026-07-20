@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7186450958251953,
+    "bbox": [
+        239.91859436035156,
+        2114.372314453125,
+        1568.8118896484375,
+        2167.580810546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/013_plain_text_0.72.png",
+    "text": "11\u3002\nWhich term of the AP : 3, 15, 27, 39, . . . will be 132 more than its 54th term?"
+}

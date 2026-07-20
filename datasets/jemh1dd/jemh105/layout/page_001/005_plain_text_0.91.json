@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.914425253868103,
+    "bbox": [
+        233.5658416748047,
+        1467.15234375,
+        1157.6292724609375,
+        1740.4403076171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_001/005_plain_text_0.91.png",
+    "text": "i)\nReena applied for a job a\nand\ngot selected. She\nhas been offered a job with a starting\nmonthly\nsalary of  8000, with\nan annual j\nincrement of\n 500 in her salary. Her salary (in ) for the 1st,\n2nd, 3rd, . . . years will be, respectively"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "title",
+    "confidence": 0.9075080752372742,
+    "bbox": [
+        420.249267578125,
+        1698.4725341796875,
+        878.781005859375,
+        1773.8128662109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_027/003_title_0.91.png",
+    "text": "Figure\nit\nOut"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7548322677612305,
+    "bbox": [
+        192.72593688964844,
+        844.4343872070312,
+        1218.09228515625,
+        966.8096923828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_004/006_plain_text_0.75.png",
+    "text": "22\n3.5\n\u00d7 3.7\n2\nTherefore, CSA of cone = \u03c0rl =\nX\ncm\n7\n2"
+}

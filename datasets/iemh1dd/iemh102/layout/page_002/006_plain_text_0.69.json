@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6884363293647766,
+    "bbox": [
+        312.32012939453125,
+        1356.937255859375,
+        1066.0716552734375,
+        1408.0072021484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/006_plain_text_0.69.png",
+    "text": "Total\ncost = (200l\n160w +\n50lw).\n+"
+}

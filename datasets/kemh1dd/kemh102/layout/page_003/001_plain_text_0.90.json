@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8992567658424377,
+    "bbox": [
+        194.03396606445312,
+        840.2154541015625,
+        1356.3118896484375,
+        898.09326171875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/001_plain_text_0.90.png",
+    "text": "Example 1 If\n(x + 1, y - 2) = (3,1), find the values of x and y."
+}

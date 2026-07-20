@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9138255715370178,
+    "bbox": [
+        492.02984619140625,
+        792.394287109375,
+        1961.00341796875,
+        862.0765380859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_007/008_plain_text_0.91.png",
+    "text": "We can write this in two ways: 6 + ? = 10\nOr\n10 -6 = ?"
+}

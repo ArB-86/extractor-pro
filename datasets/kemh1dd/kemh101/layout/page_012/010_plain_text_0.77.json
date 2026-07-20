@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7723752856254578,
+    "bbox": [
+        287.0290222167969,
+        1291.8822021484375,
+        1755.4560546875,
+        1698.9813232421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/010_plain_text_0.77.png",
+    "text": "{2,3,4} ...{1,2,3,4,5}\n11\nI a, b,c ?...\n{b, c, d }\n1\n111\n{x : x is a student of Class XI of your school}. . .{x : x student of your school}\n(iv)\n{x : x is a circle in the plane}\nx : x is a circle in the same plane with\nradius\nunit?\n{x : x is a triangle in a plane}\n{x : x is a rectangle in the plane}\nV1\nRx : x is an equilateral triangle in a plane} . .\n{x : x is a triangle in the same plane}\n(vii)\n{x : x is an even natural number?\n{x : x is an integer}"
+}

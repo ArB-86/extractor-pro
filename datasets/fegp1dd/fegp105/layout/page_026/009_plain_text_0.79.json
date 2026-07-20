@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.7868661880493164,
+    "bbox": [
+        296.76751708984375,
+        1399.9932861328125,
+        2187.068359375,
+        1520.426513671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/009_plain_text_0.79.png",
+    "text": "Ans.\nThe smallest difference\ne between two successive\nprimes is one\n(3-2=1) the largest\ndifference is 8 (97-89)."
+}

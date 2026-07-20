@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9743870496749878,
+    "bbox": [
+        247.34510803222656,
+        395.7082214355469,
+        1753.8179931640625,
+        546.0098266601562
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_012/002_plain_text_0.97.png",
+    "text": "4\u3002\nThirty women were examined in a hospital by a doctor and the number of heartbeats per\nminute were recorded and summarised as follows. Find the mean heartbeats per minute\nfor these women, choosing a suitable method."
+}

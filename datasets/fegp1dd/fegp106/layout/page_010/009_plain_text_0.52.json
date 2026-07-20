@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5200998187065125,
+    "bbox": [
+        426.9131164550781,
+        929.6770629882812,
+        1945.30224609375,
+        995.1278076171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_010/009_plain_text_0.52.png",
+    "text": "Hence, the area of the four flower beds = 4 \u00d7 16 sq m = 64 sq\nUU"
+}

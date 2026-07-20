@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7569376230239868,
+    "bbox": [
+        245.56993103027344,
+        922.7344970703125,
+        1105.8812255859375,
+        973.025634765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/013_plain_text_0.76.png",
+    "text": "3.\nChoose\nthe correct option. Justify your\nchoice."
+}

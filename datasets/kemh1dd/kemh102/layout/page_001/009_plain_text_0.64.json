@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.6419464349746704,
+    "bbox": [
+        193.45724487304688,
+        2189.00439453125,
+        1482.2947998046875,
+        2294.42919921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/009_plain_text_0.64.png",
+    "text": "Proceeding\nin a very orderly\nmanner, we can see that there will be\ndistinct pairs as\ngiven below:"
+}

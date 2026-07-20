@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9802599549293518,
+    "bbox": [
+        191.43081665039062,
+        2346.992431640625,
+        1754.3189697265625,
+        2568.54248046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/000_plain_text_0.98.png",
+    "text": "You\nknow\nthat a real\nnumber k is a zero of t\nthep\npolynomial\np(x) if p(k) = 0. But why\nthe\ns of a polynomial\nare\nSO\nimportant?\nTo\nthis,\nfirst\nWill\nsee\nthe\nzeroes\nanswer\nwe\n representations of linear and quadratic polynomials and the\ngeometrical\ngeometrical\nmeaning\ng of their\nzeroes."
+}

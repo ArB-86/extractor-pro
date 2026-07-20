@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.9006807208061218,
+    "bbox": [
+        443.74554443359375,
+        1423.2420654296875,
+        1853.2640380859375,
+        1485.0267333984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_043/002_plain_text_0.90.png",
+    "text": "Other than playing, reading story books is preferred by r\nmost students."
+}

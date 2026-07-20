@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9492215514183044,
+    "bbox": [
+        192.90838623046875,
+        538.4993286132812,
+        1753.408447265625,
+        643.34423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_016/003_plain_text_0.95.png",
+    "text": "The nth term of this APis a + (n - 1) d. Let S denote the sum of the first n terms\nof theAP.Wehave"
+}

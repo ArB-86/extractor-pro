@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9270831346511841,
+    "bbox": [
+        292.0526123046875,
+        2201.9384765625,
+        2085.646728515625,
+        2419.977294921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_019/001_plain_text_0.93.png",
+    "text": "In the third\nangles\ngreater than a right angle but\ngroup, all\ns are\nless than a straight angle. The turning\ng is more\nthan a quarter turn\nand less than a half turn. Such angles\n are called obtuse angles."
+}

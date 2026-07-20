@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8765592575073242,
+    "bbox": [
+        297.5133361816406,
+        944.5484008789062,
+        2187.329345703125,
+        1067.1727294921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_034/003_plain_text_0.88.png",
+    "text": "Ans.\nOne of the ways could be to arrange and organize the given data in a table. Think of\nsome other ways."
+}

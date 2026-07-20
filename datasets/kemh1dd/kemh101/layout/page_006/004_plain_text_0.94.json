@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9388161897659302,
+    "bbox": [
+        197.2849884033203,
+        698.870849609375,
+        1753.9229736328125,
+        807.1253051757812
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/004_plain_text_0.94.png",
+    "text": "According to this definition, B is an empty set while A is not an empty set. The\nempty set is denoted by the symbol \u03a6 or { }."
+}

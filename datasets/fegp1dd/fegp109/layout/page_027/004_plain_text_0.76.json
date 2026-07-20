@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.7593010663986206,
+    "bbox": [
+        438.4717712402344,
+        1454.78466796875,
+        2009.8900146484375,
+        1517.5594482421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_027/004_plain_text_0.76.png",
+    "text": "For figure (d), paper was folded vertically and then horizontally or vice versa."
+}

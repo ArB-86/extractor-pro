@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9615330696105957,
+    "bbox": [
+        191.28286743164062,
+        1403.8350830078125,
+        1753.6627197265625,
+        1565.1802978515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/002_plain_text_0.96.png",
+    "text": "We note that every element ofY is also an element of X; we say that Y is a subset\nof X. The fact that Y is subset of X is expressed in symbols as Y c X. The symbol C\nstands for \u2018is a subset of' or \u201cis contained in'"
+}

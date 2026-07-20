@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9860821962356567,
+    "bbox": [
+        194.36317443847656,
+        1382.013916015625,
+        1753.7236328125,
+        1878.4541015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_024/000_plain_text_0.99.png",
+    "text": "The given distribution being of the less than type, 140, 145, 150, . . ., 165 give the\nupper limits of the corresponding class intervals. So, the classes should be below 140,\n140 - 145, 145 - 150, . . ., 160 - 165. Observe that from the given distribution, we find\nthat there are 4 girls with height less than 140, i.e., the frequency of class interval\nbelow 140 is 4. Now, there are 11 girls with heights less than 145 and 4 girls with\nheight less than 140. Therefore, the number of girls with height in the interval\n140 - 145 is 11 - 4 = 7. Similarly, the frequency of 145 - 150 is 29 - 11 = 18, for\n150 - 155, it is 40 - 29 = 11, and so on. So, our frequency distribution table with the\ngiven cumulative frequencies becomes:"
+}

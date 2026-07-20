@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9551990628242493,
+    "bbox": [
+        202.54461669921875,
+        655.4412841796875,
+        1753.080078125,
+        753.5272216796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/003_plain_text_0.96.png",
+    "text": "20*.S\nSuppose you drop a die at random on the rectangular region shown in Fig. 14.6. What is\nthe probability that it will land inside the circle with diameter 1m?"
+}

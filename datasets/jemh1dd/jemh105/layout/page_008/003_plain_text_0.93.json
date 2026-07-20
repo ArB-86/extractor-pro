@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.927827000617981,
+    "bbox": [
+        192.91058349609375,
+        1171.147705078125,
+        1750.1734619140625,
+        1334.1396484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_008/003_plain_text_0.93.png",
+    "text": "It would be  (8000 + 500) =  8500. In the same way, we can find the monthly\nsalary for the 3rd, 4th and 5th year by adding ? 500 to the salary of the previous year.\nSo, the salary for the 3rd year = ? (8500 + 500)"
+}

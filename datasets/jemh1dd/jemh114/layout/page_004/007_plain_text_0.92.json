@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9166631102561951,
+    "bbox": [
+        194.087646484375,
+        1987.71875,
+        1393.2540283203125,
+        2043.86083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/007_plain_text_0.92.png",
+    "text": "(ii)\nLet F be the event\ngetting\ng a number less than or equal to 4'."
+}

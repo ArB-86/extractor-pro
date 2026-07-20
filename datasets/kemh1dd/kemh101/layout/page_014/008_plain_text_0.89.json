@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8850666880607605,
+    "bbox": [
+        195.51058959960938,
+        1686.9005126953125,
+        1176.1165771484375,
+        1740.1597900390625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/008_plain_text_0.89.png",
+    "text": "Thus, we can\ndefine the union of two sets as f\nfollows:"
+}

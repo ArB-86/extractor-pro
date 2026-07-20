@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.898705780506134,
+    "bbox": [
+        195.41485595703125,
+        1127.64208984375,
+        1525.6427001953125,
+        1181.5133056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/009_plain_text_0.90.png",
+    "text": "It forms an AP (Why?). Let the number of rows in the flower bed be n."
+}

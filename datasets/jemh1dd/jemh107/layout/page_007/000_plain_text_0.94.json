@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9429960250854492,
+    "bbox": [
+        190.1277313232422,
+        746.7626342773438,
+        1753.618408203125,
+        856.2948608398438
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_007/000_plain_text_0.94.png",
+    "text": "Note : Using the remark above, we see that (O, 9) is the intersection of the y-axis and\nthe perpendicular bisector of AB."
+}

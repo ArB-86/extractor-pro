@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.927424967288971,
+    "bbox": [
+        194.67591857910156,
+        468.6976623535156,
+        1752.644287109375,
+        575.2307739257812
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/005_plain_text_0.93.png",
+    "text": "Divide the students of your class into three groups and ask each group to do one of the\nfollowing activities."
+}

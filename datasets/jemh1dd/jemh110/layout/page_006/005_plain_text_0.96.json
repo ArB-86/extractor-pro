@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.95647794008255,
+    "bbox": [
+        192.45269775390625,
+        396.1823425292969,
+        1092.9486083984375,
+        505.17572021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_006/005_plain_text_0.96.png",
+    "text": "Theorem\n10.2 : 7\nThe\nlengths of\ntangents\ndrawn\nfrom\nan\nexternal\npoint to a circle\nare\nenba"
+}

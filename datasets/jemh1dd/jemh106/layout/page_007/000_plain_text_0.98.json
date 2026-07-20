@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9752609133720398,
+    "bbox": [
+        193.81243896484375,
+        1305.7188720703125,
+        1156.16650390625,
+        1468.486083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/000_plain_text_0.98.png",
+    "text": "It is\nbelieved\nthat\nhe\nhad\nused\nar\nresult\nt called\nthe Basic Proportionality\nTheorem\nnow\nknown\nas\nthe\nThales\nTheorem)\nfor\nthe\nsame."
+}

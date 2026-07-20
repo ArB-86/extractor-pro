@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9406663179397583,
+    "bbox": [
+        521.17578125,
+        2345.07763671875,
+        2212.296630859375,
+        2485.766357421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_020/001_plain_text_0.94.png",
+    "text": "   o s     o\nwhat the other angle is."
+}

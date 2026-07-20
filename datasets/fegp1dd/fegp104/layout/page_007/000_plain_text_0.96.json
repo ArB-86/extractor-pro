@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.962361216545105,
+    "bbox": [
+        419.30096435546875,
+        1016.2509765625,
+        2212.53369140625,
+        1243.2747802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_007/000_plain_text_0.96.png",
+    "text": "Example: Nand Kishor\ncollected\nresponses\nfrom\nthe children\nof\nhis\nmiddle school\nin\nBerasia\nregarding\nhow\noften\nthey\nslept at l\nleast\n9 hours\nduring\nthe night. He prepared a\na\npictograph from\nthe data:"
+}

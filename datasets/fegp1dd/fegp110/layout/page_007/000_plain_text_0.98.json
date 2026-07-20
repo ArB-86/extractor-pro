@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9810912609100342,
+    "bbox": [
+        458.4233093261719,
+        1498.786376953125,
+        2174.776123046875,
+        2016.283447265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_007/000_plain_text_0.98.png",
+    "text": "In general, when there are two unequal\nquantities, subtraction can\nindicate the change needed to make the quantities equal. Subtraction\n    os      \nbecome the target quantity. In the context of different floor levels,\nwhat is the change required to reach the Target Floor from the Starting\nFloor? Notice that the change needed may be positive (for an increase)\nor negative (for a decrease)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9775901436805725,
+    "bbox": [
+        418.2343444824219,
+        1589.907470703125,
+        2211.131103515625,
+        1959.1644287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_001/000_plain_text_0.98.png",
+    "text": "We live in an age of information. We constantly s\nsee large a\namounts\nof data\npresented to us in new a\nand interesting\nWays. In this chapter,\nwe will e\nexplore some of the ways that data is presented, and how we\ncan use some of those ways to correctly display, interpret and make\ninferences\nfrom such data!"
+}

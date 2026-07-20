@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8300365209579468,
+    "bbox": [
+        246.9657745361328,
+        718.5191040039062,
+        918.1557006835938,
+        1740.8199462890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_013/003_plain_text_0.83.png",
+    "text": "3. To conduct Sports Day activities, in\nyour rectangular shaped school\nground ABCD, lines have been\ndrawn with chalk powder at a\ndistance of 1m each. 100 flower pots\nhave been placed at a distance of 1m\nfrom each other along AD, as shown\n1\nin Fig. 7.12. Niharika runs - th the\ndistance AD on the 2nd line and\n1\nposts a green flag. Preet runs\nth\n5\nthe distance AD on the eighth line\nand posts a red flag. What is the\ndistance between both the flags? If\nRashmi has to post a blue flag exactly\nhalfway between the line segment\njoining the two flags, where should\nshe post her flag?"
+}

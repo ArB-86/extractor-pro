@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8171074986457825,
+    "bbox": [
+        385.00494384765625,
+        2467.968505859375,
+        1466.79541015625,
+        2531.0947265625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/004_plain_text_0.82.png",
+    "text": "3. State true or 1\nfalse. Explain y\nyour reasoning."
+}

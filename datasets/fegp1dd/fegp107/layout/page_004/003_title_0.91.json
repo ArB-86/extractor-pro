@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9131825566291809,
+    "bbox": [
+        420.95404052734375,
+        400.9824523925781,
+        1863.688232421875,
+        485.088134765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_004/003_title_0.91.png",
+    "text": "7.2 Fractional Units\nParts of a Whole\nas"
+}

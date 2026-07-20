@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9253766536712646,
+    "bbox": [
+        290.53668212890625,
+        2189.1298828125,
+        1227.0369873046875,
+        2245.500732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/006_plain_text_0.93.png",
+    "text": "Plot few points on\nthe\ngraph :\nand\n verify it yourself."
+}

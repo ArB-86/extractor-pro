@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8399134874343872,
+    "bbox": [
+        380.37774658203125,
+        287.89984130859375,
+        1694.6009521484375,
+        355.5199890136719
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/003_plain_text_0.84.png",
+    "text": "8. In the following pattern, fill in the missing\nnumbers:"
+}

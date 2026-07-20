@@ -1,0 +1,13 @@
+{
+    "page": 41,
+    "label": "plain_text",
+    "confidence": 0.8127077221870422,
+    "bbox": [
+        296.2443542480469,
+        981.1963500976562,
+        1687.3365478515625,
+        1079.419921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_041/007_plain_text_0.81.png",
+    "text": "8\nAns.\nNo. For example:\n= = 2 cannot be written as a mixed number.\n4"
+}

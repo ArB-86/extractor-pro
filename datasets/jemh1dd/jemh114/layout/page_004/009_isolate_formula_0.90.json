@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "isolate_formula",
+    "confidence": 0.901619553565979,
+    "bbox": [
+        617.3167724609375,
+        1856.8985595703125,
+        1432.1695556640625,
+        1970.9215087890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/009_isolate_formula_0.90.png",
+    "text": "OCR(datasets/jemh1dd/jemh114/layout/page_004/009_isolate_formula_0.90.png)"
+}

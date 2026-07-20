@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9096176028251648,
+    "bbox": [
+        456.69732666015625,
+        2098.295654296875,
+        1954.8507080078125,
+        2162.788330078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/006_plain_text_0.91.png",
+    "text": "However, this process becomes inefficient for larger numbers."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7132082581520081,
+    "bbox": [
+        330.58404541015625,
+        306.0987243652344,
+        1796.89697265625,
+        425.5895080566406
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_015/000_plain_text_0.71.png",
+    "text": "The coordinates of a point on the x-axis are of the form (x, O), and\nthose of the points on the y-axis are of the form (O, y)."
+}

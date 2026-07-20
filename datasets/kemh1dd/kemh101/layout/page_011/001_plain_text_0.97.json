@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9659672975540161,
+    "bbox": [
+        191.05540466308594,
+        2392.531982421875,
+        1755.1553955078125,
+        2563.548095703125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/001_plain_text_0.97.png",
+    "text": "For example, the set {x : x \u2208 R, -5 < x \u2264 7}, written in set-builder form, can be\nwritten in the form of interval as (-5, 7] a\nand the interval [-3, 5) can be written in set-\nbuilder form as\n{x : -3 \u2264x < 5}."
+}

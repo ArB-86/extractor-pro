@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7689691781997681,
+    "bbox": [
+        484.87353515625,
+        2544.46826171875,
+        2075.366455078125,
+        2925.977294921875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/009_plain_text_0.77.png",
+    "text": "(i)\nThe cube of any odd number is\nseven.\n(ii)\nThere is no perfect cube that ends with 8.\n(iii)\nThe cube of a 2-digit number may be a 3-digit number.\n(iv)\nThe cube of a 2-digit number may\nhave seven or more\ndigits.\nV\nCube numbers have an odd number of factors"
+}

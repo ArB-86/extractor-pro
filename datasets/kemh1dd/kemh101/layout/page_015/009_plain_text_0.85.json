@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8490931987762451,
+    "bbox": [
+        193.679443359375,
+        978.3673706054688,
+        1460.8255615234375,
+        1033.8082275390625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/009_plain_text_0.85.png",
+    "text": "Example 16 Consider the sets X and Y of Example 14. Find X ^ Y."
+}

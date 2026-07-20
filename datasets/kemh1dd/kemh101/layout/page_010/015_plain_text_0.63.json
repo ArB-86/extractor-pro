@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6283124089241028,
+    "bbox": [
+        193.58192443847656,
+        1394.0343017578125,
+        1171.312744140625,
+        1446.3494873046875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/015_plain_text_0.63.png",
+    "text": "Solution\n(i)\n\u03a6 c B as\n \u03a6 is a subset of every\nset."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9459176659584045,
+    "bbox": [
+        421.2315368652344,
+        1820.4163818359375,
+        2209.12890625,
+        1964.415283203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_020/002_plain_text_0.95.png",
+    "text": "We\nhow various\nangles\nbe\nusing\nsaw\ncan\ncompared\na circle."
+}

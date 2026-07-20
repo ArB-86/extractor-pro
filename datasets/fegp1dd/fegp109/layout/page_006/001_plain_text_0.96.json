@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9612337350845337,
+    "bbox": [
+        420.1880798339844,
+        1874.2724609375,
+        2211.352783203125,
+        2088.448486328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_006/001_plain_text_0.96.png",
+    "text": "So\nfar\nhave\nfigures\nwe\nseen\nsymmetrical\nand\nasymmetrical\nfigures. How\ndoes one\ngenerate such symmetrical figures? Let us\nexplore this."
+}

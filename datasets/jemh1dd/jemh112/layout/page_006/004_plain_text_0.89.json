@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8884788155555725,
+    "bbox": [
+        192.4796142578125,
+        786.965087890625,
+        1157.3023681640625,
+        906.5296630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/004_plain_text_0.89.png",
+    "text": "Solution : Let h be height of the cylinder, and r the\ncommon radius of the cylinder and hemisphere. Then,"
+}

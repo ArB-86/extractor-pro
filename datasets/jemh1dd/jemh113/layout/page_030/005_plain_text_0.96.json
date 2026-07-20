@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9553536772727966,
+    "bbox": [
+        304.8271484375,
+        1629.17431640625,
+        1752.1861572265625,
+        1728.4713134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_030/005_plain_text_0.96.png",
+    "text": "Determine the median number of letters in the surnames. Find the mean number of\nletters in the surnames? Also, find the modal size of the surnames."
+}

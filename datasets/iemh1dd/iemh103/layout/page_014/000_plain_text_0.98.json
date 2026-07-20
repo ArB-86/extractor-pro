@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9830033779144287,
+    "bbox": [
+        237.1230010986328,
+        564.3190307617188,
+        1800.716064453125,
+        861.7711791992188
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/000_plain_text_0.98.png",
+    "text": "Step\n1: Assumption: Assume\n\u221a2\nis a rational\nnumber. Therefore, it\np\nI be written as a f\ncan\nfraction\n. (This means\nP\nintegers\nthat share no common \nn factors other than 1, that is,\nand\nb1\nare\nthey\nare co-prime.)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8698922991752625,
+    "bbox": [
+        226.9266815185547,
+        2116.088134765625,
+        1159.7186279296875,
+        2168.732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/010_plain_text_0.87.png",
+    "text": "(ii)\nP(Savita and Hamida have\nthe same\nbirthday)"
+}

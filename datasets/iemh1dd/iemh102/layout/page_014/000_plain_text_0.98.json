@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9774660468101501,
+    "bbox": [
+        238.6201934814453,
+        1300.0560302734375,
+        1796.90283203125,
+        1575.09521484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_014/000_plain_text_0.98.png",
+    "text": "Example\ne 13:Let us\nplot the\npoints\n(-3, 6), (-2, 4), (0, 0), (1, -2), (2, -4),\n(3, -6) in the\ne coordinate\nplane\nshown\nin Fig. 2.7. Join\ne on a\ngraph\npaper as s\nthe\npoints\n(-3, 6)\nand\n(3, -6)\nusing\na ruler. Doing\nso, observe\nthat all\nfive\npoints\nlie\non a straight\nline. Can\nthe\nequation of\nthis\nline\nby\nyou\nguess\nlooking\ng at the relationship between\nthe x andy coordinates of each\npoint?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9794735312461853,
+    "bbox": [
+        191.96421813964844,
+        1842.4871826171875,
+        1308.3770751953125,
+        2207.921142578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_011/000_plain_text_0.98.png",
+    "text": "Let us see what happens to the trigonometric ratios of angle\nA, if it is made smaller and smaller in the right triangle ABC\n(see Fig. 8.16), till it becomes zero. As Z A gets smaller and\nsmaller, the length of the side BC decreases.The point C gets\ncloser to point B, and finally when Z A becomes very close\nto O\u00b0, AC becomes almost the same as AB\n(see Fig. 8.17)."
+}

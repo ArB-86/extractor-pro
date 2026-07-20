@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9703638553619385,
+    "bbox": [
+        192.04457092285156,
+        844.5805053710938,
+        1064.7218017578125,
+        1006.5352783203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_003/002_plain_text_0.97.png",
+    "text": "The trigonometric\nc ratios of the angle A\nin right triangle ABC (see Fig. 8.4)\nare defined\nas follows :"
+}

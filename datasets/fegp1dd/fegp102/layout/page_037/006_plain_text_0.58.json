@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5809803605079651,
+    "bbox": [
+        381.8829650878906,
+        1221.5347900390625,
+        2083.64208984375,
+        1364.21435546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_037/006_plain_text_0.58.png",
+    "text": "Each team g\n gets five turns. The winner is again the team with the\nlowest score."
+}

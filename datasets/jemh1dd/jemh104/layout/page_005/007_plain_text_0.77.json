@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7716503739356995,
+    "bbox": [
+        192.63522338867188,
+        2091.820068359375,
+        1750.9222412109375,
+        2199.62841796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/007_plain_text_0.77.png",
+    "text": "So, the values of x for which 2x\u00b2 - 5x + 3 = 0 are the same for which (2x - 3)(x - 1) = 0.\ni.e., either 2x - 3 = 0 or x - 1 = 0."
+}

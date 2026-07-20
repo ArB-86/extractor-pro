@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.6516767144203186,
+    "bbox": [
+        295.6891174316406,
+        3064.6142578125,
+        1167.990478515625,
+        3124.76904296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_028/005_plain_text_0.65.png",
+    "text": "Ans. Area of floor not carpeted = 11 \nsq. m."
+}

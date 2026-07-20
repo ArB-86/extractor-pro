@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8970761895179749,
+    "bbox": [
+        283.4847412109375,
+        708.4628295898438,
+        1796.8446044921875,
+        1056.2528076171875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/002_plain_text_0.90.png",
+    "text": "15.\nA computer\ngraphics\nprogram\ndisplays i\nimages\ns on a rectangular\nwhose\ncoordinate\nhas\nthe\norigin\nat\nthe\nscreen\nsystem\nbottom-left\nI corner.\nThe screen is 80o\npixels wide and 60o\npixels\nhigh. A circular icon of radius 80 pixels is drawn with its centre at\nthe point A (100, 150). Another circular icon of radius 100 p\npixels is\ndrawn with its centre at the point B (250, 230). Determine:"
+}

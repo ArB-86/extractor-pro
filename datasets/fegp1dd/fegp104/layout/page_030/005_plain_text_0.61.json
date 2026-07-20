@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.6139713525772095,
+    "bbox": [
+        371.6854248046875,
+        1003.3152465820312,
+        2091.0859375,
+        1622.1124267578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_030/005_plain_text_0.61.png",
+    "text": "1\u3002\nIf you wanted to visually represent the data of the heights of the\ntallest persons in each class in your school, would you use a graph\nwith vertical bars or horizontal bars? Why?\n2\u3002\nIf you were making a table of the longest rivers on each continent\nand their lengths, would you prefer to use a bar graph with\nvertical bars or with horizontal bars? Why? Try finding out this\ninformation, and then make the corresponding table and bar\ngraph! Which continents have the longest rivers?"
+}

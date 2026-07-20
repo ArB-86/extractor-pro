@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8018078207969666,
+    "bbox": [
+        382.3740539550781,
+        984.4228515625,
+        1670.7635498046875,
+        1219.5311279296875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_022/003_plain_text_0.80.png",
+    "text": "Ans. Yes it is 11.\n3\u221a1331 = 11, 3\u221a4913 = 17, *\u221a12167 = 23, 3\u221a32768=32\nUse your\nown strategies to guess."
+}

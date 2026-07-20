@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9295103549957275,
+    "bbox": [
+        423.095947265625,
+        675.799072265625,
+        1096.02001953125,
+        748.8890991210938
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_012/006_title_0.93.png",
+    "text": "Adding\nand Subtracting"
+}

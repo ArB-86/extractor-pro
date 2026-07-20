@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6272549629211426,
+    "bbox": [
+        191.42929077148438,
+        407.7704162597656,
+        1115.88134765625,
+        548.0169067382812
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/012_plain_text_0.63.png",
+    "text": "But this contradicts the fact that\n2\niS\nirrational.\nSo, \n3\u221a2\nwe conclude that\niS\nirrational."
+}

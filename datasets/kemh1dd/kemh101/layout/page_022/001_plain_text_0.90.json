@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9037391543388367,
+    "bbox": [
+        248.54661560058594,
+        951.912353515625,
+        1712.16796875,
+        1782.721923828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/001_plain_text_0.90.png",
+    "text": "A set is a well-defined collection of objects.\nA set which does not contain any element is called empty set.\nA set which consists of a definite number of elements is called finite set,\notherwise, the set is called infinite set.\nTwo sets A and B are said to be equal if they have exactly the same elements.\nA set A is said to be subset of a set B, if every element ofA is also an element\nof B. Intervals are subsets of R.\nThe union of two sets A and B is the set of all those elements which are either\nin A or in B.\nThe intersection of two sets A and B is the set of all elements which are\ncommon. The difference of two sets A and B in this order is the set of elements\nwhich belong to A but not to B.\nThe complement of a subset A of universal set U is the set of all elements ofU\nwhich are not the elements of A.\nFor any two sets A and B, (A U B)'= A'  B' and (A  B )' = A' U B'"
+}

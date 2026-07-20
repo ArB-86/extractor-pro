@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8774498105049133,
+    "bbox": [
+        304.2259826660156,
+        2179.190673828125,
+        1757.009033203125,
+        2408.007568359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/009_plain_text_0.88.png",
+    "text": "(i)\nLet A = {1, 2,3, 4}\nB = {3, 1, 4, 2}. Then A = B.\nand\n(ii)\nLet A be the set of prime numbers\ns less than 6 and P the set of prime factors\nof 30. Then A and P :\n are equal, since 2, 3 and 5 are the only prime factors of\n30\nand also these are\nless\nthan\n1 6."
+}

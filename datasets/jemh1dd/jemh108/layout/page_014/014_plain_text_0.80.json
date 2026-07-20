@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8039039373397827,
+    "bbox": [
+        193.18833923339844,
+        2499.469482421875,
+        1143.14453125,
+        2556.612548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/014_plain_text_0.80.png",
+    "text": "Solving\n(1) a\nand (2), we get : A= 45\u00b0\nand\nB =15\u00b0"
+}

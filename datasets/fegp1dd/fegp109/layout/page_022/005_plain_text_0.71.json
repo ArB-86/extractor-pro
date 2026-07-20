@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.7086194753646851,
+    "bbox": [
+        510.36492919921875,
+        2152.31494140625,
+        2081.61328125,
+        2290.997314453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_022/005_plain_text_0.71.png",
+    "text": "4\u3002\nIn a figure, 60\u00b0 is the smallest angle of symmetry. What are\nthe other angles of symmetry of this figure?"
+}

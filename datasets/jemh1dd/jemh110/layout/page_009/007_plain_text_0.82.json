@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.823259711265564,
+    "bbox": [
+        247.9101104736328,
+        697.0927124023438,
+        1750.891845703125,
+        796.4351196289062
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_009/007_plain_text_0.82.png",
+    "text": "7. Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the\nlarger circle which touches the smaller circle."
+}

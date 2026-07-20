@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9383232593536377,
+    "bbox": [
+        418.4670715332031,
+        1531.86767578125,
+        2208.60302734375,
+        1668.4140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_023/002_plain_text_0.94.png",
+    "text": "Below is a g\ngrid having\nsome numbers. Follow the steps as shown\nuntil no number is left."
+}

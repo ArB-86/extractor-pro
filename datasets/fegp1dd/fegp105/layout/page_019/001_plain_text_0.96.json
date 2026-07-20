@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.961067795753479,
+    "bbox": [
+        294.83123779296875,
+        649.7614135742188,
+        2084.937744140625,
+        870.3395385742188
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_019/001_plain_text_0.96.png",
+    "text": "Find numbers between 1\n120 and 140 that are\ndivisible by 8. Also\nfind numbers between 1120 and 1140, and 3120 and 3140, that are\ndivisible by 8. What do you observe?"
+}

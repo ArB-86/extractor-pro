@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9491573572158813,
+    "bbox": [
+        380.2497863769531,
+        393.8356018066406,
+        1616.394775390625,
+        512.4987182617188
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_004/001_plain_text_0.95.png",
+    "text": "Eshwarappa asked Roxie and Estu,\n, \u201cIs a lakh big\nor\nsmall?\""
+}

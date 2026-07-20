@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9601079225540161,
+    "bbox": [
+        191.36203002929688,
+        1986.66064453125,
+        1752.5540771484375,
+        2098.159423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_014/004_plain_text_0.96.png",
+    "text": "Solution : Here the maximum class frequency is 8, and the class corresponding to this\nfrequency is 3 - 5. So, the modal class is 3 - 5."
+}

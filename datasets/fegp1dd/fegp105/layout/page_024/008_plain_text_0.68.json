@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6814953684806824,
+    "bbox": [
+        296.6046142578125,
+        1238.6522216796875,
+        1231.0919189453125,
+        1297.6571044921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_024/008_plain_text_0.68.png",
+    "text": "Ans.\nAll shaded\nnumbers are multiples of 3."
+}

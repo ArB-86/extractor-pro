@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.89894038438797,
+    "bbox": [
+        246.7930145263672,
+        2096.253662109375,
+        1753.6236572265625,
+        2258.453369140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/003_plain_text_0.90.png",
+    "text": "5. A hemispherical depression is cut out from one face of a cubical wooden block such\nthat the diameter l of the hemisphere is equal to the edge of the cube. Determine the\nsurface area of the remaining solid."
+}

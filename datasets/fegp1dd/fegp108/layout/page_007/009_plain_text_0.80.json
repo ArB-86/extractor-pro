@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7973434329032898,
+    "bbox": [
+        369.42254638671875,
+        859.27783203125,
+        1224.39404296875,
+        926.025634765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/009_plain_text_0.80.png",
+    "text": "S1)\nAll the sides are equal,\nand"
+}

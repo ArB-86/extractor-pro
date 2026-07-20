@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8271036744117737,
+    "bbox": [
+        525.29541015625,
+        2046.958740234375,
+        2210.146484375,
+        2264.1796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_014/006_plain_text_0.83.png",
+    "text": "Using\nthis\nanalysis,\nconstructing\ntry\nit?\nRemember,\ncan\nyou\nall\nthat\nasked\nfor\nis\nrectangle\nthat\nbe\ndivided\na\ninto\nwas\ncan\ntwo\nidentical\nsquares\nand\nWith\nimposed.\nno\nmeasurements"
+}

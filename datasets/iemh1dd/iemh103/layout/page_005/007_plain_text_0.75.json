@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7470441460609436,
+    "bbox": [
+        269.1645202636719,
+        1896.5814208984375,
+        1802.470458984375,
+        2442.95458984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/007_plain_text_0.75.png",
+    "text": "1. A fortune plus a fortune is a fortune: 5 + 4 = 9.\n2. A debt plus a debt is a debt: (-5) + (-4) = -9. (If you owe 5 and\nborrow ?4 more, you owe ?9.)\n3. A fortune minus zero is a fortune, a debt minus zero is a debt:\n7 - 0 = 7, and - 6 - 0 = - 6.\n4. The product of a debt and a fortune is a debt: (-3) \u00d7 4 = -12.\n(If you take on 4 debts of 3, your total debt is ?12.)\n5. The product of two debts is a fortune: (-3) x (-4) = 12."
+}

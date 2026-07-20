@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5013136267662048,
+    "bbox": [
+        239.1507568359375,
+        706.6340942382812,
+        1756.984619140625,
+        822.9860229492188
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_014/008_plain_text_0.50.png",
+    "text": "3. The coordinates of the point P(x, y) which divides the line segment joining\nthe\npoints A(x, y)\nand B(x2, y2)\ninternally\nin the ratio\nm\nm\nare\n2"
+}

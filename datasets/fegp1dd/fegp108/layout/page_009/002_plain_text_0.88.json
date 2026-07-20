@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8765017986297607,
+    "bbox": [
+        292.3316955566406,
+        690.7327270507812,
+        2084.0791015625,
+        833.7908935546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_009/002_plain_text_0.88.png",
+    "text": "For help, you can see the following\nfigures. A square\nPQRS of side\nlength 6 cm is constructed."
+}

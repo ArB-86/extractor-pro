@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.942977249622345,
+    "bbox": [
+        191.23504638671875,
+        2164.2607421875,
+        888.6083984375,
+        2347.042724609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/000_plain_text_0.94.png",
+    "text": "Solution\n1 :Let\nus consider\ntwo\nright\ntriangles\nABC\nand\nPQR\nwhere\nsin\nB\nQ (see Fig. 8.9).\nS1n"
+}

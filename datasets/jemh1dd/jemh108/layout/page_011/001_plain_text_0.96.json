@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9624667763710022,
+    "bbox": [
+        193.96006774902344,
+        396.6243591308594,
+        1752.4290771484375,
+        506.6333312988281
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_011/001_plain_text_0.96.png",
+    "text": "As you know, for finding the trigonometric ratios, we need to know the lengths of the\nsides of the triangle. So, let us suppose that AB = 2a."
+}

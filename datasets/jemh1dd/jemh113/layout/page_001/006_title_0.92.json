@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9247093200683594,
+    "bbox": [
+        196.1474609375,
+        1752.1326904296875,
+        807.6666259765625,
+        1807.8402099609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_001/006_title_0.92.png",
+    "text": "13.2\nMean of Grouped Data"
+}

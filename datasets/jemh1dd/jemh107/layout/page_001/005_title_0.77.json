@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.772474467754364,
+    "bbox": [
+        391.66021728515625,
+        843.7877197265625,
+        1452.1497802734375,
+        946.1077880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_001/005_title_0.77.png",
+    "text": "COORDINATE\nGEOMETRY"
+}

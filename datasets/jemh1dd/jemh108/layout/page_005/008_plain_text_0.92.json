@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9176022410392761,
+    "bbox": [
+        193.18711853027344,
+        436.945556640625,
+        538.5546875,
+        488.9128112792969
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/008_plain_text_0.92.png",
+    "text": "From\nthis,\nfind\nwe"
+}

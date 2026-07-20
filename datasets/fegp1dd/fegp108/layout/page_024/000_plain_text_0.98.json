@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.980144739151001,
+    "bbox": [
+        522.94140625,
+        1409.73486328125,
+        2212.171630859375,
+        1694.0185546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_024/000_plain_text_0.98.png",
+    "text": "Having\ng marked the three points of the rectangle, we only need\nto\ncomplete\nit. Recall\nthat\nin\nsimilar\nsituation\nin\nthe\nwe\nwere\nas\nprevious\nproblem\nalso. We\ntwo\nmethods of\ncompleting\nthe\nsaw\nhere. We could follow any\nrectangle from\none of those\nmethods."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8819046020507812,
+    "bbox": [
+        508.2322082519531,
+        1281.0806884765625,
+        2008.47412109375,
+        1351.03466796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_007/009_plain_text_0.88.png",
+    "text": "Evaluate 15-5, 100-10 and 74-34 from this perspective."
+}

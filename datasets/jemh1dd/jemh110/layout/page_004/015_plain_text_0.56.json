@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5630537867546082,
+    "bbox": [
+        316.6849670410156,
+        1767.1949462890625,
+        1743.5689697265625,
+        2018.377685546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/015_plain_text_0.56.png",
+    "text": "A tangent to a circle intersects it in\npoint\nt (s).\n(ii)\nA line intersecting a circle in two points is called a\niii\nA circle can have\nparallel tangents at the most.\niv\nThecommon\npoint of a tangent to a circle and the circle is called"
+}

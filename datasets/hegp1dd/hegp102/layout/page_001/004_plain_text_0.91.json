@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.912567138671875,
+    "bbox": [
+        379.6352233886719,
+        1587.89501953125,
+        2089.041748046875,
+        1703.7008056640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_001/004_plain_text_0.91.png",
+    "text": "Estu says\ns \u201cI heard that a sheet of paper can't be folded more\nthan\n7 times\""
+}

@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7426045536994934,
+    "bbox": [
+        296.5834655761719,
+        559.7745361328125,
+        965.3600463867188,
+        622.1746826171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_044/011_plain_text_0.74.png",
+    "text": "Q1. Find the missing\nnumbers:"
+}

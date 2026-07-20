@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6943876147270203,
+    "bbox": [
+        287.9332580566406,
+        1139.702392578125,
+        1580.5958251953125,
+        1194.39208984375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/013_plain_text_0.69.png",
+    "text": "AU B =A  B, b \u2208 A  B. So, b \u2208 A. Therefore, B c A. Thus, A= B"
+}

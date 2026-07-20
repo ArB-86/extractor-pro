@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9261868000030518,
+    "bbox": [
+        293.6433410644531,
+        399.2369079589844,
+        991.8329467773438,
+        470.90240478515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/001_title_0.93.png",
+    "text": "Perimeter of a triangle"
+}

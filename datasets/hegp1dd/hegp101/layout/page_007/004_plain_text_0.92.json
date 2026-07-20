@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9222466349601746,
+    "bbox": [
+        283.9182434082031,
+        2810.65283203125,
+        1885.4312744140625,
+        2952.419189453125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/004_plain_text_0.92.png",
+    "text": "?\nThe area of a square is 49 sq. cm. What is the length of its side?\nWe know that 7 x 7 = 49, 0r 72 = 49."
+}

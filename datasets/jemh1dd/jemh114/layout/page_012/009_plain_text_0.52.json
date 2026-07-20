@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5220314264297485,
+    "bbox": [
+        296.27459716796875,
+        1689.92529296875,
+        436.0851745605469,
+        1741.145751953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_012/009_plain_text_0.52.png",
+    "text": "H\nTence,"
+}

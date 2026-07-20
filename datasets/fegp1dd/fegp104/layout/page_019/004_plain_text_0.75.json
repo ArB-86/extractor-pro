@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7538809776306152,
+    "bbox": [
+        421.60980224609375,
+        394.0225830078125,
+        2207.137451171875,
+        470.1829833984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_019/004_plain_text_0.75.png",
+    "text": "Take bars of the same width, keeping a uniform g\ngap between them."
+}

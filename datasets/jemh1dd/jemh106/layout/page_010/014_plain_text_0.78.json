@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7831110954284668,
+    "bbox": [
+        195.71383666992188,
+        1431.331298828125,
+        1507.182861328125,
+        1486.1646728515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/014_plain_text_0.78.png",
+    "text": "Let us take some examples to illustrate the use of the above theorems."
+}

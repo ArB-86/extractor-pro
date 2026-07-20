@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9778422117233276,
+    "bbox": [
+        190.2756805419922,
+        396.37396240234375,
+        1752.9014892578125,
+        615.8093872070312
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/002_plain_text_0.98.png",
+    "text": "Note\nthat\nthe\nratio of\nthe\ncorresponding\nsame\nsides\n1S\nreferred\nto as\nthe\nfactor\n(or the Representative\nFraction)\nfor\nthe polygons. You\nmust\nhave\nheard\nthat\n(i.e., global\nand blue\nfor the\ne construction of a building\nworld\nmaps\nmaps)\nprints\nare\nusing\ng a suitable scale factor and observing\n certain\nI conventions.\nprepared"
+}

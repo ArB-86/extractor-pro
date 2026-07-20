@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9745465517044067,
+    "bbox": [
+        422.4955749511719,
+        1497.2337646484375,
+        2212.21435546875,
+        1718.87841796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_017/001_plain_text_0.97.png",
+    "text": "When the frequencies are larger and\n. we cannot use\nthe scale of\n unit length = 1 number (frequency),\n. We need to choose a different\nscale like we did in the case of pictographs."
+}

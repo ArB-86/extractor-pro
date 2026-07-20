@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.6004657745361328,
+    "bbox": [
+        368.1416931152344,
+        760.889404296875,
+        1540.02783203125,
+        833.0338745117188
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_004/011_title_0.60.png",
+    "text": "Starting\nFloor +\nMovement = Target Floor."
+}

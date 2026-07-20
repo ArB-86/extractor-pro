@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.8285095691680908,
+    "bbox": [
+        296.6765441894531,
+        2525.58251953125,
+        2098.659423828125,
+        2587.24560546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_052/006_plain_text_0.83.png",
+    "text": "Q.3. Make any f\nfigure with three acute angles, one right angle and two obtuse angles."
+}

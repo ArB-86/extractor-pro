@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9525928497314453,
+    "bbox": [
+        191.19232177734375,
+        1641.861083984375,
+        1751.232666015625,
+        1752.69189453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_010/003_plain_text_0.95.png",
+    "text": "In general, if \u03b1* and \u03b2*\n are the zeroes of the quadratic polynomial p(x) = ax\u00b2 + bx + c,\n d      - x   - x       "
+}

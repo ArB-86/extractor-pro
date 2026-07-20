@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9355040788650513,
+    "bbox": [
+        193.99598693847656,
+        2362.74462890625,
+        991.6162109375,
+        2474.654052734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_007/002_plain_text_0.94.png",
+    "text": "49\n19\nTherefore, t\nthe solution is x =\ny=\n29\n29"
+}

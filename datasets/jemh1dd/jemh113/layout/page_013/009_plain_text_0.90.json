@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8957782983779907,
+    "bbox": [
+        243.13803100585938,
+        395.75408935546875,
+        1751.27490234375,
+        494.2008972167969
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/009_plain_text_0.90.png",
+    "text": "8. A class teacher has the following absentee record of 40 students of a class for the whole\nterm. Find the mean number of days a student was absent."
+}

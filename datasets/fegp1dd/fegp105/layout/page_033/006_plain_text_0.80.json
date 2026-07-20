@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.7968069314956665,
+    "bbox": [
+        294.64605712890625,
+        2659.635009765625,
+        2186.806396484375,
+        2785.362548828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_033/006_plain_text_0.80.png",
+    "text": "Q.7. Write two numbers whose product is 1oooo. The two numbers should not have 0 as\ntheir unit digit."
+}

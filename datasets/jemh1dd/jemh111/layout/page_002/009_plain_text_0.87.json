@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8702154159545898,
+    "bbox": [
+        187.86993408203125,
+        1428.10595703125,
+        1754.25537109375,
+        1619.7158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/009_plain_text_0.87.png",
+    "text": "Therefore, when the degree measure of the angle at the centre is 0, :\narea of the\n2\n\u03c0r\n2\nsector\n360\n360"
+}

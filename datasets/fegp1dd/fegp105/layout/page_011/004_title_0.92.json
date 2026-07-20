@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9222710728645325,
+    "bbox": [
+        293.66522216796875,
+        693.4732666015625,
+        1149.928955078125,
+        776.1822509765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_011/004_title_0.92.png",
+    "text": "5.4 Prime Factorisation"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6088505983352661,
+    "bbox": [
+        385.45367431640625,
+        2445.8154296875,
+        1528.9365234375,
+        2511.533203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_005/004_plain_text_0.61.png",
+    "text": "3.\nThink\nmark the positions as\n( and\ndirected\u2014"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.901303768157959,
+    "bbox": [
+        191.66627502441406,
+        2232.955810546875,
+        976.29443359375,
+        2410.681884765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/002_plain_text_0.90.png",
+    "text": "Solution\n: Let\nAB\ndenote\nthe\ne lamp-post\nand CD the girl after walking\nfor 4 seconds\nfrom\nthe lamp-post\n(see\nFig. 6.32).\naway"
+}

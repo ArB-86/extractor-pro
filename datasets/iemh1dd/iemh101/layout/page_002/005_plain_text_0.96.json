@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9602372646331787,
+    "bbox": [
+        240.99131774902344,
+        1684.9349365234375,
+        1793.6051025390625,
+        1793.0496826171875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_002/005_plain_text_0.96.png",
+    "text": "We begin our study of coordinates with a story that will help\nyou\nunderstand these new terms better."
+}

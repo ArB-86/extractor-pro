@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9166586995124817,
+    "bbox": [
+        195.907958984375,
+        395.9090270996094,
+        1380.2291259765625,
+        451.0080871582031
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/006_plain_text_0.92.png",
+    "text": "Take a point\nQ on XY other than P and join OQ (see Fig. 10.5)."
+}

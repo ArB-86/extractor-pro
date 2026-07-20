@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9275584816932678,
+    "bbox": [
+        193.97467041015625,
+        2183.709228515625,
+        1342.425048828125,
+        2238.3212890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_003/003_plain_text_0.93.png",
+    "text": "Example 1 : Check\ngraphically whether the pair of equations"
+}

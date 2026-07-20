@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9746007323265076,
+    "bbox": [
+        190.17970275878906,
+        697.0142211914062,
+        1753.829345703125,
+        917.6199340820312
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/002_plain_text_0.97.png",
+    "text": "Now\nthe p\np(x) = x\u00b2 - 3x - 4. Then, putting\nconsider\npolynomial\ng x =2in\nthe\npolynomial, we get p(2) = 22 - 3 x 2 - 4 = - 6. The value \u2018- 6', obtained by replacing\nby 2 in x\u00b2 - 3x - 4, is the value of x\u00b2 - 3x - 4 at x = 2\n 2. Similarly, p(O) is the value of\nx\np(x) a\nat x =\n: O, which is - 4."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.953021228313446,
+    "bbox": [
+        193.3491973876953,
+        2447.721435546875,
+        1753.3773193359375,
+        2557.4873046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/005_plain_text_0.95.png",
+    "text": "This fixed number is called the common difference of the AP. Remember that\nit can be positive, negative or zero."
+}

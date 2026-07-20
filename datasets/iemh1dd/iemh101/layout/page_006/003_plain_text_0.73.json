@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7257460355758667,
+    "bbox": [
+        311.69696044921875,
+        641.3279418945312,
+        1412.74658203125,
+        694.0032348632812
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_006/003_plain_text_0.73.png",
+    "text": "Using\nthe conventions\nthat we\nhave stated\nearlier:"
+}

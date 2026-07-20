@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9114302396774292,
+    "bbox": [
+        289.9825134277344,
+        811.3770751953125,
+        1090.9254150390625,
+        866.6115112304688
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/010_plain_text_0.91.png",
+    "text": "From\n(i)\nand\n(ii) of Example 3,\nwe also get"
+}

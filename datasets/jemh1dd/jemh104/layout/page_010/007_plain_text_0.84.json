@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8436079621315002,
+    "bbox": [
+        246.60548400878906,
+        1071.3094482421875,
+        1751.743408203125,
+        1224.2503662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/007_plain_text_0.84.png",
+    "text": "4. Is the following situation possible? If so, determine their present ages.\nThe sum of the ages of two friends is 20 years. Four years ago, the product of their ages\nin years was 48."
+}

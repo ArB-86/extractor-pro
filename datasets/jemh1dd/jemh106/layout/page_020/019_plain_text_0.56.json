@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.5646582245826721,
+    "bbox": [
+        193.9162139892578,
+        938.26318359375,
+        270.736083984375,
+        986.3961181640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/019_plain_text_0.56.png",
+    "text": "But"
+}

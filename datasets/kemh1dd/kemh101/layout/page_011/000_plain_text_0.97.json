@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9739588499069214,
+    "bbox": [
+        191.298828125,
+        1651.6580810546875,
+        1756.480224609375,
+        1919.593017578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/000_plain_text_0.97.png",
+    "text": "These notations\nprovide\nan a\nalternative\nway of designating\nthe subsets of set of\nreal\nnumbers. For example , if A = (-3, 5)\nand B = [-7, 9], then A c B. The set\n[0, 0]\ndefines\nthe set of non-negative real\nnumbers, while set\n\uff08- o, O\uff09 defines\ns the set of\nnegative real numbers. The set\n- \u221e, \u221e ) describes the set of real numbers in relation\nto a line extending\nfrom -  to ."
+}

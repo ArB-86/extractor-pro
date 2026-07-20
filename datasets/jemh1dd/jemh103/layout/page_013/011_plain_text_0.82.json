@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.818078339099884,
+    "bbox": [
+        332.99859619140625,
+        2213.856689453125,
+        1747.9693603515625,
+        2391.737548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/011_plain_text_0.82.png",
+    "text": "(i)\nIf we add 1 to the numerator and subtract 1 from\nthe denominator, a fraction reduces\n1\nto 1. It becomes\n\u4e00\nif\nwe only add 1 to the denominator. What is the fraction?\n2"
+}

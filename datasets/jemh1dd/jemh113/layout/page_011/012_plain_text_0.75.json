@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7479842901229858,
+    "bbox": [
+        230.2169647216797,
+        592.9702758789062,
+        1755.599609375,
+        1012.182373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/012_plain_text_0.75.png",
+    "text": "1. Collect the marks obtained by all the students of your class in Mathematics in the\nlatest examination conducted by your school. Form a grouped frequency distribution\nof the data obtained.\n2. Collect the daily maximum temperatures recorded for a period of 30 days in your\ncity. Present this data as a grouped frequency table.\n3. Measure the heights of all the students of your class (in cm) and form a grouped\nfrequency distribution table of this data."
+}

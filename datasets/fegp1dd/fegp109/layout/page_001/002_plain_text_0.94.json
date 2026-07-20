@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9364414811134338,
+    "bbox": [
+        289.7535705566406,
+        1058.29296875,
+        2089.51611328125,
+        1205.105224609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_001/002_plain_text_0.94.png",
+    "text": "Look\naround\nyou-you may\nfind\nmany\nobjects  t\nthat catch\nyour\nattention. Some such things are shown below:"
+}

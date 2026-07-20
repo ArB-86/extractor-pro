@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7518641948699951,
+    "bbox": [
+        193.82098388671875,
+        539.0209350585938,
+        1233.1502685546875,
+        594.0435180664062
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_020/009_plain_text_0.75.png",
+    "text": "Solving\nthese equations, we \nd = 25\nget\nand\na = 550."
+}

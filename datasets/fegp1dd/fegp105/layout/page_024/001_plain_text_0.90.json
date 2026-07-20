@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.8960427641868591,
+    "bbox": [
+        297.9244079589844,
+        2222.000244140625,
+        1441.176513671875,
+        2375.894287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_024/001_plain_text_0.90.png",
+    "text": "Ans.\nMultiples of 40 that lie between \n310\nand 410\nare:\n320, 360, 400."
+}

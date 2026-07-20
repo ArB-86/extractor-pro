@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8463607430458069,
+    "bbox": [
+        348.39300537109375,
+        691.2691040039062,
+        1798.5543212890625,
+        1066.18798828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/013_plain_text_0.85.png",
+    "text": "(i)\nWrite\nane\nthat models the\nequation t\n remaining\nbalance\nb(x)\nafter using\nthe scheme for x days. Explain why it represents\nlinear decay.\n(ii)\nAfter how many\ndays will t\nthe balance run out?\n(iii)\nMake a table of values for x varying\nfrom 1 to 10 days\n and\nshow how the balance b(x), reduces with time."
+}

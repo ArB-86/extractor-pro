@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.9262491464614868,
+    "bbox": [
+        295.5154724121094,
+        863.8369140625,
+        2185.84326171875,
+        984.8604736328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_053/003_plain_text_0.93.png",
+    "text": "Q.4.1\nDraw the letter *M' such that the angles on the sides are 4o\u00b0 each and the angle in\nthe middle is 60\u00b0."
+}

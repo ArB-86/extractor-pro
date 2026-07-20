@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9476173520088196,
+    "bbox": [
+        190.28961181640625,
+        1264.59423828125,
+        1744.7652587890625,
+        1436.359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_008/002_plain_text_0.95.png",
+    "text": "[4(\u221a3 + 1) + 8}m = 4(3 + \u221a3);\nSo, the height of the multi-storeyed building is\nm\nand the distance between the two buildings is also\n 4(3 + \u221a3\nm."
+}

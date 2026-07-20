@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7681834101676941,
+    "bbox": [
+        332.4455871582031,
+        2876.538818359375,
+        1614.784423828125,
+        2943.69140625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_008/010_plain_text_0.77.png",
+    "text": "How many\nzeros does a thousand lakh have?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9349970817565918,
+    "bbox": [
+        246.0617218017578,
+        1601.557373046875,
+        1753.596923828125,
+        1852.0089111328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_009/001_plain_text_0.93.png",
+    "text": "3.\n.A contractor plans to install two slides for the children to play in a park. For the children\nbelow the age of 5 y\nyears, she prefers to have a slide whose top is at a height of 1.5 m, and\nis inclined at an angle of 30\u00b0 to the\n ground, whereas for elder children, she wants to have\na steep slide at a height of 3m, and inclined at an angle of 60\u00b0 to the\nground. What\nshould be the length of the slide in each\nncase?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.905885636806488,
+    "bbox": [
+        245.42825317382812,
+        1093.758544921875,
+        1335.0491943359375,
+        1145.5562744140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/008_plain_text_0.91.png",
+    "text": "4.\nThe median for grouped data is formed by using the formula:"
+}

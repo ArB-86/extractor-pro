@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8930299282073975,
+    "bbox": [
+        375.9512634277344,
+        2370.404296875,
+        2089.2060546875,
+        2496.440185546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/005_plain_text_0.89.png",
+    "text": "6.1\nFind the smallest number by which 9408 must be multiplied so that\nthe product is a perfect square. Find the square root of the product."
+}

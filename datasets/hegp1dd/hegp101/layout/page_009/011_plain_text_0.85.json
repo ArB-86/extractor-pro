@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8542717099189758,
+    "bbox": [
+        370.37103271484375,
+        1441.942626953125,
+        950.5675659179688,
+        1504.1806640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/011_plain_text_0.85.png",
+    "text": "Is 156\na perfect square?"
+}

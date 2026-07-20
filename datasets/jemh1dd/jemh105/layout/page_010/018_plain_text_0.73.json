@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7252672910690308,
+    "bbox": [
+        193.81295776367188,
+        1588.928955078125,
+        1100.822509765625,
+        1641.8267822265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/018_plain_text_0.73.png",
+    "text": "Therefore, t\nthe 35th term of the\ngiven\nn AP is - 81."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9766984581947327,
+    "bbox": [
+        192.89019775390625,
+        2053.701171875,
+        1004.9078369140625,
+        2437.2783203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_001/000_plain_text_0.98.png",
+    "text": "You must\nt have seen a truck with a\ncontainer fitted on its back (see Fig. 12.2),\ncarrying oil or water from one\nplace to\nanother. Is it in the shape of any of the four\nbasic solids mentioned above? You may\nguess that it is made of a cylinder with two\nhemispheres as its ends."
+}

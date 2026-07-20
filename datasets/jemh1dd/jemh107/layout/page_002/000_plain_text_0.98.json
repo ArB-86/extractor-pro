@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9821254014968872,
+    "bbox": [
+        191.9458770751953,
+        545.87109375,
+        1095.565185546875,
+        936.7293090820312
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/000_plain_text_0.98.png",
+    "text": "A town B is located 36 km east and 15\nkm north of the town A. How would you find\nthe distance from town A to town B without\nactuallyr\nmeasuring it. Let us see. This situation\ncan be represented\ngraphically as shown in\nFig. 7.1. You may use the Pythagoras Theorem\nto calculate this distance."
+}

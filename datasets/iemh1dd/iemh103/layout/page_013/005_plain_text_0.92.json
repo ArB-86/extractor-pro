@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9162756204605103,
+    "bbox": [
+        254.64044189453125,
+        705.3119506835938,
+        1796.0201416015625,
+        819.03466796875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/005_plain_text_0.92.png",
+    "text": "*6\u3002\nCan you think of other way(s) to find a rational number between\nany two rational numbers?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.907672643661499,
+    "bbox": [
+        246.75064086914062,
+        808.4384155273438,
+        1155.424072265625,
+        1108.685302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_010/002_plain_text_0.91.png",
+    "text": "4. A pen stand r\nmade of wood is in the shape of a\ncuboid with four conical depressions to hold pens.\nThe dimensions of the cuboid are 15 cm by 10 cm by\n3.5 cm. The radius of each of the depressions is 0.5\ncm and the depth is 1.4 cm.\nFind the volume of\nwood in the entire stand (see Fig. 12.16)."
+}

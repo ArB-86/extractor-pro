@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6359978318214417,
+    "bbox": [
+        301.82147216796875,
+        1605.184814453125,
+        1798.5455322265625,
+        2319.56005859375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_007/008_plain_text_0.64.png",
+    "text": " n n       g\nform -\n where p and q are integers and q \u2260 0. For example, we have\nq\n1-\n2\n3\n10\n2026\n and so on. These are equivalent\n= - 30\n3 \n6\n6078\nrational numbers (or equivalent fractions). This fact allows us\nto freely divide any common factor between the numerator and\n         \n12\nis equivalent\n2\nto\nHere, we have divided both the numerator and the\n5\ndenominator by 6."
+}

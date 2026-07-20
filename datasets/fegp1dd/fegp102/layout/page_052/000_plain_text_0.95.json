@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.9490909576416016,
+    "bbox": [
+        297.1195068359375,
+        2622.6376953125,
+        1191.6094970703125,
+        2811.62255859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_052/000_plain_text_0.95.png",
+    "text": "Ans.\nLA, B & C\nare three acute angles\nLD, LF\nare obtuse angle\nZE is right angle"
+}

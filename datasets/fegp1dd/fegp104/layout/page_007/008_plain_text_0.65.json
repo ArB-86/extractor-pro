@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6469054222106934,
+    "bbox": [
+        497.99676513671875,
+        1903.7359619140625,
+        2211.591552734375,
+        2319.3046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_007/008_plain_text_0.65.png",
+    "text": "What is the\nnumber of children who always s\n1.\nslept at least\nt9\nhours at night?\n2.\nHow many c\nchildren sometimes slept at least 9 hours at night?\n3.\nHow many\n children always slept less than 9 hours each night?\nExplain how you\ngot\nyour answer."
+}

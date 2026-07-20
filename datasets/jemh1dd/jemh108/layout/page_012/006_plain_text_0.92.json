@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9231666922569275,
+    "bbox": [
+        290.4718322753906,
+        2360.5224609375,
+        1455.0263671875,
+        2417.08349609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/006_plain_text_0.92.png",
+    "text": "Now, why don't you find the other trigonometric ratios of 90\u00b0?"
+}

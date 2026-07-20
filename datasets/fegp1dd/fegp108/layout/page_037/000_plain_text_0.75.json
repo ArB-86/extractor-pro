@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.7540905475616455,
+    "bbox": [
+        295.2331848144531,
+        456.7495422363281,
+        1804.0299072265625,
+        520.7305908203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_037/000_plain_text_0.75.png",
+    "text": "Q.1. Construct a bigger house in which all the sides are of length 7 cm."
+}

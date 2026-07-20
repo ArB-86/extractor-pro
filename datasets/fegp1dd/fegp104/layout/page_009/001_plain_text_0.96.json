@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9633082747459412,
+    "bbox": [
+        420.0113220214844,
+        627.0342407226562,
+        2210.328369140625,
+        846.239501953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_009/001_plain_text_0.96.png",
+    "text": "Jarina made a 1\nplan to address\nthis \u2014 since\nthere\nwere\nmany\nstudents, she decided to use\nto represent 5 students. She figured\nthat would save time and space too."
+}

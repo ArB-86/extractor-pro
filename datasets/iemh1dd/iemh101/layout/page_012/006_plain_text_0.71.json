@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7130914330482483,
+    "bbox": [
+        304.6910400390625,
+        603.98486328125,
+        1799.5399169921875,
+        779.792236328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/006_plain_text_0.71.png",
+    "text": "2.\nPoint\nW]\nhas\nX-coordinate\nequal\n to -5. Can\nyou\npredict\nthe\ncoordinates of point H which is on the line through W parallel to\nthe y-axis? Which quadrants can H lie in?"
+}

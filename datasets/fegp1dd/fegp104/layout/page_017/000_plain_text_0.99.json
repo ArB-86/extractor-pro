@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9865032434463501,
+    "bbox": [
+        418.0328369140625,
+        2321.696533203125,
+        2208.959716796875,
+        2847.489013671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_017/000_plain_text_0.99.png",
+    "text": "In this example, the minimum score is 0 and the maximum score\nis 1oo. Using a scale of 1 unit length = 1 run would mean that we\nhave to go all the way from 0 to 1o0 runs in steps of l. This would\nbe unnecessarily tedious. Instead, let us use a scale where 1 unit\nlength = 10 runs. We mark this scale on the vertical line and draw\nthe bars according to the scores in each match. We get the following\nbarg\ngraph representing the above data."
+}

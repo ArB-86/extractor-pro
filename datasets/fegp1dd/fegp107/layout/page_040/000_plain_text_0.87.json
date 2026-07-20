@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.8720929622650146,
+    "bbox": [
+        293.2298583984375,
+        1305.00537109375,
+        2193.853515625,
+        1429.9986572265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_040/000_plain_text_0.87.png",
+    "text": "Q3.Howmany\nfractions lie between 0 and 1? Think, discuss with your classmates, and\nwrite your answer."
+}

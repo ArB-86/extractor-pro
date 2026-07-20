@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5419349670410156,
+    "bbox": [
+        505.80926513671875,
+        1750.0833740234375,
+        1874.32666015625,
+        1882.87548828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_010/007_plain_text_0.54.png",
+    "text": "6.\nHow many\nlines of symmetry do these shapes have?\na."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6917918920516968,
+    "bbox": [
+        441.7692565917969,
+        1850.092041015625,
+        1728.0482177734375,
+        2004.566650390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_003/010_plain_text_0.69.png",
+    "text": "(i) (x - 2)\u00b2 + 1 = 2x - 3\n( - x) ( + x) = 8 + (I + x)x ()\n(iii) x (2x + 3) = x\u00b2 + 1\n(iv) (x + 2)3 = x3 - 4"
+}

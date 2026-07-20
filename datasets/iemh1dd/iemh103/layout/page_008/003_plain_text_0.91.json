@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9097414612770081,
+    "bbox": [
+        313.27197265625,
+        808.6416625976562,
+        896.8114013671875,
+        865.8248291015625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_008/003_plain_text_0.91.png",
+    "text": "Here are the\ne various laws:"
+}

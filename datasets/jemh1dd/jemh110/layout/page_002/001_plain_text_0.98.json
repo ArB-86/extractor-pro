@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9803490042686462,
+    "bbox": [
+        194.5520782470703,
+        2075.14794921875,
+        1753.8585205078125,
+        2394.8212890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_002/001_plain_text_0.98.png",
+    "text": "While doing\nactivity\nabove, you must\nhave observed\nthat as the p\nposition AB\nmoves towards the position A' B', the common\npoint, say\nQ1, of the line AB and the\ncircle gradually c\n comes nearer and nearer to the common point P. Ultimately, it coincides\nwith the point P in the position A'B' of A\"B\". Again note, what happens if \u2018AB' is\nrotated rightwards about P? The common point R gradually c\ncomes nearer and nearer\nto P and ultimately c\ncoincides with P. So, what we see is:"
+}

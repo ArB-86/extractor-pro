@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9695465564727783,
+    "bbox": [
+        191.3103790283203,
+        419.0108337402344,
+        1755.0950927734375,
+        580.9759521484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_008/000_plain_text_0.97.png",
+    "text": "Theorem\n6.1 : If a line is drawn parallel to one side of a triangle to intersect the\nother two sides in distinct points, the other two sides are divided in the same\nratio."
+}

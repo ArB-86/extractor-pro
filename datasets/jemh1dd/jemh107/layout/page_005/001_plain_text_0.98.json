@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9765533804893494,
+    "bbox": [
+        192.99244689941406,
+        1614.9893798828125,
+        827.96826171875,
+        2109.434326171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_005/001_plain_text_0.98.png",
+    "text": "Alternative Solution : We find\nthe four sides and one diagonal, say,\nAC as above. Here AD\u00b2 + DC\u00b2 =\n34 + 34 = 68 = AC2. Therefore, by\nthe converse of Pythagoras\ntheorem, Z D = 90\u00b0. A quadrilateral\nwith all four sides equal and one\nangle 90\u00b0 is a square. So, ABCD\nis a square."
+}

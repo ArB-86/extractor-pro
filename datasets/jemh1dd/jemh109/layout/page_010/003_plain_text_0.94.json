@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9376732707023621,
+    "bbox": [
+        226.34996032714844,
+        1512.0147705078125,
+        1754.0877685546875,
+        1612.5994873046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_010/003_plain_text_0.94.png",
+    "text": "12. From the top of a 7 m high building, the angle of elevation of the top of a cable tower is\n60\u00b0 and the angle of depression of its foot is 45\u00b0. Determine the height of the tower."
+}

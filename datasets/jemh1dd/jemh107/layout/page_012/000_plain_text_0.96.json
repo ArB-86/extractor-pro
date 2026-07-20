@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9558860063552856,
+    "bbox": [
+        190.54103088378906,
+        567.68115234375,
+        1749.5634765625,
+        686.2194213867188
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_012/000_plain_text_0.96.png",
+    "text": "Note : We could also have obtained Q by noting that it is the mid-point of PB. So, we\ncould have obtained its coordinates using the mid-point formula."
+}

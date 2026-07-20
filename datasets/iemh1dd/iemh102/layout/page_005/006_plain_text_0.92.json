@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9182765483856201,
+    "bbox": [
+        237.37554931640625,
+        1186.9798583984375,
+        1799.9293212890625,
+        1421.8922119140625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_005/006_plain_text_0.92.png",
+    "text": "Fig. 2.3 shows\nthis\ninput-output\nmachine\nwhere\nthe\nprocess\nas\nan\ninput is the value ofx and the output is the value of 2x + 3. This process can\nbe referred\nlto as a\nfunction\nwhere\nthe expression\n2x + 3\n3 is a function of\nthe variable x. You\n1 willlearn more\nabout f\nfunctions\nin later\ngrades."
+}

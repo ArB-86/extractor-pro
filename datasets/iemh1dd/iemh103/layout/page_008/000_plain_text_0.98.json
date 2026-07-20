@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9822013974189758,
+    "bbox": [
+        238.39865112304688,
+        2138.60400390625,
+        1797.8526611328125,
+        2530.808837890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_008/000_plain_text_0.98.png",
+    "text": "Rational\nnumbers\nclosed\nunder addition, subtraction, and\nare\nmultiplication; that is, if one adds two rational numbers, or subtracts\ntwo1\nrational numbers, or multiplies two rational numbers, a rational\nnumber is again obtained. Rational\nnumbers are a\nalso closed 1\nunder\ndivision, provided that one does not divide by z\nzero. That is, the quotient\nof two rational numbers is again a rational number, as long as one does\nnot divide by z"
+}

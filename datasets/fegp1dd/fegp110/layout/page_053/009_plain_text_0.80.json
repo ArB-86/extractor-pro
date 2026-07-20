@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8038222193717957,
+    "bbox": [
+        298.4093017578125,
+        2341.010498046875,
+        1496.38623046875,
+        2401.777587890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_053/009_plain_text_0.80.png",
+    "text": "Ans.\nMount-Everest. Its height above sea level is 8848m."
+}

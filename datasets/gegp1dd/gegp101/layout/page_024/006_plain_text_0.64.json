@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6363351345062256,
+    "bbox": [
+        444.29156494140625,
+        1963.359375,
+        694.2186889648438,
+        2024.7540283203125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_024/006_plain_text_0.64.png",
+    "text": "Ans:\n40"
+}

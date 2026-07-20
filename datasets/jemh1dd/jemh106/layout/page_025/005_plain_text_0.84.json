@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8381636738777161,
+    "bbox": [
+        223.98855590820312,
+        1463.12548828125,
+        1752.6883544921875,
+        1650.432373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_025/005_plain_text_0.84.png",
+    "text": "16.If AD\nand PM\nare medians of triangles ABC and PQR, respectively\nIwhere\nAB\nAD\n\u25b3 ABC ~ \u25b3 PQR, prove that\nPQ\nPM"
+}

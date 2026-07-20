@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8728072643280029,
+    "bbox": [
+        372.5631103515625,
+        1251.033447265625,
+        1981.1778564453125,
+        1377.3668212890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_002/007_plain_text_0.87.png",
+    "text": "Now, what do\nthink the thickness would be after 30 folds?\nyout\n45 folds? Make a guess."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8741837739944458,
+    "bbox": [
+        191.15919494628906,
+        1324.9652099609375,
+        1751.7674560546875,
+        1433.8834228515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/006_plain_text_0.87.png",
+    "text": "Solution\n(i)\n)We have, X = {A, L, L, O, Y}, B = {L, O, Y, A, L}. Then X and B\nare\nequal sets as repetition of elements in a set do not change a set. Thus,"
+}

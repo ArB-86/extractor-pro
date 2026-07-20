@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9753689765930176,
+    "bbox": [
+        193.68707275390625,
+        1965.8131103515625,
+        1754.3984375,
+        2183.864501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/001_plain_text_0.98.png",
+    "text": "Example\n10* :In\nmusical chair\na1\ngame, the\nplaying\nthe\nmusic\nhas\nperson\nbeen\nadvised\nto stop p\nplaying\nthe\nmusic\nat\nany\ntime\nwithin\n2\nminutes\nafter\nshe\nstarts\nplaying. What is the\ne probability that the\nmusic will\nstop\nwithin the first half-minute\nafter\nstarting?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9557695984840393,
+    "bbox": [
+        192.544677734375,
+        2293.388427734375,
+        1751.9171142578125,
+        2403.17138671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_003/004_plain_text_0.96.png",
+    "text": "The prime factorisation of a natural number is unique, except for the order\nof itsfactors."
+}

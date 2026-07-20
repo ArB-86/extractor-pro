@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9846654534339905,
+    "bbox": [
+        238.89913940429688,
+        307.8304443359375,
+        1797.02587890625,
+        806.9631958007812
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_002/000_plain_text_0.98.png",
+    "text": "Even more\ne fascinating is theIshango\nbone, found near the\nheadwaters of the Nile River in the Democratic Republic of Congo,\ndating to around 20,ooo BCE. This bone contains three columns of\nasymmetrical notches. What makes the Ishango bone a mathematical\nnotches into 11, 13, 17, and 19 - the prime numbers between 10 and\n20. Another column seems to demonstrate the concept of multiplication\nby 2 (doubling). These artefacts indicate that the abstract concept of a\n'number' is indeed tens of thousands of years old."
+}

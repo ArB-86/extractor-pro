@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8568141460418701,
+    "bbox": [
+        244.61830139160156,
+        1565.0792236328125,
+        1356.378173828125,
+        1616.3758544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/006_plain_text_0.86.png",
+    "text": "4.\nWhich of the following\n cannot be the probability of an event?"
+}

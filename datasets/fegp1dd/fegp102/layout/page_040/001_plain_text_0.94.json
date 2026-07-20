@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.944474995136261,
+    "bbox": [
+        613.1527099609375,
+        1953.4385986328125,
+        2210.241943359375,
+        2095.994873046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_040/001_plain_text_0.94.png",
+    "text": "Mark the intended angles with \n1 curves to specify the angles. One\nhas been done for you."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9448496699333191,
+    "bbox": [
+        192.2664337158203,
+        1957.2318115234375,
+        1267.3193359375,
+        2011.7169189453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/001_plain_text_0.94.png",
+    "text": "So, the roots of the equation are\nthe values of x for which"
+}

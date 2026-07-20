@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "title",
+    "confidence": 0.8966548442840576,
+    "bbox": [
+        197.54405212402344,
+        396.57763671875,
+        838.2095336914062,
+        450.72882080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_018/005_title_0.90.png",
+    "text": "13.4 Median of Grouped Data"
+}

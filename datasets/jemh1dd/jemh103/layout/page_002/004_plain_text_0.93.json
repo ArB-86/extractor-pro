@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9330687522888184,
+    "bbox": [
+        193.89767456054688,
+        397.7944030761719,
+        650.94482421875,
+        450.3750915527344
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/004_plain_text_0.93.png",
+    "text": "Let us \ntry\nthis a\napproach."
+}

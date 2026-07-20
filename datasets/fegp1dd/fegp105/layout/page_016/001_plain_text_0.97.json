@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9746789932250977,
+    "bbox": [
+        418.960205078125,
+        394.0824279785156,
+        2213.556640625,
+        691.9929809570312
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_016/001_plain_text_0.97.png",
+    "text": "As we saw\nin the discussion\nabove, if 75\nWas a multiple of 21, then\nall\nprime\nfactors of 21\nwould also be\ne factors of 75. However, 7\ne prime\nis a p\nfactor\n of 21 but not a p\nfactor\n of 75. Therefore, 75 is\nprime\nprime\ndivisible by\nnot\n21."
+}

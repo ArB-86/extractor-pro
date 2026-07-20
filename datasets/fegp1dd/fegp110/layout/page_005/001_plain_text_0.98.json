@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.977830708026886,
+    "bbox": [
+        419.39483642578125,
+        960.5520629882812,
+        1883.3660888671875,
+        1227.5738525390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_005/001_plain_text_0.98.png",
+    "text": "the\nfloor, Basant is i\nin a\nhurry\nand by\nOn\nground\ngreat\nmistake he\n+3. What\nhe do\npresses\ncan\no to cancel it\nand\nstay\nthe\nfoor?\n? He\ncancel it k\nby pressing\non\nground\necan\n-3. That is, (+3)\n+ (-3) = 0."
+}

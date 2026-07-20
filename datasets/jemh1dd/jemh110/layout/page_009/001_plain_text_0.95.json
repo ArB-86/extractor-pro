@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9497739672660828,
+    "bbox": [
+        228.9449462890625,
+        1725.4552001953125,
+        1755.7027587890625,
+        1873.1756591796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_009/001_plain_text_0.95.png",
+    "text": "10. Prove that the angle between the two tangents drawn from an external point to a circle\nthepointsof\ncontact at the centre."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9756712913513184,
+    "bbox": [
+        192.03268432617188,
+        785.1953735351562,
+        1755.1983642578125,
+        1016.0076904296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_020/000_plain_text_0.98.png",
+    "text": "Remark : The\npart of Table\n13.11\nconsisting\nColumn\n1\nand\nColumn\n3 is\nknown\nas\nCumulative\nFrequency\nTable. The\nmedian\nmarks\n28.5\nconveys\nthe i\ninformation\nthat\nabout 50% students obtained r\nmarks less than\n1 28.5\nand\nanother 50% students obtained\nmarks\nmore\nthan\n28.5."
+}

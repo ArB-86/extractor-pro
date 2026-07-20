@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8960498571395874,
+    "bbox": [
+        193.78297424316406,
+        1661.4678955078125,
+        463.9803771972656,
+        1710.2880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_007/010_plain_text_0.90.png",
+    "text": "and\nwrite\nit\nas"
+}

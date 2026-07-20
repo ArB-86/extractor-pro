@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9856471419334412,
+    "bbox": [
+        191.9897003173828,
+        1316.86572265625,
+        1755.40234375,
+        1737.1973876953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/000_plain_text_0.99.png",
+    "text": "Recall from Class IX, a mode is that value among the observations which occurs most\noften, that is, the value of the observation having the maximum frequency. Further, we\ndiscussed finding the mode of ungrouped data. Here, we shall discuss ways of obtaining\na mode of grouped data. It is possible that more than one value may have the same\nmaximum frequency. In such situations, the data is said to be multimodal. Though\ngrouped data can also be multimodal, we shall restrict ourselves to problems having a\nsinglemodeonly."
+}

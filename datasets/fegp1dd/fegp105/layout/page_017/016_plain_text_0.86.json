@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8581100106239319,
+    "bbox": [
+        363.5054626464844,
+        1115.4603271484375,
+        1884.20068359375,
+        1182.5704345703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/016_plain_text_0.86.png",
+    "text": "For this, we can look at the pattern in the multiples of 10."
+}

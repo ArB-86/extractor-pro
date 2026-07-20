@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.931225597858429,
+    "bbox": [
+        380.1275634765625,
+        1415.703369140625,
+        1073.1357421875,
+        1486.1650390625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_015/006_title_0.93.png",
+    "text": "Successive]\nDifferences"
+}

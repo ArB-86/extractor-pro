@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9217098951339722,
+    "bbox": [
+        281.1178894042969,
+        1690.4407958984375,
+        1605.5364990234375,
+        1744.1156005859375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_013/004_plain_text_0.92.png",
+    "text": "Identify other points on the line by c\n completing the following table."
+}

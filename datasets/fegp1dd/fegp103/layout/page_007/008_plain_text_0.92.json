@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.917326807975769,
+    "bbox": [
+        293.4998474121094,
+        2100.47705078125,
+        2013.4647216796875,
+        2170.995849609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_007/008_plain_text_0.92.png",
+    "text": "Now, look at these additions. Try to figure out what is happening."
+}

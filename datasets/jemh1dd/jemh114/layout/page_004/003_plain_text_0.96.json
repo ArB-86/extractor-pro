@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9574119448661804,
+    "bbox": [
+        193.94970703125,
+        1004.7609252929688,
+        1755.558349609375,
+        1169.126220703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/003_plain_text_0.96.png",
+    "text": "1. An event having\n one outcome of the experiment is called an elementary\nOnly\nevent. In Example 1, both the events E and F are elementary events. Similarly, in\nExample 2, all the three events, Y, B and R are elementary events."
+}

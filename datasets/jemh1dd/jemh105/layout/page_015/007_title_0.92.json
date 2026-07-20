@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.9176160097122192,
+    "bbox": [
+        195.53359985351562,
+        839.857666015625,
+        913.043701171875,
+        893.7740478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/007_title_0.92.png",
+    "text": "5.4 Sum 0\nof First n\nTerms of\nan\nAP"
+}

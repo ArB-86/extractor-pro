@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.6607568264007568,
+    "bbox": [
+        289.33148193359375,
+        506.0672302246094,
+        1103.7918701171875,
+        573.2068481445312
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/012_title_0.66.png",
+    "text": "\uff1f\nWhat is the square root of 64?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9313328266143799,
+    "bbox": [
+        193.730224609375,
+        886.868408203125,
+        1156.1656494140625,
+        1161.1715087890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/006_plain_text_0.93.png",
+    "text": "Note\nthat if\ncorresponding\nangles of\ntwo\ntriangles\nare\nequal,t\nthen\nthey\nare\nknown\nas\nequiangular\ntriangles.\nA\nfamous\nGreek\nmathematician Thales gave an important truth relating\nto two equiangular triangles which is as follows:"
+}

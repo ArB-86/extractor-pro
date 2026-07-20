@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9127243161201477,
+    "bbox": [
+        192.6514434814453,
+        1213.5103759765625,
+        1122.30908203125,
+        1268.2686767578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/005_plain_text_0.91.png",
+    "text": "Now,\n,by\nusing\nthe Pythagoras\nTheorem,\n\uff0cwe\nhave"
+}

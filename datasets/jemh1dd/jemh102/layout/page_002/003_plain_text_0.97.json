@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9673625230789185,
+    "bbox": [
+        191.94027709960938,
+        410.51336669921875,
+        1753.91650390625,
+        536.4832153320312
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/003_plain_text_0.97.png",
+    "text": "a cubic polynomial are 2 - x\u2019, x\u2019, \u221a2 x\u00b2, 3 - x\u00b2 + x\u00b2, 3x3- 2x\u00b2 + x - 1. In fact, the most\ngeneral form of a cubic polynomial is"
+}

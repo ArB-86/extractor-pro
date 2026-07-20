@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7496005892753601,
+    "bbox": [
+        408.36236572265625,
+        2600.83203125,
+        1409.422607421875,
+        2855.910888671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_044/003_plain_text_0.75.png",
+    "text": "through\nthe\npoint B.\na. Can\nalso\ne it as\nOB? Why?\nyou\nname\nb. Can\nOA\nAO? Why\nwe write\nas\nwhy\nor\nnot?"
+}

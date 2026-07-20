@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9077780246734619,
+    "bbox": [
+        291.5586853027344,
+        1550.7354736328125,
+        1125.9696044921875,
+        1603.9466552734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/011_plain_text_0.91.png",
+    "text": "In\ngeneral, it is true\nthat f\nfor\nE\nan\nevent"
+}

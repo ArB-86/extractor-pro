@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9295625686645508,
+    "bbox": [
+        350.497802734375,
+        1013.630859375,
+        1799.8848876953125,
+        1463.0592041015625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_008/001_plain_text_0.93.png",
+    "text": "What are the coordinates of the four corners\nO, F,R, and P of\nthe bathroom?\n11\nWhat is the shape of the showering\narea SHWR in Reiaan's\nbathroom? Write the coordinates of the four corners.\n(iii)\nMark off a 3 ft \u00d7 2 ft space for the washbasin and a 2 ft \u00d7 3 ft\nspace for the toilet. Write the coordinates of the corners of\nthese spaces."
+}

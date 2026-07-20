@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8859091401100159,
+    "bbox": [
+        191.440673828125,
+        1081.441162109375,
+        1751.1219482421875,
+        1134.9031982421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/017_plain_text_0.89.png",
+    "text": "Here, 21 and 31 are the smallest powers of the common factors 2 and 3, respectively."
+}

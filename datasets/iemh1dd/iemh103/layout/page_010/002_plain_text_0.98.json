@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9760398864746094,
+    "bbox": [
+        234.63233947753906,
+        2317.334716796875,
+        1799.560546875,
+        2584.31689453125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_010/002_plain_text_0.98.png",
+    "text": "p\nTo represent a rational\nnumber\nthe\nnumber\nline, divide\n,q\u22600, on \nthe\nunit\ninterval\n(the\ndistance\nbetween\ntwo\nconsecutive\nintegers)\ninto\nparts. Then\nfrom\nO to t\nthe right if the\nb\nequal\nmove\np parts\nnumber\nis\npositive, and to the left if it is negative."
+}

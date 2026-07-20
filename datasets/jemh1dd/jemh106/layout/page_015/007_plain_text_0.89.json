@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8894119262695312,
+    "bbox": [
+        192.9398956298828,
+        1711.363037109375,
+        971.8287963867188,
+        1766.083251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_015/007_plain_text_0.89.png",
+    "text": "Cut\nDP\n=AB\nand DQ\n= AC\nand join\nPQ."
+}

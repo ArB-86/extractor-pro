@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6271638870239258,
+    "bbox": [
+        887.5181884765625,
+        413.36676025390625,
+        1767.334716796875,
+        606.5848999023438
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_002/007_plain_text_0.63.png",
+    "text": "To\nfigure\nout\nthe\nmost\npopular\ngame\nin\ntheir\nr class, what should Navya and Naresh\ndo? Can\nhelp them?\nyou"
+}

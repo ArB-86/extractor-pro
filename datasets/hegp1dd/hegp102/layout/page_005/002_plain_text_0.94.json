@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9382766485214233,
+    "bbox": [
+        438.48712158203125,
+        580.4078369140625,
+        2008.9034423828125,
+        707.908203125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/002_plain_text_0.94.png",
+    "text": "(i)\n2 x 103\n(ii)\n72 \u00d7 23\n(iii)\n3 \u00d7 44\n(iv)\n(- 3)\u00b2 \u00d7 (- 5)2\n(v)\n32 \u00d7 104\n(vi)\n(- 2)5 \u00d7 (- 10)"
+}

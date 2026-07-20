@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.8255535960197449,
+    "bbox": [
+        293.68109130859375,
+        300.52142333984375,
+        2185.35400390625,
+        425.21600341796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_039/000_plain_text_0.83.png",
+    "text": "Q.2. Pooja collected data on the number of tickets sold at the Bhopal railway station for\na few different cities of Madhya Pradesh over a 2-hour period."
+}

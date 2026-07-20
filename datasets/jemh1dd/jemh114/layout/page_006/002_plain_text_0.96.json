@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9639485478401184,
+    "bbox": [
+        192.83143615722656,
+        396.64996337890625,
+        1751.81787109375,
+        504.733154296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/002_plain_text_0.96.png",
+    "text": "That is, the probability of an event which is impossible to occur is O. Such\nan\nevent is called an impossible event."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9621264338493347,
+    "bbox": [
+        192.3540802001953,
+        1128.0628662109375,
+        1753.32568359375,
+        1242.36376953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/004_plain_text_0.96.png",
+    "text": "Step 3 : Substitute the value of x (or y) obtained in Step 2 in the equation used in\nStep 1 to obtain the value of the other variable."
+}

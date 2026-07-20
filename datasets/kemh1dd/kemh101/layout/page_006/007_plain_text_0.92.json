@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9170398116111755,
+    "bbox": [
+        194.682373046875,
+        457.8627624511719,
+        1751.810546875,
+        568.6598510742188
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/007_plain_text_0.92.png",
+    "text": "We observe that a student cannot study simultaneously in both Classes X and XI.\nThus, the set B contains no element at all."
+}

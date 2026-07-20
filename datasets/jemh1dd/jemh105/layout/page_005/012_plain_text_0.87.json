@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8668089509010315,
+    "bbox": [
+        292.5307922363281,
+        398.1097106933594,
+        581.14599609375,
+        448.02459716796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/012_plain_text_0.87.png",
+    "text": "Simila\nwhen"
+}

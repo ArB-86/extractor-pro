@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.9161330461502075,
+    "bbox": [
+        298.3614196777344,
+        1796.58056640625,
+        2190.29150390625,
+        1980.4490966796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_052/000_plain_text_0.92.png",
+    "text": "Q1. Suppose you start with O rupees in your bank account, and then you have credits of\n30, 40, and 50, and debits of 40, 50, and 60. What is your bank account\nbalance now?]"
+}

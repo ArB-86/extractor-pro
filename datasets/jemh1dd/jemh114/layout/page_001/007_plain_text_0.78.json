@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.7801253795623779,
+    "bbox": [
+        1287.5361328125,
+        1312.002197265625,
+        1604.7940673828125,
+        1365.8616943359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_001/007_plain_text_0.78.png",
+    "text": "Woodward"
+}

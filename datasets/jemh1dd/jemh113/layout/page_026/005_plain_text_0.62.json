@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.6211364269256592,
+    "bbox": [
+        194.01934814453125,
+        1486.1502685546875,
+        1163.271484375,
+        1536.9769287109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_026/005_plain_text_0.62.png",
+    "text": "The median is 525, which lies in the class 500 - 600"
+}

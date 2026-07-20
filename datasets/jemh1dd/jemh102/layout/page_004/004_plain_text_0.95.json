@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9463552236557007,
+    "bbox": [
+        193.48435974121094,
+        967.6336059570312,
+        823.9820556640625,
+        1513.8466796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_004/004_plain_text_0.95.png",
+    "text": "In fact, for any quadratic\npolynomial ax\u00b2 + bx + c, a \u2260 O, the\ngraph of the corresponding\nequation y = ax\u00b2 + bx + c has one\nof the two shapes either open\nupwards like\nor open\ndownwards like \ndepending on\nwhether a > O or a < O. (These\ncurves are called parabolas.)"
+}

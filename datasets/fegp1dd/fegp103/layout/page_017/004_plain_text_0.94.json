@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9376939535140991,
+    "bbox": [
+        293.2628173828125,
+        1580.9993896484375,
+        2082.556396484375,
+        1724.1566162109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_017/004_plain_text_0.94.png",
+    "text": "Here is a famous\ngame called 21. Play it with a classmate. Then\ntry it at home with your family!"
+}

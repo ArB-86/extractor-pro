@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6560795903205872,
+    "bbox": [
+        1455.0025634765625,
+        767.3121337890625,
+        1750.8028564453125,
+        824.05419921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/018_plain_text_0.66.png",
+    "text": "(SSS\n similarity)"
+}

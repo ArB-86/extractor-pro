@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9614098072052002,
+    "bbox": [
+        192.23297119140625,
+        1577.8582763671875,
+        1749.5032958984375,
+        1691.529296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/001_plain_text_0.96.png",
+    "text": "Since x is the distance between the pole and the gate B, it must be positive.\nTherefore, x = - 12 will have to be ignored. So, x = 5."
+}

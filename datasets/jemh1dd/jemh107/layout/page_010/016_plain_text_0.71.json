@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7131177186965942,
+    "bbox": [
+        192.2980194091797,
+        520.6087646484375,
+        1655.822998046875,
+        581.15673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_010/016_plain_text_0.71.png",
+    "text": "Solution : Let P(x, y) be the required point. Using\ng the section formula, we get"
+}

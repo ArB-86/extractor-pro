@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9514185786247253,
+    "bbox": [
+        244.6566925048828,
+        1618.9710693359375,
+        1157.013427734375,
+        1797.5594482421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_012/000_plain_text_0.95.png",
+    "text": "2.\nE\nand\n1F\nare\npoints\non\nthe\nSides\nPQ\nand\nPR\nrespectively of a  PQR. For each of the following\ncases, state whether\nEF\nI QR :"
+}

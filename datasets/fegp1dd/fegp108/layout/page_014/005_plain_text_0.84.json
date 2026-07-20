@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8436778783798218,
+    "bbox": [
+        521.9603881835938,
+        1470.8057861328125,
+        2210.087890625,
+        1614.391845703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_014/005_plain_text_0.84.png",
+    "text": "Since ABEF\nand BCDE\n squares, all the sides in each of the\nare s\nsquares are equal. This is written as."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9755605459213257,
+    "bbox": [
+        235.71009826660156,
+        306.4937438964844,
+        1797.012939453125,
+        474.849853515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/002_plain_text_0.98.png",
+    "text": "Proof by\ntechnique\ncalled\nContradiction. Namely,\nthe\nwe\nassume\nopposite of what we want to prove, and show that this assumption leads\nto a logical disaster."
+}

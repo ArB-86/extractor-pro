@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.7996824979782104,
+    "bbox": [
+        1155.3787841796875,
+        663.7745361328125,
+        1581.6612548828125,
+        728.6575927734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_008/007_title_0.80.png",
+    "text": "cher's\nNote\nT\ne\neacl\nS"
+}

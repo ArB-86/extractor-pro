@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.5322854518890381,
+    "bbox": [
+        290.5453186035156,
+        2258.86279296875,
+        1923.703369140625,
+        2321.431884765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_050/015_plain_text_0.53.png",
+    "text": "Q.5. Measure and write the degree measures for each of the following angles"
+}

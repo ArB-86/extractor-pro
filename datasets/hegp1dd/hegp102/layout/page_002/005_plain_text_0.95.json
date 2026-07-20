@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9516521096229553,
+    "bbox": [
+        373.82159423828125,
+        2253.04150390625,
+        1954.282470703125,
+        2433.26806640625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_002/005_plain_text_0.95.png",
+    "text": "After 30 folds, the thickness of the paper is about 10.7 km, the\ntypical height at which planes\nfly. The deepest point discovered in\nthe oceans is the Mariana Trench, with a depth of 11 km."
+}

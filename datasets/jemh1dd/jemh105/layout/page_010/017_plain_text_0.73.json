@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7283998727798462,
+    "bbox": [
+        194.5613250732422,
+        918.25439453125,
+        1066.4820556640625,
+        972.4337768554688
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/017_plain_text_0.73.png",
+    "text": "Therefore, the 10th term of the given\nAP is 47."
+}

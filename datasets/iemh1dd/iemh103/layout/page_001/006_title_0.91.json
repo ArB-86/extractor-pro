@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9148097634315491,
+    "bbox": [
+        239.71499633789062,
+        739.7562866210938,
+        1731.573974609375,
+        873.4441528320312
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/006_title_0.91.png",
+    "text": "3.1.THE\nDAWN\nMATHEMATICS: THE\nJOF\nHUMAN\nNEED\nTO\nCOUNT"
+}

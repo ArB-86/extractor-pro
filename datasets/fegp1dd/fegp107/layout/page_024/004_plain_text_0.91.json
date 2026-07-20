@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9135081171989441,
+    "bbox": [
+        418.427978515625,
+        1652.7825927734375,
+        2212.5595703125,
+        1800.724853515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_024/004_plain_text_0.91.png",
+    "text": "Step 2: Now, compare the equivalent fractions by simply c\ncomparing\nthe numerators, i.e., the number of fractional units each has."
+}

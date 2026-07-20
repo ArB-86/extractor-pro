@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "title",
+    "confidence": 0.5533377528190613,
+    "bbox": [
+        296.4476013183594,
+        972.7149047851562,
+        558.9493408203125,
+        1033.6651611328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_038/007_title_0.55.png",
+    "text": "age\n93\nP\nD"
+}

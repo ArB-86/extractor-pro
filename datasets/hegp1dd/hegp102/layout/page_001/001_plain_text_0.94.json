@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9427533745765686,
+    "bbox": [
+        375.11346435546875,
+        2784.646728515625,
+        2090.105712890625,
+        2905.112060546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_001/001_plain_text_0.94.png",
+    "text": "Let us find out how thick a sheet of paper will be after 46 folds. Assume\nthat the thickness of the sheet is 0.oo1 cm."
+}

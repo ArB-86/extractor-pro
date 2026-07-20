@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9028612971305847,
+    "bbox": [
+        194.57229614257812,
+        2019.5172119140625,
+        896.1231079101562,
+        2072.656494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/013_plain_text_0.90.png",
+    "text": "Using\nEquation\n(2), we get s = 3t + 6."
+}

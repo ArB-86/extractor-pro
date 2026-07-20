@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.872623860836029,
+    "bbox": [
+        295.3245544433594,
+        1682.17431640625,
+        2186.252197265625,
+        1803.8248291015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_030/002_plain_text_0.87.png",
+    "text": "Q.3. Roshan wants to buy milk and 3 types of fruit to make fruit custard for 5 people. He\nestimates the cost to be  1oo. Do you agree with him? Why or why not?"
+}

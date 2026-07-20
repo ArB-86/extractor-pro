@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7956290245056152,
+    "bbox": [
+        443.92181396484375,
+        1097.9417724609375,
+        1972.678466796875,
+        1162.6151123046875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/017_plain_text_0.80.png",
+    "text": "ter in this series, we\n get the following set of consecutive number"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9292302131652832,
+    "bbox": [
+        289.27789306640625,
+        1060.9483642578125,
+        2088.10107421875,
+        1465.13916015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_019/002_plain_text_0.93.png",
+    "text": "Shabnam: Well,\nwe have seen\nthat\n1\n48\nSo, the\n2\nchildren\nfor whom\n 5 chikkis is\ndivided\nequally\namong\n8 will\nget more\nthan those\nchildren for whom 1 chikki is\ndivided\nequally\namong\n2. The\nchildren\nof\nthe\nsecond\nWill\nget more\n chikki each.\ngroup "
+}

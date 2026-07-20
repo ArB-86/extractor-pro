@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8709225058555603,
+    "bbox": [
+        192.52459716796875,
+        2031.571044921875,
+        1482.6397705078125,
+        2083.111328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/007_plain_text_0.87.png",
+    "text": "7.\nFill in the blanks to make each of the following a true statement "
+}

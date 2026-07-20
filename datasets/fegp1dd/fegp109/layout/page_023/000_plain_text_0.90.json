@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9047859311103821,
+    "bbox": [
+        381.84112548828125,
+        2098.626953125,
+        1676.5584716796875,
+        2236.837890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_023/000_plain_text_0.90.png",
+    "text": "11.HoW\nmany\nlines\nof\nsymmetry\nand\nangles\nof\nsymmetry c\ndoes Ashoka Chakra have?"
+}

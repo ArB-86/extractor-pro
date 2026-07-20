@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9505819082260132,
+    "bbox": [
+        192.14938354492188,
+        949.4957275390625,
+        1753.4498291015625,
+        1061.7344970703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/003_plain_text_0.95.png",
+    "text": "Example 4 : Find a relation between x and y such that the point (x , y) is equidistant\nfrom the points (7, 1) and (3, 5)."
+}

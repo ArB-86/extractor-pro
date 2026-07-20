@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8611903190612793,
+    "bbox": [
+        222.9013671875,
+        996.6607666015625,
+        1752.511474609375,
+        1110.0745849609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/015_plain_text_0.86.png",
+    "text": "(C) T\nThe balance money\ny \uff08 in ?\uff09 after paying 5 % of the total loan of ? 1000 every\nmonth is 950, 900, 850, 800, . . ., 50."
+}

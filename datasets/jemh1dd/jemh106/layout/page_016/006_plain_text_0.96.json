@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9570723176002502,
+    "bbox": [
+        193.23080444335938,
+        959.1025390625,
+        1751.214599609375,
+        1071.3748779296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_016/006_plain_text_0.96.png",
+    "text": "Activity 5 : Draw two triangles ABC and DEF such that AB = 3 cm, BC = 6 cm,\nCA = 8 cm, DE = 4.5 cm, EF = 9 cm and FD = 12 cm (see Fig. 6.25)."
+}

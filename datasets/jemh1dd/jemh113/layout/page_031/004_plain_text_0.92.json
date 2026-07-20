@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9219993352890015,
+    "bbox": [
+        304.6375732421875,
+        1444.407958984375,
+        1028.0484619140625,
+        1496.843017578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/004_plain_text_0.92.png",
+    "text": "where symbols have\ntheir\nmeanings.\nusual"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9204254150390625,
+    "bbox": [
+        194.29501342773438,
+        522.8947143554688,
+        589.8743896484375,
+        574.4763793945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/006_title_0.92.png",
+    "text": "Let\nanswer\nii\nus"
+}

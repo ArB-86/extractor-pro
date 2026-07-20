@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9737147688865662,
+    "bbox": [
+        190.59335327148438,
+        1873.608154296875,
+        1754.579833984375,
+        2085.41259765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/004_plain_text_0.97.png",
+    "text": "Next, can\nfind the distance of A from\nC (in Fig. 7.2)? Since\nOA = 4 units and\nyou\nOC = 3 units, the distance ofA from\nC,i.e.,AC =\n= 5 units. Similarly, you can\nV32\n+42\nfind the distance of B\nfrom\nD =BD\n=10\nunits."
+}

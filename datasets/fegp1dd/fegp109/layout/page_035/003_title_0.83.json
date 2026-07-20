@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "title",
+    "confidence": 0.8272630572319031,
+    "bbox": [
+        294.3213195800781,
+        1569.0084228515625,
+        1903.4176025390625,
+        1633.5379638671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_035/003_title_0.83.png",
+    "text": "Q2. Which of the following figures have more than one angle of symmetry?"
+}

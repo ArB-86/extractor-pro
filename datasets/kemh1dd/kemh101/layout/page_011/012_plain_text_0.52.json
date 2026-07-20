@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5159447193145752,
+    "bbox": [
+        188.7436065673828,
+        436.4902038574219,
+        1758.3529052734375,
+        947.193603515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/012_plain_text_0.52.png",
+    "text": "p\nwhich is read \u201c Q is the set of all numbers x such that x equals the quotient\nwhere\nq\np and q are integers and q is not zero\". Members of Q\ninclude -5 (which can be\n5\n5\n1\n7\n11\nexpressed\nas\n(which can be expressed as\nand\n2\n3\nThe set of irrational numbers, denoted by T, is composed of all other real numbers.\nThus\nT = {x: x \u2208 R and x \n Q}, i.e., all real numbers that are not rational.\nMembers of T include\n\u221a2 , \u221a5\nand \u03c0 ."
+}

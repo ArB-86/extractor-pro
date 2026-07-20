@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.8785386681556702,
+    "bbox": [
+        808.2172241210938,
+        1936.5888671875,
+        1139.086181640625,
+        1992.0150146484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/003_title_0.88.png",
+    "text": "Historical\nNote"
+}

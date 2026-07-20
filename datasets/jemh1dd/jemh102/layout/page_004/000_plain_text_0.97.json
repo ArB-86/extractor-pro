@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9749891757965088,
+    "bbox": [
+        195.02508544921875,
+        718.263427734375,
+        822.9326782226562,
+        946.3956909179688
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_004/000_plain_text_0.97.png",
+    "text": "If we\nelocate\nthe points\nlisted\nabove on a \ngraph\npaper and draw\nthe graph, it will a\n actually look like\nthe one\ngiven i\nin Fig. 2.2."
+}

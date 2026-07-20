@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.968407928943634,
+    "bbox": [
+        193.19393920898438,
+        1583.3707275390625,
+        1754.0498046875,
+        1750.975830078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_001/001_plain_text_0.97.png",
+    "text": "May be you will try it by considering\n different cases. If she has one ride, is it\npossible? Is it possible to have two rides? And so on. Or you may use the knowledge\nof\nf Class IX, to represent such situations as\nlinear\nequations in two variables."
+}

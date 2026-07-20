@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.7826629877090454,
+    "bbox": [
+        294.0126953125,
+        988.440185546875,
+        1241.1185302734375,
+        1068.354248046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_038/007_plain_text_0.78.png",
+    "text": "1\nQ1. continue\nthis table of\n\u4e8c\nfor 2\nmore steps.\n2"
+}

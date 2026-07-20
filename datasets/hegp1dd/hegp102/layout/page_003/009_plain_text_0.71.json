@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7129825949668884,
+    "bbox": [
+        371.86578369140625,
+        2161.355224609375,
+        1906.80126953125,
+        2282.986572265625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/009_plain_text_0.71.png",
+    "text": "The initial thickness of the paper was\n0.001 cm.\nUpon folding\nonce, its thickness became\ne 0.001 cm x 2 = 0.002\ncm"
+}

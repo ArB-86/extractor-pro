@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8836109042167664,
+    "bbox": [
+        241.9638671875,
+        1946.5531005859375,
+        1488.76220703125,
+        1997.80615234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_014/007_plain_text_0.88.png",
+    "text": "If \u03b1, \u03b2, Yare the zeroes of the cubic polynomial ax? + bx\u00b2 + cx + d, then"
+}

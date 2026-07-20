@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9600014686584473,
+    "bbox": [
+        420.3825378417969,
+        1656.558349609375,
+        2210.59765625,
+        1873.55810546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_010/003_plain_text_0.96.png",
+    "text": "Jeevan was looking at this year's calendar. He started wondering,\n\"Why should we change the calendar every year? Can we not reuse a\ncalendar?\". What do you think?"
+}

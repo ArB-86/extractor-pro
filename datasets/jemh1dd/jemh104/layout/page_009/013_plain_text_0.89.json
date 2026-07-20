@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8916886448860168,
+    "bbox": [
+        192.26710510253906,
+        2347.980712890625,
+        1329.7813720703125,
+        2403.37841796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/013_plain_text_0.89.png",
+    "text": "Hence, the given quadratic equation has two equal real roots."
+}

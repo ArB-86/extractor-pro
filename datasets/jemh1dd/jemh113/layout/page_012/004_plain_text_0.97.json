@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9685627818107605,
+    "bbox": [
+        250.54653930664062,
+        849.8399047851562,
+        1754.1177978515625,
+        999.1004028320312
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_012/004_plain_text_0.97.png",
+    "text": "5. In a retail\nmarket, fruit vendors were selling\n: mangoes kept in packing boxes. These\nboxes contained varying\n number of mangoes. The following\n was the distribution of\nmangoes according to the number of boxes."
+}

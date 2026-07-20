@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9309267401695251,
+    "bbox": [
+        193.0061492919922,
+        1900.6942138671875,
+        1118.793212890625,
+        1953.78173828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/010_plain_text_0.93.png",
+    "text": "Step 3 : Substituting\nthis value of x in\n(1),\nwe\nget"
+}

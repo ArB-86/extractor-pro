@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9632992148399353,
+    "bbox": [
+        193.1886749267578,
+        396.9540710449219,
+        1154.0491943359375,
+        504.3219299316406
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/004_plain_text_0.96.png",
+    "text": "Now with this knowledge, let us try to find some\nrelations\n(or formulae)\nto calculate their\nareas."
+}

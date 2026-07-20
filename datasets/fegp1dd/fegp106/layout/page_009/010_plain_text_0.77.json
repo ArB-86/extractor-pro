@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7659704685211182,
+    "bbox": [
+        366.7161865234375,
+        994.7656860351562,
+        1042.57763671875,
+        1062.1278076171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_009/010_plain_text_0.77.png",
+    "text": "Area of a square\n\u4e8c"
+}

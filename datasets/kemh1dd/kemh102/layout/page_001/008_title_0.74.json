@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.7373517155647278,
+    "bbox": [
+        501.1882019042969,
+        806.4312744140625,
+        1467.0609130859375,
+        921.4769287109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/008_title_0.74.png",
+    "text": "Mathematics\nis t\nthe\nindispensable\ninstrument\nof\nall\nphysical\nresearch. -\nBERTHELOT"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9399793744087219,
+    "bbox": [
+        192.30227661132812,
+        2026.2818603515625,
+        1752.062255859375,
+        2142.500732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/006_plain_text_0.94.png",
+    "text": "Therefore, P divides AB internally in the ratio 1 : 2. Therefore, the coordinates of P, by\napplying the section formula, are"
+}

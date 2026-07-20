@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9771316647529602,
+    "bbox": [
+        418.00494384765625,
+        2413.884521484375,
+        2211.0283203125,
+        2706.153564453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_016/000_plain_text_0.98.png",
+    "text": "To check if\nthe\nfigure\ndrawn\nindeed\nhas\n4\nangles\ns of\nsymmetry,\ncould draw\nthe f\nfigure\ntwo\ndifferent\non\npieces\nof\nyou\npaper. Cut\nout\nthe radial\nfrom\n1 one of the papers. Keep\nthe figure on\nthe paper\narms\nfixed\nand\nrotate the\ne cutout to check for rotational\nsymmetry."
+}

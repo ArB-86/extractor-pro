@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9195436835289001,
+    "bbox": [
+        195.5699920654297,
+        1385.6739501953125,
+        388.0706787109375,
+        1435.82421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_006/009_title_0.92.png",
+    "text": "ks\nemark"
+}

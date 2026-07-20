@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.953963041305542,
+    "bbox": [
+        192.5689697265625,
+        1712.4798583984375,
+        1749.460205078125,
+        1841.79443359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/004_plain_text_0.95.png",
+    "text": "Theevent\nE, representing\n'not E', is called the complement of the event \ntE\nWe also say that E and E\nare complementary events."
+}

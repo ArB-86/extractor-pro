@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9341933727264404,
+    "bbox": [
+        192.5930938720703,
+        917.2854614257812,
+        1703.723876953125,
+        972.4028930664062
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_009/007_plain_text_0.93.png",
+    "text": "We first express the value of x in terms of y from the equation 2x + 3y = 9, to get"
+}

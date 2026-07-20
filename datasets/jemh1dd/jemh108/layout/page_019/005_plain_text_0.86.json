@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8617583513259888,
+    "bbox": [
+        395.3777770996094,
+        1558.27978515625,
+        1643.8814697265625,
+        1611.0947265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/005_plain_text_0.86.png",
+    "text": "(A)\nsec\u00b2 A\n(B) -1\n(C) cot2 A\n(D) tan\u00b2 A"
+}

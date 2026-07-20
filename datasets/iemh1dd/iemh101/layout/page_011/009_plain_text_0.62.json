@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6183862090110779,
+    "bbox": [
+        315.3782958984375,
+        2484.748291015625,
+        1737.1629638671875,
+        2593.9072265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_011/009_plain_text_0.62.png",
+    "text": "2. Would these observations be the same if \u25b3ADM is reflected in the\nX-axis\n(instead of the y-axis)?"
+}

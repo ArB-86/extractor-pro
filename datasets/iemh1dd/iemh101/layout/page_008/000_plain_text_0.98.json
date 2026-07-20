@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9760257005691528,
+    "bbox": [
+        238.95669555664062,
+        2171.849853515625,
+        1799.6534423828125,
+        2562.859375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_008/000_plain_text_0.98.png",
+    "text": "We know how to find the distance between two points if they\nare on the\naxes or if they f\n form a line segment parallel to the axes. For example, in\nFig. 1.5\n5 we can find the distances\nW,W, a\nand SS2. What should we do if\nthe segment joining t\nthe points is not parallel to either axis? We can use\nthe Baudhayana-Pythagoras theorem which you have studied in Grade 8.\nWe can use this result to find the distance between any t\ntwo points in the\nxy-plane."
+}

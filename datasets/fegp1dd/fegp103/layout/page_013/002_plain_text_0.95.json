@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9478956460952759,
+    "bbox": [
+        292.3742980957031,
+        1961.4549560546875,
+        2085.966796875,
+        2109.61083984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_013/002_plain_text_0.95.png",
+    "text": "Share and discuss in class the different methods each one of you\nused to solve these questions."
+}

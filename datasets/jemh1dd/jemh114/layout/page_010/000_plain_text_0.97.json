@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9724670648574829,
+    "bbox": [
+        192.5066375732422,
+        1304.2664794921875,
+        1754.542236328125,
+        1471.0882568359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_010/000_plain_text_0.97.png",
+    "text": "Example 11* : A missing\nhelicopter is reported to have crashed somewhere in the\nrectangular region shown in Fig. 14.2. What is the probability that it crashed inside the\nlake shown in the figure?"
+}

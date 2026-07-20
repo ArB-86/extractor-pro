@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9196116328239441,
+    "bbox": [
+        420.8002624511719,
+        1069.41845703125,
+        1419.9871826171875,
+        1156.9774169921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_006/005_title_0.92.png",
+    "text": "8.2 Squares\nand Rectangles"
+}

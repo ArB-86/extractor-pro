@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.7034450769424438,
+    "bbox": [
+        438.0916748046875,
+        1599.631103515625,
+        2209.21435546875,
+        1738.0809326171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_033/004_plain_text_0.70.png",
+    "text": "By\nreading pictographs and bar\ngraphs\naccurately,\nwecan\nquickly\nunderstand and make inferences about the data presented."
+}

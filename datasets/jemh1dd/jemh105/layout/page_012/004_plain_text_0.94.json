@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9357945919036865,
+    "bbox": [
+        190.79278564453125,
+        1713.3040771484375,
+        1600.873046875,
+        1769.0693359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/004_plain_text_0.94.png",
+    "text": "Solution : We know that the formula to calculate simple interest is given by"
+}

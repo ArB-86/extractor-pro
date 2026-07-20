@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5494427680969238,
+    "bbox": [
+        441.76788330078125,
+        1131.166748046875,
+        2032.127685546875,
+        1308.8927001953125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_022/004_plain_text_0.55.png",
+    "text": "To\nget a sense\nof large\nnumbers or\nquantities, we can check how\ntimes bigger they a\nmany t\n are compared to numbers or quantities that\nare more familiar."
+}

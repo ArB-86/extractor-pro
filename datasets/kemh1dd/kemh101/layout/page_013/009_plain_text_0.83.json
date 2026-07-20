@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8260456919670105,
+    "bbox": [
+        190.4931182861328,
+        776.6580200195312,
+        1751.1436767578125,
+        882.500244140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/009_plain_text_0.83.png",
+    "text": "8\u3002\nGiven the sets A = {1, 3, 5}, B = {2, 4, 6} and C = {0, 2, 4, 6, 8}, which of the\nfollowing may be considered as universal set (s) for all the three sets A, B and C"
+}

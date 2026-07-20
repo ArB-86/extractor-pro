@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8876564502716064,
+    "bbox": [
+        377.2210693359375,
+        2195.16845703125,
+        2087.928466796875,
+        2321.0869140625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/008_plain_text_0.89.png",
+    "text": "2\u3002\nRecall that every s\n square can be expressed as a sum of consecutive\nodd numbers starting from 1."
+}

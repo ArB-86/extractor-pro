@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8355212211608887,
+    "bbox": [
+        294.2264099121094,
+        1498.927734375,
+        1410.8126220703125,
+        1562.9354248046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_030/002_plain_text_0.84.png",
+    "text": "Q8. Find the lines of s\nsymmetry\nfor the kolam\nbelow."
+}

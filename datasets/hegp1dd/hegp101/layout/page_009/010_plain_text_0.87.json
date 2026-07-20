@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8673481345176697,
+    "bbox": [
+        379.0577392578125,
+        1982.5245361328125,
+        1661.6326904296875,
+        2046.107177734375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/010_plain_text_0.87.png",
+    "text": "For example, to find \u221a1936, we can reason as f\nfollows:"
+}

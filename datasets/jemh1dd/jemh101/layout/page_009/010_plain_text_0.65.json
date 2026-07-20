@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6500990986824036,
+    "bbox": [
+        246.7857208251953,
+        1298.814208984375,
+        1754.546875,
+        1478.820068359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/010_plain_text_0.65.png",
+    "text": "1. The Fundamental Theorem of Arithmetic :\nEvery composite number can be expressed (factorised) as a product of primes, and this\nfactorisation is unique, apart from the order in which the prime factors occur."
+}

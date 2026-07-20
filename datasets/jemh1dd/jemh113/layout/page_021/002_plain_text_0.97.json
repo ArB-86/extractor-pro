@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9719066619873047,
+    "bbox": [
+        193.10610961914062,
+        693.3185424804688,
+        1753.43115234375,
+        863.9521484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_021/002_plain_text_0.97.png",
+    "text": "Similarly, we can compute the cumulative frequencies of the other classes, i.e.,\nthe number of students with marks less than 30, less than 40, . . ., less than 100. We\ngive them in Table 13.13 given below:"
+}

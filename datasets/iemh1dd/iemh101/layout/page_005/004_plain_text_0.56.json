@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5599145293235779,
+    "bbox": [
+        261.7080078125,
+        1512.582275390625,
+        1794.399658203125,
+        1683.5872802734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_005/004_plain_text_0.56.png",
+    "text": "(i)\nIf D,R\nrepresents the door to Reiaan's room, how far is the door\nfrom the left wall\n(the y-axis) of the room? How far is the door\nfrom the x-axis?"
+}

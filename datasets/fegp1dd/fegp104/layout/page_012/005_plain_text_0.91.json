@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9128626585006714,
+    "bbox": [
+        363.35345458984375,
+        391.9728088378906,
+        1941.9156494140625,
+        547.015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_012/005_plain_text_0.91.png",
+    "text": "Prepare a pictograph using the symbol\nto represent 1oo kites.\nAnswer the following questions:"
+}

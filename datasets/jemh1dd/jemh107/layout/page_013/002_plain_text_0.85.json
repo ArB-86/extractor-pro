@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8497207164764404,
+    "bbox": [
+        247.29466247558594,
+        595.8956909179688,
+        1752.181884765625,
+        697.4627075195312
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_013/002_plain_text_0.85.png",
+    "text": "2. Find the coordinates of the points of trisection of the line segment joining (4, -1)\nand (-2,-3)."
+}

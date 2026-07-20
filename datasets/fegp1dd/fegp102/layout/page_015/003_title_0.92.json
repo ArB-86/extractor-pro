@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.9209597706794739,
+    "bbox": [
+        293.9660949707031,
+        1364.4083251953125,
+        1276.3251953125,
+        1453.8013916015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_015/003_title_0.92.png",
+    "text": "2.8 Special Types\nof Angles"
+}

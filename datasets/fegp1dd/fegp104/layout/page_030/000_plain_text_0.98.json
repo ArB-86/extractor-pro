@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.981560230255127,
+    "bbox": [
+        293.7640075683594,
+        1790.1661376953125,
+        2086.02734375,
+        2238.0712890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_030/000_plain_text_0.98.png",
+    "text": "When data visualisations such as bar\ngraphs are\nfurther beautified\nWith\nmore\nextensive a\nartistic and\nvisual j\nimagery,\nthey\nare called\ninformation\ninfographics\nfor s\nshort.\nThe aim of\ngraphics\nor\ninfographics is to make\nofa\nattention-attracting\nuse\nand\nengaging\nvisuals to communicate information even more clearly and quickly,\nin a visually pleasing\nway."
+}

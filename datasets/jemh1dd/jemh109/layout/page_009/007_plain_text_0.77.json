@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7681722044944763,
+    "bbox": [
+        248.6623077392578,
+        2320.08349609375,
+        1753.662353515625,
+        2469.640869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_009/007_plain_text_0.77.png",
+    "text": "7\u30021\nFrom a point on the ground, the angles of elevation of the bottom and the top of a\ntransmission tower fixed at the top of a 20 m high building are 45\u00b0 and 60\u00b0 respectively.\nFind the height of the tower."
+}

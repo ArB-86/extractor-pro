@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8189721703529358,
+    "bbox": [
+        317.70159912109375,
+        1256.870849609375,
+        880.804931640625,
+        1306.5689697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/009_plain_text_0.82.png",
+    "text": "(ii)\n(sec A + tan A) (1 - sin A) ="
+}

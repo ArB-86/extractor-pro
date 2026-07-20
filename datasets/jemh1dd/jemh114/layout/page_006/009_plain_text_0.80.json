@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7986457943916321,
+    "bbox": [
+        237.47105407714844,
+        2046.900634765625,
+        1469.8978271484375,
+        2393.7158203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/009_plain_text_0.80.png",
+    "text": "(i)\nThere are 4 aces in a deck. Let E be the event \u2018the card is an\nThe number of outcomes favourable to E = 4\nThe number of possible outcomes = 52\n(Why?)\n4\n1\nTherefore,\nP(E)\n\u4e00\n52\n13"
+}

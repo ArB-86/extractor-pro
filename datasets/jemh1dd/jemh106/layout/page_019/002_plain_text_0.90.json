@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.904794454574585,
+    "bbox": [
+        190.96783447265625,
+        2474.929931640625,
+        829.300537109375,
+        2529.6904296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_019/002_plain_text_0.90.png",
+    "text": "Solution\nn : In \u25b3 ABC\nand  PQR,"
+}

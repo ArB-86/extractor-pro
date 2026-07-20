@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.6197721362113953,
+    "bbox": [
+        295.9339599609375,
+        2600.33740234375,
+        1663.1090087890625,
+        2660.2275390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/018_plain_text_0.62.png",
+    "text": "Ans.\nYes, the largest number in a table will always be a supercell."
+}

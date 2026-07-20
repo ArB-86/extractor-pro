@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9153015613555908,
+    "bbox": [
+        312.31494140625,
+        1768.816650390625,
+        1134.6044921875,
+        1824.055419921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_010/002_plain_text_0.92.png",
+    "text": "and is calculated a\nas shown\nin Fig. 1.8."
+}

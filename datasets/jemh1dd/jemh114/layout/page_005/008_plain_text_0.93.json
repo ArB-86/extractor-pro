@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9253842234611511,
+    "bbox": [
+        192.72007751464844,
+        526.132080078125,
+        991.8204345703125,
+        579.5381469726562
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/008_plain_text_0.93.png",
+    "text": "Remarks : From\nExample 1,\nwe note that"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6704616546630859,
+    "bbox": [
+        193.5977325439453,
+        1802.6004638671875,
+        1182.9356689453125,
+        1856.0697021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/014_plain_text_0.67.png",
+    "text": "The next two terms are: 22 + 6 = 28 a\nand 28 + 6 = 34."
+}

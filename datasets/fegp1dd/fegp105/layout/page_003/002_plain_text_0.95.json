@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9497436285018921,
+    "bbox": [
+        290.0022277832031,
+        2644.000244140625,
+        2083.334716796875,
+        2784.892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_003/002_plain_text_0.95.png",
+    "text": "Grumpyl\nhas kept the treasures on 14 and 36. And, Jumpy chooses\na jump size of 7."
+}

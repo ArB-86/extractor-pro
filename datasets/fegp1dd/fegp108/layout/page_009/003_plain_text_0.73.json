@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7280291318893433,
+    "bbox": [
+        401.2583923339844,
+        2747.979248046875,
+        1432.7498779296875,
+        2818.24072265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_009/003_plain_text_0.73.png",
+    "text": "This\nalso be done using\ncan\na compass."
+}

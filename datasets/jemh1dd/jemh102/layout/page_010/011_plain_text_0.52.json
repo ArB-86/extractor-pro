@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5211640000343323,
+    "bbox": [
+        291.7909851074219,
+        2169.961669921875,
+        488.97711181640625,
+        2226.805908203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_010/011_plain_text_0.52.png",
+    "text": "This\n gives"
+}

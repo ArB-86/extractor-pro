@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6145622730255127,
+    "bbox": [
+        301.556884765625,
+        1145.5533447265625,
+        1694.9720458984375,
+        1303.158203125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/014_plain_text_0.61.png",
+    "text": "aple 8 Which of the following pairs of sets are equal? Justify your answer.\nX, the set of letters in\n\u201cALLOY\"\"\nand B, the set of letters in\n\"LOYAL\n11\nA=\n{n : n \u2208 Z and n\u00b2 \u2264 4}\nand B =\n{x : x \u2208 R and x\u00b2- 3x + 2 = 0}."
+}

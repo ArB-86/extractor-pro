@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8841187357902527,
+    "bbox": [
+        225.00253295898438,
+        1669.705078125,
+        1754.8153076171875,
+        1771.6405029296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/004_plain_text_0.88.png",
+    "text": "10. In \u25b3 PQR, right-angled at Q, PR + QR = 25 cm and PQ = 5 cm. Determine the values of\nsin P, cos P and tan P."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8447229862213135,
+    "bbox": [
+        224.1851043701172,
+        1082.1539306640625,
+        975.7930908203125,
+        1331.2608642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_025/004_plain_text_0.84.png",
+    "text": "14.\nSides AB\nand AC and median AD of a\ntriangle\nABC\nare\nrespectively\nproportional to sides PQ\nand PR\nand\nmedian\nPM of a\nanother\ntriangle PQR.\nShow that \u25b3ABC ~ \u25b3 PQR."
+}

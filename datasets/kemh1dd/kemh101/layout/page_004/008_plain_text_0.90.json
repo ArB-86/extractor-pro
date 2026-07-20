@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9006648063659668,
+    "bbox": [
+        193.20068359375,
+        2130.807373046875,
+        1290.1822509765625,
+        2182.353515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/008_plain_text_0.90.png",
+    "text": "1.\nWhich of the following\n are sets ? Justify your answer."
+}

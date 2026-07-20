@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8949384689331055,
+    "bbox": [
+        193.49037170410156,
+        1596.5059814453125,
+        1752.89208984375,
+        1703.1578369140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_013/005_plain_text_0.89.png",
+    "text": "Remark : From the table above you can observe that as Z A increases f\nfrom O\u00b0 to\n90\u00b0, sin A increases from 0 to 1 and cos A decreases from 1 to 0."
+}

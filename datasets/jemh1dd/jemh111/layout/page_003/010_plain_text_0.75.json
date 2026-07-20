@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7475776672363281,
+    "bbox": [
+        193.7398681640625,
+        2078.216796875,
+        1320.385009765625,
+        2192.48193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_003/010_plain_text_0.75.png",
+    "text": "(360 - 0)\nAlternatively,\narea of the major sector =\nX\n2\n360"
+}

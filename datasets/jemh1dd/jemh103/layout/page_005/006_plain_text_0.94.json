@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9426755905151367,
+    "bbox": [
+        250.24722290039062,
+        2231.656982421875,
+        1752.7626953125,
+        2331.70166015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/006_plain_text_0.94.png",
+    "text": "1\u30021\nForm the pair of linear equations in the following problems, and find their solutions\ngraphically."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7975068688392639,
+    "bbox": [
+        493.31622314453125,
+        2214.0869140625,
+        1484.36962890625,
+        2270.86865234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_003/007_plain_text_0.80.png",
+    "text": "TSA of the toy =\nCSA of hemisphere +\nCSA of cone"
+}

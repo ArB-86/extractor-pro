@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9165370464324951,
+    "bbox": [
+        195.21151733398438,
+        472.43963623046875,
+        1217.93310546875,
+        526.2898559570312
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/008_plain_text_0.92.png",
+    "text": "What can\n about the similarity of two triangles?\nyousaya"
+}

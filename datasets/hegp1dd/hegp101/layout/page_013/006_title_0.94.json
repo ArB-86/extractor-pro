@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9406777024269104,
+    "bbox": [
+        379.31158447265625,
+        1203.7578125,
+        917.9374389648438,
+        1273.3834228515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_013/006_title_0.94.png",
+    "text": "Numb\nT\nb\nbers"
+}

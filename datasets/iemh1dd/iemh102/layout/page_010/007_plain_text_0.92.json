@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9193438291549683,
+    "bbox": [
+        265.5681457519531,
+        833.705322265625,
+        1470.4571533203125,
+        890.518310546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/007_plain_text_0.92.png",
+    "text": "What will be the height of the water at the end of 5 months?"
+}

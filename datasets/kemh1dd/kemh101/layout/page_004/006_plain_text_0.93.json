@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9301978349685669,
+    "bbox": [
+        194.63026428222656,
+        892.3131713867188,
+        1444.47314453125,
+        1007.7739868164062
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/006_plain_text_0.93.png",
+    "text": "2345\n6\nExample 4 Write the set\nin the set-builder form."
+}

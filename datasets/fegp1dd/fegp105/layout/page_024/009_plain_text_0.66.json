@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6551442742347717,
+    "bbox": [
+        339.5803527832031,
+        1339.761474609375,
+        1677.62841796875,
+        1403.265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_024/009_plain_text_0.66.png",
+    "text": "Q.2. Is there anything\ncommon among\nthe circled numbers?"
+}

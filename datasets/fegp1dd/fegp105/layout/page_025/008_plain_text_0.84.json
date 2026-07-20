@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8386603593826294,
+    "bbox": [
+        297.15570068359375,
+        1278.6983642578125,
+        1309.3931884765625,
+        1340.125732421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_025/008_plain_text_0.84.png",
+    "text": "Ans.\nSome such\nnumbers are: 25, 75, 125, 175."
+}

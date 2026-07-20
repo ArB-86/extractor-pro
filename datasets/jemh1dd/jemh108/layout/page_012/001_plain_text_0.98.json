@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9750248789787292,
+    "bbox": [
+        189.2364044189453,
+        393.1737060546875,
+        1755.29248046875,
+        704.1279296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/001_plain_text_0.98.png",
+    "text": "When\nZAis\nvery\nclose to 0\u00b0, BC\ngets very\nclose to 0\nand so the value of\nBC\nsin A =\nis very close to O. Also, when Z A is very close to O\u00b0, AC is nearly the\nAC\nAB\nsame as AB and so the value of cos A =\nis very close to 1.\nAC"
+}

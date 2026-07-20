@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.7786551713943481,
+    "bbox": [
+        579.1804809570312,
+        1161.4893798828125,
+        1020.2279663085938,
+        1227.39306640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_040/004_plain_text_0.78.png",
+    "text": "C\nrefle\nex\ne"
+}

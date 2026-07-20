@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.940333902835846,
+    "bbox": [
+        418.28656005859375,
+        501.2273254394531,
+        2211.444091796875,
+        643.8259887695312
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_005/003_plain_text_0.94.png",
+    "text": "Evaluate these expressions by thinking of them as the resulting movement\nof combining button presses:"
+}

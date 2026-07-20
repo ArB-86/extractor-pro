@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9626127481460571,
+    "bbox": [
+        192.01077270507812,
+        799.3872680664062,
+        1755.3724365234375,
+        909.11279296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/002_plain_text_0.96.png",
+    "text": "Can we find the solutions of this pair of equations? There are several ways of\nfinding these, which we will study in this chapter."
+}

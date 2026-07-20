@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.7458634376525879,
+    "bbox": [
+        461.41619873046875,
+        1320.074462890625,
+        2208.990478515625,
+        1452.02783203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_036/007_plain_text_0.75.png",
+    "text": "Equivalent\nt Fractions: When two or more\nfractions represent the\nsame share or number, they are called equivalent fractions."
+}

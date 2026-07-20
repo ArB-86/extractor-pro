@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9717729091644287,
+    "bbox": [
+        192.6357421875,
+        593.6360473632812,
+        1754.5242919921875,
+        758.6367797851562
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/001_plain_text_0.97.png",
+    "text": "Since every face of a die is marked with a number less than 7, it is sure that we\nWill\n always get a number less than 7 when it is thrown once. So, the number of\nfavourable outcomes is the same as the number of all possible outcomes, which is 6."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.8265929818153381,
+    "bbox": [
+        281.8748779296875,
+        755.3194580078125,
+        717.4708862304688,
+        827.3773803710938
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_009/007_title_0.83.png",
+    "text": "Figure\nit\nOut\n?"
+}

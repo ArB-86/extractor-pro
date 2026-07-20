@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8300672173500061,
+    "bbox": [
+        282.19464111328125,
+        2101.08203125,
+        1480.1412353515625,
+        2160.5439453125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/002_plain_text_0.83.png",
+    "text": "*8\u3002\nUsing the origin as one vertex, plot the vertices of:"
+}

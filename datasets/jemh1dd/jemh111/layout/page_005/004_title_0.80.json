@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.798421323299408,
+    "bbox": [
+        794.8194580078125,
+        999.1829833984375,
+        1150.244140625,
+        1057.89453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_005/004_title_0.80.png",
+    "text": "EXER\nCISE\n11."
+}

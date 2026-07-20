@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6862639784812927,
+    "bbox": [
+        315.2711181640625,
+        2362.58837890625,
+        1737.4166259765625,
+        2470.572998046875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_011/008_plain_text_0.69.png",
+    "text": "1. What has\ns remained the\nand\nwhat has\nchanged with this\nsame\nreflection?"
+}

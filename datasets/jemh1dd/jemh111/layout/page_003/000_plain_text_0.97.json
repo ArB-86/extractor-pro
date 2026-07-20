@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9667788743972778,
+    "bbox": [
+        191.28353881835938,
+        396.2782287597656,
+        1157.8994140625,
+        560.4580078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_003/000_plain_text_0.97.png",
+    "text": "Now\nlet\nus\ntake\nthe\nof\nthe\nof \nthe\ncase\narea\nsegment APB\n3 of a circle\nwith\n centre\n0\nand\nradius\nsr\n(see\nFig. 11.4). You\nsee that :\ncan"
+}

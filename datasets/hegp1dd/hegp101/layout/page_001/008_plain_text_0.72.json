@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.7155448198318481,
+    "bbox": [
+        459.34124755859375,
+        2032.3016357421875,
+        2087.089111328125,
+        2154.3154296875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_001/008_plain_text_0.72.png",
+    "text": "Person 2 toggles every\n2nd locker (i.e., closes it if it is open, opens\nit if it is closed)."
+}

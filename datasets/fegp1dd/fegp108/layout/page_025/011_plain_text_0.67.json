@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.6737560033798218,
+    "bbox": [
+        402.9968566894531,
+        659.5281372070312,
+        2084.83642578125,
+        864.1524047851562
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_025/011_plain_text_0.67.png",
+    "text": "2\u3002\nConstruct a rectangle in which one of the diagonals divides the\nand 45\u00b0. What do you observe about the\nopposite angles into 45\u00b0\nSides?"
+}

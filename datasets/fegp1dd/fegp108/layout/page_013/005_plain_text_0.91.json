@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9065902829170227,
+    "bbox": [
+        396.71685791015625,
+        2680.822265625,
+        2084.287109375,
+        2828.612548828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_013/005_plain_text_0.91.png",
+    "text": "It is wise to first plan and then construct. But how do we\nplan?\nCan you think of a way?"
+}

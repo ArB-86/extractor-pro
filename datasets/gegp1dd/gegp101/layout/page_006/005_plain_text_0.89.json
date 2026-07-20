@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8899557590484619,
+    "bbox": [
+        509.2322082519531,
+        281.13232421875,
+        2092.324951171875,
+        1159.203125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_006/005_plain_text_0.89.png",
+    "text": "(c)\n10,000?\n(d)\nFifty three thousand?\n(e)\n90,000?\n(f)\n97,600?\n(g)\n1,00,000?\n(h)\n? 582 times\n(i)\nHow\nhundreds\nrequired\nto\nmake\nmany\nare\n ten\nthousand?\n(j)\nHow many hundreds are required to make one lakh?\n(k)\n    e   g\nTedious Tens and Thoughtful Thousands can't show but I\ncan.\" Is this statement true? Think and explore."
+}

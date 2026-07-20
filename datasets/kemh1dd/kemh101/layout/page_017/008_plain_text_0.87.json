@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8668878078460693,
+    "bbox": [
+        284.9862976074219,
+        2306.810791015625,
+        1672.65478515625,
+        2525.6484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/008_plain_text_0.87.png",
+    "text": "(i)\nAB\n(i)\nBC\n(ii)\nACD\n(iv)\nANC\n(v)\nBD\n(vi)\nA(BUC)\n(vii)\nAD\n(viii)\nA (BU D)\n(ix)\n(AB)(BC)\n(x)\n(AU D)  (BUC)"
+}

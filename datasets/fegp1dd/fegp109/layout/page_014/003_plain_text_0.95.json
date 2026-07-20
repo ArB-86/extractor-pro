@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9458514451980591,
+    "bbox": [
+        509.2481689453125,
+        393.9071960449219,
+        2215.8349609375,
+        538.41162109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_014/003_plain_text_0.95.png",
+    "text": "13. Copy the following\non a dot grid. For each figure\ndraw two more\nlines to make a shape that has a line of symmetry."
+}

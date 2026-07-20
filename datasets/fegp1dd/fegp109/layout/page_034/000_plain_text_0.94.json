@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.9352529048919678,
+    "bbox": [
+        300.1822204589844,
+        653.5205078125,
+        2184.841552734375,
+        775.23779296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_034/000_plain_text_0.94.png",
+    "text": "Hint: Use 5 radial arms for the first case. What should the angle between two adjacent radial\narms be?"
+}

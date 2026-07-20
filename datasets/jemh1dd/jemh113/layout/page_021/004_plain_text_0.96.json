@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9635303616523743,
+    "bbox": [
+        192.94847106933594,
+        1938.3046875,
+        1759.2825927734375,
+        2111.3740234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_021/004_plain_text_0.96.png",
+    "text": "The distribution\ngiven above is called the cumulative frequency a\ndistributionof\nthe less than type. Here 10, 20, 30, . . . 100, are the upper limits of the respective\nclass intervals."
+}

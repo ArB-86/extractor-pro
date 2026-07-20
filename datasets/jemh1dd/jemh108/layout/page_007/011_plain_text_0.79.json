@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7861867547035217,
+    "bbox": [
+        195.5405731201172,
+        1391.9969482421875,
+        1529.453857421875,
+        1451.1990966796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_007/011_plain_text_0.79.png",
+    "text": "Then, by using\nTheorem 6.4, \u25b3 ACB ~  PRQ \nand therefore, Z B = Z"
+}

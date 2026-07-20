@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.873979926109314,
+    "bbox": [
+        193.50328063964844,
+        952.9318237304688,
+        1751.6834716796875,
+        1056.4398193359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/011_plain_text_0.87.png",
+    "text": "Note that the common elements 6 and 8 have been taken only\nonce while writing\nA U B."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5554785132408142,
+    "bbox": [
+        625.3113403320312,
+        995.5557861328125,
+        2151.37451171875,
+        1065.8468017578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_012/013_plain_text_0.56.png",
+    "text": "We can write other fractions in a similar way. For exampl"
+}

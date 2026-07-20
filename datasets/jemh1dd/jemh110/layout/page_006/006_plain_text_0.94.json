@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9422712922096252,
+    "bbox": [
+        192.3275909423828,
+        1671.0029296875,
+        1750.850830078125,
+        1782.132568359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_006/006_plain_text_0.94.png",
+    "text": "2. Note also that Z OPQ = Z OPR. Therefore, OP is the angle bisector of Z QPR.\ni.e., the centre lies on the bisector of the angle between the two tangents."
+}

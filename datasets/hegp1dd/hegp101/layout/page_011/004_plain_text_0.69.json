@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6898162961006165,
+    "bbox": [
+        300.12353515625,
+        2777.9462890625,
+        1829.2437744140625,
+        2844.2255859375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_011/004_plain_text_0.69.png",
+    "text": "?.\nHow many cubes of side 1 cm will make a cube of side 3 cm?"
+}

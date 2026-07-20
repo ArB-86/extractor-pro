@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8194068670272827,
+    "bbox": [
+        364.4530944824219,
+        696.6944580078125,
+        2085.295166015625,
+        841.8173217773438
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_012/007_plain_text_0.82.png",
+    "text": "(Remember: Target Number -\nStarting\nNumber = 1\nMovement\nneeded)"
+}

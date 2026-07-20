@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.825554370880127,
+    "bbox": [
+        411.14080810546875,
+        1238.3287353515625,
+        1111.4248046875,
+        1299.7613525390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_032/003_plain_text_0.83.png",
+    "text": "Do you agree?\nWhyo\nwhy\nor\nnot?"
+}

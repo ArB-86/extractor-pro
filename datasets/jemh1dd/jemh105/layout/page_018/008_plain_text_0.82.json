@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8168780207633972,
+    "bbox": [
+        239.25302124023438,
+        2025.6353759765625,
+        1754.6549072265625,
+        2216.337646484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_018/008_plain_text_0.82.png",
+    "text": "(i)\nLet S\nS=1+2+3-\n+.\u00b7.+\n1000\nn-2\nUsing\nthe formula\nS\n(1+D)\nfor the\nof the first n terms\nsum\ns of\nan\nAP\n\u4e8c\nwe\nn\nhave"
+}

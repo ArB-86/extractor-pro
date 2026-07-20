@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.978329598903656,
+    "bbox": [
+        191.2755584716797,
+        2098.152587890625,
+        1755.54248046875,
+        2327.97265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_004/002_plain_text_0.98.png",
+    "text": "The first step\nis to choose one a\nthe x? s as\nthe assumed\namong\nmean, and denote\nit by\n\u2018a'. Also, to further reduce our\ncalculation\nwork,\n may take \u2018a' to be that x;\nwe1\nn choose a = 47.5 or a =\n62.5.Let\nh\nus\ncho0se a = 47.5."
+}

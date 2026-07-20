@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9761697053909302,
+    "bbox": [
+        376.527099609375,
+        2348.889892578125,
+        2089.338134765625,
+        2654.662109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/000_plain_text_0.98.png",
+    "text": "A\nnumber\nthat\nbe\nas\nthe\ncan\nexpressed\nproduct\nof\na\nnumber\nWith\nitself is called a square number, or s\nsimply a square. The only\nnumbers\nthat have\nodd\nnumber\nr of factors a\nthe squares, because\ntheye\neanc\nare\neach\nwhich, when\nmultiplied by\nhave\nfactor\nitself,\nequals\nthe\none\nnumber.\nTherefore, every\nlocker whose number is a square\newill\nremain\nopen."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9160631895065308,
+    "bbox": [
+        418.80780029296875,
+        1942.2498779296875,
+        2102.8291015625,
+        2013.354736328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_006/006_plain_text_0.92.png",
+    "text": "Why does this happen? Do you think it will happen forever?"
+}

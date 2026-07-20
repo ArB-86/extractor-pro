@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7058084607124329,
+    "bbox": [
+        329.0244140625,
+        1231.0665283203125,
+        1663.453369140625,
+        1280.4630126953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_014/008_plain_text_0.71.png",
+    "text": "Thes\n graph of a pair of linear equations in two variables is represented by two line:"
+}

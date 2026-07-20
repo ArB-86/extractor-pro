@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.836094081401825,
+    "bbox": [
+        244.62925720214844,
+        2186.716552734375,
+        1003.30126953125,
+        2236.783203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/009_plain_text_0.84.png",
+    "text": "5.\nA quadratic equation ax\u00b2 + bx + c =\n\uff1aOhas"
+}

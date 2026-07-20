@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.946557879447937,
+    "bbox": [
+        238.24301147460938,
+        2292.376953125,
+        1794.8048095703125,
+        2405.405517578125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/007_plain_text_0.95.png",
+    "text": "We solve these as follows: Let b = 350 - 10a (from the first equation).\nWe substitute this in the second equation to obtain"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.9045027494430542,
+    "bbox": [
+        963.6322021484375,
+        1375.5296630859375,
+        1664.7803955078125,
+        1444.2801513671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_008/004_title_0.90.png",
+    "text": "Primes through the Ages"
+}

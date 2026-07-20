@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9178106784820557,
+    "bbox": [
+        366.25323486328125,
+        1278.0023193359375,
+        1814.4888916015625,
+        1343.5408935546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/008_plain_text_0.92.png",
+    "text": "Can you tell what this sum is without doing the calculation?"
+}

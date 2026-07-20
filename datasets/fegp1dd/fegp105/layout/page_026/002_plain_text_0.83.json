@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8285907506942749,
+    "bbox": [
+        296.7323913574219,
+        2601.807861328125,
+        2184.37939453125,
+        2726.664794921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/002_plain_text_0.83.png",
+    "text": "Q.6. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1\nand 3. Find such pairs of prime numbers up to 100."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8672180771827698,
+    "bbox": [
+        297.3182678222656,
+        804.6890258789062,
+        2188.447021484375,
+        989.5089721679688
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_029/002_plain_text_0.87.png",
+    "text": "Q.5. Shape A has an area of 18 square units and Shape B has an area of 20 square units.\nShape A has a longer perimeter than Shape B. Draw two such shapes satisfying the\ngiven conditions."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6476962566375732,
+    "bbox": [
+        383.9884338378906,
+        285.3164978027344,
+        2087.162353515625,
+        471.7003173828125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/015_plain_text_0.65.png",
+    "text": "3.\nWe know that a perfect square is obtained by multiplying an integer\nby i\nitself. Will looking\nfactorisation help\ng at a number's\nprime\nin\ndetermining whether it is a perfect square?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9513132572174072,
+    "bbox": [
+        194.84017944335938,
+        542.0846557617188,
+        1753.14599609375,
+        707.2230224609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_016/005_plain_text_0.95.png",
+    "text": "Activity 3 : Continuing with the same groups as formed in Activity 2 and the situations\nassigned to the groups. Ask each group to find the mode of the data. They should also\ncompare this with the mean, and interpret the meaning of both."
+}

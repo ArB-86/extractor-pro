@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.8975781202316284,
+    "bbox": [
+        375.9509582519531,
+        2709.6728515625,
+        785.37451171875,
+        2778.93408203125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/006_title_0.90.png",
+    "text": "Roots\nS\nquare\ne"
+}

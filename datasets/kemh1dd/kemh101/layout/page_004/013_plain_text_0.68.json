@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6797065734863281,
+    "bbox": [
+        491.2795104980469,
+        682.7090454101562,
+        1319.9566650390625,
+        737.7001342773438
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/013_plain_text_0.68.png",
+    "text": "A = {x : x is the square of a natural\nnumber}"
+}

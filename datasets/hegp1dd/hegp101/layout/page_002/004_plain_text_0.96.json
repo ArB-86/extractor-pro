@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9643735289573669,
+    "bbox": [
+        377.9319763183594,
+        530.6181640625,
+        1554.4530029296875,
+        768.1802978515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/004_plain_text_0.96.png",
+    "text": "it. The\nnumbers\n1, 2, 3,\nand 6\nare\nfactors of 6. If\nthe\nnumber\nof factors\niS\nthe locker\nWill\nl be\neven, t\ntoggled by\nnumber\nof\npeople\nand it will\nue\neven\neventually\nbe closed."
+}

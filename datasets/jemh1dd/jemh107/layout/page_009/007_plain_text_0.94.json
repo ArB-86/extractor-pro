@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9418200850486755,
+    "bbox": [
+        193.38088989257812,
+        996.6581420898438,
+        916.84619140625,
+        1049.7496337890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/007_plain_text_0.94.png",
+    "text": "Substituting\nthese values :\nin\n (1),\nwe\nget"
+}

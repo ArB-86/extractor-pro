@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9495667815208435,
+    "bbox": [
+        191.6039276123047,
+        1483.3681640625,
+        1752.34326171875,
+        1602.156494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/003_plain_text_0.95.png",
+    "text": "Theorem\n1.2 : Let p be a prime number If p divides a?, then p divides a, where\na is a positive integer."
+}

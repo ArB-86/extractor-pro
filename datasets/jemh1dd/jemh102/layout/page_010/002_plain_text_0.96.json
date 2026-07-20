@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9564846158027649,
+    "bbox": [
+        194.3862762451172,
+        828.9304809570312,
+        1751.6290283203125,
+        937.9277954101562
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_010/002_plain_text_0.96.png",
+    "text": "Let us take one more c\nquadratic polynomial, say, p(x) = 3x\u00b2 + 5x - 2. By the\nmethod of splitting the middle term,"
+}

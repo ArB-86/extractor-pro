@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9128606915473938,
+    "bbox": [
+        290.20538330078125,
+        717.6244506835938,
+        1162.51708984375,
+        787.7539672851562
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_003/006_plain_text_0.91.png",
+    "text": "Jumpy\n and Grumpy play a game."
+}

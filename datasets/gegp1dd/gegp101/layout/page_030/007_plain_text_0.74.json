@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.7373355627059937,
+    "bbox": [
+        365.21978759765625,
+        950.160888671875,
+        2179.618408203125,
+        1666.1328125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_030/007_plain_text_0.74.png",
+    "text": "2. Write the following numbers in Indian place value notation:\n(a) One crore one lakh one thousand Ten\nAns:1,01,01,010\n(b)One billion one million one thousand one\nAns: 1,00,10,01,001\n(c) Ten crore twenty lakh thirty thousand forty\nAns:10,20,30,040\nAns: 9,08,07,00,600"
+}

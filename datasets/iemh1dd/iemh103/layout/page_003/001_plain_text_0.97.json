@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.971322238445282,
+    "bbox": [
+        240.31680297851562,
+        1908.894287109375,
+        1795.1859130859375,
+        2125.1435546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/001_plain_text_0.97.png",
+    "text": "It Was in the work of Brahmagupta\n1 (628 CE) thatthe void\nformally\nwas\ntransformed\ninto\nnumber,\na\nwhich\ntruly\ntransformed\nmathematics.\nThis\nleap\nin\nturn\ninspired\nby\nIndian\nphilosophical\nmonumental\nwas\ntraditions."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.926427960395813,
+    "bbox": [
+        193.63577270507812,
+        900.3238525390625,
+        1114.369873046875,
+        951.1647338867188
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_014/003_plain_text_0.93.png",
+    "text": "In this chapter, you have studied the following points:"
+}

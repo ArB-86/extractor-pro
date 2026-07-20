@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9520081281661987,
+    "bbox": [
+        419.79058837890625,
+        1612.9322509765625,
+        2209.766845703125,
+        1753.164306640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_012/003_plain_text_0.95.png",
+    "text": "An example of adding\ntwo\n5-digit numbers to get another 5-digit\nnumber is 12,350 + 24,545 = 36,895."
+}

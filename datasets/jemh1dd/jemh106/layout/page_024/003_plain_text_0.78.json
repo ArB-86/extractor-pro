@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.780205488204956,
+    "bbox": [
+        244.99923706054688,
+        837.2789916992188,
+        1065.582275390625,
+        937.3176879882812
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/003_plain_text_0.78.png",
+    "text": "6.\nIn Fig. 6.37, if \u25b3 ABE = \u25b3 ACD, show\nthat\n\u25b3ADE~\u25b3ABC."
+}

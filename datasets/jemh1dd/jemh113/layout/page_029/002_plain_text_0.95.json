@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9487006068229675,
+    "bbox": [
+        245.44541931152344,
+        1398.180908203125,
+        1753.27294921875,
+        1496.8758544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_029/002_plain_text_0.95.png",
+    "text": "4.\nThe lengths of 40 leaves of a plant are measured correct to the nearest millimetre, and\nthe data obtained is represented in the following table :"
+}

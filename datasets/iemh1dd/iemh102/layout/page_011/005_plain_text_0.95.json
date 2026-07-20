@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9507414698600769,
+    "bbox": [
+        237.40858459472656,
+        1942.00439453125,
+        1793.4844970703125,
+        2048.79833984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/005_plain_text_0.95.png",
+    "text": "Note that x = number of GB of the internet data used and y = total\nmonthly cost in Rupees."
+}

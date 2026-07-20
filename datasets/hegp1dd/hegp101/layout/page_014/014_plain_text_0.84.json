@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.835378110408783,
+    "bbox": [
+        376.9102783203125,
+        1584.800048828125,
+        1666.246826171875,
+        1651.3028564453125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/014_plain_text_0.84.png",
+    "text": "We call 2 the cube root of 8 and denote this by 2 = 3/8."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9808239936828613,
+    "bbox": [
+        193.18441772460938,
+        2047.4930419921875,
+        1755.8109130859375,
+        2373.43017578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/000_plain_text_0.98.png",
+    "text": "We may\nthat for A to be a subset of B, all\nnote\nthat is needed is t\nthat every\nelement of A is in B. It is possible that every e\n element of B may or may not be in A. If\nit so happens that every e\nelement ofB is also in A, then we shall also have B cA. In this\ncase, A and B\nare the same sets so that we have A c\n B and B c A  A = B, where\n'\" is a symbol for two way i\nimplications, and is usually read as if and only if (briefly\nwritten as\n\"iff\")."
+}

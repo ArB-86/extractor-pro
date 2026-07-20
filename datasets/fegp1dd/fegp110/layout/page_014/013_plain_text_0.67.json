@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.6720746159553528,
+    "bbox": [
+        395.8163757324219,
+        1667.3804931640625,
+        1540.9984130859375,
+        1806.51220703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_014/013_plain_text_0.67.png",
+    "text": "From\n2 to 0, the\nmovement is 0-2 =-2.\na.\nb.\nFrom\nO to -3, the movement is -3-0=-3."
+}

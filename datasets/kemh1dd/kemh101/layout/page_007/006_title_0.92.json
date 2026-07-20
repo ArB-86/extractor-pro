@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.9216457009315491,
+    "bbox": [
+        195.36500549316406,
+        1692.3992919921875,
+        513.9918212890625,
+        1748.258056640625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/006_title_0.92.png",
+    "text": "E\n2\nets\nqual"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9671943187713623,
+    "bbox": [
+        420.83123779296875,
+        1150.8994140625,
+        1737.2867431640625,
+        1372.5426025390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_008/000_plain_text_0.97.png",
+    "text": "A\nrectangular\nchit of dimension\npaper\n6 cm\n4\ncm\niS\nshown\ninto\ntwo\npieces. T\ncut\nas\nequal\nThese\ntwo\npieces\njoined in\ndifferent ways.\nare"
+}

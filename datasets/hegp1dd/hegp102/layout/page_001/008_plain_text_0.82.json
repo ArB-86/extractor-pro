@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8216357231140137,
+    "bbox": [
+        299.2149963378906,
+        1508.8602294921875,
+        1518.5775146484375,
+        1573.1895751953125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_001/008_plain_text_0.82.png",
+    "text": "\uff1f\nHow many\ntimes can\nyou fold it over a\nand\nover?"
+}

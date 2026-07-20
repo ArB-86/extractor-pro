@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9606043100357056,
+    "bbox": [
+        191.01022338867188,
+        2013.5516357421875,
+        1753.152587890625,
+        2127.21484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/001_plain_text_0.96.png",
+    "text": "Solution : Let us apply the distance formula to find the distances PQ, QR and PR,\nwhere P(3, 2), Q(-2, -3) a\nand R(2, 3) are the given points. We have"
+}

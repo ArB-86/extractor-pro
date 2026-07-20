@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9731947779655457,
+    "bbox": [
+        240.79855346679688,
+        903.4069213867188,
+        1794.033935546875,
+        1068.2164306640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/001_plain_text_0.97.png",
+    "text": "For the initial 2 km, the fare is\ns 25. For\nevery\nkilometre\n(km)\nthereafter, the fare will increase\n by 15. Therefore, the total fare for a\ntravel of 10 km will be 25 + 15 x 8 = 145."
+}

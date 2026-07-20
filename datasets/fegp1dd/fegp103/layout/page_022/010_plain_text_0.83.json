@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8321653604507446,
+    "bbox": [
+        435.7144775390625,
+        2696.36181640625,
+        2188.27587890625,
+        2817.926025390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/010_plain_text_0.83.png",
+    "text": "No, the smallest number in a table can never be a supercell as the number in all the\nadjacent cells will be greater than it."
+}

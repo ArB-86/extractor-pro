@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7696787118911743,
+    "bbox": [
+        192.04356384277344,
+        1382.0677490234375,
+        1094.120849609375,
+        1439.0047607421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/013_plain_text_0.77.png",
+    "text": "Solution\nOA.OB\nOC .OD\n(Given)"
+}

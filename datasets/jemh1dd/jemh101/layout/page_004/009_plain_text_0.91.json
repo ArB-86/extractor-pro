@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9103591442108154,
+    "bbox": [
+        190.90065002441406,
+        1937.2972412109375,
+        1751.8177490234375,
+        2049.89599609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/009_plain_text_0.91.png",
+    "text": "Note that HCF(6, 20) = 2' = Product of the smallest power of each common\nprime factor in the numbers."
+}

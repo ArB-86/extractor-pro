@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9574394822120667,
+    "bbox": [
+        193.51602172851562,
+        1761.1959228515625,
+        1752.1033935546875,
+        1932.37548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/002_plain_text_0.96.png",
+    "text": "The two lines intersect at the point (1, 0). So, x = 1, y = O is the required solution\nof the pair of linear equations, i.e., the number of pants she purchased is 1 and she did\nnot buy any skirt."
+}

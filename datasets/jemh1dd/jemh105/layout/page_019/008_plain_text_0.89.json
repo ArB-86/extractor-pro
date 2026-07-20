@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8875132203102112,
+    "bbox": [
+        194.0012664794922,
+        1580.21240234375,
+        1122.8309326171875,
+        1631.1737060546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/008_plain_text_0.89.png",
+    "text": "So, it forms an AP\n with common\ndifference d = 2."
+}

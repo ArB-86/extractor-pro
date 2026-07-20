@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.5745871663093567,
+    "bbox": [
+        505.7265930175781,
+        2141.797607421875,
+        2049.0166015625,
+        2207.50537109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/013_plain_text_0.57.png",
+    "text": "e: Find the distance travelled by Usha if she takes three rounds o"
+}

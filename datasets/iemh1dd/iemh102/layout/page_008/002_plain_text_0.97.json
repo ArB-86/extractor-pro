@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9704748392105103,
+    "bbox": [
+        240.50140380859375,
+        735.9957275390625,
+        1795.4949951171875,
+        899.7591552734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/002_plain_text_0.97.png",
+    "text": "Example 8: An auto-rikshaw fare starts at 25 and remains the same\nfor the initial 2 km. Then it increases\nby ?15 per km. What will be the\nfare for a travel of 1o km?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9804388284683228,
+    "bbox": [
+        238.347900390625,
+        960.518798828125,
+        1280.7593994140625,
+        1458.66748046875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/000_plain_text_0.98.png",
+    "text": "For centuries, mathematicians believed that\nevery measurable length in the universe could\nbe\ne represented as a ratio of two integers.\nHowever,\nwhen\nBaudhayana\ncomposed\nhis Shulbasutra (a\n manual for constructing\ncomplex\ngeometric fire altars) in around 800\nBCE, he quickly encountered lengths that defied\nfractions. The ancient Greeks encountered the\nsame crisis a few centuries later."
+}

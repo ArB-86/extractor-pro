@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6734439134597778,
+    "bbox": [
+        345.20416259765625,
+        1432.712646484375,
+        1567.15869140625,
+        1603.4088134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_020/012_plain_text_0.67.png",
+    "text": "\u24602\n2,7, 12, ..., to 10 terms.\n(i)\n-37, -33, -29, ...,to 12 terms.\n1\n1\n1\n(ii)\n0.6, 1.7, 2.8, .. ., to 100 terms.\n(iv)\n. ., to 11 terms.\n15\n12\n10"
+}

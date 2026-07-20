@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.965124785900116,
+    "bbox": [
+        192.77792358398438,
+        397.62982177734375,
+        1754.0576171875,
+        509.5606689453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/000_plain_text_0.97.png",
+    "text": "some infinite set in the roster form by writing a few elements which clearly indicate the\nstructure of the set followed ( or preceded ) by three dots."
+}

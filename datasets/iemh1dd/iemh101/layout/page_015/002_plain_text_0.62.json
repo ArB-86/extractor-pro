@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.6216526627540588,
+    "bbox": [
+        325.4804382324219,
+        815.3611450195312,
+        1793.409912109375,
+        939.6558227539062
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_015/002_plain_text_0.62.png",
+    "text": "The distance between points\n(x,y) and (x2, y) is the absolute value\nand x2\u00b7"
+}

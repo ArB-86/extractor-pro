@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.6990858316421509,
+    "bbox": [
+        377.43194580078125,
+        1069.3802490234375,
+        1696.952392578125,
+        1198.2886962890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/006_plain_text_0.70.png",
+    "text": "(i)\nwhether any part of either circle lies outside the screen.\n(ii)\nwhether the two circles intersect each other."
+}

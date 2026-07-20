@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9577751159667969,
+    "bbox": [
+        420.5965881347656,
+        1786.0794677734375,
+        2208.31640625,
+        1929.27978515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_012/003_plain_text_0.96.png",
+    "text": "Can we use this to find out if this angle is greater than, or equal to\nor smaller than the angle made by the second crane?"
+}

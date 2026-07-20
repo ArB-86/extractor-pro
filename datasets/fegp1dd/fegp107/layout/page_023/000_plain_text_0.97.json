@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9730803966522217,
+    "bbox": [
+        289.05145263671875,
+        2227.37939453125,
+        2087.16015625,
+        2527.6748046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_023/000_plain_text_0.97.png",
+    "text": "4-5\n\u4e86?\nWhich\niS\nor\nIt\ncan\nbe\ndifficult\ngreater,\nto\ncompare\ntwo\nsuch\nfractions directly. However, we know how to find fractions equivalent\nto two\nfractions with the same\ndenominator. Let us see\nhowwe\ncan\nuse\nit:"
+}

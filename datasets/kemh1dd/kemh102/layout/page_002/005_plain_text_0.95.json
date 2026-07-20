@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9537109732627869,
+    "bbox": [
+        313.3417053222656,
+        2453.772705078125,
+        1754.7449951171875,
+        2563.639404296875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/005_plain_text_0.95.png",
+    "text": "Two ordered pairs are equal, if and only if the corresponding first elements\nare equal and the second elements are also equal."
+}

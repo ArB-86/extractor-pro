@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9310360550880432,
+    "bbox": [
+        293.3177795410156,
+        1076.7474365234375,
+        1075.602294921875,
+        1288.2979736328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/007_plain_text_0.93.png",
+    "text": "Step 2\n 2: Circle 2, and then cross\nmultiples of 2 after that,\nout all\ni.e.,\n4, 6, 8, a\nand\nSO\non."
+}

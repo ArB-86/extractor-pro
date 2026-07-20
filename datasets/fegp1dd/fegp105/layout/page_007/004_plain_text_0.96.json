@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9557847380638123,
+    "bbox": [
+        294.37774658203125,
+        570.8450317382812,
+        2086.2451171875,
+        715.4973754882812
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/004_plain_text_0.96.png",
+    "text": "How many prime numbers are t\nthere from 21 to 30? How many\ncomposite numbers are there from 21 to 30?"
+}

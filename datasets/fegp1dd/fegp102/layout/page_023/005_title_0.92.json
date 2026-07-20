@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "title",
+    "confidence": 0.9248567819595337,
+    "bbox": [
+        296.9025573730469,
+        399.3651428222656,
+        964.1224975585938,
+        472.1704406738281
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_023/005_title_0.92.png",
+    "text": "Unlabelledj\n protractor"
+}

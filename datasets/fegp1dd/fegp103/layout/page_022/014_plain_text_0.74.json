@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.7443243265151978,
+    "bbox": [
+        376.5954895019531,
+        1582.4534912109375,
+        2186.851318359375,
+        1707.479248046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/014_plain_text_0.74.png",
+    "text": "Do you notice any pattern? What is the method to fill a given table to get the\nmaximum number of supercells? Explore and share your strategy."
+}

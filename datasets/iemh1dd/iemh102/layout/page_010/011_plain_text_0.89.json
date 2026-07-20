@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8875452280044556,
+    "bbox": [
+        369.1895751953125,
+        2497.666748046875,
+        1502.125,
+        2561.533935546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/011_plain_text_0.89.png",
+    "text": "(i)\nFind the population of the village after 6 j\nyears."
+}

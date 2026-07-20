@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9645861387252808,
+    "bbox": [
+        192.33795166015625,
+        698.6124267578125,
+        1132.301513671875,
+        854.723876953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/000_plain_text_0.96.png",
+    "text": "We\nnote that V - B\nB\n- V.\nUsing\nthe set-\nbuilder\nnotation,\nrewrite the\ndefinition\nwe\ncan\nof\ndifference\nas"
+}

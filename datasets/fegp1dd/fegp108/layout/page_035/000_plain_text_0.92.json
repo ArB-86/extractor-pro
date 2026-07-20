@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.9213739633560181,
+    "bbox": [
+        296.36395263671875,
+        1339.1796875,
+        2172.58349609375,
+        1458.3009033203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_035/000_plain_text_0.92.png",
+    "text": "Q.1. Construct a rectangle in which one of the diagonals divides the opposite angles into\n50\u00b0and40\u00b0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.8930422067642212,
+    "bbox": [
+        421.5110168457031,
+        1456.5308837890625,
+        1208.9039306640625,
+        1542.10546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_020/005_title_0.89.png",
+    "text": "2.9 Measuring Angles"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9811603426933289,
+    "bbox": [
+        420.6796875,
+        393.58905029296875,
+        2212.6162109375,
+        917.83349609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_022/001_plain_text_0.98.png",
+    "text": "parts goes back to ancient times. The Rigveda, one of the very\n3601\noldest texts of humanity going back thousands of years, speaks of\na wheel with 360 spokes (Verse 1.164.48). Many ancient calendars,\nalso going back over 3oo0 years-such as calendars of India, Persia,\nBabylonia and Egypt\u2014were based on having 360 days in a year. In\naddition, Babylonian mathematicians frequently used divisions of 60\nand 360 due to their use of sexagesimal numbers and counting by 60s."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9570450782775879,
+    "bbox": [
+        194.21775817871094,
+        1045.197998046875,
+        1753.9552001953125,
+        1215.9169921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/001_plain_text_0.96.png",
+    "text": "Solution\nI We see that each member in the g\n given set has the numerator one less than\nthe denominator. Also, the numerator begin from 1 and do not exceed 6. Hence, in the\nset-builder form the given set is"
+}

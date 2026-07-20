@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.8831503391265869,
+    "bbox": [
+        392.89788818359375,
+        1729.62353515625,
+        1871.4136962890625,
+        1795.6043701171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_029/004_plain_text_0.88.png",
+    "text": "1. Add the following\nfractions using\nBrahmagupta's method:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "title",
+    "confidence": 0.9180035591125488,
+    "bbox": [
+        296.645263671875,
+        942.7089233398438,
+        811.9640502929688,
+        1014.9312744140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_019/002_title_0.92.png",
+    "text": "Cl:\nlassifying\nes"
+}

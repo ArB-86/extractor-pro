@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5879809856414795,
+    "bbox": [
+        316.3359069824219,
+        409.7288818359375,
+        1756.927978515625,
+        787.2069091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_014/010_plain_text_0.59.png",
+    "text": "1V\nMeena went to a bank to withdraw ? 2ooo. She asked the cashier to \ngiveher\n 50 and  100 notes only. Meena got 25 notes in all. Find how many notes of\n? 50 and  100 she received.\nA lending library has a fixed charge for the first three days and an additional charge\nfor each day thereafter. Saritha paid ? 27 for a book kept for seven days, while Susy\npaid  21 for the book she kept for five days. Find the fixed charge and the charge\nfor each extra day."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9696140289306641,
+    "bbox": [
+        453.971435546875,
+        486.5948486328125,
+        2089.097412109375,
+        669.2030639648438
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/000_plain_text_0.97.png",
+    "text": "Yes, if\ndivide the prime factors of a number into two\nfwecan\n groups, then the product of the prime factors in either group\nequal\ncombine to form the square root."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.925818681716919,
+    "bbox": [
+        292.4192810058594,
+        396.61334228515625,
+        2085.990966796875,
+        538.8197021484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/009_plain_text_0.93.png",
+    "text": "It is easy to find factors of small numbers. How do we find factors\nof a large number?"
+}

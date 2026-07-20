@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9411019086837769,
+    "bbox": [
+        213.37742614746094,
+        717.0514526367188,
+        1738.530517578125,
+        892.0728759765625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/003_plain_text_0.94.png",
+    "text": "Note All infinite sets cannot be described in the roster form. For example, the\nset of real numbers cannot be described in this form, because the elements of this\nset do not follow any particular pattern."
+}

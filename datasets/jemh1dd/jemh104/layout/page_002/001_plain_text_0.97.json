@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9708420038223267,
+    "bbox": [
+        193.1810302734375,
+        1021.9132080078125,
+        1753.4840087890625,
+        1240.511474609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/001_plain_text_0.97.png",
+    "text": "A quadratic equation in the variable x is an equation of the form ax\u00b2 + bx + c =0, where\na, b, c are real\nnumbers, a \u2260 0. For example, 2x\u00b2 +\n+ x - 300 = 0 is a quadratic equation.\nSimilarly, 2x\u00b2 - 3x + 1 = 0, 4x - 3x\u00b2 + 2 = 0\nand 1 - x\u00b2 + 300 = 0\nare\nalso quadratic\nequations."
+}

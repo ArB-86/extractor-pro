@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7721121907234192,
+    "bbox": [
+        424.6496887207031,
+        1845.3134765625,
+        2034.1282958984375,
+        1911.8284912109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_002/002_plain_text_0.77.png",
+    "text": "Try\nI answering the questions below and share your reasoning."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6461243629455566,
+    "bbox": [
+        192.13095092773438,
+        1975.3978271484375,
+        1252.6871337890625,
+        2031.839599609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/005_plain_text_0.65.png",
+    "text": "Squaring\ng on both sides, and rearranging, we\nget 3b2 = a\u00b2."
+}

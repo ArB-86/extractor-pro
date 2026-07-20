@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "plain_text",
+    "confidence": 0.837917149066925,
+    "bbox": [
+        305.6033630371094,
+        1792.4774169921875,
+        2185.874755859375,
+        1919.016357421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_036/002_plain_text_0.84.png",
+    "text": "In each case, the angles are the multiples of the smallest angle. You may wonder and\nask if this will always happen. What do you think?"
+}

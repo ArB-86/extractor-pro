@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9814170002937317,
+    "bbox": [
+        240.71340942382812,
+        970.6277465820312,
+        1797.050048828125,
+        1409.7237548828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_002/001_plain_text_0.98.png",
+    "text": "These concepts eventually r\nreached Europe in the 12th century. The\nfinalleap\noccurred when following the related work of Fermat (1636\nCE), Ren\u00e9 Descartes\nS (1637 CE)\nformalised the fact that any point in a\ntwo-dimensional\nplane could be defined by\nsimply\ntwo numbers-\nand more complex\nK geometric shapes could then be described precisely\nusing a\nalgebra and e\nequations, thus bringing\ng the areas of geometry and\nalgebra even closer together."
+}

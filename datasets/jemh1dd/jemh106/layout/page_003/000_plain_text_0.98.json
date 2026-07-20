@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.983600914478302,
+    "bbox": [
+        195.02737426757812,
+        397.03118896484375,
+        1752.07421875,
+        672.171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_003/000_plain_text_0.98.png",
+    "text": "What\ncan\nsay\nabout\nthe\ntwo\nquadrilaterals\nABCD\nand\nPQRS\nyou\n(see Fig 6.2)?Are they s\nsimilar? These\nfigures appear to be similar but we cannot be\ncertain about it.Therefore, we must have some definition of similarity of figures and\nbased on this definition some rules to decide whether the two given figures are similar\nOr not. For this, let us look at the photographs\ngiven in Fig. 6.3:"
+}

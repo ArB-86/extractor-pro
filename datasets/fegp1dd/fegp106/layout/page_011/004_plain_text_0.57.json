@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5691187381744385,
+    "bbox": [
+        403.6677551269531,
+        2725.605224609375,
+        2084.041748046875,
+        2930.3974609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_011/004_plain_text_0.57.png",
+    "text": "8.\nAre the perimeters of the square and the rectangle formed from\nthese 7 pieces different or the same? Give an explanation for your\nanswer."
+}

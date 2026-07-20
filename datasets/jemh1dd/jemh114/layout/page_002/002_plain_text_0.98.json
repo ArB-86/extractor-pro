@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.982658326625824,
+    "bbox": [
+        193.87869262695312,
+        1741.301513671875,
+        1754.408935546875,
+        2023.96240234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_002/002_plain_text_0.98.png",
+    "text": "In experiments where we are p\n prepared to make certain assumptions, the repetition\nof an experiment can\nn be avoided, as the assumptions help in directly calculating\ngthe\n(theoretical)\nprobability. The assumption of e\nequally 1\nlikely outcomes\nexact\n(which is\nvalid in many experiments, as in the two examples above, of a coin and of a die) is one\nsuch:\nassumption that leads us to the following\ndefinition of probability of an event."
+}

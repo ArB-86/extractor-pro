@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9105379581451416,
+    "bbox": [
+        194.55487060546875,
+        972.3890380859375,
+        1271.5748291015625,
+        1026.8697509765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_010/006_plain_text_0.91.png",
+    "text": "Using the definitions of the trigonometric ratios, we have :"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.7233413457870483,
+    "bbox": [
+        295.2691345214844,
+        2016.4007568359375,
+        1203.688232421875,
+        2079.75927734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_035/006_plain_text_0.72.png",
+    "text": "Q.1. Help\np her to figure out the following\n\u4e00"
+}

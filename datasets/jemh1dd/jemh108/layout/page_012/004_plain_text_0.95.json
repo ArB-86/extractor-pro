@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9534823298454285,
+    "bbox": [
+        192.11151123046875,
+        735.2838745117188,
+        1753.712158203125,
+        852.2796630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/004_plain_text_0.95.png",
+    "text": "This helps us to see how we can\ndefine the values of sin A and cos A when\nA = O\u00b0. We define : sin O\u00b0 = 0 \nand cos 0\u00b0 = 1."
+}

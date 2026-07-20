@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9810994267463684,
+    "bbox": [
+        193.03392028808594,
+        397.0577087402344,
+        1751.8297119140625,
+        670.398681640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_008/000_plain_text_0.98.png",
+    "text": "Note that O is the only\nzero of the polynomial x?. Also, from Fig. 2.7, you can see\nthat O is the x-coordinate of the only point where the\ngraph of y = x i\nintersects the\nx-axis. Similarly, since x - x\u00b2 = x\u00b2(x - 1), O and 1 are the only z\n zeroes of the polynomial\nx\u00b2 - x\u00b2. Also, from F\nFig. 2.8, these values are\nthe x-coordinates of the only points\nwhere\nthe\ngraph of y = x\u00b2 - x\u00b2 i\nintersects t\nthe x-axis."
+}

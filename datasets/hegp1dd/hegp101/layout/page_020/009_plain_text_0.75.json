@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7492064833641052,
+    "bbox": [
+        384.8736877441406,
+        2424.31298828125,
+        668.6332397460938,
+        2487.04736328125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/009_plain_text_0.75.png",
+    "text": "Ans.\n3\n168\n\u53e3"
+}

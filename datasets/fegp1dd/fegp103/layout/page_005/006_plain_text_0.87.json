@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8725332617759705,
+    "bbox": [
+        292.57855224609375,
+        506.3027038574219,
+        2084.425048828125,
+        582.3292846679688
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_005/006_plain_text_0.87.png",
+    "text": "The smallest number greater than 50,0o0 in the table is"
+}

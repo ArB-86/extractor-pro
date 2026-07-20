@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9534091949462891,
+    "bbox": [
+        192.6787109375,
+        1635.34814453125,
+        1751.9141845703125,
+        1750.40673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_025/001_plain_text_0.95.png",
+    "text": "Example 8 : The median of the following data is 525. Find the values of x and y, if the\ntotal frequency is 100."
+}

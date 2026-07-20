@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8475556969642639,
+    "bbox": [
+        402.1034851074219,
+        1543.759765625,
+        1566.735107421875,
+        1614.8150634765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_013/008_plain_text_0.85.png",
+    "text": "1.\nTake two\nand a paper\nclip.\npaper straws"
+}

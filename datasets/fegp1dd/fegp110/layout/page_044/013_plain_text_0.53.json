@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.5331559181213379,
+    "bbox": [
+        295.6486511230469,
+        691.5079345703125,
+        2158.41357421875,
+        757.4432373046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_044/013_plain_text_0.53.png",
+    "text": "Q. What do you press to go four floors up? What do you press to go three floors down?"
+}

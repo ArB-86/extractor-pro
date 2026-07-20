@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9800523519515991,
+    "bbox": [
+        417.7808532714844,
+        394.76776123046875,
+        2213.45751953125,
+        765.1657104492188
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_011/001_plain_text_0.98.png",
+    "text": "In the above example, we saw that + 2000-(-200) = + 2000 + (+ 200)\n2200. In other words, subtracting a negative number is the same\n=+\nadding\nas\nthe\ncorresponding\npositive\nnumber. T\nThat\niS,\nwe\ncan\nreplace subtraction of a negative number by addition of a positive\nnumber!"
+}

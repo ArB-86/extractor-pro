@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.949635922908783,
+    "bbox": [
+        293.6112060546875,
+        2709.6416015625,
+        2083.9619140625,
+        2855.2275390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_015/002_plain_text_0.95.png",
+    "text": "Let us consider a straight angle ZAOB. Observe\nthat any ray\nOC\ndivides it into two angles, ZAOC and ZCOB."
+}

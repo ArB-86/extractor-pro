@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9637905955314636,
+    "bbox": [
+        191.45138549804688,
+        395.681640625,
+        1752.93798828125,
+        506.2798156738281
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_010/001_plain_text_0.96.png",
+    "text": "So, the value of p(x) = 2x\u00b2 - 8x + 6 is zero when x - 1 = 0 or x - 3 = 0, i.e., when\nx = 1 or x = 3. So, the zeroes of 2x\u00b2 - 8x + 6 are 1 and 3. Observe that :"
+}

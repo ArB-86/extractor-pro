@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8961387872695923,
+    "bbox": [
+        310.6644592285156,
+        2371.69873046875,
+        1064.934326171875,
+        2619.15625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_003/007_plain_text_0.90.png",
+    "text": "\uff1f\nHow\nmuch\ntaller\nis\nthe\nKunchikal\nWaterfall\nthan\nSomu's\nbuilding?\nm."
+}

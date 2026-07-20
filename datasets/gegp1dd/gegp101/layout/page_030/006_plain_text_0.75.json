@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.753248929977417,
+    "bbox": [
+        369.1448669433594,
+        1705.2911376953125,
+        1253.42724609375,
+        1769.1378173828125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_030/006_plain_text_0.75.png",
+    "text": "3.\nCompare and\nwrite\n\u2018<\uff0c\u2018v\"\nor\n=\uff0c"
+}

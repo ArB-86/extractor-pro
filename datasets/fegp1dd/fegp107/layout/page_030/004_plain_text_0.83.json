@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8292128443717957,
+    "bbox": [
+        418.005126953125,
+        2816.501953125,
+        1792.293701171875,
+        2889.072998046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_030/004_plain_text_0.83.png",
+    "text": "Try doing this\ns same exercise using the?\ne number line."
+}

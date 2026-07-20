@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9711516499519348,
+    "bbox": [
+        189.1062774658203,
+        1019.3887329101562,
+        1068.3021240234375,
+        1263.145263671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_009/002_plain_text_0.97.png",
+    "text": "Similarly, on\nray\nAY,\nmark\npoints\nC\nC2\nC3,\nC\nand C s\nsuch\nthat AC,=\n=(\nC,C2\n\u4e00\nC2C3\nC3C\nCC. Then\nn join\nB,C,\n\u4e8c\n\u4e8c\nand BC\n(see Fig. 6.11)."
+}

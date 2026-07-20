@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6568962931632996,
+    "bbox": [
+        292.86383056640625,
+        839.2335815429688,
+        1491.9951171875,
+        1326.6746826171875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/009_plain_text_0.66.png",
+    "text": "Three daughters with curious eyes,\nEach got three baskets --a kingly prize.\nEach basket had three silver keys,\nEach opens three big rooms with ease.\nEach room had tables\u2014one, two, three,\nWith three bright necklaces on each, you see.\nEach necklace had three diamonds so fine...\nCan you count these stones that shine?"
+}

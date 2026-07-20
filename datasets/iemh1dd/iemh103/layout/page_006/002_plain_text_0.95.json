@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.950483500957489,
+    "bbox": [
+        274.0671691894531,
+        1186.4283447265625,
+        1793.3240966796875,
+        1417.2337646484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_006/002_plain_text_0.95.png",
+    "text": "2.\nA spice\ntrader takes a loan\n(debt) of 850. The\nnext\nday,\n, he makes\n(fortune)\nof 1,200. The\nfollowing\nprofit\nWeek, he\nincurs a\nloss\na\nof\n450. Write\nthis\nusing\nsequence\nequation\nintegers\nas\nand\ncalculate his f\nfinal f\nfinancial standing."
+}

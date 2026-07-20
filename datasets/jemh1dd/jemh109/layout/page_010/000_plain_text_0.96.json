@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9586714506149292,
+    "bbox": [
+        225.5318603515625,
+        1804.1746826171875,
+        944.3197021484375,
+        2356.907470703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_010/000_plain_text_0.96.png",
+    "text": "14. A 1.2 m tall girl spots a balloon moving\nwith the wind in a horizontal line at a\nheight of 88.2 m from the ground. The\nangle of elevation of the balloon from\nthe eyes of the girl at any instant is\n60\u00b0. After some time, the angle of\nelevation reduces to 30\u00b0 (see Fig. 9.13).\nFind the distance travelled by the\nballoon during the interval."
+}

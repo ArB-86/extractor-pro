@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9553626775741577,
+    "bbox": [
+        189.63815307617188,
+        1304.5460205078125,
+        1748.54541015625,
+        1465.67626953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_001/002_plain_text_0.96.png",
+    "text": "You have already studied about triangles, and in particular, right triangles, in your\nearlier classes. Let us take some examples from our surroundings where right triangles\ncan be imagined to be formed. For instance :"
+}

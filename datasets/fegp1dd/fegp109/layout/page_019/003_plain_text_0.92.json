@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9212192893028259,
+    "bbox": [
+        378.9474182128906,
+        2056.38671875,
+        2086.5166015625,
+        2196.740234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_019/003_plain_text_0.92.png",
+    "text": "2.\nWhich of the following\nfigures\nhave more\nthan one\nangle\neof\nsymmetry?"
+}

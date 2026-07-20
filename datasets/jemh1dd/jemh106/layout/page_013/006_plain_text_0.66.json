@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6567564010620117,
+    "bbox": [
+        244.52096557617188,
+        896.4779663085938,
+        1153.5860595703125,
+        1095.8560791015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/006_plain_text_0.66.png",
+    "text": "8.\nUsing\nTheorem\n6.2, prove\nthat the line joining\nthe\nmid-points of any two sides of a triangle is parallel\nto the third s\nside. (Recall\nthat\nyou\nhave\ndone it in\nClass\nIX)."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.8978660702705383,
+    "bbox": [
+        238.05104064941406,
+        2196.360595703125,
+        1635.4417724609375,
+        2319.10986328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/003_title_0.90.png",
+    "text": "3.2.1 Fr0m\nPhilosophy to Mathematics: The Concept of\nShunyata"
+}

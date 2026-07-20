@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7862294912338257,
+    "bbox": [
+        193.06483459472656,
+        2252.08837890625,
+        1126.0924072265625,
+        2371.248291015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_015/010_plain_text_0.79.png",
+    "text": "AB\nBC\nAB\nBC\nAC\nSimilarly,\nand so\n=\nDE\nEF\nDE\nEF\nDF"
+}

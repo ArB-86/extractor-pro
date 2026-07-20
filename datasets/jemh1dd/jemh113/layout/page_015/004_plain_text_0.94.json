@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9375794529914856,
+    "bbox": [
+        193.7998809814453,
+        781.841064453125,
+        1081.4847412109375,
+        835.9283447265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/004_plain_text_0.94.png",
+    "text": "Therefore, the mode of the data above is 3.286."
+}

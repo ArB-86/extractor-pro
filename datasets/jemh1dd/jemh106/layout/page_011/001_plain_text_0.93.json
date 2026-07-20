@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9291034936904907,
+    "bbox": [
+        192.4300994873047,
+        1781.1507568359375,
+        721.1607666015625,
+        1834.114501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/001_plain_text_0.93.png",
+    "text": "Therefore, f\nfrom\n(1)\nand\nd (2),"
+}

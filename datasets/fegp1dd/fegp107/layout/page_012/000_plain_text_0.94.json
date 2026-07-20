@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9448352456092834,
+    "bbox": [
+        472.46710205078125,
+        2243.115966796875,
+        2153.660888671875,
+        2442.644775390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_012/000_plain_text_0.94.png",
+    "text": "A mixed\nnumber or 1\nmixed f\nfraction\ncontains a whole\nnumber\n(called the whole part) a\nand a fraction that is less than 1 (called the\nfractional part)."
+}

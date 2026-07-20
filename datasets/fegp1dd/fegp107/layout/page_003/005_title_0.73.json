@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.7290270328521729,
+    "bbox": [
+        353.0958251953125,
+        709.0772094726562,
+        1083.5946044921875,
+        778.186279296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_003/005_title_0.73.png",
+    "text": "Knowledge from the\npast!"
+}

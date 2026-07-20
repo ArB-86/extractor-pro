@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "title",
+    "confidence": 0.6348097920417786,
+    "bbox": [
+        293.37847900390625,
+        299.39501953125,
+        1769.7423095703125,
+        362.11395263671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_021/009_title_0.63.png",
+    "text": "Q5. For this :\n group of 5 children, is the sequence\ne 1, 1, 1, 1, 1 possible?"
+}

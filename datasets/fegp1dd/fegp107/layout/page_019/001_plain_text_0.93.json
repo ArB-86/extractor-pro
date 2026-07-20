@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9326732754707336,
+    "bbox": [
+        291.1126403808594,
+        1502.54541015625,
+        2083.48779296875,
+        1650.030517578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_019/001_plain_text_0.93.png",
+    "text": "What about the following groups? In which group will each child\nget more?"
+}

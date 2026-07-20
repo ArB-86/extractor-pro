@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6083816885948181,
+    "bbox": [
+        528.8040771484375,
+        1917.345458984375,
+        2210.085205078125,
+        2051.467529296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_008/006_plain_text_0.61.png",
+    "text": "4.\nWhich sequence\ndo you\nget when\nn you start to add the counting\nnumbers up? Can you g\ngive a smaller pictorial explanation?"
+}

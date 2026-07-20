@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8280667662620544,
+    "bbox": [
+        189.306396484375,
+        862.8977661132812,
+        1744.7884521484375,
+        1081.2467041015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_012/007_plain_text_0.83.png",
+    "text": "Solution\nn : Let the ratio be k : 1. Then\nby t\nthe section\nformula, the coordinates of the\n-k+ 5\n-4k - 6\npoint which divides AB in the ratio k : 1\nare\nk+1\nk+1"
+}

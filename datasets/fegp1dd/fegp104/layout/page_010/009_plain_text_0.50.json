@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.501311719417572,
+    "bbox": [
+        283.7292785644531,
+        671.1396484375,
+        2092.048095703125,
+        2206.206787109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_010/009_plain_text_0.50.png",
+    "text": "Pictographs are a nice visual and suggestive way to represent\ndata. They represent data through pictures of objects.\nPictographs can help\nanswer questions and make inferences\nabout data with just a quick glance (in the examples above-\nabout favourite games, favourite colours, most common modes\nof conveyance, number of students absent, etc.).\nBy reading a pictograph, we can quickly understand the\nfrequencies of the different categories (for example, cricket,\nhockey, etc.) and the comparisons of these frequencies.\nIn a pictograph, the categories can be arranged horizontlly or\nvertically. For each category, simple pictures and symbols are\nthen drawn in the designated columns or rows according to the\nfrequency of that category.\nA scale or key (for example,\n) : 1 student or\n: 5 students)\nis added to show what each symbol or picture represents. Each\nsymbol or picture can represent one unit or multiple units.\n          \namount of data is large or when the frequencies are not exact\nmultiples of the scale or key."
+}

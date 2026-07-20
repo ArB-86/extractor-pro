@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9537220001220703,
+    "bbox": [
+        292.7871398925781,
+        395.1465759277344,
+        2087.702392578125,
+        610.3037109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_004/001_plain_text_0.95.png",
+    "text": "Shri Nilesh requested one of the staff members to bring the sweets as\ngiven in the table. The above table helped him to purchase the correct\nnumbers of sweets."
+}

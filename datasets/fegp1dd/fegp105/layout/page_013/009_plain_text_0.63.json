@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6305026412010193,
+    "bbox": [
+        293.1927795410156,
+        659.6813354492188,
+        952.4190673828125,
+        728.6681518554688
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_013/009_plain_text_0.63.png",
+    "text": "Does the\norder matter?"
+}

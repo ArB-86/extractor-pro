@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.68936687707901,
+    "bbox": [
+        219.53379821777344,
+        859.18310546875,
+        1456.3037109375,
+        966.8076782226562
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_001/004_title_0.69.png",
+    "text": "AREAS RELATED TO\nCIRCLES"
+}

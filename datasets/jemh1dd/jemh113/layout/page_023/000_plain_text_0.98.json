@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9755725860595703,
+    "bbox": [
+        189.53334045410156,
+        552.841064453125,
+        1755.423095703125,
+        1016.4954223632812
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_023/000_plain_text_0.98.png",
+    "text": "To find this class, we find the cumulative frequencies of all the classes and\n2\nWe now locate the class whose cumulative frequency is greater than (and nearest to)\nn\nThis is called the median class. In the distribution above, n = 53. So.\n=26.5.\n2\n2\nNow 60 - 70 is the class whose cumulative frequency 29 is greater than (and nearest\nn\nto)\ni.e.,26.5.\n2"
+}

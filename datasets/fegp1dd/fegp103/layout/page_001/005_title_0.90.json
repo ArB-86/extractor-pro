@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9029821753501892,
+    "bbox": [
+        296.3819885253906,
+        1825.7230224609375,
+        1432.543701171875,
+        1913.86767578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_001/005_title_0.90.png",
+    "text": "Things\n3.1 Numbers\nTell\ncan\nus"
+}

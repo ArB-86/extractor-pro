@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9578003287315369,
+    "bbox": [
+        463.33148193359375,
+        2573.830078125,
+        2165.86669921875,
+        2792.48779296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_028/000_plain_text_0.96.png",
+    "text": "It is\nimportant\nthat :\nstudents\nmake\ntheir\nown\nprotractor\nand\nuse\nit\nt to\ndifferent\nangles\nbefore\nusing\nthe standard\nmeasure\nprotractor\nSO\nthat\nthey\nknow \nthe concept behind t\nthe\ne marking\n of the standard\nprotractor."
+}

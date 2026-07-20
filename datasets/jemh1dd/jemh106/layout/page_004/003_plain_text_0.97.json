@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9731508493423462,
+    "bbox": [
+        193.34767150878906,
+        1324.9736328125,
+        946.5778198242188,
+        1654.146484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/003_plain_text_0.97.png",
+    "text": "Note that the\nquadrilateral A'B'C'D'\nis\nan enlargement\n(or magnification) of the\nquadrilateral ABCD. This is because\neof\nthe property of light that light propogates\nin a straight line. You may :\nalso note that\nA' lies on ray\nOA, B' lies on ray\nOB, C'"
+}

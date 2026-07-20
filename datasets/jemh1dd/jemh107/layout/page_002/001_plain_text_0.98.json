@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9818010330200195,
+    "bbox": [
+        192.7709503173828,
+        2275.017333984375,
+        1753.0255126953125,
+        2551.183349609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/001_plain_text_0.98.png",
+    "text": "In Fig. 7.3, the points P(4, 6)\nand Q(6, 8) lie in the first quadrant. How do we use\nPythagoras\ntheorem to find the distance\nbetween\nthem? Let us\ndraw\nPR\nand\n1QS\nperpendicular to the x-axis\nfrom P and Q\nrespectively. Also, draw a perpendicular\nfrom P on\nn QS to meet\nQS at T. Then the coordinates of R and S are\n(4, 0) a\nand (6, 0),\nrespectively. So, RS = 2 units. Also, QS = 8 units and TS = PR = 6 units."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.952173113822937,
+    "bbox": [
+        287.117431640625,
+        1699.698974609375,
+        1974.3287353515625,
+        1821.81787109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_004/003_plain_text_0.95.png",
+    "text": "2\nWhat patterns c\ndo you notice? Share\ne your observations and make\nconjectures."
+}

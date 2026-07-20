@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9278677105903625,
+    "bbox": [
+        420.2257995605469,
+        2117.604736328125,
+        842.5813598632812,
+        2182.615478515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_006/006_title_0.93.png",
+    "text": "Ink\nBlc\nlot\nD\nevils\nIS"
+}

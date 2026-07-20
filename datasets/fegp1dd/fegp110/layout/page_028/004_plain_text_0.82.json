@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8155831694602966,
+    "bbox": [
+        314.9835510253906,
+        1748.642578125,
+        2083.280517578125,
+        2039.1959228515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_028/004_plain_text_0.82.png",
+    "text": "The\nnumbers\n-4, -3, -2, -1, 0, 1, 2, 3, 4, ...\ncalled i\nintegers. The\n.\u00b7\u00b7\u00b7\nare\nnumbers\n1, 2, 3, 4, ... are c\ncalled\npositive i\nintegers\nand\nthe\nnumbers\n\u00b7\n-4,-3,-2,-1\nare called negative\nintegers. Zero\n0 (o) is neither\npositive\nnor negative."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9007551074028015,
+    "bbox": [
+        402.504638671875,
+        1344.5455322265625,
+        1857.5164794921875,
+        1418.7919921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_021/001_plain_text_0.90.png",
+    "text": "Draw a line perpendicular to BC at C to get the point D."
+}

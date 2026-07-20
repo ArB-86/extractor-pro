@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8268507719039917,
+    "bbox": [
+        340.7891845703125,
+        2774.7021484375,
+        2054.82470703125,
+        2840.826904296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_017/005_plain_text_0.83.png",
+    "text": "Fractions where the shares are equal are called \u2018equivalent fractions'"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8513892292976379,
+    "bbox": [
+        295.597412109375,
+        455.0308532714844,
+        2122.48974609375,
+        520.0859985351562
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_027/003_plain_text_0.85.png",
+    "text": "Ans.\n3 and 5, 5 and 7, 11 and 13, 17 and 19, 29 and 31, 41 and 43, 59 and 61, 71 and 73."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9721401333808899,
+    "bbox": [
+        295.08184814453125,
+        2413.822265625,
+        2085.65478515625,
+        2705.770751953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_033/003_plain_text_0.97.png",
+    "text": "The\nIndian\nmethods\ninvolving\nconcepts\nand\nfractions\nwere\ntransmitted to Europe \ne via the Arabs\nthe\nnext\nfew centuries\nover\nand\nthey\ninto\nuse\nin\nEurope\nin\nthe\n17th\ncentury\ncame\ngeneral\naround\nthen\nWorldwide.\nand\nspread"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9777661561965942,
+    "bbox": [
+        190.548583984375,
+        999.5875854492188,
+        1099.8228759765625,
+        1305.58056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_003/000_plain_text_0.98.png",
+    "text": "Consider the points\nP(6, 4) a\nand\nQ(-5, -3)\n(see Fig. 7.4). Draw\nQS\nperpendicular to the\nx-axis. Also draw a perpendicular PT f\nfrom the\npoint P on\n QS (\n(extended) to meet y-axis at the\npoint R."
+}

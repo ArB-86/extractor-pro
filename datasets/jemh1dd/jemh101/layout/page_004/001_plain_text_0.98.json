@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9754185080528259,
+    "bbox": [
+        191.6270294189453,
+        2212.71630859375,
+        1755.556396484375,
+        2435.91015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/001_plain_text_0.98.png",
+    "text": "From\nthe example above, you might have noticed that HCF(6, 20) x LCM(6, 20)\n:6\u00d7\n20. In f\nfact,\nverify\nthat\nfor\ntwo\npositive\nintegers a a\nand\nI b,\n\u4e8c\nwe\ncan\nany\nHCF (a, b) x LCM (a,b) =a xb. We can\nthis\nresult to find the LCM of two\nuse\npositive integers, if\nwe have already found the HCF of the two positive integers."
+}

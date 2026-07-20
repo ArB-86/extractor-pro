@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.976040780544281,
+    "bbox": [
+        193.599853515625,
+        1575.2884521484375,
+        1155.5474853515625,
+        1906.2025146484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/000_plain_text_0.98.png",
+    "text": "Solution : First let us\ndraw a simple diagram to\nthe\nproblem\n(see Fig. 9.4). Here AB\nrepresent t\nrepresents the tower,\nCB is the distance of the point\nfrom the tower and Z ACB is the angle of elevation.\nWe need to determine the height of the tower, i.e.,\nAB. Also, ACB is a triangle, right-angled at B."
+}

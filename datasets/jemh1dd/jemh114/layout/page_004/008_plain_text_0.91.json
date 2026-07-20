@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.914998471736908,
+    "bbox": [
+        192.19703674316406,
+        523.7520141601562,
+        1001.3598022460938,
+        576.5623168945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/008_plain_text_0.91.png",
+    "text": "Now, the\n number of\npossible outcomes\n=3."
+}

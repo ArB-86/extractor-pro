@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9528039693832397,
+    "bbox": [
+        191.4726104736328,
+        398.91925048828125,
+        1158.745361328125,
+        771.5414428710938
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/000_plain_text_0.95.png",
+    "text": "Example 7 : A solid toy\nis in the form of a\nhemisphere surmounted by a right circular cone. The\nheight of the cone is 2 cm and the diameter of the\nbase is 4 cm. Determine the volume of the toy. If a\nright circular cylinder circumscribes the toy, find the\ndifference of the volumes of the cylinder and the toy."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9660521745681763,
+    "bbox": [
+        420.78338623046875,
+        1674.270263671875,
+        2211.68310546875,
+        1892.273681640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_002/001_plain_text_0.97.png",
+    "text": "Wecansayt\n that the first four figures are symmetrical and the last one is\nnot symmetrical.A symmetry refers to a part or parts of a figure that\nare repeated in some definite pattern."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8035439848899841,
+    "bbox": [
+        458.9730224609375,
+        2277.069091796875,
+        2208.797607421875,
+        2416.727294921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_022/007_plain_text_0.80.png",
+    "text": "Two numbers that do not have a common factor other than 1 are said\nto be co-prime."
+}

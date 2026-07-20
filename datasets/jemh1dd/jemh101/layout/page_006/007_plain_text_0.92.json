@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9161508679389954,
+    "bbox": [
+        193.80824279785156,
+        2512.084228515625,
+        1293.025634765625,
+        2569.301025390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/007_plain_text_0.92.png",
+    "text": "Proof : Let us assume, to the contrary,\n\u221a2\nthat\nis rational."
+}

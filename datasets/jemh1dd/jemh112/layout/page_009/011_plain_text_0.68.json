@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6810713410377502,
+    "bbox": [
+        191.8750457763672,
+        1073.1956787109375,
+        973.9808959960938,
+        1176.3814697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/011_plain_text_0.68.png",
+    "text": "2\n1\nSo,\nvolume\neof the toy:\n+\n\u4e8c\n3\n3"
+}

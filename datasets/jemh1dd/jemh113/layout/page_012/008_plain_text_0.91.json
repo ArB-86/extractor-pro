@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9114269614219666,
+    "bbox": [
+        385.78900146484375,
+        2488.160400390625,
+        1159.655517578125,
+        2538.8798828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_012/008_plain_text_0.91.png",
+    "text": "Find the\ne mean concentration of SO\nin the air."
+}

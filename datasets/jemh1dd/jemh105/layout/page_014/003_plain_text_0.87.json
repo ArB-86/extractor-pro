@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8717244863510132,
+    "bbox": [
+        245.79196166992188,
+        1430.490966796875,
+        1077.702392578125,
+        1481.2381591796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/003_plain_text_0.87.png",
+    "text": "4.\nWhich term of the AP : 3, 8, 13, 18, . . . ,is\n78?"
+}

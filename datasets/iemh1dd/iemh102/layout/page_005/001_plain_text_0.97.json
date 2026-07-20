@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9743009209632874,
+    "bbox": [
+        267.67498779296875,
+        2271.916748046875,
+        1764.0162353515625,
+        2596.4228515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_005/001_plain_text_0.97.png",
+    "text": "We\nhave\nlearnt\nthat\nt to\nevaluate\nthe\nvalue\nof\nan\nalgebraic\nexpression,\nsubstitute\ne a value of t\nthe\ne in the\nwe\nevariable\ngiven\nexpression. Consider\nExample\ne 3, where\nthe\nwire is bent to f\nform a rectangle. Here, t\nthe\narea\nof the\n rectangle, 10x - x\u2019, is a function of x. Can\ninterpret\nthis as\nyou\nan\ninput-output\nprocess?\nWhat\nvalue\ndoes\nthe\nexpression\ntake\nwhen\nx = 6 cm?"
+}

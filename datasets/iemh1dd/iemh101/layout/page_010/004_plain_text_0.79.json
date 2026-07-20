@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7915517091751099,
+    "bbox": [
+        413.2260437011719,
+        1578.1827392578125,
+        1751.6463623046875,
+        1640.011474609375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_010/004_plain_text_0.79.png",
+    "text": "neral, the distance between the points \n(xp,y) a\nand (x, y) is given b"
+}

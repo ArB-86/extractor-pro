@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8312712907791138,
+    "bbox": [
+        362.7738952636719,
+        1472.21630859375,
+        2069.195068359375,
+        1622.661376953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_015/001_plain_text_0.83.png",
+    "text": "Area of rectangle ABCD\nSo, the area of triangle BAD is half of the area of the rectangle ABCD."
+}

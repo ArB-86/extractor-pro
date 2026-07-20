@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9564229846000671,
+    "bbox": [
+        194.59759521484375,
+        1089.110107421875,
+        1753.6190185546875,
+        1196.2503662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/002_plain_text_0.96.png",
+    "text": "If in Step 2, we obtain a false statement involving\ng no variable, then the original\npair of equations has no solution, i.e., it is inconsistent."
+}

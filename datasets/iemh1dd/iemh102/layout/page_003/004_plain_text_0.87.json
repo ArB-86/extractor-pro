@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8677905201911926,
+    "bbox": [
+        353.5993957519531,
+        2021.5733642578125,
+        723.7886962890625,
+        2262.427734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_003/004_plain_text_0.87.png",
+    "text": "(i)\n2x\u00b2 - 5x + 3\n(ii)\ny3 + \n2y -1\n(iii)\n-9\n(iv)\n4z - 3"
+}

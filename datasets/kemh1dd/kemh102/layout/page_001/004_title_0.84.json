@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.8382003903388977,
+    "bbox": [
+        194.4678192138672,
+        1858.03125,
+        843.3419189453125,
+        1912.4315185546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/004_title_0.84.png",
+    "text": "2.2\nCartesian\nProducts of Sets"
+}

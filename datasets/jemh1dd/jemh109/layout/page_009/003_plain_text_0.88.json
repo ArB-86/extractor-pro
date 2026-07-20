@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8788346648216248,
+    "bbox": [
+        245.6190185546875,
+        1287.348388671875,
+        1158.87158203125,
+        1584.0604248046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_009/003_plain_text_0.88.png",
+    "text": "2. A tree\nbreaks due to storm and the broken\npart\nbends so that the top of the tree touches the ground\nmaking an angle 30\u00b0 with it. The distance between\nthe foot of the tree to the point where the top\ntouches the \nground is 8 m. Find the height of\nthe tree."
+}

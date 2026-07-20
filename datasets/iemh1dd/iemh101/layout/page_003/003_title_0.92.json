@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9188513159751892,
+    "bbox": [
+        240.9059600830078,
+        1788.885986328125,
+        1417.487060546875,
+        1852.875732421875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_003/003_title_0.92.png",
+    "text": "1.3\nTHE\n2-D\nCARTESIAN\nCOORDINATE\nSYSTEM"
+}

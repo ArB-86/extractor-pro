@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9381619691848755,
+    "bbox": [
+        196.08831787109375,
+        1746.2027587890625,
+        939.145263671875,
+        1797.2869873046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_003/002_plain_text_0.94.png",
+    "text": "Area of the corresponding\nmajor sector"
+}

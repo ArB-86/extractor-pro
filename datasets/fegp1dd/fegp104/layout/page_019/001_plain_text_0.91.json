@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9106959700584412,
+    "bbox": [
+        488.39117431640625,
+        1576.3817138671875,
+        2151.534912109375,
+        1649.5543212890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_019/001_plain_text_0.91.png",
+    "text": "Here is the bar graph that we obtain based on the above steps:"
+}

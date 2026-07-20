@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.554472804069519,
+    "bbox": [
+        243.5892791748047,
+        378.7247314453125,
+        1795.097900390625,
+        548.8966674804688
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/012_plain_text_0.55.png",
+    "text": "5\u3002\nWhat is the constant term of the polynomial 9x? + 5x2 - 8x -10?\nRecall that polynomials of degree 1 are called linear\npolynomials.\nIn this chapter, we shall study linear polynomials."
+}

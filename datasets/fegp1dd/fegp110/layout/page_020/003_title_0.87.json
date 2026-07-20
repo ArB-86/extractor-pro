@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.8671263456344604,
+    "bbox": [
+        975.1626586914062,
+        1633.5443115234375,
+        1402.2435302734375,
+        1695.3824462890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_020/003_title_0.87.png",
+    "text": "Tote\nT\ne\na\nS\nN\nC"
+}

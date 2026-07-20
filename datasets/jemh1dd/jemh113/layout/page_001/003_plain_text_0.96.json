@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9616533517837524,
+    "bbox": [
+        188.6708984375,
+        2404.121826171875,
+        1751.801513671875,
+        2512.4130859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_001/003_plain_text_0.96.png",
+    "text": "Recall that we can write this in short form by using the Greek letter Z (capital\nsigma) which means summation. That is,"
+}

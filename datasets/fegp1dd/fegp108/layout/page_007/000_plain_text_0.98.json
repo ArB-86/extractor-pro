@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9781734347343445,
+    "bbox": [
+        290.98516845703125,
+        1013.65283203125,
+        2089.229248046875,
+        1451.629638671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/000_plain_text_0.98.png",
+    "text": "See the rectangle in Fig. 8.4 and the name\ngiven to it: ABCD. This\ne can also be named in other Ways\u2014BCDA, CDAB, DABC,\nrectangle\nand BADc. So, can a rectangle be named using\nADCB, DCBA, CBAD a\nany combination of the labels around its corners? No! For example,\nit cannot be named ABDC or ACBD. Can you see what names are\nallowed and what names are not?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.8511776924133301,
+    "bbox": [
+        295.78643798828125,
+        1464.507568359375,
+        1121.083984375,
+        1525.0457763671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_040/001_plain_text_0.85.png",
+    "text": "Ans.\nUncountable\nnumber of fractions"
+}

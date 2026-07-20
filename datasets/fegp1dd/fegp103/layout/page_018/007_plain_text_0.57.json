@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.5672959089279175,
+    "bbox": [
+        503.4809875488281,
+        2030.8092041015625,
+        2209.732421875,
+        2246.61767578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_018/007_plain_text_0.57.png",
+    "text": "holidays\nincluding\n4.\nEstimate\nthe\nnumber\nof\nin\nyou\nget\na\nyear\nWeekends, festivals\nvacation. Then, try to get\nand\nan\nnumber\nexact\nhow\nclose\nestimate is.\nand\nsee\nyour"
+}

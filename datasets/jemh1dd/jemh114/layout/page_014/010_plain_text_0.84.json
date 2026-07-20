@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8416768908500671,
+    "bbox": [
+        301.3924865722656,
+        1459.0206298828125,
+        1752.1190185546875,
+        1510.79833984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/010_plain_text_0.84.png",
+    "text": "a prime number;\n(ii)\na number lying between 2 and 6;\n(ii)\nan odd number."
+}

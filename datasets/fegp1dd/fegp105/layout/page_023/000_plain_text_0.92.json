@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9176215529441833,
+    "bbox": [
+        296.1337585449219,
+        2149.739990234375,
+        2185.3701171875,
+        2273.340087890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_023/000_plain_text_0.92.png",
+    "text": "Q.4. Is this figure somehow related to the \u2018idli-vada'\ngame? Hint: Imagine playing\nthe\ngame till 30. Draw the figure if the game is played till 60."
+}

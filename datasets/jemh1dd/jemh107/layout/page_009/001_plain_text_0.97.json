@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9690903425216675,
+    "bbox": [
+        190.3658905029297,
+        396.2012939453125,
+        1752.2803955078125,
+        504.8617248535156
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/001_plain_text_0.97.png",
+    "text": "Draw AR, PS and BT\nperpendicular to the x-axis. Draw AQ and PC parallel to\nthe x-axis. Then, by the AA similarity criterion,"
+}

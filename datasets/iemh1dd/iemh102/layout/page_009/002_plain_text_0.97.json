@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9688483476638794,
+    "bbox": [
+        240.37010192871094,
+        1882.9974365234375,
+        1793.593505859375,
+        2053.232666015625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/002_plain_text_0.97.png",
+    "text": "In this e\nexample, as the value of d increases\n by one km, the value\nof the cost function\nC, increases\nby a fixed\namount of z60. This is an\nexample of linear\ngrowth."
+}

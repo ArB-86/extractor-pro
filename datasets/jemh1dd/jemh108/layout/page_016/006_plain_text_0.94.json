@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9354410767555237,
+    "bbox": [
+        292.8361511230469,
+        1089.8916015625,
+        1070.8109130859375,
+        1144.036865234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_016/006_plain_text_0.94.png",
+    "text": "Dividing\neach term of (1) by AC2,\nwe\nget"
+}

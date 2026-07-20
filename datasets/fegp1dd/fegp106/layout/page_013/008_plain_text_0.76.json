@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.763728141784668,
+    "bbox": [
+        402.14898681640625,
+        1977.5750732421875,
+        2085.437255859375,
+        2280.7197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_013/008_plain_text_0.76.png",
+    "text": "1.\nFind\nthe\n(in\nmetres)\nof the\nfloor\noutside of\nthe\narea\nsquare\ncorridor.\n2.\nFind\nthe\n(in\nmetres)\noccupied\nby your\narea\nsquare\nschool\nplayground."
+}

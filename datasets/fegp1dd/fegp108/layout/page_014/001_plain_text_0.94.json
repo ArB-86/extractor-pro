@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9431923031806946,
+    "bbox": [
+        522.4561157226562,
+        2599.837158203125,
+        2210.14990234375,
+        2897.13623046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_014/001_plain_text_0.94.png",
+    "text": "In\nfact,\ncould\nby\ndrawing\nproceed\nAF\nWithout\none\neven\nmeasuring\nits\nlength\nusing\ng a ruler. We\ncould\nthen\nconstruct\na\nline perpendicular to AF that is long\nenough to contain the other\nside. As, AB = AF, we need to somehow t\ntransfer the length of AF"
+}

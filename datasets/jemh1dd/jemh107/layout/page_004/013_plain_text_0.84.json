@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8413035869598389,
+    "bbox": [
+        190.21826171875,
+        705.1860961914062,
+        1194.11669921875,
+        909.8551025390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/013_plain_text_0.84.png",
+    "text": "=X2\nThen,\nOR\n=x1,\nOS\nSo,\nRS\n=x-x =\nPT.\nST = PR = y\u00b7\nAlso,\nSQ\n= y2\nSo,\nQT = y2- y\u00b7\nNow, applying\nthe Pythagoras\ntheorem in \u25b3 PTQ,\nweget"
+}

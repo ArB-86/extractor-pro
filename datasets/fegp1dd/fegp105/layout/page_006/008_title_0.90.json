@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.8958532810211182,
+    "bbox": [
+        423.7616271972656,
+        403.5198669433594,
+        1126.279541015625,
+        483.2716979980469
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/008_title_0.90.png",
+    "text": "5.2 Prime Numbers"
+}

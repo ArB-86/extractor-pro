@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9737523794174194,
+    "bbox": [
+        191.64920043945312,
+        927.3887329101562,
+        1342.06982421875,
+        1144.38037109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/001_plain_text_0.97.png",
+    "text": "A={\n{DL,N\nMP, KA},\n.where\nDL,\nMP, KA\nrepresent\nDelhi\nMadhya Pradesh\nand Karnataka, respectively\nand B = {01,02,\n03}representing codes for the licence plates of vehicles issued\nby\nDL, MP\nand KA ."
+}

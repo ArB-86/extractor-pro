@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9137163758277893,
+    "bbox": [
+        293.7016906738281,
+        906.5506591796875,
+        635.9443359375,
+        991.30712890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_005/004_title_0.91.png",
+    "text": "Angl\n2\ne"
+}

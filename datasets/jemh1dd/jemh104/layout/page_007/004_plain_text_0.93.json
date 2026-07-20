@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9340274333953857,
+    "bbox": [
+        245.90135192871094,
+        1189.253662109375,
+        1460.0848388671875,
+        1240.017822265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_007/004_plain_text_0.93.png",
+    "text": "1\u3002\nFind the roots of the following quadratic equations by factorisation:"
+}

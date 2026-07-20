@@ -1,0 +1,13 @@
+{
+    "page": 36,
+    "label": "title",
+    "confidence": 0.5559105277061462,
+    "bbox": [
+        294.451904296875,
+        300.33990478515625,
+        1553.45458984375,
+        361.58355712890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_036/005_title_0.56.png",
+    "text": "Q3. Give the order of rotational\nsymmetry for each figure:"
+}

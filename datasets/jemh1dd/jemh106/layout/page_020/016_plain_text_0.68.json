@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6849197745323181,
+    "bbox": [
+        189.74205017089844,
+        598.86474609375,
+        805.0811157226562,
+        718.74658203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/016_plain_text_0.68.png",
+    "text": "AB\nBC\nCA\nThat is,\n=\n\u4e00\nRQ\nQP\nPR"
+}

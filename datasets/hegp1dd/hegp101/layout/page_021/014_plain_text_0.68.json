@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6841765642166138,
+    "bbox": [
+        280.7152404785156,
+        864.5967407226562,
+        1666.8609619140625,
+        1010.6593627929688
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/014_plain_text_0.68.png",
+    "text": "?\nCan a cube end with exactly t\ntwo zeroes\n(00)? Explain.\nAns. No"
+}

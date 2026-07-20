@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.947044312953949,
+    "bbox": [
+        193.69183349609375,
+        1608.779052734375,
+        1753.34521484375,
+        1714.9559326171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/006_plain_text_0.95.png",
+    "text": "Solution : The given equation is of the form ax\u00b2 + bx + c = 0, where a = 2, b = - 4 and\nC = 3. Therefore, the discriminant"
+}

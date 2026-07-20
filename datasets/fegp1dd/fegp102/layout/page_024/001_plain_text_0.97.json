@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9664917588233948,
+    "bbox": [
+        420.8363952636719,
+        1544.724365234375,
+        2212.37744140625,
+        1763.0782470703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_024/001_plain_text_0.97.png",
+    "text": "There are two sets of numbers on the protractor: one increasing\nfrom right to left and the other increasing\nfrom left to right. Why\ndoes it include two sets of numbers?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "table",
+    "confidence": 0.9805687665939331,
+    "bbox": [
+        193.7677764892578,
+        1640.2724609375,
+        1748.593017578125,
+        2606.1787109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_002/000_table_0.98.png",
+    "text": "OCR(datasets/jemh1dd/jemh113/layout/page_002/000_table_0.98.png)"
+}

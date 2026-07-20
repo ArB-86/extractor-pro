@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9470006823539734,
+    "bbox": [
+        377.7492370605469,
+        1304.7138671875,
+        2090.5498046875,
+        1493.82080078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/000_plain_text_0.95.png",
+    "text": "Also, we\nfind\n. out whether a number is a p\nperfect square\nby\ncan\nsuccessively\nsubtracting\nodd\nnumbers.\nConsider\nthe\nnumber\n25,\nsuccessively subtract 1, 3, 5, ... until\nyou\n1 get or cross over\n0."
+}

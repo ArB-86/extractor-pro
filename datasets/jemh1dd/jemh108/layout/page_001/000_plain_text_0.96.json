@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.959762454032898,
+    "bbox": [
+        230.50209045410156,
+        1929.547607421875,
+        1003.8358764648438,
+        2526.090087890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_001/000_plain_text_0.96.png",
+    "text": "2. Suppose a girl is sitting on the balcony\nof her house located on the bank of a\nriver. She is looking down at a flower\npot placed on a stair of a temple situated\nnearby on the other bank of the river.\nA right triangle is imagined to be made\nin this situation as shown in Fig.8.2. If\nyou know the height at which the\nperson is sitting, can you find the width\nof the river?"
+}

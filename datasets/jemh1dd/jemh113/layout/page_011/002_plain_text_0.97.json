@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9712578058242798,
+    "bbox": [
+        250.45668029785156,
+        1354.916748046875,
+        1750.5416259765625,
+        1503.0135498046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/002_plain_text_0.97.png",
+    "text": "1. A survey was conducted by a group of students as a part of their environment awareness\nprogramme, in which they collected the following data regarding the number of plants in"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.8951326608657837,
+    "bbox": [
+        297.42388916015625,
+        549.8870239257812,
+        579.427734375,
+        734.4298095703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_032/002_plain_text_0.90.png",
+    "text": "Page no. 194\nSection\n8.2\nFigure it out"
+}

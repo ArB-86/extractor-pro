@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.951644241809845,
+    "bbox": [
+        194.7944793701172,
+        1781.594482421875,
+        1750.965087890625,
+        1891.0892333984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/007_plain_text_0.95.png",
+    "text": "So, quadrilateral A'B'C'D'\nis similiar to quadrilateral ABCD. We can also say\nthat quadrilateral ABCD is similar to the quadrilateral A'B'C'D'."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9247540831565857,
+    "bbox": [
+        291.8607177734375,
+        1677.0157470703125,
+        2084.20751953125,
+        1823.0599365234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_019/003_plain_text_0.92.png",
+    "text": "1  chikki divided between\n 2 children or 4 chikkis divided\namong\n7 children."
+}

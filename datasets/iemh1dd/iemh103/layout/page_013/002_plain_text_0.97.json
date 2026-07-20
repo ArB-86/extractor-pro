@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9651914238929749,
+    "bbox": [
+        238.74212646484375,
+        2051.478759765625,
+        1795.417724609375,
+        2221.264404296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/002_plain_text_0.97.png",
+    "text": "As you learned in Grade 8, the answer\nis a resounding\nNO!We\nWill\n soon again see why! Numbers on the number line that cannot be\nexpressed as a ratio of integers are called Irrational Numbers."
+}

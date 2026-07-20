@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8666521906852722,
+    "bbox": [
+        376.7454528808594,
+        286.89105224609375,
+        2094.08056640625,
+        526.4862060546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/011_plain_text_0.87.png",
+    "text": "n\u00d7n\u00d7n=n\u00b2(\n(read as n cubed\u2019 or 'n raised to the power 3\u2019)\nn\u00d7n\u00d7n\u00d7n=n(\n(read as 'n raised to the power 4' or the 4th power of n')\nmod au oi pasteu u, se peah) ,u = u \u00d7 u \u00d7 u x u x u x u x u\nr7'(\nor \u2018the 7th\npower of n')\nand so on."
+}

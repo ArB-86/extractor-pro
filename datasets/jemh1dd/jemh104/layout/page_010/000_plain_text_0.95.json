@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9476528763771057,
+    "bbox": [
+        244.97113037109375,
+        480.45941162109375,
+        1751.5115966796875,
+        579.0838012695312
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/000_plain_text_0.95.png",
+    "text": "1. Find the nature of the roots of the following quadratic equations. If the real roots exist,\nfind them:"
+}

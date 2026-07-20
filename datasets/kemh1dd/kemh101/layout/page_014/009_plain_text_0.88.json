@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8847270607948303,
+    "bbox": [
+        289.4007873535156,
+        2088.126953125,
+        1118.0189208984375,
+        2140.93310546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/009_plain_text_0.88.png",
+    "text": "The shaded portion in Fig\ng 1.4 represents AU B."
+}

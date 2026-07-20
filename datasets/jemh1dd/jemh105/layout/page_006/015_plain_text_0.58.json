@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5808340907096863,
+    "bbox": [
+        194.0137481689453,
+        2080.3046875,
+        934.6650390625,
+        2137.140869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/015_plain_text_0.58.png",
+    "text": "i.e., ak+1\n-ak\niS\nthe same every\ntime."
+}

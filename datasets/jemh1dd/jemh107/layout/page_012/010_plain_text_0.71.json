@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7120736837387085,
+    "bbox": [
+        284.3253173828125,
+        1116.1116943359375,
+        1618.971923828125,
+        1171.58447265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_012/010_plain_text_0.71.png",
+    "text": "point lies on the y-axis, and we know that on the y-axis the abscissa is 0"
+}

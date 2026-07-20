@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.7326512336730957,
+    "bbox": [
+        487.451416015625,
+        1888.55126953125,
+        1726.624267578125,
+        1946.9580078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_018/010_plain_text_0.73.png",
+    "text": "1\nthe first 1000 positive integers\n(ii)\nthe first n positive integers"
+}

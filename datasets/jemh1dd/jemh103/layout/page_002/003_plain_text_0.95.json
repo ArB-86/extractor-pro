@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9544842839241028,
+    "bbox": [
+        194.95297241210938,
+        1381.48876953125,
+        1753.5218505859375,
+        1492.8485107421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/003_plain_text_0.95.png",
+    "text": "We can now summarise the behaviour of lines representing a pair of linear equations\nin two variables and the existence of solutions as follows:"
+}

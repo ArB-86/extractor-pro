@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8142581582069397,
+    "bbox": [
+        504.6277770996094,
+        1264.2801513671875,
+        2035.0980224609375,
+        1559.620361328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_010/009_plain_text_0.81.png",
+    "text": "1.\nSometimes\nthe\nfirst\nmultiple\ncommon\nthe\nwas\nsame\nthe\nproduct of the\netwo\nnumbers.\nas\n2.\nAt\nother\ntimes\nthe\nfirst\nmultiple\nless\ncommon\nwas\nthan\nthe\nproduct of the\ne two\nnumbers."
+}

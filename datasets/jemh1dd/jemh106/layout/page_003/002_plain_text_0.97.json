@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9681306481361389,
+    "bbox": [
+        195.8223876953125,
+        1360.78271484375,
+        1754.1134033203125,
+        1578.3309326171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_003/002_plain_text_0.97.png",
+    "text": "What\ncan\nabout\nthe\ntwo\nphotographs\ns of \nthe\nsize\neof\nthe\nyou\nsay\nsame\nsame\nthe\n age of 10\nyears\nand i\nthe other at\none at\nthe\ne age of 40\nyears? Are\nthese\nperson\nphotographs\nsimilar? These\nphotographs\nare of the\nsize\nbut certainly\nsame\nthey\nare\nnot of the same shape. So, they\nare not similar."
+}

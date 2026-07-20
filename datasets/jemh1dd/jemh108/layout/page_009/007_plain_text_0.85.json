@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8482688069343567,
+    "bbox": [
+        244.94496154785156,
+        679.7811889648438,
+        817.2831420898438,
+        731.106689453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/007_plain_text_0.85.png",
+    "text": "2.\nIn Fig. 8.13, find tan P - cot R."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8672663569450378,
+    "bbox": [
+        376.76239013671875,
+        1802.713134765625,
+        1103.04296875,
+        1960.4940185546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_015/004_plain_text_0.87.png",
+    "text": "identical\ntwo\nsquares;\nthree\nidentical\nsquares."
+}

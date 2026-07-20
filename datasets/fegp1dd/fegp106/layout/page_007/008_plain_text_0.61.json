@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.6122100949287415,
+    "bbox": [
+        290.9682312011719,
+        2300.08642578125,
+        1494.8519287109375,
+        2758.71533203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_007/008_plain_text_0.61.png",
+    "text": "Using\nthis understanding,\nfind the\nwe cani\nperimeter of an equilateral triangle.\nPerimeter of an equilateral triangle\n= AB + BC + AC = AB + AB + AB\n= 3 times length of one side.\nPerimeter of an equilateral triangle = 3 x leng"
+}

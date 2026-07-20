@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9423878788948059,
+    "bbox": [
+        192.25657653808594,
+        2062.079345703125,
+        1750.5682373046875,
+        2172.739501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/005_plain_text_0.94.png",
+    "text": "But,t\nthis is the same asl\nEquation (1). Hence the lines represented by Equations\n(1\uff09\nand (2)\n are coincident. Therefore, Equations (1) and (2) have infinitely many solutions."
+}

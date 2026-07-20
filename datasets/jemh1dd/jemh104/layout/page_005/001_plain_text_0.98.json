@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9765010476112366,
+    "bbox": [
+        193.29823303222656,
+        892.6671752929688,
+        1753.7581787109375,
+        1111.9443359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/001_plain_text_0.98.png",
+    "text": "Consider\nthe quadratic equation\n2x\u00b2 - 3x + 1 = 0. If\nwe\nreplace x\nby\non\nthe\nLHS of this\nequation, we\nget (2 \u00d7 12) - (3 \u00d7 1) + 1 = 0 = RHS of the equation.\nWe say that 1 is a root of the quadratic equation 2x2 - 3x + 1 = 0. This also means\nthat\n1 is a zero of the quadratic polynomial 2x\u00b2 - 3x + 1."
+}

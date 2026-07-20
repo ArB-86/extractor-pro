@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5012245178222656,
+    "bbox": [
+        224.9741668701172,
+        695.2666015625,
+        1752.15673828125,
+        800.0441284179688
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/012_plain_text_0.50.png",
+    "text": "20. Ramkali saved ? 5 in the first week of a year and then increased her weekly savings by\n 1.75. If in the nth week, her weekly savings become ? 20.75, find n."
+}

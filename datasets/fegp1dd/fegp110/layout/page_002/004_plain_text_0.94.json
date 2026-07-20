@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9370130896568298,
+    "bbox": [
+        290.1776123046875,
+        2649.907470703125,
+        1427.141845703125,
+        2796.159912109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/004_plain_text_0.94.png",
+    "text": " What do\nfour\nfloors up?\nyou\npress\n to\ngo\nWhat do\nthree\nfloors\ndown?\nyou\npress to\ngo"
+}

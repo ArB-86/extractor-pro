@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7728878855705261,
+    "bbox": [
+        281.47772216796875,
+        2178.152587890625,
+        1115.8802490234375,
+        2277.3369140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/005_plain_text_0.77.png",
+    "text": "Area of a sector of angle p (in degrees) of a circle\nwith radius R is"
+}

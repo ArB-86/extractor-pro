@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8368209600448608,
+    "bbox": [
+        366.0727844238281,
+        1247.9490966796875,
+        1709.040283203125,
+        1317.7164306640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_025/006_plain_text_0.84.png",
+    "text": "With what strategy\nplay to win this\ncan one\ngame?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.8445765376091003,
+    "bbox": [
+        436.9903564453125,
+        1826.436767578125,
+        2153.790771484375,
+        1960.9481201171875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_034/003_plain_text_0.84.png",
+    "text": "(a)If a single sheet of paper weighs 5 grams, could you lift one lakh\nsheets of paper together at the same time?"
+}

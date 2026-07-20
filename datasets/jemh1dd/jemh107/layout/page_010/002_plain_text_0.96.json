@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9587090015411377,
+    "bbox": [
+        191.01377868652344,
+        863.5558471679688,
+        1749.8665771484375,
+        973.9652709960938
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_010/002_plain_text_0.96.png",
+    "text": "Example 7 : In what ratio does the point (- 4, 6) divide the line segment joining \ngthe\npoints A(- 6, 10) and B(3, - 8)?"
+}

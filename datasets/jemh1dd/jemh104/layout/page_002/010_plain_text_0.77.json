@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.7718016505241394,
+    "bbox": [
+        293.4753723144531,
+        2362.320068359375,
+        1590.4171142578125,
+        2415.811767578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/010_plain_text_0.77.png",
+    "text": "The number of marbles left with John, when he lost 5 marbles = x - 5"
+}

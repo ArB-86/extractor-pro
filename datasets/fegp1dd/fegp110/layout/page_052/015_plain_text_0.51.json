@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.5121777057647705,
+    "bbox": [
+        296.7475891113281,
+        394.8489990234375,
+        585.0154418945312,
+        456.4589538574219
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_052/015_plain_text_0.51.png",
+    "text": "age\n259"
+}

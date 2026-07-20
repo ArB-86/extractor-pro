@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9743409752845764,
+    "bbox": [
+        192.8129119873047,
+        395.6039123535156,
+        1753.8411865234375,
+        561.208251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/000_plain_text_0.97.png",
+    "text": "Note that to find d in the AP : 6, 3, 0, - 3, . . ., we have subtracted 6 from 3\nand not 3 from 6, i.e., we should subtract the kth term from the (k + 1) th term\neven if the (k + 1) th term is smaller."
+}

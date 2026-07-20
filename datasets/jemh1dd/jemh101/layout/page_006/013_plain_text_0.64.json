@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.6412830948829651,
+    "bbox": [
+        193.90036010742188,
+        1777.8045654296875,
+        1285.668701171875,
+        1842.4932861328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/013_plain_text_0.64.png",
+    "text": "Therefore, a\u00b2 = (PP2\n. . \u00b7 p)(P,P2\n=p\u00b2p\u00b2\n\u00b7\u00b7p)\n\u00b7p?\nn"
+}

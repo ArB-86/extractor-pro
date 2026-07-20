@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9038353562355042,
+    "bbox": [
+        531.0084228515625,
+        1871.0018310546875,
+        2210.557861328125,
+        2009.9541015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_021/002_plain_text_0.90.png",
+    "text": "3\u3002\nChinu listed the\n various means of transport that\ntpassed\nacross\nthe road in front of his house from 9 a.m. to 10 a.m.:"
+}

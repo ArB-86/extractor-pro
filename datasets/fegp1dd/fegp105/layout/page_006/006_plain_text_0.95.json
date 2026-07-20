@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9525133371353149,
+    "bbox": [
+        418.7952575683594,
+        526.6109619140625,
+        2212.061279296875,
+        743.2470092773438
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/006_plain_text_0.95.png",
+    "text": "Guna and Anshu want to pack figs (anjeer) that\ngrow in their farm.\nGuna wants to put 12 figs in each box and Anshu wants to put 7 figs\nin each box."
+}

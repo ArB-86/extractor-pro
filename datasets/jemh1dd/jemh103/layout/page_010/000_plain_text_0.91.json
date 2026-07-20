@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9141799807548523,
+    "bbox": [
+        192.66375732421875,
+        595.2869262695312,
+        1754.0601806640625,
+        701.87890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_010/000_plain_text_0.91.png",
+    "text": "Therefore, the equations do not have a common solution. So, the two rails will\nlnot\ncross each other."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9694613218307495,
+    "bbox": [
+        194.00677490234375,
+        2339.14794921875,
+        1154.3370361328125,
+        2504.239501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_001/001_plain_text_0.97.png",
+    "text": "Remark\n\uff1a\nWhen\nwe\nwrite\nsegment'\nand\nsector\nwill\nthe\nminor\nsegment'\nand\nthe\nwe\nmean\nminor\nrespectively,\nsector\nunless\nstated\notherwise."
+}

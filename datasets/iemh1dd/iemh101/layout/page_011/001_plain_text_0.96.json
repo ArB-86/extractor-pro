@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9609239101409912,
+    "bbox": [
+        237.2750701904297,
+        307.623046875,
+        1796.20458984375,
+        419.0594177246094
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_011/001_plain_text_0.96.png",
+    "text": "It makes no difference whether\n((x-x)\nand\n(y2 -y1)\nare positive or\nnegative, as we are simply measuring the shifts along the two axes."
+}

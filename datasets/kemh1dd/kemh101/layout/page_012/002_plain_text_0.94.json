@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9429181218147278,
+    "bbox": [
+        193.14773559570312,
+        396.5739440917969,
+        1751.5533447265625,
+        506.047119140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/002_plain_text_0.94.png",
+    "text": "The number (b - a) is called the length of any of the intervals (a, b), [a, b],\n[a, b) Or (a, b]."
+}

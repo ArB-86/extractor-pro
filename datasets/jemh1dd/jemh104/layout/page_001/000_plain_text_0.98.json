@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9834167957305908,
+    "bbox": [
+        193.698974609375,
+        2123.2646484375,
+        1754.27001953125,
+        2566.81640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_001/000_plain_text_0.98.png",
+    "text": "Many people believe that Babylonians were the first to solve quadratic equations.\nFor instance, they knew how to find two positive numbers with a given positive sum\nand a given positive product, and this problem is equivalent to solving a quadratic\nequation of the form x\u00b2 - px + q = O. Greek mathematician Euclid developed a\ngeometrical approach for finding out lengths which, in our present day terminology,\nare solutions of quadratic equations. Solving of quadratic equations, in general form, is\noften credited to ancient Indian mathematicians. In fact, Brahmagupta (C.E.598-665)\ngave an explicit formula to solve a quadratic equation of the form ax\u00b2 + bx = c. Later,"
+}

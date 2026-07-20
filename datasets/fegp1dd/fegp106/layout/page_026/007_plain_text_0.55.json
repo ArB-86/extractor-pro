@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.5493927001953125,
+    "bbox": [
+        334.19476318359375,
+        1210.4219970703125,
+        2193.099365234375,
+        1722.986572265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_026/007_plain_text_0.55.png",
+    "text": "1. What is the smallest perimeter possible?\n2. What is the largest perimeter possible?\n3. Make a figure with a perimeter of 18 units.\n4. Can you make other shaped figures for each of the above three perimeters, or is\nthere only one shape with that perimeter?\nWhat is your reasoning?"
+}

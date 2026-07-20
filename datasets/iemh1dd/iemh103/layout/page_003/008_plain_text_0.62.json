@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6156947016716003,
+    "bbox": [
+        272.9936828613281,
+        884.3292846679688,
+        1796.724853515625,
+        1104.396728515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/008_plain_text_0.62.png",
+    "text": "3.\nWe know\nthat Natural Numbers are closed\nunder addition\n(the sum\nof\nany two\nnatural\nnumbers\n is always a natural\nnumber). Are\nthey\nclosed\nunder\nsubtraction? Provide a couple of\nexamples\n to\njustify\nyour\nanswer"
+}

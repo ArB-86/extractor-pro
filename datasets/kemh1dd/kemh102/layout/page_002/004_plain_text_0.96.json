@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9636741280555725,
+    "bbox": [
+        195.76683044433594,
+        1671.6229248046875,
+        1757.1817626953125,
+        1888.795654296875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/004_plain_text_0.96.png",
+    "text": "It can easily be seen\nthat there will be 9\nsuch\npairs\nin the Cartesian\nproduct, since\nthere are 3 elements\nin\neach of the sets Aa\nand B. This\ngives us\n9\npossible codes. Also\nnote that the order in which these\nelements are\ne paired is crucial. For example, the code\n(DL, 01)\nwill\nnot be the\nthe code\n(01, DL).\nsameas"
+}

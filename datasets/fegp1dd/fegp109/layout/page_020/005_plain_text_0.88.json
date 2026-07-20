@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8820845484733582,
+    "bbox": [
+        483.9879455566406,
+        2723.13916015625,
+        2146.30419921875,
+        2794.907470703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_020/005_plain_text_0.88.png",
+    "text": "Every\nfigure will have 360 degrees as an angle of symmetry."
+}

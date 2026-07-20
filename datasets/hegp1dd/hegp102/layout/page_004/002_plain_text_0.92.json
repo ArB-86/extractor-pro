@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9231113195419312,
+    "bbox": [
+        1634.0106201171875,
+        699.1056518554688,
+        2224.669677734375,
+        980.47216796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/002_plain_text_0.92.png",
+    "text": "54i\nis read\nas\n5\nraised to t\nthe power\n4'or\n5 to the\npower\n4' or\n5\npower\n4' or\n4th\npower\nof5'"
+}

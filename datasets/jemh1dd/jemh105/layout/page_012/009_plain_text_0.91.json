@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9138251543045044,
+    "bbox": [
+        192.7777557373047,
+        1082.638671875,
+        1012.8168334960938,
+        1133.4761962890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/009_plain_text_0.91.png",
+    "text": "i.e., the 11th term\nfrom\nthe last term i\nis - 32."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.5962682962417603,
+    "bbox": [
+        373.4217834472656,
+        2139.366943359375,
+        1708.064453125,
+        2190.88134765625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/012_plain_text_0.60.png",
+    "text": "A= { 1, 2, { 3, 4 }, 5 }. Which of the following statements are incorrect and wh"
+}

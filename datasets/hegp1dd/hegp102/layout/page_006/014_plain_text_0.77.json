@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.767708420753479,
+    "bbox": [
+        631.7749633789062,
+        1173.2725830078125,
+        1831.73193359375,
+        1241.124755859375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_006/014_plain_text_0.77.png",
+    "text": "na\u00d7 nb:\n= n\nq+D\nwhere a and b\nare counting\nnumbers."
+}

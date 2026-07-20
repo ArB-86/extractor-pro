@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.924971878528595,
+    "bbox": [
+        192.73663330078125,
+        967.52880859375,
+        1750.548583984375,
+        1077.198974609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_010/004_plain_text_0.92.png",
+    "text": "Solution : Here, the class size varies, and the x:s are large. Let us still a\napplythestep-\ndeviation method with a = 200 and h = 20. Then, we obtain the data as in Table 13.8."
+}

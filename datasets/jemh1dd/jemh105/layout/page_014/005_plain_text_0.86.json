@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8629149198532104,
+    "bbox": [
+        243.9407196044922,
+        395.5447082519531,
+        1238.719970703125,
+        445.6724548339844
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/005_plain_text_0.86.png",
+    "text": "2.\nChoose t\nthe correct choice in the following and justify :"
+}

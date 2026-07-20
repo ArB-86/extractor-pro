@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8823220133781433,
+    "bbox": [
+        355.1363830566406,
+        664.9911499023438,
+        2085.1826171875,
+        738.14208984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_035/003_plain_text_0.88.png",
+    "text": "This explains why there is only c\n one solution to the above problem."
+}

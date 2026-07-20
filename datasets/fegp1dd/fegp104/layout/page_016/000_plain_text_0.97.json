@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9661403298377991,
+    "bbox": [
+        290.08056640625,
+        1249.528076171875,
+        2085.876708984375,
+        1471.8070068359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_016/000_plain_text_0.97.png",
+    "text": "In a\nexample, Shri Nilesh\nprepared a frequency\nprevious\ntable\nrepresenting the sweet preferences of the students in his class. Let's\ntry to prepare a bar g\ngraph to present his data -"
+}

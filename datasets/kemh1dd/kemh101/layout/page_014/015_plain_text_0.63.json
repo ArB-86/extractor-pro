@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.63322913646698,
+    "bbox": [
+        288.0443420410156,
+        2405.9384765625,
+        1587.4224853515625,
+        2465.072998046875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/015_plain_text_0.63.png",
+    "text": "(ii)\nAU\u03a6=A\n(Law of identity element,\nt, \u03a6 is the identity of U)"
+}

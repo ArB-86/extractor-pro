@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8890349268913269,
+    "bbox": [
+        287.98712158203125,
+        2486.502197265625,
+        1749.708251953125,
+        2545.3271484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/009_plain_text_0.89.png",
+    "text": "(a)\nThe set of all natural numbers which divide 42 is {1, 2, 3, 6, 7, 14, 21, 42}."
+}

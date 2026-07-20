@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.960941731929779,
+    "bbox": [
+        193.1191864013672,
+        1794.91552734375,
+        1754.4071044921875,
+        2011.2198486328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/000_plain_text_0.96.png",
+    "text": "Consider the set of natural\nnumbers. We\nsee\nthat the\nnumber of elements of this\nset is not finite since\nthere a\ninfinite\n number of natural\nnumbers. We say 1\nthat the set\nare\nof natural\nnumbers\n1S\ninfinite set. The\nsets A, B\nand C\nan\ngiven\nabove a\nfinite sets\nare\nand n(A)\n= 5, n(B)\n=6\nand r\nn(C)\nsome\nfinite\nnumber."
+}

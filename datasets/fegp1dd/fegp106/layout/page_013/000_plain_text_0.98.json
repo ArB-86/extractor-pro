@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9774618744850159,
+    "bbox": [
+        291.6241760253906,
+        956.9255981445312,
+        1217.8831787109375,
+        1471.8243408203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_013/000_plain_text_0.98.png",
+    "text": "As you\ncan\nsee, circles\ncan't\nbe packed tightly without gaps in\nbetween.So,it is difficult to\nget\nan accurate measurement of area\nusing\ncircles as units. Here, the\nrectangle is packed in two\ndifferent\nways\nwith circles\u2014the"
+}

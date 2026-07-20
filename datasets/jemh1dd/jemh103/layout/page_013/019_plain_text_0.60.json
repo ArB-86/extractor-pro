@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6046290397644043,
+    "bbox": [
+        328.81201171875,
+        1580.9405517578125,
+        1663.7442626953125,
+        1636.8349609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/019_plain_text_0.60.png",
+    "text": "ation : Here 42 + 24 = 66 and 4 - 2 = 2. Also 24 + 42 = 66 and 4 - 2 ="
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9740217924118042,
+    "bbox": [
+        237.0216827392578,
+        2339.10302734375,
+        1797.5389404296875,
+        2567.119140625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/001_plain_text_0.97.png",
+    "text": "The examples\ngiven a\nabove\ne highlight a characteristic feature oflinear\npolynomials\ns\u2014that\nthe\ndifference\nbetween\nthe\nsuccessive\nvalues\nat\nintegers is constant. In Example 4, the perimeters \nincrease\ne by 2 cm each\nthe side of the square\ntime\nincreases\nby\n0.5\ncm. Similarly in Example 5,"
+}

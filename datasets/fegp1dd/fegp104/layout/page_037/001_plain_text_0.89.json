@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.8870221972465515,
+    "bbox": [
+        295.58795166015625,
+        2228.012451171875,
+        1565.4024658203125,
+        2291.360595703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_037/001_plain_text_0.89.png",
+    "text": "Q1. In Class 2,\nstudents were absent that day."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9842570424079895,
+    "bbox": [
+        192.62010192871094,
+        1325.2540283203125,
+        1755.0491943359375,
+        1654.019287109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/000_plain_text_0.98.png",
+    "text": "Now, let us take an example related to playing\ng cards. Have you seen a deck of\nplaying cards? It consists of 52 cards which are divided into 4 suits of 13 cards each.\nspades\n(), hearts\n(), diamonds\nand clubs\n(). Clubs and spades are of black\ncolour, while hearts and diamonds are of red colour. The cards in each suit are ace,\nking, queen, jack, 10, 9, 8, 7, 6, 5, 4, 3 and 2. Kings, queens and jacks are called face"
+}

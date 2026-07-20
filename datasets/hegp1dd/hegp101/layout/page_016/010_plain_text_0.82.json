@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8239107728004456,
+    "bbox": [
+        376.6856994628906,
+        1979.4578857421875,
+        1413.3541259765625,
+        2039.623291015625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_016/010_plain_text_0.82.png",
+    "text": "1.\nFind the cube roots of 27000\nand 10648."
+}

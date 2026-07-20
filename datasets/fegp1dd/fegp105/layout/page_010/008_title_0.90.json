@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.8966487646102905,
+    "bbox": [
+        420.87841796875,
+        1746.5421142578125,
+        791.5366821289062,
+        1815.27880859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_010/008_title_0.90.png",
+    "text": "C\nart\n0"
+}

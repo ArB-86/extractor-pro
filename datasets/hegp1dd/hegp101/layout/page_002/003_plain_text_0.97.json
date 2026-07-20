@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9651807546615601,
+    "bbox": [
+        377.6124267578125,
+        1916.6170654296875,
+        2088.543701171875,
+        2157.03955078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/003_plain_text_0.97.png",
+    "text": "For\ninstance, 36\nhas a :\nfactor\n6\n\u00d7\n6\nwhere\npair\nboth\nnumbers\nare\n6.\nDoes\nthis\nnumber\nhave\nodd\nnumber of factors? If\nevery\nfactor\nof 36\nean\nother\nthan\n6 has a\ndifferent\nfactor\nits\npartner, then\nbe sure\nas\nwe\ncan\nthat 36 has an c\nodd\nnumber of factors. Check if this is\ntrue."
+}

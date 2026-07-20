@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6209303140640259,
+    "bbox": [
+        291.2921447753906,
+        2421.77294921875,
+        2084.03271484375,
+        2778.914794921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_021/005_plain_text_0.62.png",
+    "text": "Shabnam: So, fractions equivalentto\n3-4\nand\n7\nwith the same fractional\n10\n30\n28\n15\n14\nunit\n(same\ndenominators)\nare\nand\nor\nand\n40\n40\n20\n20\ne clearly\n30\n28\nWe conclude that\n3\n7\nSince\n-4\n>\n40\n40\n10"
+}

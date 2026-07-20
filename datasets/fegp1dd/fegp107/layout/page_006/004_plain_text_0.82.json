@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8180596828460693,
+    "bbox": [
+        418.90777587890625,
+        2668.697265625,
+        1544.2169189453125,
+        2741.794921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_006/004_plain_text_0.82.png",
+    "text": "Do it once more! Fill in the blank boxes."
+}

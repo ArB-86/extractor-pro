@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9515283107757568,
+    "bbox": [
+        317.1113586425781,
+        2486.052978515625,
+        2087.804931640625,
+        2610.966064453125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_004/004_plain_text_0.95.png",
+    "text": "Write 5 numbers such that you can determine by looking at their units\ndigit that they are not squares."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8074944615364075,
+    "bbox": [
+        188.88357543945312,
+        1921.3828125,
+        1757.6600341796875,
+        2499.832275390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/010_plain_text_0.81.png",
+    "text": "Also, through the point D, draw a line parallel\nX\nto BC to intersect AC at E. Do you observe from\nFig. 6.9\nAD\n3\nyour constructions that\n- ? Measure AE and\nDB\n2\nAE\nAE\nEC. What about\n? Observe that\nis also equal to\n. Thus, you can see that\nEC\nEC\n2\nAD\nAE\nin \u25b3 ABC, DEIBC and\n. Is it a coincidence? No, it is due to the following\nDB\nEC\ntheorem (known as the Basic Proportionality Theorem):"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9568963646888733,
+    "bbox": [
+        193.40916442871094,
+        923.0671997070312,
+        1751.317626953125,
+        1031.453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/004_plain_text_0.96.png",
+    "text": "So, the probability of an event which is sure\n(or certain) to occur is 1. Such an event\nis called a sure event or a certain event."
+}

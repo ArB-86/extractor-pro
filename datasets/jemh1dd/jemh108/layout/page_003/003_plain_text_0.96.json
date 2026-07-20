@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9601671695709229,
+    "bbox": [
+        193.74636840820312,
+        1948.3328857421875,
+        1753.233642578125,
+        2111.5517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_003/003_plain_text_0.96.png",
+    "text": "The ratios defined above are abbreviated as sin A, cos A, tan A, cosec A, sec A\nand cot A respectively. Note that the ratios cosec A, sec A and cot A are respectively,\nthe reciprocals of the ratios sin A, cos A and tan A."
+}

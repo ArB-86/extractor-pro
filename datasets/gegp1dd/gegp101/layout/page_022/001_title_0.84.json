@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.8406665325164795,
+    "bbox": [
+        1006.1301879882812,
+        327.489501953125,
+        1462.211181640625,
+        406.33172607421875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_022/001_title_0.84.png",
+    "text": "A\nR"
+}

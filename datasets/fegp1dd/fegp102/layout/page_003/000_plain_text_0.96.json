@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9587877988815308,
+    "bbox": [
+        290.7388916015625,
+        535.9786376953125,
+        2088.537841796875,
+        758.1650390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_003/000_plain_text_0.96.png",
+    "text": "A ray is a portion of a line that starts at one point (called the starting\npoint or initial point of the ray) a\n and goes on endlessly in a direction.\nThefollowing\nare some models for a ray:"
+}

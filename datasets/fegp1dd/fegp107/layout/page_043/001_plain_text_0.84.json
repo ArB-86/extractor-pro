@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.8434525728225708,
+    "bbox": [
+        292.5586853027344,
+        1548.0765380859375,
+        1115.8143310546875,
+        2064.7802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_043/001_plain_text_0.84.png",
+    "text": "3\nAns.\nEach child gets\n- roti.\n4\n3\nDivision fact: 3 \u00f7 4 = \n4\n3\n3\n3\n3\nAddition fact: 3 = -\n+\n+\n+\n4\n4\n4\n4\n3\nMultiplication fact: 3 = 4 x\n\u4e00\n4"
+}

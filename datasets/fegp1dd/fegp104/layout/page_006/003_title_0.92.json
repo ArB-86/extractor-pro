@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "title",
+    "confidence": 0.9244486689567566,
+    "bbox": [
+        297.17828369140625,
+        1610.0169677734375,
+        859.2371215820312,
+        1697.9703369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_006/003_title_0.92.png",
+    "text": "Pictog\nographs"
+}

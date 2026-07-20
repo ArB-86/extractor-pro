@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8582740426063538,
+    "bbox": [
+        293.63372802734375,
+        1017.1126708984375,
+        2101.87744140625,
+        1142.800537109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/005_plain_text_0.86.png",
+    "text": "?\nCan you use this insight to find more numbers with an odd number of\nfactors?"
+}

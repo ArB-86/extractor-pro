@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.8472391366958618,
+    "bbox": [
+        418.5157775878906,
+        2185.01416015625,
+        2205.60546875,
+        2274.8173828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_014/003_title_0.85.png",
+    "text": "3.10An UnsolvedMystery\u2014the CollatzConjecture!"
+}

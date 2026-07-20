@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9369601607322693,
+    "bbox": [
+        193.3959197998047,
+        2339.84716796875,
+        1196.5458984375,
+        2394.109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/001_plain_text_0.94.png",
+    "text": "Solving\nthe pair of linear equations\n(1) a\nand (2),\nwe\nget"
+}

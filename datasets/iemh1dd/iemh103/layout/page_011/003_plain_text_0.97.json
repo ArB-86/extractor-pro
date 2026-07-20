@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9673493504524231,
+    "bbox": [
+        237.57699584960938,
+        2093.7890625,
+        1792.7281494140625,
+        2204.806884765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_011/003_plain_text_0.97.png",
+    "text": "The absolute value of a rational number x, written as\nx,represents\nits distance from O on the number line."
+}

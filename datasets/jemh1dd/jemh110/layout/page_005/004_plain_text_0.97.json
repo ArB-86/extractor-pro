@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9743992686271667,
+    "bbox": [
+        192.98703002929688,
+        1862.2757568359375,
+        1066.330322265625,
+        2034.330078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_005/004_plain_text_0.97.png",
+    "text": " In Fig. 10.6 (ii), T,\nand T\nare the points of\n2\ncontact\nof\nthe\ntangents\nPT\nand\nPT\n1\n2\nrespectively."
+}

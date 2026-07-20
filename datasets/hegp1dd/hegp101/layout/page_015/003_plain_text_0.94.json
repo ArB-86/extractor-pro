@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9424524307250977,
+    "bbox": [
+        378.57672119140625,
+        1027.657470703125,
+        2091.971435546875,
+        1151.9580078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_015/003_plain_text_0.94.png",
+    "text": "Observe that each prime factor of a number appears three times in\nthe prime factorisation of its cube."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6503140926361084,
+    "bbox": [
+        195.3289031982422,
+        1434.9698486328125,
+        1528.119140625,
+        1524.7369384765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_004/016_plain_text_0.65.png",
+    "text": "So, M is the mid-point of AB and  AOM = Z BOM\n\u00d7120\u00b0 = 60\u00b0\n\u4e00\n\u4e00\n2"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8196026086807251,
+    "bbox": [
+        444.2591247558594,
+        1997.1085205078125,
+        1939.018310546875,
+        2064.44921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_007/002_plain_text_0.82.png",
+    "text": "Fractional c\nquantities can be measured using fractional units."
+}

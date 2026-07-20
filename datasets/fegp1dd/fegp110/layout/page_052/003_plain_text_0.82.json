@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.8234904408454895,
+    "bbox": [
+        295.844482421875,
+        806.4102783203125,
+        1235.609375,
+        928.9761962890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_052/003_plain_text_0.82.png",
+    "text": "Q. What is your \n bank balance now?\nIs this possible?"
+}

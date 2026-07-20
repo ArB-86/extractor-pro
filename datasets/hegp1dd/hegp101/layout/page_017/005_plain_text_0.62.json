@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.6246512532234192,
+    "bbox": [
+        449.9415283203125,
+        1049.7279052734375,
+        2031.0655517578125,
+        1239.97314453125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_017/005_plain_text_0.62.png",
+    "text": "Square root is the inverse\noperation of square. Every perfect\nsquare has two i\nintegral square roots. The positive square root\nof a number is denoted by the symbol \u221a . For example, V9 =3."
+}

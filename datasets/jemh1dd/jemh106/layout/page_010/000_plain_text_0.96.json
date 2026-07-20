@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9639565348625183,
+    "bbox": [
+        191.16793823242188,
+        850.112548828125,
+        1155.03515625,
+        960.2896118164062
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_010/000_plain_text_0.96.png",
+    "text": "If DE\nis\nnot\nparallel to BC, c\ndraw\nline\nDE\na\nparallel to BC."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9742853045463562,
+    "bbox": [
+        190.8904571533203,
+        1746.1409912109375,
+        1756.531982421875,
+        2106.64501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_003/001_plain_text_0.97.png",
+    "text": "In\ngeneral, for a linear\npolynomial\nl ax + b, a \u2260 O, the graph of y = ax + b is a\ng-\nstraight line which intersects the x-axis at exactly\none point, namely,\nTherefore, the linear \npolynomial\nax + b, a \u2260 O, has exactly\none zero, namely, the\nx-coordinate of the point where the g\ngraph of y = ax + b intersects the x-axis."
+}

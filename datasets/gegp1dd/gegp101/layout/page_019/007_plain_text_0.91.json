@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9110039472579956,
+    "bbox": [
+        295.3846130371094,
+        2589.418701171875,
+        2088.666748046875,
+        2711.9443359375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_019/007_plain_text_0.91.png",
+    "text": "Think and create more such fun questions and share them with your\nclass."
+}

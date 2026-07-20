@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.940505862236023,
+    "bbox": [
+        294.97247314453125,
+        396.7764587402344,
+        1750.069580078125,
+        503.9232482910156
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/008_plain_text_0.94.png",
+    "text": "In the example above, we eliminated y. We could also have eliminated x. Try\ndoing it that way."
+}

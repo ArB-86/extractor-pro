@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8896180391311646,
+    "bbox": [
+        280.52459716796875,
+        835.2998657226562,
+        1601.78955078125,
+        895.2691650390625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_006/005_plain_text_0.89.png",
+    "text": "2.\nFind the value of the quadratic polynomial 7s2 - 4s + 6 if:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9453330039978027,
+    "bbox": [
+        189.4766082763672,
+        1977.423828125,
+        1750.0662841796875,
+        2086.78515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/007_plain_text_0.95.png",
+    "text": "However, there is one more relationship here. Consider the sum of the products\nof the zeroes taken two at a time. We have"
+}

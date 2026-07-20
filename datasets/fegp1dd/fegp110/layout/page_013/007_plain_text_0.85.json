@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8525405526161194,
+    "bbox": [
+        496.7828369140625,
+        2014.0001220703125,
+        1593.1549072265625,
+        2083.7705078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_013/007_plain_text_0.85.png",
+    "text": "We then can \n1 visualise that 85\n+\n(-60) = 25"
+}

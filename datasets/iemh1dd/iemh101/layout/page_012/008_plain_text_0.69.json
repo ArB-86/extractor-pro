@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6928004622459412,
+    "bbox": [
+        286.04388427734375,
+        1899.7696533203125,
+        1796.73193359375,
+        2076.96923828125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/008_plain_text_0.69.png",
+    "text": "*7.\nUse\nmethod\n(from\nProblem\n6)\n\uff09to check if the\nyour\npoints\nR (-5, -1), B (-2,-5) a\nand C (4, -12)\nare on the same straight line.\nNow plot both sets of points and check your answers."
+}

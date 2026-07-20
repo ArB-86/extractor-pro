@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9685373902320862,
+    "bbox": [
+        291.2811584472656,
+        2024.6307373046875,
+        1556.0155029296875,
+        2310.668701171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/001_plain_text_0.97.png",
+    "text": "So i\nif\nyou\n+1\n(i.e.,\nif\nyou\nthe\npress\npress\n\u2018+\nbutton once), then\nyou will\ngo up\nfloor a\none\nand if\nyou press -1 (i.e., if you press \nthe\u2018-'button\nonce), then\nyou will\ngo down\n1 floor."
+}

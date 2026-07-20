@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9810590147972107,
+    "bbox": [
+        192.847900390625,
+        1482.7684326171875,
+        1755.982177734375,
+        1812.8939208984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/000_plain_text_0.98.png",
+    "text": "Here, the amount of money\n(in ?) put in the money\nbox on her first, second, third,\nfourth ... birthday \nwere respectively 1\n100, 150, 200, 250, . . . till her 21st birthday. To\nfind the total amount in the money l\nbox on her 21st birthday, we will have to write each\nof the 21 numbers in the list above and then add them up. Don't you think it would be\na tedious and time consuming process? Can we make the process shorter? This would\nbe possible if we can f\nfind a method for getting\nthis sum. Let us see."
+}

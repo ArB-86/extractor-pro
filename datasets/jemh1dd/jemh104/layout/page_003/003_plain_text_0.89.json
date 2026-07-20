@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8910104632377625,
+    "bbox": [
+        192.09877014160156,
+        1781.5509033203125,
+        1443.1773681640625,
+        1836.956787109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_003/003_plain_text_0.89.png",
+    "text": "Example 2 : Check whether the following\nare quadratic equations:"
+}

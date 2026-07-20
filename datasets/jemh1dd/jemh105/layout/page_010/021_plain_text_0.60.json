@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6026596426963806,
+    "bbox": [
+        373.34771728515625,
+        1137.6904296875,
+        1708.3984375,
+        1200.40283203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/021_plain_text_0.60.png",
+    "text": ": Here, \u03b1 = 21, d = 18 - 21 = - 3\nand\na. = - 81, and we have to find r\nn"
+}

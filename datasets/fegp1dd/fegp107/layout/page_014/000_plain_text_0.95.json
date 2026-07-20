@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9458985924720764,
+    "bbox": [
+        419.8997802734375,
+        1804.9822998046875,
+        2207.624755859375,
+        1952.4998779296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_014/000_plain_text_0.95.png",
+    "text": "Now, check whether\n1\nand\n2\nequivalent fractions or not,\nare e\n3\n-6\nusing paper strips."
+}

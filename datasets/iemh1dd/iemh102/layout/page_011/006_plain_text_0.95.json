@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9499219655990601,
+    "bbox": [
+        235.4960479736328,
+        2484.664306640625,
+        1795.4241943359375,
+        2593.896728515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/006_plain_text_0.95.png",
+    "text": "Thus,550\n10a +\n350\n\uff09or\n10a =\n200. S0, a = \n20. This leads to\nb = 350 - 10\u03b1 = 350 - 200 = 150."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8805574178695679,
+    "bbox": [
+        250.7097930908203,
+        2032.9779052734375,
+        1754.7806396484375,
+        2135.08251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/011_plain_text_0.88.png",
+    "text": "3. A tangent PQ at a point P of a circle of radius 5 cm meets a line through the centre O at\na point Q so that OQ = 12 cm. Length PQ is :"
+}

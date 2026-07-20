@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8552365303039551,
+    "bbox": [
+        245.64437866210938,
+        1498.4735107421875,
+        1242.3480224609375,
+        1547.732666015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/006_plain_text_0.86.png",
+    "text": "5.\nFind the number of terms in each of the following APs :"
+}

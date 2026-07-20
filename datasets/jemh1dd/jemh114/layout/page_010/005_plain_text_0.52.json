@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5212053060531616,
+    "bbox": [
+        240.4618377685547,
+        2277.892333984375,
+        1571.959716796875,
+        2334.90966796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_010/005_plain_text_0.52.png",
+    "text": "lution : The helicopter is equally likely to crash anywhere in the region."
+}

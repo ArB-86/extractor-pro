@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.916427493095398,
+    "bbox": [
+        242.6022491455078,
+        1627.8392333984375,
+        1746.6505126953125,
+        1726.5655517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/000_plain_text_0.92.png",
+    "text": "4\u30021\nProve the following identities, where the angles involved are acute angles for which the\nexpressions are defined."
+}

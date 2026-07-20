@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6016760468482971,
+    "bbox": [
+        516.8428344726562,
+        1762.8692626953125,
+        2167.85888671875,
+        1967.8372802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_027/006_plain_text_0.60.png",
+    "text": "The bars help in interpreting\ndata much faster than a frequency\ntable. By\nreading a bar\ngraph, we can compare\nfrequencies of\ndifferent categories at a glance."
+}

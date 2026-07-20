@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8837043642997742,
+    "bbox": [
+        419.1225891113281,
+        1009.7903442382812,
+        1214.397705078125,
+        1093.7025146484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_026/008_plain_text_0.88.png",
+    "text": "25\nwill be represented \nSo\nas"
+}

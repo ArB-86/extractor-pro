@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9666265845298767,
+    "bbox": [
+        266.0184020996094,
+        1200.4371337890625,
+        1738.65283203125,
+        1379.88134765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_016/004_plain_text_0.97.png",
+    "text": "Try\ny to extend this method for constructing\nline segments of lengths\n\u221a3\n\u221a5\nand\nusing a ruler and a compass. Generalise this method to construct\na line segment of any length of the form\nVn , where n is a positive integer."
+}

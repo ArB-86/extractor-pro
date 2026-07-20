@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.894079327583313,
+    "bbox": [
+        623.8245239257812,
+        322.26361083984375,
+        1404.8184814453125,
+        402.5676574707031
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/000_title_0.89.png",
+    "text": "END-OF-CHAPTER EXERCISES"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.944360613822937,
+    "bbox": [
+        289.95489501953125,
+        2587.908447265625,
+        2076.7197265625,
+        2729.397705078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_003/004_plain_text_0.94.png",
+    "text": "Can you make the figures look as good as the figures shown there?\nTry again if you want to!"
+}

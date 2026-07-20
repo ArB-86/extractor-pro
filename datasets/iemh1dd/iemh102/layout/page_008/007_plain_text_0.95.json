@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9536875486373901,
+    "bbox": [
+        239.26882934570312,
+        306.37384033203125,
+        1793.60595703125,
+        420.8371276855469
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/007_plain_text_0.95.png",
+    "text": "Observe\nthat the\n amount left on the nth\nday will be ?(100 - 5n).\nTherefore, 0n the 12th day the amount left will be ?(100 - 12 \u00d7 5) = 40."
+}

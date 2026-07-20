@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9394986629486084,
+    "bbox": [
+        195.11129760742188,
+        1241.1505126953125,
+        1752.82470703125,
+        1406.989013671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/002_plain_text_0.94.png",
+    "text": "Again the collection of five most renowned mathematicians of the world is not\nwell-defined, because the criterion for determining a mathematician as most renowned\nmay vary from person to person. Thus, it is not a well-defined collection."
+}

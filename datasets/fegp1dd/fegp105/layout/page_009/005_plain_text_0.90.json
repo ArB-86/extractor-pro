@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8961326479911804,
+    "bbox": [
+        290.5426940917969,
+        1757.0863037109375,
+        2086.03662109375,
+        2067.76416015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_009/005_plain_text_0.90.png",
+    "text": "Let us\ngo back to the\nfinding\ne treasure\ns time, treasures\ng game. This\nare\nkept\nnumbers.\nJumpy:\nthe\ntreasures\nonly if he is able\non\ntwo\neto\ngets\nboth\nthe\nnumbers\nWith\nthe\njump\nsize. There\nis also\nreach\nsame\na\nnew rule\u2014a\njump\nsize of 1 is not allowed."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9626204967498779,
+    "bbox": [
+        305.4539794921875,
+        2400.6923828125,
+        1753.3890380859375,
+        2553.031005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_029/000_plain_text_0.96.png",
+    "text": "(Hint : The data needs to be converted to continuous classes for finding the median.\nsince the formula assumes continuous classes. The classes then change to\n117.5 -126.5.126.5 -135.5,\n171.5 -180.5.)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9735918045043945,
+    "bbox": [
+        194.7503204345703,
+        1807.5677490234375,
+        1754.3082275390625,
+        2025.032958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_006/001_plain_text_0.97.png",
+    "text": "Now, what\ndo\nthe\ngeometrical\nmeaning\ng of\nthe\nzeroes\nof a\na cubic\nyou\nexpect\npolynomial to be? Let us f\n find out. Consider the cubic polynomial x3 - 4x. To see what\nthe\ngraph of y = x3 - 4x looks like, let us\nlist a few values of y corresponding to a few\nvalues\nfor x as s\nshown\nin\nTable 2.2."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.6483752727508545,
+    "bbox": [
+        483.6884460449219,
+        2681.293701171875,
+        2089.974853515625,
+        2749.75146484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_042/010_plain_text_0.65.png",
+    "text": "Degree measures of angles can be measured using a protractor."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "title",
+    "confidence": 0.5220223069190979,
+    "bbox": [
+        294.31964111328125,
+        2684.610595703125,
+        1196.5018310546875,
+        2746.720458984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_049/014_title_0.52.png",
+    "text": "Q.1. Complete the additions using\ntokens."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8710938096046448,
+    "bbox": [
+        369.27288818359375,
+        397.6555480957031,
+        1381.924072265625,
+        465.16082763671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_025/008_plain_text_0.87.png",
+    "text": "Did\ninclude\nangles such\nZTOQ?\nyou\nas"
+}

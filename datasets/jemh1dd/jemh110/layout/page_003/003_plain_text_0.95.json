@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9543468952178955,
+    "bbox": [
+        193.9381561279297,
+        1499.5372314453125,
+        1754.38720703125,
+        1661.4244384765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_003/003_plain_text_0.95.png",
+    "text": "The common point of the tangent and the circle is called the point of contact\n[the point A in Fig. 10.1\n(ii)]and the tangent is said to touch the circle at the\ncommon point."
+}

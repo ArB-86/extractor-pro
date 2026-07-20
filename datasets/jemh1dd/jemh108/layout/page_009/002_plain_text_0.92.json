@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9161194562911987,
+    "bbox": [
+        246.21493530273438,
+        479.2407531738281,
+        1400.5469970703125,
+        531.6465454101562
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/002_plain_text_0.92.png",
+    "text": "1.I\nIn \u25b3 ABC, right-angled at B, AB = 24 cm, BC = 7 cm. Determine"
+}

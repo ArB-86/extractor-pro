@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9481115937232971,
+    "bbox": [
+        289.8274230957031,
+        2436.982421875,
+        2077.7353515625,
+        2579.23779296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_003/003_plain_text_0.95.png",
+    "text": "Having explored the use of a compass, go ahead and recreate the\nimages in Fig. 8.1."
+}

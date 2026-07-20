@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9330362677574158,
+    "bbox": [
+        194.2325439453125,
+        688.364990234375,
+        1751.9322509765625,
+        797.897705078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_008/001_plain_text_0.93.png",
+    "text": "From the examples above, we see that there are at most 3 zeroes for any cubic\npolynomial. In other words, any polynomial of degree 3 can have at most three zeroes."
+}

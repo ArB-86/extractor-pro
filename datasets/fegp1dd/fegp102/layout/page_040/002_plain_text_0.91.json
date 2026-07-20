@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.9145981073379517,
+    "bbox": [
+        623.4011840820312,
+        2302.345458984375,
+        1791.1484375,
+        2372.867919921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_040/002_plain_text_0.91.png",
+    "text": "a. ZPTR\nb. ZPTQ\nC. ZPTW\nd.ZWTP"
+}

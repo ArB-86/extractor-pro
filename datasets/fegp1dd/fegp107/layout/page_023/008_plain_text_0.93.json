@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.925520122051239,
+    "bbox": [
+        394.61224365234375,
+        1835.881103515625,
+        1565.532958984375,
+        1900.4659423828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_023/008_plain_text_0.93.png",
+    "text": "Express\nthe following\nfractions in lowest terms:"
+}

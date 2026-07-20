@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9668542146682739,
+    "bbox": [
+        191.43626403808594,
+        2160.214111328125,
+        1510.8782958984375,
+        2385.533935546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/002_plain_text_0.97.png",
+    "text": "The 8 ordered\npairs\nthus\nformed\ncan\nthe\nposition\nn of points\nrepresent\nin\nthe\nplane\nif A\nand\nB\nsubsets of the\nset of\nreal\nnumbers\nand\nl it is\nare\nobvious\nthat the point in the position\n(a,b2)\nwill be distinct from the point\nin the position\n(b2, a,)."
+}

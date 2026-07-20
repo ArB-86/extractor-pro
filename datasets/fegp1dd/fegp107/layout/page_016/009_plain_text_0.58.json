@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.5766686797142029,
+    "bbox": [
+        489.236083984375,
+        566.003173828125,
+        1491.6544189453125,
+        956.7925415039062
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_016/009_plain_text_0.58.png",
+    "text": "The division fact is 1 : 4 =\n1-4\n1\n1-4\n1-4\n1-4\nThe addition fact is 1 =\n-4\n+\n+\n+\nThe multiplication fact is 1 = 4 x\n14"
+}

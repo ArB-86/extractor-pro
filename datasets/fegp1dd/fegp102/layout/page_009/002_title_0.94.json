@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "title",
+    "confidence": 0.9414670467376709,
+    "bbox": [
+        293.6994323730469,
+        854.9129028320312,
+        1091.28271484375,
+        943.71435546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_009/002_title_0.94.png",
+    "text": "2.6 Comparing Angles"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9403856992721558,
+    "bbox": [
+        586.9513549804688,
+        394.5035095214844,
+        2212.531005859375,
+        531.6785888671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_006/005_plain_text_0.94.png",
+    "text": "f.\nNow, Toshi ran 1oo0 m. How many f\nfull rounds has she finished\nrunning\naround her track? Mark her position as 'Z'."
+}

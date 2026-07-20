@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9464146494865417,
+    "bbox": [
+        192.0186767578125,
+        707.050537109375,
+        1256.97607421875,
+        825.3710327148438
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_018/002_plain_text_0.95.png",
+    "text": "cot A - cos\nA\ncosec A - 1\nExample 11 : Prove\nthat\ncot A + cos A\ncosec A + 1"
+}

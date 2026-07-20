@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9730374217033386,
+    "bbox": [
+        237.76193237304688,
+        928.6284790039062,
+        1796.66552734375,
+        1145.2318115234375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_005/002_plain_text_0.97.png",
+    "text": "Polynomials\nalso\nbe\nthought\nof\nas\ninput-output\ncan\nprocesses.\nFor i\ninstance, consider the linear\npolynomial 2x +\n3.For\nevery x, there is\na corresponding value of the polynomial 2x + \n3. For instance, if x = 4, we\nsubstitute 4 in the expression to get 2 x 4 + 3 = 11."
+}

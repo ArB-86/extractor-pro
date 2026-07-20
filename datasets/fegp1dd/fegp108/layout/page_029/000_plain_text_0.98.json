@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9808792471885681,
+    "bbox": [
+        292.4603271484375,
+        2223.38818359375,
+        2087.451416015625,
+        2668.728515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_029/000_plain_text_0.98.png",
+    "text": " si    s   e     n g\nsame as that used in the figure, A Person'. Points A and B are the locations\nwhere the tip of the compass is placed when drawing\ng the curves of the\n    e        \na symmetrical figure. For this to happen, where should these points A and\nB be placed? Make a good estimate."
+}

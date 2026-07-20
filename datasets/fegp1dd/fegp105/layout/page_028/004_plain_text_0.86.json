@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8638772368431091,
+    "bbox": [
+        354.85858154296875,
+        500.61285400390625,
+        2187.525634765625,
+        622.6305541992188
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_028/004_plain_text_0.86.png",
+    "text": "Where should Grumpy I\nplace the treasures so that Jumpy\ncannot reach both the\ntreasures?"
+}

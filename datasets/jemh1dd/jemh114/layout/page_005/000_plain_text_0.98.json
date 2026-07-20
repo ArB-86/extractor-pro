@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9790757894515991,
+    "bbox": [
+        190.9150848388672,
+        2170.8017578125,
+        1755.123046875,
+        2410.6318359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/000_plain_text_0.98.png",
+    "text": "We know\nthat there\ne are only\nSiX\npossible outcomes\nin a single t\nthrow of a die. These\n1, 2, 3, 4, 5 a\nand 6. Since no\nface of the die is\nmarked 8, so there is no\noutcomes\nare\noutcome\nfavourable to 8, i.e., the\nnumber of s\nsuch outcomes\n1S\nzero. In other\nwords,\ngetting 8 in a single throw of a die, is impossible."
+}

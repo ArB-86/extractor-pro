@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8850848078727722,
+    "bbox": [
+        305.4770202636719,
+        1171.276611328125,
+        893.3961791992188,
+        1219.598388671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_030/009_plain_text_0.89.png",
+    "text": "Find the median\nlife time of a lamp."
+}

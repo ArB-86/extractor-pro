@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9208440780639648,
+    "bbox": [
+        295.9827880859375,
+        868.5952758789062,
+        2185.79296875,
+        990.9130859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_022/003_plain_text_0.92.png",
+    "text": "Q3. Fill the table below such that we get as many \n supercells as possible. Use numbers\nbetween 100 and 1000 without repetitions."
+}

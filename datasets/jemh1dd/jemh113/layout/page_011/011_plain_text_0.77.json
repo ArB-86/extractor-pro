@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.7745699286460876,
+    "bbox": [
+        248.49688720703125,
+        1800.8502197265625,
+        1595.287109375,
+        1850.2406005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_011/011_plain_text_0.77.png",
+    "text": "2. Consider the following distribution of daily wages of 50 workers of a factory."
+}

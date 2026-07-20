@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5761227607727051,
+    "bbox": [
+        194.90574645996094,
+        1195.6248779296875,
+        1665.724609375,
+        1248.935546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/007_plain_text_0.58.png",
+    "text": "But this contradicts the fact that a and b have no common f\nfactors other than"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8997159600257874,
+    "bbox": [
+        364.8894958496094,
+        778.0886840820312,
+        1617.346435546875,
+        848.0499267578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_007/005_plain_text_0.90.png",
+    "text": "A square satisfies the following\ntwo\nproperties:"
+}

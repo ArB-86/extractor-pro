@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8455796241760254,
+    "bbox": [
+        384.1330261230469,
+        1237.6207275390625,
+        868.7635498046875,
+        1303.4276123046875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/005_plain_text_0.85.png",
+    "text": "Ans.\n(i),\n(ii)\nand\n(iii)"
+}

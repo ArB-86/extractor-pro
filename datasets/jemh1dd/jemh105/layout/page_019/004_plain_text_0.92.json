@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.920365035533905,
+    "bbox": [
+        192.2616729736328,
+        548.3641967773438,
+        1219.663330078125,
+        606.1886596679688
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_019/004_plain_text_0.92.png",
+    "text": "So,\nthe s\nof first n\npositive\nintegers\nis g\nsum\ngiven\nby"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9405373930931091,
+    "bbox": [
+        310.6457824707031,
+        1003.3941650390625,
+        1230.3909912109375,
+        1062.640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/008_plain_text_0.94.png",
+    "text": "Step 2\n2: Square\nboth sides of the equation:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8699116110801697,
+    "bbox": [
+        299.8494873046875,
+        651.2107543945312,
+        1171.1907958984375,
+        721.957275390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_003/005_plain_text_0.87.png",
+    "text": "Now, try to\nget the full\ncurve."
+}

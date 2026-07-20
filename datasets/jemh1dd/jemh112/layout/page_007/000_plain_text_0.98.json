@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9804138541221619,
+    "bbox": [
+        192.58425903320312,
+        1343.1932373046875,
+        1755.7325439453125,
+        1728.9818115234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_007/000_plain_text_0.98.png",
+    "text": "In the previous section, we have discussed how to find the surface area of solids made\nup of a combination of two basic solids. Here, we shall see how to calculate their\nvolumes. It may be noted that in calculating the surface area, we have not added the\nsurface areas of the two constituents, because some part of the surface area disappeared\nin the process of joining them. However, this will not be the case when we calculate\nthe volume. The volume of the solid formed by joining two basic solids will actually be\nthe sum of the volumes of the constituents, as we see in the examples below."
+}

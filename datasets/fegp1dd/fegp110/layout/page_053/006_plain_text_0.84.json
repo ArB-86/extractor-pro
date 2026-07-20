@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8371767401695251,
+    "bbox": [
+        292.7075500488281,
+        2245.94091796875,
+        1906.8446044921875,
+        2307.9052734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_053/006_plain_text_0.84.png",
+    "text": "Q.4. What is the highest point above sea level on Earth? What is its height?"
+}

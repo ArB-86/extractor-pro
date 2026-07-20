@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "title",
+    "confidence": 0.8830686211585999,
+    "bbox": [
+        473.3961486816406,
+        1705.52001953125,
+        952.541259765625,
+        1773.9534912109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_008/004_title_0.88.png",
+    "text": "Reading\nFractions"
+}

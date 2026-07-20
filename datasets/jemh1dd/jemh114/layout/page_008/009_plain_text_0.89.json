@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.889948308467865,
+    "bbox": [
+        190.93258666992188,
+        2482.490966796875,
+        858.5308837890625,
+        2539.08544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_008/009_plain_text_0.89.png",
+    "text": "Note that P(W) + P(B) + P(R) = 1."
+}

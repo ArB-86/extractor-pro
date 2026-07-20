@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9785540699958801,
+    "bbox": [
+        989.0307006835938,
+        2288.9794921875,
+        2089.812255859375,
+        2702.2978515625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_001/000_plain_text_0.98.png",
+    "text": "Estu\nwas\nsurprised\n. to\nknow\nthat  t\nthere\nWere about one lakh varieties of rice in this\ncountry. He\nwondered\n1 \u201cOne lakh! So far I\nhave only tasted 3 varieties. If we tried a new\nvariety\neach day, would\nlweevencome\nclose\nto tasting all the varieties in a lifetime of 100\nyears?\""
+}

@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.6179075837135315,
+    "bbox": [
+        411.2491149902344,
+        2521.220703125,
+        2194.74853515625,
+        2806.059814453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_039/008_plain_text_0.62.png",
+    "text": "a. Does\nthe outer\nboundary c\nof the picture\nhave reflection\nIf so, draw\nI symmetry?\nthe\nlines of\nsymmetries. How many\nthey?\nare\nb. Does\nit\nhave\nrotational\nsymmetry\nits\ncentre?\nIf\nS0,\nfind\nthe\nangles\nof\naround\nrotational\nsymmetry."
+}

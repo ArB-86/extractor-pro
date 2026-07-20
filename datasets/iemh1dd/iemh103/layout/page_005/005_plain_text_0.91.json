@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9111896753311157,
+    "bbox": [
+        237.30572509765625,
+        1760.1461181640625,
+        1795.812255859375,
+        1873.1600341796875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/005_plain_text_0.91.png",
+    "text": "Brahmagupta\nexplicit  rules  for  adding\nand\nmultiplying\nthese\ngave\nintegers, which we still.\nC         a"
+}

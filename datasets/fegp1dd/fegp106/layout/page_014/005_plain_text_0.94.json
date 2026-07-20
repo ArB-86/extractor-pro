@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9427688121795654,
+    "bbox": [
+        419.81671142578125,
+        1042.275390625,
+        2205.9697265625,
+        1186.365966796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_014/005_plain_text_0.94.png",
+    "text": "Check! whether the two t\ntriangles overlap\n each other exactly.\nDo they have the same area?"
+}

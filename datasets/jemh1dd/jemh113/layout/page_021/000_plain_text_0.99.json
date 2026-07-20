@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.985714852809906,
+    "bbox": [
+        194.6971435546875,
+        396.941162109375,
+        1752.6494140625,
+        672.7528076171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_021/000_plain_text_0.99.png",
+    "text": "How r\nmany s\nstudents have scored less than\n120\nmarks? Observe\nthat the\nenumber\nof students who have scored 1ess than\nn 20 include the number of students who have\nscored marks from 0 - 10 as well as the number of students who have scored marks\nfrom 10 - 20. So, the total number of students with marks less than 20 is 5 + 3, i.e., 8.\nWe say\nthat the cumulative f\nfrequency of the class\n10 -20 is 8."
+}

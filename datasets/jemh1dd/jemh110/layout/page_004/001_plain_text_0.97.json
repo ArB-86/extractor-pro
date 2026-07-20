@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9704059362411499,
+    "bbox": [
+        192.1801300048828,
+        815.5394897460938,
+        1094.8743896484375,
+        1086.932373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/001_plain_text_0.97.png",
+    "text": "Since\nthis happens\nfor\neveryp\npoint on\nthe\nline\nXY\nexcept\nthe\npoint\nP, (\nOP\nis\nthe\nshortest of all the distances of the point O to the\npoints of XY. So OP is\nperpendicular to XY.\n(as shown in\nTheorem A1.7.)"
+}

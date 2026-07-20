@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.5302261114120483,
+    "bbox": [
+        235.25692749023438,
+        969.7294921875,
+        784.2963256835938,
+        1028.93408203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/009_plain_text_0.53.png",
+    "text": "(i)\nit is acceptable to Jimmy?"
+}

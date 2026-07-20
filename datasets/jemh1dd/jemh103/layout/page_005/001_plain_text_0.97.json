@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9660366177558899,
+    "bbox": [
+        193.23487854003906,
+        397.13177490234375,
+        1749.86279296875,
+        502.3077697753906
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/001_plain_text_0.97.png",
+    "text": "Solution : Let us denote the number of pants by x and the number of skirts by y. Then\nthe equations formed are :"
+}

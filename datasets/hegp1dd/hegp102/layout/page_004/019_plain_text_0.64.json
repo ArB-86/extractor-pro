@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6367143392562866,
+    "bbox": [
+        378.1447448730469,
+        1636.044677734375,
+        611.6337280273438,
+        1692.615966796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/019_plain_text_0.64.png",
+    "text": "Simila\n\uff0c"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9624879360198975,
+    "bbox": [
+        240.27166748046875,
+        1188.0213623046875,
+        1797.7926025390625,
+        1296.2613525390625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_014/001_plain_text_0.96.png",
+    "text": "For each point, the value of the y-coordinate is three times that of\nthe x-coordinate. We can therefore say that y = 3x."
+}

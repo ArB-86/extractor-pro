@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.8441917300224304,
+    "bbox": [
+        296.67791748046875,
+        650.7951049804688,
+        1101.8045654296875,
+        768.3970336914062
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_052/002_plain_text_0.84.png",
+    "text": "Q. Your l\n: bank balance is now\nAns.\n 160\n-30\n130\n\u4e09"
+}

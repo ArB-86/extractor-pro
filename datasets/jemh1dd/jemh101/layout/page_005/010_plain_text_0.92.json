@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9184761643409729,
+    "bbox": [
+        245.8018035888672,
+        1881.9630126953125,
+        1749.32373046875,
+        1984.0618896484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/010_plain_text_0.92.png",
+    "text": "2. Find the LCM and HCF of the following pairs of integers and verify that LCM x HCF\nproduct of the two numbers."
+}

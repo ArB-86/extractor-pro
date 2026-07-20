@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8783149719238281,
+    "bbox": [
+        507.19525146484375,
+        2502.1767578125,
+        2212.99267578125,
+        2795.552001953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_010/011_plain_text_0.88.png",
+    "text": "1.\nPratibha uses\ns the digits\u20184',\u20187',\u20183' a\nand 2', and makes the smallest and\nlargest 4\n4-digit\nnumbers\nwith them: 2347\nand\n7432. The difference\nbetween\nthese two numbers is 7432 - 2347 = 5085.The sum ofthese\ntwo\nnumbers is 9779. Cho0se\n4- digits to make:"
+}

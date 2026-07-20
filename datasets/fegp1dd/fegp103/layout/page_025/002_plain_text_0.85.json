@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8463465571403503,
+    "bbox": [
+        302.14105224609375,
+        1456.2431640625,
+        1614.1298828125,
+        2045.8643798828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_025/002_plain_text_0.85.png",
+    "text": "Ans.\n123 \u2192 1+2+3 = 6\n234 > 2+3+4 = 9\n345 -\u2192 3+4+5 = 12\n456 -> 4+5+6 = 15\n567 > 5+6+7 =18\n678 > 6+7+8 =21\n789 -> 7+8+9 = 24\nYes, there is a pattern, all the sums are multiples of 3.\nNo."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9752238988876343,
+    "bbox": [
+        236.49224853515625,
+        307.1825866699219,
+        1797.2813720703125,
+        475.4087829589844
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_012/000_plain_text_0.98.png",
+    "text": "For two rational numbers a and b, the distance between\nthemon\nthe number line is\ngivenby\n[\u03b1 - b|. Fig. 3.8 represents the distance\nbetween the integers -4 and 3."
+}

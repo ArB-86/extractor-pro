@@ -1,0 +1,13 @@
+{
+    "page": 42,
+    "label": "plain_text",
+    "confidence": 0.9244762659072876,
+    "bbox": [
+        443.1502380371094,
+        300.2041015625,
+        2155.21923828125,
+        482.81024169921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_042/002_plain_text_0.92.png",
+    "text": "c. If 2 more girls were admitted in class 2, the last half symbol will be converted into\nfull symbol.\nd. 12."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.676868736743927,
+    "bbox": [
+        290.4657287597656,
+        2433.30859375,
+        1734.9305419921875,
+        2487.43798828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/011_plain_text_0.68.png",
+    "text": "The number of marbles left with Jivanti, when she lost 5 marbles = 45 - x - 5"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8804206252098083,
+    "bbox": [
+        378.5716552734375,
+        2526.42919921875,
+        2088.408935546875,
+        2651.178955078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/010_plain_text_0.88.png",
+    "text": "lie between\nthe\nof the following\n7.\nHow\n1 many\nnumbers\nsquares\nnumbers?"
+}

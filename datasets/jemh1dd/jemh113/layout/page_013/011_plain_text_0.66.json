@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6583832502365112,
+    "bbox": [
+        192.4697723388672,
+        1912.3692626953125,
+        1719.34033203125,
+        1972.1265869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/011_plain_text_0.66.png",
+    "text": "Example 4 : The wickets taken by a bowler in 10 cricket matches are as follows:"
+}

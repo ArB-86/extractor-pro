@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9279177188873291,
+    "bbox": [
+        293.7118225097656,
+        298.1505432128906,
+        2190.34423828125,
+        488.0234069824219
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_025/000_plain_text_0.93.png",
+    "text": "Q.3. A number for which the sum of all its factors is equal to twice the number is called a\nperfect number. The number 28 is a perfect number. Its factors are 1, 2, 4, 7, 14 and\n28. Their sum is 56 which is twice 28. Find a perfect number between 1 and 10."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9806911945343018,
+    "bbox": [
+        240.0639190673828,
+        306.9472961425781,
+        1798.0323486328125,
+        586.249267578125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_003/001_plain_text_0.98.png",
+    "text": "the\nfloor\nof t\nthe\nroom. Points\nin t\nthe sketch\nwere\nmarked\nusing\n pins.\nShalini\nwas\nusing\na scale of 1 c\ncm : 1 foot. She\nused\npins\nstol\nmark\nout\nvarious\nkey 1\npoints\ns of\nthe\nroom. Points\nrepresenting\nthe\ncorners\nof\nobjects were connected with thick\nWool so that Reiaan could feel their\npositions\ns With his f\nfingers."
+}

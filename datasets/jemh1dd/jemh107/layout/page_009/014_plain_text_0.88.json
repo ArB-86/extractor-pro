@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.884345531463623,
+    "bbox": [
+        194.0682373046875,
+        1371.5557861328125,
+        489.6927185058594,
+        1423.486083984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_009/014_plain_text_0.88.png",
+    "text": "Simila\nlarly,\ntaking"
+}

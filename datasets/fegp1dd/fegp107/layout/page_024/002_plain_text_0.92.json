@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9226759672164917,
+    "bbox": [
+        521.19775390625,
+        2321.697021484375,
+        1894.2696533203125,
+        2391.28955078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_024/002_plain_text_0.92.png",
+    "text": "2.1\nWrite the following\nfractions\ns in ascending\norder."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7737133502960205,
+    "bbox": [
+        229.97132873535156,
+        1197.5391845703125,
+        1753.78759765625,
+        1346.9820556640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_021/001_plain_text_0.77.png",
+    "text": "11. If the sum of the first n terms of an APis 4n - n\u00b2, what is the first term\n(that is S,)?What\nis the sum of first two terms? What is the second term? Similarly, find the 3rd, the 1Oth and\nthe nth terms."
+}

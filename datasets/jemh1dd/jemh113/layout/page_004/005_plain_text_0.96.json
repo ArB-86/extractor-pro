@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9645891189575195,
+    "bbox": [
+        191.96897888183594,
+        2347.942626953125,
+        1753.078125,
+        2465.687255859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_004/005_plain_text_0.96.png",
+    "text": "The next step is to find the difference d. between a and each of the x's, that is.\nthe deviation of \u2018a' from each of the x's."
+}

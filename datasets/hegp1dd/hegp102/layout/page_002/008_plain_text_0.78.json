@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.783312201499939,
+    "bbox": [
+        376.01556396484375,
+        1405.7125244140625,
+        851.122802734375,
+        1468.7471923828125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_002/008_plain_text_0.78.png",
+    "text": "Fill\nthe\ntable\nbel\nelow.\ne"
+}

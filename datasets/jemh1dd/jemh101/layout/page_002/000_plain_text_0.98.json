@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9788690209388733,
+    "bbox": [
+        194.80331420898438,
+        471.9797668457031,
+        1753.5457763671875,
+        689.2297973632812
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_002/000_plain_text_0.98.png",
+    "text": "In\nearlier\nclasses, you\nyour\nhave\nseen\nthat\nany\nnatural\nnumber\ncan\nbe\nwritten\nas a\nproduct of its prime f\nfactors. For instance, 2 = 2, 4 = 2 \u00d7 2\n2, 253 = 11 \u00d7 23, and so on.\nNow,\n, let us\n and look at natural\nnumbers\nfrom\nthe other direction. That is, can any\ntry a\nnumber be obtained by r\nnatural\n multiplying prime numbers? Let us see."
+}

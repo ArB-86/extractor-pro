@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9395534992218018,
+    "bbox": [
+        194.18124389648438,
+        2268.925048828125,
+        1364.3787841796875,
+        2326.819580078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/008_title_0.94.png",
+    "text": "2.2\nGeometrical Meaning of the Zeroes of a Polynomial"
+}

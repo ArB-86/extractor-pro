@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8340765237808228,
+    "bbox": [
+        330.744873046875,
+        880.0469360351562,
+        1411.950927734375,
+        933.5303344726562
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/010_plain_text_0.83.png",
+    "text": "2x\u00b2 + kx + 3 = 0\n(i) kx(x-2)+ 6 =0"
+}

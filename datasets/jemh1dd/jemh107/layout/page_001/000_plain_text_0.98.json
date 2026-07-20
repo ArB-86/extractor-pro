@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9834064841270447,
+    "bbox": [
+        189.314208984375,
+        1883.89892578125,
+        1749.24072265625,
+        2332.740234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_001/000_plain_text_0.98.png",
+    "text": "Also, you have seen that a linear equation in two variables of the form\nax + by + c = 0, (a, b are not simultaneously zero), when represented g\ngraphically,\ngives a straight line. Further, in Chapter\nr 2, you have seen the graph of\ny = ax\u00b2 + bx + c (a \u2260 0), is a parabola. In fact, coordinate geometry has been developed\nas an algebraic tool for studying geometry of figures. It helps us to study geometry\nusing algebra, and understand algebra with the help of geometry. Because of this,\ncoordinate geometry is widely applied in various fields such as physics, engineering,\nnavigation, seismology and art!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8767772316932678,
+    "bbox": [
+        192.67294311523438,
+        1074.5244140625,
+        1699.9300537109375,
+        1132.224365234375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/010_plain_text_0.88.png",
+    "text": "Example 13\nLet A = { a, e, i, o, u } a\nand B = { a, i, u }. Show that A  B = A"
+}

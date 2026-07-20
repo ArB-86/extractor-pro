@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9508044123649597,
+    "bbox": [
+        189.08522033691406,
+        2379.635986328125,
+        1753.5279541015625,
+        2486.9345703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_008/002_plain_text_0.95.png",
+    "text": "Note that \u25b3 BDE and DEC are on the same base DE and between the same parallels\nBC and DE."
+}

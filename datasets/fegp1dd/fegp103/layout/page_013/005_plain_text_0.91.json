@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9065093994140625,
+    "bbox": [
+        446.9869079589844,
+        732.8182983398438,
+        1907.299560546875,
+        1023.147216796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_013/005_plain_text_0.91.png",
+    "text": "Below\ne statements. Think, explore\ne some\nand\nfind\nare\nout i\nif\neach of the statement is Always true', \u201cOnly sometimes true'\n'Never true'. Why do y\nthink so? Write\nor\nyou t\ne your reasoning\nand discuss\nthis with the class."
+}

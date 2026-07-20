@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.8723660111427307,
+    "bbox": [
+        759.5193481445312,
+        1444.89111328125,
+        1273.755615234375,
+        1510.345947265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_014/004_title_0.87.png",
+    "text": "CHAPTER\nSUMMARY"
+}

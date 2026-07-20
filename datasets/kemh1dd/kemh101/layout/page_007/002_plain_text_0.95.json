@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9534695744514465,
+    "bbox": [
+        192.91517639160156,
+        1765.3721923828125,
+        1752.04638671875,
+        1927.796142578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/002_plain_text_0.95.png",
+    "text": "Given two sets A and B, if every element of A is also an element of B and if every\nelement of B is also an element of A, then the sets A and B\n3 are said to be equal.\nClearly, the two sets have exactly the same elements."
+}

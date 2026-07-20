@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9737242460250854,
+    "bbox": [
+        588.5150756835938,
+        2186.500244140625,
+        2039.831787109375,
+        2390.853515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_001/002_plain_text_0.97.png",
+    "text": "For\nwhich\nnumbers\nshould\nthe\nplayers\nsay\nidli'\ninstead\nsaying\nThese\nwould be 3, 6\nof\nthe\nnumber?\n6, 9,\n12, 1\n18,\nand\nSO\non."
+}

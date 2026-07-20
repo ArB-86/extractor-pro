@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6886526346206665,
+    "bbox": [
+        199.992431640625,
+        1367.1962890625,
+        1702.856201171875,
+        1492.278564453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/017_plain_text_0.69.png",
+    "text": "If y - x = 2, then solving\ng (1) and (3) by elimination, we get x = 2 and y = 4.\nIn this case, we get the number 24."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9739552140235901,
+    "bbox": [
+        291.5724182128906,
+        2424.587158203125,
+        2086.2373046875,
+        2796.80859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_028/003_plain_text_0.97.png",
+    "text": "AS\nwe\nhave\nearlier,\nthe table of\nnumbers\n seen\n\uff0cwe\n can\nconvert\ninto a bar\ngraph, as shown on the right. F\nHere, each value is drawn\nas a horizontal box. These a\nare\nlonger or\nshorter\ndepending\non t\nthe\nnumber they represent. This makes it easier to compare the heights\nof all these mountains at a g\nglance."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9263280034065247,
+    "bbox": [
+        191.8373260498047,
+        1980.1116943359375,
+        1259.2425537109375,
+        2042.035888671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_011/004_plain_text_0.93.png",
+    "text": "So, the value of x\u00b2 - 3 is zero when x =\n\u221a3"
+}

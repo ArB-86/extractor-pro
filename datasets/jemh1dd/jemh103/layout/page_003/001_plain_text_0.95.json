@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9508353471755981,
+    "bbox": [
+        191.87078857421875,
+        2472.064697265625,
+        1753.8323974609375,
+        2583.165283203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_003/001_plain_text_0.95.png",
+    "text": "Solution : Let us draw the graphs of the Equations (1) and (2). For this, we find two\nsolutions of each of the equations, which are given in Table 3.2"
+}

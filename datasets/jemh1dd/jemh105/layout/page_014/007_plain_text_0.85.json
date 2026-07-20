@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8535131216049194,
+    "bbox": [
+        243.3388214111328,
+        1816.2435302734375,
+        1751.5809326171875,
+        1916.13916015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/007_plain_text_0.85.png",
+    "text": "8. An AP consists of 50 terms of which 3rd term is 12 and the last term is 106. Find the 29th\nterm."
+}

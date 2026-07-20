@@ -1,0 +1,13 @@
+{
+    "page": 38,
+    "label": "plain_text",
+    "confidence": 0.5252549052238464,
+    "bbox": [
+        436.39434814453125,
+        3102.610595703125,
+        1272.1116943359375,
+        3213.1171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_038/014_plain_text_0.53.png",
+    "text": "1-\n1\u4e00\n1\u4e00\n1\u2014\n1-\n5-\n 5 times quarter\n+\n+\n+\n+\n4\n4\n4\n4\n4\n4"
+}

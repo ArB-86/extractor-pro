@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8483039736747742,
+    "bbox": [
+        416.4895324707031,
+        1390.228271484375,
+        2211.89208984375,
+        1535.0921630859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_014/009_plain_text_0.85.png",
+    "text": "Can you draw any inferences f\nfrom this exercise? Please write it\nhere."
+}

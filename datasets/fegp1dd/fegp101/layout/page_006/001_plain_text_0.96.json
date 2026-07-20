@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9641190767288208,
+    "bbox": [
+        418.98968505859375,
+        2048.236083984375,
+        2210.23681640625,
+        2266.50341796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_006/001_plain_text_0.96.png",
+    "text": "The\n answer is that the pattern\ndoes happen forever. But why?\nAs mentioned earlier, the reason why the pattern happens is just as\nimportant and exciting as the pattern itself."
+}

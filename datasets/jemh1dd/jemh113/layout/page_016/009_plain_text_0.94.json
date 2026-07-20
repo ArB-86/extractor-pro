@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9423993825912476,
+    "bbox": [
+        305.3603820800781,
+        1255.887451171875,
+        1751.237548828125,
+        1353.4388427734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_016/009_plain_text_0.94.png",
+    "text": "Find the mode and the mean of the data g\ngiven above. Compare and interpret the two\nmeasures of central tendency."
+}

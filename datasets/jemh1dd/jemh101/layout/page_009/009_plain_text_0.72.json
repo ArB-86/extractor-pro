@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7196856141090393,
+    "bbox": [
+        244.6904754638672,
+        798.4535522460938,
+        863.5556640625,
+        858.1668701171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/009_plain_text_0.72.png",
+    "text": "2.\nis irrational."
+}

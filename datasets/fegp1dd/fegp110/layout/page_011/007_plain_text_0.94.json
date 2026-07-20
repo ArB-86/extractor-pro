@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9448090195655823,
+    "bbox": [
+        421.9837951660156,
+        1047.6187744140625,
+        1966.2764892578125,
+        1194.0526123046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_011/007_plain_text_0.94.png",
+    "text": "Take a look at the \u201cinfinite lift' above. Does it remind\ndyou\nof a number line? I\nIn what ways?"
+}

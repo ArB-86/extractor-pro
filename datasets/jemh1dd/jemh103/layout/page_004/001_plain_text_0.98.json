@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9763709306716919,
+    "bbox": [
+        192.39035034179688,
+        782.572998046875,
+        854.4169921875,
+        1096.3743896484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/001_plain_text_0.98.png",
+    "text": "Plot the points A(0, 2), B(6, 0),\nP(0, - 4) a\nand (\nQ(3, - 2) on\ngraph\npaper, and join the points to form the\nlines\nSAB\nand PQ\nas shown\nin\nFig. 3.1."
+}

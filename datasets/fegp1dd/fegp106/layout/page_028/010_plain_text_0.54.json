@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.5445565581321716,
+    "bbox": [
+        572.1256103515625,
+        415.01678466796875,
+        1306.8126220703125,
+        534.7227783203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_028/010_plain_text_0.54.png",
+    "text": "b.\nArea of his house\n42 ft \u00d7 25 ft\n1050:\nsq\nft\n="
+}

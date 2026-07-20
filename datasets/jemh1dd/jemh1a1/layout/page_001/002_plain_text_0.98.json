@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9818564057350159,
+    "bbox": [
+        197.7242889404297,
+        1602.0225830078125,
+        1756.3795166015625,
+        1927.1884765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh1a1/layout/page_001/002_plain_text_0.98.png",
+    "text": "The correct use of reasoning is at the core of mathematics, especially i\nin constructing\nproofs. In Class IX, you were introduced to the idea of proofs, and you actually proved\nstatements, especially in\ngeometry. Recall that a proof is made up of several\nmany\nmathematical statements, each of which is logically deduced from a previous statement\nin the proof, or from a theorem\nproved earlier, or an axiom, or the hypotheses. The\nmain tool,\n we use in constructing a proof, is the\ne process of deductive reasoning."
+}

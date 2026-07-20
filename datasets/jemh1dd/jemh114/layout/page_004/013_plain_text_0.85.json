@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8489694595336914,
+    "bbox": [
+        193.62159729003906,
+        2064.069091796875,
+        824.2042846679688,
+        2115.465576171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/013_plain_text_0.85.png",
+    "text": "Number of\npossible outcomes\n6"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8075897097587585,
+    "bbox": [
+        504.3630065917969,
+        2074.142333984375,
+        911.1290893554688,
+        2135.98876953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_006/011_plain_text_0.81.png",
+    "text": "1\nuns\n1\n4"
+}

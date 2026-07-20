@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8924568295478821,
+    "bbox": [
+        193.23385620117188,
+        2043.5517578125,
+        1310.392578125,
+        2098.42578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/009_plain_text_0.89.png",
+    "text": "Now, from Example 1, you know t\nthat the mean marks is 62."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9247435927391052,
+    "bbox": [
+        192.27267456054688,
+        1366.88134765625,
+        1248.13671875,
+        1420.1929931640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_016/008_plain_text_0.92.png",
+    "text": "So, the sum\nn of the first n t\nterms of an AP is given\nby"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.9091560244560242,
+    "bbox": [
+        197.68215942382812,
+        1268.4586181640625,
+        1031.59814453125,
+        1321.5565185546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_007/005_title_0.91.png",
+    "text": "12.3\nVolume of a Combination of Solids"
+}

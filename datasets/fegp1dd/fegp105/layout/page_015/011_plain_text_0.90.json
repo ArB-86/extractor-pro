@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8957344889640808,
+    "bbox": [
+        366.80999755859375,
+        550.851318359375,
+        1064.0762939453125,
+        614.8184814453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_015/011_plain_text_0.90.png",
+    "text": "Let us see some\nexamples."
+}

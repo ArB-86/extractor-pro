@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "title",
+    "confidence": 0.9085716605186462,
+    "bbox": [
+        296.1000671386719,
+        608.5987548828125,
+        1262.110107421875,
+        697.0581665039062
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/008_title_0.91.png",
+    "text": "10.1 Bela's Building\nof Fun"
+}

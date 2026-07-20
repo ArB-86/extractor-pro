@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8857711553573608,
+    "bbox": [
+        289.4135437011719,
+        2333.14892578125,
+        1618.4129638671875,
+        2390.76123046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_009/005_plain_text_0.89.png",
+    "text": "Looking at the pattern, we can say t\nthat the nth term\n+D=D1\n(n - 1) d\nn"
+}

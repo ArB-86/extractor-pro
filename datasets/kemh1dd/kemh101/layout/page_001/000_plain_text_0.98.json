@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9799126386642456,
+    "bbox": [
+        192.99884033203125,
+        1138.2352294921875,
+        1286.861328125,
+        1479.00439453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/000_plain_text_0.98.png",
+    "text": "The concept of set serves as a f\nfundamental\npart of the\npresent day mathematics. Today this concept is being\nused\nin almost every\nbranch of mathematics. Sets\narei\nused to\ndefine the concepts of relations and functions.\n. The study of\ngeometry, sequences, probability, etc. requires the knowledge\nof sets."
+}

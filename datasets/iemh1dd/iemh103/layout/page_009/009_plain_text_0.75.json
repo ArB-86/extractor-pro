@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7514856457710266,
+    "bbox": [
+        301.7364807128906,
+        434.6080017089844,
+        1743.8631591796875,
+        544.9596557617188
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_009/009_plain_text_0.75.png",
+    "text": "1.\nWhile adding\n or subtracting\ng two rational numbers having\n different\ndenominators, how will\nI you make the denominators equal?"
+}

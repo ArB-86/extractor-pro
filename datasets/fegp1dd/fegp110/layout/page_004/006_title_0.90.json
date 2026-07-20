@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9001642465591431,
+    "bbox": [
+        296.86639404296875,
+        398.0755310058594,
+        1388.8675537109375,
+        471.5989074707031
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_004/006_title_0.90.png",
+    "text": "Addition\ntol\nkeep\ntrack of\nmovement"
+}

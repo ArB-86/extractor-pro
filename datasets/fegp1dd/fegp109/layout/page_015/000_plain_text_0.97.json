@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9749222993850708,
+    "bbox": [
+        291.1377868652344,
+        1074.1484375,
+        2086.309326171875,
+        1368.0299072265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_015/000_plain_text_0.97.png",
+    "text": "We\nget back\nK a square\noverlapping\nWith itself after\n90\u00b0\nof rotation.\nThis\ntakes\nA to t\nthe\nposition\nof\npoint\nB, point\npoint\nB\n3tot\nthe\nposition\nof\npoint\nC, point\nC to the\nposition of \npoint\nD, a\nand\npoint\nD\n) back to t\nthe\nposition of point A. Do you know where to mark the centre of rotation?"
+}

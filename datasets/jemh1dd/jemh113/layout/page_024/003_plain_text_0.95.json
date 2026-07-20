@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9535638689994812,
+    "bbox": [
+        193.51211547851562,
+        1258.35791015625,
+        1752.924560546875,
+        1366.279541015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_024/003_plain_text_0.95.png",
+    "text": "Solution : To calculate the median height, we need to find the class intervals and their\ncorresponding frequencies."
+}

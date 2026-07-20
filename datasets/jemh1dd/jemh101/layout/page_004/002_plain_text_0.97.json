@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9692872166633606,
+    "bbox": [
+        189.29042053222656,
+        398.0522155761719,
+        1753.6822509765625,
+        565.431884765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/002_plain_text_0.97.png",
+    "text": "In \ngeneral,\nprimes\nand\nwritten\nin\nascending\nP1,P2,...,\np\nare\nOrder,\ni.e., P,\np\nn\n\u2264 . . . \u2264p,. If we combine the same primes, we will\nget powers of primes. For example."
+}

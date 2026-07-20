@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.837938666343689,
+    "bbox": [
+        289.8001708984375,
+        760.4585571289062,
+        1141.3226318359375,
+        809.3423461914062
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/010_plain_text_0.84.png",
+    "text": "From\nthe illustration\ngiven a\nabove we note that"
+}

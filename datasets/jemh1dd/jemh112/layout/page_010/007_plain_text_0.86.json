@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8597561120986938,
+    "bbox": [
+        249.09156799316406,
+        1657.677734375,
+        1752.8382568359375,
+        1858.6468505859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_010/007_plain_text_0.86.png",
+    "text": "7.\nA solid consisting of a right circular cone of height 120 cm and radius\n60 cm standing on\na hemisphere of radius\n 60 cm is placed\n upright in a right circular cylinder full of \nwater\nsuch that it touches the bottom. Find the volume of water left in the cylinder, if the radius\nof the cylinder is 60 cm and its height is 180 cm."
+}

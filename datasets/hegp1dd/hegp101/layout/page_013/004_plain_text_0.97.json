@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9676483273506165,
+    "bbox": [
+        309.69091796875,
+        2322.77734375,
+        2022.7562255859375,
+        2506.718017578125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_013/004_plain_text_0.97.png",
+    "text": "The next two taxicab r\nnumbers after 1729\n9 are 4104 and 13832. Find\n   s s     a   s  \ntwo positive cubes."
+}

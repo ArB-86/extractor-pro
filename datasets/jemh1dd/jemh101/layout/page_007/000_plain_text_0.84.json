@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.837693989276886,
+    "bbox": [
+        190.9198455810547,
+        2315.80029296875,
+        1754.951171875,
+        2430.016845703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/000_plain_text_0.84.png",
+    "text": "This means that b? is divisible by 3, and so b is also divisible by 3 (using Theorem 1.2\nWithp =3)."
+}

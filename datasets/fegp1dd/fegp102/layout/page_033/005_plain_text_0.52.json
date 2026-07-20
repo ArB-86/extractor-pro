@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.5186350345611572,
+    "bbox": [
+        402.54022216796875,
+        1310.4080810546875,
+        993.6017456054688,
+        1375.3134765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_033/005_plain_text_0.52.png",
+    "text": "2.\nThe\nangle\n: of a door:"
+}

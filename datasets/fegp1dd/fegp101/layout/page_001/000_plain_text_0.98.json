@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9805077910423279,
+    "bbox": [
+        419.9129333496094,
+        1840.1103515625,
+        2083.383056640625,
+        2292.070068359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_001/000_plain_text_0.98.png",
+    "text": "The search for patterns and their explanations can be a fun\nand creative endeavour. It is for this reason that mathematicians\nthink ofmathematics both as an art and as a science. This year, we\nhope that you will\nget a chance to see the creativity and artistry\ninvolved\nin\ndiscovering\nand\nunderstanding\nmathematical\npatterns."
+}

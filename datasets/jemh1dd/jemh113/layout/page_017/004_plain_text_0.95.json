@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9545741677284241,
+    "bbox": [
+        246.63758850097656,
+        1241.3494873046875,
+        1750.8358154296875,
+        1339.663330078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_017/004_plain_text_0.95.png",
+    "text": "5. The given distribution shows the number of runs scored by some top\no batsmen of the\nworld in one-day international cricket matches."
+}

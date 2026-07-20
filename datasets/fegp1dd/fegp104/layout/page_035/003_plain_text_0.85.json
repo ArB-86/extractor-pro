@@ -1,0 +1,13 @@
+{
+    "page": 35,
+    "label": "plain_text",
+    "confidence": 0.8518353700637817,
+    "bbox": [
+        412.10003662109375,
+        293.7641906738281,
+        1482.04736328125,
+        391.35986328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_035/003_plain_text_0.85.png",
+    "text": "How\nstudents chose\nmany\ngulab jamun?"
+}

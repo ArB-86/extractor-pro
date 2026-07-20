@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9265490174293518,
+    "bbox": [
+        192.3203582763672,
+        428.2427673339844,
+        1216.2491455078125,
+        538.2761840820312
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_008/000_plain_text_0.93.png",
+    "text": "Example 4 : In a right triangle ABC, right-angled at B,\nif tan A = 1, then verify that"
+}

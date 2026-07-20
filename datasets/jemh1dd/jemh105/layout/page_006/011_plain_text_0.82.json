@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8248915076255798,
+    "bbox": [
+        192.62281799316406,
+        1662.458740234375,
+        933.4796752929688,
+        1720.271728515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/011_plain_text_0.82.png",
+    "text": "i.e.,\n\u2014ak\nis the\nsame\nevery\ntime.\nk+1"
+}

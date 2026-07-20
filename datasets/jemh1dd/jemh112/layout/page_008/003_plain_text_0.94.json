@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9444273710250854,
+    "bbox": [
+        193.82943725585938,
+        2040.1995849609375,
+        1748.8858642578125,
+        2151.1630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_008/003_plain_text_0.94.png",
+    "text": "But the actual capacity of the glass is less by the volume of the hemisphere at the\nbase of the glass."
+}

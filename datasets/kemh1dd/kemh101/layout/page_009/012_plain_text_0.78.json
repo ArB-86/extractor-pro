@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7829222083091736,
+    "bbox": [
+        193.61581420898438,
+        517.279541015625,
+        1108.74072265625,
+        567.3141479492188
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/012_plain_text_0.78.png",
+    "text": "4.\nIn the following, state whether A = B or not:"
+}

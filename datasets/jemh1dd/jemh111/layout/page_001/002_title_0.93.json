@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.927031934261322,
+    "bbox": [
+        195.9855499267578,
+        1129.9019775390625,
+        1147.9088134765625,
+        1186.6630859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_001/002_title_0.93.png",
+    "text": "11.1\nAreas of Sector and Segment of a Circle"
+}

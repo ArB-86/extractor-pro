@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9444703459739685,
+    "bbox": [
+        192.5037384033203,
+        1282.561279296875,
+        1754.174560546875,
+        1391.0858154296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_022/003_plain_text_0.94.png",
+    "text": "The table above is called a cumulative frequency\ndistributionof themore\nthan type. Here 0, 10, 20, . . ., 90 give the lower limits of the respective class intervals."
+}

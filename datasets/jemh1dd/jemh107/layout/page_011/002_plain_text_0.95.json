@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9491098523139954,
+    "bbox": [
+        194.7496337890625,
+        395.7550354003906,
+        1750.908203125,
+        505.2228698730469
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/002_plain_text_0.95.png",
+    "text": "Therefore, the point (- 4, 6) divides the line segment joining the points A(- 6, 10) and\nB(3, - 8) in the ratio 2 : 7."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9434464573860168,
+    "bbox": [
+        191.3883514404297,
+        1003.6139526367188,
+        1755.396240234375,
+        1109.905517578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/000_plain_text_0.94.png",
+    "text": "If a set A has only\none element, we call it a singleton set. Thus,^ a\n31\n1sa\nsingletonset."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8333863615989685,
+    "bbox": [
+        193.4835662841797,
+        1154.628173828125,
+        1107.0189208984375,
+        1211.500244140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/012_plain_text_0.83.png",
+    "text": "Solution\nn We have, A U B = { a, \u00e9, i, o, u } = A."
+}

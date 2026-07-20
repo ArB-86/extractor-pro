@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9299448132514954,
+    "bbox": [
+        245.8782501220703,
+        1004.4797973632812,
+        1754.5078125,
+        1180.1898193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/003_plain_text_0.93.png",
+    "text": "a\nD\nC1\n3. On comparing the ratios\nfind out whether the following pair of linear\nand\na2\nb2\nC2\nequations are consistent, or inconsistent."
+}

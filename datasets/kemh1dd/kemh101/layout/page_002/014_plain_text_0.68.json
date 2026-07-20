@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6774193048477173,
+    "bbox": [
+        301.8587951660156,
+        1544.5950927734375,
+        1638.4188232421875,
+        1713.6923828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/014_plain_text_0.68.png",
+    "text": "(i)\nObjects, elements\nand\nmembers of a set\nare synonymous\nterms.\n(i)\nSets\ns are usually denoted by capital letters.\nA, B, C, X, Y, Z, e\netc.\nThe elements of\nrepresented b\nby\nsmall letters a,\n111\na set\nb, c, x, y,\nare"
+}

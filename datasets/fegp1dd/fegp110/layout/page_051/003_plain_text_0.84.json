@@ -1,0 +1,13 @@
+{
+    "page": 51,
+    "label": "plain_text",
+    "confidence": 0.8391932845115662,
+    "bbox": [
+        294.91082763671875,
+        2964.522705078125,
+        2041.412353515625,
+        3027.144287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_051/003_plain_text_0.84.png",
+    "text": "Ans.\na.-13\nb. +15\nc. -14\nd. -19\ne. +10\nf. -9"
+}

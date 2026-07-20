@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9505386352539062,
+    "bbox": [
+        375.24853515625,
+        284.911376953125,
+        2091.068603515625,
+        409.9408264160156
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/000_plain_text_0.95.png",
+    "text": "2\u3002\nExpress each of the following as a product of powers of their prime\nfactors in exponential form."
+}

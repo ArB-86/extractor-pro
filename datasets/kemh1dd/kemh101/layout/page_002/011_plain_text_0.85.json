@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.848287045955658,
+    "bbox": [
+        295.4075012207031,
+        1415.818603515625,
+        1452.1151123046875,
+        1468.282958984375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/011_plain_text_0.85.png",
+    "text": "Weshall say\nthat a set is a well-defined collection of objects."
+}

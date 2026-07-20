@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5058128833770752,
+    "bbox": [
+        243.4730224609375,
+        1813.6070556640625,
+        1754.355712890625,
+        1913.700439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_005/009_plain_text_0.51.png",
+    "text": "6. A chord of a circle of radius 15\ncm subtends an angle of 60\u00b0 at the centre. Find\nthe areas of the corresponding\nminor and major"
+}

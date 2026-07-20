@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9840666055679321,
+    "bbox": [
+        239.92514038085938,
+        1731.6173095703125,
+        1796.019775390625,
+        2173.847412109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_001/000_plain_text_0.98.png",
+    "text": "Observet\nthat x red boxes will have 4x pens and y blue boxes will\nhave 5y pencils. Also, he got 3 extra pens free. Thus, the total number\nof pens and pencils is\ngiven by the algebraic\nexpression 4x + 5y + 3.\nIn this example, 4x, 5y a\nand 3 are terms of the e\nexpression, x and y a\nare\nrespectively, and 3 is a constant. From now onwards, we will\n. usea\nwidely used alternate word for letter-numbers: variables. Thus in the\nexpression 4x + 5y + 3, we say that the variables used are x and y."
+}

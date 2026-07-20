@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.7182691097259521,
+    "bbox": [
+        295.8853454589844,
+        2140.875732421875,
+        1225.420166015625,
+        2298.708984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_039/006_plain_text_0.72.png",
+    "text": "Ans.\n360\u00b0\nis a multiple of 45\u00b0.\na. yes, as\nb. No, a\n360\u00b0\n not a multiple of 17\u00b0.\nas\n1S"
+}

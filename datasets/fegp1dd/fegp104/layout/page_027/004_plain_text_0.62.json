@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.6209418773651123,
+    "bbox": [
+        502.780029296875,
+        1400.9010009765625,
+        2169.383056640625,
+        1605.2230224609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_027/004_plain_text_0.62.png",
+    "text": "depicts\nthe\ncorresponding\nfrequency\n(for\nexample,\ncost)\nor\nquantity (for example, runs)."
+}

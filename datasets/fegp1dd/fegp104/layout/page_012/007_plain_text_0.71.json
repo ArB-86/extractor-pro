@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7140153646469116,
+    "bbox": [
+        361.5809631347656,
+        565.2686157226562,
+        2094.7578125,
+        998.7308349609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_012/007_plain_text_0.71.png",
+    "text": "How many symbols represent the kites that Rani purchased?\na.\nb.\nWho purchased the maximum number of kites?\nWho purchased more kites, Jasmeet or Chaman?\nC.\nd.\nRukhsana\nPoonam\nBen\nmore\nthan double\ne the\nA says\npurchased\nnumber of kites that Rani\ni purchased. Is she correct? Why?"
+}

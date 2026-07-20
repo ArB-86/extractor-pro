@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9506067037582397,
+    "bbox": [
+        376.8600769042969,
+        285.3505554199219,
+        2090.95361328125,
+        411.9012145996094
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_004/005_plain_text_0.95.png",
+    "text": "The squares of natural\nnumbers are called\nperfect squares. For\nexample, 1, 4, 9, 16, 25, ... are all perfect squares."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8580665588378906,
+    "bbox": [
+        196.71693420410156,
+        1478.6910400390625,
+        1510.5372314453125,
+        1528.519287109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/006_plain_text_0.86.png",
+    "text": "We can also have intervals closed at one end and open at the other, i.e.,"
+}

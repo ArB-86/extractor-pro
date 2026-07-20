@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.7704978585243225,
+    "bbox": [
+        288.13250732421875,
+        596.7528686523438,
+        1574.0721435546875,
+        763.7218627929688
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_008/011_plain_text_0.77.png",
+    "text": "A={0},\nB\n3={x: x >)\n15\nand x\n<5},\nC={x:x-5=0},\nD= {x: x\u00b2= 25},\nE = {x : x is an\npositive root of the equation x\u00b2 - 2x -15 = 0}.\nintegral"
+}

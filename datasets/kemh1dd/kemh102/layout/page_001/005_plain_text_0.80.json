@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.7974405884742737,
+    "bbox": [
+        194.814697265625,
+        2381.32373046875,
+        937.0120849609375,
+        2436.605224609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/005_plain_text_0.80.png",
+    "text": "Thus, we\nget 6 distinct objects\n(Fig 2.1)."
+}

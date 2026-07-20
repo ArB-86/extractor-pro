@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9397038221359253,
+    "bbox": [
+        193.14144897460938,
+        1861.059814453125,
+        1752.5465087890625,
+        1969.2921142578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_002/007_plain_text_0.94.png",
+    "text": "If we consider the surface of the newly formed object, we would be able to see\nonly the curved surfaces of the two hemispheres and the curved surface of the cylinder."
+}

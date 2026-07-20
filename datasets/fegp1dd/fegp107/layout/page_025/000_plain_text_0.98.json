@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.975011944770813,
+    "bbox": [
+        291.4428405761719,
+        543.0512084960938,
+        1562.0743408203125,
+        867.10107421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_025/000_plain_text_0.98.png",
+    "text": "Meena's\nchikki. Meena\n1-2\nfather\nmade\nsome\nate\nof it\nher\nbrother\n1-4\nof it. How\nand\nyounger\nate\nmuch\nof\nthe\ntotal\nchikki\ndid\nMeena\nand\nher\nbrother\neat together?"
+}

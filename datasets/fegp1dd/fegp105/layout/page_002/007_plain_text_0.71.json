@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.708369791507721,
+    "bbox": [
+        476.6650695800781,
+        2364.144775390625,
+        1069.8868408203125,
+        2589.249267578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_002/007_plain_text_0.71.png",
+    "text": "Yesterday, we\nplayed this\ngame\nwith\nntwo\nnumbers. We ended\n\"idli' or \u2018idli-vada\ns dn\nsaying just\nand nobody :\nsaid j\njust\n'vada'!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9338203072547913,
+    "bbox": [
+        287.54107666015625,
+        568.334228515625,
+        2087.364990234375,
+        692.6954956054688
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/003_plain_text_0.93.png",
+    "text": "?.\nFind how many numbers lie between two consecutive perfect squares.\nDo you notice a pattern?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.930138885974884,
+    "bbox": [
+        376.47418212890625,
+        287.9002990722656,
+        1742.327392578125,
+        359.196044921875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/004_title_0.93.png",
+    "text": "Perfect Cubes and Consecutive\nOdd Numbers"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9476944208145142,
+    "bbox": [
+        294.63836669921875,
+        776.0626220703125,
+        2085.828857421875,
+        917.412841796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_015/003_plain_text_0.95.png",
+    "text": "Do you know of any other shape that has exactly f\nfour angles of\nsymmetry?"
+}

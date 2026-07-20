@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8909262418746948,
+    "bbox": [
+        192.99586486816406,
+        615.13330078125,
+        1754.009521484375,
+        739.4403686523438
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_004/002_plain_text_0.89.png",
+    "text": "Example 5 If R is the set of all real numbers, what do the cartesian products R \u00d7 R\nand R x R x R represent?"
+}

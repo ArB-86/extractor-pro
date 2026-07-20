@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8852866291999817,
+    "bbox": [
+        324.5758361816406,
+        1651.045654296875,
+        1631.3231201171875,
+        1710.0938720703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/012_plain_text_0.89.png",
+    "text": "Step 5: Substitute p = 2k back into our equation from Step 3:"
+}

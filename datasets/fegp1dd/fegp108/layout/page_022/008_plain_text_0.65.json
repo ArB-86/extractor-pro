@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.6500020623207092,
+    "bbox": [
+        608.6727905273438,
+        1110.696044921875,
+        2151.406494140625,
+        1183.322998046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_022/008_plain_text_0.65.png",
+    "text": "e base\nCD\nmeasuring\ng length 5 cm can be easily\nconstructe"
+}

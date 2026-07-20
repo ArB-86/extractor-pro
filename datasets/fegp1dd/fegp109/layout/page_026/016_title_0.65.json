@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "title",
+    "confidence": 0.647859513759613,
+    "bbox": [
+        856.6008911132812,
+        302.8686218261719,
+        1626.07861328125,
+        364.8602600097656
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_026/016_title_0.65.png",
+    "text": "CHAPTER 9-\n- SOLUTIONS"
+}

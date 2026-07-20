@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9635825753211975,
+    "bbox": [
+        191.4165496826172,
+        1655.343505859375,
+        1751.808837890625,
+        1835.80419921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_018/000_plain_text_0.96.png",
+    "text": "Solution : Since\nWill\napply the identity\ninvolving\n sec \u03b8a\nand tan \u03b8, let us first\nwe\nconvert the LHS\ns (of the identity\nwe need to prove) in terms of sec 0 and tan 0 by\ndividing numerator and denominator by cos 0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8779950737953186,
+    "bbox": [
+        246.70213317871094,
+        1875.55908203125,
+        1753.7841796875,
+        2073.878662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_010/006_plain_text_0.88.png",
+    "text": "8.\nA spherical\n glass vessel has a cylindrical r\nneck 8 cm\nn long, 2 cm in diameter; the diameter\nof the spherical\npart is 8.5 cm. By measuring\nthe amount of water it holds, a child finds its\nvolume\ne tobe345\ncm?. Check\nwhether\nshe is\ns correct, taking\nthe above\nas\nthe\ninside\nmeasurements, and \u03c0 = 3.14."
+}

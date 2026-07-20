@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.801063060760498,
+    "bbox": [
+        193.9381561279297,
+        2346.1357421875,
+        1439.456298828125,
+        2400.571044921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/006_plain_text_0.80.png",
+    "text": "(iv) Using the sets A x B and A x C from part \n(ii)\nabove, we obtain"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.797654926776886,
+    "bbox": [
+        292.3201599121094,
+        396.2011413574219,
+        1106.7608642578125,
+        450.8594055175781
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_003/007_plain_text_0.80.png",
+    "text": "Therefore, their\nproduct\n(x -5) (40 -x)\n\u4e8c"
+}

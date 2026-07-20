@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.809169590473175,
+    "bbox": [
+        291.9671630859375,
+        498.7433776855469,
+        1898.96142578125,
+        561.4173583984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_053/008_plain_text_0.81.png",
+    "text": "Q.1. Looking at the geographical cross section fill in the respective heights:"
+}

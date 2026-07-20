@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.8510039448738098,
+    "bbox": [
+        625.6058959960938,
+        396.6468200683594,
+        1751.2340087890625,
+        470.3212585449219
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_003/005_title_0.85.png",
+    "text": "Table 1: Examples of 1\nnumber sequences"
+}

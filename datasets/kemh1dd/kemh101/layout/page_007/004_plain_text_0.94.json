@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9350659847259521,
+    "bbox": [
+        192.00091552734375,
+        1952.87841796875,
+        1753.3690185546875,
+        2114.722412109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_007/004_plain_text_0.94.png",
+    "text": "Definition3\nTwosetsAandB\nare said to be equal if they l\nhave exactlythesame\nelements and we write A = B. Otherwise, the sets are said to be unequal and we write\nA \u2260B."
+}

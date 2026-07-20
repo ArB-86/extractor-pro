@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.6335432529449463,
+    "bbox": [
+        253.87571716308594,
+        696.781005859375,
+        1754.264404296875,
+        951.1281127929688
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_001/004_title_0.63.png",
+    "text": "PAIR OF LINEAR EQUATIONS \nVARIABLES\nIN TwO"
+}

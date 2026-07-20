@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9741695523262024,
+    "bbox": [
+        194.7100372314453,
+        402.6757507324219,
+        851.8383178710938,
+        1017.1652221679688
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_007/000_plain_text_0.97.png",
+    "text": "We see from the table above\nthat - 2, 0 and 2 are zeroes of the\ncubic polynomial x3 - 4x. Observe\nthat -2, 0 and 2 are, in fact, the\nx-coordinates of the only points\nwhere the graph of y = x3 - 4x\nintersects the x-axis. Since the curve\nmeets the x-axis in only these 3\npoints, their x-coordinates are the\nonly zeroes of the polynomial."
+}

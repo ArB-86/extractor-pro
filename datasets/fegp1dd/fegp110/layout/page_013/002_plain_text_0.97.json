@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9687443375587463,
+    "bbox": [
+        418.5833435058594,
+        2748.640380859375,
+        2211.988037109375,
+        2965.4912109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_013/002_plain_text_0.97.png",
+    "text": "In this way, you can carry\n out addition and subtraction problems,\nan\nunmarked number line."
+}

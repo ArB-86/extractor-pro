@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9764629602432251,
+    "bbox": [
+        424.9377746582031,
+        1662.9693603515625,
+        1700.0765380859375,
+        2106.032958984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_014/000_plain_text_0.98.png",
+    "text": "The\nWindmill\nin\nthe\npicture\nlooks\npaper\nsymmetrical but there is no\nline of\nsymmetry!\nHowever, if\nyou fold it, the two halves will\nnot\nexactly overlap. On the other hand, if you rotate\nit by 90\u00b0 about the red\npoint at the centre, the\nWindmill looks exactly the same."
+}

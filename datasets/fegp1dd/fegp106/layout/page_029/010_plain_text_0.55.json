@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.550439715385437,
+    "bbox": [
+        411.9512634277344,
+        1217.9327392578125,
+        1923.056640625,
+        1278.8612060546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_029/010_plain_text_0.55.png",
+    "text": "Possible dimensions of shape B are 5m and 4m; 10m and 2m; 20m and 1m"
+}

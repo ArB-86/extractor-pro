@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9165201187133789,
+    "bbox": [
+        375.7192687988281,
+        936.1959228515625,
+        1819.85888671875,
+        1059.064208984375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/003_plain_text_0.92.png",
+    "text": "Weseet\nthat 2 x 2 x 2 = 8 and 3 x 3 x 3 = 27. This shows that\n9 is not a perfect cube. Nor is any number from 10 to 26."
+}

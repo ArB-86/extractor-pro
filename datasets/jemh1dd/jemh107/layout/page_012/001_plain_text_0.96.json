@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.955138623714447,
+    "bbox": [
+        192.41473388671875,
+        431.0456848144531,
+        1750.5364990234375,
+        548.205322265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_012/001_plain_text_0.96.png",
+    "text": "Therefore, the coordinates of the points of trisection of the line segment joining A and\nB are (-1, 0) and (- 4, 2)."
+}

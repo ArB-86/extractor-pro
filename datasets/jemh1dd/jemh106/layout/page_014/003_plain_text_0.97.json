@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9659731984138489,
+    "bbox": [
+        226.24583435058594,
+        744.357666015625,
+        1725.0299072265625,
+        1021.8367309570312
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_014/003_plain_text_0.97.png",
+    "text": "must\nbe noted\nthat as\ndone\nin\nthe\ncase\nof\ncongruency\nof\ntwo\ntriangles, t\nthe\nsimilarity of two\ntriangles should also be expressed\nsymbolically,\nusing\ncorrect\ncorrespondence of their vertices. For example, for the triangles ABC and DEF of\nFig. 6.22,\nWrite \u25b3ABC ~\u25b3\nEDF\n or \u25b3 ABC ~ \u25b3]\nFED.However,\nwecannot\nwe\ncan write\nBAC ~ \u25b3\nEDF."
+}

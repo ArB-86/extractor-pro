@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.8423060774803162,
+    "bbox": [
+        297.47967529296875,
+        1701.846923828125,
+        2188.81884765625,
+        1948.138427734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_044/002_plain_text_0.84.png",
+    "text": "Q.2.\nIf\nmaking\nyou\na\ntable\nof\nthe\nlongest\nrivers\neach\ncontinent\nand\ntheir\nwere\non\nlengths, would\nyou\nprefer to\nbar\nwith\nvertical bars or\nuse a\nwith\nn horizontal\ngraph\nbars?\nWhy? T\nTry\nfinding\nthis\ninformation,\nthen\nmake\nthe\n corresponding\nout\nand\ntable\nand\nbar\ngraph! Which\ncontinents\nhave\nthe\ne longest rivers?"
+}

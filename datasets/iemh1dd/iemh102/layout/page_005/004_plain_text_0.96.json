@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9558185935020447,
+    "bbox": [
+        237.76959228515625,
+        422.3298034667969,
+        1795.3114013671875,
+        529.8743896484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_005/004_plain_text_0.96.png",
+    "text": "When we equate a linear j\npolynomial in one variable to a constant,\nget a linear equation. Let us consider the following\nWe\nexample."
+}

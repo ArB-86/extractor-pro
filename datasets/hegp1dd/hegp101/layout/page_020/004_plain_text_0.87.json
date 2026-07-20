@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8717626929283142,
+    "bbox": [
+        380.9558410644531,
+        2038.6328125,
+        2092.885009765625,
+        2162.727783203125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/004_plain_text_0.87.png",
+    "text": "5. Find the smallest square number that is divisible by\neach of the\nfollowing\n numbers: 4, 9, and 10"
+}

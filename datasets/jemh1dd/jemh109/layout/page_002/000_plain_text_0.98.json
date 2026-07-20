@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9758156538009644,
+    "bbox": [
+        192.87559509277344,
+        1126.0926513671875,
+        1757.9486083984375,
+        1346.51513671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_002/000_plain_text_0.98.png",
+    "text": "Now, consider\nthe situation\ngiven\nin\nFig. 8.2. The\ngirl s\nsitting\nthe\ne balcony\non\n1S\nlooking\numop\nat a flower\npot placed on a stair of the temple. In this\ncase, the line of\nsight is below\nthe horizontal level. The angle so\nformed by the line of sight with the\nhorizontal\nis called the\n angle of depression."
+}

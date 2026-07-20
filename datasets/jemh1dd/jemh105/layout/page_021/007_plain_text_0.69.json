@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6932227611541748,
+    "bbox": [
+        225.61373901367188,
+        1432.2135009765625,
+        1000.6043090820312,
+        1481.114501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_021/007_plain_text_0.69.png",
+    "text": "13.\nFind the sum of the first 15 r\nmultiples of 8."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8904864192008972,
+    "bbox": [
+        273.7684326171875,
+        466.13519287109375,
+        1151.9659423828125,
+        596.6544799804688
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_010/004_plain_text_0.89.png",
+    "text": "1-2\n8\u4e00\n1\n3\n8\u4e00\n6.\nShow that:\n\u4e00\n\u00d7\n\u4e8c\n4\n3\n2\n3\n4\n3"
+}

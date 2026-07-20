@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8004708290100098,
+    "bbox": [
+        322.81744384765625,
+        395.39422607421875,
+        1788.69189453125,
+        468.59600830078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_020/006_plain_text_0.80.png",
+    "text": "Use the bar\ngraph to answer\nthe following\n questions:"
+}

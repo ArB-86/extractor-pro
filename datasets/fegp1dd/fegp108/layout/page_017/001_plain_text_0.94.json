@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9388265609741211,
+    "bbox": [
+        291.75787353515625,
+        2735.708740234375,
+        1403.9705810546875,
+        2879.148681640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_017/001_plain_text_0.94.png",
+    "text": "Compare\nthe\nlengths\nthe\ndiagonals.\nof\nFirst\npredict the\nThen\nanswer.\nconstruct\na"
+}

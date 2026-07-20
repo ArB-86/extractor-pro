@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9293075203895569,
+    "bbox": [
+        287.6651306152344,
+        1513.7532958984375,
+        1809.8203125,
+        1811.354248046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_003/003_plain_text_0.93.png",
+    "text": "Look\nthe\ndiagram\n(Fig. 2.3) of\nat\na ray.\nTWO\npoints\nare\nmarked on it. One is the starting point A a\nand the other\nis a point P\nthe\ne path of the ray. We then\ndenote the\non t\nAP.\nray\nby"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9369984865188599,
+    "bbox": [
+        192.59259033203125,
+        1409.44140625,
+        1753.919921875,
+        1515.7257080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_022/004_plain_text_0.94.png",
+    "text": "Now, to find the median of\ngrouped data, we can 1\n make use of any of these\ncumulative frequency distributions."
+}

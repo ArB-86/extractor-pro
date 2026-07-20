@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7871140837669373,
+    "bbox": [
+        245.07594299316406,
+        713.56982421875,
+        790.8748168945312,
+        771.5856323242188
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_009/008_plain_text_0.79.png",
+    "text": "Prove that\n\u221a5\n1.\nis irrational."
+}

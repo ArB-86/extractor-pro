@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9295509457588196,
+    "bbox": [
+        194.45626831054688,
+        1124.86181640625,
+        1754.3729248046875,
+        1232.5413818359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/004_plain_text_0.93.png",
+    "text": "The symbols for the special sets\ngiven above will be referred to throughout\nthis text."
+}

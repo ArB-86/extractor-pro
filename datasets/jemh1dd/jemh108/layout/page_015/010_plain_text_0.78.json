@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7827352285385132,
+    "bbox": [
+        312.9409484863281,
+        1757.166015625,
+        670.9732666015625,
+        1869.584716796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_015/010_plain_text_0.78.png",
+    "text": "2\ntan\n30\u00b0\n(iv)\n\u4e8c\n1\n2\n\u4e00\ntan\n30\u00b0"
+}

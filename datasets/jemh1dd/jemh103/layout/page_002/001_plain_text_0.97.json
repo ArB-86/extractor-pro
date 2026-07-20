@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.966579020023346,
+    "bbox": [
+        192.6221466064453,
+        468.2955322265625,
+        1753.17333984375,
+        577.944091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/001_plain_text_0.97.png",
+    "text": "Denote the number of rides that Akhila had by x, and the number of times she\nplayed Hoopla by y. Now the situation can be represented by the two equations:"
+}

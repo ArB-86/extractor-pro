@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8911356329917908,
+    "bbox": [
+        196.2025604248047,
+        537.4843139648438,
+        1498.066162109375,
+        596.8090209960938
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/009_plain_text_0.89.png",
+    "text": "Example 3 Write the set A = {1, 4, 9, 16, 25, . . . }in set-builder form."
+}

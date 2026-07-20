@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9467215538024902,
+    "bbox": [
+        193.12344360351562,
+        1752.049072265625,
+        1374.240966796875,
+        1805.7174072265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_009/001_plain_text_0.95.png",
+    "text": "Hence, the required difference of the two volumes = 25.12 cm3."
+}

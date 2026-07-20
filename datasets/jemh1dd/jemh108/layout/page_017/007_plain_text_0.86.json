@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8563998937606812,
+    "bbox": [
+        188.02996826171875,
+        1000.3763427734375,
+        1749.9288330078125,
+        1194.050537109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_017/007_plain_text_0.86.png",
+    "text": "Let us see how we can do this using\nthese identities. Suppose we know that\n\u4e00\n\u221a3.\ntan A =\nThen, cot A =\n\u221a3"
+}

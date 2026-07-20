@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9127975106239319,
+    "bbox": [
+        195.07069396972656,
+        995.2536010742188,
+        1754.35205078125,
+        1283.9010009765625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/001_plain_text_0.91.png",
+    "text": "ii)\nIn set-builder form, all the elements of a set possess a single\ncommon\nproperty\nwhich is not possessed\nd by\nelement outside the set. For\nexample, in\nthe set\nany\n{a, e, i, o, u}, all the elements possess a common property, namely, each of them\nis a vowel in the English alphabet, and no other letter possess tl\n this property. Denoting\nthis set\nby V,\nwe write"
+}

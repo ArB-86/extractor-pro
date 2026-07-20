@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9834416508674622,
+    "bbox": [
+        192.80526733398438,
+        2133.162109375,
+        1756.244384765625,
+        2563.580078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_021/001_plain_text_0.98.png",
+    "text": "We can similarly make the table for the number of students with scores, more\nthan or equal to 0, more than or equal to 10, more than or equal to 20, and so on. From\nTable 13.12, we observe that all 53 students have scored marks more than or equal to\n0. Since there are 5 students scoring marks in the interval 0 - 10, this means that there\nare 53 - 5 = 48 students getting more than or equal to 10 marks. Continuing in the\nsame manner, we get the number of students scoring 20 or above as 48 - 3 = 45, 30 or\nabove as 45 - 4 = 41, and so on, as shown in Table 13.14."
+}

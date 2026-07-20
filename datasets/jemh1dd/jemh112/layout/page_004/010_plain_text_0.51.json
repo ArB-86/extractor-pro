@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5069450736045837,
+    "bbox": [
+        201.395751953125,
+        1346.9637451171875,
+        1752.4110107421875,
+        1455.8487548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_004/010_plain_text_0.51.png",
+    "text": "You may\n note that \u2018total surface area of the top\nis not the sum of the total\nsurface areas of the cone and hemisphere.\n4.2cm"
+}

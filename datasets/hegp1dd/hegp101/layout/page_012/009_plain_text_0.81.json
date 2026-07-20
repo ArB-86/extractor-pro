@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8068721890449524,
+    "bbox": [
+        378.78204345703125,
+        351.19970703125,
+        2089.898681640625,
+        464.8096008300781
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/009_plain_text_0.81.png",
+    "text": "These numbers are called perfect cubes. Can you see why they\nare\nnamed so?"
+}

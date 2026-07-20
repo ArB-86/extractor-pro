@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9432583451271057,
+    "bbox": [
+        343.3937683105469,
+        1121.684814453125,
+        1605.56787109375,
+        1283.5430908203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_001/003_plain_text_0.94.png",
+    "text": "The\ntheory of probabilities\nand\nthe\ntheory c\nof\nerrors\nnow\nconstitute\nformidable\nbody\nof \ngreat\nmathematical\ninterest\nD\nand\nof\ngreat\npractical\nimportance."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.740360677242279,
+    "bbox": [
+        193.25474548339844,
+        1853.5704345703125,
+        1756.667236328125,
+        2174.8046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/011_plain_text_0.74.png",
+    "text": "Now, we are\ngiven that p divides a?. Therefore, from the Fundamental T\nTheorem of\nArithmetic, it follows that p is one of the\nprime\nfactors of a?. However, using\nthe\nuniquenessp\n part of the Fundamental Theorem of Arithmetic, we realise that the only\nprime f\nfactors of a\u00b2 a\nNow, since a = p, P2\ndivides a.\n\u00b7\u00b7Pn,p"
+}

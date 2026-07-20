@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "title",
+    "confidence": 0.7999385595321655,
+    "bbox": [
+        300.29736328125,
+        2320.385009765625,
+        1840.013916015625,
+        2393.125732421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_031/004_title_0.80.png",
+    "text": "Brahmagupta's method for subtracting\ntwo1\nfractions"
+}

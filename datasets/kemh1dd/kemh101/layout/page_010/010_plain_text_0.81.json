@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8086020946502686,
+    "bbox": [
+        192.21461486816406,
+        1904.97705078125,
+        1750.69482421875,
+        2018.7276611328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/010_plain_text_0.81.png",
+    "text": "Solution No. Let A= {1}, B = {{1}, 2} and C = {{1}, 2, 3}. Here A \u2208 B as A= {1}\nand B c C. But A  C as 1 \u2208 A and 1  C."
+}

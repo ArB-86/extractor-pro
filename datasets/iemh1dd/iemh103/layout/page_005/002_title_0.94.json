@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9393772482872009,
+    "bbox": [
+        238.5703887939453,
+        313.2486877441406,
+        1302.9910888671875,
+        377.2124938964844
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_005/002_title_0.94.png",
+    "text": "3.3\nINTEGERS: EXPANDING\nHORIZON\nTHE"
+}

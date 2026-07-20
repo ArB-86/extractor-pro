@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8391346335411072,
+    "bbox": [
+        193.99977111816406,
+        2284.121337890625,
+        503.41583251953125,
+        2334.23388671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/009_plain_text_0.84.png",
+    "text": "the\n1\nset"
+}

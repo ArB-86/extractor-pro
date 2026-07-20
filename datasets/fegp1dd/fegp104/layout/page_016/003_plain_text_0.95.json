@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9515464305877686,
+    "bbox": [
+        291.93536376953125,
+        2579.02734375,
+        2087.449951171875,
+        2877.078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_016/003_plain_text_0.95.png",
+    "text": "3.\nFor\njalebi,\ntherefore need\n to draw a bar\nhaving\ng a height of\nwe\nf 6\n(which is\nthe f\nfrequency of the\nt jalebi),\nsimilarly\nunits\nsweet\nand\nfor\nthe\nother\nhave\nto\ndraw\nbars\nhigh\nsweets\nwe\nas\nas\ntheir\nfrequencies."
+}

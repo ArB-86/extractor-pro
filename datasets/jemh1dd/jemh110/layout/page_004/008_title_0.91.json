@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9091470241546631,
+    "bbox": [
+        789.5945434570312,
+        1545.6114501953125,
+        1155.0167236328125,
+        1603.0758056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/008_title_0.91.png",
+    "text": "XE\nER\nCISE\nE\n10."
+}

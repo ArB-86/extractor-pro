@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8448577523231506,
+    "bbox": [
+        302.0373840332031,
+        2098.406982421875,
+        1737.0731201171875,
+        2397.01611328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/007_plain_text_0.84.png",
+    "text": "When\n is added to a number,\nzero\nthe\nnumber\nc remains\nunchanged:\n'=O+D\nWhen\nzero\nis\nsubtracted\nfrom\na\nnumber\nthe\nnumber\nremains\nunchanged: a - 0 = a.\nWhen any\nnumber is multiplied by\nzero, the result is zero: a x 0 = 0."
+}

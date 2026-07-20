@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.930372953414917,
+    "bbox": [
+        192.6291046142578,
+        975.0120239257812,
+        1543.7364501953125,
+        1032.062255859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_013/005_plain_text_0.93.png",
+    "text": "Solution : The number of rose plants in the 1st, 2nd, 3rd, . . ., rows are :"
+}

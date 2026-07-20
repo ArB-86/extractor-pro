@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.6465607285499573,
+    "bbox": [
+        296.1456298828125,
+        2848.26171875,
+        1086.082275390625,
+        3106.680908203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_048/013_plain_text_0.65.png",
+    "text": "Ans.\nMark A = 2, B = 5, C = 8\nP= -1, Q= -3, R = -7\n(Try other\npossibilities)"
+}

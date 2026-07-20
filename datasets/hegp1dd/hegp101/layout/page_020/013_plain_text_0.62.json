@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6234032511711121,
+    "bbox": [
+        549.5751342773438,
+        2519.8818359375,
+        2081.58935546875,
+        2587.5107421875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/013_plain_text_0.62.png",
+    "text": "many numbers lie between the squares of the following numbers?"
+}

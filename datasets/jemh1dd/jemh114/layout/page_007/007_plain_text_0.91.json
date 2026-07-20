@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9057114720344543,
+    "bbox": [
+        192.98023986816406,
+        641.8513793945312,
+        1755.217041015625,
+        700.6912231445312
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/007_plain_text_0.91.png",
+    "text": "Remark : Note that F is nothing\nbut\nE . Therefore, we can also calculate P(F)\nas"
+}

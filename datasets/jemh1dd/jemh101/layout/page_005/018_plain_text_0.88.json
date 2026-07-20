@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8792470097541809,
+    "bbox": [
+        246.1512451171875,
+        2256.03076171875,
+        1163.41455078125,
+        2307.3818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/018_plain_text_0.88.png",
+    "text": "4\u3002\nGiven that HCF (306, 657) = 9, find LCM (306, 657)."
+}

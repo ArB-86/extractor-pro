@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.522344172000885,
+    "bbox": [
+        288.49774169921875,
+        624.4354858398438,
+        1464.109130859375,
+        747.4365844726562
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/015_plain_text_0.52.png",
+    "text": "(i)\n5...A\n(i)\n8...A\n(ii)\n0...A\n(iv)\n4...A\n(v)\n2...A\n(vi)\n10...A"
+}

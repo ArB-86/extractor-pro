@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9127455353736877,
+    "bbox": [
+        491.3630676269531,
+        2331.1650390625,
+        1899.6756591796875,
+        2401.43408203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_001/005_plain_text_0.91.png",
+    "text": "Phrased\nanother way, we\nhave seen\nthe number line:"
+}

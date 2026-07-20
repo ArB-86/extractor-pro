@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9742943644523621,
+    "bbox": [
+        191.99905395507812,
+        1016.624267578125,
+        1753.8785400390625,
+        1186.3966064453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/000_plain_text_0.97.png",
+    "text": "Solution : Let us denote the incomes of the two person\nn by ? 9x and ? 7x and their\nexpenditures by  4y and  3y respectively. Then the equations formed in the situation\n1S9\ngivenby :"
+}

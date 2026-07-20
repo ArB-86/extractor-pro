@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.5192932486534119,
+    "bbox": [
+        356.0396728515625,
+        2159.07177734375,
+        1048.8160400390625,
+        2277.97900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_007/014_plain_text_0.52.png",
+    "text": "AC\n20\nBC\n21\nsin\n\u03b8\n\u03b8\n\u4e09\n\u4e09\nCOS\n\u4e8c\n\u4e8c\nAB\n29\nAB\n29"
+}

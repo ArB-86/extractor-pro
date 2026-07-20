@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9351280331611633,
+    "bbox": [
+        288.58245849609375,
+        895.4393310546875,
+        2087.441162109375,
+        1040.2291259765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_012/000_plain_text_0.94.png",
+    "text": " noK 1sn qon moy  on o o ysim noK g 6 wo mon\nalong the number line?"
+}

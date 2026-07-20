@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9605176448822021,
+    "bbox": [
+        525.22802734375,
+        1003.3301391601562,
+        2210.739501953125,
+        1212.1055908203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_026/003_plain_text_0.96.png",
+    "text": "There is a similarity\nbetween\nthe\nproblem of finding point\nA in this\nproblem and\npoint B at step\n03 of the second s\nsolved\nexample of the previous section (see page 209)."
+}

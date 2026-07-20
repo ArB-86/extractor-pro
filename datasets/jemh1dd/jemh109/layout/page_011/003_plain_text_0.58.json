@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.579998791217804,
+    "bbox": [
+        245.52491760253906,
+        1154.7503662109375,
+        1752.5230712890625,
+        1252.612548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_011/003_plain_text_0.58.png",
+    "text": "2. The height or length of an object or the distance between two distant objects can be\ndetermined with the help of trigonometric ratios."
+}

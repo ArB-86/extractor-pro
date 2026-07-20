@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.7651242613792419,
+    "bbox": [
+        382.82550048828125,
+        1286.1005859375,
+        680.4675903320312,
+        1351.710205078125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_022/004_title_0.77.png",
+    "text": "P\nage\nNo.\n17"
+}

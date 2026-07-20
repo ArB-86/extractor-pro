@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9581353068351746,
+    "bbox": [
+        193.62762451171875,
+        2093.996826171875,
+        1752.323974609375,
+        2256.396484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_003/002_plain_text_0.96.png",
+    "text": "In all the lists above, we see that successive terms are obtained by adding a fixed\nnumber to the preceding\ng terms. Such list of numbers is said to form an Arithmetic\nProgression ( AP )."
+}

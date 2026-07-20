@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9591825008392334,
+    "bbox": [
+        524.9754638671875,
+        2319.850830078125,
+        2207.31640625,
+        2459.848388671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_026/004_plain_text_0.96.png",
+    "text": "Draw a curve that has all its points of 5 cm from the point B; the\ncircle centred at B should be with 5 cm radius."
+}

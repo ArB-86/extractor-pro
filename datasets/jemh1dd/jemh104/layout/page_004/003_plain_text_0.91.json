@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9132574796676636,
+    "bbox": [
+        247.4275360107422,
+        2046.3814697265625,
+        1219.1370849609375,
+        2096.47705078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_004/003_plain_text_0.91.png",
+    "text": "1.\nCheck whether the following\ng are quadratic equations :"
+}

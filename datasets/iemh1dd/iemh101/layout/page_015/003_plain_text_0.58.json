@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5814834237098694,
+    "bbox": [
+        330.10772705078125,
+        530.845458984375,
+        1794.9306640625,
+        709.0823364257812
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_015/003_plain_text_0.58.png",
+    "text": "The\ne coordinates of a point\nt areof thef\nform\n(+\uff0c+)i\nin the :\nfirst\nquadrant, (-, +) in the second quadrant, (-, -) in the third quadrant\nand\nI (+, -) in the fourth quadrant."
+}

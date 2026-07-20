@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9517534971237183,
+    "bbox": [
+        299.2996520996094,
+        576.80615234375,
+        1752.96875,
+        675.8599243164062
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/001_plain_text_0.95.png",
+    "text": "with the assumption that the frequency of a class is centred at its mid-point, called its\nclassmark."
+}

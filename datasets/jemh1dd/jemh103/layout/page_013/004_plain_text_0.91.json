@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9148956537246704,
+    "bbox": [
+        245.93516540527344,
+        1775.7467041015625,
+        1751.0914306640625,
+        1874.88818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/004_plain_text_0.91.png",
+    "text": "1. Solve the following pair of linear equations by the elimination method and the substitution\nmethod:"
+}

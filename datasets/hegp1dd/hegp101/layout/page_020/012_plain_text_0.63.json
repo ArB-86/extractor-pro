@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.6276146173477173,
+    "bbox": [
+        378.2719421386719,
+        1516.392333984375,
+        1980.072265625,
+        1823.96337890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/012_plain_text_0.63.png",
+    "text": "3. Given\n1252 = 15625, what is the value of 126\"?\n(i)\n15625 + 126\n(ii) 1\n15625\n+\n262\n(iii)\n15625 + 253\n(iv)\n15625 + 251\n(v) 1\n15625 + 512\nAns. (iv)"
+}

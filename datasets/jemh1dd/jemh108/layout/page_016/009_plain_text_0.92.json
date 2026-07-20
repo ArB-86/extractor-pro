@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.919785737991333,
+    "bbox": [
+        289.97308349609375,
+        2340.91162109375,
+        1319.2579345703125,
+        2397.642333984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_016/009_plain_text_0.92.png",
+    "text": "Let us see what we\nget on dividing\n (1) by BC2. We\nget"
+}

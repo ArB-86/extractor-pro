@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8705865144729614,
+    "bbox": [
+        379.4024963378906,
+        2792.359130859375,
+        1240.3997802734375,
+        2852.58642578125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_009/009_plain_text_0.87.png",
+    "text": "Consider the following\nsituations"
+}

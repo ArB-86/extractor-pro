@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9735324382781982,
+    "bbox": [
+        191.82781982421875,
+        1596.9537353515625,
+        1755.5980224609375,
+        2386.43359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_003/001_plain_text_0.97.png",
+    "text": "What does the photographer do when she prints photographs of different sizes\nfrom the same negative? You must have heard about the stamp size, passport size and\npostcard size photographs. She generally takes a photograph on a small size film, say\nof 35mm size and then enlarges it into a bigger size, say 45mm (or 55mm). Thus, if we\nconsider any line segment in the smaller photograph (figure), its corresponding line\n45\n55\nsegment in the bigger photograph (figure) will be\nOr-\nof that of the line segment.\n35\n35\nThis really means that every line segment of the smaller photograph is enlarged\n(increased) in the ratio 35:45 (or 35:55). It can also be said that every line segment\nof the bigger photograph is reduced (decreased) in the ratio 45:35 (or 55:35). Further,\nif you consider inclinations (or angles) between any pair of corresponding line segments\nin the two photographs of different sizes, you shall see that these inclinations(or angles)\nare always equal. This is the essence of the similarity of two figures and in particular\nof two polygons. We say that:"
+}

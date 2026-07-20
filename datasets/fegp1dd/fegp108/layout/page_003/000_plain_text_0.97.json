@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9669386744499207,
+    "bbox": [
+        291.98309326171875,
+        1160.183837890625,
+        2079.680908203125,
+        1376.1485595703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_003/000_plain_text_0.97.png",
+    "text": "As shown in the figure, the point P is called the centre of the circle\nand the distance\nebetweent\nthe centre and any point on the circle is\ncalled the radius of the circle."
+}

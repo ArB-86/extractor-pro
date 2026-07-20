@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9208076000213623,
+    "bbox": [
+        195.8437957763672,
+        2155.82421875,
+        1752.8546142578125,
+        2259.130859375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/003_plain_text_0.92.png",
+    "text": "As noted in Section 1.6, there are many\nimportant subsets of R. We give below the\nnames of some of these subsets."
+}

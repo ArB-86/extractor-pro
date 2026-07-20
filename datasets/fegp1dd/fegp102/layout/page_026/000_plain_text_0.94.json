@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9397870898246765,
+    "bbox": [
+        418.20703125,
+        1792.278564453125,
+        2211.068115234375,
+        1934.890869140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_026/000_plain_text_0.94.png",
+    "text": "3.\nFold the semi-circular sheet in half as shown in Fig. 2.15 to form\na quarter circle."
+}

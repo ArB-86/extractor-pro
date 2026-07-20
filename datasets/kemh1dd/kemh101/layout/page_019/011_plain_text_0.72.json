@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7225738167762756,
+    "bbox": [
+        192.1588592529297,
+        1611.16845703125,
+        1595.7381591796875,
+        1670.0291748046875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_019/011_plain_text_0.72.png",
+    "text": "Solution Clearly A' = {1, 4, 5, 6}, B' = { 1, 2, 6 }. Hence A'  B' = { 1, 6 }"
+}

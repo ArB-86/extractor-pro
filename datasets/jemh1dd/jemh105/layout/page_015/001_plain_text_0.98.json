@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9758828282356262,
+    "bbox": [
+        193.90878295898438,
+        916.0840454101562,
+        856.00634765625,
+        1464.1983642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/001_plain_text_0.98.png",
+    "text": "Let us consider the situation again\ngiven in Section 5.1 in which Shakila\nput ? 100 into her daughter's money\nbox when she was one year old,\n 150 on her second birthday,\n 200 on her third birthday and will\ncontinue in the same way. How much\nmoney will be collected in the money\nbox by the time her daughter is 21\nyears old?"
+}

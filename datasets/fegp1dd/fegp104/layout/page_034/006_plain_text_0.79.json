@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.785287082195282,
+    "bbox": [
+        296.6971435546875,
+        1198.28955078125,
+        941.7781372070312,
+        1260.269287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_034/006_plain_text_0.79.png",
+    "text": "Ans.\nHockey\n (frequency - 8)."
+}

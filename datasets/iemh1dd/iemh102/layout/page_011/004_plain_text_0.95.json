@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9522414207458496,
+    "bbox": [
+        237.2279052734375,
+        1211.705078125,
+        1795.499755859375,
+        1321.121826171875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_011/004_plain_text_0.95.png",
+    "text": "A\nlinear\nrelationship\nthe\nrelationship\nrepresents\nbetween\ntwo\nvariables x and y, and can be expressed as y = ax + b."
+}

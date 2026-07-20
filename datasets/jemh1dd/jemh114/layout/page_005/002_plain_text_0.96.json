@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9584978222846985,
+    "bbox": [
+        192.45770263671875,
+        1257.10986328125,
+        1754.017333984375,
+        1383.7799072265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/002_plain_text_0.96.png",
+    "text": "In (1) and (2) above, is F not the same as *not E'? Yes, it is. We denote the event\nnot E'by E ."
+}

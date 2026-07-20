@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9457800984382629,
+    "bbox": [
+        194.80076599121094,
+        1224.508056640625,
+        1749.9698486328125,
+        1332.619873046875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/005_plain_text_0.95.png",
+    "text": "This example illustrates that union of sets A and its subset B is the set A\nitself, i.e., if B c A, then A U B = A."
+}

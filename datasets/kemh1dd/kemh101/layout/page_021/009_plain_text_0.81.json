@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8094572424888611,
+    "bbox": [
+        216.9822235107422,
+        2189.962890625,
+        1088.5001220703125,
+        2241.680419921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/009_plain_text_0.81.png",
+    "text": "5.\nShow\nthat if A c B, then\nC -BcC -A."
+}

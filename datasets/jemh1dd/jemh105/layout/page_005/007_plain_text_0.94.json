@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9429935216903687,
+    "bbox": [
+        192.19729614257812,
+        2226.66796875,
+        1468.263916015625,
+        2284.874755859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/007_plain_text_0.94.png",
+    "text": "where\nthe ( k + 1)th and the kth terms respectively.\np\nand\nare t\nI+Y"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9657580256462097,
+    "bbox": [
+        290.9840087890625,
+        1901.3831787109375,
+        2083.131103515625,
+        2120.324462890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_010/000_plain_text_0.97.png",
+    "text": "To go f\nfrom the Starting\ng Floor -200 to the Target Floor + 2000,\nwe\nmust\npress +2200\n0 (+ 200 to get to zero, and then + 2000\n) more after\nthat to get to + 2200). Therefore, (+ 2000) - (-200) =\n= +2200."
+}

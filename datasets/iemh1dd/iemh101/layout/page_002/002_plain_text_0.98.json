@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9789465665817261,
+    "bbox": [
+        239.20156860351562,
+        1937.3438720703125,
+        1796.064453125,
+        2267.686279296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_002/002_plain_text_0.98.png",
+    "text": "It is the beginning of the academic\nyear and Reiaan is both excited and\nThe\nfamily\nhas\njust moved\nI toa new\ncity.\nHe\nand\nhis\nsister\nnervous.'\nshalini,\nWill\nbe\nattending\nschool. Today,\nShalini\nWill\nhelp\na new\nhim\nsettle into the new environment. When someone is not able to see, this\ncan be a very\nbig challenge, but with their mother's transferable job, the\nsiblings\n have\ndone it often, and it has become\neasier with each\nmove."
+}

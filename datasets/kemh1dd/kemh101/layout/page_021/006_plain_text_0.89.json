@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8888474702835083,
+    "bbox": [
+        215.58340454101562,
+        1483.729248046875,
+        1754.6436767578125,
+        1587.8934326171875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/006_plain_text_0.89.png",
+    "text": "2\u3002\nIn each of the following, determine whether the statement is true or false. Ifit is\ntrue, prove it. If it is false, give an example."
+}

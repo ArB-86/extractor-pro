@@ -1,0 +1,13 @@
+{
+    "page": 40,
+    "label": "plain_text",
+    "confidence": 0.8755507469177246,
+    "bbox": [
+        414.4375915527344,
+        1389.9656982421875,
+        2185.947509765625,
+        1635.0196533203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_040/002_plain_text_0.88.png",
+    "text": "a. Prepare a\nfrequency\ndistribution\n1 table for the data.\nb. Which\nmeans\nof\ntransport\nwas used\nthe most?\nc. If\nthere\nto collect t\nthis\ndata,\nhow\ncould\ndo it?\nWrite\nthe steps\nyou\nwere\nyou\nor\nprocess."
+}

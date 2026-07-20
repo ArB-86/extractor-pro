@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9114649891853333,
+    "bbox": [
+        194.0867919921875,
+        395.117919921875,
+        1613.89794921875,
+        451.5362243652344
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_007/009_plain_text_0.91.png",
+    "text": "Example 6 : Find the dimensions of the prayer hall discussed in Section 4.1."
+}

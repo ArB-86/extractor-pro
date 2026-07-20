@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8264132738113403,
+    "bbox": [
+        217.9908447265625,
+        1976.9832763671875,
+        1450.910888671875,
+        2025.63232421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/011_plain_text_0.83.png",
+    "text": "3\u3002\nIf A and B are two sets such that A c B, then what is A U B ?"
+}

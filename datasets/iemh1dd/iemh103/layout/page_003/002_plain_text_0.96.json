@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9581418037414551,
+    "bbox": [
+        238.8723907470703,
+        2343.478759765625,
+        1799.0089111328125,
+        2456.62060546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/002_plain_text_0.96.png",
+    "text": "In the Upanishads and in the vast Buddhist literature starting well before\nthe 7th century BCE, the concept of Shunyata (emptiness or nothingness)"
+}

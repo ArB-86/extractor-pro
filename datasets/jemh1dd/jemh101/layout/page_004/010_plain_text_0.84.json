@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8405717611312866,
+    "bbox": [
+        193.5931396484375,
+        1061.7154541015625,
+        1753.8707275390625,
+        1395.4141845703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/010_plain_text_0.84.png",
+    "text": "Solution : If the number 4\", for any n, were to end with the digit zero, then it would be\ndivisible by 5. That is, the prime factorisation of 4n would contain the prime 5. This is\nnot possible because 4n = (2)2n; so the only prime in the factorisation of 4 is 2. So, the\nuniqueness of the Fundamental Theorem of Arithmetic\nguarantees that there are no\nother primes in the factorisation of 4r. So, there is no natural n\nnumber n for which 4n\nends with the digit zero."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "title",
+    "confidence": 0.9017125964164734,
+    "bbox": [
+        357.23577880859375,
+        521.3223876953125,
+        519.4713745117188,
+        584.3173828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_030/001_title_0.90.png",
+    "text": "Rule\nes"
+}

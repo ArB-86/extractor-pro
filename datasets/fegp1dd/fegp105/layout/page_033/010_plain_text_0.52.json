@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.5158554911613464,
+    "bbox": [
+        444.2547912597656,
+        875.2430419921875,
+        1182.006591796875,
+        933.2860107421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_033/010_plain_text_0.52.png",
+    "text": "Note: Think of\nmore such\nexamples."
+}

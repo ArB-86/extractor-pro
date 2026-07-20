@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.9080187082290649,
+    "bbox": [
+        296.97930908203125,
+        1256.41748046875,
+        877.452392578125,
+        1516.803955078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_050/002_plain_text_0.91.png",
+    "text": "Ans.\nZIHJ = ZJHI = 47\u00b0\nZGHK = IHJ = 23\u00b0\nZIHJ = ZJHI = 108\u00b0"
+}

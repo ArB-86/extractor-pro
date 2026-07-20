@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5799322724342346,
+    "bbox": [
+        459.4486999511719,
+        2035.0640869140625,
+        2081.1845703125,
+        2169.315673828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_004/012_plain_text_0.58.png",
+    "text": "Find more such starting positions and the \ne movements needed to\nreach Floor -5 and write the expressions."
+}

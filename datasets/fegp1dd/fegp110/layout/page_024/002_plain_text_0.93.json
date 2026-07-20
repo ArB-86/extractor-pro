@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9322155714035034,
+    "bbox": [
+        403.3831481933594,
+        1281.308349609375,
+        1817.61376953125,
+        1498.3135986328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_024/002_plain_text_0.93.png",
+    "text": "3.\nWhat\ncould\nbe\nSO\nspecial\nabout\nthese\ngrids?\nIs\nthe\nmagic in the numbers \ns or the\ne way they a\n are arranged\nor\nboth? Can\nmake more such\nyou\ngrids?"
+}

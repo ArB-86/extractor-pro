@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.881266713142395,
+    "bbox": [
+        192.3870391845703,
+        1999.8582763671875,
+        1108.3592529296875,
+        2104.8603515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/006_plain_text_0.88.png",
+    "text": "A = {2,4,6,8,10}\nand B = {4, 6}\nare subsets,\nand also B c A."
+}

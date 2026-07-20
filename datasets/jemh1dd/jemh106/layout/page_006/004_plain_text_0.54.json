@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.5371025800704956,
+    "bbox": [
+        314.72125244140625,
+        1375.659912109375,
+        1761.332275390625,
+        1726.5745849609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_006/004_plain_text_0.54.png",
+    "text": "All circles are\n.. (congruent, similar)\n11\nAll squares are\n(similar, congruent)\n(iii)\nAll\ntriangles are similar. (isosceles, equilateral)\n(iv)\nTwo polygons of the same number of sides are similar, if (a) their corresponding\nangles\nand\n(b)\ntheir corresponding sides are\nare\n..(equal,\nproportional)"
+}

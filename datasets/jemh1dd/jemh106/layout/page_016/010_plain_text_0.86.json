@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.8613128066062927,
+    "bbox": [
+        290.6204833984375,
+        521.4644165039062,
+        1618.3624267578125,
+        576.0530395507812
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_016/010_plain_text_0.86.png",
+    "text": "Thismay\nbe referred to as the AA similarity criterion for two triangle:"
+}

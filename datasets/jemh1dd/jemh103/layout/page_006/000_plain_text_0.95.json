@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9536070823669434,
+    "bbox": [
+        324.0858459472656,
+        394.5533447265625,
+        1753.0,
+        501.1119384765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/000_plain_text_0.95.png",
+    "text": "(i) 5 pencils and 7 pens together cost  50, whereas\n71\npencils and 5 p\npens together\ncost ? 46. Find the cost of one pencil and that of one pen."
+}

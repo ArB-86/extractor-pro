@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9435884356498718,
+    "bbox": [
+        320.10247802734375,
+        2065.123779296875,
+        1750.130859375,
+        2457.26171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_014/000_plain_text_0.94.png",
+    "text": "p\nb1\n: In this case, the pair of linear equations is consistent.\na2\nb\nIp\nb\nC1\n: In this case, the pair of linear equations is inconsistent.\n22\nb\nD\nLp\n(ii)\na2\nC2"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.966258704662323,
+    "bbox": [
+        192.906005859375,
+        906.6161499023438,
+        1754.3096923828125,
+        1074.2996826171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_002/002_plain_text_0.97.png",
+    "text": "Example 1 : The marks obtained by 30 students of Class X of a certain school in a\nMathematics paper consisting of 100 marks are presented in table below. Find the\nmean of the marks obtained by the students."
+}

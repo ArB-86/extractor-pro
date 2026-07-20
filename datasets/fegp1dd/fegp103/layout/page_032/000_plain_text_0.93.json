@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9272717833518982,
+    "bbox": [
+        297.8284606933594,
+        1686.9703369140625,
+        2185.421142578125,
+        1869.1129150390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_032/000_plain_text_0.93.png",
+    "text": "Ans.\nwhen we divide 28 = 2x2x2x2x2x2x2x2 by 2 it become\ne27andeveryt\ntimeyou divide\nby 2 the same will continue happening, until you are left with 2 which when divided by\n2 will leave 1."
+}

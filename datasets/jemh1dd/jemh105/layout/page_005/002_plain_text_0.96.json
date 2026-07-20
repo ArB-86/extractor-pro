@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9635530710220337,
+    "bbox": [
+        190.461181640625,
+        1544.8431396484375,
+        1753.3785400390625,
+        1650.139404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/002_plain_text_0.96.png",
+    "text": "Here the difference of any two consecutive terms in each\n1 case is 3. So, the\ngiven list is an AP whose first term a is 6 and common difference d is 3."
+}

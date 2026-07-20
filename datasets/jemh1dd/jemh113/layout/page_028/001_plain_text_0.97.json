@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9684928059577942,
+    "bbox": [
+        245.77853393554688,
+        2372.701416015625,
+        1756.2841796875,
+        2550.3359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_028/001_plain_text_0.97.png",
+    "text": "3. A life insurance agent found the following data for distribution of ages of 1o0 policy\nholders. Calculate the median age, if policies are \n given only to persons having age 18\nyears onwards but less than 60 year."
+}

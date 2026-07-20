@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.7866585850715637,
+    "bbox": [
+        298.00244140625,
+        1332.734375,
+        963.3864135742188,
+        1568.145751953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_039/001_plain_text_0.79.png",
+    "text": "Ans.\na. 24\nb. 20\nc. 1unit length = 4 tickets\nd."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9762425422668457,
+    "bbox": [
+        238.72935485839844,
+        1575.2249755859375,
+        1796.5325927734375,
+        1907.127197265625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/000_plain_text_0.98.png",
+    "text": "For millennia, the number line started at 1. If\nf you had five a\napples and\nfive away, you\ndid not have a number to represent\ngave all\nyour state;\nyou simply had a void, a lack of apples. Civilisations like the Babylonians\nand Mayans used j\nplaceholders \u2014 symbols to indicate an empty c\ncolumn\nin a number -but they\ndid\nnot treat \u2018nothing\nas a number t\nthat\nyou\ncould add, subtract, and multiply."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9181830883026123,
+    "bbox": [
+        281.3449401855469,
+        2650.49462890625,
+        2085.508544921875,
+        2774.796875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_006/004_plain_text_0.92.png",
+    "text": "\uff1f\nWrite the following\nexpressions as a power of a power in at least two\ndifferent ways:"
+}

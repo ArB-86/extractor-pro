@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8675040602684021,
+    "bbox": [
+        289.9267272949219,
+        1134.61181640625,
+        1754.2166748046875,
+        1247.4613037109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/007_plain_text_0.87.png",
+    "text": "1\n1\nsec 0\u00b0 =\n= 1 and cosec 0\u00b0\nwhich is again not defined.(Why?)\nCOS\n0\u00b0\nsin\n0\u00b0"
+}

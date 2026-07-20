@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.7548224329948425,
+    "bbox": [
+        290.4377136230469,
+        974.7679443359375,
+        1562.051513671875,
+        1092.60302734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/008_plain_text_0.75.png",
+    "text": "sin\n0\u00b0\n1\ntan O\u00b0\n= 0, cot 0\u00b0\nwhich is not defined. (Why?)\n\u4e00\ncOs 0\u00b0\ntan 0\u00b0"
+}

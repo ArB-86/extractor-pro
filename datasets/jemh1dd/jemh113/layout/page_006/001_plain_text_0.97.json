@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9706683158874512,
+    "bbox": [
+        191.35250854492188,
+        1102.218017578125,
+        1754.4644775390625,
+        1269.1151123046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/001_plain_text_0.97.png",
+    "text": "Observe that in Table 13.4, the values in Column 4 are all multiples of 15. So, if\nwe divide the values in the entire Column 4 by 15, we would g\nget smaller numbers to\nmultiply with f. (Here, 15 is the class size of each class interval.)"
+}

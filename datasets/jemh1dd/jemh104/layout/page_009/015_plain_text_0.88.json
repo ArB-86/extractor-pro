@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8807347416877747,
+    "bbox": [
+        192.04278564453125,
+        2440.10400390625,
+        1082.762939453125,
+        2561.408935546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/015_plain_text_0.88.png",
+    "text": "q-\nq-\n2-6\n1\n1\nThe\nroots\ni.e.,\ni.e.,\nare\n\u4e00\n2a\n2a\n3\n3"
+}

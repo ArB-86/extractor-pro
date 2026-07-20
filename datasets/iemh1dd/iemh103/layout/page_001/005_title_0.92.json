@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9232197999954224,
+    "bbox": [
+        239.24423217773438,
+        1912.7762451171875,
+        1039.7216796875,
+        1974.97216796875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_001/005_title_0.92.png",
+    "text": "3.1.1 A History\nWritten\nin\nBone"
+}

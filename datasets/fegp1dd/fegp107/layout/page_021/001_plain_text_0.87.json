@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8674362301826477,
+    "bbox": [
+        291.6468505859375,
+        1047.17041015625,
+        1688.3934326171875,
+        1116.73974609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_021/001_plain_text_0.87.png",
+    "text": "Shabnam: C\nGot it! How about we\ngo on till 4 \u00d7 10 = 40."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8986456990242004,
+    "bbox": [
+        192.71514892578125,
+        613.7842407226562,
+        1248.9345703125,
+        669.363525390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/008_plain_text_0.90.png",
+    "text": "Example 3 : Find the 10th term of the AP : 2, 7, 12, "
+}

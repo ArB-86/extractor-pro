@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8762125968933105,
+    "bbox": [
+        246.0911102294922,
+        561.9403686523438,
+        1753.9547119140625,
+        713.235595703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_010/007_plain_text_0.88.png",
+    "text": "9. The angle of elevation of the top of a building from the foot of the tower is 30\u00b0 and the\nangle of elevation of the top of the tower from the foot of the building is 60\u00b0. If the tower\nis 50 m high, find the height of the building."
+}

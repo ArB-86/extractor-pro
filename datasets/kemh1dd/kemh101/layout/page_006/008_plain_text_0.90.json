@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8983867168426514,
+    "bbox": [
+        289.3522033691406,
+        398.7184753417969,
+        1554.8358154296875,
+        451.7403259277344
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/008_plain_text_0.90.png",
+    "text": "B = { x : x is a student presently studying in both Classes X and XI }"
+}

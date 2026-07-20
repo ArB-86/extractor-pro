@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9603661298751831,
+    "bbox": [
+        190.5113067626953,
+        2405.288818359375,
+        1753.860595703125,
+        2567.375732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/004_plain_text_0.96.png",
+    "text": "Thisagain\n1 emphasises that two polygons of the same number of sides\nare\nsimilar if (i) all the corresponding angles are equal and (ii) all the corresponding\nsides arein thesameratio\n0 (or proportion)."
+}

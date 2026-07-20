@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.606571614742279,
+    "bbox": [
+        274.7534484863281,
+        878.7897338867188,
+        1799.43212890625,
+        1343.9766845703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_008/006_plain_text_0.61.png",
+    "text": "a\n1.\nEquality: Two rationalnumbers =\nare said tobe equalif ad = bc.\n-and\n\u4e00\nb\nd\n2. 1\nAddition and subtraction of two rational numbers: We first\na\nC\nexpress the two rational numbers as fractions\nand\nWith the\nb\nb\na\nC\n3+D\ndenominator,\nr, b. Then we use\nthe rules\nsame\n+\nand\nb\nh\nb\nm\na-c\nh\nh\nb"
+}

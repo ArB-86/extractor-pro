@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8350114226341248,
+    "bbox": [
+        417.43621826171875,
+        2684.4716796875,
+        1685.6988525390625,
+        2774.160888671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_030/003_plain_text_0.84.png",
+    "text": "So, we are\nleft with 2 shaded p"
+}

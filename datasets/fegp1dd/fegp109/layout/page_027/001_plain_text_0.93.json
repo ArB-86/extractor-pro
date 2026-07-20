@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9256667494773865,
+    "bbox": [
+        294.2322692871094,
+        585.8466796875,
+        2188.685791015625,
+        711.4371948242188
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_027/001_plain_text_0.93.png",
+    "text": "Q1 In each of the following figures, a hole was punched in a folded square sheet of paper\nand then the paper was unfolded. Identify the line along which the paper was folded."
+}

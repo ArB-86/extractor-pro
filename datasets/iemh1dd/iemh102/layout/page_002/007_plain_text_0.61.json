@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6066223978996277,
+    "bbox": [
+        245.72012329101562,
+        1250.162109375,
+        1796.0533447265625,
+        1351.526611328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/007_plain_text_0.61.png",
+    "text": "Cost of\nsowing\nseeds throughout the entire\ngarden\n(depends\non\nthe area) = 50 \u00d7 l\u00d7 w = 50lw"
+}

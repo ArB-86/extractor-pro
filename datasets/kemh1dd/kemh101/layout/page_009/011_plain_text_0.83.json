@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8263771533966064,
+    "bbox": [
+        191.95692443847656,
+        808.1503295898438,
+        1245.1864013671875,
+        859.452392578125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/011_plain_text_0.83.png",
+    "text": "5.\nAre the following pair of sets equal ? Give reasons."
+}

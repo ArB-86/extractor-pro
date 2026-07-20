@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9671059250831604,
+    "bbox": [
+        239.963623046875,
+        1720.3836669921875,
+        1796.559326171875,
+        1883.4173583984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_004/001_plain_text_0.97.png",
+    "text": "A point P = (x, 0) lies on the x-axis. If x is positive, then P lies to the\nright of O. If x is negative, P lies to the left of O. A point P = (O, y) lies on\nthe y-axis. If y is positive, P lies above O; if y is negative, P lies below\nTO."
+}

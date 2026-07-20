@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.7968418002128601,
+    "bbox": [
+        557.2146606445312,
+        585.996826171875,
+        2100.03515625,
+        655.6080322265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_022/000_plain_text_0.80.png",
+    "text": "perimeter of a polygon is the sum of the lengths of all its side\nne"
+}

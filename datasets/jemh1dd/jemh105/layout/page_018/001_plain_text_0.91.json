@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9114286303520203,
+    "bbox": [
+        293.7969055175781,
+        2345.830322265625,
+        1325.3759765625,
+        2401.732177734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_018/001_plain_text_0.91.png",
+    "text": "So, the sum of the first 1000\npositive integers is 500500."
+}

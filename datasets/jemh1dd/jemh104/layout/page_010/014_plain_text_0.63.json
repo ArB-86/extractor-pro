@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6329777836799622,
+    "bbox": [
+        246.15853881835938,
+        1660.6851806640625,
+        1753.947021484375,
+        1815.73046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/014_plain_text_0.63.png",
+    "text": "2. A real number \u03b1 is said to be a root of the quadratic equation ax\u00b2 + bx + c = O, if\na\u03b1\u00b2 + b\u03b1 + c = O. The zeroes of the quadratic polynomial ax\u00b2 + bx + c and the roots of the\nquadratic equation ax\u00b2 + bx + c = O are the same."
+}

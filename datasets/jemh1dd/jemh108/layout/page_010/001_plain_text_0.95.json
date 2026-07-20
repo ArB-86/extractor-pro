@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9514824748039246,
+    "bbox": [
+        192.59580993652344,
+        466.9269714355469,
+        1155.4693603515625,
+        631.3372802734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_010/001_plain_text_0.95.png",
+    "text": "In \u25b3 ABC, right-angled at B, if one angle is 45\u00b0, then\nthe other\nangle is :\nalso\n45\u00b0,\ni.e.,\nZA=\nZC\n45\u00b0\n(see\nFig. 8.14)."
+}

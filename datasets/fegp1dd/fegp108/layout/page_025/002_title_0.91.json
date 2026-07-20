@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "title",
+    "confidence": 0.9055501222610474,
+    "bbox": [
+        295.9320373535156,
+        1275.8507080078125,
+        1957.2891845703125,
+        1363.7750244140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_025/002_title_0.91.png",
+    "text": "8.6 Points I\nEquidistant f\nfrom\nTWO\nGiven\nPoints"
+}

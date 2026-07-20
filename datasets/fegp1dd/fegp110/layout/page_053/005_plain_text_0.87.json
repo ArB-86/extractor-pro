@@ -1,0 +1,13 @@
+{
+    "page": 53,
+    "label": "plain_text",
+    "confidence": 0.8720340132713318,
+    "bbox": [
+        293.1549987792969,
+        2434.81103515625,
+        2184.722412109375,
+        2559.791748046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_053/005_plain_text_0.87.png",
+    "text": "Q.5. What is the lowest point with respect to sea level on land or on the ocean floor? What\nis its height? (This height should be negative)."
+}

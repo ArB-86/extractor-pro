@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9446379542350769,
+    "bbox": [
+        265.7244873046875,
+        741.2393188476562,
+        1773.4864501953125,
+        851.9609985351562
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/004_plain_text_0.94.png",
+    "text": "Canyou\nguess what the numbers 20 and 150 in the equation y = 20x + 150\nrepresent?"
+}

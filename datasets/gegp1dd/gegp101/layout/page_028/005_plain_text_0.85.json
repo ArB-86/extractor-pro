@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8472511172294617,
+    "bbox": [
+        445.1658020019531,
+        1953.278564453125,
+        569.1998291015625,
+        2013.2130126953125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_028/005_plain_text_0.85.png",
+    "text": "\u53e3"
+}

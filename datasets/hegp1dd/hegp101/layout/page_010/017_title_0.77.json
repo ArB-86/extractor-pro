@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "title",
+    "confidence": 0.7689323425292969,
+    "bbox": [
+        288.9787902832031,
+        1534.7703857421875,
+        716.6888427734375,
+        1604.58837890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/017_title_0.77.png",
+    "text": "Figure\nit\nOut"
+}

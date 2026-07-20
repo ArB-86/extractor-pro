@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "title",
+    "confidence": 0.8677614331245422,
+    "bbox": [
+        296.2141418457031,
+        299.35858154296875,
+        1277.906005859375,
+        361.88824462890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_045/002_title_0.87.png",
+    "text": "Which\ngroups were easier to compare? Why?"
+}

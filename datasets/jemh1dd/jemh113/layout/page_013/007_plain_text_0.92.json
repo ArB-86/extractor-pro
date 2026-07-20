@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9201642274856567,
+    "bbox": [
+        193.54872131347656,
+        2072.0517578125,
+        685.2501831054688,
+        2123.921142578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/007_plain_text_0.92.png",
+    "text": "Find the mode of the data."
+}

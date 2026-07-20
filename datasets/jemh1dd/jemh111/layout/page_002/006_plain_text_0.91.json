@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9091605544090271,
+    "bbox": [
+        191.87869262695312,
+        2394.07275390625,
+        1331.06884765625,
+        2504.020751953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/006_plain_text_0.91.png",
+    "text": "So, length of an arc of a sector of angle \u03b8 =\n2\u03c0r\n360"
+}

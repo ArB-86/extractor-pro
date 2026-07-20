@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9263866543769836,
+    "bbox": [
+        392.9098815917969,
+        2432.89111328125,
+        2085.21875,
+        2574.79833984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_008/001_plain_text_0.93.png",
+    "text": "Complete\nthese expressions. You may\nthink of them as\nfinding\nthe\nmovement needed to reach the Target Floor from the Starting Floor."
+}

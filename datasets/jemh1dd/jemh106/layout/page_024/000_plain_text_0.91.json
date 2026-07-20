@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9108433127403259,
+    "bbox": [
+        225.80348205566406,
+        2069.779296875,
+        1006.7528686523438,
+        2272.16552734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_024/000_plain_text_0.91.png",
+    "text": "10.\nCD\nand GH\nare respectively the bisectors\nof Z ACB\nand Z EGF such that D\nand Hlie\non sides AB\nand FE of \u25b3ABC and  EFG\nrespectively. If \u25b3ABC ~ \u25b3 FEG, show t\nthat:"
+}

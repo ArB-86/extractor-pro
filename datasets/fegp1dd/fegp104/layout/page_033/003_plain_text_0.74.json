@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.735152006149292,
+    "bbox": [
+        458.7188720703125,
+        1072.8695068359375,
+        2210.22412109375,
+        1433.27001953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_033/003_plain_text_0.74.png",
+    "text": "Other aspects of a graph also contribute to its effectiveness and visual\nappeal\nsuch as\nhow c\ncolours\nused, what\naccompanying\nare\npictures\ndrawn, and\nare\nwhether\nthe\ne bars\nare\nhorizontal\nor vertical. These\naspects correspond to the artistic and aesthetic side of data handling\nand\npresentation."
+}

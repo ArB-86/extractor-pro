@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.928043782711029,
+    "bbox": [
+        298.76641845703125,
+        2325.4208984375,
+        1664.2950439453125,
+        2425.33203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/001_plain_text_0.93.png",
+    "text": "p\np\np\np\n\u00d72\u03c0R\n\u00d7\u03c0R\n\u00d72\u03c0R\n\u00d72\u03c0R\n(A)\n(B)\n(C)\n(D)\n180\n180\n360\n720"
+}

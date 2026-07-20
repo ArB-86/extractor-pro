@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8052455186843872,
+    "bbox": [
+        190.78785705566406,
+        2111.556640625,
+        857.3099365234375,
+        2536.368408203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_018/004_plain_text_0.81.png",
+    "text": "As before, this theorem can\nbe proved by taking two triangles\nABC\nand\nDEF\nsuch\nthat\nAB\nAC\n(< 1) and  A = Z D\nDE\nDF\n(see Fig. 6.28). Cut DP = AB, DQ\n= AC and join PQ."
+}

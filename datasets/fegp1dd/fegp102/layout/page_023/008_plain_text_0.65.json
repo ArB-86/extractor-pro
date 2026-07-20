@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.6509901285171509,
+    "bbox": [
+        505.8080749511719,
+        495.4396667480469,
+        2049.03369140625,
+        564.43408203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_023/008_plain_text_0.65.png",
+    "text": "protractor. Do you see\nthe straight angle at t\nthe\na\ncente"
+}

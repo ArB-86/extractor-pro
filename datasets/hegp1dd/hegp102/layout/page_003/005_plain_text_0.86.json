@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8637687563896179,
+    "bbox": [
+        375.1179504394531,
+        2643.076416015625,
+        2087.640625,
+        2759.2177734375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/005_plain_text_0.86.png",
+    "text": "Similarly, the expression for the thickness of the paper when folded 7\ntimes will be 0.001 cm \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2 \u00d7 2, 0r 0.001 cm \u00d7 27 = 0.128 cm."
+}

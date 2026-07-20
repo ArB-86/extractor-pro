@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.5833144187927246,
+    "bbox": [
+        247.36752319335938,
+        1973.505859375,
+        1751.799560546875,
+        2071.684326171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_013/009_plain_text_0.58.png",
+    "text": "6. If (1, 2), (4, y), (x, 6) and (3, 5) are the vertices of a parallelogram taken in order, find\nX and y."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8541458249092102,
+    "bbox": [
+        242.46142578125,
+        836.1347045898438,
+        1705.1776123046875,
+        942.3031005859375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/004_plain_text_0.85.png",
+    "text": "This chapter deals with some basic definitions and operations involving sets. These\nare summarised below:"
+}

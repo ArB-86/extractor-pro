@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9495917558670044,
+    "bbox": [
+        193.4397430419922,
+        1396.9556884765625,
+        1754.73681640625,
+        1508.184326171875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/003_plain_text_0.95.png",
+    "text": "Example 5 Match each of the set on the left described in the roster form with the\nsame set on the right described in the set-builder form"
+}

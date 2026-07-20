@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "title",
+    "confidence": 0.8956688642501831,
+    "bbox": [
+        297.14581298828125,
+        1176.39501953125,
+        940.7157592773438,
+        1247.7520751953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_022/005_title_0.90.png",
+    "text": "A hollow integer grid"
+}

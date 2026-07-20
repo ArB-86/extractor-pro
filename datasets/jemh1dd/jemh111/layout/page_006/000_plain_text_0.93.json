@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9284545183181763,
+    "bbox": [
+        245.80844116210938,
+        674.9158325195312,
+        1115.30078125,
+        933.4307861328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_006/000_plain_text_0.93.png",
+    "text": "9. A brooch is made with silver\nr wire in the form\nof a circle with diameter 35 mm. The wire is als0\nused in making 5 diameters which divide tl\nthe\ncircle into\n10\nequal\nsectors\nsas\nshown\nin\nFig. 11.9.Find :"
+}

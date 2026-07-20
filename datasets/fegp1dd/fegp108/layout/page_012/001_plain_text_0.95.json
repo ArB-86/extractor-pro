@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9495430588722229,
+    "bbox": [
+        420.7820129394531,
+        636.6780395507812,
+        2204.213623046875,
+        778.9257202148438
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_012/001_plain_text_0.95.png",
+    "text": "Now, verify\nby placing\nthe points X and Y on the\nyour\nguesses\nsides and measure how near or far they\nare."
+}

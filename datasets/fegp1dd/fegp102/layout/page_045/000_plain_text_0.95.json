@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.9468961358070374,
+    "bbox": [
+        296.0164489746094,
+        1990.5211181640625,
+        2189.842529296875,
+        2239.198486328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_045/000_plain_text_0.95.png",
+    "text": "Q.5. Mark\nany\nthree\npoints on\nthat\nline. Label\nthem\nA, B, C.\nyour\npaper\nare\nnot\non\none\nDraw\nall\npossible\nlines\ngoing\nthrough\npairs of \nthese\npoints. How\nlines\ndo you\nmany\nget? Name\nthem. How\nangles can\nusing\nA, B, C? Write them\ndown,\nmany\nyou\nname\nmark\neach of them\nwith\nin Fig. 2.9.\nand\na curve as"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8571935892105103,
+    "bbox": [
+        293.9378662109375,
+        736.88623046875,
+        1416.1861572265625,
+        793.2372436523438
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_027/007_plain_text_0.86.png",
+    "text": "Q. Find\nsome other dates of this form\nfrom\nthe past."
+}

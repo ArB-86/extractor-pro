@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.6337788105010986,
+    "bbox": [
+        497.1518859863281,
+        2432.169921875,
+        2080.839111328125,
+        2618.650146484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_019/011_plain_text_0.63.png",
+    "text": "From the year you were born till now, which years were leap\na.\nyears?\nb.\nFrom the year 2024 till 2099, how many l\nleap years are there?"
+}

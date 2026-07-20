@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8579261302947998,
+    "bbox": [
+        278.6261901855469,
+        1425.8341064453125,
+        1795.9796142578125,
+        1754.7489013671875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/007_plain_text_0.86.png",
+    "text": "2.\nAg\ncharges a f\nfixed\nmonthly\ngym c\nfee and\nan additional\ncost per hour\nfor using\nthe badminton court. A student using\nthe\ngym\nobserved\nthat\nwhen s\nshe\nused\nthe badminton\ncourt\nfor\n10\nhours, her\nc bill\ns ?800. When she used it for 15 hours, her bill\nwas 1100. If the\nwas\nmonthly bill y depends on the hours\nof the\nof the badminton\nuse\ncourt, x, according to the relation y = ax + b, find the values of a and b."
+}

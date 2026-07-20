@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9592512249946594,
+    "bbox": [
+        192.2890167236328,
+        1247.0152587890625,
+        1752.758056640625,
+        1356.1639404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/004_plain_text_0.96.png",
+    "text": "Letusnow]\n look at cubic polynomials. Do you think a similar relation holds\nbetween the zeroes of a cubic polynomial and its coefficients?"
+}

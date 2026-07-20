@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9636344909667969,
+    "bbox": [
+        192.44989013671875,
+        2131.503662109375,
+        1751.429931640625,
+        2244.02880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_016/002_plain_text_0.96.png",
+    "text": "This form of the result is useful when the first and the last terms of an AP\nare\ngiven and the common difference is not given."
+}

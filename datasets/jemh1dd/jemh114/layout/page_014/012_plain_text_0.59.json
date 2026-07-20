@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5853928327560425,
+    "bbox": [
+        317.9205322265625,
+        1160.097900390625,
+        823.7230224609375,
+        1382.896240234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/012_plain_text_0.59.png",
+    "text": "(8\n8?\n(ii)\nppo ue\nnumber?\n(ii)\na number\ngreater than 2?\n(iv)\na number less than 9?"
+}

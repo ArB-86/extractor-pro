@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9597654342651367,
+    "bbox": [
+        191.3406219482422,
+        989.8215942382812,
+        1750.0260009765625,
+        1101.6953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_010/001_plain_text_0.96.png",
+    "text": "Solution : Let (- 4, 6) divide AB internally in the ratio m, : m2.\nUsing the section\nformula, we get"
+}

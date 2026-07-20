@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9559018015861511,
+    "bbox": [
+        530.4129638671875,
+        1064.513671875,
+        2213.39404296875,
+        1203.7705078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_004/002_plain_text_0.96.png",
+    "text": "3\u3002\nName the rays shown in Fig. 2.5. Is T the starting point of each of\nthese rays?"
+}

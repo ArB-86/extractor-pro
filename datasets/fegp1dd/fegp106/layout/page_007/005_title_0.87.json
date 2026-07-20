@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.8746640086174011,
+    "bbox": [
+        293.2900085449219,
+        2062.25146484375,
+        1306.2491455078125,
+        2130.69677734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_007/005_title_0.87.png",
+    "text": "Perimeter\nequilateral\ntriangle\nof\nan"
+}

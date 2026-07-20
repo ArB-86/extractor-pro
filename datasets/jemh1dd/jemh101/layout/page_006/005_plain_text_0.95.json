@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9454261064529419,
+    "bbox": [
+        194.8231964111328,
+        2263.92333984375,
+        1753.7574462890625,
+        2375.946533203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_006/005_plain_text_0.95.png",
+    "text": "The proof is based on a technique called \u2018proof by contradiction'. (This technique is\ndiscussed in some detail in Appendix 1)."
+}

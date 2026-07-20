@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9470337629318237,
+    "bbox": [
+        189.98622131347656,
+        2394.71337890625,
+        1755.91162109375,
+        2564.65869140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/002_plain_text_0.95.png",
+    "text": "When we represent a set in the roster form, we write all the elements of the set\nwithin braces  }. It is not possible to write all the elements of an infinite set within\nbraces  } because the numbers of elements of such a set is not finite. So, we represent"
+}

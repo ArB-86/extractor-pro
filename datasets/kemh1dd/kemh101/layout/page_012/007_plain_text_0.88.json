@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8764684200286865,
+    "bbox": [
+        290.97064208984375,
+        2194.763427734375,
+        1583.094970703125,
+        2407.005126953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/007_plain_text_0.88.png",
+    "text": "(i)\n{3, 4} C \nA\n(i)\n{3, 4}\nEA\n(ii)\n{{3,4}}  A\n(iv)\n1 \u2208A\n(v)\n1CA\n(vi)\n{1,2,5} \nA\n(vii)\n{1,2,5}\nEA\n(vii)\n{1,2,3} c A\n(ix)\n\u03a6 EA\n(x)\nUe\nA\n(xi)\n{\u03a6}\nn\nA"
+}

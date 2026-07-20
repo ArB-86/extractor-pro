@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9416576027870178,
+    "bbox": [
+        295.2293395996094,
+        396.60308837890625,
+        2085.970947265625,
+        540.8128051757812
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/005_plain_text_0.94.png",
+    "text": "What about 1, which has only\none factor? The number 1 is neither\na prime nor a composite number."
+}

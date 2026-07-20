@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8708333373069763,
+    "bbox": [
+        538.9373779296875,
+        1368.50048828125,
+        1596.249267578125,
+        1882.9097900390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_021/007_plain_text_0.87.png",
+    "text": "1.\nDo you know that there are some places\nin India where temperatures can\ngo\nbelow O\u00b0c? Find out the places in India\nwhere\ntemperatures\nsometimes\ngo\nbelow o\u00b0C. What is common\namong\nthese places? Why does it become colder\nthere and not in other places?"
+}

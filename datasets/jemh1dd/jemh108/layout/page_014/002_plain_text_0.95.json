@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9491496086120605,
+    "bbox": [
+        190.61338806152344,
+        2071.598876953125,
+        1754.2584228515625,
+        2233.7958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_014/002_plain_text_0.95.png",
+    "text": "1\n1\nExample 8 : If sin (A - B) =\ncOs (A + B)\n0\u00b0 < A + B \u2264 90\u00b0,A > B, find A\n2\n2\nand B."
+}

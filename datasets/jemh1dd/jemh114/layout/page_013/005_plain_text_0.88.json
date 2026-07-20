@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8760501146316528,
+    "bbox": [
+        251.43124389648438,
+        1448.1358642578125,
+        1751.7479248046875,
+        1548.8883056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/005_plain_text_0.88.png",
+    "text": "3. Why is tossing a coin considered to be a fair way of deciding which team should get the\nball at the beginning of a football game?"
+}

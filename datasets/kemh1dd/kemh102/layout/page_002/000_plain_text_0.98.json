@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9779171943664551,
+    "bbox": [
+        191.90663146972656,
+        1147.6181640625,
+        1351.5194091796875,
+        1421.5150146484375
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/000_plain_text_0.98.png",
+    "text": "If the three states, Delhi, Madhya Pradesh\n and Karnataka\nmaking\ng codes for the\nlicence\nplates of vehicles, with t\nthe\nwerei\nrestriction\nthat t\nthe\ncode\ne begins\nWith\nan\nelement\nfrom\nset\nA\nwhich are the pairs available from these sets and how many\nsuc\npairs will there be\n(Fig 2.2)?"
+}

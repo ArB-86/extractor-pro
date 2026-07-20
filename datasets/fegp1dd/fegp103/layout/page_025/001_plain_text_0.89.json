@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8885999321937561,
+    "bbox": [
+        367.8457946777344,
+        2249.954345703125,
+        2188.813720703125,
+        2377.02392578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_025/001_plain_text_0.89.png",
+    "text": "Q. Among the numbers 1-100, how many\ntimes will the digit \u20187' occur? Among the\nnumbers 1-10oo, how many times will the digit *7' occur?"
+}

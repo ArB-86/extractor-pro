@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7862895727157593,
+    "bbox": [
+        480.1746826171875,
+        2664.43701171875,
+        1353.05517578125,
+        2729.6435546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/016_plain_text_0.79.png",
+    "text": "(i) 16 and 17\n(ii) 99\nand 100"
+}

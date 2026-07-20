@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8683064579963684,
+    "bbox": [
+        303.20306396484375,
+        1457.341796875,
+        2085.28076171875,
+        1671.9632568359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_019/004_plain_text_0.87.png",
+    "text": "Thinking\n about and formulating set\nt procedures to use numbers\nfor\nthese\npurposes is a useful s\nskill\nand c\ncapacity\n(called \u2018computational\nthinking')."
+}

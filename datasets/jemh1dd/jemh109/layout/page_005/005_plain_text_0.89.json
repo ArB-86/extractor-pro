@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8884857296943665,
+    "bbox": [
+        193.5282440185547,
+        1689.947265625,
+        1308.1646728515625,
+        1746.887451171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_005/005_plain_text_0.89.png",
+    "text": "So the height of the chimney\n(AB) = (28.5 + 1.5)\nm = 30 m."
+}

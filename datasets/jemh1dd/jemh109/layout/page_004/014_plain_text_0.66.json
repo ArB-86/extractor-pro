@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6556743383407593,
+    "bbox": [
+        193.3882293701172,
+        1351.2374267578125,
+        1404.4417724609375,
+        1404.9312744140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_004/014_plain_text_0.66.png",
+    "text": "Now, can you think which trigonometic ratio should we consider?"
+}

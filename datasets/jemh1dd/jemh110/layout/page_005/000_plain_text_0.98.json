@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9825568795204163,
+    "bbox": [
+        193.7942657470703,
+        400.4783630371094,
+        1066.11865234375,
+        807.9487915039062
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_005/000_plain_text_0.98.png",
+    "text": "Activity 3 : Draw a circle on a paper.\n. Take a\npoint P inside it. Can you draw a tangent to the\ncircle through this point? You will find that all\nthe lines through this point intersect the circle in\ntwo points. So, it is not possible to draw any\ntangent to a circle through a point inside it\n[see Fig. 10.6 (i)]."
+}

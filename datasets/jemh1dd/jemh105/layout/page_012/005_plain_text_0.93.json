@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9298051595687866,
+    "bbox": [
+        192.6299591064453,
+        810.3366088867188,
+        916.2172241210938,
+        863.6560668945312
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/005_plain_text_0.93.png",
+    "text": "So, there are\n25\nterms\nin\nthe given\nAP."
+}

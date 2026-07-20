@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.5469038486480713,
+    "bbox": [
+        412.8583068847656,
+        988.0136108398438,
+        1776.50244140625,
+        1243.1180419921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/012_plain_text_0.55.png",
+    "text": "a. Perimeter\nof\na rectangle =\n14\ncm;\nbreadth\n=2\ncm;\nlength\n\u4e8c\nb. Perimeter of a square =\n20\n; side of a length = ?\ncm;\nc. Perimeter of\nf a rectangle =\n12\nm;\nlength = 3\nm;\nbreadth\n=?"
+}

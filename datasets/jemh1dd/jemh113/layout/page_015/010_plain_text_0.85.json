@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8548649549484253,
+    "bbox": [
+        291.29998779296875,
+        1278.63916015625,
+        724.6548461914062,
+        1332.5780029296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/010_plain_text_0.85.png",
+    "text": "the class size\n(h)\n15\n\u4e09"
+}

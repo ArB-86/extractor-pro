@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9809772372245789,
+    "bbox": [
+        421.2953796386719,
+        1018.629638671875,
+        1616.852783203125,
+        1536.75341796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_006/000_plain_text_0.98.png",
+    "text": "If the total race is of 350 m, then we have\nto find out where the starting positions of the\ntwo runners should be on these two tracks so\nthat they both have a common finishing line\nafter they run for 350 m. Mark the starting\npoints of the runner on the inner track as \u2018A'\nand the runner on the outer track as 'B'."
+}

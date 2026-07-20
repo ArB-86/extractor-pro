@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.8978739976882935,
+    "bbox": [
+        364.9501647949219,
+        1576.919921875,
+        1404.525634765625,
+        1645.8082275390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_017/006_plain_text_0.90.png",
+    "text": "Here is a f\nfigure with three radial\narms."
+}

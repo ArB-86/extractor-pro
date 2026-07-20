@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9489158987998962,
+    "bbox": [
+        374.7328186035156,
+        2116.973876953125,
+        2090.296630859375,
+        2474.164794921875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_004/006_plain_text_0.95.png",
+    "text": "The numbers 16 and 36 are both squares with 6 in the units \n6 place.\nHowever, 26, whose units digit is also 6, is not a square. Therefore, we\ncannot determine if a number is a square\njust by looking at the digit\nt in\nthe units place. But, the units \ndigit\ncan tell\nus when a number is not a\nsquare. If a number ends with 2, 3, 7, or 8, then we can definitely s\nsay that\nit is not a square."
+}

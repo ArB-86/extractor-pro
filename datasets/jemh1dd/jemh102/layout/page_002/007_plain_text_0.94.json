@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.943065345287323,
+    "bbox": [
+        189.4467010498047,
+        1456.414306640625,
+        1750.2899169921875,
+        1671.2862548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/007_plain_text_0.94.png",
+    "text": "You\nhave\nalready\nstudied\nin\nClass\nIX, how\nto\nfind\nthe\ns of a linear\nzeroes\npolynomial. For e\nexample, if k is a zero of p(x) =\n2x + 3, then\np(k) = 0\ngives\nus\n3\n2k + 3 = 0, i.e., k =\n2"
+}

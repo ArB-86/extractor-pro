@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9637905955314636,
+    "bbox": [
+        190.94668579101562,
+        1692.0283203125,
+        1755.8590087890625,
+        1858.6375732421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_018/003_plain_text_0.96.png",
+    "text": "Theorem\n6.5 : If\nf one angle of a triangle is equal to one angle of the other\ntriangle and the sides including\nthese angles are\nproportional, then the two\ntriangles are similar"
+}

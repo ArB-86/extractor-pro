@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6625998616218567,
+    "bbox": [
+        377.38201904296875,
+        837.8370361328125,
+        2086.9794921875,
+        960.3739013671875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_003/012_plain_text_0.66.png",
+    "text": "3\u3002\nBy how much did the population of Chintamani increase from 2011\nto 2024?"
+}

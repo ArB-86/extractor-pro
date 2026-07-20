@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.819880485534668,
+    "bbox": [
+        299.88214111328125,
+        2086.004150390625,
+        1734.1041259765625,
+        2191.448486328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/012_plain_text_0.82.png",
+    "text": "\u2460\nAUB\n(ii)\nAUC\n(ii)\nBUC\n(iv) B U D\nV\nAUBUC\n(vi)\nAUBUD\n(vii)\nBUCUD"
+}

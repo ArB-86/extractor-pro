@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.927745521068573,
+    "bbox": [
+        298.5598449707031,
+        2043.4078369140625,
+        1766.0260009765625,
+        2353.256591796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_013/001_plain_text_0.93.png",
+    "text": "Ans.\nYes, There is a pattern in each case.\nPowers of 2-\n1,2,4 = 2 x 2, 8 = 2 x 2 x2 ,16 = 2 x 2 x2 x 2 x 2..\nPowers of 3 - 1, 3, 9 = 3 x 3 = 27 =3 x 3 x3,...\nVirahanka numbers- 1,2, 3, 5 = 2 + 3, 8 = 3 + 5, 13 = 5 + 8,....\nRest of the patterns have been shown on\npage 4 ,Table 2"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9697017073631287,
+    "bbox": [
+        191.2723388671875,
+        2427.403564453125,
+        1754.178466796875,
+        2538.552734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/001_plain_text_0.97.png",
+    "text": "Consider the list of numbers 1, 1, 2, 3, 5, . . . . By looking at it, you can tell that the\ndifference between any two consecutive terms is not the same. So, this is not an AP."
+}

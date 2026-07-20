@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.8906965851783752,
+    "bbox": [
+        196.9873809814453,
+        2236.176513671875,
+        686.0709838867188,
+        2290.992919921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/005_title_0.89.png",
+    "text": "1.9\nOperations on Sets"
+}

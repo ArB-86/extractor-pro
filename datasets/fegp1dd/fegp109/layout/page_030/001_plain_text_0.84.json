@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8418698310852051,
+    "bbox": [
+        294.5099182128906,
+        2436.2734375,
+        816.2406005859375,
+        2496.317138671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_030/001_plain_text_0.84.png",
+    "text": "Q9. Draw the following."
+}

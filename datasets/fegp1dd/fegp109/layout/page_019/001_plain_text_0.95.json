@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9463463425636292,
+    "bbox": [
+        379.4266052246094,
+        1383.242919921875,
+        2083.32568359375,
+        1518.1038818359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_019/001_plain_text_0.95.png",
+    "text": "Find the angles of symmetry for the given figures about the point\n1\u3002\nmarked .."
+}

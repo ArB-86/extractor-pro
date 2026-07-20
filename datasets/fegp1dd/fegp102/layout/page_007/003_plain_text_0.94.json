@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.938555896282196,
+    "bbox": [
+        291.942626953125,
+        1483.889404296875,
+        2084.1904296875,
+        1626.2393798828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_007/003_plain_text_0.94.png",
+    "text": "Do you see how these angles are formed by turning\n one arm with\nrespect to the other?"
+}

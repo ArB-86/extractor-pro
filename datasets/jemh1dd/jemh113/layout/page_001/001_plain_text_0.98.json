@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9763594269752502,
+    "bbox": [
+        187.59950256347656,
+        1829.322021484375,
+        1752.673828125,
+        2053.279541015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_001/001_plain_text_0.98.png",
+    "text": "The mean\n(or average) of observations, as we know, is the sum of the values of all the\nobservations divided by the total 1\nnumber of observations. From\nClass IX, recall that if\nfrequencies f, f \u00b7\nX, x2..\nobservations\nwith\nrespective\nf,\nthen\nthis\nare\n\u00b7\nn\nobservation x,\noccurs f,\ntimes, x2\noccurs f,\ntimes, and so on.\nmeans"
+}

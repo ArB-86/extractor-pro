@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9672581553459167,
+    "bbox": [
+        190.96383666992188,
+        400.70361328125,
+        1157.3857421875,
+        761.5391235351562
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/000_plain_text_0.97.png",
+    "text": "Example 4 : Mayank made a bird-bath for his garden\nin\nn the shape of a cylinder with a hemispherical\ndepression at one end (see Fig. 12.9). The height of\nthe cylinder is 1.45 m and its radius is 30 cm. Find the\n22\ntotals\nsurface area of the bird-bath. (Take \u03c0 ="
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9521735310554504,
+    "bbox": [
+        193.21534729003906,
+        1159.244140625,
+        1752.271484375,
+        1268.0775146484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_001/001_plain_text_0.95.png",
+    "text": "From Class IX, you are familiar with some of the solids like cuboid, cone, cylinder, and\nsphere (see Fig. 12.1). You have also learnt how to find their surface areas and volumes."
+}

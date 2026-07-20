@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7494563460350037,
+    "bbox": [
+        394.71307373046875,
+        531.9021606445312,
+        1101.947265625,
+        585.0358276367188
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_020/002_plain_text_0.75.png",
+    "text": "[Hint : Simplify LHS\n and RHS separately]"
+}

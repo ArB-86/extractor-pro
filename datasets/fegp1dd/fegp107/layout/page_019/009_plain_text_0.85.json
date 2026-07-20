@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.848237156867981,
+    "bbox": [
+        291.8014221191406,
+        2020.00927734375,
+        1225.56689453125,
+        2098.17236328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_019/009_plain_text_0.85.png",
+    "text": "Mukta: We must compare\n17\nand\n411"
+}

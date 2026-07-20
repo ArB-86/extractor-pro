@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.6817911863327026,
+    "bbox": [
+        246.00904846191406,
+        1502.3277587890625,
+        1754.651123046875,
+        1602.16259765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_005/007_plain_text_0.68.png",
+    "text": "4. A chord of a circle of radius 10 cm subtends a right angle at the centre. Find the area of\nthe corresponding : (i)\nminor segment\n(ii)\nmajor sector. (Use \u03c0 = 3.14)"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.567389190196991,
+    "bbox": [
+        594.7001342773438,
+        1992.820556640625,
+        1933.0,
+        2139.089111328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_002/010_plain_text_0.57.png",
+    "text": "sum of the lengths of all four :\nr sides of the square\n=1 m +1 m+ 1m+1m =4m."
+}

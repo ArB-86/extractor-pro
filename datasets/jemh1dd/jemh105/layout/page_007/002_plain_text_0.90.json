@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8994231820106506,
+    "bbox": [
+        244.91676330566406,
+        1758.6934814453125,
+        1482.3919677734375,
+        1808.604248046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_007/002_plain_text_0.90.png",
+    "text": "3. For the following APs, write the first term and the common difference:"
+}

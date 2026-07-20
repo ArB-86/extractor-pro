@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "title",
+    "confidence": 0.9132671356201172,
+    "bbox": [
+        378.4371032714844,
+        774.6761474609375,
+        1007.7723388671875,
+        849.5552368164062
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_012/001_title_0.91.png",
+    "text": "Populations of Cities"
+}

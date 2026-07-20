@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8722789287567139,
+    "bbox": [
+        366.9741516113281,
+        1891.465087890625,
+        1365.7869873046875,
+        1958.2291259765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_019/002_plain_text_0.87.png",
+    "text": "Some of the measurements are\ngiven."
+}

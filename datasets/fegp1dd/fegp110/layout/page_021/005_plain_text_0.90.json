@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9039055705070496,
+    "bbox": [
+        534.8843994140625,
+        1893.6497802734375,
+        1595.85546875,
+        2409.6923828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_021/005_plain_text_0.90.png",
+    "text": "2.\nLeh in Ladakh\ngets very cold during\nthe winter. The following is a table of\ntemperature\nreadings\ntaken\nduring\ndifferent times of the day and night in\nLeh on a day in November. Match the\ntemperature with the appropriate time\nof the day and night."
+}

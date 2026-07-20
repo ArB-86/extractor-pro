@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7404984831809998,
+    "bbox": [
+        373.8345031738281,
+        286.7296142578125,
+        2088.50244140625,
+        465.09222412109375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/010_plain_text_0.74.png",
+    "text": "Do you remember this pattern from Grade 6?\nThe picture below explains why each subsequent inverted L gives the\nnext odd number:"
+}

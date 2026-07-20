@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6705676317214966,
+    "bbox": [
+        375.03094482421875,
+        552.9556274414062,
+        1813.5589599609375,
+        744.2305297851562
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/018_plain_text_0.67.png",
+    "text": "For this, Bijou needs to estimate the square root of 250.\nWe know that 100\n250\n< 400\nand\n\u221a100\n10\nand\n400\n20.\n\u4e8c\nS0, 10\n250\n20."
+}

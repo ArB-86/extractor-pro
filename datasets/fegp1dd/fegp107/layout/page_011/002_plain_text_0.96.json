@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9635810256004333,
+    "bbox": [
+        290.0754699707031,
+        1731.2154541015625,
+        2086.119384765625,
+        1986.5115966796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_011/002_plain_text_0.96.png",
+    "text": "In\nall\nthe\nfractions\nthat\nless\nthan\n1\nunit,\nthe\nnumerator\nis\nare\nsmaller\nthan\nthe\ndenominator, \nwhile in\nthe\nfractions\nthat\nare\nmore\nthan\nunit, the\nis larger\n1\nnumerator\nthan\nthe\n denominator."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.7125558853149414,
+    "bbox": [
+        297.1670837402344,
+        2889.23583984375,
+        2119.526123046875,
+        3145.81982421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_044/004_plain_text_0.71.png",
+    "text": "Ans.\na) \nYes, O is the starting point and\npoint B lies on\nthe rays\nthat\n goes endlessly\nin t\nthe\n11\ndirection of A. OA is t\nthe extension of OB.\nb) No, OA is\nWith\nstarting\n0\nwhereas\nAO\nis\ns a ray with\nstarting\n a ray\npoint\nA.\ng point"
+}

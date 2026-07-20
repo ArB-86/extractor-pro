@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9491095542907715,
+    "bbox": [
+        291.0802307128906,
+        2192.221923828125,
+        2082.941650390625,
+        2334.048828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_003/003_plain_text_0.95.png",
+    "text": "The numbers 1, 2, 3, 4, 6, 8, 12, 24 all divide 24 exactly. Recall that\nsuch numbers are called factors or divisors of 24."
+}

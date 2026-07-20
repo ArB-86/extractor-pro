@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.807105541229248,
+    "bbox": [
+        190.67845153808594,
+        1593.76904296875,
+        1154.6671142578125,
+        2059.81103515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_003/006_plain_text_0.81.png",
+    "text": "Example 1 : Rasheed got a playing top (lattu) as his\nbirthday present, which surprisingly had no colour on\nit. He wanted to colour it with his crayons. The top is\nshaped like a cone surmounted by a hemisphere\n(see Fig 12.6). The entire top is 5 cm in height and\nthe diameter of the top is 3.5 cm. Find the area he\n22\nhas to colour. (Take \u03c0 ="
+}

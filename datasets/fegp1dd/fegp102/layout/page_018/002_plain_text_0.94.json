@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9425045251846313,
+    "bbox": [
+        529.902099609375,
+        377.18072509765625,
+        2214.053955078125,
+        521.6644287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_018/002_plain_text_0.94.png",
+    "text": "2\u3002\nJoin A to other g\n grid points in the figure by a straight line to get a\nstraight angle. What are all the different ways of doing it?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9112890362739563,
+    "bbox": [
+        294.90313720703125,
+        1971.0838623046875,
+        1820.3907470703125,
+        2097.499267578125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/004_plain_text_0.91.png",
+    "text": "?.\nExpress\nthe number 32400\n as a product of its prime factors\nand represent the prime factors in their exponential form."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9438577890396118,
+    "bbox": [
+        291.8077087402344,
+        533.7279052734375,
+        2084.71337890625,
+        677.7058715820312
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_003/001_plain_text_0.94.png",
+    "text": "the numbers written in the table below. Why\nObserve\nare some\nnumbers coloured? Discuss."
+}

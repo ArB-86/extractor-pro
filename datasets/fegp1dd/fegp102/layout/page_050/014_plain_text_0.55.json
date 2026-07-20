@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "plain_text",
+    "confidence": 0.5501783490180969,
+    "bbox": [
+        293.0732421875,
+        1910.2716064453125,
+        2156.303466796875,
+        1974.5201416015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_050/014_plain_text_0.55.png",
+    "text": "Q.4. How can you find the degree measure of the angle given below using a protractor?"
+}

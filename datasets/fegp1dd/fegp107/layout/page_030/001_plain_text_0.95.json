@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9505792260169983,
+    "bbox": [
+        416.84326171875,
+        1569.2291259765625,
+        2210.9765625,
+        1737.4010009765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_030/001_plain_text_0.95.png",
+    "text": "Each shaded part represents\nNow, we need to subtract\nthis let us remove 4 of the shaded parts:"
+}

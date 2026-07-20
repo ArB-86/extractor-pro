@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9579166173934937,
+    "bbox": [
+        191.97866821289062,
+        1542.9398193359375,
+        1750.8482666015625,
+        1652.724853515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/000_plain_text_0.96.png",
+    "text": "Note : You can also find this ratio by calculating the distances PA and PB and taking\ntheir ratios provided you know that A, P and B are collinear."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8594889044761658,
+    "bbox": [
+        418.98809814453125,
+        2280.227294921875,
+        1381.1163330078125,
+        2362.454345703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_026/009_plain_text_0.86.png",
+    "text": "Example: Find t\nthe sum of\n4-7\n6\nand\n7"
+}

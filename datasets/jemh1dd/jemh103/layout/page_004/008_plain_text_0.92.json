@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9212056994438171,
+    "bbox": [
+        194.1898193359375,
+        1906.7872314453125,
+        1118.5181884765625,
+        1980.6627197265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/008_plain_text_0.92.png",
+    "text": "Solution : Multiplying\nEquation\n(2) by\n\u4e00\nwe\nget\n3"
+}

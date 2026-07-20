@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8061790466308594,
+    "bbox": [
+        351.4034729003906,
+        792.5054931640625,
+        1894.41845703125,
+        865.2137451171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/006_plain_text_0.81.png",
+    "text": "rimeter of a triangle\ne = sum of the lengths of its three sides."
+}

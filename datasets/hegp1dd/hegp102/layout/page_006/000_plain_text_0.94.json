@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9418044686317444,
+    "bbox": [
+        374.3509826660156,
+        423.76934814453125,
+        2090.609619140625,
+        544.8685302734375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_006/000_plain_text_0.94.png",
+    "text": "We had computed till 34. To find 37, we can just multiply 34(= 81) with\n33(= 27)."
+}

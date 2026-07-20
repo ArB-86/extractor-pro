@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9644697904586792,
+    "bbox": [
+        375.808837890625,
+        2405.3701171875,
+        1451.8106689453125,
+        2644.73095703125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_006/000_plain_text_0.96.png",
+    "text": "For\neach\nnumber\ngiven\nbelow,\nWrite\nfor\nat\nleast\ntwo\ndifferent\nexpressions\nways\nto obtain\nthe number through button\nclicks.\nThink like\nChitti\nand be\n creative."
+}

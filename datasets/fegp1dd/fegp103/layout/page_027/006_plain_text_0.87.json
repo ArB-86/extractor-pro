@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8740068674087524,
+    "bbox": [
+        294.1247863769531,
+        491.0133361816406,
+        1950.4781494140625,
+        673.9986572265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_027/006_plain_text_0.87.png",
+    "text": "Ans.\n4:44\n2:22\n3:33\n10:10\n11:11\n12:12\n09:09\n12:21\n05:50\n10:01\nThink of some more!"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.6053301095962524,
+    "bbox": [
+        413.216796875,
+        1412.107666015625,
+        1751.3768310546875,
+        1468.02587890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_002/008_plain_text_0.61.png",
+    "text": "200l + 160w + 50lw is the algebraic expression for the total co:"
+}

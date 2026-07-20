@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5069210529327393,
+    "bbox": [
+        625.3977661132812,
+        2374.005859375,
+        2092.70556640625,
+        2442.895263671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_005/007_plain_text_0.51.png",
+    "text": "b.\nThe letter found the least number of times is"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6347107887268066,
+    "bbox": [
+        193.21958923339844,
+        2021.2611083984375,
+        1310.338623046875,
+        2071.800537109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/014_plain_text_0.63.png",
+    "text": "Note that an element of a set can never\nbe a subset of itself."
+}

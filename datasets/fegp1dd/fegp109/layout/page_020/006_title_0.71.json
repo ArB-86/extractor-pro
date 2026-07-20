@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.7083916068077087,
+    "bbox": [
+        420.1680603027344,
+        2647.723876953125,
+        910.3338012695312,
+        2715.556396484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_020/006_title_0.71.png",
+    "text": "\u71d5\nTrue\nFal\nor\n1\nlse"
+}

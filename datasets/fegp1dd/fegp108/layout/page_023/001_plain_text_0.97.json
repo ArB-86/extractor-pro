@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9703575372695923,
+    "bbox": [
+        397.6685791015625,
+        687.9742431640625,
+        2088.110107421875,
+        895.4300537109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_023/001_plain_text_0.97.png",
+    "text": "Forthis,insteadoftryingtogetthatonerequiredpointofdistance\n7 cm from\n D, let us explore a way of getting all the points of\ndistance 7 cm from D."
+}

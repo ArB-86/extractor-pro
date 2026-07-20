@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9722040295600891,
+    "bbox": [
+        193.318115234375,
+        1282.1778564453125,
+        1754.8282470703125,
+        1452.10546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/002_plain_text_0.97.png",
+    "text": "Remark : We have substituted the value of one variable by expressing it in terms of\nthe other variable to solve the pair of linear equations. That is why the method is\nknown as the substitution method."
+}

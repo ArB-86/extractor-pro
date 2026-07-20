@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6677163243293762,
+    "bbox": [
+        518.1190185546875,
+        829.1424560546875,
+        2104.602783203125,
+        989.0711059570312
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_010/006_plain_text_0.67.png",
+    "text": "3. How many\nfractions lie between\n O and 1? Think, discuss with\nyour classmates, and write your answer."
+}

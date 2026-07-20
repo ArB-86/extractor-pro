@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8916140198707581,
+    "bbox": [
+        214.2095489501953,
+        395.4143981933594,
+        958.3543701171875,
+        595.0828857421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_009/004_plain_text_0.89.png",
+    "text": "(iv)\nThe\nnumber of\nis 1. (Why?)\nzeroes\n(v) \nThe\nnumber of\nzeroes\ns is 1. (Why?)\n(vi)\nThe\nnumber of\nzeroes\ns is 4. (Why?)"
+}

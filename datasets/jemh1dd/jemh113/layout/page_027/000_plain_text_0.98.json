@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9842115044593811,
+    "bbox": [
+        193.0515899658203,
+        969.5557861328125,
+        1754.315185546875,
+        1292.96875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_027/000_plain_text_0.98.png",
+    "text": "However, extreme values in the data affect the mean. For example, the mean of\nclasseshaving f\nfrequencies more or less the same is a good representative of the data.\nBut, if one class has frequency, say 2, and the five others have frequency\n20,25,20,\n21, 18, then the mean will certainly not reflect the way t\nthe data behaves. So, in such\ncases, the mean is not a good representative of the data."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7536713480949402,
+    "bbox": [
+        380.52203369140625,
+        1836.8922119140625,
+        2089.55224609375,
+        2083.634765625
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_021/003_plain_text_0.75.png",
+    "text": "14. 1\nBald\neagles\nknown\nto\nfly\nhigh\nare\nas\nas\n4500-6000\nabove\nthe\nground level. Mount\nEverest is about\n8850\nhigh. Aeroplanes\nm\ncan\nfly\nhigh\n10,000-12,800\nHow\ntimes\nbigger\nas\nas\nm. 1\nmany\nthese\nare\nheights\nSomu's building?\ncompared\ntos"
+}

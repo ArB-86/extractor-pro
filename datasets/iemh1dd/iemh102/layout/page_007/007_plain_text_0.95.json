@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9510911703109741,
+    "bbox": [
+        265.3379211425781,
+        1905.3553466796875,
+        1772.7042236328125,
+        2066.162353515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_007/007_plain_text_0.95.png",
+    "text": "Using the expression 2n - 1, can you find out how many tiles will be there in\nthe 15th stage and the 26th stage ofthe pattern? Also, which stage will contain\n21 tiles and 47 tiles?"
+}

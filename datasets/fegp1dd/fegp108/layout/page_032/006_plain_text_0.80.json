@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.7950217723846436,
+    "bbox": [
+        297.8481140136719,
+        1344.7989501953125,
+        2134.875244140625,
+        1467.7119140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_032/006_plain_text_0.80.png",
+    "text": "Ans. Yes, In the above figure without measuring\n one can reason out for equal sides & right\nangles."
+}

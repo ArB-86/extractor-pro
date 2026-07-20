@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9638242721557617,
+    "bbox": [
+        292.2678527832031,
+        1154.6417236328125,
+        2085.91357421875,
+        1372.7864990234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_017/002_plain_text_0.96.png",
+    "text": "Using\n9\nunit\n(having\nof 9 sq\nunits),\nwe\nhave\nt squares\nanareac\nmade f\nfigures with two\n different\nperimeters-the first figure has a\nperimeter of 12 units and the second has a perimeter of 20 units."
+}

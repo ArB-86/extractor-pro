@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9465209245681763,
+    "bbox": [
+        287.03857421875,
+        2187.13427734375,
+        1641.0433349609375,
+        2571.911865234375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_004/004_plain_text_0.95.png",
+    "text": "The collection of all the months of a year beginning with the letter J.\n1\nThe collection of ten most talented writers of India.\n1li\nA team of eleven best-cricket batsmen of the world.\nThe collection of all boys in your class.\nThe collection of all natural numbers less than 1oo.\nA collection of novels written by the writer Munshi Prem Chand.\nVi1i\nThe collection of all even integers."
+}

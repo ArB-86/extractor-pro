@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.772695779800415,
+    "bbox": [
+        377.176513671875,
+        2524.35498046875,
+        1601.1385498046875,
+        2640.28759765625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/007_plain_text_0.77.png",
+    "text": "When folded four\ntimes, its thickness\nbecame\n0.001\n2\u00d72\u00d72\u00d72\n2,or\ncm x\n0.001\ncm x\n24\n\u4e8c\n0.016\ncm."
+}

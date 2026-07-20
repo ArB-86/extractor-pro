@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.6232401728630066,
+    "bbox": [
+        390.4596252441406,
+        2634.1728515625,
+        2080.67236328125,
+        2759.054443359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_019/012_plain_text_0.62.png",
+    "text": "2.\nFind the largest and smallest 4-digit numbers that are divisible by\n4 and are also palindromes."
+}

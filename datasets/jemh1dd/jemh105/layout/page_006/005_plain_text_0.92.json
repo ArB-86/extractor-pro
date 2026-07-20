@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9185827374458313,
+    "bbox": [
+        289.1617736816406,
+        580.991943359375,
+        1430.2901611328125,
+        638.4005737304688
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/005_plain_text_0.92.png",
+    "text": "Let us make the concept more clear through\nI some examples."
+}

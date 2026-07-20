@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8032540678977966,
+    "bbox": [
+        291.18170166015625,
+        1765.9307861328125,
+        1170.5543212890625,
+        1877.8133544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/010_plain_text_0.80.png",
+    "text": "2\nArea\nof the sector\nof\nangle 0\n=\n\u00d7\n360\n2"
+}

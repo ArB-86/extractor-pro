@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9725048542022705,
+    "bbox": [
+        193.70831298828125,
+        2098.81591796875,
+        1752.724609375,
+        2263.807861328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/005_plain_text_0.97.png",
+    "text": "Now, if we consider two points not lying \n on coordinate axis, can we find the\ndistance between them? Yes! We shall\n1 use Pythagoras theorem to do so. Let us see\nan example."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8576728105545044,
+    "bbox": [
+        296.3118591308594,
+        1043.37451171875,
+        820.8480834960938,
+        1105.3743896484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_021/003_plain_text_0.86.png",
+    "text": "Ans.\nYes, i\nit is\ns possible."
+}

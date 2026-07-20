@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9652789235115051,
+    "bbox": [
+        194.40003967285156,
+        2099.990478515625,
+        1755.09765625,
+        2206.619384765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_009/002_plain_text_0.97.png",
+    "text": "Therefore, the mean\npercentage of female teachers in the primary schools of\nrural areas is 39.71."
+}

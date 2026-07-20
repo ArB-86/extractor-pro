@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.562390923500061,
+    "bbox": [
+        456.9517517089844,
+        1151.6168212890625,
+        888.175537109375,
+        1351.4345703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_026/013_plain_text_0.56.png",
+    "text": "Some of these are-\n12\n47\n+21\n+74\n33\n121"
+}

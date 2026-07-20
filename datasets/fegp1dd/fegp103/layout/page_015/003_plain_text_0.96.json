@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9615841507911682,
+    "bbox": [
+        293.908935546875,
+        1184.5428466796875,
+        2084.33154296875,
+        1328.1480712890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_015/003_plain_text_0.96.png",
+    "text": "Make\nCollatz sequences\nlike  t\nthose\nabove, starting\n some more\nwith your favourite whole numbers. Do you always reach 1?"
+}

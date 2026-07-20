@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.6082141995429993,
+    "bbox": [
+        295.1324157714844,
+        1472.379638671875,
+        2172.82177734375,
+        1658.7025146484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_031/008_plain_text_0.61.png",
+    "text": "Q.1. What radius should be taken in the compass to get this half circle? What should be\nthe length of AX?\nAns. 2 cm. AX = 4 cm."
+}

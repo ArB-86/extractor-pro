@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7280979156494141,
+    "bbox": [
+        284.5019836425781,
+        1488.8272705078125,
+        1618.712158203125,
+        1540.1602783203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_028/005_plain_text_0.73.png",
+    "text": "If the median of the distribution g\n given below is 28.5, find the values of x and y."
+}

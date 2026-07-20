@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9478130340576172,
+    "bbox": [
+        420.42730712890625,
+        2131.491455078125,
+        2209.58251953125,
+        2349.901611328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_020/000_plain_text_0.95.png",
+    "text": "Do you observe something common about the angles ofsymmetries\nin these cases? The first set of numbers are all multiples of 180. The\nsecond are all multiples of 120. The third are all multiples of 90."
+}

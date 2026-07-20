@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.9479513168334961,
+    "bbox": [
+        368.1642150878906,
+        1682.9671630859375,
+        2187.853271484375,
+        1916.561767578125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_028/000_plain_text_0.95.png",
+    "text": "1.\nFor\nthe\nnumbers\nin\nthe\nprevious\nexercise,\nfind\nout\nhow\nto\nget\neach\nnumber\nby\nmaking\nthe\nsmallest\nnumber\nof\nbutton\nclicks\nand\nwrite\nthe expression."
+}

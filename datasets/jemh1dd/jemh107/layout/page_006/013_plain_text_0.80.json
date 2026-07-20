@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8038589358329773,
+    "bbox": [
+        193.39532470703125,
+        1147.9476318359375,
+        999.7302856445312,
+        1202.539306640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/013_plain_text_0.80.png",
+    "text": "We\nthat AP\n= BP. So, AP2\nare\ngiven\n=\nBP2"
+}

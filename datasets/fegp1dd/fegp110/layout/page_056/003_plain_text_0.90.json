@@ -1,0 +1,13 @@
+{
+    "page": 56,
+    "label": "plain_text",
+    "confidence": 0.9020451903343201,
+    "bbox": [
+        292.6224365234375,
+        2568.6435546875,
+        2186.1591796875,
+        2690.65185546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_056/003_plain_text_0.90.png",
+    "text": "Q.9 This string has a total of 1o0 tokens arranged in a particular pattern. What is the\nvalue of the string?"
+}

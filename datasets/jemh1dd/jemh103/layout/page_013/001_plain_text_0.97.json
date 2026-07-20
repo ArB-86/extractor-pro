@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9722680449485779,
+    "bbox": [
+        191.84225463867188,
+        396.1404724121094,
+        1752.1458740234375,
+        559.8258666992188
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/001_plain_text_0.97.png",
+    "text": "Solution : Let the ten's and the unit's digits in the first number be x and y, respectively.\nSo, the first number may be written as 10x + y in the expanded form\nn (forexample\n56 = 10(5) + 6)."
+}

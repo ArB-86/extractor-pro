@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.965440571308136,
+    "bbox": [
+        191.09617614746094,
+        660.5487060546875,
+        1755.280029296875,
+        927.2954711914062
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/001_plain_text_0.97.png",
+    "text": "Example\n12 : A carton\n1 consists of 100\nshirts of which\nn 88\nare\ngood, 8 l\nhave\nminor\ndefects and 4 have n\n major defects. Jimmy, a trader, will\nonly\naccept the shirts which\ngood, but\nSujatha, another trader, will\nonly\nare\nreject the shirts\ns which\nhave\nmajor\ndefects. One shirt is drawn at random from the carton. What is the p\nprobability t\nthat"
+}

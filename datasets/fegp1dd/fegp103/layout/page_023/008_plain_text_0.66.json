@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.6597424149513245,
+    "bbox": [
+        295.2574462890625,
+        1950.695556640625,
+        1418.0369873046875,
+        2008.960205078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_023/008_plain_text_0.66.png",
+    "text": "Q. The biggest number in the table is"
+}

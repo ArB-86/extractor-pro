@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8827925324440002,
+    "bbox": [
+        193.41188049316406,
+        792.6541748046875,
+        1415.6302490234375,
+        848.4078979492188
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_010/010_plain_text_0.88.png",
+    "text": "Then by Pythagoras\nTheorem, AC2 = AB\u00b2 + BC2 = a\u00b2 + a\u00b2 = 2a\u00b2,"
+}

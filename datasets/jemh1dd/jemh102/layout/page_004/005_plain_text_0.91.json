@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9134536981582642,
+    "bbox": [
+        192.52415466308594,
+        1538.036865234375,
+        825.1685791015625,
+        2228.341064453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_004/005_plain_text_0.91.png",
+    "text": "You can see from Table 2.1\nthat -1 and 4 are zeroes of the\nquadratic polynomial. Also\nnote from Fig. 2.2 that -1 and 4\nare the x-coordinates of the points\nwhere the graph of y = x\u00b2 - 3x - 4\nintersects the x-axis. Thus, the\nzeroes of the quadratic polynomial\nx\u00b2 - 3x - 4 are x-coordinates of\nthe points where the graph of\ny = x\u00b2 - 3x - 4 intersects the\nx-axis."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.7709446549415588,
+    "bbox": [
+        393.4197082519531,
+        1873.7802734375,
+        1888.787353515625,
+        1933.7794189453125
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_004/016_plain_text_0.77.png",
+    "text": "Remember that 4 + 4 + 4 = 3 \u00d7 4 = 12, whereas 4 \u00d7 4 \u00d7 4 = 43 = 64."
+}

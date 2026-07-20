@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.957982063293457,
+    "bbox": [
+        192.37005615234375,
+        2401.951904296875,
+        1754.351806640625,
+        2566.513671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_003/004_plain_text_0.96.png",
+    "text": "Two polygons of the same number of sides are similar, if (i) their\ncorresponding angles are equal and (ii) ti\ntheir corresponding sides are in the\nsame ratio (or proportion)."
+}

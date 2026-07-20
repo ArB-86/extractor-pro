@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9324421882629395,
+    "bbox": [
+        194.288818359375,
+        2265.2197265625,
+        662.9010009765625,
+        2316.52197265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/004_plain_text_0.93.png",
+    "text": "Adding\nthese two, l\nhe\ngot"
+}

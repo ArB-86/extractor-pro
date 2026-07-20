@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9761555194854736,
+    "bbox": [
+        193.03518676757812,
+        1122.997802734375,
+        857.2021484375,
+        1499.89111328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/002_plain_text_0.98.png",
+    "text": "We observe that there is a point\nB (6, 0) common to both the lines\nAB and PQ. So, the solution of the\npair of linear equations is x = 6 and\ny = O, i.e., the given pair of equations\nis consistent."
+}

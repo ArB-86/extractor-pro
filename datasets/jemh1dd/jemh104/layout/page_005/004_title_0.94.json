@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "title",
+    "confidence": 0.9438602328300476,
+    "bbox": [
+        194.6271209716797,
+        816.9159545898438,
+        1311.044921875,
+        873.263916015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_005/004_title_0.94.png",
+    "text": "4.3\nSolution of a Quadratic Equation by Factorisation"
+}

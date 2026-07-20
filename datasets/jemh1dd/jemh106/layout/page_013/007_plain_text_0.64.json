@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6397315859794617,
+    "bbox": [
+        289.5836181640625,
+        1819.4285888671875,
+        1615.1285400390625,
+        2099.610595703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_013/007_plain_text_0.64.png",
+    "text": "That is, in \u25b3 ABC and \u25b3 DEF, if\nu 7 =  7 7 =  7 7 = 7 (!)\nAB\nBC\nCA\n(ii)\nthen the two triangles are similar (see Fig. 6.22).\nDE\nEF\nFD"
+}

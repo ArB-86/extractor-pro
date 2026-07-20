@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9758037328720093,
+    "bbox": [
+        236.23204040527344,
+        1827.53076171875,
+        1796.5252685546875,
+        2055.586669921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_008/000_plain_text_0.98.png",
+    "text": "Note\nthat i\nin\nall\nthe\nabove\nexamples, the\nenth\nterm\nis a l\nlinear\nexpression\nin\nlinear\nis a sequence of\nn. A\npattern\nnumbers\nwhere\nthe\ndifference\nbetween\ntwo\nconsecutive\nterms\niS\nconstant. We\nWill\nlearn\nmore\nabout\nlinear\nin the chapter\nSequences and Progressions.\npatterns\non:"
+}

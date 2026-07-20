@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9150508642196655,
+    "bbox": [
+        293.42425537109375,
+        1458.83984375,
+        1609.918212890625,
+        1518.12939453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_009/012_plain_text_0.92.png",
+    "text": "You can also see that lines B,C,\nand BC are parallel to each other, i.e.,"
+}

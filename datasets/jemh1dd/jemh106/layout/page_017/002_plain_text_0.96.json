@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9625203013420105,
+    "bbox": [
+        193.5561065673828,
+        2470.6875,
+        1753.412353515625,
+        2583.21337890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_017/002_plain_text_0.96.png",
+    "text": "Activity 6 : Draw two triangles ABC and DEF such that AB = 2 cm, / A = 50\u00b0\nAC = 4 cm, DE = 3 cm,  D = 50\u00b0 and DF = 6 cm (see Fig.6.27)."
+}

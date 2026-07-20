@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8563659191131592,
+    "bbox": [
+        326.9871520996094,
+        547.2863159179688,
+        619.57666015625,
+        665.0549926757812
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/006_plain_text_0.86.png",
+    "text": "(i\nsin\nA,\nCOS\nA\n(ii)\nsin\nC,\nC\nCOS"
+}

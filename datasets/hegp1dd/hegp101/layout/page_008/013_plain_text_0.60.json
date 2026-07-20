@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5988647937774658,
+    "bbox": [
+        463.30108642578125,
+        2338.693603515625,
+        804.3095092773438,
+        2406.06103515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/013_plain_text_0.60.png",
+    "text": "Consider\n81"
+}

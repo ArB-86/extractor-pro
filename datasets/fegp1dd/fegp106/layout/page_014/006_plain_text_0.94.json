@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9404066801071167,
+    "bbox": [
+        420.66729736328125,
+        1216.83837890625,
+        2209.056884765625,
+        1362.29931640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_014/006_plain_text_0.94.png",
+    "text": "Try this with more rectangles having\ndifferent dimensions. You\ncan check this for a square as well."
+}

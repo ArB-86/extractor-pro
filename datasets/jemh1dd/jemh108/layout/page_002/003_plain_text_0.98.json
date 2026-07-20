@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9765070676803589,
+    "bbox": [
+        246.84738159179688,
+        396.3098449707031,
+        1004.5236206054688,
+        1000.6583251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_002/003_plain_text_0.98.png",
+    "text": "3. Suppose a hot air balloon is flying in\nthe air. A girl happens to spot the\nballoon in the sky and runs to her\nmother to tell her about it. Her mother\nrushes out of the house to look at the\nballoon.Now when the girl had spotted\nthe balloon intially it was at point A.\nWhen both the mother and daughter\ncame out to see it, it had already\ntravelled to another point B. Can you\nfind the altitude of B from the ground?"
+}

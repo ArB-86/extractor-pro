@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9810371994972229,
+    "bbox": [
+        194.02597045898438,
+        827.7081909179688,
+        1064.64501953125,
+        1057.2274169921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_005/001_plain_text_0.98.png",
+    "text": "Next take a point P on tl\nthe circle and draw\ntangents\nthrough\nthis\npoint. You\nhave a\nalready\nobserved t\nthat\nthere\nis (\nonly\none\ntangent to the\ncircle at such a point\n[see Fig. 10.6 (ii)]."
+}

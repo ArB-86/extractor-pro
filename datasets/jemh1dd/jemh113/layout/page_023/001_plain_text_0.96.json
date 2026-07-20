@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9630980491638184,
+    "bbox": [
+        192.7019805908203,
+        396.2463073730469,
+        1753.8389892578125,
+        505.8175048828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_023/001_plain_text_0.96.png",
+    "text": "a class interval. It is, therefore, necessary to find the value inside a class that divides\nthe whole distribution into two halves. But which class should this be?"
+}

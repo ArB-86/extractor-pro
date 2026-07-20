@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9026237726211548,
+    "bbox": [
+        421.9137878417969,
+        1183.0882568359375,
+        1353.601806640625,
+        1266.26220703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_001/004_title_0.90.png",
+    "text": "1.1 What is Mathematics?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9551399946212769,
+    "bbox": [
+        418.0579528808594,
+        2751.1201171875,
+        2213.35986328125,
+        2975.045654296875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_010/002_plain_text_0.96.png",
+    "text": "diagrams, the thread is tied to every peg. In some, it is\nIn some\nnot. Is it related to the two\n(the number of pegs and the\nnumbers\nthread-gap) being co-prime?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9834338426589966,
+    "bbox": [
+        238.99501037597656,
+        307.9712219238281,
+        1798.3570556640625,
+        579.7728881835938
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_013/001_plain_text_0.98.png",
+    "text": "When x =\nO,y = 1, so (0, 1) is a point on the line. We\ne can callt\nthis\npoint\nA. We say\nthat the x-coordinate of A is\n0\nand\nthe\ne y-coordinate is 1. Also,\nwhen x = 3\n3, y = 7. Thus, B (3, 7) is\nanother\npoint on the line. We plot these\npoints\non\nthe\ncoordinate\nplane, join\nthem\nand\nextend\nthe\nline\nin both\ndirections as\nshown\nin Fig. 2.5."
+}

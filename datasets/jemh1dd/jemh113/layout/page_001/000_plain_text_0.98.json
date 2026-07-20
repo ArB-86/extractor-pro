@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9817131161689758,
+    "bbox": [
+        190.6562042236328,
+        1163.4073486328125,
+        1752.3289794921875,
+        1715.354736328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_001/000_plain_text_0.98.png",
+    "text": "In Class IX, you have studied the classification of given data into ungrouped as well as\ngrouped frequency distributions. You have also learnt to represent the data pictorially\nin the form of various graphs such as bar graphs, histograms (including those of varying\nnumerical representatives of the ungrouped data, also called measures of central\ntendency, namely, mean, median and mode. In this chapter, we shall extend the study\nof these three measures, i.e., mean, median and mode from ungrouped data to that of\ngrouped data. We shall also discuss the concept of cumulative frequency, the\ncumulative frequency distribution and how to draw cumulative frequency curves, called\nogives."
+}

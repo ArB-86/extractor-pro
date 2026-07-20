@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8808284997940063,
+    "bbox": [
+        228.93289184570312,
+        612.2904663085938,
+        1158.4407958984375,
+        860.9680786132812
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/007_plain_text_0.88.png",
+    "text": "11.\nGopi buys a fish from a shop for his aquarium. The\nshopkeeper takes out one\nfish at random\nfrom a\ntank containing 5 male fish and 8 female fish\n(see\nFig. 14.4). What is the probability that the fish taken\nout is a male fish?"
+}

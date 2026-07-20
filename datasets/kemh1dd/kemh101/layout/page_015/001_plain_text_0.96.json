@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9599045515060425,
+    "bbox": [
+        191.51202392578125,
+        1875.724609375,
+        1125.6444091796875,
+        2189.24609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/001_plain_text_0.96.png",
+    "text": "For example, letA = {2, 4, 6, 8 } a\nand\nB = { 1, 3, 5, 7 }. Then A and B\nare\ndisjoint sets.\nbecause there are no elements which are common to\nA and B. The disjoint sets can\nbe represented by\nmeans of Venn diagram as s\n shown in the Fig\n1.6\nIn the above diagram, A and B\nare c\ndisjoint sets."
+}

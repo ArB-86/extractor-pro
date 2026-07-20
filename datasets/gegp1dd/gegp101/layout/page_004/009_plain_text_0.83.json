@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8271273374557495,
+    "bbox": [
+        367.4693603515625,
+        1822.0311279296875,
+        1569.6761474609375,
+        1886.9188232421875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_004/009_plain_text_0.83.png",
+    "text": "HoW\ndo you view a lakh \u2014-is a lakh big\nor small?"
+}

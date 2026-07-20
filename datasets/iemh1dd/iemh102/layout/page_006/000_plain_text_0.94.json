@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9409082531929016,
+    "bbox": [
+        235.92416381835938,
+        306.5106506347656,
+        1796.9512939453125,
+        419.9725646972656
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_006/000_plain_text_0.94.png",
+    "text": "Note that 2x + 3 is a linear function, whereas 10x - x? is a quadratic\nfunction."
+}

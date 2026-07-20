@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8807297348976135,
+    "bbox": [
+        247.6537628173828,
+        1854.1846923828125,
+        1753.7205810546875,
+        1954.3018798828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/004_plain_text_0.88.png",
+    "text": "6. A bag contains lemon flavoured candies only. Malini takes out one candy without\nlooking into the bag. What is the probability that she takes out"
+}

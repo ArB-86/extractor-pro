@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8043575882911682,
+    "bbox": [
+        186.5048370361328,
+        2042.5697021484375,
+        1757.833251953125,
+        2565.00927734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_001/003_plain_text_0.80.png",
+    "text": "A polynomial of degree 2 is called a quadratic polynomial. The name ^quadratic\n2\nhas been derived from the word \u2018quadrate', which means \u2018square'. 2x\u00b2 + 3x\n\u4e00\n5\ny\u00b2 - 2\uff0c 2-x\u00b2+ \u221a3x,\nn\n- 2u\u00b2 + 5, \u221a5v2\naresome examples of\n+\n3\n3\n7\nquadratic polynomials (whose coefficients are real numbers). More generally, any\nquadratic polynomial in x is of the form ax\u00b2 + bx + c, where a, b, c are real numbers\nand a \u2260 O. A polynomial of degree 3 is called a cubic polynomial. Some examples of"
+}

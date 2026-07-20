@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.6223027110099792,
+    "bbox": [
+        328.8316955566406,
+        448.54669189453125,
+        1231.037841796875,
+        509.0141296386719
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_015/001_plain_text_0.62.png",
+    "text": "The coordinates of the origin are\n(0, 0)."
+}

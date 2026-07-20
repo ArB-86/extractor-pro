@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8723354339599609,
+    "bbox": [
+        624.2032470703125,
+        587.1821899414062,
+        2163.31640625,
+        829.938720703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_004/002_plain_text_0.87.png",
+    "text": "Perimeter\nr of a rectangle = 14\na.\ncm; breadth = 2\ncm; length = ?.\nb.\nPerimeter of a square\ncm; side of a length = ?.\n\u4e8c\n20\nPerimeter\nr of a rectangle = 12\nC.\nm; length = 3\nm; breadth\nI=?."
+}

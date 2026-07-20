@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.7528871297836304,
+    "bbox": [
+        296.8437805175781,
+        2285.231201171875,
+        1510.632568359375,
+        2346.3349609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_023/006_plain_text_0.75.png",
+    "text": "Ans.\nP = 2 x (150+120) = 540; So, 540 \u00d7 40 = Rs. 21,600"
+}

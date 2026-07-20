@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9538397789001465,
+    "bbox": [
+        374.4747314453125,
+        809.31103515625,
+        1791.436767578125,
+        926.4743041992188
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_013/001_plain_text_0.95.png",
+    "text": "When M is the mid-point of ST, \ncan\nyouf\nfind\nlany\nconnection\nbetween the coordinates of M, S and T?"
+}

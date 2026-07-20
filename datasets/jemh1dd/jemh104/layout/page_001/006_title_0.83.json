@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.8270655870437622,
+    "bbox": [
+        452.63861083984375,
+        825.3718872070312,
+        1452.927734375,
+        938.45361328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_001/006_title_0.83.png",
+    "text": "QUADRATIC EQUATIONS"
+}

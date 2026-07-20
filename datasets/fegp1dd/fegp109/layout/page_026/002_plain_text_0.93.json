@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9258626103401184,
+    "bbox": [
+        295.40380859375,
+        794.6105346679688,
+        2186.752197265625,
+        916.9374389648438
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_026/002_plain_text_0.93.png",
+    "text": "Q1.1\nDoyou see any\nline of symmetry in the figures at the start of the chapter? What\nabout in the picture of the cloud?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9083478450775146,
+    "bbox": [
+        192.929443359375,
+        2401.310302734375,
+        976.06591796875,
+        2454.94873046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_003/007_plain_text_0.91.png",
+    "text": "is consistent. If so, solve them\ngraphically."
+}

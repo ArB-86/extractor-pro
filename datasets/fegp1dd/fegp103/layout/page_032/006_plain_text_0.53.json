@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5334785580635071,
+    "bbox": [
+        297.0553283691406,
+        2310.078125,
+        1271.2969970703125,
+        2369.52490234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_032/006_plain_text_0.53.png",
+    "text": "Ans.\nWinning\nstrategy is to be the first player."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.5147168636322021,
+    "bbox": [
+        296.5220947265625,
+        2305.431396484375,
+        587.8449096679688,
+        2365.758544921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_028/012_plain_text_0.51.png",
+    "text": "Figure\nit\n0\nut"
+}

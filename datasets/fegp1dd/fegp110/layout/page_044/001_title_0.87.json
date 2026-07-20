@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "title",
+    "confidence": 0.8668892979621887,
+    "bbox": [
+        296.09130859375,
+        2418.901123046875,
+        2184.845947265625,
+        2543.085693359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_044/001_title_0.87.png",
+    "text": "Q.2. Evaluate these expressions (you may think of them as Starting Floor + Movement by\nreferring to the Building of Fun)."
+}

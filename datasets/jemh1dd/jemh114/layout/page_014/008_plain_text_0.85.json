@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8505048751831055,
+    "bbox": [
+        225.5425567626953,
+        1526.2987060546875,
+        1753.3096923828125,
+        1576.583251953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/008_plain_text_0.85.png",
+    "text": "14. One card is drawn from a well-shuffled deck of 52 cards. Find the probability of getting"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "title",
+    "confidence": 0.7477662563323975,
+    "bbox": [
+        588.5818481445312,
+        1226.1888427734375,
+        1369.1058349609375,
+        1282.78955078125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/012_title_0.75.png",
+    "text": "Miscellaneous\nExercise\nChapter\n1\n2on"
+}

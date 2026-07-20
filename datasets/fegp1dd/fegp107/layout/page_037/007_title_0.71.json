@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "title",
+    "confidence": 0.7143774032592773,
+    "bbox": [
+        856.6644897460938,
+        301.8033447265625,
+        1626.1805419921875,
+        366.648681640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_037/007_title_0.71.png",
+    "text": "CHAPTER 7 -\n\u4e00\nSOLUTIONS"
+}

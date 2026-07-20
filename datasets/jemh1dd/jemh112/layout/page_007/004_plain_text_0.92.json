@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9161266684532166,
+    "bbox": [
+        245.27027893066406,
+        894.6304321289062,
+        1006.8978271484375,
+        1224.8775634765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_007/004_plain_text_0.92.png",
+    "text": "9. A wooden article was made by scooping\nout a hemisphere from each end of a solid\ncylinder, as shown in Fig. 12.11. If the\nheight of the cylinder is 10 cm, and its\nbase is of radius 3.5 cm, find the total\nsurface area of the article."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9760907888412476,
+    "bbox": [
+        192.2632293701172,
+        1655.3427734375,
+        820.1737670898438,
+        2148.08154296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_008/000_plain_text_0.98.png",
+    "text": "Solution : In Fig 9.10, A and B\nrepresent points on the bank on\nopposite sides of the river, so that\nAB is the width of the river. P is a\npoint on the bridge at a height of 3\nm, i.e., DP = 3 m. We are\ninterested to determine the width\nof the river, which is the length of\nthe side AB of the D APB."
+}

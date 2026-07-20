@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9572014212608337,
+    "bbox": [
+        190.6648712158203,
+        1880.9383544921875,
+        1753.723388671875,
+        2039.306396484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_009/002_plain_text_0.96.png",
+    "text": "Example 9 : Find the discriminant of the equation 3x\u00b2 - 2x + \n= O and hence find the\n\u4e00\n3\nnature of its roots. Find them, if they are real."
+}

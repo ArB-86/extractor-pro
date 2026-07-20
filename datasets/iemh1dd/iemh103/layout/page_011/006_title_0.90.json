@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9018580913543701,
+    "bbox": [
+        275.15167236328125,
+        1385.635009765625,
+        807.7132568359375,
+        1452.3665771484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_011/006_title_0.90.png",
+    "text": "Think and Reflect"
+}

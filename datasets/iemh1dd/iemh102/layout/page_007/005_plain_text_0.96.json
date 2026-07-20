@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9594636559486389,
+    "bbox": [
+        241.45484924316406,
+        590.3717041015625,
+        1793.3878173828125,
+        705.4930419921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_007/005_plain_text_0.96.png",
+    "text": "Each stage is obtained by adding two more tiles to the previous stage.\nThe table mentions the number of tiles for the first seven stages."
+}

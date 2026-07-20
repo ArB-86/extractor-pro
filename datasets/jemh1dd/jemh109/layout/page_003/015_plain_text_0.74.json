@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7411271929740906,
+    "bbox": [
+        373.2661437988281,
+        1301.8785400390625,
+        1708.0067138671875,
+        1357.159423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_003/015_plain_text_0.74.png",
+    "text": "v let us explain the process, we have just discussed, by solving some problen"
+}

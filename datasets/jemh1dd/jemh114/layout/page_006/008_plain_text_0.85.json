@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8457566499710083,
+    "bbox": [
+        226.7359161376953,
+        2402.504150390625,
+        1157.854736328125,
+        2454.98828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/008_plain_text_0.85.png",
+    "text": "(ii)\nLet F be the\neevent\n'card drawn\n1S 1\nnot an ace'"
+}

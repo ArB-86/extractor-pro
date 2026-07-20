@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.7095546126365662,
+    "bbox": [
+        497.41668701171875,
+        1016.0460205078125,
+        1445.7059326171875,
+        1125.3145751953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_001/004_plain_text_0.71.png",
+    "text": "There\nis\nperhaps\nnothing\nwhich\nOS\noccupies\nthe\nmiddle\nposition\nof\nmathematics\nSD\ntrigonometry."
+}

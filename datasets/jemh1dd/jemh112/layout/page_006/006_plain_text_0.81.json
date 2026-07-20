@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8092269897460938,
+    "bbox": [
+        192.7437744140625,
+        1412.5308837890625,
+        831.1373901367188,
+        1505.9693603515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/006_plain_text_0.81.png",
+    "text": "22\nUnless stated (\notherwise, t\ntake \u03c0 =\n7"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "title",
+    "confidence": 0.8741626143455505,
+    "bbox": [
+        295.3421325683594,
+        700.4277954101562,
+        566.4342651367188,
+        766.5984497070312
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_029/004_title_0.87.png",
+    "text": "P\nage\nNo.\n8"
+}

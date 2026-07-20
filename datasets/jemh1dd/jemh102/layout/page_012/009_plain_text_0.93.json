@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9294230341911316,
+    "bbox": [
+        192.8069610595703,
+        977.2345581054688,
+        748.9641723632812,
+        1029.9884033203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_012/009_plain_text_0.93.png",
+    "text": "=J\n1, t\nthen\n=q\n3\nand c =\n2."
+}

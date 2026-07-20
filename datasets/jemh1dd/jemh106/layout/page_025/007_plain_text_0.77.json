@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7722697257995605,
+    "bbox": [
+        224.54786682128906,
+        915.2915649414062,
+        974.7725830078125,
+        1063.1634521484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_025/007_plain_text_0.77.png",
+    "text": "13.\nD is a point on t\nthe side BC of a triangle\nABC\nC such that  ADC =  BAC. Show\nthat CA\u00b2 = CB.CD."
+}

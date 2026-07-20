@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7997977137565613,
+    "bbox": [
+        420.6351013183594,
+        2500.429443359375,
+        1567.2689208984375,
+        2799.14892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_020/002_plain_text_0.80.png",
+    "text": "Shabnam: To compare\nthe first two\ngroups,\nwe\nhave to f\nfind f\nfractions\nequivalent to the fractions\n3-4\n7\nand\n10"
+}

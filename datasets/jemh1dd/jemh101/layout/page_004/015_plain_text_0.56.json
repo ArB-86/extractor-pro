@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.5600537061691284,
+    "bbox": [
+        196.03013610839844,
+        1739.504638671875,
+        1517.2105712890625,
+        1794.2669677734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/015_plain_text_0.56.png",
+    "text": "Solution : We have :\n6 = 21 \u00d7 31\nand 20 = 2 \u00d7 2 \u00d7 5 = 2\u00b2 \u00d7 51."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.6215978264808655,
+    "bbox": [
+        193.28846740722656,
+        1769.84619140625,
+        1125.923828125,
+        1872.761474609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/013_plain_text_0.62.png",
+    "text": "If A and B\ntwo sets such that A^ B =\n\u03a6,\nare\nthen\nA\nand B\ncalled disjoint sets.\nare"
+}

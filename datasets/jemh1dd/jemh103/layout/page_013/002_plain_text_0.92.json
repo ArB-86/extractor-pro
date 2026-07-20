@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9212260842323303,
+    "bbox": [
+        249.0956573486328,
+        2099.630126953125,
+        1752.42822265625,
+        2199.257080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/002_plain_text_0.92.png",
+    "text": "2\u3002\nForm the pair of linear equations in the following problems, and find their solutions\n(if they exist) by the elimination method :"
+}

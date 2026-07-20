@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8763663172721863,
+    "bbox": [
+        242.51730346679688,
+        1294.7086181640625,
+        1418.8160400390625,
+        1403.1932373046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/005_plain_text_0.88.png",
+    "text": "1 - tan\n2\nA\n8. If 3 cot A = 4, check whether\n= cos\u00b2 A - sin?A or not.\n1 + tan\u00b2A"
+}

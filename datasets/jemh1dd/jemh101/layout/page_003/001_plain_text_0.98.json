@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9847374558448792,
+    "bbox": [
+        193.39727783203125,
+        1835.121826171875,
+        1754.79052734375,
+        2275.02294921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_003/001_plain_text_0.98.png",
+    "text": "The Fundamental Theorem of Arithmetic says that every composite number can\nbe factorised as a product of primes. Actually it says more. It says that given any\ncomposite number it can be factorised as a product of prime numbers in a \u2018unique\nnumber there is one and only one way to write it as a product of primes, as long as we\nare not particular about the order in which the primes occur. So, for example, we\nregard 2 \u00d73 \u00d7 5 \u00d7 7 as the same as 3 \u00d7 5 \u00d7 7 \u00d7 2, or any other possible order in which\nthese primes are written. This fact is also stated in the following form:"
+}

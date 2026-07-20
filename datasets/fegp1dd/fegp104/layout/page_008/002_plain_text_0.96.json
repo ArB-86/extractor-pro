@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9604238271713257,
+    "bbox": [
+        292.1767272949219,
+        787.531494140625,
+        2085.88720703125,
+        929.6489868164062
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_008/002_plain_text_0.96.png",
+    "text": "One\nday, Lakhanpal collected data on l\nhow many\nstudents\nswere\nabsent in each class:"
+}

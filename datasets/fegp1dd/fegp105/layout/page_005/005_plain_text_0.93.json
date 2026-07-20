@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9285330176353455,
+    "bbox": [
+        403.49334716796875,
+        1710.599853515625,
+        2083.289306640625,
+        1846.4505615234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_005/005_plain_text_0.93.png",
+    "text": "7.\nIn the treasure\ne hunting game, c\nGrumpy\nhas kept treasures on 28\nand 7o. What jump sizes will land on both the numbers?"
+}

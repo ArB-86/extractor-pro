@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.970612645149231,
+    "bbox": [
+        217.31423950195312,
+        1423.173095703125,
+        1755.18701171875,
+        1720.6387939453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_002/000_plain_text_0.97.png",
+    "text": "(vi)\n A pair of rabbits are too young to produce in their first month. In the second, and\nsubsequent month, they p\nproduce a new\npair. Each\nnew\npair of rabbits\nevery\nproduce a new\npair in their second month and in every s\nsubsequent month\n(see\nFig. 5.3). Assuming\ng no rabbit dies, the number of pairs of rabbits at the start of\nthe 1st, 2nd, 3rd,. . ., 6\n6th month, respectively\nare :"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9207245111465454,
+    "bbox": [
+        375.6653747558594,
+        1904.991455078125,
+        2087.530517578125,
+        2028.1790771484375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_006/005_plain_text_0.92.png",
+    "text": "From the question we know that 1225 is the sum of the first 35 odd\n            "
+}

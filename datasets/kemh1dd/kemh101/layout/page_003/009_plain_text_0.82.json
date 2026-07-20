@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8238224387168884,
+    "bbox": [
+        196.47792053222656,
+        2431.38916015625,
+        1751.4991455078125,
+        2484.944580078125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/009_plain_text_0.82.png",
+    "text": "Therefore, the solution set of the given equation can be written in roster form as {1, - 2}"
+}

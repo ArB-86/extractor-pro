@@ -1,0 +1,13 @@
+{
+    "page": 52,
+    "label": "plain_text",
+    "confidence": 0.8627434372901917,
+    "bbox": [
+        295.2367248535156,
+        1980.6795654296875,
+        2188.813720703125,
+        2101.822998046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_052/005_plain_text_0.86.png",
+    "text": "Q. In this figure, ZTER = 80\u00b0. What is the measure of ZBET? What is the measure of\nZSET?"
+}

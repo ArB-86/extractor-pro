@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.95997554063797,
+    "bbox": [
+        192.03285217285156,
+        2136.51904296875,
+        1003.1884155273438,
+        2247.21044921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/003_plain_text_0.96.png",
+    "text": "Solution\nLet\nfirst\ndraw\nthe\ndiagram\nus\nFig.\n 4.2).\nsee"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.826849102973938,
+    "bbox": [
+        291.6518249511719,
+        1206.4322509765625,
+        1982.6973876953125,
+        1390.1390380859375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/010_plain_text_0.83.png",
+    "text": "\uff1f\nGiven a number, such as 576 or 327, how do we \nfind out if it is a\nperfect square? If it is a perfect square, how can we find its square\nroot?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.7938674092292786,
+    "bbox": [
+        371.41375732421875,
+        1295.94091796875,
+        2185.834716796875,
+        1498.151123046875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_034/005_plain_text_0.79.png",
+    "text": "Find out if\n you can reach the Sun in a lifetime, if you travel 1000\nkilometers every\nday. (You had written down the distance between\nthe Earth and the Sun in a previous exercise.)"
+}

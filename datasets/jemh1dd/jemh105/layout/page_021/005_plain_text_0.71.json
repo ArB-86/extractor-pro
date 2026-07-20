@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.7060072422027588,
+    "bbox": [
+        226.595947265625,
+        1365.4090576171875,
+        1287.9051513671875,
+        1415.5633544921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_021/005_plain_text_0.71.png",
+    "text": "12.\nFind the sum of the first 40 positive integers d\ndivisible by\n16."
+}

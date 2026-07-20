@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9080445170402527,
+    "bbox": [
+        190.71888732910156,
+        1628.959228515625,
+        1755.175537109375,
+        1740.5306396484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/007_plain_text_0.91.png",
+    "text": "Thus, we obtain the following relation (or formula) for area of a sector of a\nCircle:"
+}

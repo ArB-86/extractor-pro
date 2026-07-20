@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.9535499811172485,
+    "bbox": [
+        290.51953125,
+        714.0086669921875,
+        2082.3505859375,
+        874.2969360351562
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_023/002_plain_text_0.95.png",
+    "text": "Both the numerator and denominator are even again, so we can\ndivide them each by 2 again; we \n18\n9\nget\n30\n15"
+}

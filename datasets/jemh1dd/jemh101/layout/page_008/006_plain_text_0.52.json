@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5215479135513306,
+    "bbox": [
+        192.705810546875,
+        395.8799743652344,
+        1219.9434814453125,
+        525.7283325195312
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_008/006_plain_text_0.52.png",
+    "text": "Therefore,\nand b have at least 3\nfactor.\nD\nas a\na common\nBut this\ncontradicts t\nthe f\nfact that a a\nand b\nare\n coprime."
+}

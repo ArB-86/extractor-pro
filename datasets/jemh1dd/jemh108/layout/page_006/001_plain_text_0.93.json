@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9313504099845886,
+    "bbox": [
+        191.84022521972656,
+        1958.6651611328125,
+        886.612548828125,
+        2141.19873046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/001_plain_text_0.93.png",
+    "text": "Example 2\n2\uff1a\nIf\nB\nand\nQ\nare\nacute angles\nsuch that\nsin\nB\nsin\nQ\n\u4e8c\n3=L Q.\nthen\nprove that\nZB"
+}

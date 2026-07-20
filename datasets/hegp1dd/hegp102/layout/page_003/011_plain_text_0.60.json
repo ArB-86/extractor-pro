@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6036331653594971,
+    "bbox": [
+        375.68133544921875,
+        2883.6630859375,
+        1752.8203125,
+        2945.61572265625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_003/011_plain_text_0.60.png",
+    "text": "n x n = n\u00b2\n(read as 'n squared' or \u00e9n raised to the power \n2\u2019)"
+}

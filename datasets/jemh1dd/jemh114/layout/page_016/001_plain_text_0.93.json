@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9273262619972229,
+    "bbox": [
+        244.8851776123047,
+        1814.789306640625,
+        1753.5921630859375,
+        1919.8818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_016/001_plain_text_0.93.png",
+    "text": "6. For any event E, P (E) + P (E) = 1, where\nF\nstands for \u2018not E'.E and\nE\nare called\ncomplementary events."
+}

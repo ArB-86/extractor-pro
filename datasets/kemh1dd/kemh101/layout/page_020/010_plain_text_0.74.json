@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.7410639524459839,
+    "bbox": [
+        190.1695098876953,
+        1096.33203125,
+        1659.670654296875,
+        1149.226318359375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/010_plain_text_0.74.png",
+    "text": "2.\nIf U = { a, b, c, d, e, f, g, h}, find the complements of the following sets"
+}

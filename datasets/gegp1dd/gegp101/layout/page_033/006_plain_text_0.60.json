@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.6019622087478638,
+    "bbox": [
+        445.5545959472656,
+        2186.51611328125,
+        1090.0765380859375,
+        2246.446533203125
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_033/006_plain_text_0.60.png",
+    "text": "Ans:\nYes, R\nRoxie is correct."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9706145524978638,
+    "bbox": [
+        291.40899658203125,
+        946.8406982421875,
+        2091.06396484375,
+        1242.824951171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_001/000_plain_text_0.97.png",
+    "text": "Numbers\nare used in\ndifferent\ncontexts a\nand\nin\nmany\ndifferent\nways\nto\nlives.\norganise\nour\nWe\nhave\nused\nnumbers\nto\ncount,\nand\nhave\napplied the basic\n of addition, subtraction, multiplication\n: operations\nand division on\nthem, to solve\nproblems related to our\ndaily\nlives."
+}

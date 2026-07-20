@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9218496680259705,
+    "bbox": [
+        193.94308471679688,
+        1461.58447265625,
+        1066.859619140625,
+        1575.299072265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_005/006_plain_text_0.92.png",
+    "text": "Case\ne1\n\uff1a\nThere \n is no\ntangent to a circle \npassing\nthrough a point lying\ninside the circle."
+}

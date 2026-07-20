@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8313142657279968,
+    "bbox": [
+        394.8379211425781,
+        2357.8203125,
+        822.485107421875,
+        2430.22998046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_018/009_plain_text_0.83.png",
+    "text": "Is\nthis\npossible\n?\ne"
+}

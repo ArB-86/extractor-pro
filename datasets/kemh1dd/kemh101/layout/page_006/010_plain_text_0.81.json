@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8079967498779297,
+    "bbox": [
+        293.1703796386719,
+        2151.652099609375,
+        777.4906005859375,
+        2199.111328125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/010_plain_text_0.81.png",
+    "text": "Consider some examples"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8973535299301147,
+    "bbox": [
+        190.73846435546875,
+        1902.22265625,
+        1575.2960205078125,
+        1958.1907958984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_002/008_plain_text_0.90.png",
+    "text": "where r is the radius of the circle and 0 the angle of the sector in degrees."
+}

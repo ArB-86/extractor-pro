@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9036581516265869,
+    "bbox": [
+        192.63827514648438,
+        816.4749755859375,
+        1442.1805419921875,
+        873.89208984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_002/006_plain_text_0.90.png",
+    "text": "Let us apply this formula to find the mean in the following\nexample"
+}

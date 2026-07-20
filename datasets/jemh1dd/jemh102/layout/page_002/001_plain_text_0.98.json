@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9753217697143555,
+    "bbox": [
+        190.51011657714844,
+        1908.21484375,
+        1753.146484375,
+        2083.656494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_002/001_plain_text_0.98.png",
+    "text": "Thus, the zero of a linear\npolynomial is related to its coefficients. Does this\nhappen in the case of other polynomials too? For example, are the zeroes of a quadratic\npolynomial also related to its coefficients?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.5021526217460632,
+    "bbox": [
+        194.86082458496094,
+        1208.70166015625,
+        1157.2333984375,
+        1695.2403564453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_001/005_plain_text_0.50.png",
+    "text": "You have already come across the terms sector and\nsegment of a circle in your earlier classes. Recall\nthat the portion (or part) of the circular region enclosed\nby two radii and the corresponding arc is called a\nsector of the circle and the portion (or part) of the\ncircular region enclosed between a chord and the\ncorresponding arc is called a segment of the circle.\nThus, in Fig. 11.1, shaded region OAPB is a sector\nof the circle with centre\n O. Z AOB is called the"
+}

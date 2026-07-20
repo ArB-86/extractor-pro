@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7188876271247864,
+    "bbox": [
+        495.49334716796875,
+        1646.7962646484375,
+        1663.7257080078125,
+        1716.1939697265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_009/007_plain_text_0.72.png",
+    "text": "Starting\nLevel\nMovement = Target Level\n+"
+}

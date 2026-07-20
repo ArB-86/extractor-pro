@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8711427450180054,
+    "bbox": [
+        353.6083679199219,
+        2730.75,
+        1531.0745849609375,
+        2797.797607421875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_012/007_plain_text_0.87.png",
+    "text": "What patterns\ndo you notice in the table above?"
+}

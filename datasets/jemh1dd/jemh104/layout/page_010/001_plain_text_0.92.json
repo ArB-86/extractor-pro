@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9248018264770508,
+    "bbox": [
+        247.5263671875,
+        760.9863891601562,
+        1753.9112548828125,
+        862.2826538085938
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/001_plain_text_0.92.png",
+    "text": "2.1\n Find the values of k for each of the following quadratic equations, so that they have two\nequalroots."
+}

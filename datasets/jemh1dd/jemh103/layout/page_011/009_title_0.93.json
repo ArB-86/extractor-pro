@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "title",
+    "confidence": 0.9323245882987976,
+    "bbox": [
+        196.08653259277344,
+        549.4917602539062,
+        739.7153930664062,
+        604.5238647460938
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_011/009_title_0.93.png",
+    "text": "3.3.2\n Elimination\nMethod"
+}

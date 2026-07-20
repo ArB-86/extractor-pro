@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5139959454536438,
+    "bbox": [
+        186.2513885498047,
+        2102.982421875,
+        1420.3292236328125,
+        2584.629638671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_008/007_plain_text_0.51.png",
+    "text": "Example 7 : Show that 32\nis irrational.\nSolution : Let us assume, to the contrary, that 3\u221a2\nis rational.\nThat is, we can find coprime a and b (b \u2260 0) such that 32\n6\nRearranging, we get\n\u221a2\np\n3b\nD\nSince 3, a and b are integers.\nis rational, and so \u221a2\nis rationa\n3b"
+}

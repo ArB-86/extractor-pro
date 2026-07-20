@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.95491623878479,
+    "bbox": [
+        420.5954284667969,
+        697.5801391601562,
+        2208.88037109375,
+        841.9545288085938
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_018/003_plain_text_0.95.png",
+    "text": "If these two\nfigures must overlap, what can\n1 you tell about the\nangles?"
+}

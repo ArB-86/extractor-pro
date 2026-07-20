@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9761596918106079,
+    "bbox": [
+        239.8422088623047,
+        308.9370422363281,
+        1796.6007080078125,
+        639.5020141601562
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_006/000_plain_text_0.98.png",
+    "text": "So\nfar,\nwe\nhave\nonly\nconsidered\npoints\non\nthe\ntwo\ncoordinate\naxes. what\ncan\nisay\nabout\nthe\ncoordinates of 1\npoints\nyou\nthat\nare\nnot\non either axes?\nThe\nplane\ne in which the axes are s\nsituated is called the\nCartesian\nplane, t\nthe\ncoordinate\nplane\nor\nthe\nxy-plane. T\nThe\naxes\ndivide the plane into four\nparts, called\nquadrants. They\nare numbered\nshown in Fig. 1.4.\nass"
+}

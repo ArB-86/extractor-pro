@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9817526340484619,
+    "bbox": [
+        417.47564697265625,
+        478.33837890625,
+        2211.021240234375,
+        919.3299560546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_012/000_plain_text_0.98.png",
+    "text": "Take a number such as 56. It is composite, as we saw\nthat it can be\nwritten as 56 = 4 x 14 . So, both 4 and 14 are factors of 56. Now take 0ne\nof these,say\n14. It is also composite and can be written as 14 = 2 x 7.\nTherefore, 56 = 4 x 2 \u00d7 7. Now, 4 is composite and can be written as\n4 = 2 \u00d7 2. Therefore, 56 = 2 \u00d7 2 \u00d7 2 \u00d7 7. All the factors appearing here, 2\nand 7, are prime numbers. So, we cannot divide them further."
+}

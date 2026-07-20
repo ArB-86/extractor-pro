@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9741677045822144,
+    "bbox": [
+        192.90396118164062,
+        2317.701904296875,
+        1757.2021484375,
+        2557.2646484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_005/005_plain_text_0.97.png",
+    "text": "Note that in Fig. 10.6 (iii), PT,\nand PT,\nthe lengths of the tangents f\nare\nfrom P to\nthe\ne circle. The\ne lengths PT\nand PT,\nhave a common\nproperty. Can\nfind this?\nyou\nMeasure\nePT\nand PT2. Are these equal? In fact, this is always so. Let us \ngive a proof\nof this fact in the following\ntheorem."
+}

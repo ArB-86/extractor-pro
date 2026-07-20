@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9163408279418945,
+    "bbox": [
+        226.4705810546875,
+        1992.294677734375,
+        1751.8021240234375,
+        2143.1005859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/002_plain_text_0.92.png",
+    "text": "16. 12 defective pens are accidentally mixed with 132 good ones. It is not possible to just\nlook at a pen and tell whether or not it is defective. One pen is taken out at random from\nthis lot. Determine the probability that the pen taken out is a good one."
+}

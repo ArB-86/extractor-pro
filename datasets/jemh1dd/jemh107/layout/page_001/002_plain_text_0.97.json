@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9747983813285828,
+    "bbox": [
+        189.89703369140625,
+        1160.226806640625,
+        1750.649169921875,
+        1434.6458740234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_001/002_plain_text_0.97.png",
+    "text": "In Class\nIX, you\nhave studied that to locate\nthe\nposition of a point on a p\nplane, we\nrequire a pair of coordinate axes. The distance of a point f\nfrom the y-axis is called its\nx-coordinate, or abscissa. T\nThe distance of a point\nfrom\nthe x-axis\ns is called its\ny-coordinate, or ordinate. The coordinates of a point on t\nthe x-axis\nare of the form\n(x, O), and of a point on the y-axis are of the form\n(0, y)."
+}

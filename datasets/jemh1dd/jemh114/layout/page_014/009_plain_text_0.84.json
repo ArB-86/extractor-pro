@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8422793745994568,
+    "bbox": [
+        226.9827423095703,
+        1402.1934814453125,
+        1196.82861328125,
+        1451.4686279296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/009_plain_text_0.84.png",
+    "text": "13. A die is thrown once. Find the probability of g\ngetting"
+}

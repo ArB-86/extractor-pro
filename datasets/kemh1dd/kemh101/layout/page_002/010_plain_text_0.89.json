@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8867031335830688,
+    "bbox": [
+        291.9183349609375,
+        1064.97314453125,
+        986.0527954101562,
+        1117.50341796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_002/010_plain_text_0.89.png",
+    "text": "R\n\u5341\nthe set of\npositive real\nnumbers."
+}

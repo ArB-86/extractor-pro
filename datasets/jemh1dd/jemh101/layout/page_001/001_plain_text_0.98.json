@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9787572026252747,
+    "bbox": [
+        189.16419982910156,
+        1754.5537109375,
+        1753.36767578125,
+        2533.393798828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_001/001_plain_text_0.98.png",
+    "text": "The Fundamental Theorem ofArithmetic, on the other hand, has to do something\nwith multiplication of positive integers. You already know that every composite number\ncan be expressed as a product of primes in a unique way \u2014\u2014 this important fact is the\nFundamental Theorem of Arithmetic. Again, while it is a result that is easy to state and\nunderstand, it has some very deep and significant applications in the field of mathematics.\nWe use the Fundamental Theorem of Arithmetic for two main applications. First, we\nuse it to prove the irrationality of many ofthe numbers you studied in Class IX, such as\n\u221a2, \u221a3 and \u221a5 . Second, we apply this theorem to explore when exactly the decimal\nexpansion of a rational number, say\nb\nterminating repeating. We do so by looking at the prime factorisation of the denominator\nq of P . You will see that the prime factorisation ofq will completely reveal the nature\nb\nof the decimal expansion of P\nb"
+}

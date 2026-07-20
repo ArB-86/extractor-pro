@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.8459441661834717,
+    "bbox": [
+        432.5323181152344,
+        1272.9974365234375,
+        828.5384521484375,
+        1514.2037353515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_002/010_plain_text_0.85.png",
+    "text": "1:\n1\u00d71\nThe\nonly\nfactor\nis 1."
+}

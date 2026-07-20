@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.9152505397796631,
+    "bbox": [
+        294.235595703125,
+        2590.72998046875,
+        2186.84716796875,
+        2711.7138671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_044/000_plain_text_0.92.png",
+    "text": "If the number of units to be shared increase with same number of children then each child will\nhave larger share."
+}

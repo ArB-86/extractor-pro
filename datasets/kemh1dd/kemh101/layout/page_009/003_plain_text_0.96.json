@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9580428600311279,
+    "bbox": [
+        191.5532989501953,
+        1293.111083984375,
+        1752.8204345703125,
+        1397.4599609375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/003_plain_text_0.96.png",
+    "text": "Consider the sets : X = set of all students in your school, Y= set of all students in your\nclass."
+}

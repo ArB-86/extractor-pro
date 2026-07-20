@@ -1,0 +1,13 @@
+{
+    "page": 49,
+    "label": "plain_text",
+    "confidence": 0.8951460719108582,
+    "bbox": [
+        290.01763916015625,
+        492.66485595703125,
+        945.8212280273438,
+        1304.5953369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_049/001_plain_text_0.90.png",
+    "text": "5\n3\nQ1.\n8\n8\n2\n1\nAns.\nin lowest terms)\n8\n4\n7\n5\nQ2.\n9\n9\n2\nAns.\n\u4e00\n9\n10\n1\nQ3.\n27\n27\n9\n1\nAns.\nin lowest terms)\n27\n3"
+}

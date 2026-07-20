@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8765980005264282,
+    "bbox": [
+        301.3143005371094,
+        918.9073486328125,
+        1472.496826171875,
+        987.0635375976562
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_006/010_plain_text_0.88.png",
+    "text": "\uff1f\nx p6\n in exponential form."
+}

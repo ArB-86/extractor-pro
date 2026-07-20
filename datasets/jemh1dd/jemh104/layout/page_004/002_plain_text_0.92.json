@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9197878837585449,
+    "bbox": [
+        193.3014678955078,
+        1544.55859375,
+        1750.4093017578125,
+        1651.98681640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_004/002_plain_text_0.92.png",
+    "text": "Remark : Be careful! In (ii) a\nabove, the given equation appears to be a quadratic\nequation, but it is not a quadratic equation."
+}

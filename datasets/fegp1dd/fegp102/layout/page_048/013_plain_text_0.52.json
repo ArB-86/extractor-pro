@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.5176123976707458,
+    "bbox": [
+        406.8140563964844,
+        838.5023193359375,
+        2190.902099609375,
+        1124.6351318359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_048/013_plain_text_0.52.png",
+    "text": "a. How\nright angles do y\n have now? Justify\nwhy\nthe angles are exact right\nmany\nyou\nangles.\nb. Describe\nhow\nfolded\nthe\nthat\nother\nwho doesn't know\nyou\npaper so\nany\nperson\nthe\nsimply\nfollow your\ndescription to g\nget the right a\nprocess\nangle.\ncan"
+}

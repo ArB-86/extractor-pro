@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9401577115058899,
+    "bbox": [
+        224.1839141845703,
+        2083.885498046875,
+        1753.75341796875,
+        2236.0517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/004_plain_text_0.94.png",
+    "text": "23. A game consists of tossing a one rupee coin 3 times and noting its outcome each time.\nHanif wins if all the tosses give the same result i.e., three heads or three tails, and loses\notherwise. Calculate the probability that Hanif will lose the game."
+}

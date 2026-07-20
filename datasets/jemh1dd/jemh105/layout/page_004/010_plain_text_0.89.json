@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8930562734603882,
+    "bbox": [
+        223.27798461914062,
+        667.0994873046875,
+        1752.650634765625,
+        781.1707153320312
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/010_plain_text_0.89.png",
+    "text": "(a) The heights ( in cm \uff09 of some students of a school standing in a queue in the\nmorning assembly are 147 , 148, 149, .. ,\n,157."
+}

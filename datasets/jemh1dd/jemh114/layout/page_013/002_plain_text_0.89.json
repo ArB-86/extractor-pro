@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8889150023460388,
+    "bbox": [
+        247.8684844970703,
+        514.0045166015625,
+        907.2206420898438,
+        563.70947265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_013/002_plain_text_0.89.png",
+    "text": "1.\nComplete the following statements:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 48,
+    "label": "plain_text",
+    "confidence": 0.9296326637268066,
+    "bbox": [
+        295.4615173339844,
+        2546.0498046875,
+        2188.75439453125,
+        2729.944091796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_048/001_plain_text_0.93.png",
+    "text": "Q.4. Find out the number of acute angles in each of the figures below. What will be the\nnext figure and how many acute angles will it have? Do you notice any pattern in\nthenumbers?"
+}

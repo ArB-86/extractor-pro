@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9687213897705078,
+    "bbox": [
+        291.1611633300781,
+        1955.9964599609375,
+        2086.1669921875,
+        2170.90869140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_013/002_plain_text_0.97.png",
+    "text": "Thus, t\nthe order\ndoes not matter. Usually\nWe write\nthe\nprime\nnumbers in increasing order. For example, 225 = 3 x 3 x 5 \u00d7 5 or 30 =\n2x3x 5."
+}

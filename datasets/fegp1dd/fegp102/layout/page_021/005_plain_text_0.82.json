@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8212487101554871,
+    "bbox": [
+        293.4474182128906,
+        1312.9696044921875,
+        2083.679931640625,
+        1458.26708984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_021/005_plain_text_0.82.png",
+    "text": "Measures of different angles: What is the measure of a full t\nturn in\ndegrees? As we have taken it to contain 360 degrees, its measure is 360\u00b0."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8487762212753296,
+    "bbox": [
+        324.1901550292969,
+        612.2003784179688,
+        1451.90869140625,
+        743.3131103515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_010/006_plain_text_0.85.png",
+    "text": "(i) 3x\u00b2 -4\u221a3x+4=0\n2x\u00b2-3x+ 5=0\n(ili\n2x\u00b2- 6x+ 3 =0"
+}

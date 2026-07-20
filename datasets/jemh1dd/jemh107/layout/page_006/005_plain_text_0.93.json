@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9303189516067505,
+    "bbox": [
+        192.47079467773438,
+        396.3489990234375,
+        1088.2637939453125,
+        450.2238464355469
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/005_plain_text_0.93.png",
+    "text": "Solution\n1 : Using\nthe distance\nformula,\n\uff0cwe\nhave"
+}

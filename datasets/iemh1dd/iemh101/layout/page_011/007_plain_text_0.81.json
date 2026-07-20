@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8068668842315674,
+    "bbox": [
+        311.96923828125,
+        1805.3787841796875,
+        1336.9581298828125,
+        1862.9486083984375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_011/007_plain_text_0.81.png",
+    "text": "You can s\n similarly calculate both D'M'\nand M'A':"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9594194293022156,
+    "bbox": [
+        193.10067749023438,
+        397.13140869140625,
+        1753.6641845703125,
+        503.0494079589844
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_005/001_plain_text_0.96.png",
+    "text": "From the above, you can easily\n say that quadrilaterals ABCD and PQRS\nof\nFig. 6.5 are similar."
+}

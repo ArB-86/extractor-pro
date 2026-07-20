@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9332334995269775,
+    "bbox": [
+        277.2408752441406,
+        1090.8262939453125,
+        1796.3848876953125,
+        1421.367919921875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/005_plain_text_0.93.png",
+    "text": "1.\nA\nlearning\nplatform\ncharges\nfixed\nmonthly\nfee\na\nand\nan\nadditional\ncost\ndigital learning\nper\nmodule\naccessed. A student\nobserves\nthat when\nshe\naccessed\n10\nmodules, her\nc bill\nwas\n?400.\nWhen she accessed 14 modules, her bill\n500. If the monthly\nwas\nbill y depends on the number of modules accessed, x, according\nto\nthe relation y = ax + b, find the values of a and b."
+}

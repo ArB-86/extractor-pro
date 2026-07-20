@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7897683382034302,
+    "bbox": [
+        191.65762329101562,
+        2166.0654296875,
+        811.4044189453125,
+        2289.3642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_006/009_plain_text_0.79.png",
+    "text": "2-3\nNow,\n2\n=0\nfor\nx=\n\u221a\n7"
+}

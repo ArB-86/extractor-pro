@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.9339531064033508,
+    "bbox": [
+        296.57598876953125,
+        587.16845703125,
+        2189.249755859375,
+        774.4105834960938
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_037/000_plain_text_0.93.png",
+    "text": "Q1. Color the sectors of the circle below so that the figure has i) 3 angles of symmetry, ii)\n4 angles of symmetry, iii) what are the possible numbers of angles of symmetry you\ncan obtain by coloring the sectors in different ways?"
+}

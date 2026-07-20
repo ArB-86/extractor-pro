@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8482822179794312,
+    "bbox": [
+        242.42510986328125,
+        1751.1290283203125,
+        1537.7064208984375,
+        1799.3519287109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/008_plain_text_0.85.png",
+    "text": "7\u30021\nFind the 31st term of an AP whose 11th term is 38 and the 16th term is 73."
+}

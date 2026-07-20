@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9816884398460388,
+    "bbox": [
+        293.54248046875,
+        603.8507690429688,
+        2084.568115234375,
+        1128.6856689453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_033/001_plain_text_0.98.png",
+    "text": "Fractions had also been used in other cultures such as the ancient\nEgyptian and Babylonian civilisations, but they primarily used only\nfractional units, that is, fractions with a 1 in the numerator. More\ngeneral fractions were expressed as sums of fractional units, now\ncalled \u2018Egyptian fractions'. Writing numbers as the sum of fractional\nunits,e.g.,24\n19\n1\n16\n\u4e00\ncan be quite an art and leads to beautiful\n+\n+\n2\n8\npuzzles. We will consider one such puzzle below."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 55,
+    "label": "plain_text",
+    "confidence": 0.8775913715362549,
+    "bbox": [
+        297.2919006347656,
+        1840.6260986328125,
+        2167.2421875,
+        2090.791015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_055/004_plain_text_0.88.png",
+    "text": "Q.3\n3 There are\ntwo dice\ne whose\nfaces\nhave\nthese\nnumbers: -1, 2, -3, 4, -5, 6. The s\nsmallest\nrolling\nthese\ndice is -10 = (-5) + \n(-5)\nand\nthe largest\npossible\nsum\nupon\npossible\nis 12 =\n: (6)+(6). Some\nnumbers\nbetween\n(-10)\nand\n1 (+12)\npossible to get\nsum\nare 1\nnot\nby a\nadding\nnumbers on\nthese\ne two dice. Find i\nthose\nnumbers."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8407881259918213,
+    "bbox": [
+        234.7544403076172,
+        1432.2847900390625,
+        1754.829833984375,
+        1552.9342041015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_012/003_plain_text_0.84.png",
+    "text": "1)\nThe outcomes favourable to the event 'the sum ofthe two numbers is 8' denoted\nby E, are: (2, 6), (3, 5), (4, 4), (5, 3), (6, 2)\n(see Fig. 14.3)"
+}

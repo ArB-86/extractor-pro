@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9691107273101807,
+    "bbox": [
+        192.4490509033203,
+        1099.0009765625,
+        1751.2791748046875,
+        1289.2144775390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_010/000_plain_text_0.97.png",
+    "text": "Hence, the value of 3x\u00b2 + 5x - 2 is zero when either 3x - 1 = 0 or x + 2 = 0, i.e.\n1\n1\nwhen x =\nor x = -2. So, the zeroes of 3x\u00b2 + 5x - 2 are\nand - 2. Observe that :\n3\n3"
+}

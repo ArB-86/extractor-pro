@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9032304286956787,
+    "bbox": [
+        323.6958312988281,
+        2179.261474609375,
+        1345.863525390625,
+        2292.642822265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/007_plain_text_0.90.png",
+    "text": "intersecting\nlines\n(i)\nparallel lines\n(ii)\ncoincident lines"
+}

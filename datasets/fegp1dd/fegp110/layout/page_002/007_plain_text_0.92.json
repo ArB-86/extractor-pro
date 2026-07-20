@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9160975217819214,
+    "bbox": [
+        365.28582763671875,
+        1770.4599609375,
+        1422.488525390625,
+        1837.96728515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_002/007_plain_text_0.92.png",
+    "text": "We say\nthat the button\nis\nor +2.\npress\n++"
+}

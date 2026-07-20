@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8875008225440979,
+    "bbox": [
+        235.6240997314453,
+        1967.9498291015625,
+        1424.707763671875,
+        2027.541259765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_006/006_plain_text_0.89.png",
+    "text": "Observe\nthe following\n growing pattern of square t\ntiles."
+}

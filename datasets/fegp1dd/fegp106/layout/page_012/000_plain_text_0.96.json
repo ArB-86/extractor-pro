@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9634483456611633,
+    "bbox": [
+        420.02606201171875,
+        1211.74365234375,
+        2213.263671875,
+        1431.3382568359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_012/000_plain_text_0.96.png",
+    "text": "We can estimate\nthe area of any \nsimple closed shape by using\na\nsheet of squared paper or g\n1 unit \u00d7 1 unit or 1 square unit."
+}

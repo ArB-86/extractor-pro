@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7111240029335022,
+    "bbox": [
+        193.56646728515625,
+        1550.733642578125,
+        1347.69384765625,
+        1608.1358642578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/004_plain_text_0.71.png",
+    "text": "Solution : Let us assume, to the contrary,\nthat\n\u221a3\nis rational."
+}

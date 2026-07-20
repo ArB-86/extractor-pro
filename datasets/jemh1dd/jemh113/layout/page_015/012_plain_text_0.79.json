@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7857526540756226,
+    "bbox": [
+        292.27667236328125,
+        1353.0496826171875,
+        1009.3046264648438,
+        1410.5450439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/012_plain_text_0.79.png",
+    "text": "the frequency (f\uff09 of\nmodal class"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9713189601898193,
+    "bbox": [
+        191.37918090820312,
+        2068.788330078125,
+        1756.201416015625,
+        2254.64697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_012/002_plain_text_0.97.png",
+    "text": "When Z C is very c\nclose to 0\u00b0, Z A is very close to 90\u00b0, side AC is nearly the\nsame as side BC, and so sin A is very close to 1. Also when Z A is very close to 90\u00b0,\nZ C is very close to O\u00b0, and the side AB is nearly\nzero, so cos A is very close to O."
+}

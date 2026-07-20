@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9439710378646851,
+    "bbox": [
+        193.82720947265625,
+        1434.930419921875,
+        906.1060180664062,
+        1487.6304931640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_004/006_plain_text_0.94.png",
+    "text": "which is called the distance\nformula."
+}

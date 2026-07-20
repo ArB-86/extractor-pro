@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7129026055335999,
+    "bbox": [
+        393.8985595703125,
+        1287.5181884765625,
+        1477.3360595703125,
+        1590.569091796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_003/008_plain_text_0.71.png",
+    "text": "Length of the rectangular table\ncover\n=3\nBreadth of the rectangular table \ncover\n=2\nAkshi\nto\nlace\nall\nthe\nwants\nput\naround\ntablecloth."
+}

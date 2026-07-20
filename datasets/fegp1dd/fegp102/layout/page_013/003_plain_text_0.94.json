@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9401032328605652,
+    "bbox": [
+        294.6524963378906,
+        1384.8857421875,
+        2087.61376953125,
+        1528.7633056640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_013/003_plain_text_0.94.png",
+    "text": "Let us make \u2018rotating\narms' using\ng two paper straws and a paper clip\nby following these steps:"
+}

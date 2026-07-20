@@ -1,0 +1,13 @@
+{
+    "page": 33,
+    "label": "plain_text",
+    "confidence": 0.9104094505310059,
+    "bbox": [
+        295.4794921875,
+        1933.958984375,
+        2188.700927734375,
+        2121.07763671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_033/001_plain_text_0.91.png",
+    "text": "Q.5. The teacher asked if 14560 is divisible by all of 2, 4, 5, 8 and 10. Guna checked for\ndivisibility of 14560 by only two of these numbers and then declared that it was also\ndivisible by all of them. What could those two numbers be?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9146662354469299,
+    "bbox": [
+        246.56216430664062,
+        396.9991760253906,
+        1752.9344482421875,
+        546.98583984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_010/004_plain_text_0.91.png",
+    "text": "8. A statue, 1.6 m tall, stands on the top of a pedestal. From a point on the ground, the\nangle of elevation of the top of the statue is 60\u00b0 and from the same point the angle of\nelevation of the top of the pedestal is 45\u00b0. Find the height of the pedestal."
+}

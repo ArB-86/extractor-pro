@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9796807765960693,
+    "bbox": [
+        238.9633331298828,
+        1495.3369140625,
+        1794.060302734375,
+        1771.9356689453125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_002/002_plain_text_0.98.png",
+    "text": "AS\ncivilisations\nadvanced,\n, SO\ndid\nthe\nneed\nfor\nlarger\nnumbers. In t\nthe\nurban\nof\nthe\nIndus\nValley\nancient\ncenters\nCivilisation, such\nas\nLothal\nand\nHarappa, s\nstandardised\nweights\nand\nmeasures\ncrucial\nfor\nwere\ntrade. A\nmerchant\ntrading\nterracotta\npottery,\nlapis\nlazuli,\nor\ncotton\nwith Mesopotamia\nneeded a robust s\naccounting.\nsystem of:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9443672895431519,
+    "bbox": [
+        335.6432189941406,
+        2445.94873046875,
+        1753.918212890625,
+        2548.612060546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_004/001_plain_text_0.94.png",
+    "text": "The area of a rectangular plot is 528 m\u00b2. The length of the plot (in metres) is one\n1\nmore than twice its breadth. We need to find the length and breadth of the plot."
+}

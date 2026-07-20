@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9699615836143494,
+    "bbox": [
+        272.5661926269531,
+        1791.75390625,
+        1666.4954833984375,
+        2012.964111328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_014/000_plain_text_0.97.png",
+    "text": "However,\nif P does\nnot\nlie\nbetween\nA\nand\nB\nbut\nlies\nthe\nline\nAB,\non\noutside the line segment AB, and PA : PB\n=m, : m2,\nwe say\nthat P divides\nexternally\nthe\nline segment\njoining\nthe\nSA\nand B. You\nWill\nstudy\npoints\nSection\nFormula for\nsuch\ncase\nin\nhigher\nr classes."
+}

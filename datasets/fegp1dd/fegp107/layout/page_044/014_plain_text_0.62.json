@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.6212964653968811,
+    "bbox": [
+        379.09979248046875,
+        655.6734008789062,
+        2186.3515625,
+        779.995361328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_044/014_plain_text_0.62.png",
+    "text": "a. 5 :\nglasses of juice shared equally\ng 4 friends is the same as\namong\nglasses of\njuice shared equally among 8 friends."
+}

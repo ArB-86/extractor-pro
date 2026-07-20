@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.6745284199714661,
+    "bbox": [
+        217.01129150390625,
+        2247.309814453125,
+        910.3101196289062,
+        2296.800537109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/014_plain_text_0.67.png",
+    "text": "Show that for any s\n6.\nsets A\nand B"
+}

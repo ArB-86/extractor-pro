@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9594130516052246,
+    "bbox": [
+        420.4100341796875,
+        1068.92236328125,
+        2202.9345703125,
+        1214.184814453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_018/004_plain_text_0.96.png",
+    "text": "First predict the answers, and then measure\nthe angles. What do\nyou observe? Identify pairs of angles that are equal."
+}

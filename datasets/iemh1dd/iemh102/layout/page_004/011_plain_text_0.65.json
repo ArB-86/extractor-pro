@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.6494473814964294,
+    "bbox": [
+        265.8576965332031,
+        306.41839599609375,
+        1652.8905029296875,
+        367.4356994628906
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_004/011_plain_text_0.65.png",
+    "text": "4\u3002\nWhat is the coefficient of z in the polynomial 4z? + 5z2 - 11?"
+}

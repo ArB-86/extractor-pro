@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9592035412788391,
+    "bbox": [
+        192.68618774414062,
+        1360.4781494140625,
+        1755.185546875,
+        1527.66455078125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_014/002_plain_text_0.96.png",
+    "text": "Example 14 Let X = {Ram, Geeta, Akbar} be the set of students of Class XI, who are\nin school hockey team. Let Y = {Geeta, David, Ashok} be the set of students from\nClass XI who are in the school football team. Find X U Y and interpret the set."
+}

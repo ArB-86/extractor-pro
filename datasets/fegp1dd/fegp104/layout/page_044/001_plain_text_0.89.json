@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.8905753493309021,
+    "bbox": [
+        298.7340393066406,
+        785.59716796875,
+        1606.0146484375,
+        843.832763671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_044/001_plain_text_0.89.png",
+    "text": "Ans.\nThere are mistakes in the bars of 2006, 2010, 2014, 2018."
+}

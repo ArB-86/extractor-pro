@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.8713926076889038,
+    "bbox": [
+        295.277099609375,
+        1186.580810546875,
+        2189.3095703125,
+        1690.8502197265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_027/001_plain_text_0.87.png",
+    "text": "Ans.a\na. True, unit digit 4 means even number. We know that 2 is the only even prime number.\nb. False, product of primes becomes a composite number.\nc. False, prime numbers have exactly two factors: 1 and the number itself.\nd. False, all even numbers except 2 are composite numbers\ne. True, as every pair, other than (2, 3), contains an even number which is a composite\nnumber."
+}

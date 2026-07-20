@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8974250555038452,
+    "bbox": [
+        594.04052734375,
+        588.2509155273438,
+        1479.7042236328125,
+        651.8395385742188
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_010/002_plain_text_0.90.png",
+    "text": "a. The hole in the centre is a square."
+}

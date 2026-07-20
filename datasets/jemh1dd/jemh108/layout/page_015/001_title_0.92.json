@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "title",
+    "confidence": 0.9158734083175659,
+    "bbox": [
+        801.9822387695312,
+        425.4788513183594,
+        1147.005615234375,
+        480.2315368652344
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_015/001_title_0.92.png",
+    "text": "EXE\nER\n8\nQ\n7"
+}

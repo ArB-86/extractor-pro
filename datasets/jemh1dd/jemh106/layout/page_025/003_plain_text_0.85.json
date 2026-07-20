@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8491197228431702,
+    "bbox": [
+        228.01455688476562,
+        430.56494140625,
+        975.9971313476562,
+        631.2113647460938
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_025/003_plain_text_0.85.png",
+    "text": "11.\nIn I\nFig. 6.40, E is a point\non\nside\ne CB\nproduced of an isosceles t\ntriangle ABC\nwith AB =AC. IfAD \u22a5 BC and EF LAC.\nprove that \u25b3 ABD ~  ECF."
+}

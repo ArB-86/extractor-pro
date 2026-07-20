@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8116850852966309,
+    "bbox": [
+        191.30792236328125,
+        1076.9932861328125,
+        501.98193359375,
+        1129.9649658203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/008_plain_text_0.81.png",
+    "text": "Now,\nin\nADC"
+}

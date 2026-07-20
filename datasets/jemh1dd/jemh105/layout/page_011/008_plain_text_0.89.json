@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8901902437210083,
+    "bbox": [
+        192.37086486816406,
+        1648.4814453125,
+        1225.894287109375,
+        1703.9144287109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/008_plain_text_0.89.png",
+    "text": "Is this an AP? Yes it is. Here,\n12, d =3, a, = 99.\n=D"
+}

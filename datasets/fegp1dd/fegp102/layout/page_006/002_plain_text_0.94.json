@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9443056583404541,
+    "bbox": [
+        453.7742004394531,
+        1174.5638427734375,
+        2170.1796875,
+        1317.2598876953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_006/002_plain_text_0.94.png",
+    "text": "The size of an angle is the amount of rotation or turn that is needed\nabout the vertex to move the first ray to the second ray."
+}

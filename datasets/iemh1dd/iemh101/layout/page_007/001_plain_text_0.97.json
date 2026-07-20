@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9720226526260376,
+    "bbox": [
+        236.84219360351562,
+        1465.7138671875,
+        1798.3873291015625,
+        1691.5782470703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_007/001_plain_text_0.97.png",
+    "text": "On a\ngraph sheet,\nmark\nthe\nX-axis\nand\ny-axis\nand\nthe\norigin\nO. Mark\npoints from\n(-7, 0) to (13, 0) on\nthe x-axis\nand from\n(0, -15) to (0, 12)\non\nthe y-axis. (Use the scale 1 c\nunit.) Using\ncm = 1 l\ng Fig. 1.5, answer\nthe\ngiven\nquestions."
+}

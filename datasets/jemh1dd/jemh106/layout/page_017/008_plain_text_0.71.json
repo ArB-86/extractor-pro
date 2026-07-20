@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.713795006275177,
+    "bbox": [
+        192.58673095703125,
+        1160.0487060546875,
+        548.9714965820312,
+        1211.0972900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_017/008_plain_text_0.71.png",
+    "text": "It\nbe\nthat\ncan\nseen"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8942907452583313,
+    "bbox": [
+        381.03460693359375,
+        2798.6689453125,
+        2093.808837890625,
+        2925.748291015625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/003_plain_text_0.89.png",
+    "text": "Ans. Square of an even number is even & square of an odd number is\nOdd."
+}

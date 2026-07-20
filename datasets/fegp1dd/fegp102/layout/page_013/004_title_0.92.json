@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9225013256072998,
+    "bbox": [
+        293.3346862792969,
+        1250.06640625,
+        1243.4837646484375,
+        1336.6239013671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_013/004_title_0.92.png",
+    "text": "2.7 Making\nRotating\nArms"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9540809392929077,
+    "bbox": [
+        191.55551147460938,
+        2454.466064453125,
+        1754.8275146484375,
+        2566.097900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_015/001_plain_text_0.95.png",
+    "text": "2. It depends upon the demand of the situation whether we are interested in finding the\naverage marks obtained by the students or the average of the marks obtained by most"
+}

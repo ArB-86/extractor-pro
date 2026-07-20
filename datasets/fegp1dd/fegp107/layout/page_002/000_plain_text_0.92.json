@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9158973097801208,
+    "bbox": [
+        420.1898498535156,
+        1843.0684814453125,
+        2209.619140625,
+        1978.2086181640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_002/000_plain_text_0.92.png",
+    "text": "When one unit is divided into several\nequal\nparts, each\npart is\ncalled a fractional unit. These are all fractional units:"
+}

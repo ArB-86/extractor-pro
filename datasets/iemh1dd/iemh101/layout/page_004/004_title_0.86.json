@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.8561150431632996,
+    "bbox": [
+        766.5550537109375,
+        2138.34619140625,
+        1261.0010986328125,
+        2215.81396484375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_004/004_title_0.86.png",
+    "text": "EXERCISE\nSET"
+}

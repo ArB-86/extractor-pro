@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9485712051391602,
+    "bbox": [
+        405.86444091796875,
+        1416.4635009765625,
+        2085.302490234375,
+        1699.1190185546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_005/002_plain_text_0.95.png",
+    "text": "6.\nAnshu and his friends play the idli-vada'\ngame with two numbers,\nwhich\nare\nboth\nsmaller\n than\n10. The f\nfirst time\nanybody says\n'idli-\nvada'\nis\nafter\nthe\nnumber\n50. What\ncould\nthe\ntwo\nnumbers\nbe\nwhich\nare a\nassigned\u2018idli\nand\n'vada'?"
+}

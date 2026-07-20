@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8864433169364929,
+    "bbox": [
+        293.138671875,
+        1487.1962890625,
+        1247.7166748046875,
+        1606.495849609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_009/008_plain_text_0.89.png",
+    "text": "xf\n1390\nUsing the direct method, x =\n= 39.71\nZf\n35"
+}

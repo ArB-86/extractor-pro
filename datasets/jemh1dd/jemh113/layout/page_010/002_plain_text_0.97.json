@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9723278880119324,
+    "bbox": [
+        194.6322479248047,
+        395.73443603515625,
+        1753.4835205078125,
+        562.166259765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_010/002_plain_text_0.97.png",
+    "text": "Example 3 : The distribution below shows the number of wickets taken by bowlers in\none-day cricket matches. Find the mean number of wickets by choosing a suitable\nmethod. What does the mean signify?"
+}

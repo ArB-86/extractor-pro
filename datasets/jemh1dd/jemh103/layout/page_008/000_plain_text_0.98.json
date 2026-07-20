@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9828473329544067,
+    "bbox": [
+        192.9449005126953,
+        820.4830932617188,
+        1754.2144775390625,
+        1110.4713134765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/000_plain_text_0.98.png",
+    "text": "Step 2 : Substitute this value of y in the other equation, and reduce it to an equation in\none variable, i.e., in terms of x, which can be solved. Sometimes, as in Examples 9 and\n10 below,you can\nconclude that the pair of linear equations has infinitely 1\nmany solutions. If the statement\nis false, then the pair of linear\nequations is inconsistent."
+}

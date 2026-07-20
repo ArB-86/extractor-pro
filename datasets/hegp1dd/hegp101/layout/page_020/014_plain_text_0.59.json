@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.5852935910224915,
+    "bbox": [
+        381.22210693359375,
+        1334.425048828125,
+        1715.5064697265625,
+        1402.995361328125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_020/014_plain_text_0.59.png",
+    "text": "2. Which one among\n642, 1082, 2922, 362 has last digit 4?"
+}

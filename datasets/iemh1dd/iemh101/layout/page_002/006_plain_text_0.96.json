@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9566222429275513,
+    "bbox": [
+        241.37957763671875,
+        2435.4892578125,
+        1794.50390625,
+        2545.8427734375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_002/006_plain_text_0.96.png",
+    "text": "Shalini\nwanted\nReiaan\ntof\nfeel\nthec\ndirections, so \nshe\nused\na\nrectangular grid on which she had fixed pins and threads. This showed"
+}

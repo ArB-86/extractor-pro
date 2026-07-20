@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9375933408737183,
+    "bbox": [
+        286.3911437988281,
+        1341.3065185546875,
+        2087.9609375,
+        1463.23974609375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_005/003_plain_text_0.94.png",
+    "text": "?.\nIf a number contains 3 zeros at the end, how many\nI zeros will its square\nhave at the end?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9188440442085266,
+    "bbox": [
+        194.82093811035156,
+        1656.6103515625,
+        1378.7626953125,
+        1709.6051025390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/006_plain_text_0.92.png",
+    "text": "Example 1 : Represent the following situations mathematically:"
+}

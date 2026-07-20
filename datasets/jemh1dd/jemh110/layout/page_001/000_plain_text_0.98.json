@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9821879267692566,
+    "bbox": [
+        187.3146209716797,
+        2268.656005859375,
+        1752.626953125,
+        2597.53662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_001/000_plain_text_0.98.png",
+    "text": "In Fig. 10.1 (i), the line PQ\nand the circle have no common\npoint. In this case,\nPQ is called a non-intersecting\n line with respect to the circle. In Fig. 10.1\n(ii), there\nare two common p\npoints A and B that the line PQ\nand the circle have. In this case, we\ncall the line PQ\na secant of the circle. In Fig. 10.1\n(iii), there is only c\none point A which\nis common to the line PQ and the circle. In this case, the line is called a tangent to the\ncircle."
+}

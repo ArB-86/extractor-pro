@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.6664039492607117,
+    "bbox": [
+        293.2441711425781,
+        937.059814453125,
+        1071.5787353515625,
+        989.7127075195312
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_014/009_plain_text_0.67.png",
+    "text": "where\nlimit of the modal class,\n1=\nlower"
+}

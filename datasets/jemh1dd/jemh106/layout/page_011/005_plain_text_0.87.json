@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8650130033493042,
+    "bbox": [
+        190.79368591308594,
+        2265.1005859375,
+        890.5856323242188,
+        2381.715087890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/005_plain_text_0.87.png",
+    "text": "PS\nPT\nSolution\nn : It is\ngiven that\n\u4e00\nSQ\nTR"
+}

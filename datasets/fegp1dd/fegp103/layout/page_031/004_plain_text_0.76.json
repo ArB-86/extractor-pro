@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.7608020305633545,
+    "bbox": [
+        398.395751953125,
+        613.62646484375,
+        2181.885986328125,
+        728.889892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_031/004_plain_text_0.76.png",
+    "text": "exchange two digits of one of the numbers, there will be 4 supercells. Figure out\nwhich digits to swap."
+}

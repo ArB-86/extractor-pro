@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9843093156814575,
+    "bbox": [
+        197.7356719970703,
+        1944.37744140625,
+        1757.239501953125,
+        2323.298828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh1a1/layout/page_001/001_plain_text_0.98.png",
+    "text": "We start the study of this chapter with a review of what a mathematical statement\nis. Then, we proceed to sharpen our skills in deductive reasoning using several examples.\nWe shall also deal with the concept of negation and finding the negation of a given\nstatement. Then, we discuss what it means to find the converse of a given statement.\nFinally, we review the ingredients of a proof learnt in Class IX by analysing the proofs\nof several theorems. Here, we also discuss the idea of proof by contradiction, which\nyou have come across in Class IX and many other chapters of this book."
+}

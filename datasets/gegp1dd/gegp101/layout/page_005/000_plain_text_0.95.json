@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9544629454612732,
+    "bbox": [
+        429.154296875,
+        800.1974487304688,
+        2036.788330078125,
+        1005.54443359375
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_005/000_plain_text_0.95.png",
+    "text": "Note to the Teacher: Encourage students to make connections?\nbetween\nthese facts.\nFor\nexample,c\nthe\nwhole\npopulation\nof\nChintamani\nfit in\ncan\nthe stadium?\nHow\nimagine\nthe\nline\nof\n38\nkm,\nhaving\nlakh\npeople,\nsitting\ncan\nwe\na\nnext\nto\neach\nother\nin\nthe stadium?"
+}

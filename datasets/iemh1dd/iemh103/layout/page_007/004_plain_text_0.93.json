@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9256760478019714,
+    "bbox": [
+        267.5610656738281,
+        1002.9337158203125,
+        1756.6142578125,
+        1062.5487060546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_007/004_plain_text_0.93.png",
+    "text": "Can you explain why we need q \u2260 O in the definition of a rational number?"
+}

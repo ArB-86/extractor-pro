@@ -1,0 +1,13 @@
+{
+    "page": 51,
+    "label": "plain_text",
+    "confidence": 0.6514833569526672,
+    "bbox": [
+        453.0140075683594,
+        1119.935302734375,
+        1537.217529296875,
+        1492.5257568359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_051/008_plain_text_0.65.png",
+    "text": "(b) At 2'O clock = 60\u00b0 = 2x30\nAt 4'O clock = 120\u00b0 = 4x30\nAt 6'O clock = 180\u00b0 = 6x30\nC\nAt 3'O clock = 90\u00b0\nAt 9'O clock = 270\u00b0\nTry for other angles made by the hands of a clock."
+}

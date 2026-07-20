@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8601693511009216,
+    "bbox": [
+        193.73703002929688,
+        2138.70263671875,
+        1120.2451171875,
+        2192.905517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/011_plain_text_0.86.png",
+    "text": "Outcomes\nfavourable to the event F\nare\n1, 2, 3, 4."
+}

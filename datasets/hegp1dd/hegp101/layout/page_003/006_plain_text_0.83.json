@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8340173959732056,
+    "bbox": [
+        407.36370849609375,
+        720.367431640625,
+        2045.0823974609375,
+        902.573974609375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_003/006_plain_text_0.83.png",
+    "text": "The lockers that are toggled twice are the prime numbers, since each\nprime number has 1 and the number itself as factors. So, the code is\n2-3-5-7-11."
+}

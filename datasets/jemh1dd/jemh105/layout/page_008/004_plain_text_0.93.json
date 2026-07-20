@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9252848029136658,
+    "bbox": [
+        292.48602294921875,
+        2342.36474609375,
+        1142.1427001953125,
+        2396.83203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_008/004_plain_text_0.93.png",
+    "text": "Observe\nthat we are\ngetting a list of\nnumbers"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9368133544921875,
+    "bbox": [
+        190.4658660888672,
+        1548.8837890625,
+        1006.5596313476562,
+        1936.34423828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/004_plain_text_0.94.png",
+    "text": "Remark : Note that the graph of the equation\nx -- y = 2 is a line. From your earlier studies,\nyou know that a point which is equidistant\nfrom A and B\nlies on the perpendicular\nbisector of AB. Therefore, the \n graph of\nx - y = 2 is the perpendicular bisector of AB\n(seel\nFig. 7.7)."
+}

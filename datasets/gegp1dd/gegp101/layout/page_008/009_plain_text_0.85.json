@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.8484461903572083,
+    "bbox": [
+        490.3627624511719,
+        2606.99560546875,
+        1968.5772705078125,
+        2662.75732421875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_008/009_plain_text_0.85.png",
+    "text": "1 crore, written in numbers would be 1 followed by 7 :\nzeroes"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.519956648349762,
+    "bbox": [
+        222.62350463867188,
+        2250.672607421875,
+        1532.3687744140625,
+        2363.10205078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/010_plain_text_0.52.png",
+    "text": "24. A die is thrown twice. What is the probability that\n 5 will not come up either time?\n(ii) 5 will come up at least once?\n1"
+}

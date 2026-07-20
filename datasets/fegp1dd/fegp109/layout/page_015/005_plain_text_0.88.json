@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8804114460945129,
+    "bbox": [
+        365.1809387207031,
+        698.0062866210938,
+        1874.83056640625,
+        766.139892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_015/005_plain_text_0.88.png",
+    "text": "Thus, we see\nthat the windmill has 4 angles of symmetry."
+}

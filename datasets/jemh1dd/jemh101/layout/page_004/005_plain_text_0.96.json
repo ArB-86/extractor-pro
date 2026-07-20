@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9561840295791626,
+    "bbox": [
+        192.16807556152344,
+        782.570068359375,
+        1752.16455078125,
+        894.4239501953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/005_plain_text_0.96.png",
+    "text": "The Fundamental Theorem of Arithmetic has many \napplications, both within\nmathematics and in other fields. Let us look at some examples."
+}

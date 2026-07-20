@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9847016930580139,
+    "bbox": [
+        191.69378662109375,
+        1374.4283447265625,
+        1753.8975830078125,
+        1742.17431640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_001/000_plain_text_0.98.png",
+    "text": "Euclid's division algorithm, as the name suggests, has to do with divisibility of\nintegers. Stated simply, it says any positive integer a can be divided by another positive\ninteger b in such a way that it leaves a remainder r that is smaller than b. Many of you\nprobably recognise this as the usual long division process. Although this result is quite\neasy to state and understand, it has many applications related to the divisibility properties\nof integers. We touch\nupon a few of them, and use it mainly to compute the HCF of\ntwo positive integers."
+}

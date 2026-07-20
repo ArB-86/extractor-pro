@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9719693660736084,
+    "bbox": [
+        191.145263671875,
+        1474.82275390625,
+        1755.1021728515625,
+        1639.6968994140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_008/001_plain_text_0.97.png",
+    "text": "Example 7 : From a point on a bridge across a river, the angles of depression of\nthe banks on opposite sides of the river are 30\u00b0 and 45\u00b0, respectively. If the bridge\nis at a height of 3 m from the banks, find the width of the river."
+}

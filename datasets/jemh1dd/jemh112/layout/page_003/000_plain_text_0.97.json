@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9712185859680176,
+    "bbox": [
+        191.7571563720703,
+        1122.84765625,
+        1754.52294921875,
+        1340.714599609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_003/000_plain_text_0.97.png",
+    "text": "At the end of our\ntrial,\n have got ourselves a nice round-bottomed toy. Now if\n,we\nwe want to find how 1\n surface of this toy,\nmuch\npaint\nt we would\nrequire to colour\nthe\nwhat\nneed to know? We\nneed to know\nthe\nsurface\narea of the toy,\nwould\nwe1\nwould\nwhich consists of the\ne CSA of the hemisphere and the\ne CSA of the cone."
+}

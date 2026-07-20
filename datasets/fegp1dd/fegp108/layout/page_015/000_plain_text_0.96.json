@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9568480849266052,
+    "bbox": [
+        496.69873046875,
+        2203.417724609375,
+        2086.71875,
+        2412.138671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_015/000_plain_text_0.96.png",
+    "text": "Construct\nrectangle\nof\nsides\n8\ncm\nand\n4\ncm.\nHow\nWill\na\nyou\nse1\ninside,\nshown\nin\nthe\nfigure, s\nconstruct\nsquare\nsuch\nthat\nas\nthe\ncentre of the square is the same as\nthe centre of the rectangle?"
+}

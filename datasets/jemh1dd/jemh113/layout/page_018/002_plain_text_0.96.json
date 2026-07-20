@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9589187502861023,
+    "bbox": [
+        189.77847290039062,
+        469.1849365234375,
+        1755.115478515625,
+        947.8263549804688
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_018/002_plain_text_0.96.png",
+    "text": "As you have studied in Class IX, the median is a measure of central tendency which\ngives the value of the middle-most observation in the data. Recall that for finding the\nmedian of ungrouped data, we first arrange the data values of the observations in\nn+1\nascending order. Then, if n is odd, the median is the\nth observation.And, if n\n2\nn\nn\nis even, then the median will be the average of the - th and the\n+1\nth observations.\n2"
+}

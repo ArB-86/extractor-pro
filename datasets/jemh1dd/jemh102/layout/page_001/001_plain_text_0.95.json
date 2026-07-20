@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.946681559085846,
+    "bbox": [
+        193.13294982910156,
+        1768.7972412109375,
+        1755.029296875,
+        2031.2669677734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_001/001_plain_text_0.95.png",
+    "text": "A\npolynomial of degree\n 1 is called a linear\npolynomial. For\nr example, 2x - 3,\n2\n2\n3z+ 4,\n-u + 1,etc.,\n are all linear polynomials. Polynomials\n11\n3\nsuch as 2x + 5 - x\u00b2, x3 + 1, etc., are not linear\npolynomials."
+}

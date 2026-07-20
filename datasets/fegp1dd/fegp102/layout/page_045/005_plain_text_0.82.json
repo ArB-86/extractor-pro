@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.8183178305625916,
+    "bbox": [
+        293.9605407714844,
+        902.3350830078125,
+        1406.3021240234375,
+        965.1924438476562
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_045/005_plain_text_0.82.png",
+    "text": "Q.2. Draw and label\n an angle with\narms\nST:\nand SR."
+}

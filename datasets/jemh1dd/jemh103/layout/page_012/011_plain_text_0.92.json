@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9182131290435791,
+    "bbox": [
+        192.4872589111328,
+        721.5477905273438,
+        1752.9586181640625,
+        831.1263427734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/011_plain_text_0.92.png",
+    "text": "Step 1 : First multiply both the equations by some suitable non-zero constants to make\nthe coefficients of one variable (either x or y)\nnumerically equal."
+}

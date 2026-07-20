@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9793419241905212,
+    "bbox": [
+        193.56375122070312,
+        1259.807861328125,
+        1755.2440185546875,
+        1534.885009765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_002/001_plain_text_0.98.png",
+    "text": "Let us consider the container seen in Fig. 12.2. How\nop\nwe\nfind the surface area of\nsuch a solid? Now, whenever we come across a new\nproblem, we\nfirst try to see, if\nn break it down into smaller problems, we have earlier solved. We can see that\nwecan\nthis solid is made up of a cylinder with two hemispheres stuck at either end. It would\nlook like what we have in Fig. 12.4, after we\nput the pieces all together."
+}

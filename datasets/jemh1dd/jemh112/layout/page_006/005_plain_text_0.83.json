@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8312820196151733,
+    "bbox": [
+        246.48809814453125,
+        1524.5018310546875,
+        1752.6343994140625,
+        1631.37548828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_006/005_plain_text_0.83.png",
+    "text": "1. 2 cubes each of volume 64 cm?\n are joined end to end. Find the surface area of the\nresulting cuboid."
+}

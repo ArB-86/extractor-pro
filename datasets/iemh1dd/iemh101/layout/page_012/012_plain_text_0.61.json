@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.6102822422981262,
+    "bbox": [
+        389.0524597167969,
+        2172.25146484375,
+        1796.4805908203125,
+        2358.688720703125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_012/012_plain_text_0.61.png",
+    "text": "(i)\nA1\n right-angled isosceles triangle.\n(ii)\nAn isosceles triangle with one vertex in\nQuadrant III\nand the\nother\nin\nQuadrant IV."
+}

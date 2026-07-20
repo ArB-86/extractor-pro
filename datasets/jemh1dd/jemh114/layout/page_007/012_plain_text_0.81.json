@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8110681176185608,
+    "bbox": [
+        191.40652465820312,
+        732.0169067382812,
+        1091.97802734375,
+        846.17578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/012_plain_text_0.81.png",
+    "text": "1\n12\nfollows: P(F)\nP(E\n1\nP(E)\n\u4e00\n1\n\u4e09\n\u4e09\n\u4e09\n\u4e09\n13\n13"
+}

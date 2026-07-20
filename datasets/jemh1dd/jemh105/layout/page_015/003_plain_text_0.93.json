@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.932834267616272,
+    "bbox": [
+        197.00955200195312,
+        2130.0595703125,
+        953.9766235351562,
+        2179.467529296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/003_plain_text_0.93.png",
+    "text": "And t\nthen, reversed the\nnumbers\nto\nWrite"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9416060447692871,
+    "bbox": [
+        191.2745361328125,
+        765.3828735351562,
+        1672.4886474609375,
+        871.3858032226562
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_008/004_plain_text_0.94.png",
+    "text": "1\nSo, the required volume = volume of the cuboid\nvolume of the cylinder\n+\n\u4e00\n2"
+}

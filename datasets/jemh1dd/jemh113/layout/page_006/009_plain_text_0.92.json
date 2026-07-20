@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9155750274658203,
+    "bbox": [
+        289.937255859375,
+        1320.54541015625,
+        1644.64111328125,
+        1416.1072998046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_006/009_plain_text_0.92.png",
+    "text": "D - x\nSo, let u =\n, where a is the assumed mean and h is the class size.\nh"
+}

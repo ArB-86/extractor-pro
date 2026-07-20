@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9197741746902466,
+    "bbox": [
+        192.3997802734375,
+        395.57940673828125,
+        1753.8548583984375,
+        507.7288818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_006/003_plain_text_0.92.png",
+    "text": "Remark : Since the hypotenuse is the longest side in a right triangle, the value of\nsin A or cos A is always less than 1 (or, in particular, equal to 1)."
+}

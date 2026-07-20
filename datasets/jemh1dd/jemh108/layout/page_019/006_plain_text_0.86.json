@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.8603127598762512,
+    "bbox": [
+        244.94581604003906,
+        789.285400390625,
+        1522.2686767578125,
+        840.0669555664062
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/006_plain_text_0.86.png",
+    "text": "1. Express the trigonometric ratios sin A, sec A and tan A in terms of cot A."
+}

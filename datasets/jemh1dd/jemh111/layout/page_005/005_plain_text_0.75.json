@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.752322793006897,
+    "bbox": [
+        244.66876220703125,
+        2310.30322265625,
+        1157.4644775390625,
+        2465.508056640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_005/005_plain_text_0.75.png",
+    "text": "8.\nA horse is tied to a peg\ng at one corner of a square\nshaped\ngrass\nfield of side 15\nm\nby\nmeans of a 5\nm\nlong rope\ne (see Fig. 11.8). Find"
+}

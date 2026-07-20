@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9695724248886108,
+    "bbox": [
+        420.1662902832031,
+        2248.6513671875,
+        1814.718505859375,
+        2614.750244140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_008/000_plain_text_0.97.png",
+    "text": "D.R.\nKaprekar\nmathematics\nteacher\nin\nwas\na\na\ngovernment school in Devlali, Maharashtra. He liked\nplaying\nWith\nnumbers\nvery\nmuch\nand\nfound\nmany\nbeautiful\npatterns\nin\nnumbers\nthat\nwere\npreviously\nunknown."
+}

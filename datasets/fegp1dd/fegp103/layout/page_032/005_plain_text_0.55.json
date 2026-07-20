@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.5536899566650391,
+    "bbox": [
+        294.7474670410156,
+        298.3061218261719,
+        2187.0595703125,
+        423.418701171875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_032/005_plain_text_0.55.png",
+    "text": "Q.7. Choose a number between 210 and 390. Create a number pattern similar to those\nshown in Section 3.9 that will\nI sum up to this number."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.5377801060676575,
+    "bbox": [
+        376.49676513671875,
+        2094.232421875,
+        1520.55224609375,
+        2159.600341796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_025/008_plain_text_0.54.png",
+    "text": "A figure may\nhave multiple lines of s\nsymmetry."
+}

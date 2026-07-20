@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9568223357200623,
+    "bbox": [
+        191.31259155273438,
+        2240.356201171875,
+        1752.9561767578125,
+        2348.44091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/002_plain_text_0.96.png",
+    "text": "For instance if the first term a is 6 and the common difference d is 3, then\ntheAPis"
+}

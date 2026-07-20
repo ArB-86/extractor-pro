@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9480777382850647,
+    "bbox": [
+        358.49517822265625,
+        394.839599609375,
+        2084.165283203125,
+        540.5921020507812
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_021/004_plain_text_0.95.png",
+    "text": "If the smallest angle of symmetry of a figure is a natural number\nin degrees, then it is a factor of 360."
+}

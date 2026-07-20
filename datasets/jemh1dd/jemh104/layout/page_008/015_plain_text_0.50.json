@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.5027504563331604,
+    "bbox": [
+        291.3455810546875,
+        420.9270935058594,
+        1393.6593017578125,
+        531.397705078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/015_plain_text_0.50.png",
+    "text": "b\nb\nb\nIf b\u00b2 - 4ac = 0, then x =\n\u00b1 0, i.e.,\nX\u4e09\nOr\n2a\n2a\n2a"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.7423355579376221,
+    "bbox": [
+        294.9488220214844,
+        1755.7630615234375,
+        2191.630859375,
+        1973.438232421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_026/003_plain_text_0.74.png",
+    "text": "Ans. 1. The smallest possible perimeter is 12 cm obtained from a square of side 3 cm\n2. The largest possible perimeter is 20 cm. obtained from a rectangle of length 9 cm and\nbreadth 1 cm."
+}

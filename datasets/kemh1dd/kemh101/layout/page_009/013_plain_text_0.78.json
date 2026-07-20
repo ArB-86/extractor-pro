@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7790952324867249,
+    "bbox": [
+        298.2613525390625,
+        572.6453247070312,
+        1677.22607421875,
+        803.10107421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_009/013_plain_text_0.78.png",
+    "text": "(i)\nA = {a, b, c, d }\nB\n{ d, c, b, a }\n(i)\nA = {4, 8, 12, 16 }\nB\n = {8, 4,16, 18}\n(ii)\nA= {2,4,6,8, 10}\nB\n3 = {x : x is positive even integer and x \u2264 10}\n(iv)\nA={x:x\nis a multiple of 10},\nB\n{10, 15,20, 25,30, ... }"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.7766906023025513,
+    "bbox": [
+        491.7157287597656,
+        829.1581420898438,
+        1687.9638671875,
+        894.794921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_006/011_plain_text_0.78.png",
+    "text": " and find out the different ways\nThink\nhow-\n\u4e00"
+}

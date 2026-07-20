@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9641147255897522,
+    "bbox": [
+        291.5930480957031,
+        609.0423583984375,
+        2086.2958984375,
+        823.4727783203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_011/001_plain_text_0.96.png",
+    "text": "You marked\nsome\nfractions\nthe\nnumber\nline\neearlier. Did\ns on\nyou\nnotice that the lengths of all the blue lines were less than one and\nthe lengths of all the black lines were more than 1?"
+}

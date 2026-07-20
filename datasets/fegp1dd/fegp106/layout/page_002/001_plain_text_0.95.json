@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9474472403526306,
+    "bbox": [
+        418.52008056640625,
+        2152.87451171875,
+        2208.9580078125,
+        2372.00927734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_002/001_plain_text_0.95.png",
+    "text": "Now, we know that all four sides of a square are equal in length.\nTherefore, in place of adding the lengths of each side, we can simply\nmultiply the length of one side by 4."
+}

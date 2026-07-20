@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.8588159084320068,
+    "bbox": [
+        200.43699645996094,
+        508.3486022949219,
+        1747.6943359375,
+        619.3886108398438
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_005/008_plain_text_0.86.png",
+    "text": "2.\nLet A = {1, 2, 3, 4, 5, 6}. Insert the appropriate symbol \n1 \u2208 or  in the blank\nspaces:"
+}

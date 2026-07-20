@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9531670808792114,
+    "bbox": [
+        376.2375183105469,
+        1313.826171875,
+        2087.26904296875,
+        1493.7127685546875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_010/002_plain_text_0.95.png",
+    "text": "125 is not a perfect square. The nearest perfect squares are 11? = 121\nand 122 = 144. So the largest square handkerchief with integer side length\nthat can be cut out from this piece of cloth has side length 11 cm."
+}

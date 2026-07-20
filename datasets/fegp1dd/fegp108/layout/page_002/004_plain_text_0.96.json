@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9604723453521729,
+    "bbox": [
+        419.0929870605469,
+        2001.3038330078125,
+        2205.3798828125,
+        2142.0263671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_002/004_plain_text_0.96.png",
+    "text": "Think: Imagine marking all the points of 4 cm distance from the\npoint P. How would they look?"
+}

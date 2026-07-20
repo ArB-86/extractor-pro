@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9526671767234802,
+    "bbox": [
+        418.02593994140625,
+        1709.4945068359375,
+        2208.98876953125,
+        1859.9266357421875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_006/001_plain_text_0.95.png",
+    "text": "What will\nget if\nyou fold the\npreviously-folded strip\nyou\nagain\ninto two equal parts? You will now\nget four equal parts."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.5394991636276245,
+    "bbox": [
+        318.5794982910156,
+        1585.865478515625,
+        958.0739135742188,
+        1635.248291015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_015/011_plain_text_0.54.png",
+    "text": "(ii)\nSin 2\n2A = 2 sin Ais true when A ="
+}

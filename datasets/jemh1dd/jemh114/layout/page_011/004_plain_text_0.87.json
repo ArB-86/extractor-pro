@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8724238872528076,
+    "bbox": [
+        218.45425415039062,
+        1998.53955078125,
+        1462.315673828125,
+        2064.495849609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_011/004_plain_text_0.87.png",
+    "text": "(i) 8?\n(ii)\n13?\n(ii)\nless than or equal to 12?"
+}

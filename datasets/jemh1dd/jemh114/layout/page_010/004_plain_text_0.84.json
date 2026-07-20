@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8403693437576294,
+    "bbox": [
+        191.49232482910156,
+        395.2958068847656,
+        1555.3868408203125,
+        452.5654296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_010/004_plain_text_0.84.png",
+    "text": "Let E be the event that \u2018the music is stopped within the first half-minute?"
+}

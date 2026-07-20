@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.6900221705436707,
+    "bbox": [
+        193.43023681640625,
+        1763.065673828125,
+        1369.87255859375,
+        1862.5611572265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_013/006_plain_text_0.69.png",
+    "text": "\u4e00\nTherefore, 3, -1 and\nare the zeroes of 3x? - 5x\u00b2 - 11x - 3.\n3"
+}

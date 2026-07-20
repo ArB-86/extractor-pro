@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9250431060791016,
+    "bbox": [
+        192.03671264648438,
+        1156.439697265625,
+        1562.35791015625,
+        1213.03125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_007/006_plain_text_0.93.png",
+    "text": "Example 4 : Solve the following pair of equations by substitution method:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9273368716239929,
+    "bbox": [
+        247.65444946289062,
+        1751.3427734375,
+        1219.008056640625,
+        1799.1063232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/008_plain_text_0.93.png",
+    "text": "1\u3002\nExpress each number as a product of its prime factors:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9803738594055176,
+    "bbox": [
+        290.7021789550781,
+        2354.505126953125,
+        2085.104248046875,
+        2796.64892578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_011/000_plain_text_0.98.png",
+    "text": "We have\nWritten\n\"???' to say\nthat t\nthere\nbe\nmay\nways\nto\nfactorise these numbers. But if we take any of the given factorisations,\nfor example, 80 = 16 \u00d7 5 and 63 = 9 x 7, then there are no common\nfactors. Can we conclude that 80 a\nand 63\nare co-prime? As Anshu's\nmistake above shows, we cannot conclude that as there may be other\nWays to factorise the numbers."
+}

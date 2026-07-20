@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9720100164413452,
+    "bbox": [
+        291.5763244628906,
+        2346.25,
+        2087.60400390625,
+        2716.77001953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_011/000_plain_text_0.97.png",
+    "text": "Numbers in the middle column are added in different ways to g\nget\nthe numbers on the sides (1500 + 1500 + 400 = 3400). The numbers in\nthe middle\ne can\n be\nused\nas many\ntimes as needed to get the desired\nsum. Draw a\nfrom\nthe middle to the\ne numbers on t\nthe sides to\narrows\nobtain the desired\nsums."
+}

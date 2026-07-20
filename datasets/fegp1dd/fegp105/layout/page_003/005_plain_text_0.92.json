@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9165759682655334,
+    "bbox": [
+        400.86297607421875,
+        795.4774780273438,
+        2088.6787109375,
+        1237.7320556640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_003/005_plain_text_0.92.png",
+    "text": "Grumpy places a treasure on some number. For example, he\nmay j\nplace it on 24.\nJumpy\nchooses a jump\nsize. If he chooses 4, then he has to\njump only\non multiples of 4, starting at 0.\nJumpy 8\ngets the\n treasure\nif he lands on the number where\nGrumpy placed it."
+}

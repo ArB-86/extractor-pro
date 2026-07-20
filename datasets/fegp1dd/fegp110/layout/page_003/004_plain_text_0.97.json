@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9740802645683289,
+    "bbox": [
+        420.3123779296875,
+        1808.0386962890625,
+        1843.63037109375,
+        2027.2596435546875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_003/004_plain_text_0.97.png",
+    "text": "A\nnumber\nwith a\n\u2018+\"\nsign\nin f\nfront is called a\na1\npositive\nnumber. A\nnumber\nWith\nsign\nin\nfront\niS\ncalled\na\na\nnegative number."
+}

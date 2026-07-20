@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9803403615951538,
+    "bbox": [
+        291.25445556640625,
+        2296.217041015625,
+        2084.428955078125,
+        2660.2001953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_013/000_plain_text_0.98.png",
+    "text": "When\nfind the\nprime\nfactorisation of a r\nnumber, we\nfirst write\nwe\nit as a p\nproduct of t\ntwo\nfactors. For\nexample, 72 = 12\n2\u00d76\n6. Then, we\nfind the prime factorisation of each ofthe factors. In the above example,\n12 =2 x 2\u00d7 3 and 6=2 x3. Now, can you say what the prime factorisation\nof 72 is?"
+}

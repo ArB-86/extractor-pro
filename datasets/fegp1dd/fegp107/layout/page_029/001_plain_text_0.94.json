@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.9422933459281921,
+    "bbox": [
+        293.940185546875,
+        1066.4071044921875,
+        2093.79443359375,
+        1309.62939453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_029/001_plain_text_0.94.png",
+    "text": "3-6\nThe\nfraction\nbe\nre-expressed\nin\nlowest\nterms,\nif\ncan\nnow\ndesired.\nThis\nbe\ndone\nby\ndividing\nboth\nthe\ncan\nnumerator\nand\ndenominator\nby 3 (the biggest common\nfactor\nof 3\nand 6):"
+}

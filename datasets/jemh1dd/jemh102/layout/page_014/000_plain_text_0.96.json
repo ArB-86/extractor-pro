@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9568111300468445,
+    "bbox": [
+        245.41432189941406,
+        480.29083251953125,
+        1751.5106201171875,
+        579.0590209960938
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_014/000_plain_text_0.96.png",
+    "text": "1. Find the zeroes of the following quadratic polynomials and verify the relationship between\nthe zeroes and the coefficients."
+}

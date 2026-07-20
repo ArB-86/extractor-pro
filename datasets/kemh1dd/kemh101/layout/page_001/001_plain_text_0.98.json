@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9796619415283203,
+    "bbox": [
+        192.9904327392578,
+        1489.2269287109375,
+        1286.293212890625,
+        1775.1419677734375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_001/001_plain_text_0.98.png",
+    "text": "The\ntheory\nof\nsets\ndeveloped\nby\nGerman\nwas\nmathematician\nGeorg\nCantor\n(1845-1918).\nHe\nfirst\nencountered sets while working on\nproblems on trigonometric\nseries\". In this\nChapter,\nwe\ndiscuss some\nbasic\ndefinitions\nand operations involving sets."
+}

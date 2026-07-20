@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.902391791343689,
+    "bbox": [
+        314.1309814453125,
+        1975.5850830078125,
+        1563.056640625,
+        2167.287353515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_002/008_plain_text_0.90.png",
+    "text": "(i)\nx-2y = 0\nand 3x + 4y - 20 = 0\n(The lines\nintersect)\n(ii)\n2x + 3\n3y - 9 = 0\nand 4x +\n6y - 18 = 0\n(The lines coincide)\n(ii)\n2y - 4 = 0\nand 2x +\n4y -12 = 0\n(The lines are parallel)\nx+"
+}

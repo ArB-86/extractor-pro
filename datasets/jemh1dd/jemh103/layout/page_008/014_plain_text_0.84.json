@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.843733549118042,
+    "bbox": [
+        270.4024963378906,
+        614.8866577148438,
+        1748.4610595703125,
+        672.0357666015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/014_plain_text_0.84.png",
+    "text": "To understand the substitution method more clearly, let us consider it stepwise:"
+}

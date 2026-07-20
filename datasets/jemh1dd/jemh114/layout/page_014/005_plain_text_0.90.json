@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9020823240280151,
+    "bbox": [
+        226.10958862304688,
+        2157.075439453125,
+        1753.38330078125,
+        2415.75439453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_014/005_plain_text_0.90.png",
+    "text": "17.\nA lot of 20 bulbs contain 4 defective ones. One bulb is drawn at random from the lot.\nWhat is the probability t\nthat this bulb is defective?\n11\nSuppose the bulb drawn in\nn (i) is not defective and is not replaced. Now one bulb\nis drawn at random from the rest. What is the\n probability\nthat thisbulb is not\ndefective ?"
+}

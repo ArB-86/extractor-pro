@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.943849503993988,
+    "bbox": [
+        241.59909057617188,
+        2240.45751953125,
+        1795.2420654296875,
+        2357.869384765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_015/003_plain_text_0.94.png",
+    "text": "For example, to construct a line segment of length \u221a2\nand mark\nits position on the number line, we may proceed as follows."
+}

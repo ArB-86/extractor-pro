@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.9474947452545166,
+    "bbox": [
+        299.25823974609375,
+        2728.41357421875,
+        1214.9295654296875,
+        2972.9140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_027/000_plain_text_0.95.png",
+    "text": "Ans.\nSmallest 5 digit palindrome = 10001\nlargest 5 digit palindrome = 99999\nSum = 10001 + 99999 = 110,000\nDifference = 99999 - 10001 = 89,998"
+}

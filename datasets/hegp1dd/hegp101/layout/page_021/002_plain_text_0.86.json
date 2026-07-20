@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.860920786857605,
+    "bbox": [
+        306.6571350097656,
+        1573.6175537109375,
+        1309.712646484375,
+        1635.3170166015625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_021/002_plain_text_0.86.png",
+    "text": "?.\nFind the cube roots of these numbers:"
+}

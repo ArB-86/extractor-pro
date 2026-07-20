@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7390152812004089,
+    "bbox": [
+        194.29165649414062,
+        1512.08203125,
+        1035.4627685546875,
+        1563.9052734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_013/015_plain_text_0.74.png",
+    "text": "Thus,\nthere are two\nsuch\nnumbers\n42\nand 24."
+}

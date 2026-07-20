@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8698654770851135,
+    "bbox": [
+        274.5143127441406,
+        2000.664306640625,
+        744.0691528320312,
+        2057.198486328125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_009/005_plain_text_0.87.png",
+    "text": "4.\nFind the\nproduct:"
+}

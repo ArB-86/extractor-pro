@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9032738208770752,
+    "bbox": [
+        531.390380859375,
+        1284.45166015625,
+        1280.480712890625,
+        1345.8990478515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_017/008_plain_text_0.90.png",
+    "text": "2.\nComplete the subtractions:"
+}

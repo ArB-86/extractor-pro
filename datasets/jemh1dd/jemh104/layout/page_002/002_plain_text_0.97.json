@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9683172702789307,
+    "bbox": [
+        193.63169860839844,
+        742.9363403320312,
+        1753.885009765625,
+        905.4173583984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_002/002_plain_text_0.97.png",
+    "text": "In this chapter, you will study quadratic equations, and various ways of finding\ntheir roots. You will also see some applications of quadratic equations in daily l\nlife\nsituations."
+}

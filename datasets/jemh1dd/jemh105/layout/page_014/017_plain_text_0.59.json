@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5909464359283447,
+    "bbox": [
+        224.469970703125,
+        2300.56494140625,
+        1148.8187255859375,
+        2350.901123046875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/017_plain_text_0.59.png",
+    "text": "13.\nHow many\nthree-digit numbers are divisible by 7?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9314414262771606,
+    "bbox": [
+        192.25538635253906,
+        1379.1119384765625,
+        1752.6986083984375,
+        1488.96484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_004/003_plain_text_0.93.png",
+    "text": "2. The line containing the radius through the point of contact is also sometimes called\nthe \u2018normal\u2032 to the circle at the point."
+}

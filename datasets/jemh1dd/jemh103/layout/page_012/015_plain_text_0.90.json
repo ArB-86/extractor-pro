@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8963499069213867,
+    "bbox": [
+        193.7546844482422,
+        1401.9854736328125,
+        1212.6619873046875,
+        1454.0577392578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_012/015_plain_text_0.90.png",
+    "text": "Now to illustrate it, we shall solve few more examples."
+}

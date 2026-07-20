@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9828118681907654,
+    "bbox": [
+        192.86080932617188,
+        1324.132080078125,
+        1754.265625,
+        1657.15478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_018/001_plain_text_0.98.png",
+    "text": "You will f\nfind that Z B = Z E and Z C = Z F. That is,  A = Z D, Z B = Z E and\n C =  F. So, by AAA similarity criterion,  ABC ~ ^ DEF. You may \nrepeat this\nactivity by drawing\npairs of such triangles with one angle of a triangle equal to\nseveral\none angle of another triangle and the sides including\nthese angles are\nproportional.\nEverytime, you will find that the triangles are similar. It is due to the following criterion\nof similarity of triangles:"
+}

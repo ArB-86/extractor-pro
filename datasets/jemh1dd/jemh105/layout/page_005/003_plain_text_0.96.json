@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9599924683570862,
+    "bbox": [
+        188.7148895263672,
+        1943.6417236328125,
+        1755.7384033203125,
+        2049.890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_005/003_plain_text_0.96.png",
+    "text": "Similarly this is also an AP whose first term is 6 and the common difference\nis -3."
+}

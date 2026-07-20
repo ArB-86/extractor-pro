@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5740187764167786,
+    "bbox": [
+        224.07247924804688,
+        2500.43408203125,
+        1736.1068115234375,
+        2551.64404296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/018_plain_text_0.57.png",
+    "text": "16. Determine the AP whose third term is 16 and the 7th term exceeds the 5th term by 12."
+}

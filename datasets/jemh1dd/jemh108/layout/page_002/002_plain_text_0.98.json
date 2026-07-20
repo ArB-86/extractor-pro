@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9805219173431396,
+    "bbox": [
+        193.2491455078125,
+        2228.08935546875,
+        1064.75048828125,
+        2612.858154296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_002/002_plain_text_0.98.png",
+    "text": "Here,  CAB\n (or, in brief, angle A) is an\nacute angle. Note the position of the side BC\nwith respect to angle A. It faces Z A. We call it\nthe side opposite to angle A. AC is the\nhypotenuse of the right triangle and the side AB\nis a part of Z A. So, we call it the side\nadjacent to angle A."
+}

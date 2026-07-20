@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9727231860160828,
+    "bbox": [
+        375.64337158203125,
+        1520.4830322265625,
+        2090.602783203125,
+        1762.71923828125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_015/001_plain_text_0.97.png",
+    "text": "We know\nthat the differences\nbetween consecutive perfect squares\ngives\nthe\nof\nodd\nnumbers.\nObserve\nthe\nfigure\nbelow\nsequence\nwhere\nthe\ndifferences\ncomputed\nsuccessively\nfor\nperfect\nsquares. A\nAfter\nare\ntwo\nlevels, all\nthe\ne differences\nthe same.\nare"
+}

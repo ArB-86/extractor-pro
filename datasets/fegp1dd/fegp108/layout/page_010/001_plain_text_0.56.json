@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5617879033088684,
+    "bbox": [
+        1328.381103515625,
+        1352.9603271484375,
+        2200.252197265625,
+        1466.39013671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_010/001_plain_text_0.56.png",
+    "text": "If we\nhad\nused the\ncompass, t\nthen the 1\nnext\npoint can\neasily\nbe \nmarked\nusing\nit!"
+}

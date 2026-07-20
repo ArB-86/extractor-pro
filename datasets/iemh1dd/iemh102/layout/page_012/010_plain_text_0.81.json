@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8113442063331604,
+    "bbox": [
+        275.0923156738281,
+        1757.5579833984375,
+        1796.3045654296875,
+        2026.973876953125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_012/010_plain_text_0.81.png",
+    "text": "3.\nConsider\nthe\nrelationship\nbetween\ntemperature\nmeasured\nin\ndegrees\nCelsius\n(\u00b0C)\nand degrees\nFahrenheit\n(\u00b0F), which is\ngiven k\nby\nC=aF +b\nb. Find a a\nand b, given\nthat ice melts at 0 degrees\nCelsius\nand 32 degrees\nFahrenheit, and\nboils at 100 degrees\nwater\nCelsius\nand\n212 degrees\nFahrenheit."
+}

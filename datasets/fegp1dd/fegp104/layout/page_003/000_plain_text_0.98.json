@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9832747578620911,
+    "bbox": [
+        417.51885986328125,
+        964.9103393554688,
+        2210.591552734375,
+        1489.9078369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_003/000_plain_text_0.98.png",
+    "text": "Shri Nilesh is a teacher. He decided to bring\nsweets to the class\nto celebrate the new year. The sweets shop nearby has jalebi, gulab\njamun, gujiya, barfi, and rasgulla. He wanted to know the choices of\nthe children. He wrote the names of the sweets on the board and\nasked each child to tell him their preference. He put a tally mark\n            e \nthrough the previous four and marked it as"
+}

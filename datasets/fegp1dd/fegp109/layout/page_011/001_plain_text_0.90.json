@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9038843512535095,
+    "bbox": [
+        379.0841064453125,
+        883.6615600585938,
+        1866.2598876953125,
+        951.9803466796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_011/001_plain_text_0.90.png",
+    "text": "7.\nTrace each figure and draw the lines of symmetry, if any:"
+}

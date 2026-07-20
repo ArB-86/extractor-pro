@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.8526554107666016,
+    "bbox": [
+        488.80340576171875,
+        854.1835327148438,
+        1925.11279296875,
+        944.6641235351562
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_028/007_plain_text_0.85.png",
+    "text": "3\n4\nhave\n unit, i.e.,\n1\nNow,\nand\nthe same\nfractional\n12\n12\n12"
+}

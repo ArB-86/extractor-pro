@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7409476041793823,
+    "bbox": [
+        414.4668884277344,
+        2907.0888671875,
+        1956.335693359375,
+        2992.913818359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_014/003_plain_text_0.74.png",
+    "text": "will make a length of\n?\n4.\nHow many pieces of length\n1\n\u4e8c6"
+}

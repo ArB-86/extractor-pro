@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8874878287315369,
+    "bbox": [
+        1174.650634765625,
+        2365.2900390625,
+        1749.5030517578125,
+        2416.75341796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/005_plain_text_0.89.png",
+    "text": "(As\nCM\nand RN\nmedians)\nare"
+}

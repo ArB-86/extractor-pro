@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9409389495849609,
+    "bbox": [
+        193.08912658691406,
+        1330.4627685546875,
+        1756.981201171875,
+        1440.8143310546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_004/004_plain_text_0.94.png",
+    "text": "Observe that the sum\n1 of the probabilities of all the elementary\nevents of\nan experiment is 1. This is true in\ngeneral also."
+}

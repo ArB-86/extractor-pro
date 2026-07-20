@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9612229466438293,
+    "bbox": [
+        194.90846252441406,
+        1177.8671875,
+        1754.692626953125,
+        1341.622314453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_003/003_plain_text_0.96.png",
+    "text": "You will at once say t\nthat they are the photographs of the same monument\n(Taj Mahal) but are in different sizes. Would you say t\nthat the three photographs\nare\nsimilar? Yes,they :\nare."
+}

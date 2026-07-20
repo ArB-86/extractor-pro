@@ -1,0 +1,13 @@
+{
+    "page": 50,
+    "label": "title",
+    "confidence": 0.5877599120140076,
+    "bbox": [
+        295.2462463378906,
+        943.2250366210938,
+        1028.796142578125,
+        1006.5682983398438
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_050/004_title_0.59.png",
+    "text": "Q3. Solve the following problems:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9309611320495605,
+    "bbox": [
+        515.458251953125,
+        1883.7305908203125,
+        2210.28271484375,
+        2022.559814453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_010/001_plain_text_0.93.png",
+    "text": "5. Write the fraction that g\ngives the lengths of the black lines in the\nrespective boxes."
+}

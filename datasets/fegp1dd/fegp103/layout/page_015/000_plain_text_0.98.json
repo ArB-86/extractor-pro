@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9822704195976257,
+    "bbox": [
+        292.2814025878906,
+        2156.560302734375,
+        2086.5927734375,
+        2598.75244140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_015/000_plain_text_0.98.png",
+    "text": "Paromita's class section has 32 children. The other 2 sections of\nher class have 29 and 35 children. So, she estimated the number of\nchildren in her class to be about 1o0. Along with Class 6, her school\nalso has Classes 7-10 and each class has 3 sections each. She assumed\na similar number in each class and estimated the number of students\nin her school to be around 5oo."
+}

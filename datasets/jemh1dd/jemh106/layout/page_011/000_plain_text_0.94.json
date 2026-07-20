@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9376047253608704,
+    "bbox": [
+        190.4825897216797,
+        749.0805053710938,
+        1152.80615234375,
+        860.4449462890625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_011/000_plain_text_0.94.png",
+    "text": "Solution\nLet\nt us\njoin\nAC\nto\nintersect\nEF\nat\nG\n(see I\nFig. 6.15)."
+}

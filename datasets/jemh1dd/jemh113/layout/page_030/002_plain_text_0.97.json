@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9672805666923523,
+    "bbox": [
+        246.1882781982422,
+        1237.191162109375,
+        1754.232666015625,
+        1385.032470703125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_030/002_plain_text_0.97.png",
+    "text": "6.100\nsurnames were randomly picked up\nfrom a local telephone directory and the\nfrequency distribution of the number of letters in the English alphabets in the surnames\nwas obtained as follows:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8822181820869446,
+    "bbox": [
+        236.71124267578125,
+        1693.478759765625,
+        1794.8184814453125,
+        1801.8284912109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_011/004_plain_text_0.88.png",
+    "text": "Using the Baudhayana-Pythagoras Theorem, we get AD = \u221a4? + 32 = 5\nunits."
+}

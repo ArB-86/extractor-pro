@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.906086802482605,
+    "bbox": [
+        492.54730224609375,
+        2488.91357421875,
+        1417.6343994140625,
+        2554.491455078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_017/005_plain_text_0.91.png",
+    "text": "Now we can\ntake away\n6\nnegatives:"
+}

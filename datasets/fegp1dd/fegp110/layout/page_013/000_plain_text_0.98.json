@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9775220155715942,
+    "bbox": [
+        417.7957763671875,
+        766.0851440429688,
+        2209.739013671875,
+        1053.135986328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_013/000_plain_text_0.98.png",
+    "text": "Just as you can\n do additions, subtractions and comparisons with s\nsmall\nnumbers\nusing\nthe\nnumber\nline\nabove, you\nalso\ndo\nthem\ncan\nWith\nlarge\nnumbers\nby\nimagining\ninfinite\ne number\nline'\ndrawing\nan\nor\nan\n'unmarked\nnumber\nline'\nas\nfollows:"
+}

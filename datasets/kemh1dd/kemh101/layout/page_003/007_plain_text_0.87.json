@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8672525882720947,
+    "bbox": [
+        198.71226501464844,
+        1930.2403564453125,
+        1754.8062744140625,
+        2041.6380615234375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/007_plain_text_0.87.png",
+    "text": "If we denote the sets described in (a), (b) and (c) a\nabove in roster form by A, B\nrespectively, then A, B, C can also be represented in set-builder form as follows:"
+}

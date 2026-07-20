@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.62982577085495,
+    "bbox": [
+        288.48907470703125,
+        2308.854736328125,
+        1278.520263671875,
+        2367.440673828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_001/010_plain_text_0.63.png",
+    "text": "(red, b), (red, c), (red, s), (blue, b), (blue, c), (blue, s)."
+}

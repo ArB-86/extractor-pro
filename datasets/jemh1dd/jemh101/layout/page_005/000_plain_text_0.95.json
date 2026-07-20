@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.954839825630188,
+    "bbox": [
+        192.630126953125,
+        808.1591796875,
+        1754.279296875,
+        918.8414306640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_005/000_plain_text_0.95.png",
+    "text": "Example 4 : Find the HCF and LCM of 6, 72 and 120, using the prime factorisation\nmethod."
+}

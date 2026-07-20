@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.899138331413269,
+    "bbox": [
+        309.4952697753906,
+        2464.25732421875,
+        1561.594970703125,
+        2522.12939453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_012/005_plain_text_0.90.png",
+    "text": "({a}\n(i {a,b}\n(ii)\n{1,2,3}\n(iv) \u03a6"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.7830183506011963,
+    "bbox": [
+        195.52740478515625,
+        1873.8233642578125,
+        1046.36962890625,
+        1930.2559814453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_003/007_plain_text_0.78.png",
+    "text": "Therefore, A x\n(B  C) = (1,4), (2,4), (3,4)},"
+}

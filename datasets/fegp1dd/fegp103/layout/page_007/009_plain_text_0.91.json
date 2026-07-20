@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9126086831092834,
+    "bbox": [
+        303.3849182128906,
+        1892.25537109375,
+        1870.5179443359375,
+        1966.0465087890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_007/009_plain_text_0.91.png",
+    "text": "Write all possible 3-digit palindromes using these digits."
+}

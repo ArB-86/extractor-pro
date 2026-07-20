@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9274902939796448,
+    "bbox": [
+        297.96063232421875,
+        1341.4149169921875,
+        2083.866943359375,
+        1482.1776123046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/007_plain_text_0.93.png",
+    "text": "Is 125 a multiple of 10? Will this number appear in the previous\nsequence? Why or why not?"
+}

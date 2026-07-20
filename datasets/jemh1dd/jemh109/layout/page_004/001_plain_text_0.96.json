@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.958065390586853,
+    "bbox": [
+        192.12799072265625,
+        1023.0552368164062,
+        1112.68798828125,
+        1132.7923583984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_004/001_plain_text_0.96.png",
+    "text": "Solution : In Fig. 9.5, the electrician is required\n1to\nreach the\nepoint B\non\nthe pole AD."
+}

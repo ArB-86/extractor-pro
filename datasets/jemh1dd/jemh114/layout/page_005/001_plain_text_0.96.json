@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9648711085319519,
+    "bbox": [
+        191.20811462402344,
+        396.8584289550781,
+        1751.8800048828125,
+        505.1415710449219
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/001_plain_text_0.96.png",
+    "text": "Are the events E and F in the example above elementary events? No, they\nare\nnot because the event E has 2 outcomes and the event F has 4 outcomes."
+}

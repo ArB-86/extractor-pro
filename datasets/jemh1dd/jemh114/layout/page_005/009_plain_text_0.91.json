@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9140827655792236,
+    "bbox": [
+        197.22010803222656,
+        741.003173828125,
+        1504.962646484375,
+        795.3424072265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_005/009_plain_text_0.91.png",
+    "text": "where E is the event\ngetting a head\u2019 :\n and F is the event\ngetting a tail'"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8463602066040039,
+    "bbox": [
+        194.706787109375,
+        827.4564819335938,
+        461.12506103515625,
+        877.9319458007812
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_011/015_plain_text_0.85.png",
+    "text": "We\nknow\nthat\ne"
+}

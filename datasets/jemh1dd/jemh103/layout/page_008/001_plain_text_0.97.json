@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9722660183906555,
+    "bbox": [
+        192.82293701171875,
+        1492.1009521484375,
+        1753.560791015625,
+        1717.32080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/001_plain_text_0.97.png",
+    "text": "Example 5 : Solve\nthe following question\u2014-Aftab\n tells his daughter,\n\"Seven\nyears\ntimes as old\nas you\nthen. Also, three years\nwas seven\nfrom now, I shall be\nago, I\nwere\nthree\ntimes\nplo\nas\nwill\nbe.\"(\n(Isn't this\ninteresting?)\nas\nRepresent\nthis\nsituation\nyou\nalgebraically and\ngraphically by the method of substitution."
+}

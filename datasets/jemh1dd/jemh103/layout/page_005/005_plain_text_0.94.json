@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9443941116333008,
+    "bbox": [
+        193.01046752929688,
+        1974.065185546875,
+        1753.6297607421875,
+        2086.004150390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_005/005_plain_text_0.94.png",
+    "text": "Verify the answer by checking whether it satisfies the conditions of the given\nproblem."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.955145001411438,
+    "bbox": [
+        292.542236328125,
+        574.2189331054688,
+        997.1397094726562,
+        864.4061889648438
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_023/003_plain_text_0.96.png",
+    "text": "divided into\n180\nunits\ns of 1\ndegree?\nOnly\nof\nthe\npart\nlines\ndividing\nthe straight\nangle\nvisible, though!\nare"
+}

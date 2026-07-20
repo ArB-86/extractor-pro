@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9473533034324646,
+    "bbox": [
+        1327.4400634765625,
+        2132.531494140625,
+        2009.0302734375,
+        2502.150146484375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_003/001_plain_text_0.95.png",
+    "text": "Sheetal\nmarked\ntwo\npoints\non a\npiece\nof\npaper. How\nmany\ndifferent\nlines\ncan\nshe draw that pass through\nboth of the points?"
+}

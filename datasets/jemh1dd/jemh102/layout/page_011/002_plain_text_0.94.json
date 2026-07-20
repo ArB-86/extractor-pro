@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9445587396621704,
+    "bbox": [
+        190.36572265625,
+        1629.73291015625,
+        1754.350830078125,
+        1740.536376953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_011/002_plain_text_0.94.png",
+    "text": "Example 3 : Find the zeroes of the polynomial x\u00b2 - 3 and verify the relationship\nbetween the zeroes and the coefficients."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8830533623695374,
+    "bbox": [
+        291.8285217285156,
+        945.3911743164062,
+        1988.384521484375,
+        1018.85986328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_014/007_plain_text_0.88.png",
+    "text": "Recall that\nTarget Floor - Starting\ng Floor = Movement needed"
+}

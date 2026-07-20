@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.903945803642273,
+    "bbox": [
+        434.242431640625,
+        285.8918151855469,
+        1292.2716064453125,
+        348.83514404296875
+    ],
+    "image_path": "datasets/gegp1dd/gegp101/layout/page_014/005_plain_text_0.90.png",
+    "text": "Estu evaluated 824 x :\n25\nas\nfollows:"
+}

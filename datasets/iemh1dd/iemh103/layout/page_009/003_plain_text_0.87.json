@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.8716307282447815,
+    "bbox": [
+        369.9764709472656,
+        2446.955810546875,
+        1372.6663818359375,
+        2568.11279296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_009/003_plain_text_0.87.png",
+    "text": "2\n3\n7\n5\n(i)\n(ii)\n3\n10\n11\n8"
+}

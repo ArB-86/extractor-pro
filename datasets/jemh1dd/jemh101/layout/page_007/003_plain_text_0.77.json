@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7734180092811584,
+    "bbox": [
+        192.15414428710938,
+        2045.9693603515625,
+        1755.3775634765625,
+        2158.103759765625
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_007/003_plain_text_0.77.png",
+    "text": "Therefore, a? is divisible by 3, and by Theorem 1.2, it follows that a is also divisible\nby3."
+}

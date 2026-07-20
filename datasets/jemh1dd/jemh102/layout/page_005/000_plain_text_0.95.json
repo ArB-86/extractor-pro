@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9476146697998047,
+    "bbox": [
+        196.7213592529297,
+        476.94390869140625,
+        1751.761962890625,
+        590.5418701171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh102/layout/page_005/000_plain_text_0.95.png",
+    "text": "The x-coordinates of A and A' are the two zeroes of the quadratic polynomial\nax\u00b2 + bx + c in this case\ne (see Fig. 2.3)."
+}

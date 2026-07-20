@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9747757315635681,
+    "bbox": [
+        193.4766082763672,
+        1828.5894775390625,
+        1753.7587890625,
+        2045.4493408203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_015/002_plain_text_0.97.png",
+    "text": "We\nconsider\nthe\nproblem\ngiven\nto\nGauss\n(about\nwhom\nyou\nread\nin\nChapter\n1), to solve when\nhe was\njust 1\n10 years\nold. He\nwas asked to find the sum of\nthe positive integers\nfrom\n 1 to 100. He immediately replied that the sum is 5050. Can\nhow\ndid he do? He\nyou\nguess\nwrote :"
+}

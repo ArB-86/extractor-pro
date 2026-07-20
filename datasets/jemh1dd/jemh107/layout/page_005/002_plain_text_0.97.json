@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9679696559906006,
+    "bbox": [
+        190.6601104736328,
+        684.64599609375,
+        1752.5660400390625,
+        850.7926025390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_005/002_plain_text_0.97.png",
+    "text": "Solution : Let A(1, 7), B(4, 2), C(-1, -1) and D(- 4, 4) be the given points. One way\nof showing that ABCD is a square is to use the property that all its sides should be\nequal and both its digonals should also be equal. Now,"
+}

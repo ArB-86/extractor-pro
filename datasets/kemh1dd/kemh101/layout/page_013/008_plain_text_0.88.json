@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.8757953643798828,
+    "bbox": [
+        191.78916931152344,
+        562.0578002929688,
+        1183.995361328125,
+        610.2061157226562
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/008_plain_text_0.88.png",
+    "text": "6.\nWrite the following intervals in set-builder form :"
+}

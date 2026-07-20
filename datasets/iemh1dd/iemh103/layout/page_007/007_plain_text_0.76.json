@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7559231519699097,
+    "bbox": [
+        301.3177490234375,
+        1243.3514404296875,
+        1798.7938232421875,
+        1596.2109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_007/007_plain_text_0.76.png",
+    "text": "All r\nrational 1\nnumbers can be written in the form\nwhere p a\nand\nintegers and q \u2260 0. For e\nexample, 5 a\nand -10 can be written\nq\nare j\n5-1\n-10\nas\nand\nrespectively.\nWhat\nthis\nis\nthat\nthe\nmeans\n1\nrational\nnumbers\nalso\ninclude\nthe\nnatural\nnumbers,\nwhole\nnumbers and integers."
+}

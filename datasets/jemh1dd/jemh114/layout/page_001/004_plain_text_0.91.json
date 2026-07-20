@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9113842248916626,
+    "bbox": [
+        192.9595947265625,
+        1564.8939208984375,
+        922.8538818359375,
+        1617.591064453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_001/004_plain_text_0.91.png",
+    "text": "Let us consider the following\nsituation :"
+}

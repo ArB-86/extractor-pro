@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.967033863067627,
+    "bbox": [
+        190.01356506347656,
+        1534.4390869140625,
+        1005.7868041992188,
+        1934.9757080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/003_plain_text_0.97.png",
+    "text": "If in a right triangle ABC, sin A =\n3\nBC\nthen this\nmeans\nthat\ni.e., the\nAC\n3\nlengths of the sides BC and AC of the triangle\nABC are in the ratio 1 : 3 (see Fig. 8.7). So if\nBC is equal to k, then AC will be 3k, where\nk is any positive number. To determine other"
+}

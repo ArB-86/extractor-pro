@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9383805394172668,
+    "bbox": [
+        194.48667907714844,
+        2466.406494140625,
+        1754.988037109375,
+        2573.346435546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_018/004_plain_text_0.94.png",
+    "text": "We note that the complement of a set A can be looked upon, alternatively, as the\ndifference between a universal set U and the set A."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 23,
+    "label": "plain_text",
+    "confidence": 0.6880087852478027,
+    "bbox": [
+        406.0398254394531,
+        1647.8958740234375,
+        2085.680908203125,
+        1862.023193359375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_023/006_plain_text_0.69.png",
+    "text": "9. How\nangles\nof\nsymmetry\ndo\nthe\nshapes\nin\nthe\nfirst\nshape\nmany\nChapter\n1, Table 3, the Regular\nin\nPolygons,\nsequence\nhave? What\nnumber\ne do\nsequence\nyou\nget?"
+}

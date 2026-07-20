@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.976891815662384,
+    "bbox": [
+        292.2325134277344,
+        1033.521484375,
+        2090.82763671875,
+        1412.08984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_001/000_plain_text_0.98.png",
+    "text": "In\nthis\nchapter, we\nWill\nexplore\nof t\nthe\nmost basic\nideas of\nsome\nincluding\nlines, rays,\nline segments\ngeometry\n points, l\nand\nangles.\nThese ideas\nform the building\ng blocks of \u2018\nplane\ngeometry', and\nd will\nS1\nhelp us in understanding\ng more advanced topics in g\ngeometry such as\nthe construction and \nanalysis of different shapes."
+}

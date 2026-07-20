@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.920549750328064,
+    "bbox": [
+        295.35986328125,
+        415.4906311035156,
+        1024.3104248046875,
+        469.4091796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/005_plain_text_0.92.png",
+    "text": "The\nnumber of\npossible outcomes = 52"
+}

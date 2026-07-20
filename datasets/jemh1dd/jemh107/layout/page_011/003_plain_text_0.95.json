@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.948661744594574,
+    "bbox": [
+        191.76394653320312,
+        1688.1461181640625,
+        1752.402587890625,
+        1800.4622802734375
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/003_plain_text_0.95.png",
+    "text": "Example 8 : Find the coordinates of the points of trisection (i.e., points dividing\n1n\nthree equal parts) of the line segment joining the points A(2, - 2) and B(- 7, 4)."
+}

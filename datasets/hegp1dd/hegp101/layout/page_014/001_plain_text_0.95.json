@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9489519596099854,
+    "bbox": [
+        375.66986083984375,
+        392.21392822265625,
+        2087.82763671875,
+        516.9088134765625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/001_plain_text_0.95.png",
+    "text": "Consecutive odd numbers have a role to play with cubes too. Look at the\nfollowing pattern:"
+}

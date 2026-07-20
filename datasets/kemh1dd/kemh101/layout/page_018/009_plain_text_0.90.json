@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8951259255409241,
+    "bbox": [
+        303.27789306640625,
+        1169.4029541015625,
+        1373.65576171875,
+        1219.1044921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_018/009_plain_text_0.90.png",
+    "text": "(i)X-Y\n(i)\nY-X\n111\nXY"
+}

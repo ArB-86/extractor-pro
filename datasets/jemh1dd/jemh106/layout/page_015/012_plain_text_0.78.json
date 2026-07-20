@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.7759014368057251,
+    "bbox": [
+        723.78173828125,
+        1853.769775390625,
+        1543.5264892578125,
+        1913.1044921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_015/012_plain_text_0.78.png",
+    "text": "ZB=ZP\n=ZE\nand PQ II\nEF\n(How?)"
+}

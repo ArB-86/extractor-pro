@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5936605334281921,
+    "bbox": [
+        376.80804443359375,
+        491.56475830078125,
+        2086.211181640625,
+        712.4561157226562
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_037/005_plain_text_0.59.png",
+    "text": "A player from\n 2 must draw that angle on t\nTeam\nthe board\nwithout\nusing a protractor. Other\nmembers ofTeam\n2 can.\n help the player\nby speaking\n'Make it bigger!\nWords like\n*Make it smaller!.\nor"
+}

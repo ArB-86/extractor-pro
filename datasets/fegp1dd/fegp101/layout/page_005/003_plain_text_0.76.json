@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.7607136964797974,
+    "bbox": [
+        404.4733581542969,
+        1638.2137451171875,
+        1908.4583740234375,
+        1707.4649658203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp101/layout/page_005/003_plain_text_0.76.png",
+    "text": "4\u3002\nWhat would\nyou call the following sequence of numbers?"
+}

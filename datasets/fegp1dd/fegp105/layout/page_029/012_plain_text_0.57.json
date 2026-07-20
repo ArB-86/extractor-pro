@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.5681946277618408,
+    "bbox": [
+        291.6146240234375,
+        2246.8466796875,
+        1920.8328857421875,
+        2308.474853515625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_029/012_plain_text_0.57.png",
+    "text": "Q.4. Find the prime factorisation of these numbers without multiplying\ngfirst"
+}

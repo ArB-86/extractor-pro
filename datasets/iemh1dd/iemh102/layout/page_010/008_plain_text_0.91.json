@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.910539448261261,
+    "bbox": [
+        279.8258972167969,
+        1870.086181640625,
+        1797.6395263671875,
+        1987.8082275390625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/008_plain_text_0.91.png",
+    "text": "2.\nA mobile\nphone is bought for 10,0oo. Its value\ndecreases\nby\nR800 every year."
+}

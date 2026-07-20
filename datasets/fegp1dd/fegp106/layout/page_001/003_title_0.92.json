@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "title",
+    "confidence": 0.9247064590454102,
+    "bbox": [
+        297.5265808105469,
+        1076.457763671875,
+        811.9686889648438,
+        1156.602783203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_001/003_title_0.92.png",
+    "text": "R\nerime\n6\neter"
+}

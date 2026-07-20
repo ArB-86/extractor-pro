@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.5850527286529541,
+    "bbox": [
+        339.3185729980469,
+        1414.880126953125,
+        1769.0472412109375,
+        1555.918212890625
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_005/010_plain_text_0.59.png",
+    "text": "How many rooms were\nthere altogether?\nThe information given can be visualised\nas shown below."
+}

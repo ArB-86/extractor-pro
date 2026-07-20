@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8461178541183472,
+    "bbox": [
+        193.21437072753906,
+        2050.552734375,
+        1575.1568603515625,
+        2105.865478515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_010/012_plain_text_0.85.png",
+    "text": "Example 5 : Determine the AP whose 3rd term is 5 and the 7th term is 9."
+}

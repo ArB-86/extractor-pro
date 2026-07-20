@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9774845242500305,
+    "bbox": [
+        340.8746032714844,
+        467.6631164550781,
+        2037.09326171875,
+        909.3944091796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_022/001_plain_text_0.98.png",
+    "text": "Talk\nabout\nthermometers\nand\nhow\nthey\nare\nused\nto\nmeasure\ntemperature. Bring a laboratory\nthermometer to thec\nclass and\nmeasure the temperature of hot water and cold water. Point out to\nO\u00b0C. Have a discussion on what o\u00b0C indicates, namely, the freezing\npoint of water."
+}

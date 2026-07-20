@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9642285704612732,
+    "bbox": [
+        190.62374877929688,
+        1402.501953125,
+        1754.2259521484375,
+        1511.334228515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_005/004_plain_text_0.96.png",
+    "text": "We have defined six trigonometric ratios of an acute angle. If we know any\none\nof the ratios, can we obtain the other ratios? Let us see."
+}

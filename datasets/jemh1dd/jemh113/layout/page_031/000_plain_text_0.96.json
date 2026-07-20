@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9572730660438538,
+    "bbox": [
+        245.0930938720703,
+        977.6182250976562,
+        1751.6583251953125,
+        1078.689697265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_031/000_plain_text_0.96.png",
+    "text": "3. The cumulative frequency of a class is the frequency obtained by adding the frequencies\nof all the classes preceding the given class."
+}

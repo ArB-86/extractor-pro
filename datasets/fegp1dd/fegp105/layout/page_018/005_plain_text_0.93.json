@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.9253097176551819,
+    "bbox": [
+        420.6865539550781,
+        396.6670227050781,
+        2214.951171875,
+        537.2439575195312
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_018/005_plain_text_0.93.png",
+    "text": "Is 682 divisible by 2? Can we answer t\nthis without doing the long\ndivision?"
+}

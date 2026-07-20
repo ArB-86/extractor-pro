@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.942927896976471,
+    "bbox": [
+        259.69586181640625,
+        1092.5899658203125,
+        1796.32861328125,
+        1383.817626953125
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_013/002_plain_text_0.94.png",
+    "text": "*\n11.\nLet]\nP, Q be\npoints of t\ntrisection of AB, with P closer\nto A,\nand\nQ\ncloser to B. Using your\n knowledge of how to find the coordinates\nof the midpoint of a segment, how would \nyou find the coordinates\nof Pa\nand\nQ? Do this for the\ne when the p\npoints\nare A (4, 7)\n case\nand\nB (16, -2)."
+}

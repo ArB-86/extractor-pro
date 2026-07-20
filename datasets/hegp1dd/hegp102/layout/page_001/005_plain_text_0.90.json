@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.8987061977386475,
+    "bbox": [
+        377.7272644042969,
+        1709.5765380859375,
+        2088.26953125,
+        1826.6068115234375
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_001/005_plain_text_0.90.png",
+    "text": "Roxie replies \u201c\"What if we use a thinner\n paper, like a newspaper or a\ntissue paper?\""
+}

@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "title",
+    "confidence": 0.6295055150985718,
+    "bbox": [
+        294.8116455078125,
+        2411.7451171875,
+        648.2718505859375,
+        2473.267333984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_024/012_title_0.63.png",
+    "text": "Who\nI?\nam\nD"
+}

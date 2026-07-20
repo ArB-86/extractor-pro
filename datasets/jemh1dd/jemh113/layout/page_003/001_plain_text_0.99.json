@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9850200414657593,
+    "bbox": [
+        191.9401092529297,
+        1626.840087890625,
+        1755.210693359375,
+        2038.1378173828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_003/001_plain_text_0.99.png",
+    "text": "Now, for each class-interval,\nWe require a point which would\nserve as the\nrepresentative of the whole class. It is assumed that the frequency of each class-\ninterval is centred around its mid-point. So the mid-point (or class mark) of each\nclass can be chosen to represent the observations falling in the class. Recall that we\nfind the mid-point of a class (or its class mark) by finding the average of its upper and\nlower limits. That is."
+}

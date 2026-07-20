@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8968824744224548,
+    "bbox": [
+        194.79193115234375,
+        1025.73828125,
+        1750.7203369140625,
+        1135.3934326171875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_021/004_plain_text_0.90.png",
+    "text": "Solution Let a \u2208 A. Then a \u2208 A U B. Since A U B =A  B ,a \u2208 A  B. So a \u2208 B\nTherefore, A c B. Similarly, if b \u2208 B, then b \u2208 A U B. Since"
+}

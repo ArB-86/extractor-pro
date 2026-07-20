@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.925873875617981,
+    "bbox": [
+        290.99578857421875,
+        547.9733276367188,
+        2083.418212890625,
+        689.7939453125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_017/008_plain_text_0.93.png",
+    "text": "Let us take 8560. Does it have any\nfactors from 2 to 10 (2, 3, 4,\n5, ., 9, 10)?"
+}

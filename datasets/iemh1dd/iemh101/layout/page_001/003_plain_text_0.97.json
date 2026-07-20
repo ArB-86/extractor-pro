@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9707911014556885,
+    "bbox": [
+        239.08389282226562,
+        837.9188232421875,
+        1796.0960693359375,
+        1003.107421875
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_001/003_plain_text_0.97.png",
+    "text": "A system of coordinates is a structured framework (like the grid lines on\na map or graph paper) that enables us to use numbers to describe the\nexact physical locations of points or objects."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8741657137870789,
+    "bbox": [
+        234.86325073242188,
+        308.5059509277344,
+        1795.9727783203125,
+        417.31134033203125
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_015/000_plain_text_0.87.png",
+    "text": "Fig. 2.8 shows\nthe\ngraphs of these\nlinear\nequations without any\npoints labelled."
+}

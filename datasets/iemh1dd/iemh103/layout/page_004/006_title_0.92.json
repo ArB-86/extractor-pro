@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.9197591543197632,
+    "bbox": [
+        274.2510986328125,
+        1990.5909423828125,
+        1164.2568359375,
+        2062.230712890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/006_title_0.92.png",
+    "text": "Brahmagupta's Rules\nfor\nZero"
+}

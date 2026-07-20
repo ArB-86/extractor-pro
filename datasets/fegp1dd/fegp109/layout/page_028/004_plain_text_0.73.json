@@ -1,0 +1,13 @@
+{
+    "page": 28,
+    "label": "plain_text",
+    "confidence": 0.7280426621437073,
+    "bbox": [
+        409.18695068359375,
+        970.8773803710938,
+        1193.2357177734375,
+        1129.4495849609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_028/004_plain_text_0.73.png",
+    "text": "a. The hole in\ne centre is square.\nthe\nb. The hole in\nthe centre is a square."
+}

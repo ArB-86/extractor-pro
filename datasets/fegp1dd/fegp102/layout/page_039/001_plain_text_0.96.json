@@ -1,0 +1,13 @@
+{
+    "page": 39,
+    "label": "plain_text",
+    "confidence": 0.9596908688545227,
+    "bbox": [
+        291.1955261230469,
+        394.8011474609375,
+        2089.00341796875,
+        608.3095703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_039/001_plain_text_0.96.png",
+    "text": "Obtuse Angle: Angles that are\ngreater than the right angle and less\nthan the straight angle, i.e., greater than 90\u00b0 and less than 180\u00b0, are\ncalled obtuse angles."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9346922636032104,
+    "bbox": [
+        193.77049255371094,
+        1635.76953125,
+        1750.4774169921875,
+        1749.611083984375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/001_plain_text_0.93.png",
+    "text": "Example 10 Let A = { a, e, i, o, u} and B = { a, b, c, d}. Is A a subset of B ? No.\n(Why?). Is B a subset of A? No. (Why?)"
+}

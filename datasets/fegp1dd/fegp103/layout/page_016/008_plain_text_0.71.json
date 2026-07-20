@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.7065891623497009,
+    "bbox": [
+        532.3351440429688,
+        565.172119140625,
+        1358.116943359375,
+        631.0682373046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_016/008_plain_text_0.71.png",
+    "text": "1.\nSteps you would take to walk:"
+}

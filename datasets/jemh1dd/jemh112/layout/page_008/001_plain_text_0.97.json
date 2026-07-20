@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9667924642562866,
+    "bbox": [
+        191.75425720214844,
+        1367.9405517578125,
+        1089.4661865234375,
+        1809.7073974609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_008/001_plain_text_0.97.png",
+    "text": "Example6\n6 : A juice seller was serving\nhis\ncustomers using glasses as shown in Fig. 12.13.\nThe inner diameter of the cylindrical glass was\n5 cm, but the bottom of the glass had a\nhemispherical raised portion which reduced the\ncapacity of the glass. If the height of a glass\nwas 10 cm, find the apparent capacity of the"
+}

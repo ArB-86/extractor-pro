@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9296832084655762,
+    "bbox": [
+        191.1705780029297,
+        1969.840087890625,
+        1749.9248046875,
+        2079.1318359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_003/002_plain_text_0.93.png",
+    "text": "In fact, the converse is also true for any pair of lines. You can verify\nythemby\nconsidering some more examples by yourself."
+}

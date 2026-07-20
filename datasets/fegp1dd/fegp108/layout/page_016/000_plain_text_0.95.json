@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9504517316818237,
+    "bbox": [
+        624.8240356445312,
+        388.43359375,
+        2217.845458984375,
+        600.1185302734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_016/000_plain_text_0.95.png",
+    "text": "Hint: DraW\nfigure.\nWhat\nbe\nthe\nsidelength\nrough\nWill\nof\nthe\na\nWhat\nWill\nbe\nthe\ndistance\nsquare?\nbetween\nthe\nof\ncorners\nthe square and\nthe outer\nrectangle?"
+}

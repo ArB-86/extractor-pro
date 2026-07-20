@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5542880296707153,
+    "bbox": [
+        364.9742736816406,
+        2621.6513671875,
+        1998.646728515625,
+        2692.806884765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_002/008_plain_text_0.55.png",
+    "text": "3\u3002\nTry to find out the most popular game among your classmates."
+}

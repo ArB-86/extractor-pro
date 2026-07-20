@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "title",
+    "confidence": 0.8632577657699585,
+    "bbox": [
+        375.6083679199219,
+        1461.265625,
+        1631.7049560546875,
+        1535.126220703125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_007/007_title_0.86.png",
+    "text": "Perfect Squares\nand Triangular Numbers"
+}

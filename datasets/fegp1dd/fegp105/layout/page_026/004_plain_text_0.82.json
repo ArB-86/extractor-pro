@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8209852576255798,
+    "bbox": [
+        295.96856689453125,
+        1775.4720458984375,
+        2188.40625,
+        1899.6240234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_026/004_plain_text_0.82.png",
+    "text": "Ans.\nNo. The least number of primes occur in the decades 91 to 1o0 and most number of\nprimes and occur in the decades 1 to 10, 11 to 20."
+}

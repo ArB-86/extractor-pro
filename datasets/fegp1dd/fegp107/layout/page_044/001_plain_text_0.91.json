@@ -1,0 +1,13 @@
+{
+    "page": 44,
+    "label": "plain_text",
+    "confidence": 0.9087251424789429,
+    "bbox": [
+        296.8288879394531,
+        2496.57421875,
+        1176.134033203125,
+        2556.155517578125
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_044/001_plain_text_0.91.png",
+    "text": "Ans. Each child will have\nlarger\nshare now."
+}

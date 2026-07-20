@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9601259827613831,
+    "bbox": [
+        296.6536865234375,
+        867.3845825195312,
+        1753.763427734375,
+        1305.4266357421875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_006/001_plain_text_0.96.png",
+    "text": "   s   q   s x  > x > 1 : x} =  \nbecause there is no natural number between 1 and 2.\nB = {x : x\u00b2- 2 = 0 and x is rational number}. Then B is the empty set because\nthe equation x\u00b2 - 2 = 0 is not satisfied by any rational value of x.\nC = {x : x is an even prime number greater than 2}.Then C is the empty set,\n111\nbecause 2 is the only even prime number.\nD = { x : x\u00b2 = 4, x is odd }. Then D is the empty set, because the equation\n1V\nx = 4 is not satisfied by any odd value of x."
+}

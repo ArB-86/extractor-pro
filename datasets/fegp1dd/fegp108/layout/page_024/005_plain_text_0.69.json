@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.6882855296134949,
+    "bbox": [
+        522.9439697265625,
+        1759.4412841796875,
+        722.1126708984375,
+        1827.134765625
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_024/005_plain_text_0.69.png",
+    "text": "STEP\n4"
+}

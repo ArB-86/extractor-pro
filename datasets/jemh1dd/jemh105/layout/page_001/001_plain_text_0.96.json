@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9557508230209351,
+    "bbox": [
+        224.3598175048828,
+        1831.102294921875,
+        1153.359375,
+        2158.961669921875
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_001/001_plain_text_0.96.png",
+    "text": "(ii)\nThe lengths of the rungs of a ladder decrease\nuniformly by 2 cm\nfrom\nbottom to top\n(see\nFig. 5.1). The bottom rung is 45 cm in\nlength. The lengths\n(in cm) of the 1st, 2nd,\n3rd, ..., 8th rung\nfrom the bottom to the top\nare, respectively"
+}

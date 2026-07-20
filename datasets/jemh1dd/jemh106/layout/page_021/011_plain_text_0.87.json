@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.8669185042381287,
+    "bbox": [
+        191.8261260986328,
+        1406.5816650390625,
+        1447.1168212890625,
+        1461.9813232421875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_021/011_plain_text_0.87.png",
+    "text": "So, the shadow of the girl after walking for 4 seconds is 1.6 m long."
+}

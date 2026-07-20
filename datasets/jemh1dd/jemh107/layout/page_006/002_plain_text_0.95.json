@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9545313715934753,
+    "bbox": [
+        191.43048095703125,
+        782.2985229492188,
+        1754.38720703125,
+        913.6465454101562
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_006/002_plain_text_0.95.png",
+    "text": "Since, AB + BC = 3\u221a2 + 2\u221a2 = 5\u221a2 = AC,\nwe can say that the points A, B and C\nare collinear. Therefore, they are seated in a line."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.9347065687179565,
+    "bbox": [
+        193.77880859375,
+        1170.0528564453125,
+        683.4727783203125,
+        1223.2398681640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/001_plain_text_0.93.png",
+    "text": "Example 6 : In F\nFig. 6.31,"
+}

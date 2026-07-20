@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9770484566688538,
+    "bbox": [
+        235.5430450439453,
+        2274.073486328125,
+        1794.5999755859375,
+        2488.241455078125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/001_plain_text_0.98.png",
+    "text": "Step\n8: The\nContradiction: We deduced t\nthat p is\neven and q is\neven.\nThis\nthey\nboth share a common\nfactor\nof 2. However,\nin S\nStep\nmeans\n1,\nd\nthat\nin simplest form, sharing\nwe stated t\nwas\nno common\nfactors!\nq"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.974445104598999,
+    "bbox": [
+        191.8779296875,
+        2004.243896484375,
+        1754.2305908203125,
+        2224.163818359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_004/001_plain_text_0.97.png",
+    "text": "Now, to know :\nabout an AP, what is the minimum\ninformation that you need? Is it\nenough to know\nthe first term? Or, is it enough to know c\nonly the common\nA difference?\nYou\nWill\nfind\nthat\nyou\nWill\nneed to l\nknow\nboth\nn-t\nthe\nfirst term\nD\nand\nthe\ncommon\ndifference\nd."
+}

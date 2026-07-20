@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.8976842761039734,
+    "bbox": [
+        526.4691772460938,
+        391.9634094238281,
+        1425.6383056640625,
+        461.11016845703125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_026/006_plain_text_0.90.png",
+    "text": "Can\nyou complete the figure? Try!"
+}

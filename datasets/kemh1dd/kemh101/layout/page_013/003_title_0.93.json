@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "title",
+    "confidence": 0.9268375039100647,
+    "bbox": [
+        197.10772705078125,
+        1117.5618896484375,
+        613.3350219726562,
+        1172.7723388671875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/003_title_0.93.png",
+    "text": "8\nVe\nenn\nDi"
+}

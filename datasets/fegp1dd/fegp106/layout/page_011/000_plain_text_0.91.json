@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9138570427894592,
+    "bbox": [
+        392.8731689453125,
+        498.5332336425781,
+        1889.3685302734375,
+        565.0724487304688
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_011/000_plain_text_0.91.png",
+    "text": "Cut out the tangram p\npieces\ngiven at the end of your textbook."
+}

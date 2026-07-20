@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9745784401893616,
+    "bbox": [
+        192.7894744873047,
+        521.8344116210938,
+        1753.82666015625,
+        742.4929809570312
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_014/000_plain_text_0.97.png",
+    "text": "In a\ngrouped frequency\ndistribution, it is not p\npossible to determine\nthe\nmode by\nlooking\nat\nthe\nfrequencies. H\nHere,\nwe\nonly\nlocate\n a class\nWith\nthe\ncan\nmaximum\nfrequency, called the :\ne modal class. The\n mode is a value inside the\ne modal class, and is\ngiven\nby the formula:"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9489881992340088,
+    "bbox": [
+        191.24395751953125,
+        2214.9453125,
+        1750.486572265625,
+        2324.41015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_016/003_plain_text_0.95.png",
+    "text": "Is this equation true for A = O\u00b0? Yes, it is. What about A = 90\u00b0? Well, tan A and\nsec A are not defined for A = 90\u00b0. So, (3) is true for all A such that 0\u00b0 \u2264 A < 90\u00b0."
+}

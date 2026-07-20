@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9810168147087097,
+    "bbox": [
+        237.84912109375,
+        747.97314453125,
+        1798.76318359375,
+        1018.96142578125
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_011/000_plain_text_0.98.png",
+    "text": "Even\nfractions\nthan\n1\ncan\nbe located\ngreater\non\nthe\nnumber\nline\nin\n2#\n9\nthis\n. For\nexample,\nso it lies\ns between\n2\nand 3. We divide the\nway.\n-4\ninterval between\n 2 and 3 into f\nfour equal\nparts and :\nmove one\npart to the\nright of 2. See Fig. 3.6."
+}

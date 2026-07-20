@@ -1,0 +1,13 @@
+{
+    "page": 54,
+    "label": "plain_text",
+    "confidence": 0.9533979296684265,
+    "bbox": [
+        296.7045593261719,
+        496.1531066894531,
+        2189.6201171875,
+        745.8544921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_054/004_plain_text_0.95.png",
+    "text": "Q.2\nLeh\nin\nLadakh\nduring\nthe\nwinter.\nThe\nfollowing\ngets\nvery\ncold\nis\na\ntable\nof\ntemperature readings\ntaken\nduring\ndifferent\ntimes\nof\nthe day\nand\nnight in Leh\non\nl a\nday\nin November. Match t\nthe temperature\nthe appropriate\ntime of the day\nwith\nand\nnight."
+}

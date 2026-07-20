@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9445762634277344,
+    "bbox": [
+        252.05824279785156,
+        828.4430541992188,
+        1750.9805908203125,
+        929.0921020507812
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/005_plain_text_0.94.png",
+    "text": "9.\nThe following table gives the literacy rate\n(in percentage) of 35 cities. Find the mean\nliteracy rate."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.8362104296684265,
+    "bbox": [
+        191.9995574951172,
+        2149.31298828125,
+        1728.013671875,
+        2273.72265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/010_plain_text_0.84.png",
+    "text": "So, the given list of numbers forms an AP with the common difference d = -2.\nThe next two terms are:"
+}

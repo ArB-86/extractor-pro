@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9707989692687988,
+    "bbox": [
+        507.9786682128906,
+        461.75421142578125,
+        2213.681640625,
+        758.289794921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_022/000_plain_text_0.97.png",
+    "text": "1.\nColour\nthe sectors of the circle below so that the\nfigure\nhas i)\n1\n3\nangles of\nsymmetry, ii) 4 a\nangles of\nsymmetry,\niii)\nwhat\nare\nthe\npossible\nnumbers\nof\nangles of s\nsymmetry you\nobtain\ncan\nby colouring\nthe sectors\nin different\nWays?"
+}

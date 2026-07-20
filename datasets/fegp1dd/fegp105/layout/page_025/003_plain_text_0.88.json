@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.8830500245094299,
+    "bbox": [
+        295.3500671386719,
+        2131.611328125,
+        2186.45947265625,
+        2319.223876953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_025/003_plain_text_0.88.png",
+    "text": "Q.8. In the diagram\nbelow, Guna\nhas erased all the numbers except\ntthecommon\nmultiples. Find out what those numbers could be and fill in the missing numbers in\nthe empty regions."
+}

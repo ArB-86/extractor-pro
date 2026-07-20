@@ -1,0 +1,13 @@
+{
+    "page": 43,
+    "label": "plain_text",
+    "confidence": 0.6926360726356506,
+    "bbox": [
+        295.0642395019531,
+        1723.5789794921875,
+        2188.067626953125,
+        1960.107666015625
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_043/005_plain_text_0.69.png",
+    "text": "Ans.\nLM, MP, PQ, QR\nPoints L and R are exactly on one line segment. Points M, P and Q\nare on two line\nsegments."
+}

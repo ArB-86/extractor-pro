@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.8001880049705505,
+    "bbox": [
+        300.208984375,
+        1925.75537109375,
+        2190.609130859375,
+        2372.596923828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_031/007_plain_text_0.80.png",
+    "text": "Ans.\n1. Yes\n2. Yes\n3.Yes\nYes,weagree.\nConsider numbers 124,364,4028 etc. These are divisible by 4.Check for more numbers."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9021391868591309,
+    "bbox": [
+        192.35569763183594,
+        573.3181762695312,
+        1282.7109375,
+        629.9038696289062
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_019/002_plain_text_0.90.png",
+    "text": "which is the RHS of the identity,\n, we are required to prove."
+}

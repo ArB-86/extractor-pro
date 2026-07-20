@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.953923225402832,
+    "bbox": [
+        190.8624267578125,
+        2394.652099609375,
+        1756.8106689453125,
+        2558.8916015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_009/000_plain_text_0.95.png",
+    "text": "From geometry, you are already familiar with the construction of angles of 30\u00b0, 45\u00b0,\n60\u00b0 and 90\u00b0. In this section, we will find the values of the trigonometric ratios for these\nangles and, of course, for O\u00b0."
+}

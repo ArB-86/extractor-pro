@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9567718505859375,
+    "bbox": [
+        461.27166748046875,
+        2702.34814453125,
+        2089.7763671875,
+        2840.427978515625
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_008/003_plain_text_0.96.png",
+    "text": "From 81, we successively subtracted consecutive odd numbers\nstarting from 1 until we obtained 0 at the 9th step. Therefore \u221a81 = 9."
+}

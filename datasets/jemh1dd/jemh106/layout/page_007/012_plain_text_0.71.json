@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.7068520188331604,
+    "bbox": [
+        294.2491149902344,
+        743.8275146484375,
+        1182.02978515625,
+        799.049560546875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/012_plain_text_0.71.png",
+    "text": "(i)\ntheir\ncorresponding\nangles\nare\nenba\nand"
+}

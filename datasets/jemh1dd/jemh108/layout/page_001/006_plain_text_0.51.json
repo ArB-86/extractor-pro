@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.5099872350692749,
+    "bbox": [
+        1010.0242919921875,
+        1142.37255859375,
+        1450.2490234375,
+        1200.6947021484375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_001/006_plain_text_0.51.png",
+    "text": "Herbart\n(1890)\nI.F."
+}

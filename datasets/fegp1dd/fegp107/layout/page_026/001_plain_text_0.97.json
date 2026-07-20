@@ -1,0 +1,13 @@
+{
+    "page": 26,
+    "label": "plain_text",
+    "confidence": 0.9679925441741943,
+    "bbox": [
+        418.0369567871094,
+        746.5280151367188,
+        2212.7578125,
+        967.7212524414062
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_026/001_plain_text_0.97.png",
+    "text": "Let us represent both using\nthe rectangular strips. In both fractions,\nthe fractional unit is the same\n, so, each strip will be divided into\n5 equal parts."
+}

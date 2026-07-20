@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.7285144925117493,
+    "bbox": [
+        413.2561340332031,
+        2104.584228515625,
+        1751.359619140625,
+        2165.589599609375
+    ],
+    "image_path": "datasets/iemh1dd/iemh101/layout/page_009/004_plain_text_0.73.png",
+    "text": ".7\ngives us a clue. The distance moved along the x-axis is g\ngivenby C"
+}

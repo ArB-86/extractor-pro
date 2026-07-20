@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.7799152135848999,
+    "bbox": [
+        349.2520446777344,
+        2713.6640625,
+        1876.4744873046875,
+        2781.260986328125
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/007_plain_text_0.78.png",
+    "text": "What can you say a\n about the parity of a number and its square"
+}

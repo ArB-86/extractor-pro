@@ -1,0 +1,13 @@
+{
+    "page": 27,
+    "label": "plain_text",
+    "confidence": 0.781737208366394,
+    "bbox": [
+        529.915283203125,
+        1799.6163330078125,
+        2206.58251953125,
+        2015.7476806640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_027/005_plain_text_0.78.png",
+    "text": "1.\nCan\nl of\nBrahmagupta's\nexplain\neach\nrules\nin\nterms\nof Bela's\nyou\nBuilding\n of Fun, or\nin\n. terms of a number\nline?\n2.\nGive your\nexamples of\neach\nrule.\nown"
+}

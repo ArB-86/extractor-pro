@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.8739762306213379,
+    "bbox": [
+        439.7528076171875,
+        2651.926513671875,
+        2214.322509765625,
+        2865.53466796875
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_022/003_plain_text_0.87.png",
+    "text": "AJ\n number is a factor of another number if the prime factorisation of\nthe first number is included in the prime factorisation of the second\nnumber."
+}

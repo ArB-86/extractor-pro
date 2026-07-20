@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9528914093971252,
+    "bbox": [
+        192.34304809570312,
+        882.28759765625,
+        1753.97265625,
+        991.278564453125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_012/002_plain_text_0.95.png",
+    "text": "The 11th term from the last term will be the 15th term. (Note that it will not be\nthe 14th term. Why?)"
+}

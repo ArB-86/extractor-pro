@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9793557524681091,
+    "bbox": [
+        218.38035583496094,
+        423.35260009765625,
+        1187.2427978515625,
+        1138.2386474609375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_004/001_plain_text_0.98.png",
+    "text": "The first use of the idea of \u2018sine\u2019 in the way we use\nit today was in the work Aryabhatiyam by Aryabhata.\nin A.D. 500. Aryabhata used the word ardha-jya\nfor the half-chord, which was shortened to jya or\njiva in due course. When the Aryabhatiyam was\ntranslated into Arabic, the word jiva was retained as\nit is. The word jiva was translated into sinus, which\nmeans curve, when the Arabic version was translated\ninto Latin. Soon the word sinus, also used as sine,\nbecame common in mathematical texts throughout\nEurope. An English Professor of astronomy Edmund\nGunter (1581-1626), first used the abbreviated\nnotation\u2018sin'."
+}

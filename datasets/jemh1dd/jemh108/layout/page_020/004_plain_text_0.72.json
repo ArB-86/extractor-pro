@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.72121262550354,
+    "bbox": [
+        246.7089385986328,
+        1494.9493408203125,
+        1753.2640380859375,
+        1594.5738525390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_020/004_plain_text_0.72.png",
+    "text": "5. The value of sin A or cos A never exceeds 1, whereas the value of sec A (O\u00b0 \u2264A< 90\u00b0) or\ncosec A (0\u00b0 < A\u2264 90\u00b0) is always greater than or equal to 1."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.947649359703064,
+    "bbox": [
+        484.3357849121094,
+        2140.069091796875,
+        2209.811767578125,
+        2280.727294921875
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_012/001_plain_text_0.95.png",
+    "text": "11.\nCopy the following\non squared\npaper. Complete them so t\nthat the\nblue line is a line of symmetry. Problem (a) has been done for you."
+}

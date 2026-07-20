@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9593155384063721,
+    "bbox": [
+        240.06936645507812,
+        1082.654052734375,
+        1794.3043212890625,
+        1190.6859130859375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/004_plain_text_0.96.png",
+    "text": "mathematical zero."
+}

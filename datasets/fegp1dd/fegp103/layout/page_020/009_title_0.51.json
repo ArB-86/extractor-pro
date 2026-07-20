@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "title",
+    "confidence": 0.5084843635559082,
+    "bbox": [
+        298.3527526855469,
+        1542.88525390625,
+        1250.5701904296875,
+        1602.6690673828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_020/009_title_0.51.png",
+    "text": "Q. What do you\nthink these numbers mean?"
+}

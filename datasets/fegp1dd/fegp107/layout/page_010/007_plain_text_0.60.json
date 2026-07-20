@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.5982264876365662,
+    "bbox": [
+        518.5966796875,
+        623.4126586914062,
+        2095.73583984375,
+        783.3519287109375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_010/007_plain_text_0.60.png",
+    "text": "2. Write five more fractions of your choice and mark them on the\nnumber line."
+}

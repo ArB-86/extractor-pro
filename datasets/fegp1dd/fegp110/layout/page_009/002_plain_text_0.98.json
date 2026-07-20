@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9769734740257263,
+    "bbox": [
+        419.3942565917969,
+        1022.1271362304688,
+        1477.0960693359375,
+        1539.3997802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_009/002_plain_text_0.98.png",
+    "text": "Some of the levels are marked in the\npicture. The ground level is marked 0.\nLevels above the ground are marked by\npositive numbers and levels below the\nground are marked by negative numbers.\nThe number indicates how many metres\nabove or below the ground level it is."
+}

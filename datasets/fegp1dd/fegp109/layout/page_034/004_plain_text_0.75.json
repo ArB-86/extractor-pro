@@ -1,0 +1,13 @@
+{
+    "page": 34,
+    "label": "plain_text",
+    "confidence": 0.7505560517311096,
+    "bbox": [
+        446.8685302734375,
+        1872.0142822265625,
+        1481.1258544921875,
+        1935.4464111328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp109/layout/page_034/004_plain_text_0.75.png",
+    "text": "Angles of symmetry = 72\u00b0, 144\u00b0, 216\u00b0, 288\u00b0, 360\u00b0."
+}

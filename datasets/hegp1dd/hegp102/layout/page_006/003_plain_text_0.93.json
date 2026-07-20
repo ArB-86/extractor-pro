@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9263932108879089,
+    "bbox": [
+        297.58038330078125,
+        703.974853515625,
+        1744.1141357421875,
+        771.8264770507812
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_006/003_plain_text_0.93.png",
+    "text": "?\n37\ncan also be written as 32 x 35. Can you reason out why?"
+}

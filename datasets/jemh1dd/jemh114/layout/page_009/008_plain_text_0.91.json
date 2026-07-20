@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9099376797676086,
+    "bbox": [
+        193.38894653320312,
+        950.0542602539062,
+        1101.1490478515625,
+        1001.843505859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/008_plain_text_0.91.png",
+    "text": "So, the number of outcomes\nfavourable to E is 3."
+}

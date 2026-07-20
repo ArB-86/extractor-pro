@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.8742270469665527,
+    "bbox": [
+        192.8494415283203,
+        1312.417236328125,
+        964.058349609375,
+        1366.3140869140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_020/005_plain_text_0.87.png",
+    "text": "Show\nthat\nZA=ZC\nand Z B\n=ZD."
+}

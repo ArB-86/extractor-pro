@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9628894329071045,
+    "bbox": [
+        193.0867462158203,
+        1736.1717529296875,
+        1750.012939453125,
+        1847.7940673828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_008/003_plain_text_0.96.png",
+    "text": "Solution : Let s and t be the ages\n(in years) of Aftab and his daughter, respectively.\nThen, the pair of linear equations that represent the situation is"
+}

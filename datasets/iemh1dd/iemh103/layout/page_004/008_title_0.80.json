@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "title",
+    "confidence": 0.8049357533454895,
+    "bbox": [
+        239.19236755371094,
+        1232.9771728515625,
+        1707.531494140625,
+        1297.0982666015625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_004/008_title_0.80.png",
+    "text": "3.2.2 The Bakhshali Manuscript and Brahmagupta's Rules"
+}

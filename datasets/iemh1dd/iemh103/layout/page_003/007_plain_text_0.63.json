@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.6250166296958923,
+    "bbox": [
+        274.55181884765625,
+        707.099365234375,
+        1796.0433349609375,
+        871.621337890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_003/007_plain_text_0.63.png",
+    "text": "2\u3002\nLook at the sequence of numbers on one column of the Ishango\nbone: 11, 13, 17, 19. What do these numbers have in common? List\nthe next three numbers that fit this pattern."
+}

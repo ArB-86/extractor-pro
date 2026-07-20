@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9814833998680115,
+    "bbox": [
+        192.7855682373047,
+        607.5355834960938,
+        1064.579345703125,
+        825.6953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_003/000_plain_text_0.98.png",
+    "text": "You\nhave studied the concept of\n'ratio' in\nyour earlier classes. We now\ndefine certain ratios\ninvolving\nthe sides of a right\ntriangle, and call\nthem\ntrigonometric ratios."
+}

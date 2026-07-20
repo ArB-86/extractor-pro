@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.9758200645446777,
+    "bbox": [
+        193.51821899414062,
+        427.2647399902344,
+        1064.7305908203125,
+        590.2777709960938
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_003/001_plain_text_0.98.png",
+    "text": "Note\nthat\nthe\nposition\nof\nsides\nchange\nwhen\nconsider\nangle\nC\nin\nplace\nof A\nyou\n(see Fig. 8.5)."
+}

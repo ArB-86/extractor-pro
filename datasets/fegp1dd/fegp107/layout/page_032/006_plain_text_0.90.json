@@ -1,0 +1,13 @@
+{
+    "page": 32,
+    "label": "plain_text",
+    "confidence": 0.9025611281394958,
+    "bbox": [
+        517.8727416992188,
+        952.0115356445312,
+        1321.5875244140625,
+        1018.4735717773438
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_032/006_plain_text_0.90.png",
+    "text": "3\u3002\nSolve the following problems:"
+}

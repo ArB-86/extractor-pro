@@ -1,0 +1,13 @@
+{
+    "page": 31,
+    "label": "plain_text",
+    "confidence": 0.9825311303138733,
+    "bbox": [
+        419.9490661621094,
+        1143.47021484375,
+        2208.953857421875,
+        1888.90673828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_031/000_plain_text_0.98.png",
+    "text": "first glance, it does have some issues. The goal of our bar graph earlier\nwas to represent the heights of various mountains \u2014 using bars of the\nappropriate heights but the same widths. The purpose of using the\nsame widths was to make it clear that we are only comparing heights.\nHowever, in this infographic, the taller triangles are also wider! Are\ntaller mountains always wider? The infographic is implying additional\n  nu        n \nSometimes going for more appealing pictures can also accidentally\nmislead."
+}

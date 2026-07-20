@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.8886504769325256,
+    "bbox": [
+        194.6212921142578,
+        1345.1903076171875,
+        956.1166381835938,
+        1397.522216796875
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_011/011_plain_text_0.89.png",
+    "text": "You can\ncheck for the y-coordinate also."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.6565580368041992,
+    "bbox": [
+        275.4710693359375,
+        306.45574951171875,
+        1799.917724609375,
+        538.2432250976562
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_009/008_plain_text_0.66.png",
+    "text": "2.\nA rally starts with 120\nmembers. Each hour,\n;9\nmembers\ndrop out of\nthe\ngroup. How many :\nmembers will\nremain after\n1, 2, 3, ... hours?\nFind a linear\nexpression\nto\nrepresent\nthe\nnumber\nof\nmembers at\nthe end of the nth\nhour."
+}

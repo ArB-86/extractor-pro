@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9851101636886597,
+    "bbox": [
+        195.09107971191406,
+        1017.157958984375,
+        1753.9112548828125,
+        1511.9722900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_002/000_plain_text_0.99.png",
+    "text": "In all the situations given above, the distances or heights can be found by using\nsome mathematical techniques, which come under a branch of mathematics called\n'trigonometry'. The word \u2018trigonometry\u2019 is derived from the Greek words \u2018tri'\n(meaning three), \u2018gon\u2019 (meaning sides) and ^metron\u2019 (meaning measure). In fact,\ntrigonometry is the study of relationships between the sides and angles of a triangle.\nThe earliest known work on trigonometry was recorded in Egypt and Babylon. Early\nastronomers used it to find out the distances of the stars and planets from the Earth.\nEven today, most of the technologically advanced methods used in Engineering and\nPhysical Sciences are based on trigonometrical concepts."
+}

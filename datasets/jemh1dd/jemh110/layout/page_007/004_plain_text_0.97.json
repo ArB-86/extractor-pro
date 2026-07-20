@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9657815098762512,
+    "bbox": [
+        190.90081787109375,
+        395.08734130859375,
+        1751.5845947265625,
+        505.6315002441406
+    ],
+    "image_path": "datasets/jemh1dd/jemh110/layout/page_007/004_plain_text_0.97.png",
+    "text": "Now AB is a chord of the circle C, and OP \u22a5 AB. Therefore, OP is the bisector of the\nchord AB, as the perpendicular from the centre bisects the chord,"
+}

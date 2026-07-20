@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9731181263923645,
+    "bbox": [
+        422.04876708984375,
+        771.488037109375,
+        2209.7001953125,
+        986.600830078125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_002/000_plain_text_0.97.png",
+    "text": "Do you know what curves are? They\nare anys\nshapes that can be\ndrawn on paper with a pencil, and include straight lines, circles and\nother figures as shown below:"
+}

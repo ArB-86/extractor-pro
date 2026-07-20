@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.978509247303009,
+    "bbox": [
+        239.95494079589844,
+        1072.036376953125,
+        1035.3402099609375,
+        1730.1904296875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_001/002_plain_text_0.98.png",
+    "text": "Example 1: Raju went to a shop\nwhere there were sealed boxes of\ndifferent colours on sale. The shop\nowner told him that the red boxes\nhave 4 pens each and the blue\nboxes have 5 pencils each. Now, if\nRaju bought x red boxes and y blue\nboxes, how can he quickly figure\nout the total quantity of pens and\npencils? Also, if he got 3 extra pens\nfree, how many pens and pencils did\nhe get altogether?"
+}

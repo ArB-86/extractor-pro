@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.953869104385376,
+    "bbox": [
+        394.261474609375,
+        2404.28515625,
+        2086.910888671875,
+        2549.008056640625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_020/002_plain_text_0.95.png",
+    "text": "She used this data and j\nprepared a bar g\ngraph on the board to discuss\nthe data with her students, but someone erased a portion of the graph."
+}

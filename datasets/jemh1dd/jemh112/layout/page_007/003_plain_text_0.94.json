@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9387033581733704,
+    "bbox": [
+        246.29766845703125,
+        710.6724853515625,
+        1754.4666748046875,
+        869.61181640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh112/layout/page_007/003_plain_text_0.94.png",
+    "text": "8\u3002\nFrom a solid cylinder whose height is 2.4 cm and diameter 1.4 cm, a conical cavity of the\nSame\n height and same diameter is hollowed out. Find the total surface area of the\nremaining solid to the nearest cm\u00b2."
+}

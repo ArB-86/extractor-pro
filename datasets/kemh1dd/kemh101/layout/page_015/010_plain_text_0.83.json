@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.8342496752738953,
+    "bbox": [
+        193.02796936035156,
+        788.2892456054688,
+        1462.1763916015625,
+        843.3458251953125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/010_plain_text_0.83.png",
+    "text": "Example 15 Consider the sets A and B of Example 12. Find A  B."
+}

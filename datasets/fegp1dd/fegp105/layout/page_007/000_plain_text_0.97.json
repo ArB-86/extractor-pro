@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9716476202011108,
+    "bbox": [
+        292.3800048828125,
+        2526.25732421875,
+        1369.7803955078125,
+        2895.703369140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_007/000_plain_text_0.97.png",
+    "text": "This\nprocedure\nbe\ncan\ncarried\non\nfor\nnumbers\nthan\n100\nalso.\ngreater\nEratosthenes was a Greekmathematician\nwho\nlived\naround\n2200\nyears\nago\nand\ndeveloped this method of listing primes."
+}

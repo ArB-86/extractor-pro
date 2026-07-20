@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9433891773223877,
+    "bbox": [
+        403.4020080566406,
+        898.1476440429688,
+        1852.5025634765625,
+        1037.6707763671875
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_006/001_plain_text_0.94.png",
+    "text": "1.\nCompare\nthe following\nnumbers using\ng the Building\nof\nFun and fill in the boxes with < or >."
+}

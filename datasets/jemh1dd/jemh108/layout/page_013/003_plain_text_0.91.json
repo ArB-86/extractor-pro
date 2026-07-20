@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9094823002815247,
+    "bbox": [
+        283.8916320800781,
+        1721.869873046875,
+        1753.97119140625,
+        1777.09130859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_013/003_plain_text_0.91.png",
+    "text": "Let us illustrate the use of the values in the table above through some examples."
+}

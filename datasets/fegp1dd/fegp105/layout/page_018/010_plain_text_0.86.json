@@ -1,0 +1,13 @@
+{
+    "page": 18,
+    "label": "plain_text",
+    "confidence": 0.8645214438438416,
+    "bbox": [
+        493.8655700683594,
+        1151.0582275390625,
+        1780.7237548828125,
+        1217.880126953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_018/010_plain_text_0.86.png",
+    "text": "Look at its multiples: 4, 8, 12, 16, 20, 24, 28, 32,"
+}

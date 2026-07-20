@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.6985124349594116,
+    "bbox": [
+        508.2192687988281,
+        756.9741821289062,
+        2212.484375,
+        1278.0596923828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_008/007_plain_text_0.70.png",
+    "text": "1\u3002\nWe see that 2 is a prime and also an even number. Is there any\nother even prime?\n2\u3002\nLook at the list of primes till 1oo. What is the smallest difference\n3.  Are there an equal number of primes occurring in every row in the\ntable on the previous page? Which decades have the least number\nof primes? Which have the most number of primes?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.9519773125648499,
+    "bbox": [
+        235.04733276367188,
+        2449.379638671875,
+        1796.320068359375,
+        2597.46728515625
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_014/002_plain_text_0.95.png",
+    "text": "1\n(Hint: In order to 9\ngraph y\nx, we could take the points\n(0, 0)\n2\nand (4, 2). Can you verify that these lie on the line?)"
+}

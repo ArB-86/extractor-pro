@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.8733116984367371,
+    "bbox": [
+        216.96600341796875,
+        1364.976318359375,
+        1292.41162109375,
+        1490.6002197265625
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_004/004_plain_text_0.87.png",
+    "text": "2\n5\nx\n1\n+l,y-:\n1.\nIf\nfind the values of x and y.\n3\n3\n3\u20323"
+}

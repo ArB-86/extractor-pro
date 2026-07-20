@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9635522961616516,
+    "bbox": [
+        193.58209228515625,
+        1441.135498046875,
+        1092.408447265625,
+        1549.3927001953125
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_002/006_plain_text_0.96.png",
+    "text": "So, if\ntwo\npoints\nlie\n on\nthe x-axis,\nwe\ncan\neasily\nfind the distance\nbetween\nthem."
+}

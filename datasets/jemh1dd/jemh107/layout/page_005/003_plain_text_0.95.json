@@ -1,0 +1,13 @@
+{
+    "page": 5,
+    "label": "plain_text",
+    "confidence": 0.9535343647003174,
+    "bbox": [
+        190.88705444335938,
+        1432.735595703125,
+        1755.6737060546875,
+        1599.1597900390625
+    ],
+    "image_path": "datasets/jemh1dd/jemh107/layout/page_005/003_plain_text_0.95.png",
+    "text": "Since, AB = BC = CD = DA and AC = BD, all the four sides of the quadrilateral\nABCD\nare equal and its diagonals AC and BD\nare also equal. Thereore, ABCD is a\nsquare."
+}

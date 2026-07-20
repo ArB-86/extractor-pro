@@ -1,0 +1,13 @@
+{
+    "page": 20,
+    "label": "plain_text",
+    "confidence": 0.907255232334137,
+    "bbox": [
+        192.14157104492188,
+        1924.251953125,
+        1751.7779541015625,
+        2025.9876708984375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_020/002_plain_text_0.91.png",
+    "text": "Let U be the set of all triangles in a plane. If A is the set of all triangles with at\nleast one angle different from 60\u00b0, what is A'?"
+}

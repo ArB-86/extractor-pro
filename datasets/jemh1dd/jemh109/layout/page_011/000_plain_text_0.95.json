@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.9465422034263611,
+    "bbox": [
+        303.4598388671875,
+        400.4676513671875,
+        1750.739013671875,
+        502.6886901855469
+    ],
+    "image_path": "datasets/jemh1dd/jemh109/layout/page_011/000_plain_text_0.95.png",
+    "text": "tower with a uniform speed. Six seconds later, the angle of depression of the car is found\nto be 60\u00b0. Find the time taken by the car to reach the foot of the tower from this point."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.5760853290557861,
+    "bbox": [
+        292.0997314453125,
+        1893.126708984375,
+        1396.24658203125,
+        1947.40869140625
+    ],
+    "image_path": "datasets/kemh1dd/kemh102/layout/page_002/011_plain_text_0.58.png",
+    "text": "As a final illustration, consider the two sets A=\n{a\uff0ca}\nand"
+}

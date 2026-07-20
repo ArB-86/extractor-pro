@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.9767000079154968,
+    "bbox": [
+        191.70703125,
+        2263.328125,
+        1005.4993896484375,
+        2592.905517578125
+    ],
+    "image_path": "datasets/jemh1dd/jemh104/layout/page_008/001_plain_text_0.98.png",
+    "text": "Let P be the required location of the\npole. Let the distance of the pole from the\ngate B be x m, i.e., BP = x m. Now the\ndifference of the distances of the pole from\nthe two gates = AP - BP (or, BP - AP) =\n7 m. Therefore, AP = (x + 7) m."
+}

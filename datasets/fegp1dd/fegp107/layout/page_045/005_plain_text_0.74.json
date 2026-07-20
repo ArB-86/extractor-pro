@@ -1,0 +1,13 @@
+{
+    "page": 45,
+    "label": "plain_text",
+    "confidence": 0.7385638356208801,
+    "bbox": [
+        361.7366943359375,
+        1620.7535400390625,
+        668.9619140625,
+        2708.22998046875
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_045/005_plain_text_0.74.png",
+    "text": "35\n6\na.\nand\n10\n10\n16\n5-\nb.\nand\n6\n6\n15\n12\nC.\nand\n20\n20\n30\n56\nd.\nand\n35\n35\n9\n10\ne.-a\nand\n4\n4\n20\nf.%\nand\n90\n90\n32\n33\ng.\nand\n12\n12\n39\n2\nh.\nand\n18\n18"
+}

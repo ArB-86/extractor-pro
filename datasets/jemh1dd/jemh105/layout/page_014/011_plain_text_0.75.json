@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.7540633678436279,
+    "bbox": [
+        225.795166015625,
+        2182.589599609375,
+        1750.6422119140625,
+        2282.345458984375
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_014/011_plain_text_0.75.png",
+    "text": "12. Two APs have the same common difference. The difference between their 1o0th terms is\n100, what is the difference between their 1o00th terms?"
+}

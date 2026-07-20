@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9202311635017395,
+    "bbox": [
+        191.79078674316406,
+        1046.9798583984375,
+        1725.1474609375,
+        1157.3731689453125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/004_plain_text_0.92.png",
+    "text": "Solution We see that element \u2018Geeta' is the only element common to both. Hence.\nX  Y = {Geeta}."
+}

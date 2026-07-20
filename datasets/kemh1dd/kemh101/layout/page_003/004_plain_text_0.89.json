@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "plain_text",
+    "confidence": 0.8919658660888672,
+    "bbox": [
+        213.93325805664062,
+        741.6106567382812,
+        1739.1944580078125,
+        973.8076171875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_003/004_plain_text_0.89.png",
+    "text": "Note\nIt may\nbe noted that while\nwriting\nthe set in roster\nform an\nelement is not\ngenerally r\ni.e., all the elements\ntaken as\ndistinct. For example, the set\nrepeated,\naret\nofletters\nforming\nthe\ne word\u2018SCHOOL\u2019is\n{S,C, H,O, L} C\nor\n{H, O, L, C, S}. Here,\nthe order of listing\nelements\nhas no r\nrelevance."
+}

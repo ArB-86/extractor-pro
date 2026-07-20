@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9592942595481873,
+    "bbox": [
+        196.8728790283203,
+        1448.573974609375,
+        1753.23779296875,
+        1556.0045166015625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/005_plain_text_0.96.png",
+    "text": "Did you observe that in all the examples discussed so far, the number of possible\noutcomes in each experiment was finite? If not, check it now."
+}

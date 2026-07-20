@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9546982645988464,
+    "bbox": [
+        291.3432312011719,
+        2188.012451171875,
+        2081.890380859375,
+        2337.146240234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_017/003_plain_text_0.95.png",
+    "text": "If a straight angle is formed by half of a full turn, how much of a\nfull turn will form a right angle?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.8740072250366211,
+    "bbox": [
+        297.58612060546875,
+        1809.6727294921875,
+        2186.4736328125,
+        1992.2562255859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_030/001_plain_text_0.87.png",
+    "text": "Ans.\nYes, it is possible with less quantity of serving and with purchase of 1-1-1 fruit of each\ntype.\nHowever, it is not possible with costly fruits and more quantity of serving."
+}

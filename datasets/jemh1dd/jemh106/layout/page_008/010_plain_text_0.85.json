@@ -1,0 +1,13 @@
+{
+    "page": 8,
+    "label": "plain_text",
+    "confidence": 0.850805938243866,
+    "bbox": [
+        193.85269165039062,
+        805.796875,
+        846.5868530273438,
+        922.106201171875
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_008/010_plain_text_0.85.png",
+    "text": "AD\nAE\nWe need to\nprove that\nDB\nEC"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.840204119682312,
+    "bbox": [
+        432.5179138183594,
+        1829.8055419921875,
+        1827.695068359375,
+        1892.71875
+    ],
+    "image_path": "datasets/hegp1dd/hegp102/layout/page_001/007_plain_text_0.84.png",
+    "text": "Try it with different types of paper and see what happens."
+}

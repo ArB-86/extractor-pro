@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.6804054379463196,
+    "bbox": [
+        291.6448059082031,
+        2263.623779296875,
+        1490.69287109375,
+        2376.867919921875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/013_plain_text_0.68.png",
+    "text": "The set of natural numbers\nN = {1,2,3, 4, 5,. . .}\nThe set of integers\nZ= {...,-3, -2, -1, 0, 1, 2, 3,...}"
+}

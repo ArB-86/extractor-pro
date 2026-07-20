@@ -1,0 +1,13 @@
+{
+    "page": 1,
+    "label": "plain_text",
+    "confidence": 0.9594792127609253,
+    "bbox": [
+        228.65599060058594,
+        1747.3748779296875,
+        1722.08935546875,
+        1971.452880859375
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_001/002_plain_text_0.96.png",
+    "text": "When\nspeak of\na coin,\nit to\nbe\nfair\nthat is, \nit is\nwe\nwe\nassume\nsymmetrical\nSO\nthat there\nis\nfor it to come\nno reason\ndown\noften\nlonone\nside than\nthe other.\nmore\nWe callt\nthis\nbeing\n\u2018unbiased'.By t\nproperty of the coin\nas\nthe phrase\nrandom toss\nthat t\nthe\n coin\niS\nallowed to f\nfall\nfreely\nwithout\nany\nbias\ninterference.\nwe\nmean\nor"
+}

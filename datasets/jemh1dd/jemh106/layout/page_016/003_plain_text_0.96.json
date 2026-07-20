@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.9636322855949402,
+    "bbox": [
+        193.57003784179688,
+        2125.597900390625,
+        1752.6944580078125,
+        2290.412353515625
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_016/003_plain_text_0.96.png",
+    "text": "Theorem\n6.4 : If in two triangles, sides of c\nonetriangle\neareproportionalto\n(i.e., in the same ratio of) the sides of the other triangle, then their corresponding\nangles are equal and hence the two triangles are similiar."
+}

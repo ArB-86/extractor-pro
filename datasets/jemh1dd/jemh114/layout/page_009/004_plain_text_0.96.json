@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.960111141204834,
+    "bbox": [
+        192.78794860839844,
+        2200.84814453125,
+        1753.3712158203125,
+        2311.59033203125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_009/004_plain_text_0.96.png",
+    "text": "Solution : Here the possible outcomes are all the numbers between O and 2. This is\nthe portion of the number line from O to 2 (see Fig. 14.1)."
+}

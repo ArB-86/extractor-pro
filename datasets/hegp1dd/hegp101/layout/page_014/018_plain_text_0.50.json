@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.5046499371528625,
+    "bbox": [
+        293.82940673828125,
+        2688.706787109375,
+        900.848876953125,
+        2751.547607421875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_014/018_plain_text_0.50.png",
+    "text": "?.\nIs 500 :\na perfect cube?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9436013102531433,
+    "bbox": [
+        193.2160186767578,
+        1671.431640625,
+        1753.5743408203125,
+        1782.7020263671875
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_006/005_plain_text_0.94.png",
+    "text": "Example 4 : One card is drawn from a well-shuffled deck of 52 cards. Calculate the\nprobability that the card will"
+}

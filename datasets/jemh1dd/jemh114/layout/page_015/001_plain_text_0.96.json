@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9614455103874207,
+    "bbox": [
+        224.71493530273438,
+        1216.208251953125,
+        1754.5625,
+        1365.257080078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_015/001_plain_text_0.96.png",
+    "text": "21. A lot consists of 144 ball pens of which 20 are defective and the others are g\ngood.Nuri\nwill buy a pen if it is good, but will not buy if it is defective. The shopkeeper draws one\npen at random and g\ngives it to her. What is the probability that"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8853338956832886,
+    "bbox": [
+        279.8427429199219,
+        813.1506958007812,
+        1588.8807373046875,
+        937.3050537109375
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_010/005_plain_text_0.89.png",
+    "text": "5\n3\n5\n1\n8.\nFind the rational number x such that:\nX+\n\u4e00\n-X+\u2014\n6\n5\n6\n2"
+}

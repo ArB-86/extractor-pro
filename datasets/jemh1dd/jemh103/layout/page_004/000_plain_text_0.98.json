@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9822085499763489,
+    "bbox": [
+        193.0684051513672,
+        2279.14892578125,
+        1755.478759765625,
+        2557.333740234375
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_004/000_plain_text_0.98.png",
+    "text": "Example 3 : Champa went to a \u2018Sale\u2032 to purchase some\npants and skirts. When her\nfriends asked her how many of each she had bought, she answered, \u201c\"The number of\nskirts is two less than twice the number of pants purchased. Also, the number of skirts\nis four less than four times the number of pants purchased'. Help her friends to find\nhowr\npants and skirts\nChampa bought.\nmanyp"
+}

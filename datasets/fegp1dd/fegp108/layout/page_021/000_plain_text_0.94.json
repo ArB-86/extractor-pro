@@ -1,0 +1,13 @@
+{
+    "page": 21,
+    "label": "plain_text",
+    "confidence": 0.9413268566131592,
+    "bbox": [
+        292.6384582519531,
+        2637.781982421875,
+        2087.29150390625,
+        2784.74365234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_021/000_plain_text_0.94.png",
+    "text": "We have seen\nn how to construct rectangles when their sides are\ngiven. But what do we do if a side and a diagonal is given?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9443079829216003,
+    "bbox": [
+        418.994384765625,
+        706.8864135742188,
+        2208.8720703125,
+        854.7075805664062
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_006/004_plain_text_0.94.png",
+    "text": "Find out how many\nnumbers have two digits, three c\ndigits, four\ndigits, and five digits."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.943071722984314,
+    "bbox": [
+        318.3395690917969,
+        1664.7403564453125,
+        941.1387939453125,
+        1905.244140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_006/002_plain_text_0.94.png",
+    "text": "(i\nx+y=5,\n2x + 2y = 10\n(i)\nx-y=8,\n3x - 3y = 16\n(i)\n2x +y-6= 0,\n4x -2y-4 =0\n(iv)\n2x-2y-2=0,\n4x-4y -5=0"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.7980701327323914,
+    "bbox": [
+        291.44403076171875,
+        2409.212158203125,
+        1559.181396484375,
+        2515.65673828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/011_plain_text_0.80.png",
+    "text": "P\nThe set of rational numbers\nQ={x: x\nZ and q \u2260 0}\nP, q E Z"
+}

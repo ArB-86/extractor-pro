@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9517257809638977,
+    "bbox": [
+        190.65670776367188,
+        1444.974609375,
+        1752.3857421875,
+        1553.3748779296875
+    ],
+    "image_path": "datasets/jemh1dd/jemh103/layout/page_007/001_plain_text_0.95.png",
+    "text": "Step 1 : We pick either of the equations and write one variable in terms of the other.\nLet us consider the Equation (2) :"
+}

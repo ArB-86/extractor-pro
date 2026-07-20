@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.734855055809021,
+    "bbox": [
+        193.1170654296875,
+        1573.130126953125,
+        1127.9234619140625,
+        1802.5662841796875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/012_plain_text_0.73.png",
+    "text": "In Venn\ndiagrams, t\nthe elements of the\nsets\nare\nwritten\nin\ntheir\ne circles\n(Figs\nrespective\n1.2\nand\n11.3)\n1.2,U= {1,2,3,\nllustration\n1 In Fig\n10}\nis the\nuniversal\nset of which"
+}

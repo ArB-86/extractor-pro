@@ -1,0 +1,13 @@
+{
+    "page": 16,
+    "label": "plain_text",
+    "confidence": 0.958053469657898,
+    "bbox": [
+        419.9956359863281,
+        1371.9163818359375,
+        2209.322021484375,
+        1513.4501953125
+    ],
+    "image_path": "datasets/fegp1dd/fegp102/layout/page_016/000_plain_text_0.96.png",
+    "text": "a fold is made, it creates a crease which is straight."
+}

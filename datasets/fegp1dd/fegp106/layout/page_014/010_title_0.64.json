@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "title",
+    "confidence": 0.638646125793457,
+    "bbox": [
+        1139.395751953125,
+        2449.974365234375,
+        1562.2054443359375,
+        2511.400390625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_014/010_title_0.64.png",
+    "text": "he\nNo\nTote\nT\ne\nea\nICl\nler's\nS"
+}

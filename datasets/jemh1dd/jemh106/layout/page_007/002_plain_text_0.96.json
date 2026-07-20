@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9564449191093445,
+    "bbox": [
+        193.75680541992188,
+        1179.20166015625,
+        1155.14453125,
+        1288.5648193359375
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_007/002_plain_text_0.96.png",
+    "text": "The\nO\nof\nany\nOM1\ncorresponding\nin\ntwo\nequiangular triangles\nis always\nthe\nsame."
+}

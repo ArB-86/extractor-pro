@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9043035507202148,
+    "bbox": [
+        503.4774475097656,
+        1696.0894775390625,
+        2102.08203125,
+        2166.39111328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp108/layout/page_012/008_plain_text_0.90.png",
+    "text": "When X is 5\nfrom A and Y is 3 cm away\nmm away\nfrom B\nXY =\ncm\nWhen Xis 1 cm away\nfrom A and Y is 1 cm away\nfrom B,\nXY =\ncm\nWhen X is 2 cm away f\nfrom A and Y is 4 cm away\nfrom B,\nXY =\nmm and so on.\ncm"
+}

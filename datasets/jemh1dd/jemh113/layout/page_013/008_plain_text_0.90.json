@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9000644683837891,
+    "bbox": [
+        195.6521759033203,
+        2143.1357421875,
+        1739.3333740234375,
+        2200.425048828125
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_013/008_plain_text_0.90.png",
+    "text": "Solution : Let us form the frequency c\ndistribution table of the given data as follows:"
+}

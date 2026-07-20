@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.9765450358390808,
+    "bbox": [
+        241.0438232421875,
+        2024.9046630859375,
+        1710.652099609375,
+        2459.6787109375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_022/000_plain_text_0.98.png",
+    "text": "The modern theory of sets is considered to have been originated largely by the\nGerman mathematician\n Georg\nCantor\n(1845-1918). His\ns papers on set theory\nappeared sometimes during 1874 to 1897. His study of set theory came when he\nwas studying t\ntrigonometric series of the form a, sin x + a, sin 2x + a, sin 3x + ..\nHe published in a paper in 1874 that the set of real numbers could not be put into\none-to-one correspondence wih the integers. From 1879\n9 onwards, he publishd\nseveral\npapers showing\nvarious\n properties of abstract sets."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8978205919265747,
+    "bbox": [
+        508.3205871582031,
+        908.6426391601562,
+        1923.4945068359375,
+        1055.4124755859375
+    ],
+    "image_path": "datasets/fegp1dd/fegp105/layout/page_010/007_plain_text_0.90.png",
+    "text": "a. 18 and 35\nb.15 \n and 37\nc. 30 a\nand 415\nd.17\nand 69\ne. 81 a\nand 18"
+}

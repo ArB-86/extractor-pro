@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.8965478539466858,
+    "bbox": [
+        194.63462829589844,
+        1246.1004638671875,
+        1452.0595703125,
+        1296.1893310546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_010/005_plain_text_0.90.png",
+    "text": "Insert the symbol c or \u03b1 between each of the following pair of sets:"
+}

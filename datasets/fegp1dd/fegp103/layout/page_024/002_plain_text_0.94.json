@@ -1,0 +1,13 @@
+{
+    "page": 24,
+    "label": "plain_text",
+    "confidence": 0.9396543502807617,
+    "bbox": [
+        294.3623046875,
+        1708.413330078125,
+        2188.64892578125,
+        1828.9517822265625
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_024/002_plain_text_0.94.png",
+    "text": "Put a circle around the smallest number and a box around the largest number in each of the\nsequencesabove."
+}

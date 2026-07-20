@@ -1,0 +1,13 @@
+{
+    "page": 19,
+    "label": "plain_text",
+    "confidence": 0.9406537413597107,
+    "bbox": [
+        304.9036560058594,
+        2287.082275390625,
+        2093.05712890625,
+        2529.710693359375
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_019/000_plain_text_0.94.png",
+    "text": "\uff1f\nWhat do you notice about the number of zeros at the end of a number and\nthe\nthe\nof its square?\nnumber\nof\nzeros at\nend\nWill\nthis\nalways\nhappen?\nCan\nwe say\nthat\nsquares\nonly\nhave\nnumber\nof\nzeros\nat\nthe\ncan\nan\neven\nend?"
+}

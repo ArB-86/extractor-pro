@@ -1,0 +1,13 @@
+{
+    "page": 22,
+    "label": "plain_text",
+    "confidence": 0.5656064748764038,
+    "bbox": [
+        434.6264343261719,
+        1215.0948486328125,
+        2212.1962890625,
+        1353.3997802734375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_022/005_plain_text_0.57.png",
+    "text": "The area of a rectangle is its length times its width. The area of a square\nis the length of any one of its sides multiplied by itself."
+}

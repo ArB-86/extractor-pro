@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.968254029750824,
+    "bbox": [
+        239.13311767578125,
+        1443.077880859375,
+        1797.0819091796875,
+        1611.074462890625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_014/004_plain_text_0.97.png",
+    "text": "Because\np\u00b2 is e\nequal\n1 to2t\ntimes\nsome\ninteger,\np2\nmust\nt be\naneven\nnumber. If the square of a number is even, the number itself must be even.\nTherefore, p is an even integer. Let us say p = 2k (where k is an integer)."
+}

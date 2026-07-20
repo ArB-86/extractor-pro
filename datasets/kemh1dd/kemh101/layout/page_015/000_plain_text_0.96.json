@@ -1,0 +1,13 @@
+{
+    "page": 15,
+    "label": "plain_text",
+    "confidence": 0.9622544646263123,
+    "bbox": [
+        191.87130737304688,
+        550.66650390625,
+        1754.712646484375,
+        775.1802978515625
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_015/000_plain_text_0.96.png",
+    "text": "1.9.2\nIntersection\nof\nsets\nThe\nintersection\nn of s\nsets A and B\n3 is the set of all elements\nwhich\n are common to both A and B. The symbol '' is used to denote the intersection.\nThe intersection of two s\nsets A and B is the set of all t\nthose e\nelements which belong\nto\nboth A and B. Symbolically, we write A  B :\n= {x: x \u2208 A andx \u2208\nB}."
+}

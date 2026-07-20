@@ -1,0 +1,13 @@
+{
+    "page": 9,
+    "label": "plain_text",
+    "confidence": 0.9532018303871155,
+    "bbox": [
+        293.6730651855469,
+        2298.3232421875,
+        2084.53662109375,
+        2443.909423828125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_009/001_plain_text_0.95.png",
+    "text": "Take different 4-digit numbers and try carrying out these steps. Find\nout what happens. Check with your friends what they got."
+}

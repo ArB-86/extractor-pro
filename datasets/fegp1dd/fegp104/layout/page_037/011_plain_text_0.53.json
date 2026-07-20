@@ -1,0 +1,13 @@
+{
+    "page": 37,
+    "label": "plain_text",
+    "confidence": 0.5315332412719727,
+    "bbox": [
+        411.1734313964844,
+        1358.32666015625,
+        1525.6258544921875,
+        1419.1611328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_037/011_plain_text_0.53.png",
+    "text": "c. Who p\npurchased\nmore\n: kites, Jasmeet or\nChaman?"
+}

@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9613116383552551,
+    "bbox": [
+        190.7779998779297,
+        892.462646484375,
+        1754.1243896484375,
+        1057.7095947265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh114/layout/page_007/000_plain_text_0.96.png",
+    "text": "Example 5 : Two players, Sangeeta and Reshma, play a tennis match. It is known\nthat the probability of Sangeeta winning the match is 0.62. What is the probability of\nReshmawinning\ng the match?"
+}

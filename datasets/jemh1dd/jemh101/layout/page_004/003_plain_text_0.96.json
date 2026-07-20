@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9592492580413818,
+    "bbox": [
+        194.6366729736328,
+        933.048095703125,
+        1752.3553466796875,
+        1043.8128662109375
+    ],
+    "image_path": "datasets/jemh1dd/jemh101/layout/page_004/003_plain_text_0.96.png",
+    "text": "Example 1 : Consider the numbers 4r, where n is a natural number. Check whether\nthere is any value of n for which 4n ends with the digit zero."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 17,
+    "label": "plain_text",
+    "confidence": 0.9286558628082275,
+    "bbox": [
+        193.91555786132812,
+        1029.8673095703125,
+        1128.2314453125,
+        1133.3643798828125
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_017/003_plain_text_0.93.png",
+    "text": "The shaded\nportion represents\nthe difference of\nthe two sets A a\nand B."
+}

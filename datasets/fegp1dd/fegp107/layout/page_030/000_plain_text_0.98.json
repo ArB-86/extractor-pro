@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.975756824016571,
+    "bbox": [
+        419.6495666503906,
+        904.317626953125,
+        2211.1328125,
+        1193.24365234375
+    ],
+    "image_path": "datasets/fegp1dd/fegp107/layout/page_030/000_plain_text_0.98.png",
+    "text": "To\nsolve\nthis\nproblem,\nagain\nthe\nrectangular\nstrips.\nwe\ncan\nuse\nsame, i.e.,\nboth\nfractions, t\nthe\nfractional\nis\nthe\n1.\nIn\nunit\nLet\n us\nfirst\nthe\nbigger\nfraction\nusing\nrepresent\nrectangular\nstrip\na\nmodel\nas\nshown:"
+}

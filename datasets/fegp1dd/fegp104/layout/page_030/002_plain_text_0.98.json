@@ -1,0 +1,13 @@
+{
+    "page": 30,
+    "label": "plain_text",
+    "confidence": 0.9806603789329529,
+    "bbox": [
+        295.6576843261719,
+        395.0048522949219,
+        2087.206787109375,
+        840.30712890625
+    ],
+    "image_path": "datasets/fegp1dd/fegp104/layout/page_030/002_plain_text_0.98.png",
+    "text": "In general, it is more i\nintuitive, suggestive and\nd visuallya\nappealing\nto represent heights, that are measured\nupwards from the\nground,\nusing\nbar\nthat have\nbars or\ncolumns. Similarly,\ngraphs\nt\nvertical\nlengths\nthat are\nparallel to t\nthe\nground\n(for\nS1\nexample, distances\nbetween location on Earth)\nare usually best represented using\nbar\ngraphs with horizontal a\narcs."
+}

@@ -1,0 +1,13 @@
+{
+    "page": 11,
+    "label": "plain_text",
+    "confidence": 0.6463798880577087,
+    "bbox": [
+        288.81219482421875,
+        1534.6624755859375,
+        1750.2081298828125,
+        1647.468505859375
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_011/010_plain_text_0.65.png",
+    "text": "[ a, b ) = {x : a \u2264 x < b} is an open interval from a to b, including a but excluding\nb\n(a, b ]= {x : a <x\u2264 b } is an open interval from a to b including b but excluding\nn"
+}

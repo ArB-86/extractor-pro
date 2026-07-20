@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.8022649884223938,
+    "bbox": [
+        422.98773193359375,
+        2827.256591796875,
+        2083.897216796875,
+        2978.40283203125
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_012/008_plain_text_0.80.png",
+    "text": "2. Write down the above 3 marked negative numbers in the following\nboxes:"
+}

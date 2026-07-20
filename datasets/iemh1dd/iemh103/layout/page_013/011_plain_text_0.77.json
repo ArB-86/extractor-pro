@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.7685719728469849,
+    "bbox": [
+        280.147216796875,
+        620.916748046875,
+        1590.964111328125,
+        680.9976806640625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_013/011_plain_text_0.77.png",
+    "text": "5.\nFind three rational numbers between 3.1415 and 3.1416."
+}

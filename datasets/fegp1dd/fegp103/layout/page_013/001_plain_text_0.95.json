@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.9542129039764404,
+    "bbox": [
+        452.9826965332031,
+        394.0845642089844,
+        1907.24169921875,
+        612.7432861328125
+    ],
+    "image_path": "datasets/fegp1dd/fegp103/layout/page_013/001_plain_text_0.95.png",
+    "text": "Could\nyou\nfind\nexamples\nfor\nall\nthe cases? If\nnot, think\nand\ndiscuss what could be the reason. Make other such c\nquestions\nand challenge your\nclassmates."
+}

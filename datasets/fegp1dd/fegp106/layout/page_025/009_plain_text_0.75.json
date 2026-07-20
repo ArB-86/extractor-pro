@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.7522091865539551,
+    "bbox": [
+        297.7184753417969,
+        1475.26708984375,
+        1255.36083984375,
+        1536.9876708984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_025/009_plain_text_0.75.png",
+    "text": "Ans.\nWidth of the garden = 300 \u00f7 25 = 12\n m."
+}

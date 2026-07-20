@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9608924984931946,
+    "bbox": [
+        193.06297302246094,
+        2101.626220703125,
+        1062.837646484375,
+        2209.80078125
+    ],
+    "image_path": "datasets/jemh1dd/jemh108/layout/page_002/005_plain_text_0.96.png",
+    "text": "Let us take a right triangle ABC\nas shown\nin Fig. 8.4."
+}

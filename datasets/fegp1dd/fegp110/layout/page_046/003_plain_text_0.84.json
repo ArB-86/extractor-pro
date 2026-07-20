@@ -1,0 +1,13 @@
+{
+    "page": 46,
+    "label": "plain_text",
+    "confidence": 0.8427976965904236,
+    "bbox": [
+        293.2959289550781,
+        2016.8175048828125,
+        2083.958251953125,
+        2138.626708984375
+    ],
+    "image_path": "datasets/fegp1dd/fegp110/layout/page_046/003_plain_text_0.84.png",
+    "text": "Q.1. Compare the following numbers using the Building of Fun and fill in the boxes\nWith < or >."
+}

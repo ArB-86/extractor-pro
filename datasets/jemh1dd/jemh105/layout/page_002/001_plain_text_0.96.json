@@ -1,0 +1,13 @@
+{
+    "page": 2,
+    "label": "plain_text",
+    "confidence": 0.9607861042022705,
+    "bbox": [
+        225.6697998046875,
+        1147.90087890625,
+        1755.2698974609375,
+        1323.1417236328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_002/001_plain_text_0.96.png",
+    "text": "Shakila puts  100 into her daughter's money\nbox when she was one year old\nand increased the amount by ? 50 every year. The amounts of money\n(in ?) in the\nbox on the 1st, 2nd, 3rd, 4th, . . . birthday were"
+}

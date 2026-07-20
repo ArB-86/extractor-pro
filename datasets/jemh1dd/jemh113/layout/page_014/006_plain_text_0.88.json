@@ -1,0 +1,13 @@
+{
+    "page": 14,
+    "label": "plain_text",
+    "confidence": 0.8782480955123901,
+    "bbox": [
+        192.29513549804688,
+        2496.89990234375,
+        1126.0997314453125,
+        2550.174072265625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_014/006_plain_text_0.88.png",
+    "text": "Now, let us substitute these values in the formula :"
+}

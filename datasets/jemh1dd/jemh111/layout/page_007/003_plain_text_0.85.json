@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.8542870879173279,
+    "bbox": [
+        245.40057373046875,
+        883.3017578125,
+        1622.0770263671875,
+        1005.1494140625
+    ],
+    "image_path": "datasets/jemh1dd/jemh111/layout/page_007/003_plain_text_0.85.png",
+    "text": "3. Area of segment of a circle\n= Area of the corresponding sector - Area of the corresponding triangle."
+}

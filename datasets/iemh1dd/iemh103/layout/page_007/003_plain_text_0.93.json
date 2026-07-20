@@ -1,0 +1,13 @@
+{
+    "page": 7,
+    "label": "plain_text",
+    "confidence": 0.9301952719688416,
+    "bbox": [
+        299.3803405761719,
+        2345.240234375,
+        1799.44091796875,
+        2572.6884765625
+    ],
+    "image_path": "datasets/iemh1dd/iemh103/layout/page_007/003_plain_text_0.93.png",
+    "text": "P\nThe common understanding is that when we say that\nis a rational\nq\nd\nnumber, or when we represent\non\nthe\ne number\nline, we a\nassume\nq\nthat\n0\nand\nthat\n\u2260\np\nand\nb\nhave\nfactors\nb\nno\ncommon\nother\nthan"
+}

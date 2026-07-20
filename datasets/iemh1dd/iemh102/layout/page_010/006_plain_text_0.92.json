@@ -1,0 +1,13 @@
+{
+    "page": 10,
+    "label": "plain_text",
+    "confidence": 0.9211904406547546,
+    "bbox": [
+        348.2571105957031,
+        1509.4698486328125,
+        1798.0758056640625,
+        1841.9783935546875
+    ],
+    "image_path": "datasets/iemh1dd/iemh102/layout/page_010/006_plain_text_0.92.png",
+    "text": "(i)\nFind the height after 7 months.\n(ii)\nMake a table of values for t varying\ng from 0 to 10 months and\nshow how the height, h, increases every r\nmonth.\n(iii)\nFind\nan expression\nthat relates h and t, and explain why it\nrepresents linear\ngrowth."
+}

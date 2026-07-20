@@ -1,0 +1,13 @@
+{
+    "page": 13,
+    "label": "plain_text",
+    "confidence": 0.927646279335022,
+    "bbox": [
+        193.23928833007812,
+        1886.390625,
+        1110.0546875,
+        1993.9783935546875
+    ],
+    "image_path": "datasets/kemh1dd/kemh101/layout/page_013/002_plain_text_0.93.png",
+    "text": "llustration\n12 In Fig\n1.3, U= {1,2,3, ..,.\n10} is the\nuniversal set of which"
+}

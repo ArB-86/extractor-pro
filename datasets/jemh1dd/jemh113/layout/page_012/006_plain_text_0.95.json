@@ -1,0 +1,13 @@
+{
+    "page": 12,
+    "label": "plain_text",
+    "confidence": 0.9513770341873169,
+    "bbox": [
+        246.43865966796875,
+        1800.3477783203125,
+        1755.44189453125,
+        1899.086181640625
+    ],
+    "image_path": "datasets/jemh1dd/jemh113/layout/page_012/006_plain_text_0.95.png",
+    "text": "7. To find out the concentration of SO, in the air\nr (in parts per million, i.e., ppm), the data\nwas collected for 30 localities in a certain city and is presented below:"
+}

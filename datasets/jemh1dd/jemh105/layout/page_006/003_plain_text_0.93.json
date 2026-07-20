@@ -1,0 +1,13 @@
+{
+    "page": 6,
+    "label": "plain_text",
+    "confidence": 0.9314009547233582,
+    "bbox": [
+        192.32809448242188,
+        1171.291015625,
+        1753.6630859375,
+        1283.0323486328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh105/layout/page_006/003_plain_text_0.93.png",
+    "text": "Example 2 : Which of the following list of numbers form an AP? If they form an AP,\nwrite the next two terms :"
+}

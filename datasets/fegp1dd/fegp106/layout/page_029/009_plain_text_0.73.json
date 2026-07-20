@@ -1,0 +1,13 @@
+{
+    "page": 29,
+    "label": "plain_text",
+    "confidence": 0.727634072303772,
+    "bbox": [
+        412.5657653808594,
+        1948.682861328125,
+        1083.053955078125,
+        2008.140625
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_029/009_plain_text_0.73.png",
+    "text": "Draw\nthe rectangles accordingly."
+}

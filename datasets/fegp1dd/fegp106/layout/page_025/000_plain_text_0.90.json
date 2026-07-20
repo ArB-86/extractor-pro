@@ -1,0 +1,13 @@
+{
+    "page": 25,
+    "label": "plain_text",
+    "confidence": 0.9005913734436035,
+    "bbox": [
+        327.808837890625,
+        603.7119140625,
+        2188.072509765625,
+        793.5667724609375
+    ],
+    "image_path": "datasets/fegp1dd/fegp106/layout/page_025/000_plain_text_0.90.png",
+    "text": "Q. Find various objects from your surroundings that have regular shapes and find\ntheir perimeters. Also, generalise your understanding for the perimeter of other\nregular polygons."
+}

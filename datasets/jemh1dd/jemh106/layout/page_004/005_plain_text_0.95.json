@@ -1,0 +1,13 @@
+{
+    "page": 4,
+    "label": "plain_text",
+    "confidence": 0.9549459218978882,
+    "bbox": [
+        193.1443328857422,
+        1656.860595703125,
+        1751.927978515625,
+        1764.3526611328125
+    ],
+    "image_path": "datasets/jemh1dd/jemh106/layout/page_004/005_plain_text_0.95.png",
+    "text": "lieson\nOC and D' lies on OD. Thus, quadrilaterals A'B'C'D'\nandABCD\nare of the\nsame shape but of different sizes."
+}

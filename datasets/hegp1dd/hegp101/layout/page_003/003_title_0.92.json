@@ -1,0 +1,13 @@
+{
+    "page": 3,
+    "label": "title",
+    "confidence": 0.9160026907920837,
+    "bbox": [
+        381.5242919921875,
+        987.8875732421875,
+        1067.858154296875,
+        1063.317138671875
+    ],
+    "image_path": "datasets/hegp1dd/hegp101/layout/page_003/003_title_0.92.png",
+    "text": "1.1 Square Numbers"
+}
